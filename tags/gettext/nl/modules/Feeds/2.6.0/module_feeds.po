@@ -1,0 +1,412 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Dutch translation for Feeds 2.6.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-21 21:08+0000\n"
+"PO-Revision-Date: 2011-07-25 00:32+0200\n"
+"Last-Translator: Erik <erik.spaan@gmail.com>\n"
+"Language-Team: Dutch Zikula Community\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: bootstrap.php:16
+msgid "Fatal error: SimplePie system plugin is not available"
+msgstr "Foutmelding! SimplePie systeem plugin is niet beschikbaar"
+
+#: lib/Feeds/Api/User.php:70 lib/Feeds/Api/Search.php:65
+#: lib/Feeds/Api/Search.php:92
+msgid "Error! Could not load any Feed."
+msgstr "Foutmelding! Geen feed kunnen laden."
+
+#: lib/Feeds/Api/Admin.php:31 lib/Feeds/Api/Admin.php:117
+msgid "The provided URL is too long (200 chars max.)."
+msgstr "De opgegeven URL is te lang (Max. 200 karakters)"
+
+#: lib/Feeds/Api/Admin.php:37 lib/Feeds/Api/Admin.php:123
+msgid "Invalid protocol selected. Only http and https are allowed."
+msgstr "Ongeldig protocol geselecteerd. Alleen http en https zijn toegestaan."
+
+#: lib/Feeds/Api/Admin.php:46
+msgid "Error! Creation attempt failed."
+msgstr "Foutmelding! Aanmaak poging mislukt."
+
+#: lib/Feeds/Api/Admin.php:69 lib/Feeds/Api/Admin.php:104
+#: lib/Feeds/Controller/Admin.php:82 lib/Feeds/Controller/Admin.php:143
+msgid "No such Feed found."
+msgstr "Geen feed gevonden."
+
+#: lib/Feeds/Api/Admin.php:78
+msgid "Error! Deletion attempt failed."
+msgstr "Foutmelding! Verwijder poging mislukt."
+
+#: lib/Feeds/Api/Admin.php:132 lib/Feeds/Installer.php:80
+#: lib/Feeds/Installer.php:87 lib/Feeds/Installer.php:100
+#: lib/Feeds/Installer.php:111
+msgid "Error! Update attempt failed."
+msgstr "Foutmelding! Update poging mislukt."
+
+#: lib/Feeds/Api/Admin.php:199
+msgid "List Feeds"
+msgstr "Bekijk feeds lijst"
+
+#: lib/Feeds/Api/Admin.php:205
+msgid "Create a Feed"
+msgstr "Feed aanmaken"
+
+#: lib/Feeds/Api/Admin.php:211
+msgid "Purge PermaLinks"
+msgstr "Permalinks opschonen"
+
+#: lib/Feeds/Api/Admin.php:215 templates/admin/modifyconfig.tpl:4
+msgid "Settings"
+msgstr "Instellingen"
+
+#: lib/Feeds/Installer.php:39
+msgid ""
+"Warning! Could not create the default Feeds category tree. If you want to "
+"use categorisation with Feeds, register at least one property for the module "
+"in the Category Registry."
+msgstr ""
+"Let op: De standaard categorie-structuur voor de Feeds module kon niet "
+"worden aangemaakt. Indien er gebruik gemaakt gaat worden van categorisatie "
+"binnen de Feeds module, dient tenminste 1 categorie-eigenschap te worden "
+"geregistreerd voor de Feeds module in het categorie-register."
+
+#: lib/Feeds/Installer.php:195 lib/Feeds/Version.php:14
+#: templates/search/options.tpl:3
+msgid "Feeds"
+msgstr "Feeds"
+
+#: lib/Feeds/Installer.php:196
+msgid "Feed Reader."
+msgstr "Feed lezer"
+
+#: lib/Feeds/Controller/User.php:71 lib/Feeds/Controller/User.php:227
+#: lib/Feeds/Controller/User.php:255
+msgid "Invalid category"
+msgstr "Ongeldige categorie"
+
+#: lib/Feeds/Controller/User.php:110 lib/Feeds/Controller/User.php:263
+#: lib/Feeds/Controller/User.php:319 templates/admin/view.tpl:75
+msgid "No Feeds found."
+msgstr "Geen feeds gevonden."
+
+#: lib/Feeds/Controller/User.php:178
+msgid "Error! Could not load any Feeds."
+msgstr "Foutmelding! Geen feeds kunnen laden."
+
+#: lib/Feeds/Controller/User.php:313
+msgid "Incorrect Key given. No update performed."
+msgstr "Incorrecte Key opgegeven. Geen update uitgevoerd."
+
+#: lib/Feeds/Controller/User.php:338
+msgid "Items updated in Feed cache"
+msgstr "Bijgewerkte items in de Feed cache:"
+
+#: lib/Feeds/Controller/User.php:340
+msgid "Error"
+msgstr "Foutmelding"
+
+#: lib/Feeds/Controller/Admin.php:57
+msgid "Done! Feed created."
+msgstr "Klaar! Feed aangemaakt."
+
+#: lib/Feeds/Controller/Admin.php:119
+msgid "Done! Feed updated."
+msgstr "Klaar! Feed bijgewerkt."
+
+#: lib/Feeds/Controller/Admin.php:165
+msgid "Done! Feed deleted."
+msgstr "Klaar! Feed verwijderd."
+
+#: lib/Feeds/Controller/Admin.php:186
+msgid "Purging of the pemalinks was successful"
+msgstr "Opschonen van de permalinks is geslaagd"
+
+#: lib/Feeds/Controller/Admin.php:188
+msgid "Purging of the pemalinks has failed"
+msgstr "Opschonen van de permalinks is mislukt"
+
+#: lib/Feeds/Controller/Admin.php:238
+msgid "Edit"
+msgstr "Bewerken"
+
+#: lib/Feeds/Controller/Admin.php:243
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: lib/Feeds/Controller/Admin.php:329
+msgid "Done! Module configuration updated."
+msgstr "Klaar! Module configuratie bijgewerkt."
+
+#: lib/Feeds/Version.php:15
+msgid "The Feeds module provides a feed reader to your website."
+msgstr ""
+"De Feeds module is een feed-reader die in de website geïntegreerd kan "
+"worden."
+
+#. !module name that appears in URL
+#: lib/Feeds/Version.php:16
+msgid "feeds"
+msgstr "feeds"
+
+#: lib/Feeds/Block/Displayfeed.php:28
+msgid "Display feed"
+msgstr "Feed weergeven"
+
+#: lib/Feeds/Block/Displayfeed.php:29
+msgid "Show a feed item"
+msgstr "Toon een feed item"
+
+#: templates/admin/newfeed.tpl:4
+msgid "Create a feed"
+msgstr "Feed aanmaken"
+
+#: templates/admin/newfeed.tpl:10
+msgid "New Feed"
+msgstr "Feed aanmaken"
+
+#: templates/admin/newfeed.tpl:13 templates/admin/modify.tpl:14
+#: templates/admin/view.tpl:47
+msgid "Name"
+msgstr "Naam"
+
+#: templates/admin/newfeed.tpl:17 templates/admin/modify.tpl:35
+msgid "PermaLink URL title"
+msgstr "Permalink URL titel"
+
+#: templates/admin/newfeed.tpl:19 templates/admin/modify.tpl:37
+msgid "(Blank = auto-generate)"
+msgstr "(Automatisch gegenereerd indien leeg)"
+
+#: templates/admin/newfeed.tpl:23 templates/admin/modify.tpl:19
+#: templates/admin/view.tpl:12 templates/admin/view.tpl:50
+msgid "Category"
+msgstr "Categorie"
+
+#: templates/admin/newfeed.tpl:24 templates/admin/modify.tpl:20
+#: templates/admin/view.tpl:13
+msgid "Choose a category"
+msgstr "Kies een categorie"
+
+#: templates/admin/newfeed.tpl:33 templates/admin/modify.tpl:40
+#: templates/admin/view.tpl:48 templates/user/display.tpl:21
+msgid "URL"
+msgstr "URL"
+
+#: templates/admin/newfeed.tpl:39 templates/admin/modify.tpl:57
+#: templates/admin/modifyconfig.tpl:64
+msgid "Save"
+msgstr "Opslaan"
+
+#: templates/admin/newfeed.tpl:40 templates/admin/modify.tpl:58
+#: templates/admin/delete.tpl:16 templates/admin/modifyconfig.tpl:65
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: templates/admin/modify.tpl:4
+msgid "Update feed"
+msgstr "Feed bijwerken"
+
+#: templates/admin/modify.tpl:12
+msgid "Content"
+msgstr "Inhoud"
+
+#: templates/admin/modify.tpl:45
+msgid "Meta data"
+msgstr "Meta data"
+
+#: templates/admin/modify.tpl:48
+#, php-format
+msgid "Created by %s"
+msgstr "Aangemaakt door %s"
+
+#: templates/admin/modify.tpl:49
+#, php-format
+msgid "Created on %s"
+msgstr "Aangemaakt op %s"
+
+#: templates/admin/modify.tpl:51
+#, php-format
+msgid "Last update by %s"
+msgstr "Laatste aanpassing door %s"
+
+#: templates/admin/modify.tpl:52
+#, php-format
+msgid "Updated on %s"
+msgstr "Aangepast op %s"
+
+#: templates/admin/view.tpl:5
+msgid "View feeds"
+msgstr "Bekijk feeds"
+
+#: templates/admin/view.tpl:36
+msgid "Filter"
+msgstr "Filter"
+
+#: templates/admin/view.tpl:37
+msgid "Reset"
+msgstr "Reset"
+
+#: templates/admin/view.tpl:52
+msgid "Actions"
+msgstr "Acties"
+
+#: templates/admin/delete.tpl:4
+msgid "Delete feed"
+msgstr "Feed verwijderen"
+
+#: templates/admin/delete.tpl:14
+msgid "Do you really want to delete this Feed?"
+msgstr "Dient deze Feed echt verwijderd te worden?"
+
+#: templates/admin/delete.tpl:15
+msgid "Confirm deletion?"
+msgstr "Bevestig verwijdering?"
+
+#: templates/admin/modifyconfig.tpl:11
+msgid "General Settings"
+msgstr "Algemene instellingen"
+
+#: templates/admin/modifyconfig.tpl:13
+msgid "Enable categorization"
+msgstr "Categorisatie aanzetten"
+
+#: templates/admin/modifyconfig.tpl:17
+msgid "Display item names in bold"
+msgstr "Toon item namen vetgedrukt"
+
+#: templates/admin/modifyconfig.tpl:21
+msgid "Open links in new browser window"
+msgstr "Open links in een nieuw venster"
+
+#: templates/admin/modifyconfig.tpl:25
+msgid "Items per page"
+msgstr "Items per pagina"
+
+#: templates/admin/modifyconfig.tpl:29
+msgid "Number of feeds to list per page"
+msgstr "Aantal weer te geven feeds per pagina"
+
+#: templates/admin/modifyconfig.tpl:33
+msgid "Maximum items to add per feed"
+msgstr "Maximaal aantal toe te voegen items per feed"
+
+#: templates/admin/modifyconfig.tpl:35
+msgid "for combined feeds (0 to add all)"
+msgstr "voor gecombineerde feeds (0 om alle items toe te voegen)"
+
+#: templates/admin/modifyconfig.tpl:39
+msgid "Cache Settings"
+msgstr "Cache instellingen"
+
+#: templates/admin/modifyconfig.tpl:41
+msgid "Cache directory for feeds"
+msgstr "Cache directory voor feeds"
+
+#: templates/admin/modifyconfig.tpl:43
+#, php-format
+msgid "(relative to [%s])"
+msgstr "(relatief tot [%s])"
+
+#: templates/admin/modifyconfig.tpl:46
+msgid "Cache interval for feeds"
+msgstr "Cache interval voor feeds"
+
+#: templates/admin/modifyconfig.tpl:48
+msgid "in seconds (3600 = 1 hour)"
+msgstr "in seconden (3600 = 1 uur)"
+
+#: templates/admin/modifyconfig.tpl:52
+msgid "Cron Job Settings"
+msgstr "Cron Job instellingen"
+
+#: templates/admin/modifyconfig.tpl:54
+msgid "Using a Cron Job to update the cache"
+msgstr "De feed dient te worden bijgewerkt middels een Cron Job"
+
+#: templates/admin/modifyconfig.tpl:56
+msgid "(see instructions)"
+msgstr " (zie instructies)"
+
+#: templates/admin/modifyconfig.tpl:59
+msgid "Link for using a Cron Job"
+msgstr "Link voor het gebruiken van een Cron Job"
+
+#: templates/user/display.tpl:17 templates/block/displayfeed_modify.tpl:2
+msgid "Feed"
+msgstr "Feed"
+
+#: templates/user/display.tpl:40 templates/user/category.tpl:37
+#, php-format
+msgid "by %s"
+msgstr "door %s"
+
+#: templates/user/display.tpl:46 templates/user/category.tpl:44
+msgid "Read more"
+msgstr "Lees verder"
+
+#: templates/user/category.tpl:7 templates/user/category.tpl:9
+#: templates/user/view.tpl:26
+#, php-format
+msgid "Category: %s"
+msgstr "Categorie: %s"
+
+#: templates/user/view.tpl:5
+#, php-format
+msgid "Welcome to the Feeds of %s"
+msgstr "Welkom bij de feeds van %s"
+
+#: templates/user/view.tpl:8
+msgid "Choose a category to see the Feeds that belongs to it"
+msgstr "Kies een categorie om de feeds te zien die daar toe behoren"
+
+#: templates/user/view.tpl:29
+msgid "The Feeds of this category are as follows:"
+msgstr "De feeds van deze categorie zijn:"
+
+#: templates/user/view.tpl:31
+msgid "View all feeds"
+msgstr "Bekijk alle feeds"
+
+#: templates/user/view.tpl:34
+msgid "Feeds list"
+msgstr "Feeds overzicht"
+
+#: templates/user/view.tpl:37
+msgid "Available feeds"
+msgstr "Beschikbare feeds"
+
+#: templates/block/displayfeed_modify.tpl:9
+msgid "Display feed image"
+msgstr "Toon feed afbeelding"
+
+#: templates/block/displayfeed_modify.tpl:11
+#: templates/block/displayfeed_modify.tpl:17
+msgid "(if available in feed)"
+msgstr "(indien deze in de feed beschikbaar is)"
+
+#: templates/block/displayfeed_modify.tpl:15
+msgid "Display feed description"
+msgstr "Toon feed beschrijving"
+
+#: templates/block/displayfeed_modify.tpl:21
+msgid "Use alternate layout"
+msgstr "Gebruik alternatieve vormgeving"
+
+#: templates/block/displayfeed_modify.tpl:26
+msgid "Number of items to display"
+msgstr "Aantal te tonen items"
+
+#: templates/block/displayfeed_modify.tpl:28
+msgid "(upto the maximum supplied by the feed or -1 for all items)"
+msgstr "(tot het maximum beschikbaar in de feed of -1 voor alle items)"

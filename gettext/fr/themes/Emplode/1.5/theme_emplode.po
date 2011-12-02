@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-02-12 13:41+0000\n"
+"PO-Revision-Date: 2010-02-15 09:50+0200\n"
+"Last-Translator: Gilles <gilles@pilloud.fr>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: version.php:4
+msgid "Emplode"
+msgstr "Emplode"
+
+#: version.php:5
+msgid "A clean and simple two-column template."
+msgstr "Un template simple et propre de deux colonnes."
+
+#: templates/includes/footer.htm:5
+msgid ""
+"<a href=\"http://www.zikula.org\">Zikula</a> theme by <a href=\"http://www."
+"postnuke-themes.de\">Charlie</a>"
+msgstr ""
+"Un thème <a href=\"http://www.zikula.org\">Zikula</a> de <a href=\"http://"
+"www.postnuke-themes.de\">Charlie</a>"
+
+#: templates/admin.htm:11 templates/admin.htm:26 templates/master.htm:11
+#: templates/master.htm:26 templates/home.htm:11 templates/home.htm:26
+#: templates/forum.htm:11 templates/forum.htm:26
+msgid "Home"
+msgstr "Accueil"
+
+#: templates/admin.htm:12 templates/admin.htm:27 templates/master.htm:12
+#: templates/master.htm:27 templates/home.htm:12 templates/home.htm:27
+#: templates/forum.htm:12 templates/forum.htm:27
+msgid "News"
+msgstr "Nouvelles"
+
+#: templates/admin.htm:13 templates/admin.htm:28 templates/master.htm:13
+#: templates/master.htm:28 templates/home.htm:13 templates/home.htm:28
+#: templates/forum.htm:13 templates/forum.htm:28
+msgid "Forum"
+msgstr "Forum"
+
+#: templates/admin.htm:29 templates/master.htm:29 templates/home.htm:29
+#: templates/forum.htm:29
+msgid "Contact"
+msgstr "Contact"
+
+#: templates/modules/News/news_user_index.htm:4
+#: templates/modules/News/news_user_articlecontent.htm:4
+msgid "Posted by"
+msgstr "Envoyé par"
+
+#: templates/modules/News/news_user_index.htm:5
+#: templates/modules/News/news_user_articlecontent.htm:5
+msgid "on"
+msgstr "sur"
+
+#: templates/modules/News/news_user_index.htm:14
+#: templates/modules/News/news_user_articlecontent.htm:12
+msgid "Filed under"
+msgstr "Classé sous"

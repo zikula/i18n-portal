@@ -1,0 +1,895 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Dutch Translation for Advanced Polls 2.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-25 18:13+0000\n"
+"PO-Revision-Date: 2010-06-02 13:39+0200\n"
+"Last-Translator: Arjen <teb@zikula.nl>\n"
+"Language-Team: Dutch Zikula Community\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnadmin.php:50 pnadmin.php:136 pnadmin.php:273 pnuserapi.php:95
+#: pnuser.php:70
+#, php-format
+msgid "Error! Unable to load class [%s]"
+msgstr "Foutmelding: Kon class [%s] niet laden"
+
+#: pnadmin.php:94
+msgid "Done! Poll created."
+msgstr "Peiling aangemaakt."
+
+#: pnadmin.php:116 pnadmin.php:207 pnadmin.php:579 pnuserapi.php:216
+#: pnuserapi.php:258 pnuserapi.php:345 pnuserapi.php:404 pnuser.php:235
+#: pnadminapi.php:93 pnadminapi.php:144 pnadminapi.php:229 pnadminapi.php:284
+#: pnadminapi.php:357
+msgid "Error! No such poll found."
+msgstr "Foutmelding: Peiling niet gevonden."
+
+#: pnadmin.php:179
+msgid "Done! Poll updated."
+msgstr "Peiling bijgewerkt."
+
+#: pnadmin.php:239
+msgid "Done! Poll deleted."
+msgstr "Peiling verwijderd."
+
+#: pnadmin.php:312 pnuser.php:155 pnuser.php:169 pnuser.php:183
+msgid "Edit"
+msgstr "Bewerken"
+
+#: pnadmin.php:316 pntemplates/advancedpolls_admin_delete.htm:16
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: pnadmin.php:320 pntemplates/advancedpolls_admin_resetvotes.htm:3
+msgid "Reset votes"
+msgstr "Stemmen terugzetten"
+
+#: pnadmin.php:323 pntemplates/advancedpolls_admin_duplicate.htm:3
+#: pntemplates/advancedpolls_admin_duplicate.htm:16
+msgid "Duplicate poll"
+msgstr "Peiling dupliceren"
+
+#: pnadmin.php:326
+msgid "Voting statistics"
+msgstr "Stemming-statistieken"
+
+#: pnadmin.php:441
+msgid "Done! Module configuration updated."
+msgstr "Module configuratie bijgewerkt."
+
+#: pnadmin.php:486
+msgid "Done! Votes reset."
+msgstr "Stemmen teruggezet."
+
+#: pnadmin.php:611
+msgid "Done! Poll duplicated."
+msgstr "Peiling gedupliceerd."
+
+#: pnajax.php:31
+msgid "Error! No authorization to access this module."
+msgstr "Foutmelding: Geen toegang om deze module te benaderen."
+
+#: pnajax.php:35
+msgid ""
+"Invalid 'Authkey': This probably means that you pressed the 'Back' button, "
+"or that the page 'Authkey' expired. Please refresh the page and try again."
+msgstr ""
+"Ongeldige autorisatie-sleutel ('authkey'). Mogelijke oorzaken hiervoor zijn "
+"het gebruik van de 'Terug' knop in de browser (waar het formulier dat niet "
+"ondersteunt), of het verlopen van deze autorisatie sleutel door bijvoorbeeld "
+"te lange inactiviteit en openen van nieuwe browser vensters. Vernieuw de "
+"pagina en probeer het opnieuw."
+
+#: pnversion.php:14 pninit.php:175 pntemplates/advancedpolls_user_menu.htm:3
+msgid "Advanced Polls"
+msgstr "Uitgebreide Peilingen"
+
+#: pnversion.php:15
+msgid "A comprehensive single question polling module"
+msgstr ""
+"Een module voor het maken van uitgebreide peilingen met slechts 1 vraag"
+
+#: pnversion.php:16
+msgid "advancedpolls"
+msgstr "peilingenuitgebreid"
+
+#: pntemplates/plugins/function.sortbytypes.php:23
+#: pntemplates/advancedpolls_admin_adminstats.htm:34
+msgid "Vote ID"
+msgstr "Stem ID"
+
+#: pntemplates/plugins/function.sortbytypes.php:24
+#: pntemplates/advancedpolls_admin_adminstats.htm:35
+msgid "IP address"
+msgstr "IP adres"
+
+#: pntemplates/plugins/function.sortbytypes.php:25
+#: pntemplates/advancedpolls_admin_adminstats.htm:36
+msgid "Time"
+msgstr "Tijdstip"
+
+#: pntemplates/plugins/function.sortbytypes.php:26
+#: pntemplates/advancedpolls_admin_adminstats.htm:37
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: pntemplates/plugins/function.sortbytypes.php:27
+#: pntemplates/advancedpolls_admin_adminstats.htm:38
+msgid "Vote rank"
+msgstr "Stem orde"
+
+#: pntemplates/plugins/function.sortbytypes.php:28
+#: pntemplates/advancedpolls_admin_adminstats.htm:39
+msgid "Option"
+msgstr "Optie"
+
+#: pntemplates/plugins/function.multipleselecttypes.php:23
+msgid "Single"
+msgstr "Enkel"
+
+#: pntemplates/plugins/function.multipleselecttypes.php:24
+msgid "Multiple"
+msgstr "Meerdere"
+
+#: pntemplates/plugins/function.multipleselecttypes.php:25
+msgid "Ranked"
+msgstr "Op rang"
+
+#: pntemplates/plugins/function.votingtypes.php:23
+msgid "Free"
+msgstr "Vrij"
+
+#: pntemplates/plugins/function.votingtypes.php:24
+msgid "User ID"
+msgstr "Gebruikers ID"
+
+#: pntemplates/plugins/function.votingtypes.php:25
+msgid "Cookie"
+msgstr "Cookie"
+
+#: pntemplates/plugins/function.votingtypes.php:26
+msgid "IP Address"
+msgstr "IP Adres"
+
+#: pntemplates/plugins/function.sortordertypes.php:23
+msgid "Ascending"
+msgstr "Oplopend"
+
+#: pntemplates/plugins/function.sortordertypes.php:24
+msgid "Descending"
+msgstr "Aflopend"
+
+#: pntemplates/plugins/function.tiebreaktypes.php:23
+msgid "None"
+msgstr "Geen"
+
+#: pntemplates/plugins/function.tiebreaktypes.php:24
+msgid "Vote time count back"
+msgstr "Terugtellen van stem-tijdstip"
+
+#: pntemplates/plugins/function.tiebreaktypes.php:25
+msgid "Alphabetical"
+msgstr "Alfabetisch"
+
+#: pnuserapi.php:88
+msgid "Error! Could not load polls."
+msgstr "Foutmelding: Kon peilingen niet laden."
+
+#: pnuserapi.php:321
+msgid "Error! No poll authorisation method."
+msgstr "Foutmelding: Geen autorisatie methode voor de peiling."
+
+#: pnuserapi.php:365
+msgid "Error! Reseting the votes of a recurring poll failed."
+msgstr ""
+"Foutmelding: Kon stemmen van een terugkerende peiling niet terugzetten."
+
+#: pnuserapi.php:382
+msgid "Error! Reseting the dates of a recurring poll failed."
+msgstr ""
+"Foutmelding: Kon de datums van een terugkerende peiling niet terugzetten."
+
+#: pnuserapi.php:495
+msgid "Error! Failed to register vote."
+msgstr "Foutmelding: Kon stem niet opslaan."
+
+#: pnblocks/polllist.php:31
+msgid "Poll list"
+msgstr "Lijst van peilingen"
+
+#: pnblocks/polllist.php:32
+msgid "Display list of open polls"
+msgstr "Toon een lijst van lopende peilingen"
+
+#: pnblocks/pollwarn.php:30
+msgid "Poll warn"
+msgstr "Peiling herinnering"
+
+#: pnblocks/pollwarn.php:31
+msgid "Warns if poll is unanswered"
+msgstr "Waarschuwt als een peiling nog niet beantwoord is"
+
+#: pnblocks/pollwarn.php:129 pnblocks/pollwarn.php:185 pnblocks/poll.php:223
+msgid "Individual Selection"
+msgstr "Individuele Selectie"
+
+#: pnblocks/pollwarn.php:130 pnblocks/pollwarn.php:186 pnblocks/poll.php:224
+msgid "Latest"
+msgstr "Laatste"
+
+#: pnblocks/pollwarn.php:131 pnblocks/pollwarn.php:187 pnblocks/poll.php:225
+msgid "Random"
+msgstr "Willekeurig"
+
+#: pnblocks/pollwarn.php:190 pnblocks/poll.php:228
+#: pntemplates/advancedpolls_admin_modify.htm:75
+#: pntemplates/advancedpolls_admin_modify.htm:78
+#: pntemplates/advancedpolls_admin_new.htm:63
+msgid "No"
+msgstr "Nee"
+
+#: pnblocks/pollwarn.php:191 pnblocks/poll.php:229
+#: pntemplates/advancedpolls_admin_modify.htm:76
+#: pntemplates/advancedpolls_admin_modify.htm:79
+#: pntemplates/advancedpolls_admin_new.htm:64
+msgid "Yes"
+msgstr "Ja"
+
+#: pnblocks/pollresults.php:31
+msgid "Poll results"
+msgstr "Peiling resultaten"
+
+#: pnblocks/pollresults.php:32
+msgid "Show results of the most recently closed poll"
+msgstr "Toont de resultaten van de meest recent gesloten peiling"
+
+#: pnblocks/poll.php:35 pncontenttypesapi/poll.php:21
+msgid "Poll"
+msgstr "Peiling"
+
+#: pnblocks/poll.php:36
+msgid "Show a poll"
+msgstr "Toon een peiling"
+
+#: pnneedleapi/poll.php:43
+#, php-format
+msgid "Error! Poll ID '%s' not found."
+msgstr "Foutmelding: Peiling ID '%s' niet gevonden."
+
+#: pnneedleapi/poll.php:48
+msgid "Error! No needle ID provided."
+msgstr "Foutmelding: Geen naald ID opgegeven."
+
+#: pncontenttypesapi/poll.php:26
+msgid "Display a single poll from the advanced polls module."
+msgstr "Toon een enkele peiling uit de Uitgebreide Peilingen module"
+
+#: pncontenttypesapi/poll.php:48
+msgid "No poll selected"
+msgstr "Geen peiling geselecteerd"
+
+#: pnuser.php:114
+msgid "Error! No polls found."
+msgstr "Foutmelding: Geen peilingen gevonden."
+
+#: pnuser.php:146 pntemplates/advancedpolls_user_votingform.htm:35
+#: pntemplates/advancedpolls_user_votingform_short.htm:30
+#: pntemplates/advancedpolls_block_poll.htm:39
+#: pntemplates/advancedpolls_block_poll.htm:41
+msgid "Vote"
+msgstr "Stem"
+
+#: pnuser.php:150 pnuser.php:178
+msgid "Results"
+msgstr "Resultaten"
+
+#: pnuser.php:165
+msgid "Preview"
+msgstr "Voorbeeld"
+
+#: pnuser.php:310
+msgid "Error! No template selected."
+msgstr "Foutmelding: Geen template opgegeven."
+
+#: pnuser.php:414
+msgid "Done! Vote added."
+msgstr "Stem toegevoegd."
+
+#: pnadminapi.php:60 pnadminapi.php:407 pninit.php:33
+msgid "Error! Creation attempt failed."
+msgstr "Foutmelding: Poging to aanmaken mislukt."
+
+#: pnadminapi.php:103 pnadminapi.php:106 pnadminapi.php:109 pnadminapi.php:193
+msgid "Error! Deletion attempt failed."
+msgstr "Foutmelding: Poging tot verwijderen mislukt."
+
+#: pnadminapi.php:188 pnadminapi.php:202
+msgid "Error! Update attempt failed."
+msgstr "Foutmelding: Poging tot bijwerken mislukt."
+
+#: pnadminapi.php:237
+msgid "Error! Vote reset failed."
+msgstr "Foutmelding: Herstellen van peiling mislukt."
+
+#: pnadminapi.php:330
+msgid "Error! Could not load votes."
+msgstr "Foutmelding: Kon stemmen niet inladen."
+
+#: pnadminapi.php:425 pntemplates/advancedpolls_user_menu.htm:6
+#: pntemplates/advancedpolls_user_view.htm:2
+msgid "View polls"
+msgstr "Bekijk peilingen"
+
+#: pnadminapi.php:428
+msgid "Create new poll"
+msgstr "Nieuwe peiling aanmaken"
+
+#: pnadminapi.php:431 pntemplates/advancedpolls_admin_modifyconfig.htm:3
+msgid "Settings"
+msgstr "Instellingen"
+
+#: pninit.php:97
+msgid "Error! Could not change the advanced polls tables."
+msgstr "Foutmelding: kon de advancedpolls tabellen niet wijzigen."
+
+#: pninit.php:102
+msgid "Error! Could not populate permalinks for existing content."
+msgstr ""
+"Foutmelding: Kon geen permalinks aanmaken voor de reeds aanwezige inhoud."
+
+#: pninit.php:107
+msgid "Error! Could not create the default category."
+msgstr "Foutmelding: Kon de standaard categorie niet aanmaken."
+
+#: pninit.php:112
+msgid "Error! Could not convert language codes."
+msgstr "Foutmelding: Kon taal-codes niet converteren."
+
+#: pninit.php:176
+msgid "Polls"
+msgstr "Peilingen"
+
+#: pntemplates/advancedpolls_admin_delete.htm:3
+msgid "Delete poll"
+msgstr "Peiling verwijderen"
+
+#: pntemplates/advancedpolls_admin_delete.htm:7
+msgid "Do you really want to delete this poll?"
+msgstr "Dient deze peiling echt verwijderd te worden"
+
+#: pntemplates/advancedpolls_admin_delete.htm:14
+#: pntemplates/advancedpolls_admin_duplicate.htm:14
+#: pntemplates/advancedpolls_admin_resetvotes.htm:14
+msgid "Confirmation prompt"
+msgstr "Bevestigingsprompt"
+
+#: pntemplates/advancedpolls_admin_delete.htm:17
+#: pntemplates/advancedpolls_admin_modifyconfig.htm:56
+#: pntemplates/advancedpolls_admin_duplicate.htm:17
+#: pntemplates/advancedpolls_admin_modify.htm:160
+#: pntemplates/advancedpolls_admin_new.htm:120
+#: pntemplates/advancedpolls_admin_resetvotes.htm:17
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: pntemplates/advancedpolls_admin_view.htm:3
+msgid "View Polls"
+msgstr "Bekijk peilingen"
+
+#: pntemplates/advancedpolls_admin_view.htm:10
+#: pntemplates/advancedpolls_admin_view.htm:41
+#: pntemplates/advancedpolls_user_view.htm:9
+#: pntemplates/advancedpolls_user_view.htm:42
+#: pntemplates/advancedpolls_user_view.htm:89
+#: pntemplates/advancedpolls_user_view.htm:130
+#: pntemplates/advancedpolls_admin_modify.htm:26
+#: pntemplates/advancedpolls_admin_new.htm:25
+msgid "Category"
+msgstr "Categorie"
+
+#: pntemplates/advancedpolls_admin_view.htm:27
+#: pntemplates/advancedpolls_user_view.htm:26
+msgid "Choose One"
+msgstr "Maak een keuze"
+
+#: pntemplates/advancedpolls_admin_view.htm:30
+#: pntemplates/advancedpolls_user_view.htm:29
+msgid "Filter"
+msgstr "Filter"
+
+#: pntemplates/advancedpolls_admin_view.htm:31
+#: pntemplates/advancedpolls_user_view.htm:30
+#: pntemplates/advancedpolls_admin_resetvotes.htm:16
+msgid "Reset"
+msgstr "Herstellen"
+
+#: pntemplates/advancedpolls_admin_view.htm:38
+msgid "Poll ID"
+msgstr "Peiling ID"
+
+#: pntemplates/advancedpolls_admin_view.htm:39
+#: pntemplates/advancedpolls_admin_adminstats.htm:7
+#: pntemplates/advancedpolls_admin_modify.htm:16
+#: pntemplates/advancedpolls_admin_new.htm:15
+msgid "Name of poll"
+msgstr "Naam van de peiling"
+
+#: pntemplates/advancedpolls_admin_view.htm:43
+#: pntemplates/advancedpolls_user_view.htm:87
+msgid "Poll open date"
+msgstr "Openingsdatum van de peiling"
+
+#: pntemplates/advancedpolls_admin_view.htm:44
+msgid "Is poll open?"
+msgstr "Is de peiling open?"
+
+#: pntemplates/advancedpolls_admin_view.htm:45
+#: pntemplates/advancedpolls_user_view.htm:44
+#: pntemplates/advancedpolls_user_view.htm:91
+#: pntemplates/advancedpolls_user_view.htm:132
+#: pntemplates/advancedpolls_admin_modify.htm:128
+#: pntemplates/advancedpolls_admin_new.htm:111
+msgid "Options"
+msgstr "Opties"
+
+#: pntemplates/advancedpolls_admin_view.htm:75
+#: pntemplates/advancedpolls_user_view.htm:76
+#: pntemplates/advancedpolls_user_view.htm:117
+#: pntemplates/advancedpolls_user_view.htm:158
+msgid "No polls found."
+msgstr "Geen peilingen gevonden."
+
+#: pntemplates/advancedpolls_user_results_short.htm:4
+msgid "Current poll"
+msgstr "Huidige peiling"
+
+#: pntemplates/advancedpolls_user_results_short.htm:6
+msgid "Previous poll"
+msgstr "Vorige peiling"
+
+#: pntemplates/advancedpolls_user_results_short.htm:25
+#: pntemplates/advancedpolls_user_results.htm:28
+#, php-format
+msgid "%s vote"
+msgid_plural "%s votes"
+msgstr[0] "%s stem"
+msgstr[1] "%s stemmen"
+
+#: pntemplates/advancedpolls_user_results_short.htm:33
+#: pntemplates/advancedpolls_user_results.htm:36
+#: pntemplates/advancedpolls_block_pollresults.htm:7
+#: pntemplates/advancedpolls_block_poll.htm:74
+#, php-format
+msgid "Total number of votes: %s"
+msgstr "Totaal aantal stemmen: %s"
+
+#: pntemplates/advancedpolls_user_votingform-rankedmultipleselect.htm:2
+msgid "This is a ranked multiple selection poll."
+msgstr ""
+"Dit is een peiling met meerdere keuzemogelijkheden, inclusief voorkeurs-"
+"volgorde."
+
+#: pntemplates/advancedpolls_user_votingform-rankedmultipleselect.htm:3
+#, php-format
+msgid "You may select %s option ranked in order."
+msgid_plural "You may select %s options ranked in order."
+msgstr[0] "Er mag %s optie geselecteerd worden, in een voorkeurs-volgorde"
+msgstr[1] "Er mogen %s opties geselecteerd worden, in een voorkeurs-volgorde"
+
+#: pntemplates/advancedpolls_user_votingform-rankedmultipleselect.htm:9
+#: pntemplates/advancedpolls_user_futurepoll.htm:10
+#: pntemplates/advancedpolls_user_votingform-multipleselect.htm:9
+#, php-format
+msgid "Choice %s"
+msgstr "Keuze %s"
+
+#: pntemplates/advancedpolls_block_pollwarn.htm:2
+msgid "You have not voted in the poll"
+msgstr "Er is met dit account nog niet gestemd in deze peiling"
+
+#: pntemplates/advancedpolls_admin_modifyconfig.htm:12
+msgid "General settings"
+msgstr "Algemene instellingen"
+
+#: pntemplates/advancedpolls_admin_modifyconfig.htm:14
+msgid "Enable categorization"
+msgstr "Indeling in categorieën inschakelen"
+
+#: pntemplates/advancedpolls_admin_modifyconfig.htm:18
+msgid "Use Reverse DNS for IP Addresses"
+msgstr ""
+"Gebruik Reverse DNS voor het opzoeken van hostnamen / providers bij een IP "
+"adres"
+
+#: pntemplates/advancedpolls_admin_modifyconfig.htm:26
+msgid "Items per page in admin interface"
+msgstr "Items per pagina in Beheerders interface"
+
+#: pntemplates/advancedpolls_admin_modifyconfig.htm:31
+msgid "Poll settings"
+msgstr "Peilingen instellingen"
+
+#: pntemplates/advancedpolls_admin_modifyconfig.htm:33
+msgid "Use css poll results bars"
+msgstr "Gebruik resultatenbalken met CSS technologie"
+
+#: pntemplates/advancedpolls_admin_modifyconfig.htm:37
+msgid "Scaling factor for poll results bars"
+msgstr "Schaal-factor voor resultatenbalken"
+
+#: pntemplates/advancedpolls_admin_modifyconfig.htm:41
+msgid "Default number of options in a poll"
+msgstr "Standaard aantal opties bij een peiling"
+
+#: pntemplates/advancedpolls_admin_modifyconfig.htm:45
+msgid "Default colour"
+msgstr "Standaard kleur"
+
+#: pntemplates/advancedpolls_admin_modifyconfig.htm:55
+msgid "Update Configuration"
+msgstr "Configuratie bijwerken"
+
+#: pntemplates/advancedpolls_user_votingform.htm:2
+#, php-format
+msgid "Voting booth: %s"
+msgstr "Stemhokje: %s"
+
+#: pntemplates/advancedpolls_user_votingform.htm:7
+#: pntemplates/advancedpolls_user_results.htm:10
+#, php-format
+msgid "Category: %s"
+msgstr "Categorie: %s"
+
+#: pntemplates/advancedpolls_user_votingform.htm:17
+#: pntemplates/advancedpolls_user_votingform_short.htm:12
+#: pntemplates/advancedpolls_block_poll.htm:20
+msgid "Poll options"
+msgstr "Peiling opties"
+
+#: pntemplates/contenttype/poll_edit.html:3
+msgid "Please enter the poll id"
+msgstr "Voer de Peiling ID in"
+
+#: pntemplates/advancedpolls_user_results.htm:3
+#, php-format
+msgid "Current poll: %s"
+msgstr "Huidige peiling: %s"
+
+#: pntemplates/advancedpolls_user_results.htm:5
+#, php-format
+msgid "Previous poll: %s"
+msgstr "Vorige peiling: %s"
+
+#: pntemplates/advancedpolls_user_futurepoll.htm:3
+#, php-format
+msgid "This poll opens on %s"
+msgstr "Deze peiling start op %s"
+
+#: pntemplates/advancedpolls_user_futurepoll.htm:4
+#, php-format
+msgid "Future poll: %s"
+msgstr "Komende peiling: %s"
+
+#: pntemplates/advancedpolls_user_view.htm:35
+msgid "Currently open polls"
+msgstr "Huidige open peilingen"
+
+#: pntemplates/advancedpolls_user_view.htm:39
+#: pntemplates/advancedpolls_user_view.htm:86
+#: pntemplates/advancedpolls_user_view.htm:127
+msgid "Poll title"
+msgstr "Peiling titel"
+
+#: pntemplates/advancedpolls_user_view.htm:40
+#: pntemplates/advancedpolls_user_view.htm:128
+msgid "Poll close date"
+msgstr "Peiling sluitingsdatum"
+
+#: pntemplates/advancedpolls_user_view.htm:55
+#: pntemplates/advancedpolls_admin_modify.htm:58
+#: pntemplates/advancedpolls_admin_new.htm:51
+msgid "No close date"
+msgstr "Geen sluitingsdatum"
+
+#: pntemplates/advancedpolls_user_view.htm:82
+msgid "Upcoming polls"
+msgstr "Komende peilingen"
+
+#: pntemplates/advancedpolls_user_view.htm:123
+msgid "Previous polls"
+msgstr "Vorige peilingen"
+
+#: pntemplates/advancedpolls_admin_adminstats.htm:3
+msgid "Voting Statistics"
+msgstr "Stem statistieken"
+
+#: pntemplates/advancedpolls_admin_adminstats.htm:8
+#: pntemplates/advancedpolls_admin_modify.htm:52
+#: pntemplates/advancedpolls_admin_new.htm:45
+msgid "Date and time poll opens"
+msgstr "Datum en tijd van peiling-opening"
+
+#: pntemplates/advancedpolls_admin_adminstats.htm:9
+#: pntemplates/advancedpolls_admin_modify.htm:66
+#: pntemplates/advancedpolls_admin_new.htm:55
+msgid "Date and time poll closes"
+msgstr "Datum en tijd van peiling-sluiting"
+
+#: pntemplates/advancedpolls_admin_adminstats.htm:10
+msgid "Total number of votes"
+msgstr "Totaal aantal stemmen"
+
+#: pntemplates/advancedpolls_admin_adminstats.htm:17
+msgid "Sort votes by"
+msgstr "Sorteer stemmen op"
+
+#: pntemplates/advancedpolls_admin_adminstats.htm:21
+msgid "Sort order"
+msgstr "Sorteer volgorde"
+
+#: pntemplates/advancedpolls_admin_adminstats.htm:25
+msgid "Sort votes"
+msgstr "Stemmen sorteren"
+
+#: pntemplates/advancedpolls_admin_adminstats.htm:30
+msgid "Vote history"
+msgstr "Stem geschiedenis"
+
+#: pntemplates/advancedpolls_admin_adminstats.htm:53
+msgid "No votes found."
+msgstr "Geen stemmen gevonden."
+
+#: pntemplates/advancedpolls_user_votingform-unlimitedmultipleselect.htm:2
+msgid "This is an unlimited multiple selection poll."
+msgstr "Dit is een peiling meerdere keuzemogelijkheden"
+
+#: pntemplates/advancedpolls_user_votingform-unlimitedmultipleselect.htm:3
+msgid "You may select any number of options."
+msgstr "Ieder aantal opties kan gekozen worden."
+
+#: pntemplates/advancedpolls_admin_duplicate.htm:7
+msgid "Please confirm duplication of poll."
+msgstr "Bevestig aub het dupliceren van de peiling."
+
+#: pntemplates/advancedpolls_block_pollresults.htm:5
+#: pntemplates/advancedpolls_block_poll.htm:70
+#, php-format
+msgid "Winner: %s"
+msgstr "Meest gestemd: %s"
+
+#: pntemplates/advancedpolls_block_pollresults.htm:8
+#: pntemplates/advancedpolls_block_poll.htm:75
+msgid "Detailed results"
+msgstr "Gedetailleerde resultaten"
+
+#: pntemplates/advancedpolls_admin_modify.htm:5
+msgid "Edit Poll"
+msgstr "Peiling bewerken"
+
+#: pntemplates/advancedpolls_admin_modify.htm:14
+#: pntemplates/advancedpolls_admin_new.htm:13
+msgid "Basic Information"
+msgstr "Basis informatie"
+
+#: pntemplates/advancedpolls_admin_modify.htm:20
+#: pntemplates/advancedpolls_admin_new.htm:19
+msgid "PermaLink URL title"
+msgstr "Permalink URL titel"
+
+#: pntemplates/advancedpolls_admin_modify.htm:22
+#: pntemplates/advancedpolls_admin_new.htm:21
+msgid "(Blank = auto-generate)"
+msgstr "(Leeg laten = automatisch genereren)"
+
+#: pntemplates/advancedpolls_admin_modify.htm:35
+#: pntemplates/advancedpolls_admin_new.htm:28
+msgid "Choose Category"
+msgstr "Kies categorie"
+
+#: pntemplates/advancedpolls_admin_modify.htm:41
+#: pntemplates/advancedpolls_admin_new.htm:34
+msgid "Description"
+msgstr "Beschrijving"
+
+#: pntemplates/advancedpolls_admin_modify.htm:45
+#: pntemplates/advancedpolls_admin_new.htm:38
+msgid "Language"
+msgstr "Taal"
+
+#: pntemplates/advancedpolls_admin_modify.htm:50
+#: pntemplates/advancedpolls_admin_new.htm:43
+msgid "Timing"
+msgstr "Tijdsverloop"
+
+#: pntemplates/advancedpolls_admin_modify.htm:72
+#: pntemplates/advancedpolls_admin_new.htm:61
+msgid "Recurring poll?"
+msgstr "Terugkerende peiling?"
+
+#: pntemplates/advancedpolls_admin_modify.htm:84
+#: pntemplates/advancedpolls_admin_new.htm:68
+msgid ""
+"The following options are only relevant if a recurring poll is selected."
+msgstr "De volgende opties zijn alleen relevant bij terugkerende peilingen."
+
+#: pntemplates/advancedpolls_admin_modify.htm:86
+#: pntemplates/advancedpolls_admin_new.htm:70
+msgid "Recurring offset"
+msgstr "Terugkeer periode"
+
+#: pntemplates/advancedpolls_admin_modify.htm:88
+#: pntemplates/advancedpolls_admin_new.htm:72
+msgid "Number of hours after the close date the poll reopens."
+msgstr "Aantal uur dat tussen sluiten en heropenen van de peiling zit"
+
+#: pntemplates/advancedpolls_admin_modify.htm:91
+#: pntemplates/advancedpolls_admin_new.htm:75
+msgid "Recurrence interval"
+msgstr "Terugkeer interval"
+
+#: pntemplates/advancedpolls_admin_modify.htm:93
+#: pntemplates/advancedpolls_admin_new.htm:77
+msgid "Number of days the poll will recur."
+msgstr "Aantal dagen dat de peiling terugkeert."
+
+#: pntemplates/advancedpolls_admin_modify.htm:98
+#: pntemplates/advancedpolls_admin_new.htm:82
+msgid "Voting regulations"
+msgstr "Stem-reguleringen"
+
+#: pntemplates/advancedpolls_admin_modify.htm:100
+#: pntemplates/advancedpolls_admin_new.htm:84
+msgid "Poll authorisation method"
+msgstr "Autorisatie methode"
+
+#: pntemplates/advancedpolls_admin_modify.htm:106
+#: pntemplates/advancedpolls_admin_new.htm:90
+msgid "Tiebreak method"
+msgstr "Methode bij gelijke eindstand"
+
+#: pntemplates/advancedpolls_admin_modify.htm:112
+#: pntemplates/advancedpolls_admin_new.htm:96
+msgid "Selection method"
+msgstr "Selectie methode"
+
+#: pntemplates/advancedpolls_admin_modify.htm:118
+#: pntemplates/advancedpolls_admin_new.htm:102
+msgid ""
+"The following option only relevant if a multiple selection poll is selected."
+msgstr ""
+"De volgende optie is alleen relevant bij een peiling met meerdere "
+"keuzemogelijkheden."
+
+#: pntemplates/advancedpolls_admin_modify.htm:120
+#: pntemplates/advancedpolls_admin_new.htm:104
+msgid "You may select "
+msgstr "Aantal selecteerbare keuzes"
+
+#: pntemplates/advancedpolls_admin_modify.htm:122
+#: pntemplates/advancedpolls_admin_new.htm:106
+msgid "(-1 for Unlimited selections)"
+msgstr "(-1 voor een onbeperkt aantal selecties)"
+
+#: pntemplates/advancedpolls_admin_modify.htm:133
+msgid "Poll option"
+msgstr "Peiling optie"
+
+#: pntemplates/advancedpolls_admin_modify.htm:142
+#: pntemplates/advancedpolls_admin_new.htm:113
+msgid "Number of options in this poll"
+msgstr "Aantal opties in deze peiling"
+
+#: pntemplates/advancedpolls_admin_modify.htm:147
+msgid "Meta data"
+msgstr "Meta gegevens"
+
+#: pntemplates/advancedpolls_admin_modify.htm:150
+#, php-format
+msgid "Created by %s"
+msgstr "Aangemaakt door %s"
+
+#: pntemplates/advancedpolls_admin_modify.htm:151
+#, php-format
+msgid "Created on %s"
+msgstr "Aangemaakt op %s"
+
+#: pntemplates/advancedpolls_admin_modify.htm:153
+#, php-format
+msgid "Last updated by %s"
+msgstr "Laatst bijgewerkt door %s"
+
+#: pntemplates/advancedpolls_admin_modify.htm:154
+#, php-format
+msgid "Updated on %s"
+msgstr "Laatst bijgewerkt op %s"
+
+#: pntemplates/advancedpolls_admin_modify.htm:159
+msgid "Update"
+msgstr "Bijwerken"
+
+#: pntemplates/advancedpolls_admin_new.htm:5
+msgid "Create poll"
+msgstr "Peiling aanmaken"
+
+#: pntemplates/advancedpolls_admin_new.htm:119
+msgid "Create"
+msgstr "Aanmaken"
+
+#: pntemplates/advancedpolls_admin_menu.htm:4
+msgid "Advanced Polls Administration"
+msgstr "Uitgebreide Peiling-beheer"
+
+#: pntemplates/advancedpolls_user_votingform-multipleselect.htm:2
+msgid "This is a multiple selection poll."
+msgstr "Dit is een peiling met meerdere selectiemogelijkheden"
+
+#: pntemplates/advancedpolls_user_votingform-multipleselect.htm:3
+#, php-format
+msgid "You may select %s option."
+msgid_plural "You may select %s options."
+msgstr[0] "Er mag %s optie geselecteerd worden."
+msgstr[1] "Er mogen %s opties geselecteerd worden"
+
+#: pntemplates/advancedpolls_block_poll.htm:50
+msgid "Recording vote"
+msgstr "Bezig met verwerken van de stem"
+
+#: pntemplates/advancedpolls_block_poll.htm:63
+#, php-format
+msgid "The current leader in this poll is %s"
+msgstr "De huidige meest gestemde optie in deze peiling is %s"
+
+#: pntemplates/advancedpolls_block_poll.htm:65
+#, php-format
+msgid "Poll close date: %s"
+msgstr "Sluitingsdatum van de peiling: %s"
+
+#: pntemplates/advancedpolls_block_poll_modify.htm:2
+#: pntemplates/advancedpolls_block_pollwarn_modify.htm:2
+msgid "Individual selection"
+msgstr "Individuele selectie"
+
+#: pntemplates/advancedpolls_block_poll_modify.htm:4
+#: pntemplates/advancedpolls_block_pollwarn_modify.htm:4
+msgid ""
+"The selection method 'Latest' and 'Random' override this individual poll "
+"selection"
+msgstr ""
+"De selectie methodes 'Laatste' en 'Willekeurig' overrulen deze individuele "
+"peiling selectie"
+
+#: pntemplates/advancedpolls_block_poll_modify.htm:7
+#: pntemplates/advancedpolls_block_pollwarn_modify.htm:7
+msgid "Poll to use"
+msgstr "Te gebruiken peiling"
+
+#: pntemplates/advancedpolls_block_poll_modify.htm:11
+msgid "Use ajax for voting form"
+msgstr "Javascript (AJAX) technologie gebruiken bij uitbrengen van stem"
+
+#: pntemplates/advancedpolls_block_poll_modify.htm:15
+#: pntemplates/advancedpolls_block_pollwarn_modify.htm:11
+msgid "Display block based on open/close dates"
+msgstr "Weergave baseren op openings- en sluitingsdatums van peilingen"
+
+#: pntemplates/advancedpolls_block_poll_modify.htm:19
+msgid "Display results page after vote"
+msgstr "Resultaten pagina weergeven na uitbrengen van stem"
+
+#: pntemplates/advancedpolls_block_pollwarn_modify.htm:15
+msgid "Background color"
+msgstr "Achtergrond kleur"
+
+#: pntemplates/advancedpolls_admin_resetvotes.htm:7
+msgid "Do you really want to reset the votes?"
+msgstr "Dienen de stemmen echt hersteld te worden?"

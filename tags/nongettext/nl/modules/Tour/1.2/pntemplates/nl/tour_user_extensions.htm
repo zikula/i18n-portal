@@ -1,0 +1,37 @@
+<!--[*
+ * Zikula Application Framework
+ *
+ * @copyright (c) 2008, Zikula Development Team
+ * @link http://www.zikula.org
+ * @version $Id: tour_user_extensions.htm 713 2010-01-02 15:02:15Z teb $
+ * @license GNU/GPL - http://www.gnu.org/copyleft/gpl.html
+ * @package Zikula_Docs
+ * @subpackage Tour
+ * @author espaan (Erik Spaan)
+ * @link http://zikula.nl Dutch Zikula Community
+*]-->
+<!--[include file="tour_user_menu.htm"]-->
+
+<h1>Rondleiding door extensies</h1>
+<p>Sommigen van de extensies geïnstalleerd op uw systeem hebben mogelijk een eigen rondleiding om u
+te introduceren in de prominente functies. De betreffende extensies staan hieronder opgesomd. De extensies
+die niet in de lijst staan hebben mogelijk andere vormen van documentatie - u kunt de auteurs website bekijken en
+de extensie pndocs folder voor een handleiding.</p>
+
+<h2>Modules</h2>
+<ul>
+    <!--[foreach from=$modpages item="mod"]-->
+    <li><a href="<!--[pnmodurl modname="tour" func="exttour" ext=$mod exttype="module" page=1]-->"><!--[$mod]--></a></li>
+    <!--[foreachelse]-->
+    <li>Er zijn geen rondleiding-pagina's voor modules op dit systeem gevonden!</li>
+    <!--[/foreach]-->
+</ul>
+
+<h2>Thema's (Themes)</h2>
+<ul>
+    <!--[foreach from=$themepages item="theme"]-->
+    <li><a href="<!--[pnmodurl modname="tour" func="exttour" ext=$theme exttype="theme" page=1]-->"><!--[$theme]--></a></li>
+    <!--[foreachelse]-->
+    <li>Er zijn geen rondleiding-pagina's voor thema's op dit systeem gevonden!</li>
+    <!--[/foreach]-->
+</ul>

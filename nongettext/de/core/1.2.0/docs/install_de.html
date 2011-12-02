@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+    <head>
+        <title>Zikula Installationsanleitung</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+            <link rel="stylesheet" href="style.css" type="text/css" media="screen"  />
+            </head>
+
+            <body>
+                <h1>Installationsanleitung</h1>
+
+                <h2>Wichtig</h2>
+                <p>
+                Dieses Dokument beinhaltet wichtige Informationen über das Zikula Application Framework. Bitte vor dem Fortfahren die Inhalte sorgfältig durchlesen! Natürlich wurde versucht hier sämtliche Informationen für eine erfolgreiche Installation aufzunehmen. Doch in unserem deutschen <a href="http://code.zikula.org/community-german/">DokuWiki</a> können Ergänzungen schneller und aktueller gepflegt werden. Daher wird empfohlen, vor einer Installation auch die dortige <a href="http://code.zikula.org/community-german/wiki/Installation">Installationsanleitung</a> zu sichten.
+                </p>
+                <p>
+                    Falls eine bestehende Zikula-Version aktualisiert werden soll, dann bitte einen Blick in die <a href='upgrade_de.html'>Upgradeanleitung</a> werfen.
+                </p>
+
+                <h2>Inhaltsverzeichnis</h2>
+                <ol>
+                    <li><a href="#AB">Zikula: Das "Forest"-Release</a></li>
+                    <li><a href="#Server">Serverumgebung</a></li>
+                    <li><a href="#New">Neuinstallation</a>
+                        <ul>
+                            <li><a href="#Graph">Webbrowser-basierte Installation (empfohlen)</a></li>
+                            <li><a href="#Manual">manueller Import des SQL-Dumps</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#Final">Abschlussbemerkung</a></li>
+                </ol>
+
+                <h2 id="AB">1. Das "Forest"-Release</h2>
+                <p>Zikula ist ein Open Source Application Framework, das Inhalte von Design und Technik trennt. Die Inhalte einer Internetpräsenz (zum Beispiel Beiträge, Links, Downloads, FAQs, Bildergalerien, Foren etc.) können dabei direkt im Browser verwaltet werden. Durch die klare Aufgliederung in Form, Funktion, Inhalt und Gestaltung hilft das System, die Kosten und den Aufwand beim Betrieb einer Webseite zu reduzieren.</p>
+                <p>Das Framework ist modular aufgebaut. Die zentralen Funktionen (Benutzermanagement, Berechtigungssystem, API) werden vom sogenannten Core übernommen. Der Leistungsumfang kann darüberhinaus durch <a href="http://code.zikula.org/community-german/wiki/Erweiterung" title="Doku Erweiterung">Zusatzmodule</a> individuell angepasst und nahezu beliebig erweitert werden. Unter anderem auch zu einem sehr leistungsfähigen Content Management System (CMS).</p>
+                <p>Das Projekt hat eine große internationale Community und bietet auch ausgezeichneten Support in den Foren. Die deutsche Anlaufstelle rund um Dokumentation und Support findet man unter <a href="http://zikula.de" title="Deutsche Community">zikula.de</a>. Ein Opensource Projekt lebt darüberhinaus auch von der Beteiligung - wir begrüßen Beiträge von jedem, unabhängig von seinen Kenntnissen - <a href="http://zikula.de/CMS/Was-kann-ich-tun/" title="Mitmachen">Wie man helfen kann</a>.</p>
+
+                <h2 id="Server">2. Serverumgebung</h2>
+                <p>Im Vergleich zu anderen Web-Frameworks stellt Zikula wenige Anforderungen an den Webserver. Es unterstützt PHP5 und das noch weit verbreitete PHP4. Es benötigt keine eigene Datenbank für die Anwendung, sondern erlaubt, Datenbanktabellen mit Präfixen zu verwenden. Zikula benötigt mindestens:</p>
+                <ul>
+                    <li>Webserver: Apache 2 (empfohlen) oder Apache 1.3, IIS, Lighttpd oder andere</li>
+                    <li>Programmiersprache: PHP ≥ 4.4 (empfohlen: 5.x)</li>
+                    <li>Datenbank: MySQL, Oracle, MSSQL oder PostgreSQL</li>
+                </ul>
+                <p>Weitere Informationen zur Serverumgebung befinden sich im deutschen Dokumentationsprojekt unter “<a href="http://code.zikula.org/community-german/wiki/Installation#Serverumgebung" title="Installation">Installation</a>”, sowie im englischsprachigen Dokument “<a href="softwarerecommendations.html">Softwareempfehlungen</a>”.</p>
+                <h2 id="New">3. Neuinstallation</h2>
+                <p>Es gibt zwei Möglichkeiten zur Installation:</p>
+                <ul>
+                    <li><a href="#Graph">Webbrowser-basierte Installation (empfohlen)</a></li>
+                    <li><a href="#Manual">manueller Import des SQL-Dumps</a></li>
+                </ul>
+
+                <h3 id="Graph">Die Webbrowser-basierte Installation (empfohlen)</h3>
+                <p>Der einfachste Weg zu einer neuen Installation ist sicherlich die Installationsroutine unter der Adresse “install.php”. Die exakte URL hängt von der jeweiligen Domain ab, aber wenn  die Seite zum Beispiel <em>http://www.example.com</em> ist, lautet die URL <em>http://www.example.com/install.php</em>. Wenn das System in ein Unterverzeichnis "zk" kopiert wurde, lautet die URL <em>http://www.example.com/zk/install.php</em>. Das Installations-Skript führt Schritt für Schritt durch die gesamte Installation, der Vorgang dauert insgesamt nur etwa 5 bis 10 Minuten.</p>
+                <p><strong>HINWEIS:</strong> Während der Installation werden Zugangsdaten zu einer Datenbank benötigt. Im so genannten Shared Hosting stellt oftmals der Provider die Informationen über Datenbank-Benutzer, Datenbank-Passwort und den Datenbank-Namen zur Verfügung. In diesem Fall legt die Installationsroutine nur entsprechende Tabellen an. Bei vollem Zugriff auf den Server - und wenn der Datenbank-Benutzer über entsprechende Berechtigungen verfügt - kann auch während der Installation eine Datenbank angelegt werden.</p>
+                <p>Nachdem die Installation abgeschlossen ist, kann die Webeite ganz einfach über den Webbrowser aufgerufen werden <em>(z.B. http://www.example.com)</em>.</p>
+
+                <h3 id="Manual">Installation durch manuellen Import eines SQL-Dumps (nicht empfohlen)</h3>
+                <p>Die zweite Möglichkeit der Installation ist ein direktes Einspielen eines SQL-Dumps in eine bestehende Datenbank - diese Möglichkeit ist aber nicht einfach durchzuführen und sollte nur von erfahrenen Benutzer in Betracht gezogen werden.</p>
+
+                <p><strong>HINWEIS:</strong> Der SQL-Dump ist aus einer MySQL 5.x Datenbank erstellt worden und wird nicht mit einer MySQL Version vor 5.x oder einem anderen Datenbanktyp als MySQL funktionieren.</p>
+                <p>Nachdem der Dump in die Datenbank importiert wurde, muss die Datei /config/config.php angepasst werden. Die erforderlichen Werte für den Benutzernamen und das Passwort können dabei optional Base64-codiert eingetragen werden.</p>
+                <pre>$PNConfig['DBInfo']['default']['encoded'] = 1;)</pre>
+                <p>Das Login nach manuellen Import des Dumps ist mit dem Benutzernamen “Admin” und dem Kennwort “Password” (beides ohne “”) möglich. Aus Sicherheitsgründen sollten nach der Installation diese Standardwerte für den laufenden Betrieb angepasst werden.</p>
+
+                <h2 id="Final">4. Abschlussbemerkung</h2>
+                <p>Direkte Modifizierungen (so genannte “Hacks”) am Systemcode oder der Datenbank werden nicht unterstützt. Für individuelle Modifizierungen kann auch kein Support geleistet werden. Anpassungen können darüberhinaus bei zukünftigen Aktualisierungen auch umfassende Probleme verursachen. Als Alternative empfehlen wir, sich das deutsche <a href="http://code.zikula.org/community-german/wiki/WikiStart#EntwicklerHandbuch">Entwickler Handbuch</a> oder die englischsprachige <a href="http://community.zikula.org/Wiki-tag-DeveloperDocs.htm">Entwickler Dokumentation</a> anzusehen, um die Modularität des Systems zukunftssicher auszunutzen.</p>
+                <p>Für Fragen rund um die Installation, die Einrichtung und den Betrieb steht unter <a href="http://zikula.de">zikula.de</a> ein Supportforum und im <a href="http://code.zikula.org/community-german/">Deutschen Dokumentationsprojekt</a> auch ein umfangreiches deutschsprachiges Handbuch zur Verfügung.</p>
+
+                <p>Wir wünschen viel Spaß mit dieser Version!</p>
+
+                <p>
+                    <strong>Das deutsche Zikula-Team<br /><a href="http://zikula.de/">zikula.de</a></strong>
+                    </p>
+                </body>
+            </html>

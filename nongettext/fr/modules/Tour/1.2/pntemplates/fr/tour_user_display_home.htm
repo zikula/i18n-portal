@@ -1,0 +1,22 @@
+<!--[include file="tour_user_menu.htm"]-->
+
+<h1>Bienvenue dans Zikula !</h1>
+<p>Merci d'avoir installé le frameworks d'applications web Zikula. Zikula est gratuit, les sources sont ouvertes à tous, suivant les termes de la licence GPL.</p>
+<p>Ces pages ont été créées afin de vous aider à vous familiariser avec ce système. Les lignes suivantes vont vous aider à commencer. Ce sont donc les premières bases.</p>
+
+<h2>Ressources</h2>
+<ul>
+	<li><a href="http://community.zikula.org" title="Zikula Community">Site communautaire anglophone</a></li>
+	<li><a href="http://communaute.zikula.fr" title="Documentation">Site communautaire francophone</a></li>
+	<li><a href="http://communaute.zikula.fr/module-Forum.htm" title="Forum Zikula">Forum de discussion francophone</a></li>
+</ul>
+
+<h2>Lancez-vous tout de suite !</h2>  
+<!--[pnsecauthaction comp="::" inst="::" level=ACCESS_ADMIN assign="perm"]-->
+<!--[if $perm]-->
+<p>Vous pouvez accéder au panneau d'administration en cliquant sur le lien <a href="<!--[pnmodurl modname=Admin type=admin func=adminpanel]-->">Administration</a> (situé aussi en haut de page). Si vous vous déconnectez, ce lien n'apparaîtra plus et vous ne pourrez y accéder à nouveau qu'en vous authentifiant via la <a href="<!--[pnmodurl modname=Users func=loginscreen]-->">page d'authentification</a>.</p>
+<!--[else]-->
+<p>Vous n'êtes actuellement pas identifié. Vous pouvez vous identifier en utilisant les identifiants d'administration que vous avez défini durant le processus d'installation en utilisant le bloc d'identification (à droite, normalement), ou alors utiliser la <a href="<!--[pnmodurl modname=Users func=loginscreen]-->">page d'authentification</a>.  Une fois que vous serez authentifié, vous pourrez voir un lien vers le panneau d'administration dans le menu principal. (situé en haut de page).</p>
+<!--[/if]-->
+<p><strong>Lorsque vous serez prêt, vous pourrez enlever ce module et commencer à travailler sur votre site...</strong></p>
+<p>Pour ce faire, allez simplement dans les 'Préférences' situées dans l'onglet 'Système' du panneau d'administration. Pour afficher un module différent sur la page d'accueil, modifiez le module de démarrage. Vous pourrez aussi désactiver ce module via le module 'Modules' dans le panneau d'administration quand vous aurez fini, mais en attendant cette documentation restera disponible à partir de ce lien <a href="<!--[pnmodurl modname=Tour]-->"><!--[pnmodurl modname=Tour]--></a>.</p>

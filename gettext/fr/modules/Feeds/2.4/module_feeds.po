@@ -1,0 +1,397 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Traduction du module Feeds 2.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-24 04:48-0500\n"
+"PO-Revision-Date: 2010-04-19 14:31+0200\n"
+"Last-Translator: Christophe <yokav@zikula.fr>\n"
+"Language-Team: Zikula-France <zkfrance@zikula.fr>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Country: FRANCE\n"
+
+#: pnversion.php:16 pninit.php:160 pntemplates/feeds_search_options.htm:5
+#: pntemplates/feeds_admin_menu.htm:6
+msgid "Feeds"
+msgstr "Syndications"
+
+#: pnversion.php:17 pninit.php:161
+msgid "Feed Reader."
+msgstr "Lecteur de syndications."
+
+#: pnblocks/displayfeed.php:30
+msgid "Display feed"
+msgstr "Afficher la syndication"
+
+#: pnblocks/displayfeed.php:31
+msgid "Show a feed item"
+msgstr "Afficher un élément de la syndication"
+
+#: pnadminapi.php:35 pnadminapi.php:131
+msgid "The provided URL is too long (200 chars max.)."
+msgstr "L'URL indiquée est trop longue (200 caractères max.)."
+
+#: pnadminapi.php:41 pnadminapi.php:137
+msgid "Invalid protocol selected. Only http and https are allowed."
+msgstr ""
+"Le protocole sélectionne n'est pas valide. Seuls http et https sont "
+"autorisés."
+
+#: pnadminapi.php:50 pninit.php:42
+msgid "Error! Creation attempt failed."
+msgstr "Erreur ! La tentative de création a échoué."
+
+#: pnadminapi.php:78 pnadminapi.php:118 pnadmin.php:110 pnadmin.php:189
+msgid "No such Feed found."
+msgstr "Aucune syndication de ce type n'a été trouvée."
+
+#: pnadminapi.php:87
+msgid "Error! Deletion attempt failed."
+msgstr "Erreur ! La tentative de suppression a échoué."
+
+#: pnadminapi.php:146 pninit.php:79 pninit.php:85 pninit.php:97 pninit.php:108
+msgid "Error! Update attempt failed."
+msgstr "Erreur ! La tentative de mise à jour a échoué."
+
+#: pnadminapi.php:220 pntemplates/feeds_admin_view.htm:3
+msgid "View Feeds"
+msgstr "Afficher les syndications"
+
+#: pnadminapi.php:223 pntemplates/feeds_admin_new.htm:2
+msgid "Create a Feed"
+msgstr "Créer une syndication"
+
+#: pnadminapi.php:226
+msgid "Purge PermaLinks"
+msgstr "Nettoyer les liens permanents"
+
+#: pnadminapi.php:227 pntemplates/feeds_admin_modifyconfig.htm:6
+#: pntemplates/feeds_admin_modifyconfig.htm:8
+msgid "Settings"
+msgstr "Paramètres"
+
+#: pnuser.php:30 pnuser.php:77 pnuser.php:295 pnuserapi.php:81 pnadmin.php:44
+#: pnadmin.php:120 pnadmin.php:266
+msgid "Error! Unable to load class [%s%]"
+msgstr "Erreur ! Impossible de charger la classe [%s]"
+
+#: pnuser.php:106 pnuser.php:286 pnuser.php:318
+msgid "Invalid category"
+msgstr "Catégorie invalide"
+
+#: pnuser.php:149 pnuser.php:327 pnuser.php:390
+#: pntemplates/feeds_admin_view.htm:75
+msgid "No Feeds found."
+msgstr "Aucune syndication n'a été trouvée."
+
+#: pnuser.php:226
+msgid "Error! Could not load any Feeds."
+msgstr "Erreur ! Impossible de charger les syndications."
+
+#: pnuser.php:384
+msgid "Incorrect Key given. No update performed."
+msgstr "La clé fournie est incorrecte. Aucune mise à jour n'a été réalisée."
+
+#: pnuser.php:410
+msgid "Items updated in Feed cache"
+msgstr "Éléments mis à jour dans le cache des syndications"
+
+#: pnuser.php:412
+msgid "Error"
+msgstr "Erreur"
+
+#: pnsearchapi.php:69 pnsearchapi.php:96 pnuserapi.php:74
+msgid "Error! Could not load any Feed."
+msgstr "Erreur ! Impossible de charger la syndication."
+
+#: pnadmin.php:83
+msgid "Done! Feed created."
+msgstr "Terminé ! Syndication créée."
+
+#: pnadmin.php:163
+msgid "Done! Feed updated."
+msgstr "Terminé ! Syndication mise à jour."
+
+#: pnadmin.php:222
+msgid "Done! Feed deleted."
+msgstr "Terminé ! Syndication supprimée."
+
+#: pnadmin.php:248
+msgid "Purging of the pemalinks was successful"
+msgstr "Le nettoyage des liens permanents c'est déroulé correctement"
+
+#: pnadmin.php:250
+msgid "Purging of the pemalinks has failed"
+msgstr "Le nettoyage des liens permanents a échoué"
+
+#: pnadmin.php:306
+msgid "Edit"
+msgstr "Modifier"
+
+#: pnadmin.php:311
+msgid "Delete"
+msgstr "Supprimer"
+
+#: pnadmin.php:419
+msgid "Done! Module configuration updated."
+msgstr "Terminé ! La configuration du module a été mise à jour."
+
+#: pntemplates/feeds_block_displayfeed_modify.htm:4
+#: pntemplates/feeds_user_display.htm:18
+msgid "Feed"
+msgstr "Syndication"
+
+#: pntemplates/feeds_block_displayfeed_modify.htm:11
+msgid "Display feed image"
+msgstr "Afficher l'image de la syndication"
+
+#: pntemplates/feeds_block_displayfeed_modify.htm:13
+#: pntemplates/feeds_block_displayfeed_modify.htm:19
+msgid "(if available in feed)"
+msgstr "(si disponible dans la syndication)"
+
+#: pntemplates/feeds_block_displayfeed_modify.htm:17
+msgid "Display feed description"
+msgstr "Afficher la description de la syndication"
+
+#: pntemplates/feeds_block_displayfeed_modify.htm:23
+msgid "Use alternate layout"
+msgstr "Utiliser une mise en page alternative"
+
+#: pntemplates/feeds_block_displayfeed_modify.htm:28
+msgid "Number of items to display"
+msgstr "Nombre d'éléments à afficher"
+
+#: pntemplates/feeds_block_displayfeed_modify.htm:30
+msgid "(upto the maximum supplied by the feed or -1 for all items)"
+msgstr ""
+"(jusqu'au maximum fournit par la syndication ou -1 pour tous les éléments)"
+
+#: pntemplates/feeds_user_display.htm:21 pntemplates/feeds_admin_view.htm:48
+#: pntemplates/feeds_admin_new.htm:39 pntemplates/feeds_admin_modify.htm:46
+msgid "URL"
+msgstr "URL"
+
+#: pntemplates/feeds_user_display.htm:40
+#: pntemplates/feeds_user_category.htm:41
+#, php-format
+msgid "by %s"
+msgstr "par %s"
+
+#: pntemplates/feeds_user_display.htm:46
+#: pntemplates/feeds_user_category.htm:48
+msgid "Read more"
+msgstr "Lire la suite"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:14
+msgid "General Settings"
+msgstr "Paramètres généraux"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:16
+msgid "Enable categorization"
+msgstr "Activer la catégorisation"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:20
+msgid "Display item names in bold"
+msgstr "Afficher le nom des éléments en gras"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:24
+msgid "Open links in new browser window"
+msgstr "Ouvrir les liens dans une nouvelle fenêtre du navigateur"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:28
+msgid "Items per page"
+msgstr "Éléments par page"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:32
+msgid "Number of feeds to list per page"
+msgstr "Nombre de syndications à lister par page"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:36
+msgid "Maximum items to add per feed"
+msgstr "Nombre maximum d'éléments à ajouter par syndication"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:38
+msgid "for combined feeds (0 to add all)"
+msgstr "pour les syndications combinées (0 pour les ajouter tous)"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:42
+msgid "Cache Settings"
+msgstr "Paramètres du cache"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:44
+msgid "Cache directory for feeds"
+msgstr "Répertoire pour le cache des syndications"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:46
+msgid "(relative to pnTemp)"
+msgstr "(relatif par rapport à pnTemp)"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:49
+msgid "Cache interval for feeds"
+msgstr "Intervalle du cache pour les syndications"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:51
+msgid "in seconds (3600 = 1 hour)"
+msgstr "en secondes (3600 = 1 heure)"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:55
+msgid "Cron Job Settings"
+msgstr "Paramètres de la tâche automatisée"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:57
+msgid "Using a Cron Job to update the cache"
+msgstr "Utiliser une tâche automatisée pour mettre à jour le cache"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:59
+msgid "(see instructions)"
+msgstr "(voir instructions)"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:62
+msgid "Link for using a Cron Job"
+msgstr "Lien pour l'utilisation de la tâche automatisée"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:70
+msgid "Save"
+msgstr "Enregistrer"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:71
+#: pntemplates/feeds_admin_delete.htm:20 pntemplates/feeds_admin_new.htm:48
+#: pntemplates/feeds_admin_modify.htm:66
+msgid "Cancel"
+msgstr "Annuler"
+
+#: pntemplates/feeds_admin_view.htm:15 pntemplates/feeds_admin_view.htm:50
+#: pntemplates/feeds_admin_new.htm:27 pntemplates/feeds_admin_modify.htm:23
+msgid "Category"
+msgstr "Catégorie"
+
+#: pntemplates/feeds_admin_view.htm:16 pntemplates/feeds_admin_new.htm:28
+msgid "Choose a category"
+msgstr "Choisissez une catégorie"
+
+#: pntemplates/feeds_admin_view.htm:38
+msgid "Filter"
+msgstr "Filtre"
+
+#: pntemplates/feeds_admin_view.htm:39
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: pntemplates/feeds_admin_view.htm:47 pntemplates/feeds_admin_new.htm:17
+#: pntemplates/feeds_admin_modify.htm:18
+msgid "Name"
+msgstr "Nom"
+
+#: pntemplates/feeds_admin_view.htm:52
+msgid "Actions"
+msgstr "Actions"
+
+#: pntemplates/feeds_admin_delete.htm:2
+msgid "Delete Feed"
+msgstr "Supprimer la syndication"
+
+#: pntemplates/feeds_admin_delete.htm:11
+msgid "Do you really want to delete this Feed?"
+msgstr "Confirmez-vous la suppression de cette syndication ?"
+
+#: pntemplates/feeds_admin_delete.htm:19
+msgid "Confirm deletion?"
+msgstr "Confirmez-vous la suppression ?"
+
+#: pntemplates/feeds_admin_new.htm:14
+msgid "New Feed"
+msgstr "Nouvelle syndication"
+
+#: pntemplates/feeds_admin_new.htm:21 pntemplates/feeds_admin_modify.htm:41
+msgid "PermaLink URL title"
+msgstr "Titre pour l'URL du lien permanent"
+
+#: pntemplates/feeds_admin_new.htm:23 pntemplates/feeds_admin_modify.htm:43
+msgid "(Blank = auto-generate)"
+msgstr "(Blanc = régénération automatique)"
+
+#: pntemplates/feeds_admin_new.htm:47
+msgid "Create"
+msgstr "Créer"
+
+#: pntemplates/feeds_admin_modify.htm:2
+msgid "Update Feed"
+msgstr "Mettre à jour la syndication"
+
+#: pntemplates/feeds_admin_modify.htm:16
+msgid "Content"
+msgstr "Contenu"
+
+#: pntemplates/feeds_admin_modify.htm:51
+msgid "Meta data"
+msgstr "Méta-données"
+
+#: pntemplates/feeds_admin_modify.htm:54
+#, php-format
+msgid "Created by %s"
+msgstr "Créé par %s"
+
+#: pntemplates/feeds_admin_modify.htm:55
+#, php-format
+msgid "Created on %s"
+msgstr "Créé le %s"
+
+#: pntemplates/feeds_admin_modify.htm:57
+#, php-format
+msgid "Last update by %s"
+msgstr "Dernière mise à jour par %s"
+
+#: pntemplates/feeds_admin_modify.htm:58
+#, php-format
+msgid "Updated on %s"
+msgstr "Mis à jour le %s"
+
+#: pntemplates/feeds_admin_modify.htm:65
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: pntemplates/feeds_user_view.htm:8
+#, php-format
+msgid "Welcome to the Feeds of %s"
+msgstr "Bienvenue dans les syndications de %s"
+
+#: pntemplates/feeds_user_view.htm:11
+msgid "Choose a category to see the Feeds that belongs to it"
+msgstr "Choisissez une catégorie pour voir les syndications qui en font partie"
+
+#: pntemplates/feeds_user_view.htm:29 pntemplates/feeds_user_category.htm:11
+#: pntemplates/feeds_user_category.htm:13
+#, php-format
+msgid "Category: %s"
+msgstr "Catégorie : %s"
+
+#: pntemplates/feeds_user_view.htm:32
+msgid "The Feeds of this category are as follows:"
+msgstr "Les syndications de cette catégorie sont les suivantes :"
+
+#: pntemplates/feeds_user_view.htm:34
+msgid "View all feeds"
+msgstr "Afficher toutes les syndications"
+
+#: pntemplates/feeds_user_view.htm:37
+msgid "Feeds list"
+msgstr "Liste des syndications"
+
+#: pntemplates/feeds_user_view.htm:40
+msgid "Available feeds"
+msgstr "Syndications disponibles"
+
+#: pntemplates/feeds_user_updatecache.htm:3
+msgid "Cache Updated"
+msgstr "Cache mis à jour"

@@ -1,0 +1,87 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-21 21:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: lib/Akismet/Controller/Admin.php:50
+msgid ""
+"Error! Sorry! Invalid API key. Please obtain one from http://wordpress.com/"
+"api-keys/."
+msgstr ""
+
+#: lib/Akismet/Controller/Admin.php:62
+msgid "Done! Module configuration updated."
+msgstr ""
+
+#: lib/Akismet/Version.php:15
+msgid "Akismet"
+msgstr ""
+
+#. ! module url in lowercase and different from displayname
+#: lib/Akismet/Version.php:17
+msgid "akismet"
+msgstr ""
+
+#: lib/Akismet/Version.php:19
+msgid "Akismet spam detection service"
+msgstr ""
+
+#: templates/akismet_admin_modifyconfig.tpl:4
+msgid "Akismet settings"
+msgstr ""
+
+#: templates/akismet_admin_modifyconfig.tpl:7
+#, php-format
+msgid ""
+"%s is a spam detection service that can, in many cases, eliminate comment "
+"and trackback spam. To use akismet you need an %s. Simply signup for an "
+"account at wordpress.com but don't create a blog - your API key will be in "
+"your profile."
+msgstr ""
+
+#: templates/akismet_admin_modifyconfig.tpl:8
+#, php-format
+msgid "Akismet has caught <strong>%s spam</strong> for you so far."
+msgstr ""
+
+#: templates/akismet_admin_modifyconfig.tpl:9
+msgid ""
+"To test akismet is functioning submit some content with the author name of "
+"\"viagra-test-123\". This is automatically treated as spam by akismet."
+msgstr ""
+
+#: templates/akismet_admin_modifyconfig.tpl:15
+msgid "Enable akismet"
+msgstr ""
+
+#: templates/akismet_admin_modifyconfig.tpl:19
+msgid "Wordpress.com API key"
+msgstr ""
+
+#: templates/akismet_admin_modifyconfig.tpl:22
+msgid ""
+"Your API key is invalid. Please obtain one from <a href=\"http://wordpress."
+"com/api-keys/\">http://wordpress.com/api-keys/</a>."
+msgstr ""
+
+#: templates/akismet_admin_modifyconfig.tpl:27
+msgid "Save"
+msgstr ""
+
+#: templates/akismet_admin_modifyconfig.tpl:28
+msgid "Cancel"
+msgstr ""

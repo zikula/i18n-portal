@@ -1,0 +1,400 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-01 14:12+0000\n"
+"PO-Revision-Date: 2010-09-05 10:06+0200\n"
+"Last-Translator: Armin Borumand <armin390@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnadmin.php:55 pnadmin.php:144 pnadmin.php:316 pnuserapi.php:50
+#: pnuserapi.php:172 pnuser.php:34 pnuser.php:97 pnuser.php:288
+msgid "Error! Unable to load class [%s%]"
+msgstr "Error! Unable to load class [%s%]"
+
+#: pnadmin.php:93
+msgid "Done! Page created."
+msgstr "انجام شد! صفحه ایجاد شد."
+
+#: pnadmin.php:125 pnadmin.php:237 pnuser.php:271 pnuser.php:303
+#: pnuser.php:311 pnadminapi.php:107 pnadminapi.php:152
+msgid "No such page found."
+msgstr "هیچ صفحه ای پیدا نشد."
+
+#: pnadmin.php:196
+msgid "Done! Page updated."
+msgstr "انجام شد! صفحه به روز رسانی شد."
+
+#: pnadmin.php:268
+msgid "Done! Page deleted."
+msgstr "انجام شد! صفحه حذف شد."
+
+#: pnadmin.php:299
+msgid "Purging of the pemalinks was successful"
+msgstr "Purging of the pemalinks was successful"
+
+#: pnadmin.php:301
+msgid "Purging of the pemalinks has failed"
+msgstr "Purging of the pemalinks has failed"
+
+#: pnadmin.php:360
+msgid "View"
+msgstr "مشاهده"
+
+#: pnadmin.php:365 pntemplates/pages_user_display.htm:45
+msgid "Edit"
+msgstr "ویرایش"
+
+#: pnadmin.php:370
+msgid "Delete"
+msgstr "حذف کردن"
+
+#: pnadmin.php:486
+msgid "Done! Module configuration updated."
+msgstr "انجام شد! پیکر بندی ماژول به روز رسانی شد."
+
+#: pnversion.php:16 pninit.php:289
+msgid "Static pages"
+msgstr "صفحات استاتیک"
+
+#: pnversion.php:17
+msgid "Manager of the static pages of the site."
+msgstr "مدیر صفحات استاتیک سایت"
+
+#. ! this defines the module's url
+#: pnversion.php:20
+msgid "pages"
+msgstr "صفحات"
+
+#: pnsearchapi.php:101 pnsearchapi.php:132 pnuserapi.php:165
+msgid "Error! Could not load any page."
+msgstr "خطا! نمی توانم هیچ صفحه ای را بارگزاری کنم."
+
+#: pnblocks/pageslist.php:39 pntemplates/pages_user_view.htm:2
+#: pntemplates/pages_user_view.htm:33
+msgid "Pages list"
+msgstr "لیست صفحات"
+
+#: pnblocks/pageslist.php:40
+msgid "Display a list of pages"
+msgstr "نمایش لیستی از صفحات"
+
+#: pnblocks/page.php:32
+msgid "Show page"
+msgstr "نمایش صفحه"
+
+#: pnblocks/page.php:33
+msgid "Show a page in a block"
+msgstr "نمایش یک صفحه در یک بلوک"
+
+#: pnuser.php:126
+msgid "Invalid category passed."
+msgstr "Invalid category passed."
+
+#: pnuser.php:200 pntemplates/pages_admin_view.htm:97
+msgid "No pages found."
+msgstr "هیچ صفحه ای پیدا نشد."
+
+#: pnadminapi.php:67 pnadminapi.php:198
+msgid "The permalinks retrieved from the title has to be unique!"
+msgstr "The permalinks retrieved from the title has to be unique!"
+
+#: pnadminapi.php:69 pnadminapi.php:200
+msgid "The permalink has to be unique!"
+msgstr "The permalink has to be unique!"
+
+#: pnadminapi.php:71 pnadminapi.php:202
+msgid ""
+"The permalink has been removed, please update the page with a correct and "
+"unique permalink"
+msgstr ""
+"The permalink has been removed, please update the page with a correct and "
+"unique permalink"
+
+#: pnadminapi.php:75
+msgid "Error! Creation attempt failed."
+msgstr "Error! Creation attempt failed."
+
+#: pnadminapi.php:116
+msgid "Error! Deletion attempt failed."
+msgstr "Error! Deletion attempt failed."
+
+#: pnadminapi.php:206 pninit.php:83 pninit.php:94 pninit.php:100
+#: pninit.php:108 pninit.php:201
+msgid "Error! Update attempt failed."
+msgstr "Error! Update attempt failed."
+
+#: pnadminapi.php:284 pntemplates/pages_admin_view.htm:3
+msgid "View pages list"
+msgstr "نمایش لیست صفحات"
+
+#: pnadminapi.php:288 pntemplates/pages_admin_new.htm:3
+msgid "Create a page"
+msgstr "ایجاد یک صفحه"
+
+#: pnadminapi.php:292
+msgid "Purge permalinks"
+msgstr "Purge permalinks"
+
+#: pnadminapi.php:294 pntemplates/pages_admin_modifyconfig.htm:7
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: pninit.php:41
+msgid ""
+"Warning! Could not create the default Pages category tree. If you want to "
+"use categorization for the pages, register at least one property for the "
+"module in the Category Registry."
+msgstr ""
+"Warning! Could not create the default Pages category tree. If you want to "
+"use categorization for the pages, register at least one property for the "
+"module in the Category Registry."
+
+#: pninit.php:288 pntemplates/pages_admin_menu.htm:6
+#: pntemplates/pages_search_options.htm:5
+msgid "Pages"
+msgstr "صفحات"
+
+#: pntemplates/pages_admin_modifyconfig.htm:13
+msgid "General settings"
+msgstr "تنظیمات عمومی"
+
+#: pntemplates/pages_admin_modifyconfig.htm:15
+msgid "Enable categorization"
+msgstr "طبقه بندی فعال شود."
+
+#: pntemplates/pages_admin_modifyconfig.htm:19
+msgid "Items per page"
+msgstr "آیتم به ازای صفحه"
+
+#: pntemplates/pages_admin_modifyconfig.htm:24
+msgid "New page defaults"
+msgstr "پیش گزیده های صفحه جدید"
+
+#: pntemplates/pages_admin_modifyconfig.htm:26
+#: pntemplates/pages_admin_modify.htm:64 pntemplates/pages_admin_new.htm:56
+msgid "Display additional information"
+msgstr "نمایش اطلاعات بیشتر"
+
+#: pntemplates/pages_admin_modifyconfig.htm:30
+#: pntemplates/pages_admin_modify.htm:68 pntemplates/pages_admin_new.htm:60
+msgid "Display page title"
+msgstr "نمایش عنوان صفحه"
+
+#: pntemplates/pages_admin_modifyconfig.htm:34
+#: pntemplates/pages_admin_modify.htm:72 pntemplates/pages_admin_new.htm:64
+msgid "Display page creation date"
+msgstr "نمایش تاریخ ایجاد صفحه"
+
+#: pntemplates/pages_admin_modifyconfig.htm:38
+#: pntemplates/pages_admin_modify.htm:76 pntemplates/pages_admin_new.htm:68
+msgid "Display page update date"
+msgstr "نمایش تاریخ به روز رسانی صفحه"
+
+#: pntemplates/pages_admin_modifyconfig.htm:42
+#: pntemplates/pages_admin_modify.htm:80 pntemplates/pages_admin_new.htm:72
+msgid "Display page text statistics"
+msgstr "نمایش آمار متن صفحه"
+
+#: pntemplates/pages_admin_modifyconfig.htm:46
+#: pntemplates/pages_admin_modify.htm:84 pntemplates/pages_admin_new.htm:76
+msgid "Display page print link"
+msgstr "نمایش لینک صفحه قابل چاپ"
+
+#: pntemplates/pages_admin_modifyconfig.htm:51
+msgid "Permalinks settings"
+msgstr "تنظیمات لینک های ثابت"
+
+#: pntemplates/pages_admin_modifyconfig.htm:53
+msgid "Add category title to permalink"
+msgstr "اضافه کردن نام طبقه به لینک ثابت"
+
+#: pntemplates/pages_admin_modifyconfig.htm:57
+msgid "Show permalink input field"
+msgstr "Show permalink input field"
+
+#: pntemplates/pages_admin_modifyconfig.htm:65
+msgid "Save"
+msgstr "ذخیره"
+
+#: pntemplates/pages_admin_modifyconfig.htm:66
+#: pntemplates/pages_admin_modify.htm:105
+#: pntemplates/pages_admin_delete.htm:19 pntemplates/pages_admin_new.htm:86
+msgid "Cancel"
+msgstr "انصراف"
+
+#: pntemplates/pages_admin_modify.htm:3
+msgid "Update page"
+msgstr "به روز رسانی صفحه"
+
+#: pntemplates/pages_admin_modify.htm:18 pntemplates/pages_admin_modify.htm:55
+#: pntemplates/pages_admin_new.htm:16 pntemplates/pages_admin_new.htm:47
+msgid "Content"
+msgstr "محتوا"
+
+#: pntemplates/pages_admin_modify.htm:20 pntemplates/pages_admin_view.htm:61
+#: pntemplates/pages_admin_new.htm:18
+msgid "Title"
+msgstr "عنوان"
+
+#: pntemplates/pages_admin_modify.htm:25 pntemplates/pages_admin_new.htm:23
+msgid "PermaLink URL title"
+msgstr "نام آدرس لینک ثابت"
+
+#: pntemplates/pages_admin_modify.htm:27 pntemplates/pages_admin_new.htm:25
+msgid "(Blank = auto-generate)"
+msgstr "(خالی رها کردن = ساخت خودکار)"
+
+#: pntemplates/pages_admin_modify.htm:32 pntemplates/pages_admin_view.htm:18
+#: pntemplates/pages_admin_view.htm:63 pntemplates/pages_admin_new.htm:30
+msgid "Category"
+msgstr "دسته بندی"
+
+#: pntemplates/pages_admin_modify.htm:33 pntemplates/pages_admin_view.htm:19
+#: pntemplates/pages_admin_new.htm:31
+msgid "Choose a category"
+msgstr "انتخاب کردن دسته بندی"
+
+#: pntemplates/pages_admin_modify.htm:50 pntemplates/pages_admin_view.htm:44
+#: pntemplates/pages_admin_view.htm:66 pntemplates/pages_admin_new.htm:42
+msgid "Language"
+msgstr "زبان"
+
+#: pntemplates/pages_admin_modify.htm:57 pntemplates/pages_admin_new.htm:49
+msgid ""
+"If you want multiple pages you can write &lt;!--pagebreak--&gt; where you "
+"want to cut."
+msgstr ""
+"اگر میخواهید صفحه خود را به چند صفحه تقسیم کنید می توانید هرجا که می خواهید "
+"صفحه اول تمام شود از کد <!--pagebreak--> استفاده کنید."
+
+#: pntemplates/pages_admin_modify.htm:61 pntemplates/pages_admin_new.htm:53
+msgid "Specific page settings"
+msgstr "تنظیمات ویژه صفحه"
+
+#: pntemplates/pages_admin_modify.htm:90
+msgid "Meta data"
+msgstr "فراداده"
+
+#: pntemplates/pages_admin_modify.htm:93
+#, php-format
+msgid "Created by %s"
+msgstr "ایجاد شده توسط %s"
+
+#: pntemplates/pages_admin_modify.htm:94
+#, php-format
+msgid "Created on %s"
+msgstr "ایجاد شده در %s"
+
+#: pntemplates/pages_admin_modify.htm:96
+#, php-format
+msgid "Last update by %s"
+msgstr "آخرین بروزرسانی توسط %s"
+
+#: pntemplates/pages_admin_modify.htm:97
+#, php-format
+msgid "Updated on %s"
+msgstr "آخرین بروزرسانی در %s"
+
+#: pntemplates/pages_admin_modify.htm:104
+msgid "Update"
+msgstr "به روز رسانی"
+
+#: pntemplates/pages_admin_view.htm:50
+msgid "Filter"
+msgstr "صافی"
+
+#: pntemplates/pages_admin_view.htm:51
+msgid "Reset"
+msgstr "بازنشاندن"
+
+#: pntemplates/pages_admin_view.htm:60
+msgid "ID"
+msgstr "شناسه"
+
+#: pntemplates/pages_admin_view.htm:68
+msgid "Actions"
+msgstr "عملیات"
+
+#: pntemplates/pages_admin_delete.htm:2
+msgid "Delete page"
+msgstr "حذف کردن صفحه"
+
+#: pntemplates/pages_admin_delete.htm:10
+msgid "Do you really want to delete this page?"
+msgstr "آیا شما واقعا مطمئنید که می خواهید این صفحه را پاک کنید؟"
+
+#: pntemplates/pages_admin_delete.htm:18
+msgid "Confirm deletion?"
+msgstr "تایید خذف کردن؟"
+
+#: pntemplates/pages_block_pageblock_modify.htm:4
+msgid "Page ID"
+msgstr "شناسه‌ی داخلی"
+
+#: pntemplates/pages_user_display.htm:15
+#, php-format
+msgid "Created by %1$s on %2$s"
+msgstr "ایجاد شده توسط %1$s در %2$s"
+
+#: pntemplates/pages_user_display.htm:19
+#, php-format
+msgid "Last update by %1$s on %2$s"
+msgstr "آخرین بروزرسانی توسط %1$s در %2$s"
+
+#: pntemplates/pages_user_display.htm:22
+msgid "Categories"
+msgstr "دسته بندی ها"
+
+#: pntemplates/pages_user_display.htm:49
+#, php-format
+msgid "%s total words in this text"
+msgstr "کلا %s کلمه در این متن وجود دارد"
+
+#: pntemplates/pages_user_display.htm:51
+#, php-format
+msgid "%s reads"
+msgstr "%s بار خوانده شده"
+
+#: pntemplates/pages_user_display.htm:55
+msgid "Print page"
+msgstr "چاپ صفحه"
+
+#: pntemplates/pages_user_view.htm:7 pntemplates/pages_user_main.htm:2
+msgid "Contents"
+msgstr "محتوا"
+
+#: pntemplates/pages_user_view.htm:8 pntemplates/pages_user_main.htm:8
+msgid "Available categories:"
+msgstr "دسته بندی های موجود:"
+
+#: pntemplates/pages_user_view.htm:30
+#, php-format
+msgid "Category: %s"
+msgstr "طبقه: %s"
+
+#: pntemplates/pages_user_view.htm:31
+msgid "Pages published under this category:"
+msgstr "صفحات منتشر شده در این دسته بندی:"
+
+#: pntemplates/pages_user_view.htm:34
+msgid "Available pages:"
+msgstr "صفحات موجود"
+
+#: pntemplates/pages_block_pageslist_modify.htm:4
+msgid "Number of pages to display"
+msgstr "تعداد صفحات برای نمایش"
+
+#: pntemplates/pages_admin_new.htm:85
+msgid "Create"
+msgstr "ایجاد"

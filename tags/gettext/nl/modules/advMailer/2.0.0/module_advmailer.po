@@ -1,0 +1,505 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Dutch Translation for Advanced Mailer 2.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-10 10:29+0200\n"
+"PO-Revision-Date: 2010-07-13 23:39+0200\n"
+"Last-Translator: Arjen <teb@zikula.nl>\n"
+"Language-Team: Dutch Zikula Community\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnincludes/classes/admin/errorlog.php:36
+#: pnincludes/classes/admin/errorlog.php:42
+#: pnincludes/classes/admin/errorlog.php:54
+#: pnincludes/classes/admin/queue.php:36 pnincludes/classes/admin/queue.php:42
+#: pnincludes/classes/admin/queue.php:54
+msgid ""
+"An error occured - the mail could not be loaded. Maybe it was delivered or "
+"moved to error logfile in the time between creating the last overview and "
+"your action."
+msgstr ""
+"Foutmelding: De mail kon niet geladen worden. Wellicht was het afgeleverd of "
+"verplaatst naar de fouten-log in de tijd tussen het aanmaken van het laatste "
+"overzicht en de zojuist uitgevoerde actie."
+
+#: pnincludes/classes/admin/errorlog.php:40
+#: pnincludes/classes/admin/queue.php:40
+msgid "The mail was successfully removed and deleted from the mail queue"
+msgstr "De mail was succesvol verwijderd, ook uit de mail wachtrij"
+
+#: pnincludes/classes/admin/errorlog.php:69
+msgid "An error occured while trying to requeue mail"
+msgstr ""
+"Er deed zich een een foutmelding voor bij het opnieuw in de wachtrij "
+"plaatsen van de mail"
+
+#: pnincludes/classes/admin/errorlog.php:71
+msgid "Mail was requeued with highest priority and new ID"
+msgstr ""
+"Mail werd opnieuw in de wachtrij geplaatst met hoogste prioriteit en een "
+"nieuw ID"
+
+#: pnincludes/classes/admin/errorlog.php:91
+msgid "mails requeued - please repeat this action until all mails are requeued"
+msgstr ""
+"mails opnieuw in wachtrij geplaatst - blijf dit doen totdat alle mails "
+"opnieuw in de wachtrij zijn geplaatst"
+
+#: pnincludes/classes/admin/errorlog.php:93
+msgid "Mails reqeued successfully"
+msgstr "Mails zijn met succes opnieuw in de wachtrij geplaatst"
+
+#: pnincludes/classes/admin/errorlog.php:105
+msgid "Error log deleted completely"
+msgstr "Fouten-log volledig verwijderd"
+
+#: pnincludes/classes/admin/errorlog.php:107
+msgid "An error occured while deleting error log"
+msgstr ""
+"Er deed zich een een foutmelding voor bij het verwijderen van de fouten-log"
+
+#: pnincludes/classes/admin/queue.php:69
+msgid "An error occured while trying to send the selected email manualy"
+msgstr ""
+"Er deed zich een een foutmelding voor bij het handmatig verzenden van de "
+"geselecteerde mail"
+
+#: pnincludes/classes/admin/queue.php:71
+msgid "The email was sent successfully and removed from the mail queue"
+msgstr "De mail is met succes verzonden, en verwijderd uit de mail wachtrij"
+
+#: pnversion.php:13
+msgid "Advanced Mailer"
+msgstr "Advanced Mailer"
+
+#: pnversion.php:14
+msgid "advmailer"
+msgstr "advmailer"
+
+#: pnversion.php:15
+msgid ""
+"Advanced Mailer management: This module gives more functionallity to the "
+"regular zikula Mailer module"
+msgstr ""
+"Geavanceerd Mail beheer - Deze module geeft meer mogelijkheden aan de "
+"reguliere Zikula Mailer module"
+
+#: pninit.php:22
+msgid "Error creating hook"
+msgstr "Foutmelding bij het aanmaken van de hook"
+
+#: pninit.php:36
+msgid "Error! Index creation failed."
+msgstr "Foutmelding: Aanmaken van de index mislukt."
+
+#: pninit.php:46
+msgid ""
+"Please take care to update the email tempaltes for html and text mails. "
+"Otherwise you will add default header and footer for all mails that are sent "
+"out from now on!"
+msgstr ""
+"Let er ook op dat de templates voor html en tekst e-mails worden bijgewerkt. "
+"Anders worden er een standaard header en footer toegevoegd aan alle "
+"uitgaande mails vanaf dit moment!"
+
+#: pninit.php:89
+msgid "Error deleting hook"
+msgstr "Foutmelding bij het verwijderen van de hook"
+
+#: pnadminapi.php:23 pnadminapi.php:28
+#: pntemplates/advmailer_admin_templates.htm:5
+#: pntemplates/advmailer_admin_errorlog.htm:5
+#: pntemplates/advmailer_admin_modifyconfig.htm:5
+#: pntemplates/advmailer_admin_modifyconfig.htm:6
+#: pntemplates/advmailer_admin_queue.htm:5
+msgid "Settings"
+msgstr "Instellingen"
+
+#: pnadminapi.php:24 pntemplates/advmailer_admin_templates.htm:6
+#: pntemplates/advmailer_admin_queue.htm:37
+msgid "Templates"
+msgstr "Templates"
+
+#: pnadminapi.php:25
+msgid "Mail-Queue"
+msgstr "Mail wachtrij"
+
+#: pnadminapi.php:26
+msgid "Error-log"
+msgstr "Fouten-log"
+
+#: pnadminapi.php:27
+msgid "Test configuration"
+msgstr "Test configuratie"
+
+#: pnadminapi.php:173
+msgid "Message was moved to error log - delivery cancelled"
+msgstr "Bericht verplaatst naar fouten-log - aflevering geannuleerd"
+
+#: pnuser.php:25
+msgid "Cron disabled"
+msgstr "Cron uitgeschakeld"
+
+#: pnuser.php:32
+msgid "Authentication correct..."
+msgstr "Authenticatie correct..."
+
+#: pnuser.php:33
+msgid "Start of mail delivery..."
+msgstr "Starten van afleveren van de mail..."
+
+#: pnuser.php:38
+msgid "No mails in the queue"
+msgstr "Geen mails in de wachtrij"
+
+#: pnuser.php:45
+msgid "Send ID"
+msgstr "Verzonden ID"
+
+#: pnuser.php:47
+msgid "Sent Error ID"
+msgstr "Verzend-fout ID"
+
+#: pnuser.php:52
+msgid "Wrong password"
+msgstr "Verkeerd wachtwoord"
+
+#: pntemplates/plugins/function.mailstatus.php:33
+msgid "waiting for delivery"
+msgstr "wachtend op aflevering"
+
+#: pntemplates/plugins/function.mailstatus.php:35
+msgid "failed... waiting for retry"
+msgstr "mislukt... wachtend op nieuwe poging"
+
+#: pntemplates/plugins/function.mailstatus.php:37
+msgid "failed... waiting for last try"
+msgstr "mislukt... wachtend op laatste poging"
+
+#: pntemplates/plugins/function.showmail.php:23
+#: pntemplates/plugins/function.extractmail.php:24
+msgid "param mail missing"
+msgstr "'mail' parameter ontbreekt"
+
+#: pntemplates/plugins/function.extractmail.php:29
+msgid "item not found"
+msgstr "item niet gevonden"
+
+#: pntemplates/plugins/function.templateusage.php:29
+msgid "No"
+msgstr "Nee"
+
+#: pntemplates/plugins/function.templateusage.php:31
+msgid "Yes"
+msgstr "Ja"
+
+#: pnadmin.php:45
+msgid ""
+"This is <font color=\"red\">some default text</font> that will be "
+"<b>replaced</b> by your <i>email's content</i> later whenever a mail is "
+"being sent out!<hr />Have fun! ;-)"
+msgstr ""
+"Dit is <font style=\"color: red\">standaard tekst</font> wat later zal "
+"worden <strong>vervangen</strong> door de <em>e-mail inhoud</em>, op het "
+"moment van verzenden van de e-mail!<hr />"
+
+#: pnadmin.php:46
+msgid ""
+"This is some default text that will be replaced by your email's content "
+"later whenever a mail is being sent out!"
+msgstr ""
+"Dit is standaard tekst wat later zal worden vervangen door de e-mail inhoud, "
+"op het moment van verzenden van de e-mail!"
+
+#: pnadmin.php:122
+msgid "Send mails immediately"
+msgstr "Mails direct verzenden"
+
+#: pnadmin.php:123
+msgid "Send mails via cronjob"
+msgstr "Mails via cronjob verzenden"
+
+#: pnadmin.php:124
+msgid "Send mails in background using SystemInit hooks"
+msgstr "Mails in achtergrond verzenden door middel van SystemInit hooks"
+
+#: pnadmin.php:177
+msgid "Done! Module configuration updated."
+msgstr "Module configuratie bijgewerkt."
+
+#: pntemplates/advmailer_admin_templates.htm:8
+msgid ""
+"You can create templates for all emails that will be sent out that are "
+"customized for your site. There are two types of emails going out: HTML and "
+"plain text. There are some example templates in the Mailer's template "
+"folder. There are four templates - two for HTML and two for plain text "
+"mails. Always the right template is chosen - depending on the mail type. The "
+"templates have to be named the following way"
+msgstr ""
+"Er kunnen eigen aangepaste templates worden aangemaakt voor alle uitgaande e-"
+"mails. Er zijn twee typen uitgaande e-mails: Tekst en HTML. Enkele "
+"voorbeelden zijn te vinden in de template directory van de AdvMailer module. "
+"Daar zijn totaal 4 templates te vinden, twee voor elk type. Afhankelijk van "
+"het mail type wordt de correcte template gekozen. De naam-conventie voor de "
+"templates is als volgt:"
+
+#: pntemplates/advmailer_admin_templates.htm:10
+msgid "Header for plain text mails"
+msgstr "Header voor tekst e-mails"
+
+#: pntemplates/advmailer_admin_templates.htm:11
+msgid "Footer for plain text mails"
+msgstr "Footer voor tekst e-mails"
+
+#: pntemplates/advmailer_admin_templates.htm:12
+msgid "Header for HTML mails"
+msgstr "Header voor HTML e-mails"
+
+#: pntemplates/advmailer_admin_templates.htm:13
+msgid "Footer for HTML mails"
+msgstr "Footer voor HTML e-mails"
+
+#: pntemplates/advmailer_admin_templates.htm:17
+msgid ""
+"Module developers can override the usage of these templates - if you are a "
+"developer, please read the function's documentation! Pleas also mention that "
+"template changes will not affect all mails that are already in the mail "
+"queue and waiting for delivery!"
+msgstr ""
+"Module ontwikkelaars kunnen het gebruik van de templates overriden - lees "
+"hiervoor de documentatie van deze functionaliteit! Let op dat wijzigingen "
+"geen invloed hebben op de opmaak van de mails die al in de wachtrij zijn "
+"geplaatst!"
+
+#: pntemplates/advmailer_admin_templates.htm:20
+msgid "Preview"
+msgstr "Voorbeeld"
+
+#: pntemplates/advmailer_admin_templates.htm:21
+msgid ""
+"Please use theme based template overriding and clear your rendering cache "
+"after changing the templates. The templates will be used as they are seen "
+"below."
+msgstr ""
+"Gebruik bij voorkeur template overrides gebaseerd op themes, en wis de "
+"rendering-cache na het wijzigen van de templates. De templates zullen "
+"gebruikt worden zoals hieronder weergegeven."
+
+#: pntemplates/advmailer_admin_templates.htm:23
+msgid "Preview for plain text mails"
+msgstr "Voorbeeld voor tekst-mails"
+
+#: pntemplates/advmailer_admin_templates.htm:29
+#: pntemplates/advmailer_admin_templates.htm:38
+msgid "No templates found"
+msgstr "Geen templates gevonden"
+
+#: pntemplates/advmailer_admin_templates.htm:31
+msgid ""
+"Depending on your personal site mailer configuration linebreaks will be "
+"added before sending the email. These linebreaks can not be seen here - "
+"please send a test email to an own email account for testing this."
+msgstr ""
+"Afhankelijk van de configuratie van de Mailer module zullen regel-einden "
+"worden toegevoegd voordat de mail verzonden wordt. Deze regeleinden worden "
+"hier niet weergegeven - stuur daarom een test-mail naar een eigen account om "
+"het daadwerkelijke resultaat te zien."
+
+#: pntemplates/advmailer_admin_templates.htm:32
+msgid "Preview for html mails"
+msgstr "Voorbeeld voor HTML-mails"
+
+#: pntemplates/advmailer_admin_errorlog.htm:6
+msgid "Mail error log view and administration"
+msgstr "Mail fouten-log weergave en beheer"
+
+#: pntemplates/advmailer_admin_errorlog.htm:6
+msgid "failed deliveries"
+msgstr "Mislukte afleveringen"
+
+#: pntemplates/advmailer_admin_errorlog.htm:10
+#: pntemplates/advmailer_admin_queue.htm:10
+msgid "Mail content"
+msgstr "Mail inhoud"
+
+#: pntemplates/advmailer_admin_errorlog.htm:11
+#: pntemplates/advmailer_admin_errorlog.htm:37
+#: pntemplates/advmailer_admin_queue.htm:11
+#: pntemplates/advmailer_admin_queue.htm:39
+msgid "mail subject"
+msgstr "Mail onderwerp"
+
+#: pntemplates/advmailer_admin_errorlog.htm:12
+#: pntemplates/advmailer_admin_errorlog.htm:36
+#: pntemplates/advmailer_admin_queue.htm:12
+#: pntemplates/advmailer_admin_queue.htm:38
+msgid "recipient"
+msgstr "Ontvanger"
+
+#: pntemplates/advmailer_admin_errorlog.htm:21
+msgid "Requeue all mails"
+msgstr "Alle mails opnieuw in wachtrij plaatsen"
+
+#: pntemplates/advmailer_admin_errorlog.htm:22
+msgid "Please confirm the deletion of all mails of the error log"
+msgstr "Bevestig het verwijderen van alle mails uit de fouten-log"
+
+#: pntemplates/advmailer_admin_errorlog.htm:22
+msgid "Delete the error log"
+msgstr "Verwijder de fouten-log"
+
+#: pntemplates/advmailer_admin_errorlog.htm:32
+#: pntemplates/advmailer_admin_queue.htm:29
+msgid "Mail ID"
+msgstr "Mail ID"
+
+#: pntemplates/advmailer_admin_errorlog.htm:38
+msgid "date of last try"
+msgstr "Datum van laatste poging"
+
+#: pntemplates/advmailer_admin_errorlog.htm:42
+#: pntemplates/advmailer_admin_queue.htm:48
+msgid "action"
+msgstr "actie"
+
+#: pntemplates/advmailer_admin_errorlog.htm:52
+#: pntemplates/advmailer_admin_queue.htm:71
+msgid "delete"
+msgstr "verwijderen"
+
+#: pntemplates/advmailer_admin_errorlog.htm:54
+msgid "requeue"
+msgstr "opnieuw in wachtrij plaatsen"
+
+#: pntemplates/advmailer_admin_errorlog.htm:64
+msgid "No mails stored in the error logfile"
+msgstr "Geen mails opgeslagen in de fouten-log"
+
+#: pntemplates/advmailer_admin_modifyconfig.htm:11
+msgid "Advanced Mailer settings"
+msgstr "Advanced Mailer instellingen"
+
+#: pntemplates/advmailer_admin_modifyconfig.htm:13
+msgid "Default method for queue handling"
+msgstr "Standaard methode van wachtrij afhandeling"
+
+#: pntemplates/advmailer_admin_modifyconfig.htm:19
+msgid "Settings for mail queue handling"
+msgstr "Instellingen voor wachtrij afhandeling"
+
+#: pntemplates/advmailer_admin_modifyconfig.htm:20
+msgid ""
+"Queue modes can make sense of your site is a site with high outgoing mail "
+"traffic. Mails are put in a queue and sent mail by mail in the background. "
+"Mails can be sent with each site call that is made by any user. Mail sending "
+"will be handled in the background. You can choose between to different queue "
+"modes: Mails can be sent with each site call (a user or a visitor will make "
+"your emails to be sent without seeing this) or you can use a given URL for a "
+"cronjob service. Just call the cronjob URL with a password (you can try it "
+"out in your browser entering the url) you have specified and this will send "
+"the number of mails you specified in this configuration area."
+msgstr ""
+"Wachtrij modes zijn zinvol indien de site een hoge hoeveelheid mail verkeer "
+"heeft. Mails worden in een wachtrij geplaatst en in een achtergrond proces "
+"verstuurd. Dit kan per stuk bij elk site bezoek van een willekeurige "
+"bezoeker (op de achtergrond), of middels een trigger door een cronjob "
+"service. De cronjob URL dient te worden aangeroepen met een vooraf opgegeven "
+"wachtwoord (dit kan getest worden in een normale browser), dit zal het "
+"opgegeven aantal mails versturen (wat ingesteld is in de configuratie)."
+
+#: pntemplates/advmailer_admin_modifyconfig.htm:22
+msgid "Number of mails that should be sent with each site or cronjob call"
+msgstr "Aantal te verzenden mails per cronjob aanroep"
+
+#: pntemplates/advmailer_admin_modifyconfig.htm:26
+msgid "Password for cronjob call"
+msgstr "Wachtwoord bij cronjob aanroep"
+
+#: pntemplates/advmailer_admin_modifyconfig.htm:29
+msgid "Call this URL for email delivery regularly"
+msgstr "Deze URL dient te worden aangeroepen bij de cronjob-mode"
+
+#: pntemplates/advmailer_admin_modifyconfig.htm:31
+msgid "Please set a cronjob password to get the URL for this service"
+msgstr ""
+"Er dient een wachtwoord te worden opgegeven voordat er een URL voor deze "
+"service kan worden gegenereerd"
+
+#: pntemplates/advmailer_admin_modifyconfig.htm:38
+msgid "Update Configuration"
+msgstr "Configuratie bijwerken"
+
+#: pntemplates/advmailer_admin_modifyconfig.htm:39
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: pntemplates/advmailer_admin_queue.htm:6
+msgid "Mail queue view and administration"
+msgstr "Mail wachtrij weergave en beheer"
+
+#: pntemplates/advmailer_admin_queue.htm:6
+msgid "mails in queue"
+msgstr "Mails in wachtrij"
+
+#: pntemplates/advmailer_admin_queue.htm:20
+msgid ""
+"Here all mails from the mail queue are listed. Please do not forget that "
+"mails might be sent instantly after they were listed here. You can access "
+"the mail if you click on the title."
+msgstr ""
+"Hier staan alle mails uit de wachtrij. Vergeet niet dat mails op het moment "
+"van bekijken ook al in het verzend-proces beland kunnen zijn. De mail kan "
+"worden bekeken door op de titel te klikken."
+
+#: pntemplates/advmailer_admin_queue.htm:33
+msgid "priority"
+msgstr "Prioriteit"
+
+#: pntemplates/advmailer_admin_queue.htm:40
+msgid "planed date"
+msgstr "Geplande datum"
+
+#: pntemplates/advmailer_admin_queue.htm:44
+msgid "status"
+msgstr "Status"
+
+#: pntemplates/advmailer_admin_queue.htm:61
+msgid "now"
+msgstr "Nu"
+
+#: pntemplates/advmailer_admin_queue.htm:73
+msgid "send manually"
+msgstr "Handmatig verzenden"
+
+#: pntemplates/advmailer_admin_queue.htm:83
+msgid "Mail queue emtpy - nothing to display"
+msgstr "Mail wachtrij is leeg - niets te tonen"
+
+#: pntemplates/advmailer_admin_menu.htm:4
+msgid "The Advanced Zikula Mailer module"
+msgstr "De Advanced Zikula Mailer module"
+
+#: pntemplates/advmailer_admin_menu.htm:7
+msgid "Version"
+msgstr "Versie"
+
+#: pntemplates/advmailer_admin_menu.htm:7
+msgid "powered by"
+msgstr "aangeboden door"
+
+#: pntemplates/advmailer_admin_menu.htm:7
+msgid "You like the module and it's usefull for you"
+msgstr "Bevalt de module en is deze waardevol"
+
+#: pntemplates/advmailer_admin_menu.htm:7
+msgid "Donate and support my software development"
+msgstr "Doe een donatie en ondersteun de software ontwikkeling"

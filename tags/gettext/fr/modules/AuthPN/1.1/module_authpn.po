@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Traduction du module AuthPN 1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-09 12:50+0000\n"
+"PO-Revision-Date: 2009-12-07 13:00+0200\n"
+"Last-Translator: Christophe <yokav@zikula.fr>\n"
+"Language-Team: Zikula-France <zkfrance@zikula.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.0.0-rc2\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Country: FRANCE\n"
+
+#: pnadmin.php:97
+msgid "Done! Saved module configuration."
+msgstr "Terminé ! Configuration du module enregistrée."
+
+#: pnversion.php:15 pntemplates/authpn_admin_menu.htm:4
+msgid "Authentication manager"
+msgstr "Gestionnaire d'authentification"
+
+#: pnversion.php:16
+msgid ""
+"Provides the ability to employ non-core user-authentication systems within a "
+"site, notably LDAP or OpenID."
+msgstr ""
+"Fournit la possibilité d'utiliser des systèmes d'authentification (externe "
+"au noyau) sur le site, notamment LDAP ou OpenID."
+
+# ! nom du module affiché dans l'url - doit être en minuscule, sans caractères spéciaux, espaces, etc.
+#. ! module name that appears in URL
+#: pnversion.php:18
+msgid "authpn"
+msgstr "authpn"
+
+#: pntemplates/authpn_admin_modifyconfig.htm:4
+#: pntemplates/authpn_admin_modifyconfig.htm:5
+msgid "Settings"
+msgstr "Paramètres"
+
+#: pntemplates/authpn_admin_modifyconfig.htm:10
+msgid "General settings"
+msgstr "Paramètres généraux"
+
+#: pntemplates/authpn_admin_modifyconfig.htm:12
+msgid "Authentication modules"
+msgstr "Modules d'authentification"
+
+#: pntemplates/authpn_admin_modifyconfig.htm:14
+msgid ""
+"Notice: This is a comma-separated list of modules to be used for "
+"authentication on the site."
+msgstr ""
+"Note : Il s'agit d'une liste des modules, séparés par des virgules, qui "
+"peuvent être utilisés pour l'authentification sur le site."
+
+#: pntemplates/authpn_admin_modifyconfig.htm:19
+msgid "Save"
+msgstr "Enregistrer"
+
+#: pntemplates/authpn_admin_modifyconfig.htm:20
+msgid "Cancel"
+msgstr "Annuler"

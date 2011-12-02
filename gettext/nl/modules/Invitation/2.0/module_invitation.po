@@ -1,0 +1,191 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Dutch Translation for Invitation 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 12:20+0200\n"
+"PO-Revision-Date: 2010-06-02 14:25+0200\n"
+"Last-Translator: Arjen <teb@zikula.nl>\n"
+"Language-Team: Dutch Zikula Community\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnuserapi.php:38
+msgid "Invitation from user"
+msgstr "Uitnodiging van gebruiker"
+
+#: pnuserapi.php:53
+msgid ""
+"Your invitation to the following email address was not sent because the user "
+"is already a registered user:"
+msgstr ""
+"De uitnodiging naar het volgende e-mail adres werd niet verzonden, omdat de "
+"gebruiker hier al geregistreerd is:"
+
+#: pnversion.php:15
+msgid "Let your users invite others to your community!"
+msgstr "Laat gebruikers andere mensen uitnodigen voor deze website!"
+
+#: pnaccountapi.php:32
+msgid "Invite friends"
+msgstr "Vrienden uitnodigen"
+
+#: pnuser.php:62
+msgid "Invitation emails sent!"
+msgstr "Uitnodigingen per e-mail verzonden!"
+
+#: pnuser.php:64
+msgid "Invitation mails could not be sent!"
+msgstr "Uitnodigingen konden niet verzonden worden!"
+
+#: pnadmin.php:58
+msgid "Settings updated!"
+msgstr "Instellingen bijgewerkt"
+
+#: pnadmin.php:61
+msgid "Settings could not be updated!"
+msgstr "Instellingen konden niet worden bijgewerkt"
+
+#: pntemplates/invitation_user_main.htm:4
+msgid "Invite friends to sign up here"
+msgstr "Vrienden uitnodigen om hier te registreren"
+
+#: pntemplates/invitation_user_main.htm:6
+msgid ""
+"An email with link and information about this page will be added to your "
+"text."
+msgstr ""
+"Een e-mail met link en informatie over deze pagina zal worden toegevoegd aan "
+"de persoonlijke tekst."
+
+#: pntemplates/invitation_user_main.htm:12
+msgid "Your name"
+msgstr "Naam"
+
+#: pntemplates/invitation_user_main.htm:14
+msgid "Your friend's email address"
+msgstr "E-mail adres van de genodigde"
+
+#: pntemplates/invitation_user_main.htm:17
+msgid "Send invitation to other friends, too:"
+msgstr "Uitnodiging ook aan andere personen sturen:"
+
+#: pntemplates/invitation_user_main.htm:27
+msgid ""
+"You can add some personal text that will be sent to your friend - just write "
+"why the invited person(s) should register here, too."
+msgstr ""
+"Hier kan een persoonlijke tekst worden opgegeven, welke aan de uitnodiging "
+"zal worden toegevoegd. Leg gewoon uit waarom deze persoon hier dient te "
+"registreren!"
+
+#: pntemplates/invitation_user_main.htm:30
+msgid "Send Invitations"
+msgstr "Uitnodigingen versturen"
+
+#: pntemplates/invitation_block_latest.htm:2
+msgid "has invited"
+msgstr "heeft een uitnodiging verstuurd aan"
+
+#: pntemplates/invitation_block_latest.htm:6
+msgid "Thank you for inviting your friends!"
+msgstr "Bedankt voor het versturen van deze uitnodigingen!"
+
+#: pntemplates/invitation_block_latest.htm:8
+msgid "Invite friends now!"
+msgstr "Nodig nu vrienden uit!"
+
+#: pntemplates/invitation_admin_main.htm:7
+msgid "Invitation Module Admin Backend"
+msgstr "Uitnodiging-module Beheer"
+
+#: pntemplates/invitation_admin_main.htm:9
+msgid ""
+"The Invitation module is a small zikula module that allows your users to "
+"invite friends. They can send invitations to email addresses they know. Each "
+"email address can only be invited for one time - if another user invited the "
+"same person the last 2 months the person will not get a new invitation. The "
+"email addresses are stored as md5 hash and whenever a new user profile was "
+"created the user's email address will be compared with the stored hash and "
+"on success the information will be stored for the new user who invited him. "
+"You can specify some lines of text that will be added to every email that "
+"goes out as invitation."
+msgstr ""
+"De uitnodiging module en een kleine module welke het toelaat dat "
+"geregistreerde gebruikers ook andere mensen uitnodigen per e-mail. Elk mail-"
+"adres kan slechts 1 maal gebruikt worden - als een andere gebruiker ook al "
+"een uitnodiging heeft gestuurd in de afgelopen twee maanden zal er geen "
+"nieuwe uitnodiging verzonden worden. De mail-adressen worden gecodeerd (als "
+"MD5 hash) opgeslagen, en als er een nieuw gebruikers profiel is aangemaakt, "
+"wordt het e-mail adres vergeleken met deze opgeslagen adressen. Bij "
+"overeenkomst zal de informatie worden opgeslagen voor de nieuwe gebruiker. "
+"Er kunnen enkele regels tekst worden opgegeven, welke aan iedere "
+"uitnodigings-e-mail zullen worden toegevoegd."
+
+#: pntemplates/invitation_admin_main.htm:14
+msgid ""
+"Text about the site that should be placed next to the user specified message "
+"inside an invitation email"
+msgstr ""
+"Tekst over deze site, welke geplaatst dient te worden naast de door de "
+"gebruiker opgegeven tekst in de uitnodiging."
+
+#: pntemplates/invitation_admin_main.htm:17
+msgid "store"
+msgstr "Opslaan"
+
+#: pntemplates/invitation_admin_main.htm:20
+msgid "Preview"
+msgstr "Voorbeeld"
+
+#: pntemplates/invitation_admin_main.htm:25
+msgid "Integration into Zikula"
+msgstr "Integratie met Zikula"
+
+#: pntemplates/invitation_admin_main.htm:26
+msgid ""
+"For MyProfile users this integration does not have to be made - Invitation "
+"is already fully integrated. For other modules please write these lines into "
+"the profile module template that displays a profile and make sure that the "
+"uid parameter is the right one. This may depend on the module you use."
+msgstr ""
+"Voor gebruikers van MyProfile is deze integratie niet nodig - de Uitnodiging-"
+"module is al volledig geïntegreerd. Voor andere Profiel-modules dienen "
+"onderstaande regels te worden toegevoegd aan de template welke een profiel "
+"weergeeft, en vergewis dan dat de uid-parameter de correcte is. Dit kan "
+"afhankelijk zijn van de module die gebruikt wordt."
+
+#: pntemplates/invitation_admin_main.htm:28
+msgid "Integration code for display user profile template"
+msgstr "Integratie code voor de template die gebruikers-profielen toont"
+
+#: pntemplates/invitation_block_latest_modify.htm:3
+msgid "How many user should be shown in block?"
+msgstr "Aantal weer te geven gebruikers in blok"
+
+#: pntemplates/invitation_email_invite.htm:4
+msgid "More details about the website"
+msgstr "Meer details over de website"
+
+#: pntemplates/invitation_email_invite.htm:7
+msgid "Your friend's name:"
+msgstr "Naam van de persoon die de uitnodiging heeft verzonden:"
+
+#: pntemplates/invitation_email_invite.htm:9
+msgid "Your friend's username:"
+msgstr "Gebruikersnaam van de persoon die de uitnodiging heeft verzonden:"
+
+#: pntemplates/invitation_email_invite.htm:11
+msgid "Account registration"
+msgstr "Account registratie"
+
+#: pntemplates/invitation_email_invite.htm:14
+msgid "Your friend has added additional information for you:"
+msgstr "De volgende tekst is als persoonlijke noot toegevoegd:"

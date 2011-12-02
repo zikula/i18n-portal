@@ -1,0 +1,950 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Dutch Translation for EZComments 2.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-02 08:13+0000\n"
+"PO-Revision-Date: 2010-06-02 22:43+0200\n"
+"Last-Translator: Arjen <teb@zikula.nl>\n"
+"Language-Team: Dutch Zikula Community\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnadmin.php:58 pnuser.php:57 pnuser.php:156 pnuser.php:293
+msgid "Internal Error."
+msgstr "Interne foutmelding."
+
+#: pnadmin.php:67 pnadmin.php:737 pnuser.php:66
+msgid "View"
+msgstr "Bekijken"
+
+#: pnadmin.php:71 pnadmin.php:741 pnuser.php:79
+#: pntemplates/ezcomments_user_modify.htm:9
+#: pntemplates/ezcomments_admin_modify.htm:9
+msgid "Edit"
+msgstr "Bewerken"
+
+#: pnadmin.php:169
+msgid "Done! Item deleted."
+msgstr "Item verwijderd."
+
+#: pnadmin.php:176 pnadmin.php:183 pnadmin.php:190
+msgid "Done! Item updated."
+msgstr "Item bijgewerkt."
+
+#: pnadmin.php:260
+msgid "No migration plugins available."
+msgstr "Geen migratie plugins beschikbaar."
+
+#: pnadmin.php:340
+msgid "No orphaned comments."
+msgstr "Geen wees-reacties aanwezig."
+
+#: pnadmin.php:383
+msgid "Error! A general failure occurs."
+msgstr "Foutmelding: Wees-reacties verwijderen is mislukt."
+
+#: pnadmin.php:386
+msgid "Done! All orphaned comments for this module deleted."
+msgstr "Alle wees-reacties voor deze module zijn verwijderd."
+
+#: pnadmin.php:436 pnadmin.php:582 pnadmin.php:649
+#: pnincludes/ezcomments_admin_modifyhandler.class.php:79
+#: pnincludes/ezcomments_user_modifyhandler.class.php:85
+msgid "Done! Comment deleted."
+msgstr "Reactie verwijderd."
+
+#: pnadmin.php:688 pntemplates/plugins/modifier.commentstatus.php:32
+#: pnincludes/ezcomments_admin_modifyhandler.class.php:33
+#: pnincludes/ezcomments_admin_modifyconfighandler.class.php:34
+#: pntemplates/ezcomments_admin_modulestats.htm:12
+#: pntemplates/ezcomments_admin_stats.htm:12
+#: pntemplates/ezcomments_user_main.htm:14
+#: pntemplates/ezcomments_user_main.htm:39
+#: pntemplates/ezcomments_admin_view.htm:19
+#: pntemplates/ezcomments_admin_view.htm:55
+msgid "Pending"
+msgstr "Wachtend"
+
+#: pnadmin.php:689 pntemplates/plugins/modifier.commentstatus.php:34
+#: pnincludes/ezcomments_admin_modifyhandler.class.php:34
+#: pnincludes/ezcomments_admin_modifyconfighandler.class.php:35
+#: pntemplates/ezcomments_admin_modulestats.htm:13
+#: pntemplates/ezcomments_admin_stats.htm:13
+#: pntemplates/ezcomments_user_main.htm:15
+#: pntemplates/ezcomments_user_main.htm:40
+#: pntemplates/ezcomments_admin_view.htm:20
+#: pntemplates/ezcomments_admin_view.htm:56
+msgid "Rejected"
+msgstr "Afgewezen"
+
+#: pnadmin.php:690 pntemplates/plugins/modifier.commentstatus.php:30
+#: pnincludes/ezcomments_admin_modifyhandler.class.php:32
+#: pnincludes/ezcomments_admin_modifyconfighandler.class.php:33
+#: pntemplates/ezcomments_admin_modulestats.htm:11
+#: pntemplates/ezcomments_admin_stats.htm:11
+#: pntemplates/ezcomments_user_main.htm:13
+#: pntemplates/ezcomments_user_main.htm:38
+#: pntemplates/ezcomments_admin_view.htm:18
+#: pntemplates/ezcomments_admin_view.htm:54
+msgid "Approved"
+msgstr "Goedgekeurd"
+
+#: pnadmin.php:777
+msgid "New comment rules applied"
+msgstr "Nieuwe reactie-regels toegepast"
+
+#: pnversion.php:15 pnblocks/ezcomments.php:30
+#: pntemplates/Standard/ezcomments_user_view.htm:6
+#: pntemplates/Dizkus/ezcomments_user_view.htm:6
+#: pntemplates/ezcomments_user_header.htm:3
+#: pntemplates/ezcomments_user_rss.htm:5
+msgid "Comments"
+msgstr "Reacties"
+
+#: pnversion.php:16
+msgid "Attach comments to every kind of content using hooks"
+msgstr "Reacties koppelen aan iedere vorm van inhoud met behulp van hooks."
+
+#. ! module url in lowercase and different to displayname
+#: pnversion.php:18
+msgid "comments"
+msgstr "reacties"
+
+#: pnmyprofileapi.php:26
+msgid "User's pinboard"
+msgstr "Gebruikers prikbord"
+
+#: pnmyprofileapi.php:53
+msgid "Registering EZComments hook for MyProfile module failed"
+msgstr "Koppelen van de Reacties-module aan MyProfile is mislukt"
+
+#: pnsearchapi.php:56
+#, php-format
+msgid ""
+"The comments can only be searched for words that are longer than %1$s and "
+"less than %2$s characters!"
+msgstr ""
+"Er kan alleen in reacties worden gezocht op woorden van tenminste %1$s "
+"karakters en ten hoogste %2$s karakters!"
+
+#: pnsearchapi.php:89 pnuserapi.php:691
+msgid "Error! Could not load items."
+msgstr "Foutmelding: Kon items niet inladen."
+
+#: pnuserapi.php:199
+msgid "Error! The user ignores you."
+msgstr "Foutmelding: De gebruiker heeft jou op zijn blokkeerlijst staan."
+
+#: pnuserapi.php:207
+msgid "Error! The name field is required. Comment rejected."
+msgstr "Foutmelding: het veld 'naam' is verplicht. Reactie afgewezen."
+
+#: pnuserapi.php:263
+msgid ""
+"Error! Your comment contains unacceptable content and has been rejected."
+msgstr ""
+"Foutmelding: De reactie bevat niet toegestane inhoud, en is derhalve "
+"afgewezen."
+
+#: pnuserapi.php:289
+msgid "Error! Creation attempt failed."
+msgstr "Foutmelding: Kon item niet aanmaken."
+
+#: pnuserapi.php:296
+msgid "Done! Comment added."
+msgstr "Reactie toegevoegd."
+
+#: pnuserapi.php:300
+msgid ""
+"Done! Your comment was held for moderation and will be reviewed shortly."
+msgstr ""
+"Reactie is ter goedkeuring ontvangen en zal zo snel mogelijk beoordeeld "
+"worden."
+
+#: pnuserapi.php:330 pntemplates/ezcomments_mail_newcomment.htm:1
+msgid "A new comment was entered"
+msgstr "Er is een nieuwe reactie ingevoerd"
+
+#: pnuserapi.php:351
+msgid "New comment for your site"
+msgstr "Nieuwe reactie voor de site"
+
+#: pnblocks/ezcomments.php:31
+msgid "Show latest comments"
+msgstr "Toon laatste reacties"
+
+#: pnincludes/ezcomments_admin_modifyhandler.class.php:28
+#: pnincludes/ezcomments_user_modifyhandler.class.php:29 pnadminapi.php:199
+msgid "No such comment found."
+msgstr "Reactie kon niet gevonden worden."
+
+#: pnincludes/ezcomments_admin_modifyhandler.class.php:89
+#: pnincludes/ezcomments_user_modifyhandler.class.php:102
+msgid "Name for anonymous user is missing."
+msgstr "De te gebruiken naam voor anonieme bezoekers ontbreekt."
+
+#: pnincludes/ezcomments_admin_modifyhandler.class.php:95
+#: pnincludes/ezcomments_user_modifyhandler.class.php:108
+msgid "Email address of anonymous user is missing or invalid."
+msgstr ""
+"Het te gebruiken e-mail adres voor anonieme bezoekers ontbreekt of is "
+"ongeldig."
+
+#: pnincludes/ezcomments_admin_modifyhandler.class.php:101
+#: pnincludes/ezcomments_user_modifyhandler.class.php:114
+msgid "Website of anonymous user is invalid."
+msgstr "De te gebruiken website van anonieme bezoekers is ongeldig."
+
+#: pnincludes/ezcomments_admin_modifyhandler.class.php:112
+#: pnincludes/ezcomments_user_modifyhandler.class.php:125 pnuser.php:426
+msgid "Error! The comment contains no text."
+msgstr "Foutmelding: De reactie bevat geen tekst."
+
+#: pnincludes/ezcomments_admin_modifyhandler.class.php:130
+#: pnincludes/ezcomments_user_modifyhandler.class.php:142
+msgid "Done! Comment updated."
+msgstr "Reactie bijgewerkt."
+
+#: pnincludes/ezcomments_admin_modifyconfighandler.class.php:39
+msgid "Atom 0.3"
+msgstr "Atom 0.3"
+
+#: pnincludes/ezcomments_admin_modifyconfighandler.class.php:40
+msgid "RSS 2.0"
+msgstr "RSS 2.0"
+
+#: pnincludes/ezcomments_admin_modifyconfighandler.class.php:64
+#: pnincludes/ezcomments_admin_modifyconfighandler.class.php:69
+#: pnincludes/ezcomments_admin_modifyconfighandler.class.php:74
+#: pnincludes/ezcomments_admin_modifyconfighandler.class.php:79
+#: pnincludes/ezcomments_admin_modifyconfighandler.class.php:84
+msgid "missing value"
+msgstr "Er ontbreekt een waarde"
+
+#: pnincludes/ezcomments_admin_modifyconfighandler.class.php:117
+msgid "Done! Module configuration updated."
+msgstr "Module configuratie bijgewerkt."
+
+#: pnaccountapi.php:25
+msgid "Manage my comments"
+msgstr "Beheer mijn reacties"
+
+#: pnadminapi.php:145 pnadminapi.php:323
+msgid "No such item found."
+msgstr "Item kon niet gevonden worden."
+
+#: pnadminapi.php:160 pnadminapi.php:284 pnadminapi.php:291
+msgid "Error! Deletion attempt failed."
+msgstr "Foutmelding: Poging tot verwijderen mislukt."
+
+#: pnadminapi.php:216
+msgid "Error! Update attempt failed."
+msgstr "Foutmelding: Poging tot bijwerken mislukt."
+
+#: pnadminapi.php:372
+msgid "View comments"
+msgstr "Bekijk reacties"
+
+#: pnadminapi.php:373
+msgid "Delete orphaned comments"
+msgstr "Verwijder wees-reacties"
+
+#: pnadminapi.php:374
+msgid "Migrate comments"
+msgstr "Migreer reacties"
+
+#: pnadminapi.php:375 pntemplates/ezcomments_admin_purge.htm:5
+msgid "Purge comments"
+msgstr "Reacties opschonen"
+
+#: pnadminapi.php:376 pntemplates/ezcomments_admin_modulestats.htm:5
+#: pntemplates/ezcomments_admin_stats.htm:5
+msgid "Comment statistics"
+msgstr "Reactie statistieken"
+
+#: pnadminapi.php:377 pntemplates/ezcomments_admin_applyrules_results.htm:5
+#: pntemplates/ezcomments_admin_applyrules_form.htm:5
+msgid "Re-apply moderation rules"
+msgstr "Moderatie regels opnieuw toepassen"
+
+#: pnadminapi.php:378 pntemplates/ezcomments_admin_modifyconfig.htm:5
+msgid "Settings"
+msgstr "Instellingen"
+
+#: pninit.php:30 pninit.php:36 pninit.php:41
+msgid "Error creating hook."
+msgstr "Foutmelding bij aanmaken van de hook."
+
+#: pninit.php:93
+msgid "Error updating the table."
+msgstr "Foutmelding bij het bijwerken van de tabel."
+
+#: pninit.php:145 pninit.php:149 pninit.php:153
+msgid "Error deleting hook."
+msgstr "Foutmelding bij het verwijderen van de hook."
+
+#: pntemplates/Standard/ezcomments_user_view.htm:9
+#: pntemplates/Standard/ezcomments_user_view.htm:86
+#: pntemplates/Dizkus/ezcomments_user_view.htm:9
+#: pntemplates/Dizkus/ezcomments_user_view.htm:74
+msgid "Add a new comment"
+msgstr "Nieuwe reactie toevoegen"
+
+#: pntemplates/Standard/ezcomments_user_view.htm:31
+#, php-format
+msgid "Posted on %s"
+msgstr "Geplaatst op %s"
+
+#: pntemplates/Standard/ezcomments_user_view.htm:39
+#: pntemplates/Dizkus/ezcomments_user_view.htm:35
+msgid "Send mail to user"
+msgstr "E-mail naar gebruiker zenden"
+
+#: pntemplates/Standard/ezcomments_user_view.htm:42
+#: pntemplates/Dizkus/ezcomments_user_view.htm:38
+msgid "Modify comment"
+msgstr "Reactie wijzigen"
+
+#: pntemplates/Standard/ezcomments_user_view.htm:73
+#: pntemplates/Dizkus/ezcomments_user_view.htm:55
+msgid "No comments posted yet."
+msgstr "Nog geen reacties geplaatst"
+
+#: pntemplates/Standard/ezcomments_user_view.htm:88
+#: pntemplates/ezcomments_user_modify.htm:33
+#: pntemplates/ezcomments_user_modify.htm:36
+#: pntemplates/Dizkus/ezcomments_user_view.htm:76
+#: pntemplates/ezcomments_admin_modify.htm:37
+msgid "Subject"
+msgstr "Onderwerp"
+
+#: pntemplates/Standard/ezcomments_user_view.htm:93
+#: pntemplates/ezcomments_user_modify.htm:13
+#: pntemplates/Dizkus/ezcomments_user_view.htm:81
+#: pntemplates/ezcomments_admin_modify.htm:13
+msgid "Name"
+msgstr "Naam"
+
+#: pntemplates/Standard/ezcomments_user_view.htm:93
+#: pntemplates/Dizkus/ezcomments_user_view.htm:81
+msgid "(required for unregistered users)"
+msgstr "(verplicht voor niet-geregistreerde gebruikers)"
+
+#: pntemplates/Standard/ezcomments_user_view.htm:97
+#: pntemplates/ezcomments_user_modify.htm:17
+#: pntemplates/Dizkus/ezcomments_user_view.htm:85
+#: pntemplates/ezcomments_admin_modify.htm:17
+msgid "E-mail address (will not be published)"
+msgstr "E-mail adres (wordt niet getoond)"
+
+#: pntemplates/Standard/ezcomments_user_view.htm:101
+#: pntemplates/ezcomments_user_modify.htm:21
+#: pntemplates/Dizkus/ezcomments_user_view.htm:89
+#: pntemplates/ezcomments_admin_modify.htm:21
+msgid "Website"
+msgstr "Website"
+
+#: pntemplates/Standard/ezcomments_user_view.htm:106
+#: pntemplates/ezcomments_user_modify.htm:42
+#: pntemplates/ezcomments_user_modify.htm:45
+#: pntemplates/Dizkus/ezcomments_user_view.htm:94
+#: pntemplates/ezcomments_admin_applyrules_results.htm:20
+#: pntemplates/ezcomments_admin_applyrules_results.htm:68
+#: pntemplates/ezcomments_admin_modify.htm:41
+#: pntemplates/ezcomments_user_main.htm:30
+#: pntemplates/ezcomments_admin_view.htm:45
+msgid "Comment"
+msgstr "Reactie"
+
+#: pntemplates/Standard/ezcomments_user_view.htm:111
+#: pntemplates/Dizkus/ezcomments_user_view.htm:99
+#: pntemplates/ezcomments_admin_modifyconfig.htm:136
+#: pntemplates/ezcomments_admin_applyrules_form.htm:28
+#: pntemplates/ezcomments_admin_view.htm:111
+msgid "Submit"
+msgstr "Inzenden"
+
+#: pntemplates/Standard/ezcomments_user_view.htm:117
+#: pntemplates/Dizkus/ezcomments_user_view.htm:105
+msgid "Register"
+msgstr "Registreren"
+
+#: pntemplates/Standard/ezcomments_user_view.htm:118
+#: pntemplates/Dizkus/ezcomments_user_view.htm:106
+msgid "log in"
+msgstr "inloggen"
+
+#: pntemplates/Standard/ezcomments_user_view.htm:119
+#: pntemplates/Dizkus/ezcomments_user_view.htm:107
+#, php-format
+msgid "Only logged in users are allowed to comment. %1$s or %2$s."
+msgstr "Alleen ingelogde gebruikers kunnen een reactie plaatsen. %1$s of %2$s."
+
+#: pntemplates/ezcomments_user_modify.htm:2
+#: pntemplates/ezcomments_admin_modify.htm:5
+msgid "Edit comment"
+msgstr "Reactie bewerken"
+
+#: pntemplates/ezcomments_user_modify.htm:26
+#: pntemplates/ezcomments_admin_applyrules_results.htm:17
+#: pntemplates/ezcomments_admin_applyrules_results.htm:65
+#: pntemplates/ezcomments_admin_modify.htm:26
+#: pntemplates/ezcomments_user_main.htm:27
+#: pntemplates/ezcomments_admin_view.htm:38
+msgid "Commentator"
+msgstr "Plaatser"
+
+#: pntemplates/ezcomments_user_modify.htm:50
+msgid "Redirect to the commented content after finishing"
+msgstr ""
+"Terug sturen naar oorspronkelijke inhoudspagina na voltooien van reactie."
+
+#: pntemplates/ezcomments_user_modify.htm:57
+#: pntemplates/ezcomments_admin_modify.htm:56
+msgid "Update"
+msgstr "Bijwerken"
+
+#: pntemplates/ezcomments_user_modify.htm:58
+#: pntemplates/ezcomments_admin_deleteitem.htm:16
+#: pntemplates/ezcomments_admin_purge.htm:22
+#: pntemplates/ezcomments_admin_cleanup.htm:18
+#: pntemplates/ezcomments_admin_delete.htm:5
+#: pntemplates/ezcomments_admin_delete.htm:15
+#: pntemplates/ezcomments_admin_modulestats.htm:26
+#: pntemplates/ezcomments_admin_deletemodule.htm:15
+#: pntemplates/ezcomments_admin_modify.htm:57
+#: pntemplates/ezcomments_admin_stats.htm:27
+#: pntemplates/ezcomments_admin_view.htm:106
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: pntemplates/ezcomments_user_modify.htm:59
+#: pntemplates/ezcomments_admin_deleteitem.htm:17
+#: pntemplates/ezcomments_admin_purge.htm:23
+#: pntemplates/ezcomments_admin_migrate.htm:18
+#: pntemplates/ezcomments_admin_applyrules_results.htm:109
+#: pntemplates/ezcomments_admin_cleanup.htm:19
+#: pntemplates/ezcomments_admin_delete.htm:17
+#: pntemplates/ezcomments_admin_delete.htm:19
+#: pntemplates/ezcomments_admin_deletemodule.htm:16
+#: pntemplates/ezcomments_admin_modify.htm:58
+#: pntemplates/ezcomments_admin_applyrules_form.htm:29
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: pntemplates/ezcomments_block_ezcomments_modify.htm:2
+msgid "Number of comments to display"
+msgstr "Aantal te tonen reacties"
+
+#: pntemplates/ezcomments_block_ezcomments_modify.htm:6
+msgid "Show comments for the following module"
+msgstr "Toon reacties voor de volgende module"
+
+#: pntemplates/ezcomments_block_ezcomments_modify.htm:8
+#: pntemplates/ezcomments_user_main.htm:12
+#: pntemplates/ezcomments_admin_view.htm:17
+msgid "All"
+msgstr "Alle"
+
+#: pntemplates/ezcomments_block_ezcomments_modify.htm:13
+msgid "Show username"
+msgstr "Toon gebruikersnaam"
+
+#: pntemplates/ezcomments_block_ezcomments_modify.htm:21
+msgid "Link username to profile"
+msgstr "Koppel gebruikersnaam aan profiel pagina"
+
+#: pntemplates/ezcomments_block_ezcomments_modify.htm:29
+msgid "Show Date"
+msgstr "Toon datum"
+
+#: pntemplates/ezcomments_block_ezcomments_modify.htm:37
+msgid "Show pending comments"
+msgstr "Toon wachtende reacties"
+
+#: pntemplates/Dizkus/ezcomments_user_view.htm:27
+msgid "Posted on"
+msgstr "Geplaatst op"
+
+#: pntemplates/ezcomments_admin_deleteitem.htm:5
+msgid "Delete item"
+msgstr "Item verwijderen"
+
+#: pntemplates/ezcomments_admin_deleteitem.htm:6
+#, php-format
+msgid ""
+"Confirm deletion of all comments for object ID '%1$s' attached to module "
+"'%2$s'"
+msgstr ""
+"Bevestig het verwijderen van alle reacties voor object ID '%1$s', gekoppeld "
+"aan module '%2$s'"
+
+#: pntemplates/ezcomments_admin_deleteitem.htm:14
+#: pntemplates/ezcomments_admin_cleanup.htm:11
+#: pntemplates/ezcomments_admin_delete.htm:13
+#: pntemplates/ezcomments_admin_deletemodule.htm:13
+msgid "Confirmation prompt"
+msgstr "Bevestigingsprompt"
+
+#: pntemplates/ezcomments_mail_newcomment.htm:2
+#: pntemplates/ezcomments_mail_modcomment.htm:2
+msgid "Username:"
+msgstr "Gebruikersnaam:"
+
+#: pntemplates/ezcomments_mail_newcomment.htm:3
+#: pntemplates/ezcomments_mail_modcomment.htm:3
+msgid "Date:"
+msgstr "Datum:"
+
+#: pntemplates/ezcomments_mail_newcomment.htm:4
+#: pntemplates/ezcomments_mail_modcomment.htm:4
+msgid "Subject:"
+msgstr "Onderwerp:"
+
+#: pntemplates/ezcomments_mail_newcomment.htm:7
+#: pntemplates/ezcomments_mail_modcomment.htm:7
+msgid "Show:"
+msgstr "Weergeven:"
+
+#: pntemplates/ezcomments_mail_newcomment.htm:8
+#: pntemplates/ezcomments_mail_modcomment.htm:8
+msgid "Moderate:"
+msgstr "Keuren of aanpassen:"
+
+#: pntemplates/ezcomments_admin_purge.htm:11
+#: pntemplates/ezcomments_admin_applyrules_results.htm:21
+#: pntemplates/ezcomments_admin_applyrules_results.htm:69
+#: pntemplates/ezcomments_admin_modulestats.htm:14
+#: pntemplates/ezcomments_admin_stats.htm:14
+#: pntemplates/ezcomments_user_main.htm:31
+#: pntemplates/ezcomments_admin_view.htm:46
+msgid "Options"
+msgstr "Opties"
+
+#: pntemplates/ezcomments_admin_purge.htm:13
+msgid "Purge all pending comments"
+msgstr "Alle wachtende reacties opschonen"
+
+#: pntemplates/ezcomments_admin_purge.htm:17
+msgid "Purge all rejected comments"
+msgstr "Alle afgewezen reacties opschonen"
+
+#: pntemplates/ezcomments_admin_migrate.htm:5
+msgid "Import comments from other modules"
+msgstr "Reacties uit andere modules importeren"
+
+#: pntemplates/ezcomments_admin_migrate.htm:10
+msgid "Migration"
+msgstr "Migratie"
+
+#: pntemplates/ezcomments_admin_migrate.htm:12
+#: pntemplates/ezcomments_admin_applyrules_results.htm:18
+#: pntemplates/ezcomments_admin_applyrules_results.htm:66
+#: pntemplates/ezcomments_admin_modulestats.htm:5
+#: pntemplates/ezcomments_admin_stats.htm:9
+#: pntemplates/ezcomments_admin_view.htm:42
+msgid "Module"
+msgstr "Module"
+
+#: pntemplates/ezcomments_admin_migrate.htm:17
+msgid "Start migration"
+msgstr "Start migratie"
+
+#: pntemplates/ezcomments_admin_applyrules_results.htm:12
+msgid "The following comments will become rejected"
+msgstr "De volgende reacties zullen worden afgewezen"
+
+#: pntemplates/ezcomments_admin_applyrules_results.htm:16
+#: pntemplates/ezcomments_admin_applyrules_results.htm:64
+#: pntemplates/ezcomments_admin_modify.htm:45
+#: pntemplates/ezcomments_user_main.htm:24
+#: pntemplates/ezcomments_admin_view.htm:35
+msgid "Status"
+msgstr "Status"
+
+#: pntemplates/ezcomments_admin_applyrules_results.htm:19
+#: pntemplates/ezcomments_admin_applyrules_results.htm:67
+#: pntemplates/ezcomments_admin_view.htm:43
+msgid "Comment type"
+msgstr "Reactie type"
+
+#: pntemplates/ezcomments_admin_applyrules_results.htm:54
+#: pntemplates/ezcomments_admin_applyrules_results.htm:102
+#: pntemplates/ezcomments_admin_stats.htm:34
+#: pntemplates/ezcomments_user_main.htm:76
+#: pntemplates/ezcomments_admin_view.htm:95
+msgid "No items found"
+msgstr "Geen items gevonden"
+
+#: pntemplates/ezcomments_admin_applyrules_results.htm:59
+msgid "The following comments will require moderation"
+msgstr "De volgende reacties vereisen moderatie"
+
+#: pntemplates/ezcomments_admin_applyrules_results.htm:108
+msgid "Apply"
+msgstr "Toepassen"
+
+#: pntemplates/ezcomments_admin_cleanup.htm:5
+msgid "Delete all comments for this module"
+msgstr "Verwijder alle reacties voor deze module"
+
+#: pntemplates/ezcomments_admin_cleanup.htm:6
+msgid ""
+"This functionality allows you to delete comments that are in the database "
+"for removed modules."
+msgstr ""
+"Deze functionaliteit staat het toe reacties te verwijderen die gekoppeld "
+"staan aan reeds verwijderde modules."
+
+#: pntemplates/ezcomments_admin_cleanup.htm:13
+msgid "Select module"
+msgstr "Selecteer module"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:9
+msgid "Miscellaneous"
+msgstr "Overig"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:11
+msgid "Default template"
+msgstr "Standaard template"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:15
+msgid "Default stylesheet"
+msgstr "Standaard stylesheet"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:18
+msgid "By default, the following possibilities exists:"
+msgstr "Standaard zijn de volgende mogelijkheden aanwezig:"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:24
+msgid "Allow unregistered users to set user information"
+msgstr "Anonieme bezoekers toestaan gebruikersinformatie op te geven"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:28
+msgid "Require name for unregistered user"
+msgstr "Naam verplicht stellen voor anonieme bezoekers"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:32
+msgid "Log IP addresses"
+msgstr "IP adres opslaan"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:36
+msgid "Comments per page in admin view"
+msgstr "Reacties per pagina in beheer gedeelte"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:40
+msgid "Enable pager in user view"
+msgstr "Paginering toestaan in gebruikers gedeelte"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:44
+msgid "Comments per page in user view"
+msgstr "Reacties per pagina in gebruikers gedeelte"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:48
+msgid "Activate account page in user section"
+msgstr "Link naar reactie overzicht weergeven op account pagina"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:53
+msgid "Notification"
+msgstr "Notificatie"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:54
+msgid ""
+"The notification email will be sent to the owner of the content. If there is "
+"no owner known, the notification mail will be sent to the site administrator."
+msgstr ""
+"De notificatie e-mail wordt verzonden naar de eigenaar van het inhouds-item "
+"waarop gereageerd wordt. Indien er geen eigenaars bekend is, zal de mail "
+"worden gestuurd naar de site beheerder."
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:56
+msgid "Send mail on new comment"
+msgstr "E-mail sturen bij nieuw geplaatste reactie"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:60
+msgid "Send mail on comment requiring moderation"
+msgstr "E-mail sturen indien er moderatie of keuring nodig is bij een reactie"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:65
+msgid "Moderation"
+msgstr "Moderatie"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:67
+msgid "Enable comment moderation"
+msgstr "Reactie moderatie inschakelen"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:71
+msgid "All comments require moderation"
+msgstr "Moderatie vereisen bij alle reacties"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:75
+msgid ""
+"Do not require moderation for comments from users who have already commented"
+msgstr ""
+"Geen moderatie eisen bij reacties van gebruikers die al eerder een reactie "
+"geplaatst hebben"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:79
+msgid "Number of links in comment before moderation"
+msgstr "Aantal links in reactie voordat moderatie geactiveerd wordt"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:83
+msgid "Words to trigger moderation"
+msgstr "Woorden die moderatie activeren"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:88
+msgid "Blacklisting"
+msgstr "Blacklisting"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:90
+msgid "Number of links in comment before blacklisting"
+msgstr "Aantal links in reactie voordat er geblacklist wordt"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:94
+msgid "Words to blacklist from comments"
+msgstr "Woorden op de blacklist (die niet mogen voorkomen in reacties)"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:96
+msgid ""
+"Notice: Comments containing words listed here will be completely ignored by "
+"the comments module"
+msgstr ""
+"Notitie: Reacties die woorden uit deze lijst bevatten zullen volledig "
+"genegeerd worden door de reactie-module"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:99
+msgid "Blacklist comments from insecure proxies"
+msgstr "Reacties van onveilige proxies blacklisten"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:103
+msgid ""
+"Number of hours where users are allowed to modify the text of own comments."
+msgstr ""
+"Aantal uren waarbinnen het de gebruiker toegestaan is om een eigen reactie "
+"te wijzigen."
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:105
+msgid "The value -1 deactivates this function."
+msgstr "Een waarde van -1 zal deze functionaliteit uitschakelen"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:109
+msgid "Akismet spam dectection service"
+msgstr "Akismet Spam detectie service"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:110
+msgid ""
+"Notice: <a href=\"http://akismet.com/\">Akismet</a> is a spam detection "
+"service that can, in many cases, eliminate comment and trackback spam. To "
+"use akismet you need to install and configure the <a href=\"http://code."
+"zikula.org/ezcomments/\">Akismet module</a>."
+msgstr ""
+"<a href=\"http://akismet.com/\">Akismet</a> is een spam detectie service wat "
+"vaak in staat is om reactie- en trackbackspam te detecteren. Om akismet te "
+"gebruiken is de <a href=\"http://community.zikula.org/module-Extensions-"
+"display-ot-component-componentid-79.htm\">Akismet module</a> benodigd."
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:113
+msgid "Enable akismet"
+msgstr "Akismet gebruiken"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:117
+msgid "Status level to apply to comments flagged as spam by akismet"
+msgstr ""
+"In te stellen status indien een reactie door Akismet als SPAM herkend is"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:123
+msgid "Feeds"
+msgstr "Feeds"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:124
+msgid ""
+"Notice: both the feed type and feed count can be overriden using feedtype "
+"and feedcount parameters appended to the feed URL"
+msgstr ""
+"Notitie: Zowel de type feed als het aantal te tonen items kunnen aangepast "
+"worden door respectievelijk de parameters 'feedtype' en 'feedcount' aan de "
+"URL te koppelen."
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:126
+msgid "Type of feed"
+msgstr "Feed type"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:130
+msgid "Number of items to display in feed"
+msgstr "Aantal te tonen reacties in de feed"
+
+#: pntemplates/ezcomments_mail_modcomment.htm:1
+msgid "A new comment was submitted to your site that requires moderation"
+msgstr ""
+"Een nieuwe reactie was ingezonden naar de site, en vereist moderatie of "
+"keuring"
+
+#: pntemplates/ezcomments_admin_menu.htm:4
+msgid "EZComments Administration"
+msgstr "EZComments Beheer"
+
+#: pntemplates/ezcomments_admin_modulestats.htm:9
+msgid "Item ID"
+msgstr "Item ID"
+
+#: pntemplates/ezcomments_admin_modulestats.htm:10
+#: pntemplates/ezcomments_admin_stats.htm:10
+msgid "Total comments"
+msgstr "Totaal aantal reacties"
+
+#: pntemplates/ezcomments_admin_deletemodule.htm:5
+msgid "Delete module"
+msgstr "Module verwijderen"
+
+#: pntemplates/ezcomments_admin_deletemodule.htm:6
+#, php-format
+msgid "Confirm deletion of all comments attached to module '%s'"
+msgstr ""
+"Bevestig het verwijderen van alle reacties die aan module '%s' gekoppeld zijn"
+
+#: pntemplates/ezcomments_user_rss.htm:22
+msgid "No subject"
+msgstr "Geen onderwerp"
+
+#: pntemplates/ezcomments_admin_modify.htm:32
+msgid "IP address"
+msgstr "IP adres"
+
+#: pntemplates/ezcomments_admin_modify.htm:33
+msgid "not logged"
+msgstr "Niet gelogd"
+
+#: pntemplates/ezcomments_admin_modify.htm:49
+msgid "Send me back to the commented content after finishing"
+msgstr ""
+"Stuur me na voltooien weer terug naar de originele pagina waarop ik een "
+"reactie heb geplaatst"
+
+#: pntemplates/ezcomments_block_ezcomments.htm:10
+msgid "by"
+msgstr "door"
+
+#: pntemplates/ezcomments_block_ezcomments.htm:18
+msgid "on"
+msgstr "op"
+
+#: pntemplates/ezcomments_admin_applyrules_form.htm:6
+msgid ""
+"This page allows to to re-apply the defined moderation rules to all existing "
+"comments allowing all comments to be re-checked if you change your "
+"moderation rules."
+msgstr ""
+"Deze pagina staat het toe om de gedefinieerde moderatie regels opnieuw op "
+"alle bestaande reacties toe te passen, zodat ze opnieuw gecontroleerd worden "
+"na een wijziging in de moderatie regels."
+
+#: pntemplates/ezcomments_admin_applyrules_form.htm:12
+#: pntemplates/ezcomments_admin_view.htm:105
+msgid "Choose action"
+msgstr "Kies een actie"
+
+#: pntemplates/ezcomments_admin_applyrules_form.htm:14
+msgid "Apply moderation rules to all comments"
+msgstr "Moderatie regels toepassen op alle reacties"
+
+#: pntemplates/ezcomments_admin_applyrules_form.htm:18
+msgid "or"
+msgstr "of"
+
+#: pntemplates/ezcomments_admin_applyrules_form.htm:21
+msgid "Apply moderation rules to all comments with status"
+msgstr "Moderatie regels toepassen op alle reacties met status"
+
+#: pntemplates/ezcomments_myprofile_tab.htm:1
+msgid "Pinboard for member"
+msgstr "Prikbord voor gebruiker"
+
+#: pntemplates/ezcomments_myprofile_tab.htm:8
+msgid "The user has deactivated the pinboard for his account"
+msgstr "De gebruiker heeft het prikbord voor zijn/haar account gedeactiveerd"
+
+#: pntemplates/ezcomments_myprofile_tab.htm:12
+msgid "Pinboard entries"
+msgstr "Prikbord items"
+
+#: pntemplates/ezcomments_myprofile_tab.htm:21
+msgid "Pinboard entries are only visible for registered or logged in users."
+msgstr ""
+"Prikbord items zijn alleen zichtbaar voor geregistreerde en ingelogde "
+"gebruikers."
+
+#: pntemplates/ezcomments_search_form.htm:6
+msgid "Search comments"
+msgstr "Zoek in reacties"
+
+#: pntemplates/ezcomments_user_main.htm:3
+#, php-format
+msgid "The last %s created or owned comment"
+msgid_plural "The last %s created or owned comments"
+msgstr[0] "De %s laatst geplaatste of aangemaakte reacties"
+msgstr[1] "De %s laatst geplaatste of aangemaakte reacties"
+
+#: pntemplates/ezcomments_user_main.htm:4
+#: pntemplates/ezcomments_admin_view.htm:4
+msgid "unknown"
+msgstr "onbekend"
+
+#: pntemplates/ezcomments_user_main.htm:10
+#: pntemplates/ezcomments_admin_view.htm:15
+msgid "Filter by status"
+msgstr "Filteren op status"
+
+#: pntemplates/ezcomments_user_main.htm:17
+#: pntemplates/ezcomments_admin_view.htm:24
+msgid "Filter"
+msgstr "Filter"
+
+#: pntemplates/ezcomments_user_main.htm:25
+#: pntemplates/ezcomments_admin_view.htm:36
+msgid "Date"
+msgstr "Datum"
+
+#: pntemplates/ezcomments_user_main.htm:28
+#: pntemplates/ezcomments_admin_view.htm:39
+msgid "Owner"
+msgstr "Eigenaar"
+
+#: pntemplates/ezcomments_admin_view.htm:9
+#, php-format
+msgid "The last %s comment"
+msgid_plural "The last %s comments"
+msgstr[0] "De %s laatste reacties"
+msgstr[1] "De %s laatste reacties"
+
+#: pntemplates/ezcomments_admin_view.htm:11
+#, php-format
+msgid "All %s comments"
+msgstr "Alle %s reacties"
+
+#: pntemplates/ezcomments_admin_view.htm:22
+msgid "Show all comments"
+msgstr "Toon alle reacties"
+
+#: pntemplates/ezcomments_admin_view.htm:103
+msgid "With selected comments"
+msgstr "Met geselecteerde reacties"
+
+#: pntemplates/ezcomments_admin_view.htm:107
+msgid "Approve"
+msgstr "Goedkeuren"
+
+#: pntemplates/ezcomments_admin_view.htm:108
+msgid "Hold"
+msgstr "Als wachtend markeren"
+
+#: pntemplates/ezcomments_admin_view.htm:109
+msgid "Reject"
+msgstr "Afwijzen"

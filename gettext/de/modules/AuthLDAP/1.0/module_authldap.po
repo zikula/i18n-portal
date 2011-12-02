@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AuthLDAP 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-09 12:49+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carsten Volmer <carsten@zikula.org>\n"
+"Language-Team: Carsten Volmer <carsten@zikula.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Translate Toolkit 1.5.1\n"
+"X-Poedit-Language: Germany\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Country: German\n"
+
+#: pnadmin.php:61
+msgid "none"
+msgstr "keine"
+
+#: pnadmin.php:130
+msgid "Done! Module configuration updated."
+msgstr "Erledigt! Modulkonfiguration wurde aktualisiert."
+
+#: pnversion.php:14
+msgid "authldap"
+msgstr "authldap"
+
+#: pnversion.php:15
+msgid "AuthLDAP"
+msgstr "AuthLDAP"
+
+#: pnversion.php:16 pntemplates/authldap_admin_menu.htm:4
+msgid "LDAP authentication"
+msgstr "LDAP Authentifikation"
+
+#: pnuserapi.php:27
+msgid "Error! Could not do what you wanted. Please check your input."
+msgstr ""
+"Fehler! Die gewünschte Aktion konnte nicht ausgeführt werden. Bitte Eingaben "
+"überprüfen."
+
+#: pntemplates/authldap_admin_modifyconfig.htm:4
+#: pntemplates/authldap_admin_modifyconfig.htm:5
+msgid "Settings"
+msgstr "Konfiguration"
+
+#: pntemplates/authldap_admin_modifyconfig.htm:11
+msgid "Server address"
+msgstr "Serveradresse"
+
+#: pntemplates/authldap_admin_modifyconfig.htm:15
+msgid "Protocol version"
+msgstr "Protokollversion"
+
+#: pntemplates/authldap_admin_modifyconfig.htm:22
+msgid "Base DN"
+msgstr "Base DN"
+
+#: pntemplates/authldap_admin_modifyconfig.htm:26
+msgid "Bind as"
+msgstr "Bind as"
+
+#: pntemplates/authldap_admin_modifyconfig.htm:30
+msgid "Encryption method"
+msgstr "Verschlüsselungsverfahren"
+
+#: pntemplates/authldap_admin_modifyconfig.htm:36
+msgid "Bind password"
+msgstr "Bind password"
+
+#: pntemplates/authldap_admin_modifyconfig.htm:40
+msgid "Search base"
+msgstr "Search base"
+
+#: pntemplates/authldap_admin_modifyconfig.htm:44
+msgid "Search user using attribute"
+msgstr "Benutzer durchsuchen mit Attribute"
+
+#: pntemplates/authldap_admin_modifyconfig.htm:50
+msgid "Update Configuration"
+msgstr "Konfiguration aktualisieren"
+
+#: pntemplates/authldap_admin_modifyconfig.htm:51
+msgid "Cancel"
+msgstr "Abbrechen"

@@ -1,0 +1,1343 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zikula\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-04-20 09:49+0800\n"
+"PO-Revision-Date: 2010-02-07 11:31+0200\n"
+"Last-Translator: Olaf <dl7und@gmail.com>\n"
+"Language-Team: L10n <dl7und@gmail.com>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: zikulawordlist.txt:1
+msgid "accept"
+msgstr "接受"
+
+#: zikulawordlist.txt:5
+msgid "acceptable"
+msgstr "可以接受的"
+
+#: zikulawordlist.txt:9
+msgid "access"
+msgstr "存取"
+
+#: zikulawordlist.txt:11
+msgid "accessed"
+msgstr "已存取"
+
+#: zikulawordlist.txt:13
+msgid "accessibility"
+msgstr "可存取度"
+
+#: zikulawordlist.txt:15
+msgid "accessible"
+msgstr "可存取的"
+
+#: zikulawordlist.txt:17
+msgid "account"
+msgstr "帳號"
+
+#: zikulawordlist.txt:19
+msgid "activated"
+msgstr "已啟用"
+
+#: zikulawordlist.txt:21
+msgid "activation"
+msgstr "啟動"
+
+#: zikulawordlist.txt:23
+msgid "actual"
+msgstr "現實的"
+
+#: zikulawordlist.txt:25
+msgid "additional"
+msgstr "額外的"
+
+#: zikulawordlist.txt:27
+msgid "admin"
+msgstr "管理員"
+
+#: zikulawordlist.txt:29
+msgid "administering"
+msgstr "管理"
+
+#: zikulawordlist.txt:31
+msgid "administration"
+msgstr "管理"
+
+#: zikulawordlist.txt:33
+msgid "administrative"
+msgstr "管理的"
+
+#: zikulawordlist.txt:35
+msgid "administrator"
+msgstr "管理員"
+
+#: zikulawordlist.txt:37
+msgid "adodb"
+msgstr "adodb"
+
+#: zikulawordlist.txt:39
+msgid "advanced"
+msgstr "進階的"
+
+#: zikulawordlist.txt:41
+msgid "advertising"
+msgstr "廣告"
+
+#: zikulawordlist.txt:43
+msgid "agent"
+msgstr "代理人"
+
+#: zikulawordlist.txt:45
+msgid "alpha"
+msgstr "alpha"
+
+#: zikulawordlist.txt:47
+msgid "analyzer"
+msgstr "分析機"
+
+#: zikulawordlist.txt:49
+msgid "anonymous"
+msgstr "匿名的"
+
+#: zikulawordlist.txt:51
+msgid "api"
+msgstr "API"
+
+#: zikulawordlist.txt:53
+msgid "application"
+msgstr "申請"
+
+#: zikulawordlist.txt:55
+msgid "archive"
+msgstr "檔案 "
+
+#: zikulawordlist.txt:57
+msgid "arguments"
+msgstr "參數"
+
+#: zikulawordlist.txt:59
+msgid "arrange"
+msgstr "整理，安排"
+
+#: zikulawordlist.txt:61
+msgid "array"
+msgstr "array"
+
+#: zikulawordlist.txt:67
+msgid "article"
+msgstr "文章 "
+
+#: zikulawordlist.txt:69
+msgid "assigned"
+msgstr "分配"
+
+#: zikulawordlist.txt:71
+msgid "assignment"
+msgstr "分配"
+
+#: zikulawordlist.txt:73
+msgid "atom"
+msgstr "Atom"
+
+#: zikulawordlist.txt:75
+msgid "attempt"
+msgstr "企圖"
+
+#: zikulawordlist.txt:77
+msgid "attribute"
+msgstr "屬性"
+
+#: zikulawordlist.txt:79
+msgid "authentication"
+msgstr "驗證"
+
+#: zikulawordlist.txt:81
+msgid "authkey"
+msgstr "驗證密鑰"
+
+#: zikulawordlist.txt:83
+msgid "autocreate"
+msgstr "自動建立"
+
+#: zikulawordlist.txt:85
+msgid "automated"
+msgstr "自動化的"
+
+#: zikulawordlist.txt:87
+msgid "automatically"
+msgstr "自動地 "
+
+#: zikulawordlist.txt:89
+msgid "avantgo"
+msgstr "離線瀏覽器"
+
+#: zikulawordlist.txt:91
+msgid "banned"
+msgstr "被禁止的"
+
+#: zikulawordlist.txt:93
+msgid "banner"
+msgstr "旗幟"
+
+#: zikulawordlist.txt:95
+msgid "based"
+msgstr "基於"
+
+#: zikulawordlist.txt:97
+msgid "basic"
+msgstr "基本"
+
+#: zikulawordlist.txt:99
+msgid "bind"
+msgstr "綁定"
+
+#: zikulawordlist.txt:101
+msgid "blank"
+msgstr "空白"
+
+#: zikulawordlist.txt:102
+msgid "block"
+msgstr "區塊"
+
+#: zikulawordlist.txt:103
+msgid "bluerobot"
+msgstr "藍色機器人"
+
+#: zikulawordlist.txt:105
+msgid "border"
+msgstr "邊界"
+
+#: zikulawordlist.txt:107
+msgid "breach"
+msgstr "破壞"
+
+#: zikulawordlist.txt:109
+msgid "browser"
+msgstr "瀏覽器"
+
+#: zikulawordlist.txt:111
+msgid "byte"
+msgstr "位元組"
+
+#: zikulawordlist.txt:113
+msgid "cache"
+msgstr "快取"
+
+#: zikulawordlist.txt:115
+msgid "caching"
+msgstr "正在緩存"
+
+#: zikulawordlist.txt:117
+msgid "categories"
+msgstr "類別"
+
+#: zikulawordlist.txt:119
+msgid "categorization"
+msgstr "分類"
+
+#: zikulawordlist.txt:121
+msgid "category"
+msgstr "類別"
+
+#: zikulawordlist.txt:123
+msgid "caution"
+msgstr "謹慎"
+
+#: zikulawordlist.txt:125
+msgid "certain"
+msgstr "確定的"
+
+#: zikulawordlist.txt:127
+msgid "cgi"
+msgstr "cgi"
+
+#: zikulawordlist.txt:129
+msgid "characters"
+msgstr "字元"
+
+#: zikulawordlist.txt:131
+msgid "chars"
+msgstr "字元"
+
+#: zikulawordlist.txt:133
+msgid "client"
+msgstr "客戶端"
+
+#: zikulawordlist.txt:135
+msgid "code"
+msgstr "代碼"
+
+#: zikulawordlist.txt:137
+msgid "column"
+msgstr "列"
+
+#: zikulawordlist.txt:139
+msgid "comma"
+msgstr "逗號"
+
+#: zikulawordlist.txt:141
+msgid "comment"
+msgstr "註釋"
+
+#: zikulawordlist.txt:143
+msgid "compilation"
+msgstr "編譯"
+
+#: zikulawordlist.txt:145
+msgid "compile"
+msgstr "編譯"
+
+#: zikulawordlist.txt:147
+msgid "compiled"
+msgstr "已編譯"
+
+#: zikulawordlist.txt:149
+msgid "component"
+msgstr "組件"
+
+#: zikulawordlist.txt:151
+msgid "config"
+msgstr "設定"
+
+#: zikulawordlist.txt:153
+msgid "configuration"
+msgstr "組態"
+
+#: zikulawordlist.txt:155
+msgid "configure"
+msgstr "配置"
+
+#: zikulawordlist.txt:157
+msgid "configured"
+msgstr "配置的"
+
+#: zikulawordlist.txt:159
+msgid "confirm"
+msgstr "確認"
+
+#: zikulawordlist.txt:161
+msgid "confirmation"
+msgstr "確認"
+
+#: zikulawordlist.txt:163
+msgid "consent"
+msgstr "同意"
+
+#: zikulawordlist.txt:165
+msgid "consult"
+msgstr "參考"
+
+#: zikulawordlist.txt:167
+msgid "contact"
+msgstr "聯繫"
+
+#: zikulawordlist.txt:169
+msgid "contains"
+msgstr "包含"
+
+#: zikulawordlist.txt:171
+msgid "content"
+msgstr "內容"
+
+#: zikulawordlist.txt:173
+msgid "convert"
+msgstr "轉變"
+
+#: zikulawordlist.txt:175
+msgid "cookie"
+msgstr "cookie"
+
+#: zikulawordlist.txt:177
+msgid "core"
+msgstr "核心"
+
+#: zikulawordlist.txt:179
+msgid "count"
+msgstr "計算"
+
+#: zikulawordlist.txt:180
+msgid "create"
+msgstr "創建"
+
+#: zikulawordlist.txt:181
+msgid "credentials"
+msgstr "憑證"
+
+#: zikulawordlist.txt:183
+msgid "critical"
+msgstr "緊要的"
+
+#: zikulawordlist.txt:185
+msgid "currency"
+msgstr "貨幣 "
+
+#: zikulawordlist.txt:187
+msgid "custom"
+msgstr "自定"
+
+#: zikulawordlist.txt:189
+msgid "database"
+msgstr "資料庫"
+
+#: zikulawordlist.txt:191
+msgid "deactivate"
+msgstr "停用"
+
+#: zikulawordlist.txt:193
+msgid "deactivated"
+msgstr "已停用的"
+
+#: zikulawordlist.txt:195
+msgid "debug"
+msgstr "除錯"
+
+#: zikulawordlist.txt:197
+msgid "default"
+msgstr "予設"
+
+#: zikulawordlist.txt:199
+msgid "defined"
+msgstr "定義的"
+
+#: zikulawordlist.txt:201
+msgid "deletion"
+msgstr "刪除"
+
+#: zikulawordlist.txt:203
+msgid "deny"
+msgstr "拒絕"
+
+#: zikulawordlist.txt:205
+msgid "description"
+msgstr "描述"
+
+#: zikulawordlist.txt:207
+msgid "detail"
+msgstr "詳細"
+
+#: zikulawordlist.txt:209
+msgid "detect"
+msgstr "檢測"
+
+#: zikulawordlist.txt:211
+msgid "detected"
+msgstr "已檢測的"
+
+#: zikulawordlist.txt:213
+msgid "detection"
+msgstr "檢測"
+
+#: zikulawordlist.txt:215
+msgid "dimensions"
+msgstr "大小"
+
+#: zikulawordlist.txt:217
+msgid "directly"
+msgstr "直接"
+
+#: zikulawordlist.txt:219
+msgid "directory"
+msgstr "目錄"
+
+#: zikulawordlist.txt:221
+msgid "displaytype"
+msgstr "displaytype"
+
+#: zikulawordlist.txt:223
+msgid "docs"
+msgstr "說明文件"
+
+#: zikulawordlist.txt:225
+msgid "document"
+msgstr "文件"
+
+#: zikulawordlist.txt:227
+msgid "documentation"
+msgstr "文件資料"
+
+#: zikulawordlist.txt:229
+msgid "domain"
+msgstr "網域"
+
+#: zikulawordlist.txt:231
+msgid "drag"
+msgstr "拖曳"
+
+#: zikulawordlist.txt:233
+msgid "drop"
+msgstr "放下"
+
+#: zikulawordlist.txt:235
+msgid "dropdown"
+msgstr "下拉式"
+
+#: zikulawordlist.txt:237
+msgid "embed"
+msgstr "嵌入"
+
+#: zikulawordlist.txt:239
+msgid "empty"
+msgstr "空的"
+
+#: zikulawordlist.txt:241
+msgid "enabling"
+msgstr "賦能"
+
+#: zikulawordlist.txt:243
+msgid "eng"
+msgstr "eng"
+
+#: zikulawordlist.txt:245
+msgid "enhances"
+msgstr "增強"
+
+#: zikulawordlist.txt:247
+msgid "entries"
+msgstr "進入"
+
+#: zikulawordlist.txt:249
+msgid "entry"
+msgstr "進入"
+
+#: zikulawordlist.txt:251
+msgid "ephemerid"
+msgstr "星曆表"
+
+#: zikulawordlist.txt:253
+msgid "etc"
+msgstr "等"
+
+#: zikulawordlist.txt:255
+msgid "exif"
+msgstr "exif"
+
+#: zikulawordlist.txt:257
+msgid "expired"
+msgstr "過期"
+
+#: zikulawordlist.txt:259
+msgid "expiry"
+msgstr "到期"
+
+#: zikulawordlist.txt:261
+msgid "extended"
+msgstr "延伸的"
+
+#: zikulawordlist.txt:263
+msgid "extension"
+msgstr "擴充"
+
+#: zikulawordlist.txt:265
+msgid "failed"
+msgstr "失敗"
+
+#: zikulawordlist.txt:267
+msgid "faq"
+msgstr "常見問題"
+
+#: zikulawordlist.txt:269
+msgid "features"
+msgstr "特徵"
+
+#: zikulawordlist.txt:271
+msgid "feed"
+msgstr "訊息來源"
+
+#: zikulawordlist.txt:273
+msgid "field"
+msgstr "欄位"
+
+#: zikulawordlist.txt:274
+msgid "file"
+msgstr "檔案"
+
+#: zikulawordlist.txt:275
+msgid "filename"
+msgstr "檔案名稱"
+
+#: zikulawordlist.txt:277
+msgid "filesystem"
+msgstr "檔案系統"
+
+#: zikulawordlist.txt:279
+msgid "filter"
+msgstr "過濾"
+
+#: zikulawordlist.txt:281
+msgid "finished"
+msgstr "已結束"
+
+#: zikulawordlist.txt:283
+msgid "folder"
+msgstr "文件夾"
+
+#: zikulawordlist.txt:285
+msgid "font"
+msgstr "字體"
+
+#: zikulawordlist.txt:287
+msgid "format"
+msgstr "格式"
+
+#: zikulawordlist.txt:289
+msgid "framework"
+msgstr "框架"
+
+#: zikulawordlist.txt:291
+msgid "function"
+msgstr "功能"
+
+#: zikulawordlist.txt:293
+msgid "functionality"
+msgstr "功能性"
+
+#: zikulawordlist.txt:295
+msgid "fxp"
+msgstr "FXP"
+
+#: zikulawordlist.txt:297
+msgid "general"
+msgstr "一般的"
+
+#: zikulawordlist.txt:299
+msgid "generate"
+msgstr "產生"
+
+#: zikulawordlist.txt:301
+msgid "generated"
+msgstr "產生的"
+
+#: zikulawordlist.txt:303
+msgid "getstring"
+msgstr "GETstring"
+
+#: zikulawordlist.txt:305
+msgid "gif"
+msgstr "GIF"
+
+#: zikulawordlist.txt:307
+msgid "gmt"
+msgstr "GMT"
+
+#: zikulawordlist.txt:309
+msgid "gnu"
+msgstr "GNU"
+
+#: zikulawordlist.txt:311
+msgid "gpl"
+msgstr "GPL"
+
+#: zikulawordlist.txt:313
+msgid "hack"
+msgstr "侵入"
+
+#: zikulawordlist.txt:315
+msgid "hacking"
+msgstr "駭客入侵中"
+
+#: zikulawordlist.txt:317
+msgid "hooked"
+msgstr "掛鉤"
+
+#: zikulawordlist.txt:319
+msgid "html"
+msgstr "HTML"
+
+#: zikulawordlist.txt:321
+msgid "icons"
+msgstr "圖像"
+
+#: zikulawordlist.txt:323
+msgid "imagemagick"
+msgstr "imagemagick"
+
+#: zikulawordlist.txt:329
+msgid "imported"
+msgstr "被匯入"
+
+# No, not that one. They mean views, like in "page views" - how often a page was viewed by visitors.
+#: zikulawordlist.txt:331
+msgid "impressions"
+msgstr "瀏覽次數"
+
+#: zikulawordlist.txt:333
+msgid "inactive"
+msgstr "閒置的"
+
+#: zikulawordlist.txt:335
+msgid "inactivity"
+msgstr "閒置"
+
+#: zikulawordlist.txt:337
+msgid "individual"
+msgstr "特有的"
+
+#: zikulawordlist.txt:339
+msgid "info"
+msgstr "消息"
+
+#: zikulawordlist.txt:341
+msgid "input"
+msgstr "輸入"
+
+#: zikulawordlist.txt:343
+msgid "insert"
+msgstr "插入"
+
+#: zikulawordlist.txt:345
+msgid "install"
+msgstr "安裝"
+
+#: zikulawordlist.txt:347
+msgid "installation"
+msgstr "安裝"
+
+#: zikulawordlist.txt:349
+msgid "installed"
+msgstr "已安裝"
+
+#: zikulawordlist.txt:351
+msgid "installer"
+msgstr "安裝程式"
+
+#: zikulawordlist.txt:353
+msgid "instance"
+msgstr "實例"
+
+#: zikulawordlist.txt:355
+msgid "integer"
+msgstr "整數"
+
+#: zikulawordlist.txt:357
+msgid "interface"
+msgstr "介面"
+
+#: zikulawordlist.txt:359
+msgid "internal"
+msgstr "內部"
+
+#: zikulawordlist.txt:361
+msgid "internet"
+msgstr "網際網路"
+
+#: zikulawordlist.txt:363
+msgid "invalid"
+msgstr "無效"
+
+#: zikulawordlist.txt:365
+msgid "jpeg"
+msgstr "JPEG"
+
+#: zikulawordlist.txt:367
+msgid "jpg"
+msgstr "JPG"
+
+#: zikulawordlist.txt:369
+msgid "label"
+msgstr "標記"
+
+#: zikulawordlist.txt:371
+msgid "layout"
+msgstr "版面編排"
+
+#: zikulawordlist.txt:373
+msgid "least"
+msgstr "最少"
+
+#: zikulawordlist.txt:375
+msgid "legacy"
+msgstr "遺產"
+
+#: zikulawordlist.txt:377
+msgid "license"
+msgstr "授權"
+
+#: zikulawordlist.txt:379
+msgid "listoptions"
+msgstr "名單選項"
+
+#: zikulawordlist.txt:381
+msgid "log"
+msgstr "紀錄"
+
+#: zikulawordlist.txt:383
+msgid "logged"
+msgstr "已紀錄"
+
+#: zikulawordlist.txt:385
+msgid "managing"
+msgstr "管理"
+
+#: zikulawordlist.txt:387
+msgid "mandatory"
+msgstr "必要的"
+
+#: zikulawordlist.txt:389
+msgid "manual"
+msgstr "手冊"
+
+#: zikulawordlist.txt:393
+msgid "medium"
+msgstr "中等"
+
+#: zikulawordlist.txt:395
+msgid "meta"
+msgstr "註腳"
+
+#: zikulawordlist.txt:397
+msgid "modification"
+msgstr "修正"
+
+#: zikulawordlist.txt:399
+msgid "modify"
+msgstr "變更"
+
+#: zikulawordlist.txt:401
+msgid "module"
+msgstr "模組"
+
+#: zikulawordlist.txt:403
+msgid "multi"
+msgstr "多"
+
+#: zikulawordlist.txt:405
+msgid "multiple"
+msgstr "多數的"
+
+#: zikulawordlist.txt:407
+msgid "myint"
+msgstr "MYINT"
+
+#: zikulawordlist.txt:409
+msgid "mysql"
+msgstr "MySQL"
+
+#: zikulawordlist.txt:411
+msgid "node"
+msgstr "節點"
+
+#: zikulawordlist.txt:413
+msgid "null"
+msgstr "null"
+
+#: zikulawordlist.txt:415
+msgid "occured"
+msgstr "已發生"
+
+#: zikulawordlist.txt:417
+msgid "official"
+msgstr "官方的"
+
+#: zikulawordlist.txt:419
+msgid "option"
+msgstr "選項"
+
+#: zikulawordlist.txt:421
+msgid "optional"
+msgstr "可選擇的"
+
+#: zikulawordlist.txt:423
+msgid "oracle"
+msgstr "Oracle"
+
+#: zikulawordlist.txt:425
+msgid "originally"
+msgstr "起初"
+
+#: zikulawordlist.txt:427
+msgid "output"
+msgstr "輸出"
+
+#: zikulawordlist.txt:429
+msgid "overridden"
+msgstr "已推翻"
+
+#: zikulawordlist.txt:431
+msgid "override"
+msgstr "推翻"
+
+#: zikulawordlist.txt:433
+msgid "palette"
+msgstr "調色盤"
+
+#: zikulawordlist.txt:435
+msgid "panel"
+msgstr "面板"
+
+#: zikulawordlist.txt:437
+msgid "parameter"
+msgstr "參數"
+
+#: zikulawordlist.txt:439
+msgid "parental"
+msgstr "父母的"
+
+#: zikulawordlist.txt:441
+msgid "partial"
+msgstr "部分的"
+
+#: zikulawordlist.txt:443
+msgid "passthru"
+msgstr "略過"
+
+#: zikulawordlist.txt:445
+msgid "path"
+msgstr "路徑"
+
+#: zikulawordlist.txt:447
+msgid "paths"
+msgstr "路徑"
+
+#: zikulawordlist.txt:449
+msgid "pending"
+msgstr "待決"
+
+#: zikulawordlist.txt:451
+msgid "permalink"
+msgstr "永久連結"
+
+#: zikulawordlist.txt:453
+msgid "permission"
+msgstr "權限"
+
+#: zikulawordlist.txt:455
+msgid "php"
+msgstr "PHP"
+
+#: zikulawordlist.txt:459
+msgid "pixels"
+msgstr "像素"
+
+#: zikulawordlist.txt:461
+msgid "png"
+msgstr "PNG"
+
+#: zikulawordlist.txt:463
+msgid "pnrender"
+msgstr "pnrender"
+
+#: zikulawordlist.txt:465
+msgid "policy"
+msgstr "策略"
+
+#: zikulawordlist.txt:467
+msgid "postnuke"
+msgstr "Postnuke"
+
+#: zikulawordlist.txt:469
+msgid "preferably"
+msgstr "更好地"
+
+#: zikulawordlist.txt:471
+msgid "presentation"
+msgstr "顯示"
+
+#: zikulawordlist.txt:473
+msgid "prevent"
+msgstr "防止"
+
+#: zikulawordlist.txt:475
+msgid "previous"
+msgstr "之前"
+
+#: zikulawordlist.txt:477
+msgid "privacy"
+msgstr "隱私"
+
+#: zikulawordlist.txt:479
+msgid "private"
+msgstr "私人的"
+
+#: zikulawordlist.txt:481
+msgid "proceed"
+msgstr "繼續進行"
+
+#: zikulawordlist.txt:483
+msgid "process"
+msgstr "程序"
+
+#: zikulawordlist.txt:485
+msgid "profile"
+msgstr "個人資料"
+
+#: zikulawordlist.txt:487
+msgid "properties"
+msgstr "屬性"
+
+#: zikulawordlist.txt:489
+msgid "property"
+msgstr "屬性"
+
+#: zikulawordlist.txt:491
+msgid "protection"
+msgstr "防護"
+
+#: zikulawordlist.txt:493
+msgid "provide"
+msgstr "提供"
+
+#: zikulawordlist.txt:495
+msgid "psak"
+msgstr "PSAK"
+
+#: zikulawordlist.txt:497
+msgid "purchased"
+msgstr "已購買"
+
+#: zikulawordlist.txt:499
+msgid "quicktags"
+msgstr "快選標籤"
+
+#: zikulawordlist.txt:501
+msgid "quote"
+msgstr "引用"
+
+#: zikulawordlist.txt:503
+msgid "rate"
+msgstr "比例"
+
+#: zikulawordlist.txt:505
+msgid "rating"
+msgstr "分級"
+
+#: zikulawordlist.txt:509
+msgid "recent"
+msgstr "最近的"
+
+#: zikulawordlist.txt:511
+msgid "recently"
+msgstr "最近"
+
+#: zikulawordlist.txt:513
+msgid "recommended"
+msgstr "建議"
+
+#: zikulawordlist.txt:515
+msgid "referer"
+msgstr "referer"
+
+#: zikulawordlist.txt:517
+msgid "refresh"
+msgstr "刷新"
+
+#: zikulawordlist.txt:519
+msgid "regenerate"
+msgstr "再生"
+
+#: zikulawordlist.txt:521
+msgid "regenerated"
+msgstr "已再生"
+
+#: zikulawordlist.txt:523
+msgid "register"
+msgstr "註冊"
+
+#: zikulawordlist.txt:525
+msgid "registered"
+msgstr "已註冊"
+
+#: zikulawordlist.txt:527
+msgid "registration"
+msgstr "註冊"
+
+#: zikulawordlist.txt:529
+msgid "registry"
+msgstr "註冊"
+
+#: zikulawordlist.txt:531
+msgid "rejected"
+msgstr "被拒絕"
+
+#: zikulawordlist.txt:533
+msgid "related"
+msgstr "相關"
+
+#: zikulawordlist.txt:535
+msgid "release"
+msgstr "核發"
+
+#: zikulawordlist.txt:537
+msgid "remote"
+msgstr "遠程"
+
+#: zikulawordlist.txt:538
+msgid "remove"
+msgstr "移除"
+
+#: zikulawordlist.txt:539
+msgid "request"
+msgstr "請求"
+
+#: zikulawordlist.txt:541
+msgid "reserved"
+msgstr "保留的"
+
+#: zikulawordlist.txt:543
+msgid "retrieve"
+msgstr "取回"
+
+#: zikulawordlist.txt:545
+msgid "root"
+msgstr "根"
+
+#: zikulawordlist.txt:547
+msgid "row"
+msgstr "行"
+
+#: zikulawordlist.txt:549
+msgid "rss"
+msgstr "RSS"
+
+#: zikulawordlist.txt:551
+msgid "safehtml"
+msgstr "安全HTML"
+
+#: zikulawordlist.txt:553
+msgid "sanitize"
+msgstr "淨化"
+
+#: zikulawordlist.txt:555
+msgid "secure"
+msgstr "安全的"
+
+#: zikulawordlist.txt:557
+msgid "session"
+msgstr "對話"
+
+#: zikulawordlist.txt:559
+msgid "sign"
+msgstr "簽"
+
+#: zikulawordlist.txt:561
+msgid "signature"
+msgstr "簽名"
+
+#: zikulawordlist.txt:563
+msgid "site"
+msgstr "網站"
+
+#: zikulawordlist.txt:565
+msgid "sitename"
+msgstr "網站名稱"
+
+#: zikulawordlist.txt:567
+msgid "smarty"
+msgstr "Smarty"
+
+#: zikulawordlist.txt:569
+msgid "smtp"
+msgstr "SMTP"
+
+#: zikulawordlist.txt:571
+msgid "sniffer"
+msgstr "嗅探器"
+
+#: zikulawordlist.txt:572
+msgid "sorry"
+msgstr "抱歉"
+
+#: zikulawordlist.txt:573
+msgid "sort"
+msgstr "排序"
+
+#: zikulawordlist.txt:575
+msgid "spaces"
+msgstr "空格"
+
+#: zikulawordlist.txt:577
+msgid "spam"
+msgstr "垃圾信"
+
+#: zikulawordlist.txt:579
+msgid "specific"
+msgstr "特殊的"
+
+#: zikulawordlist.txt:581
+msgid "specify"
+msgstr "指定"
+
+#: zikulawordlist.txt:583
+msgid "standard"
+msgstr "標準"
+
+#: zikulawordlist.txt:585
+msgid "state"
+msgstr "狀態"
+
+#: zikulawordlist.txt:587
+msgid "statement"
+msgstr "說明"
+
+#: zikulawordlist.txt:589
+msgid "statistics"
+msgstr "統計資料"
+
+#: zikulawordlist.txt:591
+msgid "stats"
+msgstr "統計"
+
+#: zikulawordlist.txt:593
+msgid "status"
+msgstr "狀態"
+
+#: zikulawordlist.txt:595
+msgid "string"
+msgstr "字串"
+
+#: zikulawordlist.txt:597
+msgid "stylesheet"
+msgstr "樣式表"
+
+#: zikulawordlist.txt:599
+msgid "subcategories"
+msgstr "子類別"
+
+#: zikulawordlist.txt:600
+msgid "submit"
+msgstr "提交"
+
+#: zikulawordlist.txt:601
+msgid "suffix"
+msgstr "詞尾"
+
+#: zikulawordlist.txt:603
+msgid "suhosin"
+msgstr "Suhosin"
+
+#: zikulawordlist.txt:605
+msgid "tab"
+msgstr "標籤"
+
+#: zikulawordlist.txt:607
+msgid "tag"
+msgstr "標籤"
+
+#: zikulawordlist.txt:609
+msgid "template"
+msgstr "模板"
+
+#: zikulawordlist.txt:611
+msgid "terms"
+msgstr "條件"
+
+#: zikulawordlist.txt:613
+msgid "theme"
+msgstr "佈景主題"
+
+#: zikulawordlist.txt:615
+msgid "thumb"
+msgstr "拇指"
+
+#: zikulawordlist.txt:617
+msgid "thumbnail"
+msgstr "縮圖"
+
+#: zikulawordlist.txt:619
+msgid "thumbnailing"
+msgstr "縮圖化"
+
+#: zikulawordlist.txt:621
+msgid "tid"
+msgstr "tid"
+
+#: zikulawordlist.txt:623
+msgid "tour"
+msgstr "巡視"
+
+#: zikulawordlist.txt:625
+msgid "unregistered"
+msgstr "未註冊的"
+
+#: zikulawordlist.txt:627
+msgid "url"
+msgstr "URL"
+
+#: zikulawordlist.txt:628
+msgid "user"
+msgstr "使用者"
+
+#: zikulawordlist.txt:629
+msgid "valid"
+msgstr "有效的"
+
+#: zikulawordlist.txt:631
+msgid "validation"
+msgstr "確認"
+
+#: zikulawordlist.txt:633
+msgid "value"
+msgstr "數值"
+
+#: zikulawordlist.txt:635
+msgid "variable"
+msgstr "變數"
+
+#: zikulawordlist.txt:637
+msgid "verification"
+msgstr "證實"
+
+#: zikulawordlist.txt:639
+msgid "verify"
+msgstr "驗證"
+
+#: zikulawordlist.txt:641
+msgid "version"
+msgstr "版本"
+
+#: zikulawordlist.txt:643
+msgid "via"
+msgstr "經由"
+
+#: zikulawordlist.txt:647
+msgid "visit"
+msgstr "參觀"
+
+#: zikulawordlist.txt:649
+msgid "vote"
+msgstr "投票"
+
+#: zikulawordlist.txt:651
+msgid "vulnerabilities"
+msgstr "漏洞"
+
+#: zikulawordlist.txt:653
+msgid "vulnerability"
+msgstr "漏洞"
+
+#: zikulawordlist.txt:655
+msgid "width"
+msgstr "寬度"
+
+#: zikulawordlist.txt:657
+msgid "wiki"
+msgstr "wiki"
+
+#: zikulawordlist.txt:659
+msgid "workflow"
+msgstr "工作流程"
+
+#: zikulawordlist.txt:661
+msgid "xanthia"
+msgstr "Xanthia"
+
+#: zikulawordlist.txt:663
+msgid "xhtml"
+msgstr "XHTML"
+
+#: zikulawordlist.txt:664
+msgid "you"
+msgstr "你"
+
+#: zikulawordlist.txt:665
+msgid "zikula"
+msgstr "Zikula"
+
+#: zikulawordlist.txt:1
+msgid "﻿accept"
+msgstr "接受"

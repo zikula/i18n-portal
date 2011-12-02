@@ -1,0 +1,1111 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-02-08 02:11-0500\n"
+"PO-Revision-Date: 2010-06-29 12:42+0200\n"
+"Last-Translator: Armin Borumand <armin390@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnadmin.php:89 pnadmin.php:123 pnadmin.php:128 pnadmin.php:132
+msgid "Required"
+msgstr "مورد نیاز"
+
+#: pnadmin.php:99 pntemplates/profile_admin_view.htm:57
+msgid "Deactivate"
+msgstr "غیرفعال"
+
+#: pnadmin.php:108 pntemplates/profile_admin_view.htm:58
+msgid "Activate"
+msgstr "فعال"
+
+#: pnadmin.php:115
+msgid "Not editable field"
+msgstr "فیلد غیرقابل ویرایش"
+
+#: pnadmin.php:119
+msgid "Third-party (not editable)"
+msgstr "Third-party (غیرقابل ویرایش)"
+
+#: pnadmin.php:123 pnadmin.php:132
+msgid "Third-party"
+msgstr "Third-party"
+
+#: pnadmin.php:128
+msgid "Normal"
+msgstr "معمولی"
+
+#: pnadmin.php:143 pntemplates/profile_user_members_recent.htm:55
+#: pntemplates/profile_user_members_view.htm:89
+msgid "Edit"
+msgstr "ویرایش"
+
+#: pnadmin.php:149
+msgid "Up"
+msgstr "بالا"
+
+#: pnadmin.php:156
+msgid "Down"
+msgstr "پایین"
+
+#: pnadmin.php:163 pntemplates/profile_user_members_recent.htm:57
+#: pntemplates/profile_user_members_view.htm:91
+#: pntemplates/profile_admin_delete.htm:20
+msgid "Delete"
+msgstr "حذف"
+
+#: pnadmin.php:208 pnadmin.php:349
+msgid "Text box"
+msgstr "جعبه متنی"
+
+#: pnadmin.php:209 pnadmin.php:350
+msgid "Text area"
+msgstr "جعبه متنی چند خطی"
+
+#: pnadmin.php:210 pnadmin.php:351
+msgid "Checkbox"
+msgstr "تیک باکس"
+
+#: pnadmin.php:211 pnadmin.php:352
+msgid "Radio button"
+msgstr "کلید رادیویی"
+
+#: pnadmin.php:212 pnadmin.php:353
+msgid "Dropdown list"
+msgstr "لیست پایین افتادنی"
+
+#: pnadmin.php:213 pnadmin.php:354
+msgid "Date"
+msgstr "تاریخ"
+
+#: pnadmin.php:214 pnadmin.php:355
+msgid "Multiple checkbox set"
+msgstr "Multiple checkbox set"
+
+#: pnadmin.php:216 pnadmin.php:357
+#: pntemplates/profile_admin_modifyconfig.htm:43
+#: pntemplates/profile_admin_modifyconfig.htm:48
+msgid "No"
+msgstr "خیر"
+
+#: pnadmin.php:217 pnadmin.php:358
+#: pntemplates/profile_admin_modifyconfig.htm:41
+#: pntemplates/profile_admin_modifyconfig.htm:46
+msgid "Yes"
+msgstr "بله"
+
+#: pnadmin.php:219 pnadmin.php:360
+msgid "Everyone"
+msgstr "همه"
+
+#: pnadmin.php:220 pnadmin.php:361
+msgid "Registered users only"
+msgstr "فقط کاربران"
+
+#: pnadmin.php:221 pnadmin.php:362
+msgid "Admins and account owner only"
+msgstr "فقط مدیران و مالک حساب"
+
+#: pnadmin.php:222 pnadmin.php:363
+msgid "Admins only"
+msgstr "فقط مدیران"
+
+#: pnadmin.php:264
+msgid ""
+"Error! The personal info item must have a label. An example of a recommended "
+"label is: '_MYDUDLABEL'."
+msgstr ""
+"خطا! آیتم اطلاعات شخصی باید یک برچسب داشته باشد. مثالی از یک برچسب مطلوب: "
+"'_MYDUDLABEL'."
+
+#: pnadmin.php:268
+msgid ""
+"Error! The personal info item must have an attribute name. An example of an "
+"acceptable name is: 'mydudfield'."
+msgstr ""
+"خطا! آیتم اطلاعات شخصی باید یک نام صفت داشته باشد. مثالی از یک نام صفت قابل "
+"قبول: 'mydudfield'."
+
+#: pnadmin.php:272
+msgid "Error! There is already an personal info item label with this naming."
+msgstr "خطا! در حال حاضر یک برچسب آیتم اطلاعات شخصی با این نام موجود می باشد."
+
+#: pnadmin.php:276
+msgid "Error! There is already an attribute name with this naming."
+msgstr "خطا! در حال حاضر یک نام صفت با این نام موجود می باشد."
+
+#: pnadmin.php:282
+msgid ""
+"Warning! The personal info item label has been accepted, but was filtered "
+"and altered to ensure it contains no special characters or spaces in its "
+"naming."
+msgstr ""
+"اخطار! برچسب آیتم اطلاعات شخصی تایید شد، اما برای اینکه اطمینان حاصل شود که "
+"حاوی کاراکتر های خاص و فاصله نیست فیلتر شده و تغییر داده شد."
+
+#: pnadmin.php:299
+msgid "Done! Created new personal info item."
+msgstr "انجام شد! آیتم اطلاعات شخصی جدید ایجاد شد."
+
+#: pnadmin.php:332 pnadmin.php:454 pnadmin.php:510 pnadmin.php:545
+#: pnadminapi.php:112 pnadminapi.php:225 pnadminapi.php:315
+msgid "Error! No such personal info item found."
+msgstr "خطا! چنین آیتم اطلاعات شخصی پیدا نشد."
+
+#: pnadmin.php:420 pnadmin.php:523 pnadmin.php:562 pnadmin.php:585
+#: pnadmin.php:615
+msgid "Done! Saved your changes."
+msgstr "انجام شد! تغییرات شما ذخیره شد."
+
+#: pnadmin.php:487
+msgid "Done! Deleted the personal info item."
+msgstr "انجام شد! آیتم اطلاعات شخصی حذف شد."
+
+#: pnadmin.php:554
+msgid "Error! You cannot decrease the weight of this account property."
+msgstr "خطا! شما نمی توانید وزن این صفت حساب را کاهش دهید."
+
+#: pnadmin.php:709
+msgid "Done! Saved your settings changes."
+msgstr "انجام شد! تنظیمات تغییر یافته شما ذخیره شد."
+
+#: pnmemberslistapi.php:202 pnmemberslistapi.php:379 pnmemberslistapi.php:423
+#: pnmemberslistapi.php:474 pnmemberslistapi.php:524 pnmemberslistapi.php:577
+#: pnmemberslistapi.php:644
+msgid "Error! Could not load data."
+msgstr "خطا! نمی توانم اطلاعات را بارگذاری کنم."
+
+#: pndudapi.php:49
+#, php-format
+msgid "Error! Could not find the specified module (%s)."
+msgstr "خطا! نمی توانم ماژول مورد نظر را پیدا کنم (%s)."
+
+#: pndudapi.php:55 pnajax.php:36
+#, php-format
+msgid "Error! Invalid '%s' passed."
+msgstr "Error! Invalid '%s' passed."
+
+#: pndudapi.php:66 pnadminapi.php:46 pnadminapi.php:132
+#, php-format
+msgid "Error! There is already an personal info item with the label '%s'."
+msgstr "خطا! در حال حاضر یک آیتم اطلاعات شخصی با برچسب '%s' وجود دارد."
+
+#: pndudapi.php:70 pnadminapi.php:50
+#, php-format
+msgid ""
+"Error! There is already an personal info item with the attribute name '%s'."
+msgstr "خطا! در حال حاضر یک آیتم اطلاعات شخصی با نام صفت '%s' وجود دارد."
+
+#: pndudapi.php:90
+msgid "Error! Could not create the new personal info item."
+msgstr "خطا! نمی توانم آیتم اطلاعات شخصی جدید بسازم."
+
+#: pndudapi.php:146 pndudapi.php:152 pnadminapi.php:247 pnadminapi.php:253
+msgid "Error! Could not delete the personal info item."
+msgstr "خطا! نمی توانم آیتم اطلاعات شخصی را حذف کنم."
+
+#: pnversion.php:17 pntemplates/profile_admin_menu.htm:5
+msgid "Profile manager"
+msgstr "مدیریت پروفایل"
+
+#: pnversion.php:18
+msgid ""
+"Provides a personal account control panel for each registered user, an "
+"interface to administer the personal information items displayed within it, "
+"and a registered users list functionality. Works in close unison with the "
+"'Users' module."
+msgstr ""
+"یک کنترل پانل حساب شخصی برای هر کاربر عضو، یک رابط برای مدیریت آیتم های "
+"اطلاعات شخصی که داخل کنترل پانل نشان داده می شوند، و قابلیت ایجاد فهرست "
+"کاربران عضو. بصورت یکپارچه با ماژول مدیریت کاربران کار می کند."
+
+#. ! module name that appears in URL
+#: pnversion.php:20
+msgid "profile"
+msgstr "profile"
+
+#: pnajax.php:25 pnajax.php:76 pnajax.php:118
+msgid "Sorry! You do not have authorisation for this module."
+msgstr "متاسفم! شما مجوز دسترسی به این ماژول را ندارید."
+
+#: pnajax.php:29
+msgid ""
+"Invalid authorisation key ('authkey'). This is probably either because you "
+"pressed the 'Back' button to return to a page which does not allow that, or "
+"else because the page's authorisation key expired due to prolonged "
+"inactivity. Please refresh the page and try again."
+msgstr ""
+"کلید مجوز نامعتبر ('authkey'). احتمالا دکمه بازگشت را زده اید و به صفحه ای "
+"برگشته اید که مجوز آنرا ندارید، یا اینکه کلید مجوز شما بدلیل مدتی غیرفعال "
+"بودن منقضی شده است. لطفا صفحه را مجددا بارگزاری کرده و دوباره سعی کنید."
+
+#: pnajax.php:57 pnajax.php:96 pnadminapi.php:193
+msgid "Error! Could not save your changes."
+msgstr "خطا! نمی توانم تغییرات شما را ذخیره کنم."
+
+#: pnajax.php:136
+msgid "Error! Could not load the section."
+msgstr "Error! Could not load the section."
+
+#: pninit.php:84
+msgid ""
+"Error! The 'Users' module must be upgraded to version 1.10 before you can "
+"upgrade the 'Profile' module."
+msgstr ""
+"خطا! پیش از ارتقای ماژول پروفایل باید ماژول مدیریت کاربران را به نسخه ۱.۱۰ "
+"ارتقا دهید."
+
+#: pninit.php:212
+msgid "Error! Could not update table."
+msgstr "خطا! نمیتوانم جدول را به روز رسانی کنم."
+
+#. ! account panel link
+#: pnaccountapi.php:42 pntemplates/profile_form_edit.htm:4
+msgid "Personal info"
+msgstr "اطلاعات شخصی"
+
+#: pnaccountapi.php:48 pntemplates/plugins/function.profileuserlinks.php:71
+#: pntemplates/profile_user_members_view.htm:2
+msgid "Registered users list"
+msgstr "لیست کاربران"
+
+#: pnadminapi.php:81
+msgid "Error! Could not create new attribute."
+msgstr "خطا! نمی توانم صفت جدید بسازم."
+
+#: pnadminapi.php:230
+msgid "Error! You cannot delete this personal info item."
+msgstr "خطا! شما نمی توانید این آیتم اطلاعات شخصی را حذف کنید."
+
+#: pnadminapi.php:290
+msgid "Error! Activation failed."
+msgstr "خطا! فعال سازی با شکست مواجه شد."
+
+#: pnadminapi.php:320
+msgid "Error! You cannot deactivate this personal info item."
+msgstr "خطا! شما نمی توانید این آیتم اطلاعات شخصی را غیرفعال کنید."
+
+#: pnadminapi.php:331 pnadminapi.php:349
+msgid "Error! Could not deactivate the personal info item."
+msgstr "خطا! نمی توانم آیتم اطلاعات شخصی را غیرفعال کنم."
+
+#: pnadminapi.php:369 pntemplates/profile_admin_view.htm:3
+msgid "Personal info items list"
+msgstr "لیست آیتم های اطلاعات شخصی"
+
+#: pnadminapi.php:373 pntemplates/profile_admin_new.htm:3
+msgid "Create new personal info item"
+msgstr "ایجاد ایتم جدید اطلاعات شخصی"
+
+#: pnadminapi.php:377 pntemplates/profile_admin_modifyconfig.htm:6
+#: pntemplates/profile_admin_modifyconfig.htm:8
+msgid "User account panel settings"
+msgstr "تنظیمات پنل حساب کاربر"
+
+#: pnadminapi.php:381
+msgid "Help"
+msgstr "راهنما"
+
+#: pnuser.php:54 pnuser.php:61
+msgid "Error! Could not find this user."
+msgstr "خطا! نمی توانم این کاربر را پیدا کنم."
+
+#: pnuser.php:100
+#, php-format
+msgid "Error! Could not find profile page [%s]."
+msgstr "Error! Could not find profile page [%s]."
+
+#: pnuser.php:126
+msgid "Error! Could not load personal info items."
+msgstr "خطا! نمی توانم آیتم های اطلاعات شخصی را بارگزاری کنم."
+
+#: pnuser.php:173
+#, php-format
+msgid "Error! A required profile item [%s] is missing."
+msgstr "Error! A required profile item [%s] is missing."
+
+#: pnuser.php:192
+msgid "Done! Saved your changes to your personal information."
+msgstr "انجام شد! تغییرات شما در اطلاعات شخصیتان ذخیره شد."
+
+#: pnblocks/featureduser.php:37
+msgid "Featured user"
+msgstr "کاربر ویژه"
+
+#: pnblocks/featureduser.php:38
+msgid "Show featured user"
+msgstr "نمایش کاربر ویژه"
+
+#: pnblocks/lastxusers.php:37
+msgid "Last X registered users"
+msgstr "آخرین x کاربر عضو شده"
+
+#: pnblocks/lastxusers.php:38
+msgid "Show last X registered users"
+msgstr "نمایش آخرین x کاربر عضو شده"
+
+#: pnblocks/membersonline.php:37
+msgid "Users on-line"
+msgstr "کاربران آنلاین"
+
+#: pnblocks/membersonline.php:38
+msgid "Show which registered users are currently on-line"
+msgstr "نمایش کاربران عضوی که در حال حاضر آنلاین هستند"
+
+#: pnblocks/lastseen.php:35
+msgid "Recent visitors"
+msgstr "آخرین بازدیدکنندگان"
+
+#: pnblocks/lastseen.php:36
+msgid "Show registered users having visited the site recently"
+msgstr "نمایش کاربران عضو که اخیرا از سایت بازدید کرده اند"
+
+#: pnform.php:25 pnform.php:74 pnform.php:122
+msgid "Error! You cannot access form functions directly."
+msgstr "خطا! شما نمی توانید مستقیما به توابع دسترسی داشته باشید."
+
+#: pntemplates/plugins/function.duditemmodify.php:141
+msgid "Go to the Avatar manager"
+msgstr "برو به مدیریت شکلک ها"
+
+#: pntemplates/plugins/function.profilesection.php:29
+#: pntemplates/plugins/function.profilesection.php:35
+#, php-format
+msgid "Error! in %1$s: the %2$s parameter must be specified."
+msgstr "Error! in %1$s: the %2$s parameter must be specified."
+
+#. ! string to describe the user's site
+#: pntemplates/plugins/function.duditemdisplay.php:207
+#, php-format
+msgid "%s's site"
+msgstr "سایت %s"
+
+#: pntemplates/plugins/function.profileuserlinks.php:68
+#: pntemplates/plugins/function.profileuserlinks.php:105
+#: pntemplates/plugins/function.profileuserlinks.php:140
+msgid "User account panel"
+msgstr "پانل حساب کاربری"
+
+#: pntemplates/plugins/function.profileuserlinks.php:74
+#: pntemplates/profile_user_members_recent.htm:2
+#, php-format
+msgid "Last %s registered users"
+msgstr "آخرین %s کاربر عضو شده"
+
+#: pntemplates/plugins/function.profileuserlinks.php:77
+#: pntemplates/profile_user_members_online.htm:2
+msgid "Users currently on-line"
+msgstr "کاربران آنلاین فعلی"
+
+#: pntemplates/plugins/function.profileuserlinks.php:109
+#: pntemplates/profile_user_modify.htm:2
+msgid "Edit personal info"
+msgstr "ویرایش اطلاعات شخصی"
+
+#: pntemplates/plugins/function.profileuserlinks.php:113
+msgid "View personal info"
+msgstr "مشاهده اطلاعات شخصی"
+
+#: pntemplates/plugins/function.profileuserlinks.php:120
+#: pntemplates/profile_user_members_online.htm:22
+#: pntemplates/profile_user_members_recent.htm:42
+#: pntemplates/profile_user_members_view.htm:76
+#: pntemplates/profile_block_membersonline.htm:12
+msgid "Send private message"
+msgstr "فرستادن پیام خصوصی"
+
+#: pntemplates/plugins/function.profileuserlinks.php:142
+#, php-format
+msgid "Show %s's contacts"
+msgstr "نمایش اطلاعات تماس %s"
+
+#: pntemplates/plugins/function.profileuserlinks.php:144
+msgid "Edit contact"
+msgstr "ویرایش تماس"
+
+#: pntemplates/plugins/function.profileuserlinks.php:146
+msgid "Add as contact"
+msgstr "اضافه کردن به اطلاعات تماس"
+
+#: pntemplates/profile_dudedit_text.htm:6
+#: pntemplates/profile_dudedit_textarea.htm:6
+#: pntemplates/profile_dudedit_date.htm:6
+#: pntemplates/profile_dudedit_radio.htm:6
+msgid ""
+"Sorry! A required personal info item is missing. Please correct and try "
+"again."
+msgstr ""
+"متاسفم! یک آیتم اطلاعات شخصی ضروری پیدا نشد. لطفا آنرا تصحیح کرده و مجددا "
+"سعی کنید."
+
+#: pntemplates/profile_dudedit_text.htm:12
+#: pntemplates/profile_dudedit_textarea.htm:12
+#: pntemplates/profile_dudedit_multicheckbox.htm:6
+#: pntemplates/profile_dudedit_date.htm:12
+#: pntemplates/profile_dudedit_radio.htm:12
+#: pntemplates/profile_dudedit_select.htm:7
+msgid "*"
+msgstr "*"
+
+#: pntemplates/profile_dudedit_text.htm:17
+#: pntemplates/profile_dudedit_textarea.htm:17
+#: pntemplates/profile_dudedit_multicheckbox.htm:16
+#: pntemplates/profile_dudedit_date.htm:22
+#: pntemplates/profile_dudedit_checkbox.htm:10
+#: pntemplates/profile_dudedit_link.htm:7
+#: pntemplates/profile_dudedit_radio.htm:20
+#: pntemplates/profile_dudedit_select.htm:20
+msgid "Notice:"
+msgstr "توجه:"
+
+#: pntemplates/profile_dudedit_textarea.htm:20
+msgid "Permitted HTML tags:"
+msgstr "تگ های HTML مجاز:"
+
+#: pntemplates/profile_admin_help.htm:2
+msgid "About Profile"
+msgstr "درباره Profile"
+
+#: pntemplates/profile_admin_help.htm:11
+msgid ""
+"There are some details that you may know about Profile and how it let you "
+"translate the Account Properties labels and values of your site."
+msgstr ""
+"جزئیاتی وجود دارد که باید در مورد پروفایل بدانید و اینکه چطور می توانید یک "
+"برچسب صفات حساب و مقدارهای سایت خود را ترجمه کنید."
+
+#: pntemplates/profile_admin_help.htm:12
+msgid ""
+"First of all, it's recommended to move the translation files of Profile to "
+"the /config directory to custom them there."
+msgstr ""
+"اول از همه، توصیه می کنیم که فایل های ترجمه پروفایل را برای بومی سازی به "
+"پوشه /config منتقل کنید."
+
+#: pntemplates/profile_admin_help.htm:13
+msgid ""
+"Copy all the files of the /modules/Profile/locale directory to /config/"
+"locale. There you will customize the catalog module_profile.pot and the "
+"translations afterwards."
+msgstr ""
+"تمام فایل های /modules/Profile/locale را در /config/locale کپی کنید. آنجا می "
+"توانید module_profile.pot را ویرایش کرده و بعدا ترجمه کنید."
+
+#: pntemplates/profile_admin_help.htm:16
+msgid "About the property labels"
+msgstr "درباره برچسب های صفات"
+
+#: pntemplates/profile_admin_help.htm:18
+msgid ""
+"It's recommended to use unique words for the labels, for that reason we use "
+"the format: _DUDLABEL and translate them for each available language in the "
+"site to a readable text."
+msgstr ""
+"توصیه می کنیم که از کلمات منحصر بفرد بعنوان برچسب استفاده کنید، به همین دلیل "
+"ما از فورمت _DUDLABEL استفاده می کنیم و برای هر زبان فعال به یک متن قابل فهم "
+"ترجمه می کنیم."
+
+#: pntemplates/profile_admin_help.htm:19
+msgid ""
+"After you create a new property label (such as _MYDUDLABEL), you must add "
+"the msgid to your catalog (POT file). You will need two lines per label: "
+"<strong>msgid '_MYDUDLABEL'</strong> then one line after the <strong>msgstr "
+"''</strong> (study the default catalog content)."
+msgstr ""
+"After you create a new property label (such as _MYDUDLABEL), you must add "
+"the msgid to your catalog (POT file). You will need two lines per label: "
+"<strong>msgid '_MYDUDLABEL'</strong> then one line after the <strong>msgstr "
+"''</strong> (study the default catalog content)."
+
+#: pntemplates/profile_admin_help.htm:20
+msgid ""
+"With the updated POT, you can syncronize the translations (.PO files) for "
+"each available language, or even create a new .PO from the catalog with a "
+"tool like poEdit."
+msgstr ""
+"With the updated POT, you can syncronize the translations (.PO files) for "
+"each available language, or even create a new .PO from the catalog with a "
+"tool like poEdit."
+
+#: pntemplates/profile_admin_help.htm:21
+msgid ""
+"In the .PO file you will be able to translate _MYDUDLABEL to the "
+"corresponding text for each specific language, to provide a legible display "
+"string like 'My DUD Label'."
+msgstr ""
+"In the .PO file you will be able to translate _MYDUDLABEL to the "
+"corresponding text for each specific language, to provide a legible display "
+"string like 'My DUD Label'."
+
+#: pntemplates/profile_admin_help.htm:24
+msgid "About the property values"
+msgstr "درباره مقادیر صفات"
+
+#: pntemplates/profile_admin_help.htm:26
+msgid ""
+"Some display types like checkboxes, radio buttons, dropdown lists and "
+"multicheckboxes, allows to define a specific set of options to show."
+msgstr ""
+"برخی از انواع نمایش مانند گزینه های تک انتخابی، چند انتخابی و منوی پایین "
+"افتادنی اجازه می دهند تا گروهی از گزینه ها را برای به نمایش در آمدن تعریف "
+"کنید."
+
+#: pntemplates/profile_admin_help.htm:27
+msgid ""
+"Each option can be added in the catalog to be translated. Also, if you use a "
+"custom date format that needs translation, it can be added to the catalog "
+"too.<br />Enjoy!"
+msgstr ""
+"Each option can be added in the catalog to be translated. Also, if you use a "
+"custom date format that needs translation, it can be added to the catalog "
+"too.<br />Enjoy!"
+
+#: pntemplates/profile_admin_new.htm:16
+#: pntemplates/profile_admin_modify.htm:17
+msgid "Personal info item"
+msgstr "آیتم اطلاعات شخصی"
+
+#: pntemplates/profile_admin_new.htm:17
+#: pntemplates/profile_admin_modify.htm:18
+msgid ""
+"Notice: No special characters or spaces are allowed in the personal info "
+"item's label or attribute name."
+msgstr ""
+"توجه: در برچسب یا نام صفت آیتم های اطلاعات شخصی، اجازه استفاده از کاراکترهای "
+"خاص و فاصله ندارید."
+
+#: pntemplates/profile_admin_new.htm:19
+#: pntemplates/profile_admin_modify.htm:20
+#: pntemplates/profile_admin_view.htm:19
+msgid "Label"
+msgstr "برچسب"
+
+#: pntemplates/profile_admin_new.htm:23
+#: pntemplates/profile_admin_modify.htm:24
+#, php-format
+msgid ""
+"Check the <strong><a href=\"%s\">help page</a></strong> to get more "
+"information about labels and translatable stuff."
+msgstr ""
+"<strong><a href=\"%s\">صفحه کمک</a></strong> را برای دریافت اطلاعات در مورد "
+"برچسب ها و ترجمه پذیریشان بررسی کنید."
+
+#: pntemplates/profile_admin_new.htm:26
+#: pntemplates/profile_admin_modify.htm:27
+#: pntemplates/profile_admin_view.htm:20
+msgid "Attribute name"
+msgstr "نام ویژگی"
+
+#: pntemplates/profile_admin_new.htm:28
+msgid ""
+"Notice: The attribute name you enter cannot be changed afterwards, so you "
+"should choose it carefully."
+msgstr ""
+"توجه: بعدا نمی توانید نام صفتی را که وارد می کنید تغییر دهید، بنابراین باید "
+"آنرا بدقت انتخاب کنید."
+
+#: pntemplates/profile_admin_new.htm:31
+#: pntemplates/profile_admin_modify.htm:31
+msgid "Make this a 'Required' item"
+msgstr "این را یک آیتم اجباری کن"
+
+#: pntemplates/profile_admin_new.htm:37
+#: pntemplates/profile_admin_modify.htm:37
+msgid "Visibility"
+msgstr "قابل مشاهده توسط"
+
+#: pntemplates/profile_admin_new.htm:43
+#: pntemplates/profile_admin_modify.htm:44
+msgid "Type of control to display"
+msgstr "انواع کنترل ها برای نمایش"
+
+#: pntemplates/profile_admin_new.htm:49
+#: pntemplates/profile_admin_modify.htm:50
+msgid "Content"
+msgstr "محتوا"
+
+#: pntemplates/profile_admin_new.htm:52
+#: pntemplates/profile_admin_modify.htm:53
+msgid ""
+"Notice: Precede output options by '@@'. Example: '@@No@@Yes', "
+"'@@Disabled@@Enabled'. The order is important. If you want to have a "
+"different label in the edit form, you can use the following format: "
+"'EditLabel@@DisplayNo@@DisplayYes'. All the values are translatable."
+msgstr ""
+"Notice: Precede output options by '@@'. Example: '@@No@@Yes', "
+"'@@Disabled@@Enabled'. The order is important. If you want to have a "
+"different label in the edit form, you can use the following format: "
+"'EditLabel@@DisplayNo@@DisplayYes'. All the values are translatable."
+
+#: pntemplates/profile_admin_new.htm:53
+#: pntemplates/profile_admin_modify.htm:54
+msgid ""
+"Notice: Use the following format for each option: '@@label@id'. Example: "
+"'@@radio option 1@id1@@radio option 2@id2@@radio option 3@id3'. The options "
+"are translatable."
+msgstr ""
+"Notice: Use the following format for each option: '@@label@id'. Example: "
+"'@@radio option 1@id1@@radio option 2@id2@@radio option 3@id3'. The options "
+"are translatable."
+
+#: pntemplates/profile_admin_new.htm:54
+#: pntemplates/profile_admin_modify.htm:55
+msgid ""
+"Notice: Use the following format for each option: '@@label@id'. Example for "
+"a simple list: '@@option 1@id1@@option 2@id2@@option 3@id3'. Example for a "
+"multiple checkbox set: '1@@option 1@id1@@option 2@id2@@option 3@id3'. The "
+"options are translatable."
+msgstr ""
+"Notice: Use the following format for each option: '@@label@id'. Example for "
+"a simple list: '@@option 1@id1@@option 2@id2@@option 3@id3'. Example for a "
+"multiple checkbox set: '1@@option 1@id1@@option 2@id2@@option 3@id3'. The "
+"options are translatable."
+
+#: pntemplates/profile_admin_new.htm:55
+#: pntemplates/profile_admin_modify.htm:56
+msgid ""
+"Notice: You can specify the date format to use, either via Zikula core "
+"templating variables ('datelong', 'datebrief', 'datestring', 'datestring2', "
+"'datetimebrief', 'datetimelong', 'timebrief' or 'timelong'), or via a custom "
+"format such as '%b %d of %Y', possibly using PHP options (see the <a href="
+"\"http://www.php.net/manual/en/function.strftime.php\">PHP documentation</a> "
+"for more information). The format is translatable."
+msgstr ""
+"Notice: You can specify the date format to use, either via Zikula core "
+"templating variables ('datelong', 'datebrief', 'datestring', 'datestring2', "
+"'datetimebrief', 'datetimelong', 'timebrief' or 'timelong'), or via a custom "
+"format such as '%b %d of %Y', possibly using PHP options (see the <a href="
+"\"http://www.php.net/manual/en/function.strftime.php\">PHP documentation</a> "
+"for more information). The format is translatable."
+
+#: pntemplates/profile_admin_new.htm:56
+#: pntemplates/profile_admin_modify.htm:57
+msgid ""
+"Notice: Use the following format for each option: 'id,label;'. Example: 'id1,"
+"label1;id2,label2;id3,label3'. Each property should be separated with a "
+"semicolon (';'). The ID and label of each property should be separated by a "
+"comma (','). The labels are translatable."
+msgstr ""
+"Notice: Use the following format for each option: 'id,label;'. Example: 'id1,"
+"label1;id2,label2;id3,label3'. Each property should be separated with a "
+"semicolon (';'). The ID and label of each property should be separated by a "
+"comma (','). The labels are translatable."
+
+#: pntemplates/profile_admin_new.htm:59
+#: pntemplates/profile_admin_modify.htm:61
+msgid ""
+"Notice: Entering an ID is optional. If you do not specify an ID, the option "
+"position will be used for the ID (starting from zero), instead of the user-"
+"defined ID you can enter here. You are recommended to choose an ID that is "
+"unique, and to avoid subsequently modifying it."
+msgstr ""
+"Notice: Entering an ID is optional. If you do not specify an ID, the option "
+"position will be used for the ID (starting from zero), instead of the user-"
+"defined ID you can enter here. You are recommended to choose an ID that is "
+"unique, and to avoid subsequently modifying it."
+
+#: pntemplates/profile_admin_new.htm:63
+#: pntemplates/profile_admin_modify.htm:65
+msgid "Notice to display with personal info item"
+msgstr "اخطاری که بهمراه آیتم اطلاعات شخصی نمایش داده می شود"
+
+#: pntemplates/profile_admin_new.htm:71 pntemplates/profile_user_modify.htm:17
+#: pntemplates/profile_admin_modifyconfig.htm:87
+#: pntemplates/profile_admin_modify.htm:73
+msgid "Save"
+msgstr "ذخیره"
+
+#: pntemplates/profile_admin_new.htm:72 pntemplates/profile_user_modify.htm:18
+#: pntemplates/profile_admin_modifyconfig.htm:88
+#: pntemplates/profile_admin_delete.htm:21
+#: pntemplates/profile_admin_modify.htm:74
+msgid "Cancel"
+msgstr "انصراف"
+
+#: pntemplates/profile_user_view.htm:4
+#, php-format
+msgid "Personal info for %s"
+msgstr "اطلاعات شخصی %s"
+
+#: pntemplates/profile_user_view.htm:20
+msgid "User name:"
+msgstr "نام کاربری:"
+
+#: pntemplates/profile_user_view.htm:30
+msgid "Registration date:"
+msgstr "تاریخ ثبت نام:"
+
+#: pntemplates/profile_user_members_online.htm:8
+#: pntemplates/profile_user_members_recent.htm:10
+#: pntemplates/profile_user_members_view.htm:46
+#: pntemplates/profile_block_featureduser_modify.htm:4
+msgid "User name"
+msgstr "نام کاربری"
+
+#: pntemplates/profile_user_members_online.htm:9
+#: pntemplates/profile_user_members_recent.htm:13
+#: pntemplates/profile_user_members_view.htm:48
+msgid "Real name"
+msgstr "نام واقعی"
+
+#: pntemplates/profile_user_members_online.htm:11
+#: pntemplates/profile_user_members_recent.htm:16
+#: pntemplates/profile_user_members_view.htm:51
+msgid "PM"
+msgstr "PM"
+
+#: pntemplates/profile_user_members_online.htm:13
+#: pntemplates/profile_user_members_recent.htm:19
+#: pntemplates/profile_user_members_view.htm:54
+msgid "Site"
+msgstr "سایت"
+
+#: pntemplates/profile_user_members_online.htm:33
+msgid "No registered users are currently on-line."
+msgstr "هیچ کاربر عضوی در حال حاضر آنلاین نیست."
+
+#: pntemplates/profile_user_members_recent.htm:11
+msgid "Registration date"
+msgstr "تاریخ عضویت"
+
+#: pntemplates/profile_user_members_recent.htm:22
+#: pntemplates/profile_user_members_view.htm:57
+#: pntemplates/profile_admin_view.htm:23
+msgid "Actions"
+msgstr "عملیات"
+
+#: pntemplates/profile_user_members_recent.htm:31
+#: pntemplates/profile_user_members_view.htm:66
+msgid "On-line"
+msgstr "آنلاین"
+
+#: pntemplates/profile_user_members_recent.htm:33
+#: pntemplates/profile_user_members_view.htm:68
+msgid "Off-line"
+msgstr "آفلاین"
+
+#: pntemplates/profile_user_members_recent.htm:63
+msgid "No recently-registered users found."
+msgstr "هیچ کاربری که اخیرا عضو شده باشد پیدا نشد."
+
+#: pntemplates/profile_user_modify.htm:10
+msgid "Items marked with an asterisk ('*') are required entries."
+msgstr "آیتم هایی که با ('*') مشخص شده اند , موارد ضرورری هستند."
+
+#: pntemplates/profile_block_featureduser.htm:18
+#, php-format
+msgid "Registered on %s"
+msgstr "ثبت نام کرده در %s"
+
+#: pntemplates/profile_block_lastseen_modify.htm:5
+msgid ""
+"Error! This block cannot be used because saving of a user's last log-in date "
+"has been disabled."
+msgstr ""
+"خطا! این بلاک نمی تواند استفاده شود زیرا ذخیره تاریخ آخرین ورود کاربران "
+"غیرفعال است."
+
+#: pntemplates/profile_block_lastseen_modify.htm:10
+msgid "Number of recent visitors to display"
+msgstr "تعداد آخرین بازدیدکنندگان مورد نظر برای نمایش"
+
+#: pntemplates/profile_block_membersonline_modify.htm:4
+msgid "Maximum number of characters to display"
+msgstr "حداکثر تعداد کاراکترها برای نمایش"
+
+#: pntemplates/sections/profile_section_news.htm:5
+#, php-format
+msgid "Latest articles of %s"
+msgstr "آخرین مقالات %s"
+
+#: pntemplates/sections/profile_section_news.htm:10
+#: pntemplates/sections/profile_section_ezcomments.htm:10
+#, php-format
+msgid "On %s"
+msgstr "روشن %s"
+
+#: pntemplates/sections/profile_section_news.htm:17
+msgid "No recent articles found."
+msgstr "مقاله ی جدیدی پیدا نشد."
+
+#: pntemplates/sections/profile_section_ezcomments.htm:5
+#, php-format
+msgid "Latest comments of %s"
+msgstr "آخرین نظرات %s"
+
+#: pntemplates/sections/profile_section_ezcomments.htm:17
+msgid "No recent commets found."
+msgstr "نظرات جدیدی پیدا نشد."
+
+#: pntemplates/profile_admin_modifyconfig.htm:15
+msgid "Registered users list settings"
+msgstr "تنظیمات لیست کاربران"
+
+#: pntemplates/profile_admin_modifyconfig.htm:17
+msgid "Display the user's registration date"
+msgstr "نمایش تاریخ ثبت نام کاربران"
+
+#: pntemplates/profile_admin_modifyconfig.htm:25
+msgid "Users per page in 'Registered users list'"
+msgstr "آیتم به ازای صفحه در صفحه 'لیست کاربران'"
+
+#: pntemplates/profile_admin_modifyconfig.htm:29
+msgid "Users per page in 'Users currently on-line' page"
+msgstr "آیتم به ازای صفحه در صفحه 'کاربران آنلاین فعلی'"
+
+#: pntemplates/profile_admin_modifyconfig.htm:33
+msgid "Users per page in 'Recent registrations' page"
+msgstr "کاربر به ازای هر صفحه در صفحه 'ثبت نام های اخیر'"
+
+#: pntemplates/profile_admin_modifyconfig.htm:37
+msgid "Filter unverified users from 'Registered users list'"
+msgstr "فیلتر کردن کاربران تایید نشده از 'لیست کاربران'"
+
+#: pntemplates/profile_admin_modifyconfig.htm:54
+msgid "Personal info item settings"
+msgstr "تنظیمات آیتم های اطلاعات شخصی"
+
+#: pntemplates/profile_admin_modifyconfig.htm:56
+msgid ""
+"Display 'Allowed HTML tags' notice with each personal info item that is a "
+"'textarea'"
+msgstr ""
+"نمایش 'تگ های HTML مجاز' بهمراه هر آیتم اطلاعات شخصی که از نوع textarea است"
+
+#: pntemplates/profile_admin_modifyconfig.htm:65
+msgid "User registration form settings"
+msgstr "تنظیمات فرم ثبت نام کاربران"
+
+#: pntemplates/profile_admin_modifyconfig.htm:66
+msgid ""
+"The personal info items that you activate below will be displayed in the "
+"user registration form if the 'Users' module is configured to display "
+"personal info items during user registration, and if the 'Profile' module is "
+"specified in the 'General settings manager' as the module to provide the "
+"site's user profile management functionality. Personal info items that are "
+"configured as 'Required' will always be displayed in the user registration "
+"form. The list below only includes properties that are not 'Required' items."
+msgstr ""
+"The personal info items that you activate below will be displayed in the "
+"user registration form if the 'Users' module is configured to display "
+"personal info items during user registration, and if the 'Profile' module is "
+"specified in the 'General settings manager' as the module to provide the "
+"site's user profile management functionality. Personal info items that are "
+"configured as 'Required' will always be displayed in the user registration "
+"form. The list below only includes properties that are not 'Required' items."
+
+#: pntemplates/profile_admin_modifyconfig.htm:68
+msgid "Personal info items to include in user registration form"
+msgstr "آیتم های اطلاعات شخصی که باید در فرم ثبت نام کاربران قرار داده شوند"
+
+#: pntemplates/profile_user_main.htm:2
+msgid "Account Panel"
+msgstr "پنل حساب"
+
+#: pntemplates/profile_user_members_view.htm:11
+msgid "Search"
+msgstr "جستجو"
+
+#: pntemplates/profile_user_members_view.htm:14
+msgid "Go search"
+msgstr "برو به جستجو"
+
+#: pntemplates/profile_user_members_view.htm:20
+msgid "Search in user names"
+msgstr "جستجو در نام کاربری"
+
+#: pntemplates/profile_user_members_view.htm:25
+msgid "Search in real names"
+msgstr "جستجو در نام واقعی"
+
+#: pntemplates/profile_user_members_view.htm:31
+msgid "Search in site"
+msgstr "جستجو در سایت"
+
+#: pntemplates/profile_user_members_view.htm:38
+msgid "All"
+msgstr "همه"
+
+#: pntemplates/profile_user_members_view.htm:97
+msgid "No users found."
+msgstr "هیچ کاربری پیدا نشد."
+
+#: pntemplates/profile_user_members_view.htm:104
+msgid "Membership statistics"
+msgstr "آمار عضویت"
+
+#: pntemplates/profile_user_members_view.htm:106
+msgid "Registered:"
+msgstr "ثبت نام شده:"
+
+#: pntemplates/profile_user_members_view.htm:107
+msgid "On-line:"
+msgstr "آنلاین:"
+
+#: pntemplates/profile_user_members_view.htm:108
+msgid "Newest user:"
+msgstr "جدیدترین کاربر:"
+
+#: pntemplates/profile_admin_delete.htm:2
+msgid "Delete personal info item"
+msgstr "حذف آیتم اطلاعات شخصی"
+
+#: pntemplates/profile_admin_delete.htm:11
+msgid "Do you really want to delete this personal info item?"
+msgstr "آیا واقعا می خواهید این مولفه را حذف کنید؟"
+
+#: pntemplates/profile_admin_delete.htm:18
+msgid "Confirmation prompt"
+msgstr "تایید فرمان"
+
+#: pntemplates/profile_block_membersonline.htm:10
+msgid "unread"
+msgstr "خوانده نشده"
+
+#: pntemplates/profile_block_membersonline.htm:10
+msgid "total"
+msgstr "مجموع"
+
+#: pntemplates/profile_block_membersonline.htm:20
+#: pntemplates/profile_block_membersonline.htm:26
+#, php-format
+msgid "%s registered user"
+msgid_plural "%s registered users"
+msgstr[0] "Singular%s registered userPlural%s registered users"
+
+#: pntemplates/profile_block_membersonline.htm:21
+#: pntemplates/profile_block_membersonline.htm:24
+#, php-format
+msgid "%s on-line."
+msgstr "%s آنلاین."
+
+#: pntemplates/profile_block_membersonline.htm:23
+#: pntemplates/profile_block_membersonline.htm:27
+#, php-format
+msgid "%s anonymous guest"
+msgid_plural "%s anonymous guests"
+msgstr[0] "Singular%s anonymous guestPlural%s anonymous guests"
+
+#: pntemplates/profile_block_membersonline.htm:28
+#, php-format
+msgid "%1$s and %2$s online."
+msgstr "%1$s و %2$s آنلاین هستند."
+
+#: pntemplates/profile_block_lastxusers_modify.htm:4
+msgid "Number of recently-registered users to display"
+msgstr "تعداد کاربران عضو شده اخیر برای نمایش"
+
+#: pntemplates/profile_admin_modify.htm:3
+msgid "Edit personal info item"
+msgstr "ویرایش آیتم اطلاعات شخصی"
+
+#: pntemplates/profile_admin_modify.htm:60
+msgid ""
+"Warning! If you want to edit the ID of an option without losing associated "
+"user data in the database, its label must not be renamed simultaneously. "
+"Also, do not assign IDs and labels the same naming. You are recommended to "
+"give each option an unique ID and a unique name, and to try to avoid "
+"renaming an ID once it has been created."
+msgstr ""
+"Warning! If you want to edit the ID of an option without losing associated "
+"user data in the database, its label must not be renamed simultaneously. "
+"Also, do not assign IDs and labels the same naming. You are recommended to "
+"give each option an unique ID and a unique name, and to try to avoid "
+"renaming an ID once it has been created."
+
+#: pntemplates/profile_user_view_example.htm:4
+#, php-format
+msgid "Latest submissions of %s"
+msgstr "آخرین ارسال %s"
+
+#: pntemplates/profile_block_featureduser_modify.htm:9
+msgid "Information to show"
+msgstr "اطلاعات مورد نظر برای نمایش"
+
+#: pntemplates/profile_block_featureduser_modify.htm:21
+msgid "Show registration date"
+msgstr "نمایش تاریخ ثبت نام"
+
+#: pntemplates/profile_admin_view.htm:16
+msgid ""
+"Notice: Use drag and drop to arrange the arrange the personal info items "
+"into your desired order. The new order will be saved automatically when you "
+"drop the item into place."
+msgstr ""
+"توجه: شما می توانید با کشیدن و رها کردن هر آیتم آن را به طور دلخواه مرتب "
+"کنید. ترتیب جدید آیتم ها بعد از اینکه آیتمی را به محل دیگری انتقال دادید, به "
+"صورت خودکار ذخیره خواهد شد."
+
+#: pntemplates/profile_admin_view.htm:21
+msgid "Type"
+msgstr "نوع"
+
+#: pntemplates/profile_admin_view.htm:22
+msgid "Status"
+msgstr "وضعیت"
+
+#: pninit.php:262
+msgid "_UREALNAME"
+msgstr "_UREALNAME"
+
+#: pninit.php:272
+msgid "_UFAKEMAIL"
+msgstr "_UFAKEMAIL"
+
+#: pninit.php:282
+msgid "_YOURHOMEPAGE"
+msgstr "_YOURHOMEPAGE"
+
+#: pninit.php:292
+msgid "_TIMEZONEOFFSET"
+msgstr "_TIMEZONEOFFSET"
+
+#: pninit.php:302
+msgid "_YOURAVATAR"
+msgstr "_YOURAVATAR"
+
+#: pninit.php:312
+msgid "_YICQ"
+msgstr "_YICQ"
+
+#: pninit.php:322
+msgid "_YAIM"
+msgstr "_YAIM"
+
+#: pninit.php:332
+msgid "_YYIM"
+msgstr "_YYIM"
+
+#: pninit.php:342
+msgid "_YMSNM"
+msgstr "_YMSNM"
+
+#: pninit.php:352
+msgid "_YLOCATION"
+msgstr "_YLOCATION"
+
+#: pninit.php:362
+msgid "_YOCCUPATION"
+msgstr "_YOCCUPATION"
+
+#: pninit.php:372
+msgid "_SIGNATURE"
+msgstr "_SIGNATURE"
+
+#: pninit.php:382
+msgid "_EXTRAINFO"
+msgstr "_EXTRAINFO"
+
+#: pninit.php:392
+msgid "_YINTERESTS"
+msgstr "_YINTERESTS"

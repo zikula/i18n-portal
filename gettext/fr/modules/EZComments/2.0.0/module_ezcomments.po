@@ -1,0 +1,999 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Traduction du module EZComments 2.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-02 08:13+0000\n"
+"PO-Revision-Date: 2010-08-24 00:43+0200\n"
+"Last-Translator: MagicVince <vincent.mabillot@gmail.com>\n"
+"Language-Team: Zikula France <zkfrance@zikula.fr>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: pnadmin.php:58 pnuser.php:57 pnuser.php:156 pnuser.php:293
+msgid "Internal Error."
+msgstr "Erreur interne."
+
+#: pnadmin.php:67 pnadmin.php:737 pnuser.php:66
+msgid "View"
+msgstr "Vue"
+
+#: pnadmin.php:71 pnadmin.php:741 pnuser.php:79
+#: pntemplates/ezcomments_user_modify.htm:9
+#: pntemplates/ezcomments_admin_modify.htm:9
+msgid "Edit"
+msgstr "Modifier"
+
+#: pnadmin.php:169
+msgid "Done! Item deleted."
+msgstr "Terminé ! Élément supprimé."
+
+#: pnadmin.php:176 pnadmin.php:183 pnadmin.php:190
+msgid "Done! Item updated."
+msgstr "Terminé ! Élément mis à jour."
+
+#: pnadmin.php:260
+msgid "No migration plugins available."
+msgstr "Pas de greffon d'importation disponible."
+
+#: pnadmin.php:340
+msgid "No orphaned comments."
+msgstr "Pas de commentaire orphelin."
+
+#: pnadmin.php:383
+msgid "Error! A general failure occurs."
+msgstr "Erreur ! Un échec général s'est produit."
+
+#: pnadmin.php:386
+msgid "Done! All orphaned comments for this module deleted."
+msgstr "Fait ! Tous les commentaires orphelins de ce module ont été supprimés."
+
+#: pnadmin.php:436 pnadmin.php:582 pnadmin.php:649
+#: pnincludes/ezcomments_admin_modifyhandler.class.php:79
+#: pnincludes/ezcomments_user_modifyhandler.class.php:85
+msgid "Done! Comment deleted."
+msgstr "Terminé ! Commentaire supprimé."
+
+#: pnadmin.php:688 pntemplates/plugins/modifier.commentstatus.php:32
+#: pnincludes/ezcomments_admin_modifyhandler.class.php:33
+#: pnincludes/ezcomments_admin_modifyconfighandler.class.php:34
+#: pntemplates/ezcomments_admin_modulestats.htm:12
+#: pntemplates/ezcomments_admin_stats.htm:12
+#: pntemplates/ezcomments_user_main.htm:14
+#: pntemplates/ezcomments_user_main.htm:39
+#: pntemplates/ezcomments_admin_view.htm:19
+#: pntemplates/ezcomments_admin_view.htm:55
+msgid "Pending"
+msgstr "En attente"
+
+#: pnadmin.php:689 pntemplates/plugins/modifier.commentstatus.php:34
+#: pnincludes/ezcomments_admin_modifyhandler.class.php:34
+#: pnincludes/ezcomments_admin_modifyconfighandler.class.php:35
+#: pntemplates/ezcomments_admin_modulestats.htm:13
+#: pntemplates/ezcomments_admin_stats.htm:13
+#: pntemplates/ezcomments_user_main.htm:15
+#: pntemplates/ezcomments_user_main.htm:40
+#: pntemplates/ezcomments_admin_view.htm:20
+#: pntemplates/ezcomments_admin_view.htm:56
+msgid "Rejected"
+msgstr "Rejeté"
+
+#: pnadmin.php:690 pntemplates/plugins/modifier.commentstatus.php:30
+#: pnincludes/ezcomments_admin_modifyhandler.class.php:32
+#: pnincludes/ezcomments_admin_modifyconfighandler.class.php:33
+#: pntemplates/ezcomments_admin_modulestats.htm:11
+#: pntemplates/ezcomments_admin_stats.htm:11
+#: pntemplates/ezcomments_user_main.htm:13
+#: pntemplates/ezcomments_user_main.htm:38
+#: pntemplates/ezcomments_admin_view.htm:18
+#: pntemplates/ezcomments_admin_view.htm:54
+msgid "Approved"
+msgstr "Approuvé"
+
+#: pnadmin.php:777
+msgid "New comment rules applied"
+msgstr "Nouvelles règles pour les commentaires en application"
+
+#: pnversion.php:15 pnblocks/ezcomments.php:30
+#: pntemplates/Standard/ezcomments_user_view.htm:6
+#: pntemplates/Dizkus/ezcomments_user_view.htm:6
+#: pntemplates/ezcomments_user_header.htm:3
+#: pntemplates/ezcomments_user_rss.htm:5
+msgid "Comments"
+msgstr "Commentaires"
+
+#: pnversion.php:16
+#, fuzzy
+msgid "Attach comments to every kind of content using hooks"
+msgstr ""
+"Attacher des commentaires à tous types de contenu en utilisant les \"crochets"
+"\""
+
+#. ! module url in lowercase and different to displayname
+#: pnversion.php:18
+msgid "comments"
+msgstr "commentaires"
+
+#: pnmyprofileapi.php:26
+msgid "User's pinboard"
+msgstr "Favoris de l'utilisateur"
+
+#: pnmyprofileapi.php:53
+msgid "Registering EZComments hook for MyProfile module failed"
+msgstr ""
+"Échec de l'enregistrement du crochet EZComments pour le module MyProfile"
+
+#: pnsearchapi.php:56
+#, php-format
+msgid ""
+"The comments can only be searched for words that are longer than %1$s and "
+"less than %2$s characters!"
+msgstr ""
+"La recherche dans les commentaires ne peut se faire que sur des mots d'au "
+"moins %$1s caractères et au plus %2$s !"
+
+#: pnsearchapi.php:89 pnuserapi.php:691
+msgid "Error! Could not load items."
+msgstr "Erreur ! Impossible de charger les éléments."
+
+#: pnuserapi.php:199
+msgid "Error! The user ignores you."
+msgstr "Erreur ! L'utilisateur vous ignore."
+
+#: pnuserapi.php:207
+msgid "Error! The name field is required. Comment rejected."
+msgstr "Erreur ! Le champ Nom est requis. Commentaire refusé."
+
+#: pnuserapi.php:263
+msgid ""
+"Error! Your comment contains unacceptable content and has been rejected."
+msgstr ""
+"Erreur ! Votre commentaire contient des mots ou expressions bannis, il a été "
+"rejeté."
+
+#: pnuserapi.php:289
+msgid "Error! Creation attempt failed."
+msgstr "Erreur ! Échec de la tentative de création."
+
+#: pnuserapi.php:296
+msgid "Done! Comment added."
+msgstr "Fait ! Commentaire ajouté."
+
+#: pnuserapi.php:300
+msgid ""
+"Done! Your comment was held for moderation and will be reviewed shortly."
+msgstr ""
+"Fait ! Votre commentaire est en attente de modération, iil sera évalué "
+"rapidement."
+
+#: pnuserapi.php:330 pntemplates/ezcomments_mail_newcomment.htm:1
+msgid "A new comment was entered"
+msgstr "Un nouveau commentaire a été entré"
+
+#: pnuserapi.php:351
+msgid "New comment for your site"
+msgstr "Nouveau commentaire sur votre site"
+
+#: pnblocks/ezcomments.php:31
+msgid "Show latest comments"
+msgstr "Afficher les derniers commentaires"
+
+#: pnincludes/ezcomments_admin_modifyhandler.class.php:28
+#: pnincludes/ezcomments_user_modifyhandler.class.php:29 pnadminapi.php:199
+msgid "No such comment found."
+msgstr "Aucun commentaire trouvé."
+
+#: pnincludes/ezcomments_admin_modifyhandler.class.php:89
+#: pnincludes/ezcomments_user_modifyhandler.class.php:102
+msgid "Name for anonymous user is missing."
+msgstr "Nom d'utilisateur anonyme manquant."
+
+#: pnincludes/ezcomments_admin_modifyhandler.class.php:95
+#: pnincludes/ezcomments_user_modifyhandler.class.php:108
+msgid "Email address of anonymous user is missing or invalid."
+msgstr ""
+"Adresse de courrier électronique d'utilisateur anonyme manquante ou non-"
+"valide."
+
+#: pnincludes/ezcomments_admin_modifyhandler.class.php:101
+#: pnincludes/ezcomments_user_modifyhandler.class.php:114
+msgid "Website of anonymous user is invalid."
+msgstr "Site web de l'utilisateur anonyme non-valide."
+
+#: pnincludes/ezcomments_admin_modifyhandler.class.php:112
+#: pnincludes/ezcomments_user_modifyhandler.class.php:125 pnuser.php:426
+msgid "Error! The comment contains no text."
+msgstr "Erreur : le commentaire en contient pas de texte."
+
+#: pnincludes/ezcomments_admin_modifyhandler.class.php:130
+#: pnincludes/ezcomments_user_modifyhandler.class.php:142
+msgid "Done! Comment updated."
+msgstr "Fait ! Commentaire actualisé."
+
+#: pnincludes/ezcomments_admin_modifyconfighandler.class.php:39
+msgid "Atom 0.3"
+msgstr "Atom 0.3"
+
+#: pnincludes/ezcomments_admin_modifyconfighandler.class.php:40
+msgid "RSS 2.0"
+msgstr "RSS 2.0"
+
+#: pnincludes/ezcomments_admin_modifyconfighandler.class.php:64
+#: pnincludes/ezcomments_admin_modifyconfighandler.class.php:69
+#: pnincludes/ezcomments_admin_modifyconfighandler.class.php:74
+#: pnincludes/ezcomments_admin_modifyconfighandler.class.php:79
+#: pnincludes/ezcomments_admin_modifyconfighandler.class.php:84
+msgid "missing value"
+msgstr "valeur manquante"
+
+#: pnincludes/ezcomments_admin_modifyconfighandler.class.php:117
+msgid "Done! Module configuration updated."
+msgstr "Terminé ! Configuration de module mise à jour."
+
+#: pnaccountapi.php:25
+msgid "Manage my comments"
+msgstr "Gérer mes commentaires"
+
+#: pnadminapi.php:145 pnadminapi.php:323
+msgid "No such item found."
+msgstr "Aucun élément n'a été trouvé."
+
+#: pnadminapi.php:160 pnadminapi.php:284 pnadminapi.php:291
+msgid "Error! Deletion attempt failed."
+msgstr "Erreur ! Échec de la suppression"
+
+#: pnadminapi.php:216
+msgid "Error! Update attempt failed."
+msgstr "Erreur ! Échec de la mise à jour."
+
+#: pnadminapi.php:372
+msgid "View comments"
+msgstr "Afficher les commentaires"
+
+#: pnadminapi.php:373
+msgid "Delete orphaned comments"
+msgstr "Supprime les commentaires orphelins"
+
+#: pnadminapi.php:374
+msgid "Migrate comments"
+msgstr "Migrer les commentaires"
+
+#: pnadminapi.php:375 pntemplates/ezcomments_admin_purge.htm:5
+msgid "Purge comments"
+msgstr "Purger les commentaires"
+
+#: pnadminapi.php:376 pntemplates/ezcomments_admin_modulestats.htm:5
+#: pntemplates/ezcomments_admin_stats.htm:5
+msgid "Comment statistics"
+msgstr "Statistiques"
+
+#: pnadminapi.php:377 pntemplates/ezcomments_admin_applyrules_results.htm:5
+#: pntemplates/ezcomments_admin_applyrules_form.htm:5
+msgid "Re-apply moderation rules"
+msgstr "Appliquer à nouveau les règles de modération"
+
+#: pnadminapi.php:378 pntemplates/ezcomments_admin_modifyconfig.htm:5
+msgid "Settings"
+msgstr "Paramètres"
+
+#: pninit.php:30 pninit.php:36 pninit.php:41
+msgid "Error creating hook."
+msgstr "Erreur lors de la création d'une extension"
+
+#: pninit.php:93
+msgid "Error updating the table."
+msgstr "Erreur lors de l'actualisation de la table"
+
+#: pninit.php:145 pninit.php:149 pninit.php:153
+msgid "Error deleting hook."
+msgstr "Erreur lors de la suppression d'une extension"
+
+#: pntemplates/Standard/ezcomments_user_view.htm:9
+#: pntemplates/Standard/ezcomments_user_view.htm:86
+#: pntemplates/Dizkus/ezcomments_user_view.htm:9
+#: pntemplates/Dizkus/ezcomments_user_view.htm:74
+msgid "Add a new comment"
+msgstr "Ajouter un nouveau commentaire"
+
+#: pntemplates/Standard/ezcomments_user_view.htm:31
+#, php-format
+msgid "Posted on %s"
+msgstr "Posté le ùs"
+
+#: pntemplates/Standard/ezcomments_user_view.htm:39
+#: pntemplates/Dizkus/ezcomments_user_view.htm:35
+msgid "Send mail to user"
+msgstr "Envoyer un courrier électronique à l'utilisateur"
+
+#: pntemplates/Standard/ezcomments_user_view.htm:42
+#: pntemplates/Dizkus/ezcomments_user_view.htm:38
+msgid "Modify comment"
+msgstr "Modifier le commentaire"
+
+#: pntemplates/Standard/ezcomments_user_view.htm:73
+#: pntemplates/Dizkus/ezcomments_user_view.htm:55
+msgid "No comments posted yet."
+msgstr "Aucun commentaire n'a été posté."
+
+#: pntemplates/Standard/ezcomments_user_view.htm:88
+#: pntemplates/ezcomments_user_modify.htm:33
+#: pntemplates/ezcomments_user_modify.htm:36
+#: pntemplates/Dizkus/ezcomments_user_view.htm:76
+#: pntemplates/ezcomments_admin_modify.htm:37
+msgid "Subject"
+msgstr "Sujet"
+
+#: pntemplates/Standard/ezcomments_user_view.htm:93
+#: pntemplates/ezcomments_user_modify.htm:13
+#: pntemplates/Dizkus/ezcomments_user_view.htm:81
+#: pntemplates/ezcomments_admin_modify.htm:13
+msgid "Name"
+msgstr "Nom"
+
+#: pntemplates/Standard/ezcomments_user_view.htm:93
+#: pntemplates/Dizkus/ezcomments_user_view.htm:81
+msgid "(required for unregistered users)"
+msgstr "(requis pour les utilisateurs non enregistrés)"
+
+#: pntemplates/Standard/ezcomments_user_view.htm:97
+#: pntemplates/ezcomments_user_modify.htm:17
+#: pntemplates/Dizkus/ezcomments_user_view.htm:85
+#: pntemplates/ezcomments_admin_modify.htm:17
+msgid "E-mail address (will not be published)"
+msgstr "Adresse de courrier électronique (ne sera pas publiée)"
+
+#: pntemplates/Standard/ezcomments_user_view.htm:101
+#: pntemplates/ezcomments_user_modify.htm:21
+#: pntemplates/Dizkus/ezcomments_user_view.htm:89
+#: pntemplates/ezcomments_admin_modify.htm:21
+msgid "Website"
+msgstr "Site web"
+
+#: pntemplates/Standard/ezcomments_user_view.htm:106
+#: pntemplates/ezcomments_user_modify.htm:42
+#: pntemplates/ezcomments_user_modify.htm:45
+#: pntemplates/Dizkus/ezcomments_user_view.htm:94
+#: pntemplates/ezcomments_admin_applyrules_results.htm:20
+#: pntemplates/ezcomments_admin_applyrules_results.htm:68
+#: pntemplates/ezcomments_admin_modify.htm:41
+#: pntemplates/ezcomments_user_main.htm:30
+#: pntemplates/ezcomments_admin_view.htm:45
+msgid "Comment"
+msgstr "Commentaire"
+
+#: pntemplates/Standard/ezcomments_user_view.htm:111
+#: pntemplates/Dizkus/ezcomments_user_view.htm:99
+#: pntemplates/ezcomments_admin_modifyconfig.htm:136
+#: pntemplates/ezcomments_admin_applyrules_form.htm:28
+#: pntemplates/ezcomments_admin_view.htm:111
+msgid "Submit"
+msgstr "Envoyer"
+
+#: pntemplates/Standard/ezcomments_user_view.htm:117
+#: pntemplates/Dizkus/ezcomments_user_view.htm:105
+msgid "Register"
+msgstr "S'inscrire"
+
+#: pntemplates/Standard/ezcomments_user_view.htm:118
+#: pntemplates/Dizkus/ezcomments_user_view.htm:106
+msgid "log in"
+msgstr "Identifiant"
+
+#: pntemplates/Standard/ezcomments_user_view.htm:119
+#: pntemplates/Dizkus/ezcomments_user_view.htm:107
+#, php-format
+msgid "Only logged in users are allowed to comment. %1$s or %2$s."
+msgstr "Seuls les utilisateurs identifiés peuvent commenter; %1$s ou %2$s."
+
+#: pntemplates/ezcomments_user_modify.htm:2
+#: pntemplates/ezcomments_admin_modify.htm:5
+msgid "Edit comment"
+msgstr "Éditer le commentaire"
+
+#: pntemplates/ezcomments_user_modify.htm:26
+#: pntemplates/ezcomments_admin_applyrules_results.htm:17
+#: pntemplates/ezcomments_admin_applyrules_results.htm:65
+#: pntemplates/ezcomments_admin_modify.htm:26
+#: pntemplates/ezcomments_user_main.htm:27
+#: pntemplates/ezcomments_admin_view.htm:38
+msgid "Commentator"
+msgstr "Commentateur"
+
+#: pntemplates/ezcomments_user_modify.htm:50
+msgid "Redirect to the commented content after finishing"
+msgstr "Rediriger vers le contenu commenté après."
+
+#: pntemplates/ezcomments_user_modify.htm:57
+#: pntemplates/ezcomments_admin_modify.htm:56
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: pntemplates/ezcomments_user_modify.htm:58
+#: pntemplates/ezcomments_admin_deleteitem.htm:16
+#: pntemplates/ezcomments_admin_purge.htm:22
+#: pntemplates/ezcomments_admin_cleanup.htm:18
+#: pntemplates/ezcomments_admin_delete.htm:5
+#: pntemplates/ezcomments_admin_delete.htm:15
+#: pntemplates/ezcomments_admin_modulestats.htm:26
+#: pntemplates/ezcomments_admin_deletemodule.htm:15
+#: pntemplates/ezcomments_admin_modify.htm:57
+#: pntemplates/ezcomments_admin_stats.htm:27
+#: pntemplates/ezcomments_admin_view.htm:106
+msgid "Delete"
+msgstr "Supprimer"
+
+#: pntemplates/ezcomments_user_modify.htm:59
+#: pntemplates/ezcomments_admin_deleteitem.htm:17
+#: pntemplates/ezcomments_admin_purge.htm:23
+#: pntemplates/ezcomments_admin_migrate.htm:18
+#: pntemplates/ezcomments_admin_applyrules_results.htm:109
+#: pntemplates/ezcomments_admin_cleanup.htm:19
+#: pntemplates/ezcomments_admin_delete.htm:17
+#: pntemplates/ezcomments_admin_delete.htm:19
+#: pntemplates/ezcomments_admin_deletemodule.htm:16
+#: pntemplates/ezcomments_admin_modify.htm:58
+#: pntemplates/ezcomments_admin_applyrules_form.htm:29
+msgid "Cancel"
+msgstr "Annuler"
+
+#: pntemplates/ezcomments_block_ezcomments_modify.htm:2
+msgid "Number of comments to display"
+msgstr "Nombre de commentaires à afficher"
+
+#: pntemplates/ezcomments_block_ezcomments_modify.htm:6
+msgid "Show comments for the following module"
+msgstr "Afficher les commentaires des modules suivants"
+
+#: pntemplates/ezcomments_block_ezcomments_modify.htm:8
+#: pntemplates/ezcomments_user_main.htm:12
+#: pntemplates/ezcomments_admin_view.htm:17
+msgid "All"
+msgstr "Tous"
+
+#: pntemplates/ezcomments_block_ezcomments_modify.htm:13
+msgid "Show username"
+msgstr "Afficher l'identifiant"
+
+#: pntemplates/ezcomments_block_ezcomments_modify.htm:21
+msgid "Link username to profile"
+msgstr "Lien vers le profil lié à l'identifiant"
+
+#: pntemplates/ezcomments_block_ezcomments_modify.htm:29
+msgid "Show Date"
+msgstr "Afficher la date"
+
+#: pntemplates/ezcomments_block_ezcomments_modify.htm:37
+msgid "Show pending comments"
+msgstr "Afficher les commentaires en attente"
+
+#: pntemplates/Dizkus/ezcomments_user_view.htm:27
+msgid "Posted on"
+msgstr "Posté le"
+
+#: pntemplates/ezcomments_admin_deleteitem.htm:5
+msgid "Delete item"
+msgstr "Supprimer l'élément"
+
+#: pntemplates/ezcomments_admin_deleteitem.htm:6
+#, fuzzy, php-format
+msgid ""
+"Confirm deletion of all comments for object ID '%1$s' attached to module "
+"'%2$s'"
+msgstr ""
+"Confirmez la suppression de tous les commentaires de l'objet '%o%' liés au "
+"module '%m%'"
+
+#: pntemplates/ezcomments_admin_deleteitem.htm:14
+#: pntemplates/ezcomments_admin_cleanup.htm:11
+#: pntemplates/ezcomments_admin_delete.htm:13
+#: pntemplates/ezcomments_admin_deletemodule.htm:13
+msgid "Confirmation prompt"
+msgstr "Demande de confirmation"
+
+#: pntemplates/ezcomments_mail_newcomment.htm:2
+#: pntemplates/ezcomments_mail_modcomment.htm:2
+msgid "Username:"
+msgstr "Identifiant :"
+
+#: pntemplates/ezcomments_mail_newcomment.htm:3
+#: pntemplates/ezcomments_mail_modcomment.htm:3
+msgid "Date:"
+msgstr "Date :"
+
+#: pntemplates/ezcomments_mail_newcomment.htm:4
+#: pntemplates/ezcomments_mail_modcomment.htm:4
+msgid "Subject:"
+msgstr "Sujet :"
+
+#: pntemplates/ezcomments_mail_newcomment.htm:7
+#: pntemplates/ezcomments_mail_modcomment.htm:7
+msgid "Show:"
+msgstr "Montrer :"
+
+#: pntemplates/ezcomments_mail_newcomment.htm:8
+#: pntemplates/ezcomments_mail_modcomment.htm:8
+msgid "Moderate:"
+msgstr "Modérer"
+
+#: pntemplates/ezcomments_admin_purge.htm:11
+#: pntemplates/ezcomments_admin_applyrules_results.htm:21
+#: pntemplates/ezcomments_admin_applyrules_results.htm:69
+#: pntemplates/ezcomments_admin_modulestats.htm:14
+#: pntemplates/ezcomments_admin_stats.htm:14
+#: pntemplates/ezcomments_user_main.htm:31
+#: pntemplates/ezcomments_admin_view.htm:46
+msgid "Options"
+msgstr "Options"
+
+#: pntemplates/ezcomments_admin_purge.htm:13
+msgid "Purge all pending comments"
+msgstr "Supprimer les commentaires en attente"
+
+#: pntemplates/ezcomments_admin_purge.htm:17
+msgid "Purge all rejected comments"
+msgstr "Supprimer les commentaires refusés"
+
+#: pntemplates/ezcomments_admin_migrate.htm:5
+msgid "Import comments from other modules"
+msgstr "Importer les commentaires à partir d'autres modules"
+
+#: pntemplates/ezcomments_admin_migrate.htm:10
+msgid "Migration"
+msgstr "Migration"
+
+#: pntemplates/ezcomments_admin_migrate.htm:12
+#: pntemplates/ezcomments_admin_applyrules_results.htm:18
+#: pntemplates/ezcomments_admin_applyrules_results.htm:66
+#: pntemplates/ezcomments_admin_modulestats.htm:5
+#: pntemplates/ezcomments_admin_stats.htm:9
+#: pntemplates/ezcomments_admin_view.htm:42
+msgid "Module"
+msgstr "Module"
+
+#: pntemplates/ezcomments_admin_migrate.htm:17
+msgid "Start migration"
+msgstr "Démarrer la migration"
+
+#: pntemplates/ezcomments_admin_applyrules_results.htm:12
+msgid "The following comments will become rejected"
+msgstr "Les commentaires suivants vont devenir \"refusés\""
+
+#: pntemplates/ezcomments_admin_applyrules_results.htm:16
+#: pntemplates/ezcomments_admin_applyrules_results.htm:64
+#: pntemplates/ezcomments_admin_modify.htm:45
+#: pntemplates/ezcomments_user_main.htm:24
+#: pntemplates/ezcomments_admin_view.htm:35
+msgid "Status"
+msgstr "Statut"
+
+#: pntemplates/ezcomments_admin_applyrules_results.htm:19
+#: pntemplates/ezcomments_admin_applyrules_results.htm:67
+#: pntemplates/ezcomments_admin_view.htm:43
+msgid "Comment type"
+msgstr "Type de commentaire"
+
+#: pntemplates/ezcomments_admin_applyrules_results.htm:54
+#: pntemplates/ezcomments_admin_applyrules_results.htm:102
+#: pntemplates/ezcomments_admin_stats.htm:34
+#: pntemplates/ezcomments_user_main.htm:76
+#: pntemplates/ezcomments_admin_view.htm:95
+#, fuzzy
+msgid "No items found"
+msgstr "Pas d'élément trouvé."
+
+#: pntemplates/ezcomments_admin_applyrules_results.htm:59
+#, fuzzy
+msgid "The following comments will require moderation"
+msgstr "Les commentaires suivant nécessiteront une modération"
+
+#: pntemplates/ezcomments_admin_applyrules_results.htm:108
+#, fuzzy
+msgid "Apply"
+msgstr "Appliquer"
+
+#: pntemplates/ezcomments_admin_cleanup.htm:5
+#, fuzzy
+msgid "Delete all comments for this module"
+msgstr "Effacer tous les commentaires pour ce module"
+
+#: pntemplates/ezcomments_admin_cleanup.htm:6
+#, fuzzy
+msgid ""
+"This functionality allows you to delete comments that are in the database "
+"for removed modules."
+msgstr ""
+"Cette fonctionnalité vous permet de supprimer les commentaires qui sont dans "
+"la base de données pour les modules enlevés."
+
+#: pntemplates/ezcomments_admin_cleanup.htm:13
+#, fuzzy
+msgid "Select module"
+msgstr "Sélectionner le module :"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:9
+#, fuzzy
+msgid "Miscellaneous"
+msgstr "Divers"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:11
+#, fuzzy
+msgid "Default template"
+msgstr "Thème par défaut"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:15
+#, fuzzy
+msgid "Default stylesheet"
+msgstr "Statut par défaut"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:18
+msgid "By default, the following possibilities exists:"
+msgstr ""
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:24
+#, fuzzy
+msgid "Allow unregistered users to set user information"
+msgstr ""
+"Autoriser les utilisateurs non enregistrés à remplir les informations "
+"destinées aux utilisateurs"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:28
+#, fuzzy
+msgid "Require name for unregistered user"
+msgstr "Un nom est requis pour les utilisateurs non enregistrés"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:32
+#, fuzzy
+msgid "Log IP addresses"
+msgstr "Enregistrer l'adresse IP"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:36
+msgid "Comments per page in admin view"
+msgstr ""
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:40
+msgid "Enable pager in user view"
+msgstr ""
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:44
+msgid "Comments per page in user view"
+msgstr ""
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:48
+msgid "Activate account page in user section"
+msgstr ""
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:53
+#, fuzzy
+msgid "Notification"
+msgstr "Notification"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:54
+msgid ""
+"The notification email will be sent to the owner of the content. If there is "
+"no owner known, the notification mail will be sent to the site administrator."
+msgstr ""
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:56
+#, fuzzy
+msgid "Send mail on new comment"
+msgstr "Envoyer un e-mail pour chaque nouveau commentaire"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:60
+#, fuzzy
+msgid "Send mail on comment requiring moderation"
+msgstr "Envoyer un e-mail pour les commentaires nécessitant une modération"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:65
+#, fuzzy
+msgid "Moderation"
+msgstr "Modération"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:67
+#, fuzzy
+msgid "Enable comment moderation"
+msgstr "Activer la modération des commentaires"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:71
+#, fuzzy
+msgid "All comments require moderation"
+msgstr "Modérer tous les commentaires"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:75
+#, fuzzy
+msgid ""
+"Do not require moderation for comments from users who have already commented"
+msgstr "Ne pas modérer les commentaires des utilisateurs ayant déjà commenté"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:79
+#, fuzzy
+msgid "Number of links in comment before moderation"
+msgstr "Nombre de liens dans un commentaire pour provoquer la modération"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:83
+#, fuzzy
+msgid "Words to trigger moderation"
+msgstr "Mots-clés provoquant la modération"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:88
+msgid "Blacklisting"
+msgstr ""
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:90
+#, fuzzy
+msgid "Number of links in comment before blacklisting"
+msgstr "Nombre de liens dans un commentaire avant d'être blacklisté"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:94
+#, fuzzy
+msgid "Words to blacklist from comments"
+msgstr "Mots-clés interdits dans les commentaires"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:96
+#, fuzzy
+msgid ""
+"Notice: Comments containing words listed here will be completely ignored by "
+"the comments module"
+msgstr ""
+"Note : les commentaires contenant un des mots-clés de cette liste seront "
+"complètement ignorés"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:99
+#, fuzzy
+msgid "Blacklist comments from insecure proxies"
+msgstr "Blacklister les commentaires en provenance de proxys non sécurisés"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:103
+msgid ""
+"Number of hours where users are allowed to modify the text of own comments."
+msgstr ""
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:105
+msgid "The value -1 deactivates this function."
+msgstr ""
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:109
+#, fuzzy
+msgid "Akismet spam dectection service"
+msgstr "Service Akismet de détection de spam"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:110
+msgid ""
+"Notice: <a href=\"http://akismet.com/\">Akismet</a> is a spam detection "
+"service that can, in many cases, eliminate comment and trackback spam. To "
+"use akismet you need to install and configure the <a href=\"http://code."
+"zikula.org/ezcomments/\">Akismet module</a>."
+msgstr ""
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:113
+#, fuzzy
+msgid "Enable akismet"
+msgstr "Activer akismet"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:117
+#, fuzzy
+msgid "Status level to apply to comments flagged as spam by akismet"
+msgstr "Statut à appliquer aux commentaires marqués comme spam par akismet"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:123
+#, fuzzy
+msgid "Feeds"
+msgstr "Flux RSS"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:124
+#, fuzzy
+msgid ""
+"Notice: both the feed type and feed count can be overriden using feedtype "
+"and feedcount parameters appended to the feed URL"
+msgstr ""
+"Note : le type de flux RSS ainsi que le nombre d'élements affichés peuvent "
+"être forcés en appliquant les paramètres feedcount et feedtype à l'URL"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:126
+#, fuzzy
+msgid "Type of feed"
+msgstr "Type de flux RSS"
+
+#: pntemplates/ezcomments_admin_modifyconfig.htm:130
+#, fuzzy
+msgid "Number of items to display in feed"
+msgstr "Nombre d'éléments à afficher dans les flux RSS"
+
+#: pntemplates/ezcomments_mail_modcomment.htm:1
+#, fuzzy
+msgid "A new comment was submitted to your site that requires moderation"
+msgstr ""
+"Un nouveau commentaire nécessitant une modération a été inscrit sur votre "
+"site"
+
+#: pntemplates/ezcomments_admin_menu.htm:4
+#, fuzzy
+msgid "EZComments Administration"
+msgstr "Administration EZComments"
+
+#: pntemplates/ezcomments_admin_modulestats.htm:9
+#, fuzzy
+msgid "Item ID"
+msgstr "ID Elément"
+
+#: pntemplates/ezcomments_admin_modulestats.htm:10
+#: pntemplates/ezcomments_admin_stats.htm:10
+#, fuzzy
+msgid "Total comments"
+msgstr "Total de commentaires"
+
+#: pntemplates/ezcomments_admin_deletemodule.htm:5
+#, fuzzy
+msgid "Delete module"
+msgstr "Supprimer cette catégorie de module"
+
+#: pntemplates/ezcomments_admin_deletemodule.htm:6
+#, fuzzy, php-format
+msgid "Confirm deletion of all comments attached to module '%s'"
+msgstr "Confirmez la suppression de tous les commentaires liés au module '%m%'"
+
+#: pntemplates/ezcomments_user_rss.htm:22
+#, fuzzy
+msgid "No subject"
+msgstr "Pas d'accès"
+
+#: pntemplates/ezcomments_admin_modify.htm:32
+#, fuzzy
+msgid "IP address"
+msgstr "Adresse IP"
+
+#: pntemplates/ezcomments_admin_modify.htm:33
+#, fuzzy
+msgid "not logged"
+msgstr "Adresses IP non-enregistrées"
+
+#: pntemplates/ezcomments_admin_modify.htm:49
+msgid "Send me back to the commented content after finishing"
+msgstr ""
+
+#: pntemplates/ezcomments_block_ezcomments.htm:10
+#, fuzzy
+msgid "by"
+msgstr "par"
+
+#: pntemplates/ezcomments_block_ezcomments.htm:18
+#, fuzzy
+msgid "on"
+msgstr "le"
+
+#: pntemplates/ezcomments_admin_applyrules_form.htm:6
+#, fuzzy
+msgid ""
+"This page allows to to re-apply the defined moderation rules to all existing "
+"comments allowing all comments to be re-checked if you change your "
+"moderation rules."
+msgstr ""
+"Cette page permet d'appliquer à tous les commentaires existants les règles "
+"de modération définies, ce qui permet de vérifier à nouveau tous les "
+"commentaires dans le cas où vous auriez changé les règles de modération."
+
+#: pntemplates/ezcomments_admin_applyrules_form.htm:12
+#: pntemplates/ezcomments_admin_view.htm:105
+#, fuzzy
+msgid "Choose action"
+msgstr "Veuillez choisir une action :"
+
+#: pntemplates/ezcomments_admin_applyrules_form.htm:14
+#, fuzzy
+msgid "Apply moderation rules to all comments"
+msgstr "Appliquer les règles de modération à tous les commentaires"
+
+#: pntemplates/ezcomments_admin_applyrules_form.htm:18
+#, fuzzy
+msgid "or"
+msgstr "ou"
+
+#: pntemplates/ezcomments_admin_applyrules_form.htm:21
+msgid "Apply moderation rules to all comments with status"
+msgstr ""
+
+#: pntemplates/ezcomments_myprofile_tab.htm:1
+#, fuzzy
+msgid "Pinboard for member"
+msgstr "Mot de passe pour %1$s en provenance de %2$s"
+
+#: pntemplates/ezcomments_myprofile_tab.htm:8
+msgid "The user has deactivated the pinboard for his account"
+msgstr ""
+
+#: pntemplates/ezcomments_myprofile_tab.htm:12
+#, fuzzy
+msgid "Pinboard entries"
+msgstr "Vérifier ce que j'ai indiqué"
+
+#: pntemplates/ezcomments_myprofile_tab.htm:21
+msgid "Pinboard entries are only visible for registered or logged in users."
+msgstr ""
+
+#: pntemplates/ezcomments_search_form.htm:6
+#, fuzzy
+msgid "Search comments"
+msgstr "Commentaires"
+
+#: pntemplates/ezcomments_user_main.htm:3
+#, php-format
+msgid "The last %s created or owned comment"
+msgid_plural "The last %s created or owned comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: pntemplates/ezcomments_user_main.htm:4
+#: pntemplates/ezcomments_admin_view.htm:4
+#, fuzzy
+msgid "unknown"
+msgstr "utilisateur inconnu."
+
+#: pntemplates/ezcomments_user_main.htm:10
+#: pntemplates/ezcomments_admin_view.htm:15
+#, fuzzy
+msgid "Filter by status"
+msgstr "Filtrer par statut :"
+
+#: pntemplates/ezcomments_user_main.htm:17
+#: pntemplates/ezcomments_admin_view.htm:24
+#, fuzzy
+msgid "Filter"
+msgstr "Filtrer"
+
+#: pntemplates/ezcomments_user_main.htm:25
+#: pntemplates/ezcomments_admin_view.htm:36
+#, fuzzy
+msgid "Date"
+msgstr "Date"
+
+#: pntemplates/ezcomments_user_main.htm:28
+#: pntemplates/ezcomments_admin_view.htm:39
+#, fuzzy
+msgid "Owner"
+msgstr "Paramètres du propriétaire"
+
+#: pntemplates/ezcomments_admin_view.htm:9
+#, fuzzy, php-format
+msgid "The last %s comment"
+msgid_plural "The last %s comments"
+msgstr[0] "Accès au commentaire"
+msgstr[1] ""
+
+#: pntemplates/ezcomments_admin_view.htm:11
+#, fuzzy, php-format
+msgid "All %s comments"
+msgstr "Tous les commentaires %s%"
+
+#: pntemplates/ezcomments_admin_view.htm:22
+#, fuzzy
+msgid "Show all comments"
+msgstr "Afficher tous les commentaires"
+
+#: pntemplates/ezcomments_admin_view.htm:103
+#, fuzzy
+msgid "With selected comments"
+msgstr "Commentaires sélectionnés : "
+
+#: pntemplates/ezcomments_admin_view.htm:107
+#, fuzzy
+msgid "Approve"
+msgstr "Approuver"
+
+#: pntemplates/ezcomments_admin_view.htm:108
+#, fuzzy
+msgid "Hold"
+msgstr "En attente"
+
+#: pntemplates/ezcomments_admin_view.htm:109
+#, fuzzy
+msgid "Reject"
+msgstr "Refuser"

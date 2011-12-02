@@ -1,0 +1,863 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Files 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-02-02 13:40+0100\n"
+"PO-Revision-Date: 2010-08-24 20:51-0300\n"
+"Last-Translator: Mateo Tibaquirá <mateo@zikula.org>\n"
+"Language-Team: Zikula Spanish Community <equipo@zikula.es>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.5.1\n"
+
+#: pnuser.php:40
+msgid "The server directory does not exist."
+msgstr "La carpeta del servidor no existe."
+
+#: pnuser.php:47
+#: pnuser.php:63
+#: pnuser.php:154
+#: pnuser.php:190
+#: pnuser.php:199
+#: pnuser.php:325
+#: pnuser.php:377
+#: pnuser.php:452
+#: pnuser.php:606
+#: pnuser.php:710
+#: pnuser.php:795
+#: pnuser.php:834
+#: pnuser.php:878
+#: pnuser.php:975
+#: pnuser.php:1010
+#: pnuser.php:1045
+#: pnuser.php:1137
+#: pnuser.php:1173
+#: pnuser.php:1239
+#: pnuser.php:1287
+#: pnuser.php:1368
+#: pnuser.php:1414
+#: pnuser.php:1488
+#: pnuser.php:1675
+#: pnuser.php:1730
+#: pnexternal/getFiles.php:38
+#: pnexternal/getFiles.php:56
+msgid "Invalid folder"
+msgstr "Carpeta desconcida"
+
+#: pnuser.php:56
+#: pnexternal/getFiles.php:49
+msgid "It is not possible to browse this folder"
+msgstr "No es posible navegar en esta carpeta"
+
+#: pnuser.php:119
+msgid "More than 200 Mb"
+msgstr "Más de 200 Mb"
+
+#: pnuser.php:121
+#, php-format
+msgid "%s Mb"
+msgstr "%s Mb"
+
+#: pnuser.php:123
+#, php-format
+msgid "%s Kb"
+msgstr "%s Kb"
+
+#: pnuser.php:125
+#, php-format
+msgid "%s bytes"
+msgstr "%s bytes"
+
+#: pnuser.php:239
+msgid "Unzip file"
+msgstr "Descomprimir archivo"
+
+#: pnuser.php:246
+msgid "List of the file content"
+msgstr "Listado de contenidos de archivo"
+
+#: pnuser.php:252
+msgid "Download file"
+msgstr "Descargar archivo"
+
+#: pnuser.php:260
+#: pntemplates/Files_user_editFile.htm:9
+msgid "Edit file"
+msgstr "Editar archivo"
+
+#: pnuser.php:269
+msgid "Create Thumbnail"
+msgstr "Crear miniatura"
+
+#: pnuser.php:277
+#: pntemplates/Files_external_getFiles.htm:91
+#: pntemplates/Files_user_renameFile.htm:9
+#: pntemplates/Files_user_renameFile.htm:20
+#: pntemplates/Files_user_filesList.htm:89
+msgid "Rename file"
+msgstr "Renombrar archivo"
+
+#: pnuser.php:284
+msgid "Delete file"
+msgstr "Eliminar archivo"
+
+#: pnuser.php:318
+#: pnuser.php:372
+#: pnuser.php:445
+#: pnuser.php:599
+#: pnuser.php:696
+#: pnuser.php:789
+#: pnuser.php:828
+#: pnuser.php:872
+#: pnuser.php:963
+#: pnuser.php:1005
+#: pnuser.php:1040
+#: pnuser.php:1132
+#: pnuser.php:1168
+#: pnuser.php:1233
+#: pnuser.php:1281
+#: pnuser.php:1360
+#: pnuser.php:1408
+#: pnuser.php:1480
+#: pnuser.php:1551
+#: pnuser.php:1627
+#: pnuser.php:1670
+#: pnuser.php:1724
+msgid "Error! You are not authorized to access this module."
+msgstr "¡Error! No tiene autorización para acceder a este módulo."
+
+#: pnuser.php:331
+#: pnuser.php:886
+msgid "File not found"
+msgstr "Archivo no encontrado"
+
+#: pnuser.php:461
+msgid "It is not possible to create a thumbnail from this file."
+msgstr "No fue posible crear una miniatura desde este archivo."
+
+#: pnuser.php:473
+msgid "Error! It has been possible to read the file."
+msgstr "¡Error! Se pudo leer el archivo."
+
+#: pnuser.php:501
+msgid "Error! Saving the image in memory."
+msgstr "¡Error! Falla al guardar la imagen en memoria."
+
+#: pnuser.php:511
+#: pnuser.php:527
+#: pnuser.php:531
+#: pnuser.php:537
+#: pnuser.php:541
+#: pnuser.php:545
+#: pnuser.php:551
+#: pnuser.php:564
+#: pnuser.php:568
+msgid "Error! Creating the thumbnail of the image."
+msgstr "¡Error! Falla al crear la miniatura de la imagen."
+
+#: pnuser.php:577
+msgid "Thumbnail created."
+msgstr "Miniatura generada."
+
+#: pnuser.php:618
+#, php-format
+msgid "Sorry! The file %s is not editable."
+msgstr "¡Lo sentimos! El archivo %s no es editable."
+
+#: pnuser.php:627
+#, php-format
+msgid "Sorry! The file %s has not been found."
+msgstr "¡Lo sentimos! El archivo %s no se ha encontrado."
+
+#: pnuser.php:638
+#, php-format
+msgid "Error! It has not been possible to read the content of the file %s."
+msgstr "¡Error! No fue posible leer el contenido del archivo %s."
+
+#: pnuser.php:668
+#, php-format
+msgid "Error! It has not been possible to write the content to the file %s."
+msgstr "¡Error! No fue posible escribir el contenido del archivo %s."
+
+#: pnuser.php:675
+msgid "File successfully edited"
+msgstr "Archivo editado exitosamente"
+
+#: pnuser.php:703
+msgid "You can not delete the users folder!"
+msgstr "¡No puede eliminar la carpeta de usuarios!"
+
+#: pnuser.php:757
+msgid "Failed to deleted"
+msgstr "Falló la eliminación"
+
+#: pnuser.php:762
+msgid "Error deleting file"
+msgstr "Error al borrar el archivo"
+
+#: pnuser.php:773
+msgid "Files successfully removed"
+msgstr "Archivos eliminados exitosamente"
+
+#: pnuser.php:917
+#, php-format
+msgid "The extension <strong>%s</strong> is not allowed.  The allowed extensions are: <strong>%s</strong>."
+msgstr "La extensión <strong>%s</strong> no está permitida. Las extensiones permitidas son: <strong>%s</strong>."
+
+#: pnuser.php:925
+msgid "Failed to rename"
+msgstr "Error al renombrar"
+
+#: pnuser.php:942
+msgid "Changed filename successfully"
+msgstr "Archivo renombrado exitosamente"
+
+#: pnuser.php:981
+msgid "Directory Create Error"
+msgstr "Error creando la carpeta"
+
+#: pnuser.php:984
+msgid "Directory created"
+msgstr "Carpeta creada"
+
+#: pnuser.php:1062
+#, php-format
+msgid "The directory \"%s\" does not exist."
+msgstr "La carpeta \"%s\" no existe."
+
+#: pnuser.php:1070
+#, php-format
+msgid "The extension <strong>%s</strong> is not allowed. The allowed extensions are: <strong>%s</strong>."
+msgstr "La extensión <strong>%s</strong> no está permitida. Las extensiones permitidas son: <strong>%s</strong>."
+
+#: pnuser.php:1079
+#, php-format
+msgid "The file is to big. The maximum size allowed is \"%s\" bytes."
+msgstr "El archivo es demasiado grande. El tamaño máximo permitido es de \"%s\" bytes."
+
+#: pnuser.php:1090
+msgid "You have not enough disk space to upload the file."
+msgstr "No hay suficiente espacio en disco para cargar el archivo."
+
+#: pnuser.php:1108
+msgid "Failed to upload"
+msgstr "Error al cargar"
+
+#: pnuser.php:1112
+msgid "Uploaded file success"
+msgstr "Archivo subido exitosamente"
+
+#: pnuser.php:1189
+msgid "No selected action"
+msgstr "No se seleccionó ninguna acción"
+
+#: pnuser.php:1194
+msgid "No selected file or directory"
+msgstr "No se seleccionó ningún archivo o carpeta"
+
+#: pnuser.php:1325
+msgid "No file name given"
+msgstr "No se proporcionó un nombre de archivo"
+
+#: pnuser.php:1337
+msgid "Error creating ZIP file"
+msgstr "Error creando el archivo ZIP"
+
+#: pnuser.php:1340
+msgid "Successfully zipped"
+msgstr "Compresión realizada con éxito"
+
+#: pnuser.php:1376
+#: pnuser.php:1496
+msgid "Failed to list content zip file."
+msgstr "Error al listar los contenidos del archivo zip"
+
+#: pnuser.php:1456
+msgid "Error moving"
+msgstr "Error al mover"
+
+#: pnuser.php:1462
+msgid "Successfully moved"
+msgstr "Traslado exitoso"
+
+#: pnuser.php:1510
+#, php-format
+msgid "The zip file contains at least one file with the extension <strong>%s</strong> which is not allowed. The allowed extensions are: <strong>%s</strong>."
+msgstr "El archivo zip contiene al menos un archivo con la extensión <strong>%s</strong>, la cual no está permitida. Las extensiones permitidas son: <strong>%s</strong>."
+
+#: pnuser.php:1525
+#, php-format
+msgid "You have not enough disk space to unzip the file. You need %s extra bytes."
+msgstr "No hay suficiente espacio en disco para descomprimir el archivo. Hacen falta %s bytes extra."
+
+#: pnuser.php:1529
+msgid "Failed to unzip"
+msgstr "Error al descomprimir"
+
+#: pnuser.php:1536
+msgid "Successfully unzipped"
+msgstr "Descomprimido exitosamente"
+
+#: pnuser.php:1563
+#, php-format
+msgid "The \"%s\" folder does not exist."
+msgstr "La carpeta \"%s\" no existe."
+
+#: pnuser.php:1574
+msgid "Directory creation error. Please contact with the administrator"
+msgstr "Error al crear la carpeta. Por favor, contacte al administrador."
+
+#: pnuser.php:1583
+#: pnuser.php:1596
+#: pninit.php:110
+msgid "Directory creation error"
+msgstr "Error al crear la carpeta"
+
+#: pnuser.php:1608
+#, php-format
+msgid "The \"%s\" directory does not exist or is not writable."
+msgstr "La carpeta \"%s\" no existe o no se puede escribir en ella."
+
+#: pntemplates/plugins/function.filesmenulinks.php:22
+msgid "Manage Files"
+msgstr "Gestionar Archivos"
+
+#: pntemplates/plugins/function.filesmenulinks.php:25
+msgid "Module configuration"
+msgstr "Configuración del módulo"
+
+#: pnaccountapi.php:28
+#: pnversion.php:25
+msgid "File Manager"
+msgstr "Gestor de Archivos"
+
+#: pnadmin.php:109
+#, php-format
+msgid "The directory <strong>%s</strong> does not exist"
+msgstr "La carpeta <strong>%s</strong> no existe"
+
+#: pnadmin.php:117
+#, php-format
+msgid "The directory <strong>%s</strong> for users does not exist"
+msgstr "La carpeta <strong>%s</strong> para usuarios no existe"
+
+#: pnadmin.php:124
+msgid "The configuration has been updated"
+msgstr "La configuración ha sido actualizada"
+
+#: pnversion.php:24
+msgid "File manager for Zikula sites."
+msgstr "Gestor de Archivos para los sitios Zikula."
+
+#: pnversion.php:26
+msgid "files"
+msgstr "archivos"
+
+#: pnajax.php:29
+#: pnajax.php:51
+msgid "No folder defined."
+msgstr "No se especificó carpeta alguna."
+
+#: pnajax.php:86
+#: pnajax.php:121
+msgid "no group found"
+msgstr "no se encontró el grupo"
+
+#: pnajax.php:90
+msgid "no quota defined"
+msgstr "no se definió cuota alguna"
+
+#: pnajax.php:146
+msgid "no image found"
+msgstr "no se halló imagen alguna"
+
+#: pnajax.php:150
+msgid "no size factor defined"
+msgstr "no se especificó tamaño"
+
+#: pnajax.php:154
+msgid "no folder defined"
+msgstr "no se especificó carpeta alguna"
+
+#: pnexternal/getFiles.php:17
+msgid "Sorry! You have not been granted access to this page."
+msgstr "¡Lo sentimos! No tiene autorización para acceder a esta página."
+
+#: pnexternal/getFiles.php:29
+msgid "The server directory does not exist. Contact with the website administrator to solve this problem."
+msgstr "La carpeta del servidor no existe. Contacte al administrador del sitio web para solucionar este problema."
+
+#: pnuserapi.php:32
+msgid "Error! Could not load items."
+msgstr "¡Error! No fue posible cargar los elementos."
+
+#: pnuserapi.php:58
+msgid "Error! Could not create the new item."
+msgstr "¡Error! No se pudo crear el nuevo elemento."
+
+#: pnuserapi.php:90
+msgid "Error! Could not update the used disk."
+msgstr "¡Error! No se pudo actualizar el disco usado."
+
+#: pnuserapi.php:106
+msgid "Sorry! No authorization to access this module."
+msgstr "¡Lo sentimos! No tiene autorización para acceder a este módulo."
+
+#: pntemplates/Files_admin_newQuotaForm.htm:4
+msgid "Choose a group..."
+msgstr "Escoja un grupo..."
+
+#: pntemplates/Files_admin_newQuotaForm.htm:10
+#: pntemplates/Files_admin_conf.htm:83
+msgid "Mb"
+msgstr "Mb"
+
+#: pntemplates/Files_admin_newQuotaForm.htm:13
+#: pntemplates/Files_admin_conf.htm:88
+msgid "Save the changes"
+msgstr "Guardar cambios"
+
+#: pntemplates/Files_admin_newQuotaForm.htm:17
+msgid "-1 means no disk quota limit"
+msgstr "-1 significa que no existe límite de cuota"
+
+#: pntemplates/Files_external_getFilesImgContent.htm:11
+msgid "Reduce size"
+msgstr "Reducir tamaño"
+
+#: pntemplates/Files_external_getFilesImgContent.htm:14
+msgid "Increase size"
+msgstr "Aumentar tamaño"
+
+#: pntemplates/Files_external_getFilesImgContent.htm:16
+msgid "Delete thumbnail"
+msgstr "Eliminar miniatura"
+
+#: pntemplates/Files_user_createDir.htm:8
+msgid "Create folder"
+msgstr "Crear carpeta"
+
+#: pntemplates/Files_user_createDir.htm:10
+msgid "Folder name"
+msgstr "Nombre de la carpeta"
+
+#: pntemplates/Files_user_createDir.htm:14
+#: pntemplates/Files_user_editFile.htm:25
+#: pntemplates/Files_user_moveListFile.htm:34
+#: pntemplates/Files_user_uploadFile.htm:15
+#: pntemplates/Files_user_renameFile.htm:27
+#: pntemplates/Files_user_listContentZip.htm:18
+#: pntemplates/Files_user_listContentZip.htm:20
+#: pntemplates/Files_user_createZipListFile.htm:32
+#: pntemplates/Files_user_deleteListFile.htm:32
+#: pntemplates/Files_init.htm:35
+msgid "Accept"
+msgstr "Aceptar"
+
+#: pntemplates/Files_user_createDir.htm:15
+#: pntemplates/Files_user_editFile.htm:27
+#: pntemplates/Files_user_editFile.htm:29
+#: pntemplates/Files_user_moveListFile.htm:35
+#: pntemplates/Files_user_moveListFile.htm:37
+#: pntemplates/Files_user_uploadFile.htm:16
+#: pntemplates/Files_user_renameFile.htm:29
+#: pntemplates/Files_user_renameFile.htm:31
+#: pntemplates/Files_user_createZipListFile.htm:34
+#: pntemplates/Files_user_createZipListFile.htm:36
+#: pntemplates/Files_user_deleteListFile.htm:34
+#: pntemplates/Files_user_deleteListFile.htm:36
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: pntemplates/Files_user_editFile.htm:20
+#, php-format
+msgid "%s/%s"
+msgstr "%s/%s"
+
+#: pntemplates/Files_external_getFiles.htm:6
+#: pntemplates/Files_user_errorMsg.htm:10
+#: pntemplates/Files_user_filesList.htm:6
+msgid "List of files in folder"
+msgstr "Lista de archivos en la carpeta"
+
+#: pntemplates/Files_external_getFiles.htm:12
+#: pntemplates/Files_user_filesList.htm:12
+msgid "It is not possible to write in this directory. Make it writable."
+msgstr "No se pudo escribir en eset directorio. Debe permitir la escritura en él."
+
+#: pntemplates/Files_external_getFiles.htm:16
+#: pntemplates/Files_user_filesList.htm:16
+msgid "Create directory"
+msgstr "Crear carpeta"
+
+#: pntemplates/Files_external_getFiles.htm:17
+#: pntemplates/Files_user_uploadFile.htm:8
+#: pntemplates/Files_user_filesList.htm:17
+msgid "Upload file"
+msgstr "Subir archivo"
+
+#: pntemplates/Files_external_getFiles.htm:19
+#: pntemplates/Files_user_filesList.htm:19
+msgid "Set as not public folder"
+msgstr "Establecer como carpeta no pública"
+
+#: pntemplates/Files_external_getFiles.htm:21
+#: pntemplates/Files_user_filesList.htm:21
+msgid "Set as a public folder"
+msgstr "Establecer como carpeta pública"
+
+#: pntemplates/Files_external_getFiles.htm:27
+#: pntemplates/Files_user_filesList.htm:27
+msgid "Disk use:"
+msgstr "Uso de disco:"
+
+#: pntemplates/Files_external_getFiles.htm:30
+#: pntemplates/Files_user_filesList.htm:30
+#, php-format
+msgid "%s%% - %s of %s"
+msgstr "%s%% - %s de %s"
+
+#: pntemplates/Files_external_getFiles.htm:39
+#: pntemplates/Files_user_filesList.htm:39
+msgid "The files in this directory are accessible directly from the navigator. Anybody can access to them with the URL:"
+msgstr "Los archivos en esta carpeta son directamente accesibles desde el navegador. Cualquiera podría tener acceso a ellos con la URL:"
+
+#: pntemplates/Files_external_getFiles.htm:40
+#: pntemplates/Files_user_filesList.htm:40
+msgid "file_name"
+msgstr "nombre_de_archivo"
+
+#: pntemplates/Files_external_getFiles.htm:51
+#: pntemplates/Files_user_filesList.htm:49
+msgid "Name"
+msgstr "Nombre"
+
+#: pntemplates/Files_external_getFiles.htm:52
+#: pntemplates/Files_user_filesList.htm:50
+msgid "Size"
+msgstr "Tamaño"
+
+#: pntemplates/Files_external_getFiles.htm:53
+#: pntemplates/Files_user_filesList.htm:51
+msgid "Modified"
+msgstr "Modificado"
+
+#: pntemplates/Files_external_getFiles.htm:54
+#: pntemplates/Files_user_filesList.htm:52
+msgid "Action"
+msgstr "Acción"
+
+#: pntemplates/Files_external_getFiles.htm:91
+#: pntemplates/Files_user_filesList.htm:89
+msgid "Rename folder"
+msgstr "Renombrar carpeta"
+
+#: pntemplates/Files_external_getFiles.htm:92
+#: pntemplates/Files_user_filesList.htm:90
+msgid "Delete folder"
+msgstr "Eliminar carpeta"
+
+#: pntemplates/Files_external_getFiles.htm:111
+#: pntemplates/Files_user_filesList.htm:104
+msgid "Bytes"
+msgstr "Bytes"
+
+#: pntemplates/Files_external_getFiles.htm:127
+#: pntemplates/Files_user_filesList.htm:119
+msgid "-- Selected files --"
+msgstr "-- Archivos seleccionados --"
+
+#: pntemplates/Files_external_getFiles.htm:128
+#: pntemplates/Files_user_filesList.htm:120
+msgid "Move them to another folder"
+msgstr "Moverlos a otra carpeta"
+
+#: pntemplates/Files_external_getFiles.htm:129
+#: pntemplates/Files_user_filesList.htm:121
+msgid "Delete them"
+msgstr "Borrarlos"
+
+#: pntemplates/Files_external_getFiles.htm:130
+#: pntemplates/Files_user_filesList.htm:122
+msgid "Create a zip file with them"
+msgstr "Crear un archivo zip con ellos"
+
+#: pntemplates/Files_external_getFiles.htm:137
+msgid "Drag and drop the images to the HTML editor"
+msgstr "Arrastre y suelte las imágenes al editor HTML"
+
+#: pntemplates/Files_external_getFiles.htm:143
+msgid "The values displayed in each image are its real size \"width x height\" and the factor of the modification of its size (value). The value 1 means that the image is in its natural size. A value upper than 1 means that the image has been reduced and a value lower than 1 means that the image has been increased."
+msgstr "Los valores mostrados en cada imagen son su tamaño real \"alto x ancho\" y el factor de modificación de su tamaño (valor). El valor 1 significa que la imagen está a tamaño natural. Un valor superior a 1 significa que la imagen ha sido reducida y un valor inferior a 1 que la imagen se ha agrandado."
+
+#: pntemplates/Files_admin_quotasTable.htm:5
+msgid "Group"
+msgstr "Grupo"
+
+#: pntemplates/Files_admin_quotasTable.htm:6
+msgid "Quota (Mb)"
+msgstr "Cuota (Mb)"
+
+#: pntemplates/Files_admin_quotasTable.htm:7
+msgid "Delete"
+msgstr "Eliminar"
+
+#: pntemplates/Files_admin_quotasTable.htm:18
+msgid "Delete disk quota"
+msgstr "Eliminar cuota de disco"
+
+#: pntemplates/Files_admin_quotasTable.htm:28
+msgid "Assign a new disk quota"
+msgstr "Asignar una nueva cuota de disco"
+
+#: pntemplates/Files_admin_quotasTable.htm:35
+msgid "(A value of -1 means no disk quota assigned)"
+msgstr "(Un valor de -1 significará que no hay cuota de disco asignada)"
+
+#: pntemplates/Files_user_moveListFile.htm:9
+msgid "Moving"
+msgstr "Trasladando"
+
+#: pntemplates/Files_user_moveListFile.htm:21
+msgid "Move to"
+msgstr "Trasladar a"
+
+#: pntemplates/Files_user_moveListFile.htm:24
+msgid "(root)"
+msgstr "(raíz)"
+
+#: pntemplates/Files_admin_menu.htm:5
+msgid "Files"
+msgstr "Archivos"
+
+#: pntemplates/Files_user_uploadFile.htm:10
+msgid "File name"
+msgstr "Nombre del archivo"
+
+#: pntemplates/Files_user_uploadFile.htm:13
+msgid "Allowed extensions:"
+msgstr "Extensiones permitidas:"
+
+#: pntemplates/Files_external_header.htm:5
+msgid "User's files"
+msgstr "Archivos del usuario"
+
+#: pntemplates/Files_user_renameFile.htm:22
+msgid "New filename"
+msgstr "Nuevo nombre de archivo"
+
+#: pntemplates/Files_user_listContentZip.htm:9
+msgid "The list of the archive content"
+msgstr "El listado de contenido de archivo"
+
+#: pntemplates/Files_user_createZipListFile.htm:9
+msgid "Create zip file"
+msgstr "Crear archivo zip"
+
+#: pntemplates/Files_user_createZipListFile.htm:18
+msgid "Generates a zip with this content"
+msgstr "Genera un zip con este contenido"
+
+#: pntemplates/Files_user_createZipListFile.htm:26
+msgid "Filename"
+msgstr "Nombre de archivo"
+
+#: pntemplates/Files_user_deleteListFile.htm:9
+#: pntemplates/Files_user_filesList.htm:90
+msgid "Delete File"
+msgstr "Eliminar archivo"
+
+#: pntemplates/Files_user_deleteListFile.htm:13
+msgid "Confirm deletion of:"
+msgstr "Confirmar la eliminación de:"
+
+#: pntemplates/Files_user_deleteListFile.htm:30
+msgid "Confirmation prompt"
+msgstr "Aviso de confirmación"
+
+#: pntemplates/Files_admin_conf.htm:5
+msgid "Modify configuration"
+msgstr "Modficar la configuración"
+
+#: pntemplates/Files_admin_conf.htm:10
+msgid "You should move the file file.php from modules/Files to the zikula root directory"
+msgstr "Debes trasladar el archivo file.php desde modules/Files a la carpeta raíz de Zikula"
+
+#: pntemplates/Files_admin_conf.htm:15
+msgid "You should remove the file file.php from modules/Files"
+msgstr "Debe eliminar el archivo file.php de modules/Files"
+
+#: pntemplates/Files_admin_conf.htm:25
+msgid "Settings"
+msgstr "Configuración"
+
+#: pntemplates/Files_admin_conf.htm:28
+msgid "Files system physical path"
+msgstr "Ruta física del sistema de archivos"
+
+#: pntemplates/Files_admin_conf.htm:31
+#: pntemplates/Files_admin_conf.htm:39
+msgid "The folder does not exist or it is not writable"
+msgstr "La carpeta no existe o no tiene permisos de escritura"
+
+#: pntemplates/Files_admin_conf.htm:36
+msgid "Users' folder"
+msgstr "Carpeta del usuario"
+
+#: pntemplates/Files_admin_conf.htm:43
+msgid "Show hidden files"
+msgstr "Mostrar archivos ocultos"
+
+#: pntemplates/Files_admin_conf.htm:45
+msgid "Do not show to anyone"
+msgstr "No mostrar a nadie"
+
+#: pntemplates/Files_admin_conf.htm:46
+msgid "Only show to administrators"
+msgstr "Mostrar solo a los administradores"
+
+#: pntemplates/Files_admin_conf.htm:47
+msgid "Show to everyone"
+msgstr "Mostrar a todo el mundo"
+
+#: pntemplates/Files_admin_conf.htm:51
+msgid "Allowed extensions (comma separated list)"
+msgstr "Extensiones permitidas (lista separada por comas)"
+
+#: pntemplates/Files_admin_conf.htm:55
+msgid "Editable extensions (comma separated list)"
+msgstr "Extensiones editables (lista separada por comas)"
+
+#: pntemplates/Files_admin_conf.htm:59
+msgid "Maximum file size"
+msgstr "Tamaño máximo del archivo"
+
+#: pntemplates/Files_admin_conf.htm:62
+msgid "bytes"
+msgstr "bytes"
+
+#: pntemplates/Files_admin_conf.htm:66
+msgid "Default width for images in editor"
+msgstr "Ancho por defecto para las imágenes del editor"
+
+#: pntemplates/Files_admin_conf.htm:69
+#: pntemplates/Files_admin_conf.htm:76
+msgid "pixel"
+msgstr "pixel"
+
+#: pntemplates/Files_admin_conf.htm:73
+msgid "Default height for images in editor"
+msgstr "Altura por defecto para las imágenes del editor"
+
+#: pntemplates/Files_admin_conf.htm:80
+msgid "Default disk quota"
+msgstr "Cuota de disco por defecto"
+
+#: pntemplates/Files_admin_conf.htm:94
+msgid "Disk quotas for groups"
+msgstr "Cuota de disco para grupos"
+
+#: pntemplates/Files_init.htm:3
+msgid "Files module installation"
+msgstr "Instalación del módulo de Archivos"
+
+#: pntemplates/Files_init.htm:6
+msgid "Welcome to Files module"
+msgstr "Bienvenido al módulo de Archivos"
+
+#: pntemplates/Files_init.htm:8
+msgid "This module allow user to manage their own files.<br />Each user has a folder for his/her files.<br />This module needs two writable folders that have to be created."
+msgstr "Este módulo permite al usuario gestionar sus propios archivos.<br />Cada usuario obtiene una carpeta para sus archivos.<br />Este módulo necesita dos carpetas con permisos de escritura que deben ser creadas."
+
+#: pntemplates/Files_init.htm:10
+msgid "Proceed with the installation"
+msgstr "Proceder con la instalación"
+
+#: pntemplates/Files_init.htm:14
+msgid "Check if the files folders in the server have been created and define them using the form below.<br />These folders will be used to save the files of the site and the users' files.<br />We recommend to locate them out of the public HTTP."
+msgstr "Compruebe que las carpetas de los archivos han sido creadas en el servidor y se han definido en base al formulario de abajo.<br />Estas carpetas se utilizarán para guardar los archivos del sitio web y los archivos de los usuarios.<br />Recomendamos que se ubiquen fuera de la HTTP pública."
+
+#: pntemplates/Files_init.htm:19
+msgid "Defining the files folders"
+msgstr "Definición de las carpetas de archivos"
+
+#: pntemplates/Files_init.htm:22
+msgid "Write the physical location of the folder in the server"
+msgstr "Proporcione la ubicación física de la carpeta en el servidor"
+
+#: pntemplates/Files_init.htm:27
+msgid "Write the users' folder name"
+msgstr "Introduzca el nombre de la carpeta de usuario"
+
+#: pntemplates/Files_init.htm:40
+msgid "Checking if the files folders exist and they are writable"
+msgstr "Comprobando si las carpetas de archivos existen y si tienen permisos de escritura"
+
+#: pntemplates/Files_init.htm:46
+#, php-format
+msgid "The folder <strong>%s</strong> has not been found."
+msgstr "La carpeta <strong>%s</strong> no ha sido encontrada."
+
+#: pntemplates/Files_init.htm:51
+#, php-format
+msgid "The folder <strong>%s</strong> is in the correct place."
+msgstr "La carpeta <strong>%s</strong> está en el lugar correcto."
+
+#: pntemplates/Files_init.htm:56
+#: pntemplates/Files_init.htm:86
+#, php-format
+msgid "The folder <strong>%s</strong> is not writable and it should be."
+msgstr "La carpeta <strong>%s</strong> no tiene los permisos de escritura que debería tener."
+
+#: pntemplates/Files_init.htm:61
+#: pntemplates/Files_init.htm:95
+#, php-format
+msgid "The folder <strong>%s</strong> is writable."
+msgstr "La carpeta <strong>%s</strong> tiene permisos de escritura."
+
+#: pntemplates/Files_init.htm:69
+#, php-format
+msgid "The folder <strong>%s/%s</strong> has not been found."
+msgstr "La carpeta <strong>%s/%s</strong> no ha sido encontrada."
+
+#: pntemplates/Files_init.htm:75
+#, php-format
+msgid "The folder <strong>%s/%s</strong> is located in the correct place."
+msgstr "La carpeta <strong>%s/%s</strong> esta ubicada en el lugar correcto. "
+
+#: pntemplates/Files_init.htm:77
+#, php-format
+msgid "The folder <strong>%s</strong> is located in the correct place."
+msgstr "La carpeta <strong>%s</strong> se ubica en el lugar correcto."
+
+#: pntemplates/Files_init.htm:84
+#, php-format
+msgid "The folder <strong>%s/%s</strong> is not writable and it should be."
+msgstr "La carpeta <strong>%s/%s</strong> no tiene los permisos de escritura que debería tener."
+
+#: pntemplates/Files_init.htm:93
+#, php-format
+msgid "The folder <strong>%s/%s</strong> is writable."
+msgstr "La carpeta <strong>%s/%s</strong> tiene permisos de escritura."
+
+#: pntemplates/Files_init.htm:104
+msgid "Define folders again. Remember that you have to create the folders after define them."
+msgstr "Defina las carpetas de nuevo. Recuerde que debe crear las carpetas después de definirlas."
+
+#: pntemplates/Files_init.htm:107
+msgid "Make the folders writable and try again."
+msgstr "Conceda permisos de escritura a las carpetas y pruebe otra vez."
+
+#: pntemplates/Files_init.htm:116
+msgid "Proceed with the module installation"
+msgstr "Proceder con la instalación del módulo"
+
+#: pntemplates/Files_external_footer.htm:3
+msgid "Close window"
+msgstr "Cerrar la ventana"
+

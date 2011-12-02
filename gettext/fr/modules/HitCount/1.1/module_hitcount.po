@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-11 08:15+0000\n"
+"PO-Revision-Date: 2010-02-18 11:34+0200\n"
+"Last-Translator: Christophe <yokav@zikula.fr>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnversion.php:15
+msgid "Hit counter"
+msgstr "Compteur de visites"
+
+# ! nom du module apparaissant de l'url
+#. ! module url in lowercase and different to displayname
+#: pnversion.php:17
+msgid "hitcount"
+msgstr "compteurvisites"
+
+#: pnversion.php:18
+msgid "Count displays of module items."
+msgstr "Comptage du nombre de visites (affichage) des éléments d'un module."
+
+#: pnuserapi.php:92 pnuserapi.php:133
+msgid "Error! Could not load items."
+msgstr "Erreur ! Impossible de charger les éléments."
+
+#: pnadminapi.php:57 pnadminapi.php:184
+msgid "Error! Creation attempt failed."
+msgstr "Erreur ! La tentative de création a échoué."
+
+#: pnadminapi.php:105 pnadminapi.php:221
+msgid "Error! Sorry! Deletion attempt failed."
+msgstr "Erreur ! Désolé ! La tentative de suppression a échoué."
+
+#: pninit.php:28 pninit.php:32 pninit.php:36 pninit.php:42
+msgid "Error! Failed to register hook."
+msgstr "Erreur ! L'activation de l'extension a échoué."
+
+#: pninit.php:69 pninit.php:72 pninit.php:75 pninit.php:78
+msgid "Error! Could not deregister hook."
+msgstr "Erreur ! La désactivation de l'extension a échoué."
+
+#: pntemplates/hitcount_user_menu.htm:3
+msgid "Hit Counter"
+msgstr "Compteur de visites"
+
+#: pntemplates/hitcount_user_main.htm:3
+msgid "Modules we're currently counting display hits for"
+msgstr "Les modules pour lesquels on compte le nombre de visites sont"
+
+#: pntemplates/hitcount_user_main.htm:8
+msgid "items"
+msgstr "éléments"
+
+#: pntemplates/hitcount_user_main.htm:10
+msgid "hits"
+msgstr "visites"

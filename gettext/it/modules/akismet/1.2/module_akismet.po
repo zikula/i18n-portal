@@ -1,0 +1,96 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-24 10:14+0000\n"
+"PO-Revision-Date: 2010-11-03 14:38+0200\n"
+"Last-Translator: Enrico <enrybia@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: pnadmin.php:82
+msgid ""
+"Error! Sorry! Invalid API key. Please obtain one from http://wordpress.com/"
+"api-keys/."
+msgstr ""
+"Errore! Spiacente! API key non valido. Si prega di ottenerne uno da http://"
+"wordpress.com/api-keys/."
+
+#: pnadmin.php:94
+msgid "Done! Module configuration updated."
+msgstr "Fatto! Configurazione del modulo aggiornata."
+
+#: pnversion.php:16
+msgid "Akismet"
+msgstr "Akismet"
+
+#. ! module url in lowercase and different from displayname
+#: pnversion.php:18
+msgid "akismet"
+msgstr "akismet"
+
+#: pnversion.php:20 pntemplates/akismet_admin_modifyconfig.htm:4
+msgid "Akismet spam detection service"
+msgstr "Akismet servizio di rilevazione dello spam"
+
+#: pntemplates/akismet_admin_modifyconfig.htm:7
+#: pntemplates/akismet_admin_modifyconfig.htm:8
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: pntemplates/akismet_admin_modifyconfig.htm:9
+msgid ""
+"<a href=\"http://akismet.com/\">Akismet</a> is a spam detection service that "
+"can, in many cases, eliminate comment and trackback spam. To use akismet you "
+"need an <a href=\"http://wordpress.com/api-keys/\">API key</a>. Simply "
+"signup for an account at wordpress.com but don't create a blog - your API "
+"key will be in your profile."
+msgstr ""
+"<a href=\"http://akismet.com/\">Akismet</a> è un servizio di rilevamento "
+"dello spam che, in molti casi, elimina i commenti e trackback spam. Per "
+"utilizzare Akismet hai bisogno di una chiave API. Semplicemente registrati "
+"su wordpress.com, ma non creare un blog - la tua chiave API sarà nel tuo "
+"profilo."
+
+#: pntemplates/akismet_admin_modifyconfig.htm:10
+#, php-format
+msgid "Akismet has caught <strong>%s spam</strong> for you so far."
+msgstr "Akismet ha catturato <strong>%s spam</strong> per voi finora."
+
+#: pntemplates/akismet_admin_modifyconfig.htm:11
+msgid ""
+"To test akismet is functioning submit some content with the author name of "
+"\"viagra-test-123\". This is automatically treated as spam by akismet."
+msgstr ""
+"Per testare il funzionamento Akismet inserisci alcuni contenuti con il nome "
+"\"viagra-test-123\". Questo è automaticamente considerato come spam da "
+"Akismet."
+
+#: pntemplates/akismet_admin_modifyconfig.htm:17
+msgid "Enable akismet"
+msgstr "Attiva akismet"
+
+#: pntemplates/akismet_admin_modifyconfig.htm:25
+msgid "Wordpress.com API key"
+msgstr "Chiave Api Wordpress.com"
+
+#: pntemplates/akismet_admin_modifyconfig.htm:28
+msgid ""
+"Your API key is invalid. Please obtain one from <a href=\"http://wordpress."
+"com/api-keys/\">http://wordpress.com/api-keys/</a>."
+msgstr ""
+"La tua chiave API non è valida. Si prega di ottenerne una da <a href="
+"\"http://wordpress.com/api-keys/\">http://wordpress.com/api-keys/</a>."
+
+#: pntemplates/akismet_admin_modifyconfig.htm:34
+msgid "Update Configuration"
+msgstr "Aggiorna Configurazione"

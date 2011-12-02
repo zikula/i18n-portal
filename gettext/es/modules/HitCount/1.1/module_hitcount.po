@@ -1,0 +1,78 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: HitCount 1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-11 08:15+0000\n"
+"PO-Revision-Date: 2010-07-08 20:08-0300\n"
+"Last-Translator: Mateo Tibaquirá <mateo@zikula.org>\n"
+"Language-Team: Zikula Spanish Community <equipo@zikula.es>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.0-rc1\n"
+
+#: pnversion.php:15
+msgid "Hit counter"
+msgstr "Contador de hits"
+
+#. ! module url in lowercase and different to displayname
+#: pnversion.php:17
+msgid "hitcount"
+msgstr "contador"
+
+#: pnversion.php:18
+msgid "Count displays of module items."
+msgstr "Cuenta los despliegues de los elementos de los módulos."
+
+#: pnuserapi.php:92
+#: pnuserapi.php:133
+msgid "Error! Could not load items."
+msgstr "¡Error! No fue posible cargar los elementos."
+
+#: pnadminapi.php:57
+#: pnadminapi.php:184
+msgid "Error! Creation attempt failed."
+msgstr "¡Error! Intento de creación fallido."
+
+#: pnadminapi.php:105
+#: pnadminapi.php:221
+msgid "Error! Sorry! Deletion attempt failed."
+msgstr "¡Error! intento de eliminación fallido."
+
+#: pninit.php:28
+#: pninit.php:32
+#: pninit.php:36
+#: pninit.php:42
+msgid "Error! Failed to register hook."
+msgstr "¡Error! Fallo al registrar el hook."
+
+#: pninit.php:69
+#: pninit.php:72
+#: pninit.php:75
+#: pninit.php:78
+msgid "Error! Could not deregister hook."
+msgstr "¡Error! No se pudo dar de baja el hook."
+
+#: pntemplates/hitcount_user_menu.htm:3
+msgid "Hit Counter"
+msgstr "Contador de Hits"
+
+#: pntemplates/hitcount_user_main.htm:3
+msgid "Modules we're currently counting display hits for"
+msgstr "Módulos a los que se les está haciendo conteo"
+
+#: pntemplates/hitcount_user_main.htm:8
+msgid "items"
+msgstr "elementos"
+
+#: pntemplates/hitcount_user_main.htm:10
+msgid "hits"
+msgstr "despliegues"
+

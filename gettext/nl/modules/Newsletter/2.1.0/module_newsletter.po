@@ -1,0 +1,1420 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Dutch translation for Newsletter 2.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 20:04+0000\n"
+"PO-Revision-Date: 2010-06-13 22:41+0200\n"
+"Last-Translator: Arjen <teb@zikula.nl>\n"
+"Language-Team: Dutch Zikula Community\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnadmin.php:17 pnadmin.php:42 pnadmin.php:63 pnadmin.php:103
+#: pnadminform.php:17 pnadminform.php:63 pnadminform.php:97
+#: pnadminform.php:139
+msgid "You don't have Admin rights for this module"
+msgstr "Geen beheerders toegang verleend tot deze module"
+
+#: pnadmin.php:21 pnadmin.php:46 pnadmin.php:71 pnadmin.php:137
+#: pnadmin.php:239 pnadmin.php:264 pnuser.php:30 pnuser.php:100
+#: pnadminform.php:121
+msgid "Unable to load class [newsletter_util]"
+msgstr "Kon class [newsletter_util] niet laden"
+
+#: pnadmin.php:198
+msgid "Your test email was not sent since you did not enter an email address"
+msgstr "Test-mail niet verzonden omdat er geen mail-adres was opgegeven"
+
+#: pnadmin.php:201 pnuserform.php:47
+msgid "The email address you entered does not seem to be valid"
+msgstr "Het opgegeven e-mail adres lijkt ongeldig"
+
+#: pnadmin.php:204 pnuser.php:104
+msgid "Unable to load class [newsletter_send]"
+msgstr "Kon class [newsletter_send] niet laden"
+
+#: pnadmin.php:212
+msgid "Failure sending the test email"
+msgstr "Foutmelding: Kon test e-mail niet verzenden"
+
+#: pnadmin.php:268
+msgid "Unable to load class for [$ot]"
+msgstr "Kon class voor [$ot] niet laden"
+
+#. ! module URL must be in lowercase and different to displayname
+#: pnversion.php:15 pnversion.php:18 pnaccountapi.php:21
+#: classes/PNNewsletterDataArray.class.php:46
+#: pntemplates/newsletter_user_std_header.html:6
+#: pntemplates/newsletter_template_html.html:5
+#: pntemplates/newsletter_admin_std_header.html:1
+#: pntemplates/newsletter_admin_std_header.html:10
+msgid "Newsletter"
+msgstr "Nieuwsbrief"
+
+#: pnversion.php:16
+msgid "Newsletter module"
+msgstr "Nieuwsbrief module"
+
+#: pnuserapi.php:19 pnuserapi.php:35 classes/PNUser.class.php:41
+#: classes/PNUser.class.php:60 classes/PNUser.class.php:149
+#: classes/PNUser.class.php:164
+msgid "Error! Could not do what you wanted. Please check your input."
+msgstr ""
+"Foutmelding: Opdracht kon niet worden uitgevoerd. Controleer de invoer."
+
+#: pnuser.php:17 pnuser.php:68 pnuserform.php:25
+msgid "You don't have Overview rights for this module."
+msgstr "Geen overzicht-rechten toegekend voor deze module."
+
+#: pnuser.php:76 pnadminform.php:71
+msgid "Invalid [id] parameter received"
+msgstr "Ongeldige [id] parameter ontvangen"
+
+#: pnuser.php:96
+msgid "You don't have Read rights for this module."
+msgstr "Geen lees-rechten toegekend voor deze module."
+
+#: pnadminform.php:30 pnadminform.php:152
+msgid ""
+"You have selected to limit the type of newsletter subscriptions but have "
+"chosen a different default newsletter type. Your default newsletter type has "
+"been set to the value you have selected to limit subscriptions to. Please "
+"review your settings!"
+msgstr ""
+"Er is een beperking gelegd op het type nieuwsbrief-inschrijvingen, maar er "
+"is wel een ander standaard nieuwsbrief-type gekozen. Het standaard "
+"nieuwsbrief-type is ingesteld op de waarde die gekozen is bij de selectie "
+"voor de beperking. Controleer de instellingen!"
+
+#: pnadminform.php:106 pnuserform.php:21
+msgid "Invalid [ot] parameter received"
+msgstr "Ongeldige [ot] parameter ontvangen"
+
+#: pnadminapi.php:20
+msgid "Start"
+msgstr "Start"
+
+#: pnadminapi.php:21
+msgid "Newsletter Settings"
+msgstr "Nieuwsbrief instellingen"
+
+#: pnadminapi.php:22 pntemplates/newsletter_admin_form_modifyarchive.html:12
+msgid "Archive Settings"
+msgstr "Archief instellingen"
+
+#: pnadminapi.php:23 pntemplates/newsletter_admin_view_statistics.html:3
+#: pntemplates/newsletter_admin_view_statistics.html:4
+msgid "Statistics"
+msgstr "Statistieken"
+
+#: pnadminapi.php:24
+msgid "Intro Message"
+msgstr "Intro bericht"
+
+#: pnadminapi.php:25
+msgid "Preview"
+msgstr "Voorbeeld"
+
+#: pnadminapi.php:26 pntemplates/newsletter_admin_view_user.html:24
+msgid "Subscribers"
+msgstr "Inschrijvingen"
+
+#: pnadminapi.php:27
+msgid "Plugins"
+msgstr "Plugins"
+
+#: pnadminapi.php:28 pntemplates/newsletter_admin_view_userimport.html:56
+#: pntemplates/newsletter_admin_view_userimport.html:58
+msgid "Import"
+msgstr "Importeren"
+
+#: pnuserform.php:42
+msgid "Please enter your name"
+msgstr "Naam"
+
+#: pnuserform.php:45
+msgid "Please enter your email address"
+msgstr "E-mail adres"
+
+#: pnuserform.php:51
+msgid "You must accept the terms of service in order to be subscribed!"
+msgstr "De gebruiksvoorwaarden moeten geaccepteerd worden om in te schrijven"
+
+#: classes/PNUser.class.php:54 classes/PNUser.class.php:298
+#: classes/PNUser.class.php:310
+msgid "No such item found."
+msgstr "Item niet gevonden"
+
+#: classes/PNUser.class.php:65
+msgid "Your have unsubscribed from our newsletter"
+msgstr "Succesvol uitgeschreven bij onze nieuwsbrief"
+
+#: classes/PNUser.class.php:75
+msgid "Newsletter Subscription Cancelled"
+msgstr "Nieuwsbrief inschrijving is geannuleerd"
+
+#: classes/PNUser.class.php:189
+msgid "Logic Error: logged-in user does not have his subscription UID set!"
+msgstr ""
+"Logische foutmelding: de ingelogde gebruiker heeft zijn / haar inschrijvings-"
+"UID ingesteld"
+
+#: classes/PNUser.class.php:208
+msgid "This email address is already subscribed to our newsletter!"
+msgstr "Dit e-mail adres is al ingeschreven bij onze nieuwsbrief!"
+
+#: classes/PNUser.class.php:220
+msgid "You are already subscribed to our newsletter!"
+msgstr "Inschrijving in nieuwsbrief bestaat al!"
+
+#: classes/PNUser.class.php:227
+msgid "Your have been subscribed to our newsletter"
+msgstr "Succesvol ingeschreven op onze nieuwsbrief"
+
+#: classes/PNUser.class.php:237
+msgid "Newsletter Subscription Received"
+msgstr "Nieuwsbrief inschrijving ontvangen"
+
+#: classes/PNUser.class.php:245
+msgid "Newsletter Subscription"
+msgstr "Nieuwsbrief inschrijving"
+
+#: classes/PNShowPreviewArray.class.php:14
+msgid "Unable to load class [newsletter_data] ... "
+msgstr "Kon class [newsletter_data] niet laden..."
+
+#: classes/PNImportUsers.class.php:29 classes/PNExportArray.class.php:48
+#: classes/PNImportArray.class.php:47 classes/PNNewsletterSend.class.php:185
+msgid "Invalid admin_key received"
+msgstr "Ongeldige admin_key ontvangen"
+
+#: classes/PNImportUsers.class.php:35 classes/PNExportArray.class.php:13
+#: classes/PNImportArray.class.php:13 classes/PNNewsletterSend.class.php:55
+msgid "Unable to load array class [user]"
+msgstr "Kon array class [user] niet laden"
+
+#: classes/PNImportUsers.class.php:68
+#, php-format
+msgid "Import finished %s user was imported."
+msgstr "Import klaar, %s gebruiker(s) geïmporteerd."
+
+#: classes/PNUserOptions.class.php:14 classes/PNUserApproved.class.php:14
+#: classes/PNUserDelete.class.php:14 classes/PNUserActive.class.php:14
+msgid "Unable to load class [user] ... "
+msgstr "Kon class [user] niet laden..."
+
+#: classes/PNUserOptions.class.php:30
+msgid "Your subscription newsletter options have been updated"
+msgstr "De nieuwsbrief inschrijving opties zijn bijgewerkt"
+
+#: classes/PNUserApproved.class.php:36
+msgid "The user's active status has been changed"
+msgstr "De status 'actief' is aangepast voor de gebruiker"
+
+#: classes/PNArchive.class.php:34
+msgid "Archives flushed."
+msgstr "Archieven geleegd"
+
+#: classes/PNExportArray.class.php:170 classes/PNUserArray.class.php:128
+msgid ""
+"Unable to load class [user] ... disabling input post-processing for array "
+"class"
+msgstr ""
+"Kon class [user] niet laden... Input post-processing voor array class is "
+"uitgeschakeld"
+
+#: classes/PNImportArray.class.php:161 classes/PNImportArray.class.php:203
+msgid "Unable to load column array for [newsletter_users]"
+msgstr "Kon column array voor [newsletter_users] niet laden"
+
+#: classes/NewsletterUtil.class.php:68 classes/NewsletterUtil.class.php:83
+#: classes/NewsletterUtil.class.php:113 classes/NewsletterUtil.class.php:126
+#: classes/NewsletterUtil.class.php:146
+#: pntemplates/newsletter_admin_view_user.html:35
+msgid "All"
+msgstr "Alle"
+
+#: classes/NewsletterUtil.class.php:70
+#: pntemplates/newsletter_admin_view_userimport.html:42
+msgid "Inactive"
+msgstr "Inactief"
+
+#: classes/NewsletterUtil.class.php:71
+#: pntemplates/newsletter_admin_view_userimport.html:40
+#: pntemplates/newsletter_admin_view_userimport.html:42
+#: pntemplates/newsletter_admin_view_plugin.html:15
+#: pntemplates/newsletter_admin_view_user.html:75
+#: pntemplates/newsletter_admin_view_user.html:170
+#: pntemplates/newsletter_user_view_options.html:65
+#: pntemplates/newsletter_admin_form_user.html:68
+msgid "Active"
+msgstr "Actief"
+
+#: classes/NewsletterUtil.class.php:85
+#: pntemplates/newsletter_user_inc_info.html:56
+msgid "Not Approved"
+msgstr "Verworpen"
+
+#: classes/NewsletterUtil.class.php:86
+#: pntemplates/newsletter_admin_view_userimport.html:46
+#: pntemplates/newsletter_admin_view_userimport.html:48
+#: pntemplates/newsletter_admin_view_user.html:76
+#: pntemplates/newsletter_admin_view_user.html:175
+#: pntemplates/newsletter_user_inc_info.html:54
+#: pntemplates/newsletter_admin_form_user.html:64
+msgid "Approved"
+msgstr "Geaccepteerd"
+
+#: classes/NewsletterUtil.class.php:97
+#: pntemplates/newsletter_user_inc_info.html:75
+msgid "Never"
+msgstr "Nooit"
+
+#: classes/NewsletterUtil.class.php:98
+msgid "1 Month"
+msgstr "1 Maand"
+
+#: classes/NewsletterUtil.class.php:99
+msgid "2 Months"
+msgstr "2 Maanden"
+
+#: classes/NewsletterUtil.class.php:100
+msgid "3 Months"
+msgstr "3 Maanden"
+
+#: classes/NewsletterUtil.class.php:101
+msgid "6 Months"
+msgstr "6 Maanden"
+
+#: classes/NewsletterUtil.class.php:102
+msgid "1 Year"
+msgstr "1 Jaar"
+
+#: classes/NewsletterUtil.class.php:128
+#: pntemplates/newsletter_admin_view_user.html:207
+#: pntemplates/newsletter_user_inc_info.html:31
+msgid "Weekly"
+msgstr "Wekelijks"
+
+#: classes/NewsletterUtil.class.php:129
+#: pntemplates/newsletter_admin_view_user.html:208
+#: pntemplates/newsletter_user_inc_info.html:33
+msgid "Monthly"
+msgstr "Maandelijks"
+
+#: classes/NewsletterUtil.class.php:130
+#: pntemplates/newsletter_admin_view_user.html:209
+#: pntemplates/newsletter_user_inc_info.html:35
+msgid "Every 2 Months"
+msgstr "Elke 2 Maanden"
+
+#: classes/NewsletterUtil.class.php:131
+#: pntemplates/newsletter_admin_view_user.html:210
+#: pntemplates/newsletter_user_inc_info.html:37
+msgid "Every 3 Months"
+msgstr "Elke 3 Maanden"
+
+#: classes/NewsletterUtil.class.php:132
+#: pntemplates/newsletter_admin_view_user.html:211
+#: pntemplates/newsletter_user_inc_info.html:39
+msgid "Every 6 Months"
+msgstr "Elke 6 Maanden"
+
+#: classes/NewsletterUtil.class.php:133
+#: pntemplates/newsletter_admin_view_user.html:212
+#: pntemplates/newsletter_user_inc_info.html:41
+msgid "Every 9 Months"
+msgstr "Elke 9 Maanden"
+
+#: classes/NewsletterUtil.class.php:134
+#: pntemplates/newsletter_admin_view_user.html:213
+#: pntemplates/newsletter_user_inc_info.html:43
+msgid "Yearly"
+msgstr "Jaarlijks"
+
+#: classes/NewsletterUtil.class.php:148
+#: pntemplates/newsletter_admin_view_preview.html:34
+#: pntemplates/newsletter_admin_view_user.html:201
+#: pntemplates/newsletter_user_inc_info.html:18
+msgid "Text"
+msgstr "Tekst"
+
+#: classes/NewsletterUtil.class.php:149
+#: pntemplates/newsletter_admin_view_preview.html:35
+#: pntemplates/newsletter_admin_view_user.html:202
+#: pntemplates/newsletter_user_inc_info.html:20
+msgid "HTML"
+msgstr "HTML"
+
+#: classes/NewsletterUtil.class.php:150
+#: pntemplates/newsletter_admin_view_preview.html:36
+#: pntemplates/newsletter_admin_view_user.html:203
+#: pntemplates/newsletter_user_inc_info.html:22
+msgid "Text with Link to Archive"
+msgstr "Tekst met link naar archief"
+
+#: classes/NewsletterUtil.class.php:160
+msgid "Monday"
+msgstr "Maandag"
+
+#: classes/NewsletterUtil.class.php:161
+msgid "Tuesday"
+msgstr "Dinsdag"
+
+#: classes/NewsletterUtil.class.php:162
+msgid "Wednesday"
+msgstr "Woensdag"
+
+#: classes/NewsletterUtil.class.php:163
+msgid "Thursday"
+msgstr "Donderdag"
+
+#: classes/NewsletterUtil.class.php:164
+msgid "Firday"
+msgstr "Vrijdag"
+
+#: classes/NewsletterUtil.class.php:165
+msgid "Saturday"
+msgstr "Zaterdag"
+
+#: classes/NewsletterUtil.class.php:166
+msgid "Sunday"
+msgstr "Zondag"
+
+#: classes/NewsletterUtil.class.php:175
+msgid "Invalid [directory] received"
+msgstr "Ongeldige [directory] ontvangen"
+
+#: classes/PNNewsletterSend.class.php:47
+msgid "The mailer module is not available"
+msgstr "De Mailer module is niet beschikbaar"
+
+#: classes/PNNewsletterSend.class.php:51
+msgid "Unable to load class [user]"
+msgstr "Kon class [user] niet laden"
+
+#: classes/PNNewsletterSend.class.php:59
+msgid "Unable to load array class [newsletter_data]"
+msgstr "Kon array class [newsletter_data] niet laden"
+
+#: classes/PNNewsletterSend.class.php:72
+msgid "No newsletter data to send"
+msgstr "Geen nieuwsbrief gegevens om te sturen"
+
+#: classes/PNNewsletterSend.class.php:109
+#: classes/PNNewsletterSend.class.php:136
+msgid "No users were selected to send the newsletter to"
+msgstr "Geen gebruikers geselecteerd om de nieuwsbrief naar te verzenden"
+
+#: classes/PNNewsletterSend.class.php:117
+#: classes/PNNewsletterSend.class.php:146
+#: classes/PNNewsletterSend.class.php:192
+msgid "No users were available to send the newsletter to"
+msgstr "Geen gebruikers beschikbaar om de nieuwsbrief naar te verzenden"
+
+#: classes/PNNewsletterSend.class.php:127
+#: classes/PNNewsletterSend.class.php:170
+#: classes/PNNewsletterSend.class.php:255
+msgid "Newsletter(s) were successfully sent."
+msgstr "Nieuwsbrie(f)(ven) succesvol verzonden."
+
+#: classes/PNNewsletterSend.class.php:139
+#: classes/PNNewsletterSend.class.php:178
+msgid "Unable to load class [archive]"
+msgstr "Kon class [archive] niet laden"
+
+#: classes/PNNewsletterSend.class.php:325
+msgid "Unable to load array class [archive]"
+msgstr "Kon array class [archive] niet laden"
+
+#: classes/PNPlugin.class.php:25 classes/PNNewsletterDataArray.class.php:26
+msgid "Unable to load array class for [plugin_base]"
+msgstr "Kon array class voor [plugin_base] niet laden"
+
+#: classes/PNNewsletterDataArray.class.php:41
+msgid ""
+"Please use the language selector in the Filter section to select the "
+"language you with to send your newsletter for"
+msgstr ""
+"Gebruik de taal-selector in de Filter-sectie om een taal te selecteren "
+"waarvoor de nieuwsbrief verzonden moet worden"
+
+#: classes/PNUserArray.class.php:25
+msgid "Unable to load class [user] ... disabling auto-join for array class"
+msgstr ""
+"Kon class [user] niet laden... auto-join voor array class is uitgeschakeld"
+
+#: classes/PNUserActive.class.php:36
+msgid "The user's approved status has been changed"
+msgstr "De status 'geaccepteerd' is gewijzigd"
+
+#: pntemplates/newsletter_email_user_notify.html:3
+#: pntemplates/newsletter_template_html.html:342
+#: pntemplates/newsletter_template_text.html:7
+msgid "Hello"
+msgstr "Hallo"
+
+#: pntemplates/newsletter_email_user_notify.html:4
+msgid "Thank you for your Newsletter Subscription"
+msgstr "Bedankt voor de inschrijving op onze nieuwsbrief"
+
+#: pntemplates/newsletter_email_user_notify.html:6
+msgid "Your"
+msgstr "Het"
+
+#: pntemplates/newsletter_email_user_notify.html:7
+#: pntemplates/newsletter_email_user_unsubscribe.html:6
+msgid "Staff"
+msgstr "Team"
+
+#: pntemplates/newsletter_email_user_notify.html:12
+msgid "If you didn`t subsribe yourself, please visit"
+msgstr "Indien er niet zelf gekozen is voor deze inschrijving, bezoek dan"
+
+#: pntemplates/newsletter_email_user_notify.html:14
+msgid "to delete this Subscription"
+msgstr "om de inschrijving te verwijderen"
+
+#: pntemplates/newsletter_template_text_with_link.html:4
+#: pntemplates/newsletter_template_text.html:160
+msgid "Link to the Newsletter Archive"
+msgstr "Link naar nieuwsbrief archief"
+
+#: pntemplates/newsletter_template_text_with_link.html:7
+msgid "Thank you"
+msgstr "Bedankt"
+
+#: pntemplates/newsletter_template_text_with_link.html:7
+msgid "for suscribing to our newsletter!"
+msgstr "voor de inschrijving op onze nieuwsbrief!"
+
+#: pntemplates/newsletter_template_text_with_link.html:12
+#: pntemplates/newsletter_template_html.html:657
+#: pntemplates/newsletter_template_text.html:157
+msgid ""
+"You are receiving this newsletter since you subscribed to it on our site. "
+"Should you no longer wish to receive it, you can unsubscribe"
+msgstr ""
+"Deze nieuwsbrief is verzonden omdat er een inschrijving voor bestaat op onze "
+"site. Indien dit ongewenst is, kan er uitgeschreven worden"
+
+#: pntemplates/newsletter_template_text_with_link.html:12
+#: pntemplates/newsletter_template_text.html:157
+msgid "here!"
+msgstr "op deze pagina"
+
+#: pntemplates/newsletter_admin_view_userimport.html:30
+msgid "Zikula User Import Configuration"
+msgstr "Zikula Gebruikers Import Configuratie"
+
+#: pntemplates/newsletter_admin_view_userimport.html:32
+#: pntemplates/newsletter_admin_view_user.html:73
+#: pntemplates/newsletter_admin_view_user.html:160
+#: pntemplates/newsletter_user_view_main.html:51
+#: pntemplates/newsletter_user_view_options.html:39
+#: pntemplates/newsletter_admin_form_user.html:48
+msgid "Type"
+msgstr "Type"
+
+#: pntemplates/newsletter_admin_view_userimport.html:36
+#: pntemplates/newsletter_admin_view_user.html:74
+#: pntemplates/newsletter_admin_view_user.html:165
+#: pntemplates/newsletter_user_inc_info.html:29
+#: pntemplates/newsletter_user_view_main.html:58
+#: pntemplates/newsletter_user_view_options.html:49
+#: pntemplates/newsletter_user_view_options.html:55
+#: pntemplates/newsletter_admin_form_user.html:54
+#: pntemplates/newsletter_admin_form_user.html:59
+msgid "Frequency"
+msgstr "Frequentie"
+
+#: pntemplates/newsletter_admin_view_userimport.html:46
+#: pntemplates/newsletter_admin_view_user.html:238
+msgid "Users"
+msgstr "Gebruikers"
+
+#: pntemplates/newsletter_admin_view_userimport.html:48
+msgid "Unapproved"
+msgstr "Verworpen"
+
+#: pntemplates/newsletter_admin_view_userimport.html:51
+msgid "Update Configuration"
+msgstr "Configuratie bijwerken"
+
+#: pntemplates/newsletter_user_std_header.html:9
+msgid "Newsletter Home"
+msgstr "Nieuwsbrief startpagina"
+
+#: pntemplates/newsletter_user_std_header.html:14
+msgid "View Archives"
+msgstr "Bekijk archieven"
+
+#: pntemplates/newsletter_user_std_header.html:17
+#: pntemplates/newsletter_admin_form_modifyconfig.html:3
+#: pntemplates/newsletter_admin_form_modifyconfig.html:17
+#: pntemplates/newsletter_admin_form_modifyarchive.html:7
+msgid "Settings"
+msgstr "Instellingen"
+
+#: pntemplates/newsletter_user_std_header.html:21
+msgid "unsubscribe"
+msgstr "uitschrijven"
+
+#: pntemplates/newsletter_admin_view_Mediashare.html:3
+msgid "Activate Mediashare Plugin"
+msgstr "Mediashare plugin inschakelen"
+
+#: pntemplates/newsletter_admin_view_Mediashare.html:5
+msgid "Albums only"
+msgstr "Alleen albums"
+
+#: pntemplates/newsletter_admin_view_Mediashare.html:8
+#: pntemplates/newsletter_admin_view_Mediashare.html:9
+#: pntemplates/newsletter_admin_form_modifyconfig.html:39
+#: pntemplates/newsletter_admin_form_modifyconfig.html:40
+#: pntemplates/newsletter_admin_form_modifyconfig.html:48
+#: pntemplates/newsletter_admin_form_modifyconfig.html:49
+#: pntemplates/newsletter_admin_form_modifyconfig.html:56
+#: pntemplates/newsletter_admin_form_modifyconfig.html:57
+#: pntemplates/newsletter_admin_form_modifyconfig.html:86
+#: pntemplates/newsletter_admin_form_modifyconfig.html:87
+#: pntemplates/newsletter_admin_form_modifyconfig.html:130
+#: pntemplates/newsletter_admin_form_modifyconfig.html:131
+#: pntemplates/newsletter_admin_view_preview.html:38
+#: pntemplates/newsletter_admin_view_preview.html:39
+#: pntemplates/newsletter_user_view_options.html:67
+#: pntemplates/newsletter_user_view_options.html:68
+msgid "Help"
+msgstr "Help"
+
+#: pntemplates/newsletter_admin_view_Mediashare.html:10
+msgid ""
+"Define the Path of your Mediashare images path e.g. mediashare/, pnTemp/"
+"mediashare/ etc."
+msgstr ""
+"Definieer het pad naar de Mediashare afbeeldingen, zoals mediashare/ of "
+"pnTemp/mediashare enzovoorts."
+
+#: pntemplates/newsletter_admin_view_plugin.html:3
+msgid "Available Plugins"
+msgstr "Beschikbare plugins"
+
+#: pntemplates/newsletter_admin_view_plugin.html:13
+msgid "Plugin"
+msgstr "Plugin"
+
+#: pntemplates/newsletter_admin_view_plugin.html:14
+#: pntemplates/newsletter_user_view_archive.html:41
+msgid "# of Items"
+msgstr "# items"
+
+#: pntemplates/newsletter_admin_view_plugin.html:18
+#: pntemplates/newsletter_admin_view_user.html:40
+msgid "Yes"
+msgstr "Ja"
+
+#: pntemplates/newsletter_admin_view_plugin.html:19
+#: pntemplates/newsletter_admin_view_user.html:41
+msgid "No"
+msgstr "Nee"
+
+#: pntemplates/newsletter_email_user_unsubscribe.html:3
+msgid "Your newsletter subscription has been cancelled."
+msgstr "Nieuwsbrief inschrijving is geannuleerd."
+
+#: pntemplates/newsletter_email_user_unsubscribe.html:4
+msgid "Please feel free to re-subscribe in the future."
+msgstr "Er kan natuurlijk op elk moment weer opnieuw worden ingeschreven."
+
+#: pntemplates/newsletter_email_user_unsubscribe.html:5
+msgid "Thank you,"
+msgstr "Bedankt,"
+
+#: pntemplates/newsletter_inc_form_actions.html:26
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: pntemplates/newsletter_inc_form_actions.html:28
+msgid "Update"
+msgstr "Bijwerken"
+
+#: pntemplates/newsletter_admin_view_Pagemaster.html:2
+msgid "Activate Pagemaster Plugin"
+msgstr "Pagemaster plugin inschakelen"
+
+#: pntemplates/newsletter_admin_view_Pagemaster.html:3
+#: pntemplates/newsletter_admin_view_Pagesetter.html:9
+msgid "Either a selection or all if no selection"
+msgstr "Of een selectie, of alle (bij geen selectie)"
+
+#: pntemplates/newsletter_user_view_unsubscribe.html:6
+#: pntemplates/newsletter_user_view_unsubscribe.html:24
+msgid "Unsubscribe"
+msgstr "Uitschrijven"
+
+#: pntemplates/newsletter_user_view_unsubscribe.html:9
+#: pntemplates/newsletter_admin_form_modifyconfig.html:20
+#: pntemplates/newsletter_user_inc_info.html:4
+#: pntemplates/newsletter_user_view_main.html:24
+msgid "Information"
+msgstr "Informatie"
+
+#: pntemplates/newsletter_user_view_unsubscribe.html:13
+msgid "Here you can unsubscribe from our Newsletter"
+msgstr "Hier kan er uitgeschreven worden bij onze nieuwsbrief"
+
+#: pntemplates/newsletter_user_view_unsubscribe.html:18
+#: pntemplates/newsletter_user_view_main.html:37
+#: pntemplates/newsletter_block_signup_display.html:8
+#: pntemplates/newsletter_block_signup_display.html:9
+msgid "Your E-Mail Address"
+msgstr "E-mail adres"
+
+#: pntemplates/newsletter_user_view_unsubscribe.html:24
+msgid "Are you sure that you want to unsubscribe?"
+msgstr "Dient de inschrijving echt verwijderd te worden?"
+
+#: pntemplates/newsletter_user_view_tos.html:4
+#: pntemplates/newsletter_user_view_main.html:64
+#: pntemplates/newsletter_user_view_main.html:66
+#: pntemplates/newsletter_user_view_options.html:76
+#: pntemplates/newsletter_user_view_options.html:77
+msgid "Terms of Service"
+msgstr "Gebruiksvoorwaarden"
+
+#: pntemplates/newsletter_user_view_tos.html:7
+msgid ""
+"will not distribute, sell or disclose your personal information to any "
+"parties, public or private."
+msgstr ""
+"zal uw persoonlijke informatie niet distribueren, verkopen of openbaar maken "
+"aan andere publieke of private partijen."
+
+#: pntemplates/newsletter_user_view_tos.html:10
+msgid ""
+"Staff is not responsible for maintaining your subscription. You may opt in "
+"or out or even suspend your account at your own convenience."
+msgstr ""
+"Het team is niet verantwoordelijk voor het onderhouden van uw inschrijving. "
+"U kunt uw inschrijving ten alle tijde starten, stoppen of zelfs beëindigen, "
+"al naar gelang uw behoefte."
+
+#: pntemplates/newsletter_user_view_tos.html:14
+msgid ""
+"offers no warranties or guarantees for this service and accepts no "
+"responsibility or liability for any damages that may incur before, during or "
+"after subscription to this service."
+msgstr ""
+"biedt geen garantie of waarborg voor deze service, en aanvaardt geen "
+"verantwoordelijkheid of aansprakelijkheid voor eventuele schade die kan "
+"oplopen vóór, tijdens of na de inschrijving op deze dienst."
+
+#: pntemplates/newsletter_user_view_tos.html:17
+msgid "Back"
+msgstr "Terug"
+
+#: pntemplates/newsletter_user_view_archive.html:3
+#: pntemplates/newsletter_user_view_archive.html:6
+msgid "View Archive"
+msgstr "Bekijk archief"
+
+#: pntemplates/newsletter_user_view_archive.html:11
+msgid "Past Archives"
+msgstr "Oude archieven"
+
+#: pntemplates/newsletter_user_view_archive.html:17
+msgid "ID"
+msgstr "ID"
+
+#: pntemplates/newsletter_user_view_archive.html:23
+msgid "Date"
+msgstr "Datum"
+
+#: pntemplates/newsletter_user_view_archive.html:29
+#: pntemplates/newsletter_admin_view_preview.html:16
+#: pntemplates/newsletter_admin_view_user.html:71
+#: pntemplates/newsletter_admin_view_user.html:155
+#: pntemplates/newsletter_user_view_main.html:44
+#: pntemplates/newsletter_user_view_options.html:31
+#: pntemplates/newsletter_admin_form_user.html:43
+msgid "Language"
+msgstr "Taal"
+
+#: pntemplates/newsletter_user_view_archive.html:35
+msgid "# of Plugins"
+msgstr "# Plugins"
+
+#: pntemplates/newsletter_user_view_archive.html:47
+msgid "Length"
+msgstr "Lengte"
+
+#: pntemplates/newsletter_user_view_archive.html:51
+#: pntemplates/newsletter_admin_view_user.html:188
+#: pntemplates/newsletter_admin_view_user.html:232
+msgid "Action"
+msgstr "Actie"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:22
+msgid "It took"
+msgstr "Het duurde"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:22
+msgid "seconds to send the last batch of"
+msgstr "seconde(n) om de laatste batch van"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:22
+msgid "mails"
+msgstr "e-mails te versturen"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:29
+msgid "Configuration"
+msgstr "Configuratie"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:32
+msgid "Items per page"
+msgstr "Items per pagina"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:36
+msgid "Send newsletters from"
+msgstr "Afzender e-mail adres"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:41
+msgid ""
+"This is the delivering adress of your newsletter e.g. newsletter@yourdomain."
+"com"
+msgstr ""
+"Dit mail-adres zal als afzender getoond worden bij de ontvanger, "
+"bijvoorbeeld nieuwsbrief@example.com"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:45
+msgid "Subject"
+msgstr "Onderwerp"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:50
+msgid "This is the Subject of the generated Newsletter"
+msgstr "Dit is het onderwerp van de gegenereerde nieuwsbrief"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:54
+msgid "Disable automatic sending"
+msgstr "Automatisch verzenden uitschakelen"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:55
+#: pntemplates/newsletter_admin_form_modifyconfig.html:85
+#: pntemplates/newsletter_admin_form_modifyconfig.html:93
+#: pntemplates/newsletter_admin_form_modifyconfig.html:97
+#: pntemplates/newsletter_admin_form_modifyconfig.html:101
+#: pntemplates/newsletter_admin_form_modifyconfig.html:105
+#: pntemplates/newsletter_admin_form_modifyconfig.html:109
+#: pntemplates/newsletter_admin_form_modifyconfig.html:113
+#: pntemplates/newsletter_admin_form_modifyconfig.html:117
+#: pntemplates/newsletter_admin_form_modifyconfig.html:121
+#: pntemplates/newsletter_admin_view_user.html:236
+#: pntemplates/newsletter_admin_form_modifyarchive.html:15
+#: pntemplates/newsletter_admin_form_modifyarchive.html:19
+#: pntemplates/newsletter_admin_form_modifyarchive.html:23
+#: pntemplates/newsletter_admin_form_modifyarchive.html:27
+#: pntemplates/newsletter_admin_form_modifyarchive.html:31
+#: pntemplates/newsletter_admin_form_modifyarchive.html:35
+#: pntemplates/newsletter_admin_form_modifyarchive.html:39
+#: pntemplates/newsletter_admin_form_modifyarchive.html:43
+#: pntemplates/newsletter_admin_form_modifyarchive.html:58
+msgid "(checked=yes)"
+msgstr "(aangevinkt = ja)"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:58
+msgid "Newsletters now have to be sent out manually "
+msgstr "Vanaf nu zullen nieuwsbrieven handmatig moeten worden verzonden"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:61
+msgid "Allow subscription of only this type"
+msgstr "Alleen inschrijvingen toestaan van dit type"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:65
+#: pntemplates/newsletter_block_signup_modify.html:7
+msgid "Default Newsletter Type"
+msgstr "Standaard nieuwsbrief type"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:69
+#: pntemplates/newsletter_block_signup_modify.html:14
+msgid "Default Frequency"
+msgstr "Standaard frequentie"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:73
+msgid "Sendday"
+msgstr "Verzenddag"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:77
+msgid "Expire Time of archived Newsletters"
+msgstr "Verloop tijd van gearchiveerde nieuwsbrieven"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:84
+msgid "Enable Multilingual Features"
+msgstr "Multi-talen opties inschakelen"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:88
+msgid "This enables the sending of Multilanguage Newsletters"
+msgstr "Dit schakelt het verzenden van multi-talen nieuwsbrieven in"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:92
+msgid "Receive Subscription Notices ?"
+msgstr "Bij nieuwe inschrijving op de hoogte brengen per e-mail?"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:96
+msgid "Allow Anonymous Registrations ?"
+msgstr "Anonieme inschrijvingen toestaan?"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:100
+msgid "Show the Approvalstatus to the user ? "
+msgstr "Goedkeuringsstatus aan gebruiker tonen?"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:104
+msgid "Require Terms of Service ?"
+msgstr "Acceptatie van Gebruiks- en Servicevoorwaarden verplicht maken?"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:108
+msgid "Auto-approve Registrations ?"
+msgstr "Inschrijvingen automatisch goedkeuren?"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:112
+msgid "Allow Frequency Changes ?"
+msgstr "Wijzigingen in frequentie toestaan?"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:116
+msgid "Allow Subscription Changes ?"
+msgstr "Wijzigingen in inschrijving toestaan?"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:120
+msgid "Personalize EMail ?"
+msgstr "E-Mail personaliseren?"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:121
+msgid "disable to increase performance"
+msgstr "uitschakelen voor betere performance"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:124
+msgid "Send per Request ?"
+msgstr "Verzenden op aanvraag?"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:125
+#: pntemplates/newsletter_admin_form_modifyconfig.html:129
+msgid "'x' number of emails"
+msgstr "'x' aantal e-mails"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:125
+#: pntemplates/newsletter_admin_form_modifyconfig.html:129
+msgid "(0 [Zero] = no Restriction)"
+msgstr "(0 [nul] = geen beperking)"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:128
+msgid "Maximum Newsletters to send per hour"
+msgstr "Maximum aantal e-mails te verzenden per uur"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:132
+msgid "Use this feature to avoid sending restrictions from your hoster!"
+msgstr ""
+"Gebruik deze optie als er eventuele beperkingen van de hostingprovider "
+"gelden."
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:135
+msgid "Adminkey"
+msgstr "Beheerders sleutel (adminkey)"
+
+#: pntemplates/newsletter_admin_form_modifyconfig.html:136
+msgid "used to authenticate cron/batchprocessing"
+msgstr "Gebruikt om cron / batch processen te authenticeren"
+
+#: pntemplates/newsletter_admin_view_Pagesetter.html:4
+msgid "Activate Pagesetter Plugin"
+msgstr "Pagesetter plugin activeren"
+
+#: pntemplates/newsletter_admin_view_Pagesetter.html:6
+msgid "Use Pagesetter API"
+msgstr "Gebruik pagesetter API"
+
+#: pntemplates/newsletter_admin_view_Pagesetter.html:6
+msgid "(slower but fetches entire publication)"
+msgstr "(langzamer, maar haalt de gehele publicatie op)"
+
+#: pntemplates/newsletter_admin_view_statistics.html:6
+msgid "Newsletter Module Statistics"
+msgstr "Nieuwsbrief module statistieken"
+
+#: pntemplates/newsletter_admin_view_statistics.html:9
+msgid "Total # of Users"
+msgstr "Totaal aantal gebruikers"
+
+#: pntemplates/newsletter_admin_view_statistics.html:13
+msgid "Active Subscribers"
+msgstr "Actieve inschrijvingen"
+
+#: pntemplates/newsletter_admin_view_statistics.html:17
+msgid "Approved Subscribers"
+msgstr "Goedgekeurde inschrijvingen"
+
+#: pntemplates/newsletter_admin_view_statistics.html:21
+msgid "Active and approved Subscribers"
+msgstr "Actieve en goedgekeurde inschrijvingen"
+
+#: pntemplates/newsletter_admin_view_statistics.html:25
+msgid "Subscribers which are registered Users"
+msgstr "Inschrijvingen van geregistreerde gebruikers"
+
+#: pntemplates/newsletter_admin_view_statistics.html:29
+msgid "# of Subscribers for Html Format"
+msgstr "# inschrijvingen voor html formaat"
+
+#: pntemplates/newsletter_admin_view_statistics.html:33
+msgid "# of Subscribers for Text Format"
+msgstr "# inschrijvingen voor tekst formaat"
+
+#: pntemplates/newsletter_admin_view_statistics.html:37
+msgid "# of Subscribers for Text with Links Format"
+msgstr "# inschrijvingen voor tekst met links formaat"
+
+#: pntemplates/newsletter_admin_view_statistics.html:41
+msgid "# of Subscribers for Weekly Delivery"
+msgstr "# inschrijvingen voor wekelijkse ontvangst"
+
+#: pntemplates/newsletter_admin_view_statistics.html:45
+msgid "# of Subscribers for Monthly Delivery"
+msgstr "# inschrijvingen voor maandelijkse ontvangst"
+
+#: pntemplates/newsletter_admin_view_statistics.html:49
+msgid "# of Subscribers for Yearly Delivery"
+msgstr "# inschrijvingen voor jaarlijkse ontvangst"
+
+#: pntemplates/newsletter_admin_view_statistics.html:53
+msgid "# of Archives"
+msgstr "# archieven"
+
+#: pntemplates/newsletter_admin_view_message.html:12
+#: pntemplates/newsletter_admin_view_message.html:17
+msgid "Message"
+msgstr "Bericht"
+
+#: pntemplates/newsletter_admin_view_message.html:20
+#: pntemplates/newsletter_admin_form_start.html:14
+#: pntemplates/newsletter_admin_form_modifyarchive.html:54
+msgid "Attention"
+msgstr "Attentie"
+
+#: pntemplates/newsletter_admin_view_message.html:21
+msgid ""
+"Please ensure that you have enabled the NewsletterMessage plugin if you wish "
+"to add this message to your newsletter!"
+msgstr ""
+"Vergewis dat de NeuwsletterMessage plugin is ingeschakeld als dit bericht "
+"aan de nieuwsbrief moet worden toegevoegd!"
+
+#: pntemplates/newsletter_admin_view_message.html:33
+#: pntemplates/newsletter_admin_view_message.html:46
+msgid "Your message"
+msgstr "Uw bericht"
+
+#: pntemplates/newsletter_template_html.html:347
+#: pntemplates/newsletter_template_text.html:11
+msgid "Message from the Site Administrators"
+msgstr "Bericht van de site beheerders"
+
+#: pntemplates/newsletter_template_html.html:354
+#: pntemplates/newsletter_template_text.html:17
+msgid "Special Announcements"
+msgstr "Speciale aankondigingen"
+
+#: pntemplates/newsletter_template_html.html:365
+#: pntemplates/newsletter_template_html.html:378
+#: pntemplates/newsletter_template_text.html:26
+msgid "News"
+msgstr "Nieuws"
+
+#: pntemplates/newsletter_template_html.html:391
+#: pntemplates/newsletter_template_text.html:35
+msgid "Recently Added Products"
+msgstr "Recent toegevoegde producten"
+
+#: pntemplates/newsletter_template_html.html:402
+#: pntemplates/newsletter_template_text.html:44
+msgid "New Vidos"
+msgstr "Nieuwe video's"
+
+#: pntemplates/newsletter_template_html.html:406
+#: pntemplates/newsletter_template_html.html:424
+#: pntemplates/newsletter_template_html.html:573
+msgid "Title"
+msgstr "Titel"
+
+#: pntemplates/newsletter_template_html.html:407
+#: pntemplates/newsletter_template_html.html:427
+#: pntemplates/newsletter_template_html.html:575
+msgid "Description"
+msgstr "Omschrijving"
+
+#: pntemplates/newsletter_template_html.html:420
+#: pntemplates/newsletter_template_text.html:52
+msgid "New Events"
+msgstr "Nieuwe evenementen"
+
+#: pntemplates/newsletter_template_html.html:425
+#: pntemplates/newsletter_template_html.html:574
+msgid "Begin"
+msgstr "Begin"
+
+#: pntemplates/newsletter_template_html.html:426
+msgid "Location"
+msgstr "Locatie"
+
+#: pntemplates/newsletter_template_html.html:442
+#: pntemplates/newsletter_template_text.html:63
+msgid "Welcome New Members"
+msgstr "Welkom Nieuwe Leden"
+
+#: pntemplates/newsletter_template_html.html:446
+#: pntemplates/newsletter_admin_view_user.html:145
+#: pntemplates/newsletter_user_inc_info.html:6
+#: pntemplates/newsletter_email_admin_notify.html:5
+#: pntemplates/newsletter_admin_form_user.html:28
+#: pntemplates/newsletter_admin_form_user.html:33
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: pntemplates/newsletter_template_html.html:447
+msgid "Register Date"
+msgstr "Registratie datum"
+
+#: pntemplates/newsletter_template_html.html:460
+#: pntemplates/newsletter_template_html.html:640
+#: pntemplates/newsletter_template_text.html:71
+msgid "Recently Added Publications"
+msgstr "Recent toegevoegde publicaties"
+
+#: pntemplates/newsletter_template_html.html:470
+#: pntemplates/newsletter_template_text.html:79
+msgid "New Content Items"
+msgstr "Nieuwe content (inhoud) items"
+
+#: pntemplates/newsletter_template_html.html:480
+#: pntemplates/newsletter_template_text.html:87
+msgid "Recently Added Documents"
+msgstr "Recent toegevoegde documenten"
+
+#: pntemplates/newsletter_template_html.html:491
+#: pntemplates/newsletter_template_text.html:95
+msgid "Recently Added Reviews"
+msgstr "Recent toegevoegde recensies"
+
+#: pntemplates/newsletter_template_html.html:501
+#: pntemplates/newsletter_template_text.html:105
+msgid "Latest Media Items"
+msgstr "Laatste media items"
+
+#: pntemplates/newsletter_template_html.html:517
+#: pntemplates/newsletter_template_text.html:113
+msgid "Latest Downloads"
+msgstr "Laatste downloads"
+
+#: pntemplates/newsletter_template_html.html:528
+msgid "NewsletterTitleWeb Links"
+msgstr "Laatste web links"
+
+#: pntemplates/newsletter_template_html.html:539
+#: pntemplates/newsletter_template_text.html:129
+msgid "Recently Added Questions"
+msgstr "Recent toegevoegde vragen"
+
+#: pntemplates/newsletter_template_html.html:549
+#: pntemplates/newsletter_template_text.html:139
+msgid "Recently Added Quotes"
+msgstr "Recent toegevoegde citaten"
+
+#: pntemplates/newsletter_template_html.html:558
+#: pntemplates/newsletter_template_text.html:147
+msgid "Latest Forum Posts"
+msgstr "Laatste forum berichten"
+
+#: pntemplates/newsletter_template_html.html:568
+msgid "Recently Added Events"
+msgstr "Recent toegevoegde evenementen"
+
+#: pntemplates/newsletter_template_html.html:616
+msgid "Locations"
+msgstr "Locaties"
+
+#: pntemplates/newsletter_template_html.html:621
+msgid "Name"
+msgstr "Naam"
+
+#: pntemplates/newsletter_template_html.html:622
+msgid "City"
+msgstr "Plaats"
+
+#: pntemplates/newsletter_template_html.html:623
+msgid "Time"
+msgstr "Tijd"
+
+#: pntemplates/newsletter_admin_view_preview.html:3
+msgid "Preview your Newsletter"
+msgstr "Voorbeeld van nieuwsbrief"
+
+#: pntemplates/newsletter_admin_view_preview.html:11
+msgid "Preview Templates"
+msgstr "Voorbeeld van templates"
+
+#: pntemplates/newsletter_admin_view_preview.html:25
+msgid "Mail this preview to the following email address"
+msgstr "Mail dit voorbeeld naar de volgende adressen"
+
+#: pntemplates/newsletter_admin_view_preview.html:31
+#: pntemplates/newsletter_user_inc_info.html:16
+msgid "Format"
+msgstr "Formaat"
+
+#: pntemplates/newsletter_admin_view_preview.html:33
+msgid "- Choose One -"
+msgstr "- Maak een keuze -"
+
+#: pntemplates/newsletter_admin_view_preview.html:41
+msgid "You can find the templates in"
+msgstr "Templates kunnen gevonden in"
+
+#: pntemplates/newsletter_admin_view_user.html:36
+msgid "Filter"
+msgstr "Filter"
+
+#: pntemplates/newsletter_admin_view_user.html:37
+msgid "Data"
+msgstr "Data"
+
+#: pntemplates/newsletter_admin_view_user.html:38
+msgid "Edit"
+msgstr "Bewerken"
+
+#: pntemplates/newsletter_admin_view_user.html:39
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: pntemplates/newsletter_admin_view_user.html:42
+msgid "Not send yet"
+msgstr "Nog niet verzonden"
+
+#: pntemplates/newsletter_admin_view_user.html:43
+msgid "Are you sure you wish to change the active status for this user?"
+msgstr "Dient de status 'Actief' voor deze gebruiker echt gewijzigd te worden?"
+
+#: pntemplates/newsletter_admin_view_user.html:44
+msgid "Are you sure you wish to change the approved status for this user?"
+msgstr ""
+"Dient de status 'Goedgekeurd' voor deze gebruiker echt gewijzigd te worden?"
+
+#: pntemplates/newsletter_admin_view_user.html:47
+msgid "Usersearch / Add a User"
+msgstr "Gebruiker zoeken / toevoegen"
+
+#: pntemplates/newsletter_admin_view_user.html:51
+msgid "Search"
+msgstr "Zoeken"
+
+#: pntemplates/newsletter_admin_view_user.html:58
+msgid "Add a user"
+msgstr "Gebruiker toevoegen"
+
+#: pntemplates/newsletter_admin_view_user.html:125
+msgid "Display # of users per page:"
+msgstr "Aantal gebruikers per pagina"
+
+#: pntemplates/newsletter_admin_view_user.html:140
+msgid "User ID"
+msgstr "Gebruikers ID"
+
+#: pntemplates/newsletter_admin_view_user.html:150
+#: pntemplates/newsletter_user_inc_info.html:11
+#: pntemplates/newsletter_email_admin_notify.html:9
+#: pntemplates/newsletter_admin_form_user.html:38
+msgid "Email"
+msgstr "E-mail"
+
+#: pntemplates/newsletter_admin_view_user.html:180
+msgid "Last sent"
+msgstr "Laatste verzending"
+
+#: pntemplates/newsletter_admin_view_user.html:185
+msgid "Joindate"
+msgstr "Inschrijvingsdatum"
+
+#: pntemplates/newsletter_admin_view_user.html:196
+msgid "no User ID"
+msgstr "geen gebruikers ID"
+
+#: pntemplates/newsletter_admin_view_user.html:234
+msgid "Update last sent date?"
+msgstr "Laatste verzenddatum bijwerken?"
+
+#: pntemplates/newsletter_admin_view_user.html:238
+msgid "Send to"
+msgstr "Verzenden aan"
+
+#: pntemplates/newsletter_user_inc_info.html:52
+msgid "Approval Status"
+msgstr "Goedkeurings Status"
+
+#: pntemplates/newsletter_user_inc_info.html:62
+msgid "Subscription Status"
+msgstr "Inschrijfings status"
+
+#: pntemplates/newsletter_user_inc_info.html:64
+msgid "Your Subscription is currently active!"
+msgstr "Inschrijving is momenteel actief"
+
+#: pntemplates/newsletter_user_inc_info.html:66
+msgid "Your Subscription is currently inactive!"
+msgstr "Inschrijving momenteel inactief"
+
+#: pntemplates/newsletter_user_inc_info.html:71
+msgid "Last newsletter was sent to you on"
+msgstr "Laatste nieuwsbrief werd verzonden op"
+
+#: pntemplates/newsletter_template_text.html:121
+msgid "Recently Added Links"
+msgstr "Laatst toegevoegde links"
+
+#: pntemplates/newsletter_user_view_main.html:17
+msgid ""
+"Welcome to our Newsletter, here you can manage or delete your Subscription."
+msgstr ""
+"Welkom bij onze nieuwsbrief. Hier kunnen de inschrijvingsopties beheerd "
+"worden."
+
+#: pntemplates/newsletter_user_view_main.html:21
+#: pntemplates/newsletter_block_signup_display.html:22
+msgid "Subscribe"
+msgstr "Inschrijven"
+
+#: pntemplates/newsletter_user_view_main.html:32
+#: pntemplates/newsletter_block_signup_display.html:6
+#: pntemplates/newsletter_block_signup_display.html:7
+msgid "Your Name"
+msgstr "Naam"
+
+#: pntemplates/newsletter_user_view_main.html:67
+#: pntemplates/newsletter_block_signup_display.html:16
+msgid "Yes, I agree to the terms of service."
+msgstr "Ja, ik ga akkoord met de servicevoorwaarden"
+
+#: pntemplates/newsletter_user_view_main.html:80
+msgid "* subscriptions subject to approval."
+msgstr "* inschrijvingen worden onderworpen aan goedkeuring."
+
+#: pntemplates/newsletter_user_view_main.html:89
+msgid "Sorry, but you must be a site member to subscribe to our newsletter."
+msgstr ""
+"Helaas, alleen geregistreerde gebruikers kunnen zich inschrijven op onze "
+"nieuwsbrief."
+
+#: pntemplates/newsletter_email_admin_notify.html:1
+msgid "New subscriber Info"
+msgstr "Info over nieuwe inschrijving"
+
+#: pntemplates/newsletter_email_admin_notify.html:17
+msgid ""
+"Auto-approve is currently disabled. You will need to login, go to the "
+"newsletter admin area and approve this user."
+msgstr ""
+"Auto-goedkeuren is momenteel uitgeschakeld. Na inloggen kan deze gebruiker "
+"worden goedgekeurd in de nieuwsbrief beheer-omgeving."
+
+#: pntemplates/newsletter_admin_form_start.html:6
+msgid "Welcome to Newsletter!"
+msgstr "Welkom bij Nieuwsbrief!"
+
+#: pntemplates/newsletter_admin_form_start.html:7
+msgid "Please visit our project-page"
+msgstr "Bezoek onze projectpagina"
+
+#: pntemplates/newsletter_admin_form_start.html:8
+msgid "Please report errors or requests for future versions in the Tracker!"
+msgstr "Meld fouten of verzoeken voor nieuwere versies in onze tracker!"
+
+#: pntemplates/newsletter_admin_form_start.html:15
+msgid ""
+"Zikula Version 1.1.2 and up: To ensure html-mails are sent correctly, you "
+"have to look that in the Core-Mailer Module (Settings->Mailer) the butten -"
+"send mails in html-format- is checked! "
+msgstr ""
+"Zikula versie 1.1.2 en hoger: Om zeker te weten dat html-mails correct "
+"worden verzonden, vergewis dat de optie -stuur e-mails in html formaat- in "
+"de Mailer module aangevinkt staat."
+
+#: pntemplates/newsletter_user_view_options.html:17
+msgid "Change your subscription settings"
+msgstr "Wijzig inschrijvings instellingen"
+
+#: pntemplates/newsletter_user_view_options.html:27
+#: pntemplates/newsletter_admin_form_user.html:25
+msgid "Newsletter Configuration"
+msgstr "Nieuwsbrief configuratie"
+
+#: pntemplates/newsletter_user_view_options.html:56
+#: pntemplates/newsletter_admin_form_user.html:60
+msgid ""
+"User-based frequency changes have been disabled by the site administrator"
+msgstr "Frequentie wijzigingen zijn voorbehouden aan de beheerder"
+
+#: pntemplates/newsletter_user_view_options.html:69
+msgid "Here you can activate or suspend yor subscription"
+msgstr "Hier kan de inschrijving gestart, gestopt of beëindigd worden"
+
+#: pntemplates/newsletter_admin_form_modifyarchive.html:14
+msgid "Create Archive when sending out the Newsletter manual?"
+msgstr ""
+"Archief aanmaken bij verzenden van een handmatige nieuwsbrief verzending?"
+
+#: pntemplates/newsletter_admin_form_modifyarchive.html:18
+msgid "Show Archive in the user-menu?"
+msgstr "Link naar archief tonen in account scherm?"
+
+#: pntemplates/newsletter_admin_form_modifyarchive.html:22
+msgid "Show Newsletter ID ?"
+msgstr "Nieuwsbrief ID weergeven?"
+
+#: pntemplates/newsletter_admin_form_modifyarchive.html:26
+msgid "Show date?"
+msgstr "Datum weergeven?"
+
+#: pntemplates/newsletter_admin_form_modifyarchive.html:30
+msgid "Show Language?"
+msgstr "Taal weergeven?"
+
+#: pntemplates/newsletter_admin_form_modifyarchive.html:34
+msgid "Show Plugins?"
+msgstr "Plugins weergeven?"
+
+#: pntemplates/newsletter_admin_form_modifyarchive.html:38
+msgid "Show Objects?"
+msgstr "Objecten weergeven?"
+
+#: pntemplates/newsletter_admin_form_modifyarchive.html:42
+msgid "Show Size?"
+msgstr "Grootte weergeven?"
+
+#: pntemplates/newsletter_admin_form_modifyarchive.html:49
+msgid "Please select an archive to flush"
+msgstr "Selecteer een archief om te legen"
+
+#: pntemplates/newsletter_admin_form_modifyarchive.html:52
+msgid "Prune Archives"
+msgstr "Archieven opschonen"
+
+#: pntemplates/newsletter_admin_form_modifyarchive.html:54
+msgid "The Archive cannot be restored"
+msgstr "Het archief kan niet hersteld worden"
+
+#: pntemplates/newsletter_admin_form_modifyarchive.html:57
+msgid "Database"
+msgstr "Database"

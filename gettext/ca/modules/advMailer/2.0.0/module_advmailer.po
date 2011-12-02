@@ -1,0 +1,516 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-10 10:29+0200\n"
+"PO-Revision-Date: 2010-10-26 08:29+0200\n"
+"Last-Translator: Albert Pérez Monfort <aperezm@xtec.cat>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnincludes/classes/admin/errorlog.php:36
+#: pnincludes/classes/admin/errorlog.php:42
+#: pnincludes/classes/admin/errorlog.php:54
+#: pnincludes/classes/admin/queue.php:36 pnincludes/classes/admin/queue.php:42
+#: pnincludes/classes/admin/queue.php:54
+msgid ""
+"An error occured - the mail could not be loaded. Maybe it was delivered or "
+"moved to error logfile in the time between creating the last overview and "
+"your action."
+msgstr ""
+"S'ha produït un error - el correu no es va poder carregar. Potser va ser "
+"lliurat o es va traslladar al fitxer de registre d'error en el temps entre "
+"la creació de la informació general i la seva última acció."
+
+#: pnincludes/classes/admin/errorlog.php:40
+#: pnincludes/classes/admin/queue.php:40
+msgid "The mail was successfully removed and deleted from the mail queue"
+msgstr "El correu s'ha eliminat correctament i s'eliminarà de la cua de correu"
+
+#: pnincludes/classes/admin/errorlog.php:69
+msgid "An error occured while trying to requeue mail"
+msgstr ""
+"S'ha produït un error en intentar retornar el missatge de correu electrònic "
+"a la cua"
+
+#: pnincludes/classes/admin/errorlog.php:71
+msgid "Mail was requeued with highest priority and new ID"
+msgstr ""
+"El correu s'ha tornat a la cua amb prioritat més alta i nova identificació"
+
+#: pnincludes/classes/admin/errorlog.php:91
+msgid "mails requeued - please repeat this action until all mails are requeued"
+msgstr ""
+"correus electrònics tornats a la cua - si us plau, repeteix aquesta acció "
+"fins que tots els correus-e són tornats a la cua"
+
+#: pnincludes/classes/admin/errorlog.php:93
+msgid "Mails reqeued successfully"
+msgstr ""
+"Els missatges de correu electrònic s'han retornat a la cua correctament"
+
+#: pnincludes/classes/admin/errorlog.php:105
+msgid "Error log deleted completely"
+msgstr "S'ha esborrat completament el registre d'errors"
+
+#: pnincludes/classes/admin/errorlog.php:107
+msgid "An error occured while deleting error log"
+msgstr "S'ha produït un error en esborrar el registre d'errors"
+
+#: pnincludes/classes/admin/queue.php:69
+msgid "An error occured while trying to send the selected email manualy"
+msgstr "S'ha produït un error en enviar el correu manualment"
+
+#: pnincludes/classes/admin/queue.php:71
+msgid "The email was sent successfully and removed from the mail queue"
+msgstr ""
+"El missatge de correu electrònic s'ha enviat correctament i s'ha esborrat de "
+"la cua de correu"
+
+#: pnversion.php:13
+msgid "Advanced Mailer"
+msgstr "Advanced Mailer"
+
+#: pnversion.php:14
+msgid "advmailer"
+msgstr "advmailer"
+
+#: pnversion.php:15
+msgid ""
+"Advanced Mailer management: This module gives more functionallity to the "
+"regular zikula Mailer module"
+msgstr ""
+"Gestió de l'Advanced Mailer: Aquest mòdul ofereix més funcionalitat que el "
+"mòdul estàndard del Zikula"
+
+#: pninit.php:22
+msgid "Error creating hook"
+msgstr "No s'ha pogut crear el lligam"
+
+#: pninit.php:36
+msgid "Error! Index creation failed."
+msgstr "No s'ha pogut crear l'índex"
+
+#: pninit.php:46
+msgid ""
+"Please take care to update the email tempaltes for html and text mails. "
+"Otherwise you will add default header and footer for all mails that are sent "
+"out from now on!"
+msgstr ""
+"Aneu en compte en actualitzar les plantilles de correu electrònic per als "
+"missatges HTML i de text. En cas contrari s'afegirà la capçalera i el peu de "
+"pàgina predeterminats a tots els missatges de correu electrònic que s'enviïn "
+"a partir d'ara."
+
+#: pninit.php:89
+msgid "Error deleting hook"
+msgstr "No s'ha pogut esborrar el lligam"
+
+#: pnadminapi.php:23 pnadminapi.php:28
+#: pntemplates/advmailer_admin_templates.htm:5
+#: pntemplates/advmailer_admin_errorlog.htm:5
+#: pntemplates/advmailer_admin_modifyconfig.htm:5
+#: pntemplates/advmailer_admin_modifyconfig.htm:6
+#: pntemplates/advmailer_admin_queue.htm:5
+msgid "Settings"
+msgstr "Configuració"
+
+#: pnadminapi.php:24 pntemplates/advmailer_admin_templates.htm:6
+#: pntemplates/advmailer_admin_queue.htm:37
+msgid "Templates"
+msgstr "Plantilles"
+
+#: pnadminapi.php:25
+msgid "Mail-Queue"
+msgstr "Cua de correu electrònic"
+
+#: pnadminapi.php:26
+msgid "Error-log"
+msgstr "Registre d'errors"
+
+#: pnadminapi.php:27
+msgid "Test configuration"
+msgstr "Verificació de la configuració"
+
+#: pnadminapi.php:173
+msgid "Message was moved to error log - delivery cancelled"
+msgstr ""
+"El missatge s'ha mogut al registre d'errors - El missatge no s'ha lliurat"
+
+#: pnuser.php:25
+msgid "Cron disabled"
+msgstr "S'ha deshabilitat el cron"
+
+#: pnuser.php:32
+msgid "Authentication correct..."
+msgstr "La autentificació és correcta..."
+
+#: pnuser.php:33
+msgid "Start of mail delivery..."
+msgstr "S'ha iniciat el lliurament del correu..."
+
+#: pnuser.php:38
+msgid "No mails in the queue"
+msgstr "No hi ha cap missatge a la cua"
+
+#: pnuser.php:45
+msgid "Send ID"
+msgstr "ID de l'enviament"
+
+#: pnuser.php:47
+msgid "Sent Error ID"
+msgstr "ID de l'error d'enviament"
+
+#: pnuser.php:52
+msgid "Wrong password"
+msgstr "La contrasenya no és correcta"
+
+#: pntemplates/plugins/function.mailstatus.php:33
+msgid "waiting for delivery"
+msgstr "Esperant per ser lliurat"
+
+#: pntemplates/plugins/function.mailstatus.php:35
+msgid "failed... waiting for retry"
+msgstr "S'ha produït un error ... esperant per tornar-ho a intentar"
+
+#: pntemplates/plugins/function.mailstatus.php:37
+msgid "failed... waiting for last try"
+msgstr "S'ha produït un error ... esperant per fer el darrer intent"
+
+#: pntemplates/plugins/function.showmail.php:23
+#: pntemplates/plugins/function.extractmail.php:24
+msgid "param mail missing"
+msgstr "Falta un paràmetre del missatge "
+
+#: pntemplates/plugins/function.extractmail.php:29
+msgid "item not found"
+msgstr "No s'ha trobat l'element"
+
+#: pntemplates/plugins/function.templateusage.php:29
+msgid "No"
+msgstr "No"
+
+#: pntemplates/plugins/function.templateusage.php:31
+msgid "Yes"
+msgstr "Sí"
+
+#: pnadmin.php:45
+msgid ""
+"This is <font color=\"red\">some default text</font> that will be "
+"<b>replaced</b> by your <i>email's content</i> later whenever a mail is "
+"being sent out!<hr />Have fun! ;-)"
+msgstr ""
+"Aquest és <font color=\\\"red\\\">un text d'exemple</font> que heu de "
+"<b>reemplaçar</b> pel <i>contingut dels missatges</i> que s'han d'enviar<hr /"
+">Divertiu-vos! :-)"
+
+#: pnadmin.php:46
+msgid ""
+"This is some default text that will be replaced by your email's content "
+"later whenever a mail is being sent out!"
+msgstr ""
+"Aquest és un text predeterminat que s'ha de reemplaçar pel contingut del "
+"missatge que s'ha d'enviar"
+
+#: pnadmin.php:122
+msgid "Send mails immediately"
+msgstr "Envia els missatges immediatament"
+
+#: pnadmin.php:123
+msgid "Send mails via cronjob"
+msgstr "Envia el correu utilitzant un cronjob"
+
+#: pnadmin.php:124
+msgid "Send mails in background using SystemInit hooks"
+msgstr "Envia el correu en segon pla utilitzant un lligam de sistema"
+
+#: pnadmin.php:177
+msgid "Done! Module configuration updated."
+msgstr "S'ha actualitzat la configuració del mòdul"
+
+#: pntemplates/advmailer_admin_templates.htm:8
+msgid ""
+"You can create templates for all emails that will be sent out that are "
+"customized for your site. There are two types of emails going out: HTML and "
+"plain text. There are some example templates in the Mailer's template "
+"folder. There are four templates - two for HTML and two for plain text "
+"mails. Always the right template is chosen - depending on the mail type. The "
+"templates have to be named the following way"
+msgstr ""
+"Es poden crear plantilles personalitzades per a tots els missatges de correu "
+"electrònic que s'enviaran des del lloc web. Hi ha dos tipus de missatges de "
+"correu electrònic: HTML i text pla. Trobareu alguns exemples de plantilles a "
+"la carpeta de les plantilles del Mailer. Hi ha quatre models - dos per "
+"l'HTML i dos per als correus de text sense format. Sempre es tria la "
+"plantilla correcta en funció del tipus seleccionat. Les plantilles han de "
+"tenir noms especials segons els criteris següents:"
+
+#: pntemplates/advmailer_admin_templates.htm:10
+msgid "Header for plain text mails"
+msgstr "Capçalera per als missatges de text sense format"
+
+#: pntemplates/advmailer_admin_templates.htm:11
+msgid "Footer for plain text mails"
+msgstr "Peu de pàgina per als missatges de text sense format"
+
+#: pntemplates/advmailer_admin_templates.htm:12
+msgid "Header for HTML mails"
+msgstr "Capçalera per als missatges amb codi HTML"
+
+#: pntemplates/advmailer_admin_templates.htm:13
+msgid "Footer for HTML mails"
+msgstr "Peu de pàgina per als missatges amb codi HTML"
+
+#: pntemplates/advmailer_admin_templates.htm:17
+msgid ""
+"Module developers can override the usage of these templates - if you are a "
+"developer, please read the function's documentation! Pleas also mention that "
+"template changes will not affect all mails that are already in the mail "
+"queue and waiting for delivery!"
+msgstr ""
+"Els desenvolupadors de mòduls poden sobreescriure l'ús d'aquestes "
+"plantilles. Si sou un desenvolupador/a, si us plau, llegiu la documentació "
+"de la funció. També cal esmentar que els canvis a les plantilles no "
+"afectaran al missatges que ja són a la cua a l'espera de ser lliurats."
+
+#: pntemplates/advmailer_admin_templates.htm:20
+msgid "Preview"
+msgstr "Previsualització"
+
+#: pntemplates/advmailer_admin_templates.htm:21
+msgid ""
+"Please use theme based template overriding and clear your rendering cache "
+"after changing the templates. The templates will be used as they are seen "
+"below."
+msgstr ""
+"Utilitzeu la sobreescriptura de plantilles del Zikula i esborreu la memòria "
+"cau de les plantilles renderitzades després de canviar les plantilles. Les "
+"plantilles s'utilitzaran com es mostren a continuació."
+
+#: pntemplates/advmailer_admin_templates.htm:23
+msgid "Preview for plain text mails"
+msgstr "Previsualització dels missatges de text sense format"
+
+#: pntemplates/advmailer_admin_templates.htm:29
+#: pntemplates/advmailer_admin_templates.htm:38
+msgid "No templates found"
+msgstr "No s'ha trobat cap plantilla"
+
+#: pntemplates/advmailer_admin_templates.htm:31
+msgid ""
+"Depending on your personal site mailer configuration linebreaks will be "
+"added before sending the email. These linebreaks can not be seen here - "
+"please send a test email to an own email account for testing this."
+msgstr ""
+"Depenent de la configuració personal els salts de línia s'afegiran abans "
+"d'enviar el correu electrònic. Aquests salts de línia no es poden veure aquí "
+"- si us plau envieu un correu electrònic de prova a un compte de correu "
+"propi per provar això."
+
+#: pntemplates/advmailer_admin_templates.htm:32
+msgid "Preview for html mails"
+msgstr "Vista prèvia per als correus-e HTML"
+
+#: pntemplates/advmailer_admin_errorlog.htm:6
+msgid "Mail error log view and administration"
+msgstr "Vista de registre d'error i administració dels correus-e"
+
+#: pntemplates/advmailer_admin_errorlog.htm:6
+msgid "failed deliveries"
+msgstr "lliuraments fallits"
+
+#: pntemplates/advmailer_admin_errorlog.htm:10
+#: pntemplates/advmailer_admin_queue.htm:10
+msgid "Mail content"
+msgstr "Contingut del correu-e"
+
+#: pntemplates/advmailer_admin_errorlog.htm:11
+#: pntemplates/advmailer_admin_errorlog.htm:37
+#: pntemplates/advmailer_admin_queue.htm:11
+#: pntemplates/advmailer_admin_queue.htm:39
+msgid "mail subject"
+msgstr "Assumpte del correu-e"
+
+#: pntemplates/advmailer_admin_errorlog.htm:12
+#: pntemplates/advmailer_admin_errorlog.htm:36
+#: pntemplates/advmailer_admin_queue.htm:12
+#: pntemplates/advmailer_admin_queue.htm:38
+msgid "recipient"
+msgstr "destinatari"
+
+#: pntemplates/advmailer_admin_errorlog.htm:21
+msgid "Requeue all mails"
+msgstr "Reencua tots els correus"
+
+#: pntemplates/advmailer_admin_errorlog.htm:22
+msgid "Please confirm the deletion of all mails of the error log"
+msgstr ""
+"Si us plau confirmeu l'eliminació de tots els correus electrònics del "
+"registre d'errors"
+
+#: pntemplates/advmailer_admin_errorlog.htm:22
+msgid "Delete the error log"
+msgstr "Elimina el registre d'errors"
+
+#: pntemplates/advmailer_admin_errorlog.htm:32
+#: pntemplates/advmailer_admin_queue.htm:29
+msgid "Mail ID"
+msgstr "ID del correu"
+
+#: pntemplates/advmailer_admin_errorlog.htm:38
+msgid "date of last try"
+msgstr "data de l'últim intent"
+
+#: pntemplates/advmailer_admin_errorlog.htm:42
+#: pntemplates/advmailer_admin_queue.htm:48
+msgid "action"
+msgstr "acció"
+
+#: pntemplates/advmailer_admin_errorlog.htm:52
+#: pntemplates/advmailer_admin_queue.htm:71
+msgid "delete"
+msgstr "esborra"
+
+#: pntemplates/advmailer_admin_errorlog.htm:54
+msgid "requeue"
+msgstr "reencua"
+
+#: pntemplates/advmailer_admin_errorlog.htm:64
+msgid "No mails stored in the error logfile"
+msgstr "No hi ha missatges emmagatzemats a l'arxiu de registre d'error"
+
+#: pntemplates/advmailer_admin_modifyconfig.htm:11
+msgid "Advanced Mailer settings"
+msgstr "Configuració Advanced Mailer"
+
+#: pntemplates/advmailer_admin_modifyconfig.htm:13
+msgid "Default method for queue handling"
+msgstr "Mètode per defecte per al control de cues"
+
+#: pntemplates/advmailer_admin_modifyconfig.htm:19
+msgid "Settings for mail queue handling"
+msgstr "Configuració per al control de la cua del correu"
+
+#: pntemplates/advmailer_admin_modifyconfig.htm:20
+msgid ""
+"Queue modes can make sense of your site is a site with high outgoing mail "
+"traffic. Mails are put in a queue and sent mail by mail in the background. "
+"Mails can be sent with each site call that is made by any user. Mail sending "
+"will be handled in the background. You can choose between to different queue "
+"modes: Mails can be sent with each site call (a user or a visitor will make "
+"your emails to be sent without seeing this) or you can use a given URL for a "
+"cronjob service. Just call the cronjob URL with a password (you can try it "
+"out in your browser entering the url) you have specified and this will send "
+"the number of mails you specified in this configuration area."
+msgstr ""
+"Els modes de cua poden donar sentit al teu lloc si és un lloc amb trànsit de "
+"correu sortint elevat. Els Missatges es posen en una cua i s'envien per "
+"correu electrònic en segon pla. Els missatges poden ser enviats amb cada "
+"petició del lloc que sigui realitzada per qualsevol usuari/a. L'enviament de "
+"correu serà controlat en segon pla. Pots triar entre dos modes diferents de "
+"cues: Els correus es poden enviar amb cada petició del lloc (un usuari/a o "
+"un visitant enviarà el seu correu electrònic sense veure això) o usar una "
+"determinada Adreça URL per a un servei Cronjob. Només has de cridar l'adreça "
+"URL de Cronjob amb una contrasenya (pots provar-ho al navegador escrivint "
+"l'adreça URL) que has especificat i aquest enviarà el nombre de missatges "
+"que has especificat en aquesta àrea de configuració."
+
+#: pntemplates/advmailer_admin_modifyconfig.htm:22
+msgid "Number of mails that should be sent with each site or cronjob call"
+msgstr ""
+"Nombre de missatges que han de ser enviats per cada web o petició a Cronjob"
+
+#: pntemplates/advmailer_admin_modifyconfig.htm:26
+msgid "Password for cronjob call"
+msgstr "Contrasenya per la petició de Cronjob"
+
+#: pntemplates/advmailer_admin_modifyconfig.htm:29
+msgid "Call this URL for email delivery regularly"
+msgstr ""
+"Fes petició a la següent adreça URL per al lliurament de correu amb "
+"regularitat"
+
+#: pntemplates/advmailer_admin_modifyconfig.htm:31
+msgid "Please set a cronjob password to get the URL for this service"
+msgstr ""
+"Si us plau, establiu una contrasenya Cronjob per tal d'obtenir l'adreça URL "
+"per a aquest servei"
+
+#: pntemplates/advmailer_admin_modifyconfig.htm:38
+msgid "Update Configuration"
+msgstr "Actualitza la configuració"
+
+#: pntemplates/advmailer_admin_modifyconfig.htm:39
+msgid "Cancel"
+msgstr "Cancel·la"
+
+#: pntemplates/advmailer_admin_queue.htm:6
+msgid "Mail queue view and administration"
+msgstr "Vista de la cua de correu i administració"
+
+#: pntemplates/advmailer_admin_queue.htm:6
+msgid "mails in queue"
+msgstr "correus-e en cua"
+
+#: pntemplates/advmailer_admin_queue.htm:20
+msgid ""
+"Here all mails from the mail queue are listed. Please do not forget that "
+"mails might be sent instantly after they were listed here. You can access "
+"the mail if you click on the title."
+msgstr ""
+"Aquí hi ha la llista de correus de la cua. Si us plau, no oblideu que "
+"aquests correus poden ser enviats immediatament després que figurin en "
+"aquesta llista. Podeu accedir al correu-e si feu clic al títol."
+
+#: pntemplates/advmailer_admin_queue.htm:33
+msgid "priority"
+msgstr "prioritat"
+
+#: pntemplates/advmailer_admin_queue.htm:40
+msgid "planed date"
+msgstr "data planejada"
+
+#: pntemplates/advmailer_admin_queue.htm:44
+msgid "status"
+msgstr "estat"
+
+#: pntemplates/advmailer_admin_queue.htm:61
+msgid "now"
+msgstr "ara"
+
+#: pntemplates/advmailer_admin_queue.htm:73
+msgid "send manually"
+msgstr "envia manualment"
+
+#: pntemplates/advmailer_admin_queue.htm:83
+msgid "Mail queue emtpy - nothing to display"
+msgstr "Cua de correu buida - res a mostrar"
+
+#: pntemplates/advmailer_admin_menu.htm:4
+msgid "The Advanced Zikula Mailer module"
+msgstr "El mòdul avançat de correu de Zikula"
+
+#: pntemplates/advmailer_admin_menu.htm:7
+msgid "Version"
+msgstr "Versió"
+
+#: pntemplates/advmailer_admin_menu.htm:7
+msgid "powered by"
+msgstr "funciona amb"
+
+#: pntemplates/advmailer_admin_menu.htm:7
+msgid "You like the module and it's usefull for you"
+msgstr "Si t'agrada el mòdul i és útil per a tu"
+
+#: pntemplates/advmailer_admin_menu.htm:7
+msgid "Donate and support my software development"
+msgstr "Dóna suport al desenvolupament del programari"

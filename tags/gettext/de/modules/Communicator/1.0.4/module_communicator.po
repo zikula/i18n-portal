@@ -1,0 +1,835 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-27 00:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.5.1\n"
+
+#: pnuserapi.php:244
+msgid "Notice of receipt"
+msgstr "Empfangsbestätigung"
+
+#: pnuserapi.php:284
+msgid "no subject"
+msgstr "kein Betreff"
+
+#: pnuserapi.php:309
+msgid "Mail sending failed - mail body could not be stored."
+msgstr "Senden fehlgeschlagen - Die Nachricht konnte nicht gespeichert werden."
+
+#: pnuserapi.php:332 pnuserapi.php:354
+msgid "Mail sending failed for user"
+msgstr "Senden des Mails fehlgeschlagen für User"
+
+#: pnuserapi.php:384
+msgid "A private message is waiting for you!"
+msgstr "Eine neue private Nachricht ist verfügbar!"
+
+#: pnuserapi.php:389
+msgid "Sending email notification failed!"
+msgstr "E-Mail Benachrichtigung versenden fehlgeschlagen!"
+
+#: pnuserapi.php:396
+msgid "Autoresponse"
+msgstr "Automatische Antwort"
+
+#: pnuserapi.php:401
+msgid "Sending autoresponse failed!"
+msgstr "Senden der automatischen Antwort fehlgeschlagen!"
+
+#: pnuserapi.php:716
+msgid "Forwarded Mail"
+msgstr "Weitergeleitete Mail"
+
+#: pnversion.php:14
+msgid "Communicator"
+msgstr "Communicator"
+
+#: pnversion.php:16
+msgid "More than just private messaging"
+msgstr "Mehr als nur private Nachrichten"
+
+#: pnaccountapi.php:32
+msgid "Read Mails"
+msgstr "Mails lesen"
+
+#: pninit.php:33
+msgid "Error creating Hook!"
+msgstr "System-Init-Hook konnte nicht erstellt werden!"
+
+#: pninit.php:59
+msgid "Error deleting Hook!"
+msgstr "Fehler beim löschen des Hook!"
+
+#: pnadminapi.php:16
+msgid "Main Modul Configuration"
+msgstr "Hauptmodul Konfiguration"
+
+#: pnadminapi.php:17
+msgid "Import Mails from InterCom"
+msgstr "Nachrichten von InterCom importieren"
+
+#: pnuser.php:27
+#: pnstyle/pntemplates/communicator_output_ajax_folder_menu.htm:4
+#: pntemplates/communicator_output_message.htm:24
+#: pntemplates/communicator_output_message.htm:48
+#: pntemplates/communicator_user_main.htm:17
+#: pntemplates/communicator_output_ajax_folder_menu.htm:4
+msgid "Inbox"
+msgstr "Posteingang"
+
+#: pnuser.php:27
+#: pnstyle/pntemplates/communicator_output_ajax_folder_menu.htm:5
+#: pntemplates/communicator_output_message.htm:27
+#: pntemplates/communicator_output_message.htm:51
+#: pntemplates/communicator_user_main.htm:18
+#: pntemplates/communicator_output_ajax_folder_menu.htm:5
+msgid "Sent"
+msgstr "Gesendet"
+
+#: pnuser.php:27
+msgid "Folders"
+msgstr "Ordner"
+
+#: pnuser.php:27 pnuser.php:156
+msgid "Preferences"
+msgstr "Einstellungen"
+
+#: pnuser.php:59
+msgid "Message was marked!"
+msgstr "Nachricht wurde markiert!"
+
+#: pnuser.php:62
+msgid "Message was unmarked!"
+msgstr "Markierung der Nachricht aufgehoben!"
+
+#: pnuser.php:65
+msgid "Notice of receipt was sent to message sender."
+msgstr "Die Empfangsbestätigung wurde an den Absender der Nachricht verschickt."
+
+#: pnuser.php:69
+msgid "Error: Message could not be deleted!"
+msgstr "Fehler: Nachricht konnte nicht gelöscht werden!"
+
+#: pnuser.php:71
+msgid "Selected message was deleted!"
+msgstr "Ausgewählte Nachricht wurde gelöscht!"
+
+#: pnuser.php:76
+msgid "Error: mail could not be sent to your private email address!"
+msgstr ""
+"Fehler: Nachricht konnte nicht an Ihre private Email Adresse gesendet "
+"werden!"
+
+#: pnuser.php:78
+msgid "Mail was forwarded as email to your private mailbox:"
+msgstr "Nachricht wurde als E-Mail an ihre private E-Mail-Adresse gesendet:"
+
+#: pnuser.php:130 pntemplates/communicator_user_main.htm:8
+#: pntemplates/communicator_user_main.htm:9
+#: pntemplates/communicator_user_compose.htm:3
+msgid "Compose new message"
+msgstr "Neue Nachricht verfassen"
+
+#: pnuser.php:163 pnajax.php:229
+msgid "Settings could not be stored!"
+msgstr "Die Einstellungen konnten nicht gespeichert werden!"
+
+#: pnuser.php:165
+msgid "Your settings have been stored!"
+msgstr "Die Einstellungen wurden gespeichert!"
+
+#: pnuser.php:189 pnajax.php:256
+msgid "Folder could not be created!"
+msgstr "Der Ordner konnte nicht erstellt werden!"
+
+#: pnuser.php:191
+msgid "Folder was created."
+msgstr "Der Ordner wurde erstellt!"
+
+#: pnuser.php:217
+msgid "Folder Management"
+msgstr "Ordnerverwaltung"
+
+#: pnuser.php:221 pnajax.php:287
+msgid "Folder could not be deleted!"
+msgstr "Der Ordner konnte nicht gelöscht werden!"
+
+#: pnuser.php:223
+msgid "Folder deleted!"
+msgstr "Der Ordner wurde gelöscht!"
+
+#: pnuser.php:228 pnajax.php:294
+msgid "Folder could not be renamed!"
+msgstr "Der Ordner konnte nicht umbenannt werden!"
+
+#: pnuser.php:230
+msgid "Folder was renamed!"
+msgstr "Der Ordner wurde umbenannt!"
+
+#: pnuser.php:257
+msgid "Move message into folder"
+msgstr "Nachricht in Ordner verschieben"
+
+#: pnuser.php:262
+msgid "Message was moved to folder."
+msgstr "Nachricht wurde in den Ordner verschoben."
+
+#: pnuser.php:264 pnajax.php:347
+msgid "Message could not be moved to target folder!"
+msgstr "Die Nachricht konnte nicht in den Zielordner verschoben werden!"
+
+#: pnuser.php:288
+msgid "Message print view"
+msgstr "Druckansicht einer Nachricht"
+
+#: pnajax.php:19 pnajax.php:88 pnajax.php:121 pnajax.php:220 pnajax.php:250
+#: pnajax.php:277
+msgid "You have no permissions for this action"
+msgstr "Keine Berechtigung für diese Aktion vorhanden"
+
+#: pnajax.php:101
+msgid "Message could not be deleted"
+msgstr "Nachricht konnte nicht gelöscht werden"
+
+#: pnajax.php:141
+msgid "Message could not be (de)marked"
+msgstr "Fehler beim entfernen der Markierung der Nachricht"
+
+#: pnajax.php:382
+msgid "Notice of receipt could not be send!"
+msgstr "Empfangsbestätigung konnte nicht verschickt werden!"
+
+#: pnajax.php:407
+msgid "Mail could not be read for forwarding!"
+msgstr "Nachricht konnte für Weiterleitung nicht gelesen werden!"
+
+#: pnajax.php:409
+msgid "Mail was forwarded to your mailbox:"
+msgstr "Nachricht wurde an Ihr Postfach weitergeleitet:"
+
+#: includes/classes/user/compose.php:33
+msgid "normal priority"
+msgstr "normale Priorität"
+
+#: includes/classes/user/compose.php:34
+msgid "high priority"
+msgstr "hohe Priorität"
+
+#: includes/classes/user/compose.php:70 includes/classes/user/compose.php:72
+msgid "wrote at"
+msgstr "schrieb am"
+
+#: includes/classes/user/compose.php:77
+msgid "Re:"
+msgstr "Antwort:"
+
+#: includes/classes/user/compose.php:87
+msgid "Fwd:"
+msgstr "Weitergeleitet:"
+
+#: includes/classes/user/compose.php:97
+msgid "You have no permission to include the specified message id"
+msgstr "Keine Berechtigung vorhanden die angegebene Nachricht einzubinden"
+
+#: includes/classes/user/compose.php:139
+msgid "Message body is mandatory"
+msgstr "Ein Nachrichten-Text ist notwendig"
+
+#: includes/classes/user/compose.php:171
+msgid ""
+"You cannot send mails to the following user because this user does not want "
+"to recieve emails from you:"
+msgstr ""
+"Die folgenden Benutzer können nicht angeschrieben werden, da diese keine "
+"Nachricht von Ihnen erhalten wollen:"
+
+#: includes/classes/user/compose.php:180
+msgid "Please check recipients: user not found: "
+msgstr "Bitte Empfänger überprüfen: Benutzer nicht gefunden:"
+
+#: includes/classes/user/compose.php:213
+msgid ""
+"An error occured while trying to send the message. Please try again and "
+"contact the webmaster if sending fails again."
+msgstr ""
+"Ein Fehler ist beim Senden der Nachricht aufgetreten. Bitte den Webmaster "
+"kontaktieren, falls der Fehler wiederholt auftritt!"
+
+#: includes/classes/user/compose.php:220
+msgid "Message sent succesfully to "
+msgstr "Nachricht erfolgreich gesendet an"
+
+#: includes/classes/admin/intercom.php:34
+msgid "InterCom module not found!"
+msgstr "InterCom Modul nicht gefunden!"
+
+#: includes/classes/admin/intercom.php:51
+msgid "Reset done!"
+msgstr "Zurücksetzen erledigt!"
+
+#: includes/classes/admin/intercom.php:73
+msgid "Import done! No InterCom mails left for import!"
+msgstr ""
+"Import erledigt! Keine weiteren InterCom-Mails für den Import vorhanden!"
+
+#: includes/classes/admin/intercom.php:136
+msgid "Messages imported successfully"
+msgstr "Nachrichten wurden erfolgreich importiert."
+
+#: includes/classes/admin/settings.php:42
+msgid "Settings updated"
+msgstr "Einstellungen aktualisiert"
+
+#: pnblocks/newmessages.php:31
+msgid "Unread Messages Block"
+msgstr "Hinweisblock auf neue Nachrichten"
+
+#: pnadmin.php:55
+msgid ""
+"InterCom was not found as active module at your zikula instance. To import "
+"InterCom data InterCom has to be installed."
+msgstr ""
+"InterCom wurde nicht gefunden. Es muss installiert und aktiv sein, dass ein "
+"Import erfolgreich verlaufen kann."
+
+#: pnstyle/pntemplates/communicator_admin_intercom.htm:8
+#: pntemplates/communicator_admin_intercom.htm:8
+msgid "InterCom Import"
+msgstr "InterCom Import"
+
+#: pnstyle/pntemplates/communicator_admin_intercom.htm:11
+#: pntemplates/communicator_admin_intercom.htm:11
+msgid ""
+"The InterCom import might take a long time and will be done step by step. On "
+"large installations this might take a long time. Just click the import "
+"button as long as the import needs... Mails that do not belong to any users "
+"any more will be skipped automatically..."
+msgstr ""
+"Der InterCom-Import könnte sehr lange dauern und wird Schritt für Schritt "
+"durchgeführt. Bei größeren Installationen könnte dies ein mehr Zeit in "
+"Anspruch nehmen. Einfach so lange den Import-Button klicken, wie notwendig. "
+"Mails, die keinem Benutzer zugeordnet werden können, werden automatisch "
+"übersprungen."
+
+#: pnstyle/pntemplates/communicator_admin_intercom.htm:14
+#: pntemplates/communicator_admin_intercom.htm:14
+msgid "InterCom messages are procesed up tp message id"
+msgstr "Die InterCom Nachrichten werden über die Message-ID verarbeitet"
+
+#: pnstyle/pntemplates/communicator_admin_intercom.htm:17
+#: pntemplates/communicator_admin_intercom.htm:17
+msgid "How many InterCom mails should be processed with each request?"
+msgstr "Wie viele InterCom Mails sollen pro Anfrage verarbeitet werden?"
+
+#: pnstyle/pntemplates/communicator_admin_intercom.htm:22
+#: pntemplates/communicator_admin_intercom.htm:22
+msgid "Get the mails..."
+msgstr "Hole die Mails...."
+
+#: pnstyle/pntemplates/communicator_admin_intercom.htm:23
+#: pntemplates/communicator_admin_intercom.htm:23
+msgid "Reset internal counter"
+msgstr "Internen Zähler zurücksetzen"
+
+#: pnstyle/pntemplates/communicator_email_notification.htm:3
+#: pnstyle/pntemplates/communicator_email_receipt.htm:3
+#: pntemplates/communicator_email_notification.htm:3
+#: pntemplates/communicator_email_receipt.htm:3
+msgid "Dear user"
+msgstr "Liebe(r)"
+
+#: pnstyle/pntemplates/communicator_email_notification.htm:5
+#: pntemplates/communicator_email_notification.htm:5
+#, php-format
+msgid ""
+"the user \"%s\" has sent a private message to you with the title \"%s\"."
+msgstr ""
+"der Benutzer %s hat Dir eine Privatnachricht mit dem Betreff \"%s\" geschickt."
+
+#: pnstyle/pntemplates/communicator_email_notification.htm:7
+#: pntemplates/communicator_email_notification.htm:7
+msgid ""
+"Please take a look into your inbox folder. You have to be logged in to view "
+"your private messages."
+msgstr ""
+"Bitte wirf doch einen Blick in deinen Posteingang. Um den Posteingang "
+"einsehen zu können, muss ein Login am System erfolgt sein."
+
+#: pnstyle/pntemplates/communicator_email_notification.htm:9
+#: pntemplates/communicator_email_notification.htm:9
+#, php-format
+msgid ""
+"Actually, there are %s unread messages awaiting you in your inbox folder."
+msgstr "Momentan sind %s ungelesene Nachrichten in deinem Posteingang."
+
+#: pnstyle/pntemplates/communicator_email_notification.htm:9
+#: pntemplates/communicator_email_notification.htm:9
+msgid ""
+"Actually, there is one unread messages awaiting you in your inbox folder."
+msgstr "Momentan ist eine ungelesene Nachricht in deinem Posteingang."
+
+#: pnstyle/pntemplates/communicator_email_notification.htm:11
+#: pntemplates/communicator_email_notification.htm:11
+msgid "Login at"
+msgstr "Einloggen auf"
+
+#: pnstyle/pntemplates/communicator_email_notification.htm:13
+#: pntemplates/communicator_email_notification.htm:13
+msgid "Read your messages"
+msgstr "Meine Nachrichten lesen"
+
+#: pnstyle/pntemplates/communicator_email_notification.htm:15
+#: pntemplates/communicator_email_notification.htm:15
+msgid ""
+"If you do not want to recieve notifications about new private messages any "
+"more please change your personal settings in your communication centre. The "
+"settings can be changed directly at the communication centre's index page."
+msgstr ""
+"Wenn keine Emailbenachrichtigungen mehr empfangen werden sollen, kann die "
+"Benachrichtigung über neue Emails deaktiviert werden. Diese Einstellungen "
+"können direkt auf der Startseite des Postfachs vorgenommen werden."
+
+#: pnstyle/pntemplates/communicator_output_ajax_folder_menu.htm:9
+#: pnstyle/pntemplates/communicator_output_introtext.htm:17
+#: pntemplates/communicator_user_main.htm:22
+#: pntemplates/communicator_output_ajax_folder_menu.htm:9
+#: pntemplates/communicator_output_introtext.htm:17
+msgid "My settings"
+msgstr "Meine Einstellungen"
+
+#: pnstyle/pntemplates/communicator_output_introtext.htm:13
+#: pntemplates/communicator_output_introtext.htm:13
+msgid "Welcome to your communication centre"
+msgstr "Willkommen in der Nachrichtenzentrale"
+
+#: pnstyle/pntemplates/communicator_output_introtext.htm:15
+#: pntemplates/communicator_output_introtext.htm:15
+msgid ""
+"Welcome to your communication center. You can read your emails and compose "
+"new messages to other contacts. Messages are listed in the table above this "
+"text. If this table is not big enough just click at the gray line and resize "
+"the messages list as you need it. For the case that you have many messages "
+"in your inbox you can start to create custom folders for your messages."
+msgstr ""
+"Willkommen in der Nachrichtenzentrale. Hier können eigene Mails gelesen "
+"werden und Mails an andere Kontakte verfasst werden. Nachrichten sind "
+"generell in der obigen Übersicht dargestellt und der Inhalt der Nachrichten "
+"wird nach Klick auf den Betreff in dem Bereich dargestellt, in welchem "
+"gerade dieser Text zu lesen ist. Die Nachrichtenliste kann beliebig von der "
+"Größe angepasst werden. Dazu muss lediglich das am Ende der Liste "
+"befindliche graue Balkenelement mit der Maus nach oben oder unten verschoben "
+"werden. Wer viele Nachrichten verwalten will, der kann hierzu nach Belieben "
+"eigene Ordner erstellen und die Nachrichten dort einsortieren."
+
+#: pnstyle/pntemplates/communicator_output_introtext.htm:19
+#: pntemplates/communicator_output_introtext.htm:19
+msgid "You can manage some settings here."
+msgstr "Eigene Einstellungen können hier geändert werden."
+
+#: pnstyle/pntemplates/communicator_output_introtext.htm:22
+#: pntemplates/communicator_output_introtext.htm:22
+msgid "Disable email notification for new messages"
+msgstr ""
+"Benachrichtigung via Email bei Eingang neuer Privatnachrichten deaktivieren"
+
+#: pnstyle/pntemplates/communicator_output_introtext.htm:23
+#: pntemplates/communicator_output_introtext.htm:23
+msgid "Activate autoresponder"
+msgstr "Automatische Antwort (Abwesenheitsnachricht) aktivieren"
+
+#: pnstyle/pntemplates/communicator_output_introtext.htm:25
+#: pntemplates/communicator_output_introtext.htm:25
+msgid ""
+"Enter some text that should be automatically sent as auto response for "
+"incoming mails"
+msgstr ""
+"Bitte hier den Text eingeben, welcher mit der automatischen Antwort "
+"verschickt werden soll"
+
+#: pnstyle/pntemplates/communicator_output_introtext.htm:31
+#: pntemplates/communicator_output_introtext.htm:31
+msgid "store settings"
+msgstr "Einstellungen speichern"
+
+#: pnstyle/pntemplates/communicator_output_introtext.htm:40
+#: pntemplates/communicator_output_introtext.htm:40
+msgid "Custom mail folders"
+msgstr "Benutzerdefinierte Ordner"
+
+#: pnstyle/pntemplates/communicator_output_introtext.htm:42
+#: pntemplates/communicator_output_introtext.htm:42
+msgid ""
+"Inbox and outbox are system folders. They cannot be renamed or deleted. If "
+"you want more folders, feel free to create new folders as you need them. If "
+"you want to edit a folder just click the folder name and you will be able to "
+"rename or delete the folder."
+msgstr ""
+"\"Posteingang\" und \"Gesendet\" sind Systemordner, welche nicht umbenannt und "
+"nicht gelöscht werden können. Weitere Ordner können nach Belieben angelegt "
+"werden. Wenn ein Ordner gelöscht oder umbenannt werden soll, bitte einfach "
+"den Titel des Ordners anklicken, dann öffnet sich die Bearbeitungsmaske von "
+"selbst."
+
+#: pnstyle/pntemplates/communicator_output_introtext.htm:48
+#: pntemplates/communicator_output_introtext.htm:48
+msgid "Create a new folder with the title"
+msgstr "Einene neuen Ordner erstellen mit folgendem Namen"
+
+#: pnstyle/pntemplates/communicator_output_introtext.htm:50
+#: pntemplates/communicator_output_introtext.htm:50
+msgid "create"
+msgstr "erstellen"
+
+#: pnstyle/pntemplates/communicator_output_introtext.htm:65
+#: pntemplates/communicator_output_introtext.htm:65
+msgid "delete"
+msgstr "löschen"
+
+#: pnstyle/pntemplates/communicator_output_introtext.htm:66
+#: pntemplates/communicator_output_introtext.htm:66
+msgid "update"
+msgstr "aktualisieren"
+
+#: pnstyle/pntemplates/communicator_output_introtext.htm:68
+#: pntemplates/communicator_output_introtext.htm:68
+#: pntemplates/communicator_user_compose.htm:57
+msgid "cancel"
+msgstr "abbrechen"
+
+#: pnstyle/pntemplates/communicator_output_introtext.htm:77
+#: pntemplates/communicator_output_introtext.htm:77
+msgid "You have not ceated any custom folders yet."
+msgstr "Es wurden noch keine extra Ordner angelegt."
+
+#: pnstyle/pntemplates/communicator_admin_header.htm:3
+#: pntemplates/communicator_admin_header.htm:3
+msgid "Backend for Zikula Communication Center"
+msgstr "Administrationsoberfläche für die Zikula-Nachrichtenzentrale"
+
+#: pnstyle/pntemplates/communicator_admin_settings.htm:8
+#: pntemplates/communicator_admin_settings.htm:8
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: pnstyle/pntemplates/communicator_admin_settings.htm:10
+#: pntemplates/communicator_admin_settings.htm:10
+msgid ""
+"Format (from zikula pndate modifier) that should be used inside "
+"Communication Centre"
+msgstr ""
+"Datumsformat, welches als Parameter für den pndate_modifier übergeben werden "
+"soll"
+
+#: pnstyle/pntemplates/communicator_admin_settings.htm:14
+#: pntemplates/communicator_admin_settings.htm:14
+msgid ""
+"Message limit for a single user (after this limit is reached the user will "
+"not be able to send mails any more). To disable quota enter 0 please"
+msgstr ""
+"Nachrichten-Limit, welches ein einzelner Benutzer in seinem Postfach haben "
+"darf. Wird dieses überschritten ist das Empfangen von Nachrichten zwar noch "
+"möglich, jedoch nicht das Senden von neuen Nachrichten für den betroffenen "
+"Benutzer. Die Eingabe des Wertes 0 setzt kein Limit (empfohlen)."
+
+#: pnstyle/pntemplates/communicator_admin_settings.htm:19
+msgid "Enable WYSIWYG editor (This only works if scribite! is installed)."
+msgstr ""
+"WYSIWYG-Editor für das Verfassen von Emails aktivieren. Diese Einstellung "
+"funktioniert nur mit installiertem Modul scribite!"
+
+#: pnstyle/pntemplates/communicator_admin_settings.htm:23
+#: pntemplates/communicator_admin_settings.htm:18
+msgid "Spam guard"
+msgstr "Spam-Schutz"
+
+#: pnstyle/pntemplates/communicator_admin_settings.htm:24
+#: pntemplates/communicator_admin_settings.htm:19
+msgid "Time in minutes (0 to disable)"
+msgstr "Zeitspanne in Minuten (der Wert 0 deaktiviert diese Option)"
+
+#: pnstyle/pntemplates/communicator_admin_settings.htm:25
+#: pntemplates/communicator_admin_settings.htm:20
+msgid "a user is allowed to send a maximum of messages"
+msgstr "in welcher ein Benutzer eine maximale Anzahl von"
+
+#: pnstyle/pntemplates/communicator_admin_settings.htm:25
+#: pntemplates/communicator_admin_settings.htm:20
+msgid "Messages"
+msgstr "Nachrichten versenden darf"
+
+#: pnstyle/pntemplates/communicator_admin_settings.htm:26
+#: pntemplates/communicator_admin_settings.htm:21
+msgid ""
+"Please note: Mails that are sent to buddies (ContactList module) will not be "
+"included into the spam guard calculation!"
+msgstr ""
+"Bitte beachten: Mails, welche an bestätigte Kontakte / Freunde (ContactList-"
+"Modul) verschickt werden, fallen nicht unter die Spamschutz-Einstellungen"
+
+#: pnstyle/pntemplates/communicator_admin_settings.htm:28
+#: pntemplates/communicator_admin_settings.htm:23
+msgid "Popup Notification"
+msgstr "Popup Benachrichtigung"
+
+#: pnstyle/pntemplates/communicator_admin_settings.htm:30
+#: pntemplates/communicator_admin_settings.htm:25
+msgid ""
+"If you want your users to be informed about new messages with an upcoming "
+"ajax notification please put the following code inside your theme templates "
+"- best place is before the body tag closes."
+msgstr ""
+"Wenn Sie Ihre Nutzer über neue Nachrichten mittels Ajax benachrichtigen "
+"wollen, dann bitte folgenden Code in die Theme-Templates einfügen. "
+"Vorzugsweise vor dem schließendem Body-Tag."
+
+#: pnstyle/pntemplates/communicator_admin_settings.htm:36
+#: pntemplates/communicator_admin_settings.htm:32
+msgid ""
+"You do not need any clean up or repair functions for this module. This "
+"module will do a daily self-check and orphan messages will be deleted "
+"automatically. Just have fun with the module."
+msgstr ""
+"Es ist nicht notwendig in diesem Modul irgendwelche manuellen "
+"Wartungsfunktionen aufzurufen. Die Datenbank wird täglich automatisch "
+"geprüft und Nachrichten, welche sich keinem Benutzer mehr zuordnen lassen "
+"(sowohl von Empfänger- als von Absendersicht) werden entfernt. Admin: lehne "
+"Dich bei diesem Modul einfach entspannt zurück ;-)"
+
+#: pnstyle/pntemplates/communicator_admin_settings.htm:37
+#: pntemplates/communicator_admin_settings.htm:33
+msgid ""
+"You like the module? Help us to keep this module up to date for the future, "
+"click here and donate some cents!"
+msgstr ""
+"Dir gefällt das Modul? Dann unterstütze die Entwicklung des Moduls, klicke "
+"hier und spende ein paar Cent! Danke!"
+
+#: pnstyle/pntemplates/communicator_admin_settings.htm:40
+#: pntemplates/communicator_admin_settings.htm:38
+msgid "Store configuration"
+msgstr "Konfiguration speichern"
+
+#: pnstyle/pntemplates/communicator_email_receipt.htm:5
+#: pntemplates/communicator_email_receipt.htm:5
+msgid ""
+"This message was generated by the mail system. The user sending this mail "
+"has read the following message you sent to this user."
+msgstr ""
+"Diese Nachricht wurde automatisch vom Nachrichtensystem dieser Webseite "
+"erstellt und zeigt an, dass der Benutzer die Nachricht gelesen und die "
+"angeforderte Lesebestätigung geschickt hat."
+
+#: pnstyle/pntemplates/communicator_email_receipt.htm:7
+#: pntemplates/communicator_output_message.htm:73
+#: pntemplates/communicator_user_main.htm:34
+#: pntemplates/communicator_email_receipt.htm:7
+msgid "Subject"
+msgstr "Betreff"
+
+#: pnstyle/pntemplates/communicator_email_receipt.htm:8
+#: pntemplates/communicator_email_receipt.htm:8
+msgid "Message was read at"
+msgstr "Die Nachricht wurde gelesen am"
+
+#: pntemplates/communicator_output_popup.htm:7
+#, php-format
+msgid "You have %s new Message(s)"
+msgstr "Du hast %s neue Nachricht(en)"
+
+#: pntemplates/communicator_output_popup.htm:10
+msgid "Open Inbox Folder"
+msgstr "Posteingang öffnen"
+
+#: pntemplates/communicator_output_popup.htm:11
+msgid "Close Notification"
+msgstr "Benachrichtigung schließen"
+
+#: pntemplates/communicator_output_message.htm:13
+#: pntemplates/communicator_output_message.htm:40
+msgid "reply to message"
+msgstr "Antwort erstellen"
+
+#: pntemplates/communicator_output_message.htm:14
+#: pntemplates/communicator_output_message.htm:41
+msgid "forward message"
+msgstr "Nachricht weiterleiten"
+
+#: pntemplates/communicator_output_message.htm:16
+#: pntemplates/communicator_output_message.htm:42
+msgid "mark message"
+msgstr "Nachricht markieren"
+
+#: pntemplates/communicator_output_message.htm:18
+#: pntemplates/communicator_output_message.htm:44
+msgid "unmark message"
+msgstr "Markierung löschen"
+
+#: pntemplates/communicator_output_message.htm:20
+#: pntemplates/communicator_output_message.htm:43
+msgid "mail @ home"
+msgstr "mail @ home"
+
+#: pntemplates/communicator_output_message.htm:21
+#: pntemplates/communicator_output_message.htm:45
+msgid "move into folder"
+msgstr "In Ordner verschieben"
+
+#: pntemplates/communicator_output_message.htm:35
+#: pntemplates/communicator_output_message.htm:60
+msgid "print message"
+msgstr "Nachricht drucken"
+
+#: pntemplates/communicator_output_message.htm:36
+#: pntemplates/communicator_output_message.htm:61
+msgid "delete message"
+msgstr "Nachricht löschen"
+
+#: pntemplates/communicator_output_message.htm:75
+msgid "From"
+msgstr "Absender"
+
+#: pntemplates/communicator_output_message.htm:76
+msgid "To"
+msgstr "Empfänger"
+
+#: pntemplates/communicator_output_message.htm:77
+#: pntemplates/communicator_user_main.htm:48
+msgid "Date"
+msgstr "Datum"
+
+#: pntemplates/communicator_output_message.htm:79
+msgid "The sender classified this mail as very important."
+msgstr "Der Absender hat die Nachricht als sehr wichtig eingestuft."
+
+#: pntemplates/communicator_output_message.htm:83
+msgid "Message sender requested a notice of receipt."
+msgstr "Der Absender der Nachricht bittet um eine Empfangsbestätigung."
+
+#: pntemplates/communicator_output_message.htm:85
+#: pntemplates/communicator_output_message.htm:87
+msgid "Please click here to send receipt to sender."
+msgstr "Hier klicken und Empfangsbestätigung senden lassen."
+
+#: pntemplates/communicator_output_message.htm:92
+msgid "Notice of Receipt was requested by sender and was already sent by you."
+msgstr ""
+"Empfangsbestätigung wurde durch den Absender angefragt und wurde von dir "
+"auch schon verschickt."
+
+#: pntemplates/communicator_output_message.htm:100
+msgid "Message could not be loaded."
+msgstr "Die Nachricht konnte nicht geladen werden."
+
+#: pntemplates/communicator_user_main.htm:10
+msgid "Switch to mailbox folders"
+msgstr "Zur Anzeige des Postfachs wechseln"
+
+#: pntemplates/communicator_user_main.htm:41
+msgid "User"
+msgstr "Benutzer"
+
+#: pntemplates/communicator_user_main.htm:160
+msgid "No message selected"
+msgstr "Keine Nachricht ausgewählt"
+
+#: pntemplates/communicator_user_main.htm:288
+msgid "This message is already in specified target folder!"
+msgstr "Die Nachricht befindet sich bereits im angewählten Zielordner!"
+
+#: pntemplates/communicator_user_main.htm:309
+msgid "Please confirm to delete the message"
+msgstr "Soll die Nachricht wirklich gelöscht werden?"
+
+#: pntemplates/communicator_user_main.htm:384
+#, php-format
+msgid "Please confirm to send the message to your private mailbox (%s)"
+msgstr ""
+"Bitte den Versand der Nachricht in deine private Mailbox (%s) bestätigen"
+
+#: pntemplates/communicator_user_main.htm:469
+msgid "Your settings have been stored"
+msgstr "Deine Einstellungen wurden gespeichert"
+
+#: pntemplates/communicator_user_compose.htm:11
+msgid "Preview"
+msgstr "Vorschau"
+
+#: pntemplates/communicator_user_compose.htm:18
+msgid "Recipients"
+msgstr "Empfänger"
+
+#: pntemplates/communicator_user_compose.htm:23
+msgid "You can enter multiple recipients separated with comma."
+msgstr "Mehrere Empfänger können mit Komma getrennt angegeben werden."
+
+#: pntemplates/communicator_user_compose.htm:26
+msgid "Show buddies for quicker recipipent selection."
+msgstr "Meine Kontakte zur Schnelladressierung anzeigen."
+
+#: pntemplates/communicator_user_compose.htm:30
+msgid "Mark the users who should recieve this message"
+msgstr ""
+"Bitte die Benutzer markieren, welche als (zusätzliche) Empfänger eingetragen "
+"werden sollen"
+
+#: pntemplates/communicator_user_compose.htm:37
+msgid "Message subject"
+msgstr "Betreff der Nachricht"
+
+#: pntemplates/communicator_user_compose.htm:39
+msgid "Message body"
+msgstr "Nachrichtentext"
+
+#: pntemplates/communicator_user_compose.htm:51
+msgid "Delivery options"
+msgstr "Zustelloptionen"
+
+#: pntemplates/communicator_user_compose.htm:53
+msgid "Request notice of receipt"
+msgstr "Lesebestätigung vom Empfänger anfordern"
+
+#: pntemplates/communicator_user_compose.htm:55
+msgid "send message"
+msgstr "Nachricht senden"
+
+#: pntemplates/communicator_user_compose.htm:56
+msgid "preview message"
+msgstr "Nachrichtenvorschau anzeigen"
+
+#: pntemplates/communicator_admin_settings.htm:31
+msgid "Maintenance"
+msgstr "Wartung"
+
+#: pntemplates/communicator_admin_settings.htm:35
+msgid "Do not use automatical included clean up."
+msgstr "Automatische Wartung deaktivieren"
+
+#: pntemplates/communicator_output_messages_list.htm:46
+msgid "Folder is empty - no message found!"
+msgstr ""
+"Der angewählte Ordner ist leer - es konnte keine Nachricht gefunden werden."
+
+#: pntemplates/communicator_block_newmessages.htm:4
+msgid "You have new mail"
+msgstr "Du hast Post"
+
+#: pntemplates/communicator_block_newmessages.htm:5
+#, php-format
+msgid "You have %s unread message(s) in your inbox folder."
+msgstr "Momentan sind %s ungelesene Nachricht(en) im Posteingang."
+
+#: pntemplates/communicator_block_newmessages.htm:6
+msgid "...read messages now!"
+msgstr "...Nachrichten jetzt lesen!"

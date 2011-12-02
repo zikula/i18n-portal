@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dutch translation for nofollow 0.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-02-16 06:26-0400\n"
+"PO-Revision-Date: 2010-04-27 22:59+0100\n"
+"Last-Translator: Arjen Tebbenhof <teb (at) zikula (dot) nl>\n"
+"Language-Team: Dutch Zikula Community\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnuserapi.php:42
+msgid "Wrong arguments for this module."
+msgstr "Verkeerde argumenten voor deze module."
+
+#: pninit.php:23
+msgid "Error creating hook!"
+msgstr "Foutmelding bij het aanmaken van de hook!"
+
+#: pninit.php:47
+msgid "Error deleting hook!"
+msgstr "Foutmelding bij het verwijderen van de hook!"

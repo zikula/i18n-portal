@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: akismet\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-24 10:14+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carsten Volmer <carsten@zikula.org>\n"
+"Language-Team: Carsten Volmer <carsten@zikula.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Translate Toolkit 1.5.1\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Country: Germany\n"
+
+#: pnadmin.php:82
+msgid ""
+"Error! Sorry! Invalid API key. Please obtain one from http://wordpress.com/"
+"api-keys/."
+msgstr ""
+"Fehler! Ungültiger API-Key. Bitte fordern Sie unter http://wordpress.com"
+"/api-keys einen gültigen API-Key an."
+
+#: pnadmin.php:94
+msgid "Done! Module configuration updated."
+msgstr "Erledigt! Die Modulkonfiguration wurde aktualisiert."
+
+#: pnversion.php:16
+msgid "Akismet"
+msgstr "Akismet"
+
+#. ! module url in lowercase and different from displayname
+#: pnversion.php:18
+msgid "akismet"
+msgstr "akismet"
+
+#: pnversion.php:20 pntemplates/akismet_admin_modifyconfig.htm:4
+msgid "Akismet spam detection service"
+msgstr "Akismet Spamerkennung"
+
+#: pntemplates/akismet_admin_modifyconfig.htm:7
+#: pntemplates/akismet_admin_modifyconfig.htm:8
+msgid "Settings"
+msgstr "Konfiguration"
+
+#: pntemplates/akismet_admin_modifyconfig.htm:9
+msgid ""
+"<a href=\"http://akismet.com/\">Akismet</a> is a spam detection service that "
+"can, in many cases, eliminate comment and trackback spam. To use akismet you "
+"need an <a href=\"http://wordpress.com/api-keys/\">API key</a>. Simply "
+"signup for an account at wordpress.com but don't create a blog - your API "
+"key will be in your profile."
+msgstr ""
+"<a href=\"http://akismet.com/\">Akismet</a> ist ein Spamerkennungsdienst, der "
+"Spam in Kommentaren, Trackback, etc. elimieren kann. Um Akismet einsetzen zu "
+"können, ist ein <a href=\"http://wordpress.com/api-keys/\">API-Key</a> "
+"notwendig. Dazu ist nur eine Registrierung unter wordpress.com notwendig. "
+"Bitte erstellen Sie dort keinen Blog, denn es wird nur der Akismet-Schlüssel "
+"benötigt. Dieser API-Key kann anschließend im Benutzerprofil vorgefunden "
+"werden.<br />Diverse Zikula-Module (z.B. EZComments) nutzen dieses Modul zur "
+"Überprüfung der entgegengenommen Benutzereingaben. So wird der Inhalt beim "
+"Akismet-Dienst auf Spamverdacht geprüft und ein entsprechender Rückgabewert "
+"an das Ausgangsmodul zurückgegeben."
+
+#: pntemplates/akismet_admin_modifyconfig.htm:10
+#, php-format
+msgid "Akismet has caught <strong>%s spam</strong> for you so far."
+msgstr "Akismet hat bisher <strong>%s Spams</strong> identifiziert."
+
+#: pntemplates/akismet_admin_modifyconfig.htm:11
+msgid ""
+"To test akismet is functioning submit some content with the author name of "
+"\"viagra-test-123\". This is automatically treated as spam by akismet."
+msgstr ""
+"Wenn Akismet auf die Funktionsfähigkeiten getestet werden soll, fügen Sie "
+"ein Kommentar mit \"viagra-test-123\" im Absenderfeld hinzu. Dieser Begriff "
+"wird von Akismet automatisch als Spam erkannt."
+
+#: pntemplates/akismet_admin_modifyconfig.htm:17
+msgid "Enable akismet"
+msgstr "Akismet aktivieren"
+
+#: pntemplates/akismet_admin_modifyconfig.htm:25
+msgid "Wordpress.com API key"
+msgstr "Wordpress.com API-Key"
+
+#: pntemplates/akismet_admin_modifyconfig.htm:28
+msgid ""
+"Your API key is invalid. Please obtain one from <a href=\"http://wordpress."
+"com/api-keys/\">http://wordpress.com/api-keys/</a>."
+msgstr ""
+"Der API-Key ist ungültig. Bitte fordern Sie unter <a "
+"href=\"http://wordpress.com/api-keys/\">http://wordpress.com/api-keys/</a> "
+"einen gültigen API-Key an."
+
+#: pntemplates/akismet_admin_modifyconfig.htm:34
+msgid "Update Configuration"
+msgstr "Konfiguration aktualisieren"

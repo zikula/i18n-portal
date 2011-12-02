@@ -1,0 +1,323 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-11 07:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.4.0\n"
+
+#: pnadmin.php:56 pnadmin.php:134 pnadmin.php:278 pnuserapi.php:81
+#: pnuser.php:39 pnuser.php:96
+msgid "Error! Unable to load class [%s%]"
+msgstr "خطا! نمی توانم کلاس [%s%] را بارگزاری کنم."
+
+#: pnadmin.php:93
+msgid "Done! Item created."
+msgstr "انجام شد! مقوله ایجاد شد."
+
+#: pnadmin.php:118 pnadmin.php:197 pnadminapi.php:86 pnadminapi.php:147
+msgid "No such item found."
+msgstr "هیچ مقوله ای پیدا نشد."
+
+#: pnadmin.php:170
+msgid "Done! Item updated."
+msgstr "انجام شد! مقوله به روز رسانی شد"
+
+#: pnadmin.php:229
+msgid "Done! Item deleted."
+msgstr "انجام شد! مقوله حذف شد."
+
+#: pnadmin.php:261
+msgid "Purging of the pemalinks was successful"
+msgstr "Purging of the pemalinks was successful"
+
+#: pnadmin.php:263
+msgid "Purging of the pemalinks has failed"
+msgstr "Purging of the pemalinks has failed"
+
+#: pnadmin.php:312
+msgid "Edit"
+msgstr "ویرایش"
+
+#: pnadmin.php:316
+msgid "Delete"
+msgstr "حذف کردن"
+
+#: pnadmin.php:416
+msgid "Done! Module configuration updated."
+msgstr "انجام شد! پیکربندی ماژول به روز رسانی شد."
+
+#: pnversion.php:15 pninit.php:196
+msgid "FAQ"
+msgstr "سوالات متداول"
+
+#: pnversion.php:16
+msgid "faq"
+msgstr "سوالات متداول"
+
+#: pnversion.php:17 pninit.php:197
+msgid "Frequently Asked Questions"
+msgstr "سوالات متداول"
+
+#: pnsearchapi.php:65 pnsearchapi.php:96 pnuserapi.php:74
+msgid "Error! Could not load items."
+msgstr "خطا! نمی توانم آیتم ها را بارگزاری کنم."
+
+#: pnuser.php:120
+msgid "Invalid category"
+msgstr "طبقه نامعتبر"
+
+#: pnuser.php:224
+msgid "Failed to get any items"
+msgstr "Failed to get any items"
+
+#: pnuser.php:290
+msgid "Thank you for your question"
+msgstr "از ارسال سوال شما متشکریم"
+
+#: pnadminapi.php:58 pninit.php:25
+msgid "Error! Creation attempt failed."
+msgstr "Error! Creation attempt failed."
+
+#: pnadminapi.php:95
+msgid "Error! Sorry! Deletion attempt failed."
+msgstr "Error! Sorry! Deletion attempt failed."
+
+#: pnadminapi.php:156 pninit.php:50 pninit.php:160
+msgid "Error! Update attempt failed."
+msgstr "Error! Update attempt failed."
+
+#: pnadminapi.php:231 pntemplates/faq_user_menu.htm:7
+#: pntemplates/faq_admin_view.htm:4
+msgid "View FAQ list"
+msgstr "مشاهده لیست سوالات متداول"
+
+#: pnadminapi.php:234 pntemplates/faq_admin_new.htm:3
+msgid "Create a FAQ"
+msgstr "ایجاد یک سوال متداول"
+
+#: pnadminapi.php:237
+msgid "Purge PermaLinks"
+msgstr "Purge PermaLinks"
+
+#: pnadminapi.php:238 pntemplates/faq_admin_modifyconfig.htm:4
+#: pntemplates/faq_admin_modifyconfig.htm:5
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: pntemplates/faq_search_options.htm:4 pntemplates/faq_admin_menu.htm:4
+#: pntemplates/faq_user_menu.htm:3
+msgid "FAQs"
+msgstr "سوالات متداول"
+
+#: pntemplates/faq_admin_modify.htm:3
+msgid "Update FAQ"
+msgstr "بروز رسانی سوال"
+
+#: pntemplates/faq_admin_modify.htm:15 pntemplates/faq_user_view.htm:19
+#: pntemplates/faq_admin_new.htm:13 pntemplates/faq_admin_view.htm:43
+#: pntemplates/faq_user_display.htm:4
+msgid "Question"
+msgstr "سوال"
+
+#: pntemplates/faq_admin_modify.htm:19 pntemplates/faq_admin_new.htm:17
+msgid "PermaLink URL title"
+msgstr "PermaLink URL title"
+
+#: pntemplates/faq_admin_modify.htm:21 pntemplates/faq_admin_new.htm:19
+msgid "(Blank = auto-generate)"
+msgstr "(خالی رها کردن = ساخت خودکار)"
+
+#: pntemplates/faq_admin_modify.htm:24 pntemplates/faq_user_view.htm:26
+#: pntemplates/faq_admin_new.htm:22 pntemplates/faq_user_display.htm:7
+msgid "Answer"
+msgstr "جواب"
+
+#: pntemplates/faq_admin_modify.htm:29 pntemplates/faq_admin_new.htm:27
+#: pntemplates/faq_admin_view.htm:11 pntemplates/faq_admin_view.htm:46
+msgid "Category"
+msgstr "دسته بندی"
+
+#: pntemplates/faq_admin_modify.htm:30 pntemplates/faq_admin_new.htm:28
+#: pntemplates/faq_admin_view.htm:12
+msgid "Choose a category"
+msgstr "انتخاب کردن دسته بندی"
+
+#: pntemplates/faq_admin_modify.htm:46
+msgid "Meta data"
+msgstr "داده متا"
+
+#: pntemplates/faq_admin_modify.htm:52 pntemplates/faq_user_display.htm:12
+#, php-format
+msgid "Submitted by %s"
+msgstr "ارسال شده توسط %s"
+
+#: pntemplates/faq_admin_modify.htm:56 pntemplates/faq_user_display.htm:21
+#, php-format
+msgid "Answered by %s"
+msgstr "جواب توسط %s داده شده است"
+
+#: pntemplates/faq_admin_modify.htm:60
+#, php-format
+msgid "Created by %1$s on %2$s"
+msgstr "ساخته شده توسط %1$s در %2$s"
+
+#: pntemplates/faq_admin_modify.htm:64
+#, php-format
+msgid "Updated by %1$s on %2$s"
+msgstr "بروز شده توسط %1$s در %2$s"
+
+#: pntemplates/faq_admin_modify.htm:69
+msgid "Update"
+msgstr "به روز رسانی"
+
+#: pntemplates/faq_admin_modify.htm:70 pntemplates/faq_admin_new.htm:40
+#: pntemplates/faq_admin_delete.htm:17
+#: pntemplates/faq_admin_modifyconfig.htm:30
+msgid "Cancel"
+msgstr "انصراف"
+
+#: pntemplates/faq_user_menu.htm:8 pntemplates/faq_user_ask.htm:3
+#: pntemplates/faq_user_ask.htm:9
+msgid "Submit a question"
+msgstr "ایجاد یک سوال"
+
+#: pntemplates/faq_user_view.htm:13
+msgid "Recent FAQs"
+msgstr "سوالات متداول اخیر"
+
+#: pntemplates/faq_admin_new.htm:39
+msgid "Create"
+msgstr "ایجاد کردن"
+
+#: pntemplates/faq_admin_view.htm:34
+msgid "Filter"
+msgstr "صافی"
+
+#: pntemplates/faq_admin_view.htm:35
+msgid "Reset"
+msgstr "راه‌اندازی مجدد"
+
+#: pntemplates/faq_admin_view.htm:42
+msgid "Internal ID"
+msgstr "شناسه داخلی"
+
+#: pntemplates/faq_admin_view.htm:44
+msgid "Answered"
+msgstr "پاسخ داده شده"
+
+#: pntemplates/faq_admin_view.htm:48
+msgid "Options"
+msgstr "انتخاب‌ها"
+
+#: pntemplates/faq_admin_view.htm:58
+msgid "Yes"
+msgstr "بلی"
+
+#: pntemplates/faq_admin_view.htm:60
+msgid "No"
+msgstr "خیر"
+
+#: pntemplates/faq_admin_view.htm:75
+msgid "No items found."
+msgstr "هیچ مقوله ای پیدا نشد."
+
+#: pntemplates/faq_user_main.htm:4
+msgid "Categories"
+msgstr "دسته بندی ها"
+
+#: pntemplates/faq_user_ask.htm:4
+msgid ""
+"Before submitting a question please check existing FAQ's as your question "
+"may have already been answered. If not then please submit your question via "
+"the form and below. Please use clear and precise language when submitting a "
+"question. After submission your question will be reviewed by the site editor"
+"(s)."
+msgstr ""
+"پیش از ارسال سوالتان، لطفا سوال های موجود را بررسی کنید. شاید این سوال پیش "
+"تر پاسخ داده شده باشد. در غیر اینصورت لطفا سوال خود را از طریق فرم مربوطه "
+"ارسال نمایید. لطفا از زبان ساده و دقیق استفاده نمایید. پس از ارسال، سوال شما "
+"توسط یکی از مدیران سایت بررسی خواهد شد."
+
+#: pntemplates/faq_user_ask.htm:12
+msgid "Your name"
+msgstr "نام شما"
+
+#: pntemplates/faq_user_ask.htm:17
+msgid "Content"
+msgstr "محتوا"
+
+#: pntemplates/faq_user_ask.htm:22
+msgid "Submit"
+msgstr "ارائه"
+
+#: pntemplates/faq_admin_delete.htm:2
+msgid "Delete FAQ"
+msgstr "حذف کردن سوال متداول"
+
+#: pntemplates/faq_admin_delete.htm:7
+msgid "Do you really want to delete this FAQ?"
+msgstr "آیا شما مطوئنید که می خواهید این سوال و جواب متداول را حذف کنید؟"
+
+#: pntemplates/faq_admin_delete.htm:14
+msgid "Confirmation prompt"
+msgstr "متن تاییدیه"
+
+#: pntemplates/faq_admin_delete.htm:16
+msgid "Confirm deletion?"
+msgstr "حذف تایید شود؟"
+
+#: pntemplates/faq_user_display.htm:16
+#, php-format
+msgid "Submitted by %s "
+msgstr "ارسال شده توسط %s"
+
+#: pntemplates/faq_admin_modifyconfig.htm:10
+msgid "General settings"
+msgstr "تنظیمات عمومی"
+
+#: pntemplates/faq_admin_modifyconfig.htm:12
+msgid "Enable categorization"
+msgstr "طبقه بندی فعال شود."
+
+#: pntemplates/faq_admin_modifyconfig.htm:16
+msgid "Items per page"
+msgstr "آیتم به ازای صفحه"
+
+#: pntemplates/faq_admin_modifyconfig.htm:21
+msgid "PermaLinks"
+msgstr "PermaLinks"
+
+#: pntemplates/faq_admin_modifyconfig.htm:23
+msgid "Add category title to PermaLink"
+msgstr "Add category title to PermaLink"
+
+#: pntemplates/faq_admin_modifyconfig.htm:29
+msgid "Update Configuration"
+msgstr "به‌ روز رسانی پیکربندی"
+
+#~ msgid "Error! Deletion attempt failed."
+#~ msgstr "Error! Deletion attempt failed."
+
+#~ msgid "Invalid category passed."
+#~ msgstr "Invalid category passed."
+
+#~ msgid ""
+#~ "Warning! Could not create the default FAQ category tree. If you want to "
+#~ "use categorisation with FAQ, register at least one property for the "
+#~ "module in the Category Registry."
+#~ msgstr ""
+#~ "Warning! Could not create the default FAQ category tree. If you want to "
+#~ "use categorisation with FAQ, register at least one property for the "
+#~ "module in the Category Registry."

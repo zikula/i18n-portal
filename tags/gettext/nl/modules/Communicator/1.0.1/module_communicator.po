@@ -1,0 +1,755 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Dutch Translation for Communicator 1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-19 11:40+0200\n"
+"PO-Revision-Date: 2010-06-30 22:55+0200\n"
+"Last-Translator: Arjen <teb@zikula.nl>\n"
+"Language-Team: Dutch Zikula Community\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnuserapi.php:244
+msgid "Notice of receipt"
+msgstr "Ontvangstbevestiging"
+
+#: pnuserapi.php:284
+msgid "no subject"
+msgstr "geen onderwerp"
+
+#: pnuserapi.php:309
+msgid "Mail sending failed - mail body could not be stored."
+msgstr "Mail verzenden mislukt - bericht kon niet worden opgeslagen."
+
+#: pnuserapi.php:332 pnuserapi.php:354
+msgid "Mail sending failed for user"
+msgstr "Mail verzender mislukt voor gebruiker"
+
+#: pnuserapi.php:384
+msgid "A private message is waiting for you!"
+msgstr "Er staat een nieuw privé bericht klaar!"
+
+#: pnuserapi.php:389
+msgid "Sending email notification failed!"
+msgstr "Verzenden van ontvangstbevestiging mislukt!"
+
+#: pnuserapi.php:396
+msgid "Autoresponse"
+msgstr "Automatisch antwoord"
+
+#: pnuserapi.php:401
+msgid "Sending autoresponse failed!"
+msgstr "Verzenden van automatisch antwoord mislukt!"
+
+#: pnuserapi.php:689
+msgid "Forwarded Mail"
+msgstr "Doorgestuurde mail"
+
+#: pnversion.php:14
+msgid "Communicator"
+msgstr "Communicator"
+
+#: pnversion.php:16
+msgid "More than just private messaging"
+msgstr "Meer dan alleen een privé berichten systeem"
+
+#: pnaccountapi.php:32
+msgid "Read Mails"
+msgstr "Lees berichten"
+
+#: pninit.php:33
+msgid "Error creating Hook!"
+msgstr "Foutmelding: Kon hook niet aanmaken!"
+
+#: pninit.php:59
+msgid "Error deleting Hook!"
+msgstr "Foutmelding: Kon hook niet verwijderen!"
+
+#: pnadminapi.php:12
+msgid "Main Modul Configuration"
+msgstr "Module configuratie"
+
+#: pnadminapi.php:13
+msgid "Import Mails from InterCom"
+msgstr "Berichten importeren van InterCom"
+
+#: pnuser.php:27 pntemplates/communicator_output_message.htm:24
+#: pntemplates/communicator_output_message.htm:48
+#: pntemplates/communicator_user_main.htm:17
+#: pntemplates/communicator_output_ajax_folder_menu.htm:4
+msgid "Inbox"
+msgstr "Postvak In"
+
+#: pnuser.php:27 pntemplates/communicator_output_message.htm:27
+#: pntemplates/communicator_output_message.htm:51
+#: pntemplates/communicator_user_main.htm:18
+#: pntemplates/communicator_output_ajax_folder_menu.htm:5
+msgid "Sent"
+msgstr "Verzonden"
+
+#: pnuser.php:27
+msgid "Folders"
+msgstr "Mappen"
+
+#: pnuser.php:27 pnuser.php:156
+msgid "Preferences"
+msgstr "Voorkeuren"
+
+#: pnuser.php:59
+msgid "Message was marked!"
+msgstr "Bericht werd gemarkeerd!"
+
+#: pnuser.php:62
+msgid "Message was unmarked!"
+msgstr "Bericht werd gedemarkeerd!"
+
+#: pnuser.php:65
+msgid "Notice of receipt was sent to message sender."
+msgstr "Ontvangstbevestiging werd verzonden naar de verzender van het bericht."
+
+#: pnuser.php:69
+msgid "Error: Message could not be deleted!"
+msgstr "Foutmelding: Bericht kon niet verwijderd worden!"
+
+#: pnuser.php:71
+msgid "Selected message was deleted!"
+msgstr "Geselecteerde bericht werd verwijderd!"
+
+#: pnuser.php:76
+msgid "Error: mail could not be sent to your private email address!"
+msgstr "Foutmelding: Mail kon niet bezorgd worden naar het privé e-mail adres!"
+
+#: pnuser.php:78
+msgid "Mail was forwarded as email to your private mailbox:"
+msgstr "Bericht was doorgestuurd als e-mail naar de privé mailbox:"
+
+#: pnuser.php:130 pntemplates/communicator_user_main.htm:8
+#: pntemplates/communicator_user_main.htm:9
+#: pntemplates/communicator_user_compose.htm:3
+msgid "Compose new message"
+msgstr "Nieuw bericht maken"
+
+#: pnuser.php:163 pnajax.php:229
+msgid "Settings could not be stored!"
+msgstr "Instellingen konden niet worden opgeslagen!"
+
+#: pnuser.php:165
+msgid "Your settings have been stored!"
+msgstr "Instellingen zijn opgeslagen!"
+
+#: pnuser.php:189 pnajax.php:256
+msgid "Folder could not be created!"
+msgstr "Map kon niet worden aangemaakt!"
+
+#: pnuser.php:191
+msgid "Folder was created."
+msgstr "Map aangemaakt."
+
+#: pnuser.php:217
+msgid "Folder Management"
+msgstr "Mappen beheer"
+
+#: pnuser.php:221 pnajax.php:287
+msgid "Folder could not be deleted!"
+msgstr "Map kon niet worden verwijderd!"
+
+#: pnuser.php:223
+msgid "Folder deleted!"
+msgstr "Map verwijderd!"
+
+#: pnuser.php:228 pnajax.php:294
+msgid "Folder could not be renamed!"
+msgstr "Map kon niet worden hernoemd!"
+
+#: pnuser.php:230
+msgid "Folder was renamed!"
+msgstr "Map hernoemd!"
+
+#: pnuser.php:257
+msgid "Move message into folder"
+msgstr "Bericht verplaatsen naar map"
+
+#: pnuser.php:262
+msgid "Message was moved to folder."
+msgstr "Bericht was verplaatst naar map."
+
+#: pnuser.php:264 pnajax.php:347
+msgid "Message could not be moved to target folder!"
+msgstr "Bericht kon niet worden verplaatst naar doelmap!"
+
+#: pnuser.php:288
+msgid "Message print view"
+msgstr "Bericht printweergave"
+
+#: pnajax.php:19 pnajax.php:88 pnajax.php:121 pnajax.php:220 pnajax.php:250
+#: pnajax.php:277
+msgid "You have no permissions for this action"
+msgstr "Er zijn geen rechten om deze actie uit te voeren"
+
+#: pnajax.php:101
+msgid "Message could not be deleted"
+msgstr "Bericht kon niet worden verwijderd"
+
+#: pnajax.php:141
+msgid "Message could not be (de)marked"
+msgstr "Bericht kon niet ge(de)markeerd worden"
+
+#: pnajax.php:382
+msgid "Notice of receipt could not be send!"
+msgstr "Ontvangstbevestiging kon niet verzonden worden!"
+
+#: pnajax.php:407
+msgid "Mail could not be read for forwarding!"
+msgstr "Bericht kon niet gelezen worden voor het doorsturen!"
+
+#: pnajax.php:409
+msgid "Mail was forwarded to your mailbox:"
+msgstr "Bericht was doorgestuurd naar mailbox:"
+
+#: includes/classes/user/compose.php:33
+msgid "normal priority"
+msgstr "Normale prioriteit"
+
+#: includes/classes/user/compose.php:34
+msgid "high priority"
+msgstr "Hoge prioriteit"
+
+#: includes/classes/user/compose.php:70 includes/classes/user/compose.php:72
+msgid "wrote at"
+msgstr "schreef op"
+
+#: includes/classes/user/compose.php:78
+msgid "Re:"
+msgstr "Re:"
+
+#: includes/classes/user/compose.php:82
+msgid "Fwd:"
+msgstr "Fwd:"
+
+#: includes/classes/user/compose.php:87
+msgid "You have no permission to include the specified message id"
+msgstr "Geen rechten om het opgegeven bericht id in te sluiten"
+
+#: includes/classes/user/compose.php:129
+msgid "Message body is mandatory"
+msgstr "Bericht inhoud is verplicht"
+
+#: includes/classes/user/compose.php:161
+msgid ""
+"You cannot send mails to the following user because this user does not want "
+"to recieve emails from you:"
+msgstr ""
+"Naar de volgende gebruiker kunnen geen berichten worden gestuurd, omdat deze "
+"gebruiker geen berichten van je wenst te ontvangen per e-mail:"
+
+#: includes/classes/user/compose.php:168
+msgid "Please check recipients: user not found: "
+msgstr "Controleer de ontvangers (gebruiker werd niet gevonden):"
+
+#: includes/classes/user/compose.php:206
+msgid ""
+"An error occured while trying to send the message. Please try again and "
+"contact the webmaster if sending fails again."
+msgstr ""
+"Kon het bericht niet verzenden. Probeer opnieuw en neem contact op met de "
+"beheerder indien dit weer mislukt."
+
+#: includes/classes/user/compose.php:213
+msgid "Message sent succesfully to "
+msgstr "Bericht succesvol verzonden naar "
+
+#: includes/classes/admin/intercom.php:34
+msgid "InterCom module not found!"
+msgstr "InterCom module niet gevonden!"
+
+#: includes/classes/admin/intercom.php:51
+msgid "Reset done!"
+msgstr "Herstellen voltooid!"
+
+#: includes/classes/admin/intercom.php:73
+msgid "Import done! No InterCom mails left for import!"
+msgstr ""
+"Importeren klaar! Geen InterCom berichten meer aanwezig om te importeren!"
+
+#: includes/classes/admin/intercom.php:136
+msgid "Messages imported successfully"
+msgstr "Berichten succesvol geïmporteerd"
+
+#: includes/classes/admin/settings.php:42
+msgid "Settings updated"
+msgstr "Instellingen bijgewerkt"
+
+#: pnadmin.php:55
+msgid ""
+"InterCom was not found as active module at your zikula instance. To import "
+"InterCom data InterCom has to be installed."
+msgstr ""
+"InterCom werd niet als actieve module gevonden op deze site. Om berichten te "
+"importeren dient InterCom geïnstalleerd en actief te zijn."
+
+#: pntemplates/communicator_output_popup.htm:7
+#, php-format
+msgid "You have %s new Message(s)"
+msgstr "Er is/zijn %s nieuw(e) bericht(en)"
+
+#: pntemplates/communicator_output_popup.htm:10
+msgid "Open Inbox Folder"
+msgstr "Open het Postvak In"
+
+#: pntemplates/communicator_output_popup.htm:11
+msgid "Close Notification"
+msgstr "Deze notificatie sluiten"
+
+#: pntemplates/communicator_admin_intercom.htm:8
+msgid "InterCom Import"
+msgstr "InterCom Import"
+
+#: pntemplates/communicator_admin_intercom.htm:11
+msgid ""
+"The InterCom import might take a long time and will be done step by step. On "
+"large installations this might take a long time. Just click the import "
+"button as long as the import needs... Mails that do not belong to any users "
+"any more will be skipped automatically..."
+msgstr ""
+"Het importproces voor InterCom kan, afhankelijk van de grootte van de site, "
+"behoorlijk wat tijd in beslag nemen en wordt stap voor stap uitgevoerd. Klik "
+"op de Import-knop zolang het proces dit nodig acht. Berichten die niet aan "
+"bestaande gebruikers gekoppeld zijn worden automatisch verwijderd..."
+
+#: pntemplates/communicator_admin_intercom.htm:14
+msgid "InterCom messages are procesed up tp message id"
+msgstr "InterCom berichten zijn behandeld tot aan bericht id"
+
+#: pntemplates/communicator_admin_intercom.htm:17
+msgid "How many InterCom mails should be processed with each request?"
+msgstr ""
+"Hoeveel InterCom berichten dienen bij iedere iteratie te worden behandeld?"
+
+#: pntemplates/communicator_admin_intercom.htm:22
+msgid "Get the mails..."
+msgstr "Berichten ophalen..."
+
+#: pntemplates/communicator_admin_intercom.htm:23
+msgid "Reset internal counter"
+msgstr "Interne teller herstellen"
+
+#: pntemplates/communicator_output_message.htm:13
+#: pntemplates/communicator_output_message.htm:40
+msgid "reply to message"
+msgstr "Bericht beantwoorden"
+
+#: pntemplates/communicator_output_message.htm:14
+#: pntemplates/communicator_output_message.htm:41
+msgid "forward message"
+msgstr "Bericht doorsturen"
+
+#: pntemplates/communicator_output_message.htm:16
+#: pntemplates/communicator_output_message.htm:42
+msgid "mark message"
+msgstr "Bericht markeren"
+
+#: pntemplates/communicator_output_message.htm:18
+#: pntemplates/communicator_output_message.htm:44
+msgid "unmark message"
+msgstr "Bericht demarkeren"
+
+#: pntemplates/communicator_output_message.htm:20
+#: pntemplates/communicator_output_message.htm:43
+msgid "mail @ home"
+msgstr "Verzenden @ home"
+
+#: pntemplates/communicator_output_message.htm:21
+#: pntemplates/communicator_output_message.htm:45
+msgid "move into folder"
+msgstr "Naar map verplaatsen"
+
+#: pntemplates/communicator_output_message.htm:35
+#: pntemplates/communicator_output_message.htm:60
+msgid "print message"
+msgstr "Bericht printen"
+
+#: pntemplates/communicator_output_message.htm:36
+#: pntemplates/communicator_output_message.htm:61
+msgid "delete message"
+msgstr "Bericht verwijderen"
+
+#: pntemplates/communicator_output_message.htm:73
+#: pntemplates/communicator_user_main.htm:34
+#: pntemplates/communicator_email_receipt.htm:7
+msgid "Subject"
+msgstr "Onderwerp"
+
+#: pntemplates/communicator_output_message.htm:75
+msgid "From"
+msgstr "Van"
+
+#: pntemplates/communicator_output_message.htm:76
+msgid "To"
+msgstr "Aan"
+
+#: pntemplates/communicator_output_message.htm:77
+#: pntemplates/communicator_user_main.htm:48
+msgid "Date"
+msgstr "Datum"
+
+#: pntemplates/communicator_output_message.htm:79
+msgid "The sender classified this mail as very important."
+msgstr "De verzender heeft dit bericht als belangrijk geclassificeerd."
+
+#: pntemplates/communicator_output_message.htm:83
+msgid "Message sender requested a notice of receipt."
+msgstr "De verzender heeft een ontvangst- en leesbevestiging gevraagd."
+
+#: pntemplates/communicator_output_message.htm:85
+#: pntemplates/communicator_output_message.htm:87
+msgid "Please click here to send receipt to sender."
+msgstr "Klik hier om deze bevestiging te versturen."
+
+#: pntemplates/communicator_output_message.htm:92
+msgid "Notice of Receipt was requested by sender and was already sent by you."
+msgstr ""
+"Leesbevestiging was aangevraagd door de verzender, en is reeds verzonden."
+
+#: pntemplates/communicator_output_message.htm:100
+msgid "Message could not be loaded."
+msgstr "Bericht kon niet worden geladen."
+
+#: pntemplates/communicator_user_main.htm:10
+msgid "Switch to mailbox folders"
+msgstr "Schakel naar mailbox-mappen"
+
+#: pntemplates/communicator_user_main.htm:22
+#: pntemplates/communicator_output_ajax_folder_menu.htm:9
+#: pntemplates/communicator_output_introtext.htm:17
+msgid "My settings"
+msgstr "Mijn instellingen"
+
+#: pntemplates/communicator_user_main.htm:41
+msgid "User"
+msgstr "Gebruiker"
+
+#: pntemplates/communicator_user_main.htm:160
+msgid "No message selected"
+msgstr "Geen bericht geselecteerd"
+
+#: pntemplates/communicator_user_main.htm:288
+msgid "This message is already in specified target folder!"
+msgstr "Dit bericht is al aanwezig in de doel map!"
+
+#: pntemplates/communicator_user_main.htm:309
+msgid "Please confirm to delete the message"
+msgstr "Bevestig het verwijderen van dit bericht"
+
+#: pntemplates/communicator_user_main.htm:384
+#, php-format
+msgid "Please confirm to send the message to your private mailbox (%s)"
+msgstr ""
+"Bevestig het verzenden van dit bericht naar de persoonlijke mailbox (%s)"
+
+#: pntemplates/communicator_user_main.htm:469
+msgid "Your settings have been stored"
+msgstr "Instellingen opgeslagen"
+
+#: pntemplates/communicator_email_notification.htm:3
+#: pntemplates/communicator_email_receipt.htm:3
+msgid "Dear user"
+msgstr "Beste gebruiker"
+
+#: pntemplates/communicator_email_notification.htm:5
+#, php-format
+msgid ""
+"the user \"%s\" has sent a private message to you with the title \"%s\"."
+msgstr "Gebruiker '%s' heeft een prive bericht gestuurd met onderwerp '%s'."
+
+#: pntemplates/communicator_email_notification.htm:7
+msgid ""
+"Please take a look into your inbox folder. You have to be logged in to view "
+"your private messages."
+msgstr "Kijk eens in het Postvak In. Er dient wel ingelogd te zijn hiervoor."
+
+#: pntemplates/communicator_email_notification.htm:9
+#, php-format
+msgid ""
+"Actually, there are %s unread messages awaiting you in your inbox folder."
+msgstr "Momenteel zijn er %s ongelezen bericht in het Postvak In"
+
+#: pntemplates/communicator_email_notification.htm:9
+msgid ""
+"Actually, there is one unread messages awaiting you in your inbox folder."
+msgstr "Momenteel is er één ongelezen bericht in het Postvak In"
+
+#: pntemplates/communicator_email_notification.htm:11
+msgid "Login at"
+msgstr "Inloggen op"
+
+#: pntemplates/communicator_email_notification.htm:13
+msgid "Read your messages"
+msgstr "Berichten lezen"
+
+#: pntemplates/communicator_email_notification.htm:15
+msgid ""
+"If you do not want to recieve notifications about new private messages any "
+"more please change your personal settings in your communication centre. The "
+"settings can be changed directly at the communication centre's index page."
+msgstr ""
+"Om geen bericht notificaties meer te ontvangen, dienen de persoonlijke "
+"instellingen (te vinden in het communicatiecentrum) aangepast te worden."
+
+#: pntemplates/communicator_output_introtext.htm:13
+msgid "Welcome to your communication centre"
+msgstr "Welkom bij het communicatiecentrum"
+
+#: pntemplates/communicator_output_introtext.htm:15
+msgid ""
+"Welcome to your communication center. You can read your emails and compose "
+"new messages to other contacts. Messages are listed in the table above this "
+"text. If this table is not big enough just click at the gray line and resize "
+"the messages list as you need it. For the case that you have many messages "
+"in your inbox you can start to create custom folders for your messages."
+msgstr ""
+"Welkom bij het communicatiecentrum. Nieuwe berichten kunnen hier gelezen en "
+"opgesteld worden. Als de lijst hierboven niet groot genoeg is, kan deze "
+"aangepast worden door de grijze lijn aan te klikken om de grootte aan te "
+"passen. Ook kan er gebruik gemaakt worden van submappen om berichten in te "
+"delen."
+
+#: pntemplates/communicator_output_introtext.htm:19
+msgid "You can manage some settings here."
+msgstr "Hier kunnen enkele instellingen beheerd worden."
+
+#: pntemplates/communicator_output_introtext.htm:22
+msgid "Disable email notification for new messages"
+msgstr "E-mail notificatie voor nieuwe berichten uitschakelen"
+
+#: pntemplates/communicator_output_introtext.htm:23
+msgid "Activate autoresponder"
+msgstr "Automatisch antwoord activeren"
+
+#: pntemplates/communicator_output_introtext.htm:25
+msgid ""
+"Enter some text that should be automatically sent as auto response for "
+"incoming mails"
+msgstr ""
+"Vul hier een bericht in wat als automatisch antwoord gebruikt dient te "
+"worden op inkomende berichten"
+
+#: pntemplates/communicator_output_introtext.htm:31
+msgid "store settings"
+msgstr "Instellingen opslaan"
+
+#: pntemplates/communicator_output_introtext.htm:40
+msgid "Custom mail folders"
+msgstr "Eigen bericht mappen"
+
+#: pntemplates/communicator_output_introtext.htm:42
+msgid ""
+"Inbox and outbox are system folders. They cannot be renamed or deleted. If "
+"you want more folders, feel free to create new folders as you need them. If "
+"you want to edit a folder just click the folder name and you will be able to "
+"rename or delete the folder."
+msgstr ""
+"Postvak In en Postvak Uit zijn systeemmappen. Deze kunnen niet verwijderd of "
+"aangepast worden. Verder kunnen hier mappen aangemaakt en bewerkt worden "
+"naar eigen wens. Bewerken of verwijderen kan door de betreffende map aan te "
+"klikken."
+
+#: pntemplates/communicator_output_introtext.htm:48
+msgid "Create a new folder with the title"
+msgstr "Nieuwe map aanmaken met de naam"
+
+#: pntemplates/communicator_output_introtext.htm:50
+msgid "create"
+msgstr "Aanmaken"
+
+#: pntemplates/communicator_output_introtext.htm:65
+msgid "delete"
+msgstr "Verwijderen"
+
+#: pntemplates/communicator_output_introtext.htm:66
+msgid "update"
+msgstr "Bijwerken"
+
+#: pntemplates/communicator_output_introtext.htm:68
+#: pntemplates/communicator_user_compose.htm:57
+msgid "cancel"
+msgstr "Annuleren"
+
+#: pntemplates/communicator_output_introtext.htm:77
+msgid "You have not ceated any custom folders yet."
+msgstr "Er zijn nog geen eigen mappen aangemaakt"
+
+#: pntemplates/communicator_user_compose.htm:11
+msgid "Preview"
+msgstr "Voorbeeld"
+
+#: pntemplates/communicator_user_compose.htm:18
+msgid "Recipients"
+msgstr "Ontvangers"
+
+#: pntemplates/communicator_user_compose.htm:23
+msgid "You can enter multiple recipients separated with comma."
+msgstr "Meerdere ontvangers kunnen worden gescheiden door een komma."
+
+#: pntemplates/communicator_user_compose.htm:26
+msgid "Show buddies for quicker recipipent selection."
+msgstr "Toon buddies voor snellere selectie van ontvangers"
+
+#: pntemplates/communicator_user_compose.htm:30
+msgid "Mark the users who should recieve this message"
+msgstr "Markeer de gebruikers die dit bericht moeten ontvangen"
+
+#: pntemplates/communicator_user_compose.htm:37
+msgid "Message subject"
+msgstr "Bericht onderwerp"
+
+#: pntemplates/communicator_user_compose.htm:39
+msgid "Message body"
+msgstr "Bericht inhoud"
+
+#: pntemplates/communicator_user_compose.htm:51
+msgid "Delivery options"
+msgstr "Aflever opties"
+
+#: pntemplates/communicator_user_compose.htm:53
+msgid "Request notice of receipt"
+msgstr "Ontvangst- en leesbevestiging vragen"
+
+#: pntemplates/communicator_user_compose.htm:55
+msgid "send message"
+msgstr "Bericht verzenden"
+
+#: pntemplates/communicator_user_compose.htm:56
+msgid "preview message"
+msgstr "Bericht voorbeeld"
+
+#: pntemplates/communicator_admin_header.htm:3
+msgid "Backend for Zikula Communication Center"
+msgstr "Backend voor het Zikula Communicatie Centrum"
+
+#: pntemplates/communicator_admin_settings.htm:8
+msgid "General Settings"
+msgstr "Algemene instellingen"
+
+#: pntemplates/communicator_admin_settings.htm:10
+msgid ""
+"Format (from zikula pndate modifier) that should be used inside "
+"Communication Centre"
+msgstr ""
+"Datum opmaak / formaat wat gebruikt dient te worden binnen het "
+"communicatiecentrum"
+
+#: pntemplates/communicator_admin_settings.htm:14
+msgid ""
+"Message limit for a single user (after this limit is reached the user will "
+"not be able to send mails any more). To disable quota enter 0 please"
+msgstr ""
+"Berichten limiet per gebruiker. Als deze limiet bereikt is, kan de "
+"betreffende gebruiker geen berichten meer verzenden (0 = geen limiet)"
+
+#: pntemplates/communicator_admin_settings.htm:19
+msgid "Enable WYSIWYG editor (This only works if scribite! is installed)."
+msgstr ""
+"WYSIWYG editor inschakelen (hiervoor dient scribite! geïnstalleerd te zijn)"
+
+#: pntemplates/communicator_admin_settings.htm:23
+msgid "Spam guard"
+msgstr "Spam controle"
+
+#: pntemplates/communicator_admin_settings.htm:24
+msgid "Time in minutes (0 to disable)"
+msgstr "Tijd in minuten (0 = uitschakelen)"
+
+#: pntemplates/communicator_admin_settings.htm:25
+msgid "a user is allowed to send a maximum of messages"
+msgstr ""
+"Een gebruiker is gebonden aan een maximum aantal te verzenden berichten"
+
+#: pntemplates/communicator_admin_settings.htm:25
+msgid "Messages"
+msgstr "Berichten"
+
+#: pntemplates/communicator_admin_settings.htm:26
+msgid ""
+"Please note: Mails that are sent to buddies (ContactList module) will not be "
+"included into the spam guard calculation!"
+msgstr ""
+"N.B.: Berichten aan (ContactList) buddies zullen niet in de Spam controle "
+"meegenomen worden!"
+
+#: pntemplates/communicator_admin_settings.htm:28
+msgid "Popup Notification"
+msgstr "Popup notificatie"
+
+#: pntemplates/communicator_admin_settings.htm:30
+msgid ""
+"If you want your users to be informed about new messages with an upcoming "
+"ajax notification please put the following code inside your theme templates "
+"- best place is before the body tag closes."
+msgstr ""
+"Indien de gebruikers geïnformeerd dienen te worden bij nieuwe berichten "
+"middels een AJAX notificatie, zet dan de volgende code in de theme templates "
+"- bij voorkeur voordat de body tag is gesloten."
+
+#: pntemplates/communicator_admin_settings.htm:36
+msgid ""
+"You do not need any clean up or repair functions for this module. This "
+"module will do a daily self-check and orphan messages will be deleted "
+"automatically. Just have fun with the module."
+msgstr ""
+"Er zijn geen opschoon- of reparatie functies nodig voor deze module. "
+"Dagelijks wordt er een interne controle uitgevoerd en zullen berichten "
+"zonder eigenaar verwijderd worden. Veel plezier met deze module."
+
+#: pntemplates/communicator_admin_settings.htm:37
+msgid ""
+"You like the module? Help us to keep this module up to date for the future, "
+"click here and donate some cents!"
+msgstr ""
+"Bevalt de module? Help ons de module actueel en toekomst voorbereid te "
+"houden en klik hier voor een donatie!"
+
+#: pntemplates/communicator_admin_settings.htm:40
+msgid "Store configuration"
+msgstr "Configuratie opslaan"
+
+#: pntemplates/communicator_output_messages_list.htm:46
+msgid "Folder is empty - no message found!"
+msgstr "Map is leeg - geen bericht gevonden!"
+
+#: pntemplates/communicator_email_receipt.htm:5
+msgid ""
+"This message was generated by the mail system. The user sending this mail "
+"has read the following message you sent to this user."
+msgstr ""
+"Dit bericht is gegenereerd door het berichten systeem. De gebruiker van wie "
+"deze leesbevestiging afkomstig is, heeft onderstaand bericht gelezen."
+
+#: pntemplates/communicator_email_receipt.htm:8
+msgid "Message was read at"
+msgstr "Bericht gelezen op"
+
+#~ msgid "Unread Messages Block"
+#~ msgstr "Ongelezen berichten blok"
+
+#~ msgid "Maintenance"
+#~ msgstr "Onderhoud"
+
+#~ msgid "Do not use automatical included clean up."
+#~ msgstr "Schakel de automatische opschoon- en reparatie functionaliteit uit"
+
+#~ msgid "You have new mail"
+#~ msgstr "Er is een nieuw bericht"
+
+#~ msgid "You have %s unread message(s) in your inbox folder."
+#~ msgstr "Er is/zijn %s ongelezen bericht(en) in het Postvak In."
+
+#~ msgid "...read messages now!"
+#~ msgstr "... nu lezen!"

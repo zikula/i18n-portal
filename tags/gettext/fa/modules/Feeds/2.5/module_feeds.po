@@ -1,0 +1,409 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-20 10:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.5.1\n"
+
+#: pnadmin.php:44 pnadmin.php:120 pnadmin.php:266 pnuserapi.php:81
+#: pnuser.php:30 pnuser.php:77 pnuser.php:295
+#, php-format
+msgid "Error! Unable to load class [%s]"
+msgstr "خطا! نمی توانم کلاس [%s] را بارگذاری کنم"
+
+#: pnadmin.php:83
+msgid "Done! Feed created."
+msgstr "انجام شد! فید ایجاد شد."
+
+#: pnadmin.php:110 pnadmin.php:189 pnadminapi.php:78 pnadminapi.php:118
+msgid "No such Feed found."
+msgstr "هیچ فیدی یافت نشد."
+
+#: pnadmin.php:163
+msgid "Done! Feed updated."
+msgstr "انجام شد! فید به روز رسانی شد."
+
+#: pnadmin.php:222
+msgid "Done! Feed deleted."
+msgstr "انجام شد! فید حذف شد."
+
+#: pnadmin.php:248
+msgid "Purging of the pemalinks was successful"
+msgstr "پاک کردن لینک های ثابت با موفقیت انجام شد"
+
+#: pnadmin.php:250
+msgid "Purging of the pemalinks has failed"
+msgstr "پاک کردن لینک های ثابت شکست خورد"
+
+#: pnadmin.php:306
+msgid "Edit"
+msgstr "ویرایش"
+
+#: pnadmin.php:311
+msgid "Delete"
+msgstr "حذف"
+
+#: pnadmin.php:419
+msgid "Done! Module configuration updated."
+msgstr "انجام شد! پیکربندی ماژول به روز رسانی شد."
+
+#: pnversion.php:16 pninit.php:178 pntemplates/feeds_admin_menu.htm:5
+#: pntemplates/feeds_search_options.htm:5
+msgid "Feeds"
+msgstr "فیدها"
+
+#. ! this defines the module's url
+#: pnversion.php:18
+msgid "feeds"
+msgstr "feeds"
+
+#: pnversion.php:20 pninit.php:179
+msgid "Feed Reader."
+msgstr "فید خوان."
+
+#: pnsearchapi.php:69 pnsearchapi.php:96 pnuserapi.php:74
+msgid "Error! Could not load any Feed."
+msgstr "خطا! نمی توانم هیچ فیدی را بارگذاری کنم."
+
+#: pnblocks/displayfeed.php:30
+msgid "Display feed"
+msgstr "نمایش فید"
+
+#: pnblocks/displayfeed.php:31
+msgid "Show a feed item"
+msgstr "نمایش یک آیتم فید"
+
+#: pnuser.php:106 pnuser.php:286 pnuser.php:318
+msgid "Invalid category"
+msgstr "طبقه نامعتبر"
+
+#: pnuser.php:149 pnuser.php:327 pnuser.php:390
+#: pntemplates/feeds_admin_view.htm:75
+msgid "No Feeds found."
+msgstr "هیچ فیدی یافت نشد."
+
+#: pnuser.php:226
+msgid "Error! Could not load any Feeds."
+msgstr "خطا! نمی توانم هیچ فیدی را بارگذاری کنم."
+
+#: pnuser.php:384
+msgid "Incorrect Key given. No update performed."
+msgstr "کلید داده شده نادرست است. به روز رسانی اجرا نشد."
+
+#: pnuser.php:410
+msgid "Items updated in Feed cache"
+msgstr "آیتم های به روز رسانی شده در کاشه فید"
+
+#: pnuser.php:412
+msgid "Error"
+msgstr "خطا"
+
+#: pnadminapi.php:35 pnadminapi.php:131
+msgid "The provided URL is too long (200 chars max.)."
+msgstr ""
+"URL فراهم شده بلند است (نهایت تا ۲۰۰ کاراکتر). فراهم شده طولانی است (حداکثر "
+"تا ۲۰۰ کاراکتر)."
+
+#: pnadminapi.php:41 pnadminapi.php:137
+msgid "Invalid protocol selected. Only http and https are allowed."
+msgstr "پروتکل نامعتبری انتخاب شده است. فقط HTTP و HTTPS مجاز هستند."
+
+#: pnadminapi.php:50
+msgid "Error! Creation attempt failed."
+msgstr "خطا! تلاش برای ایجاد شکست خورد."
+
+#: pnadminapi.php:87
+msgid "Error! Deletion attempt failed."
+msgstr "خطا! تلاش برای حذف شکست خورد."
+
+#: pnadminapi.php:146 pninit.php:85 pninit.php:92 pninit.php:105
+#: pninit.php:116
+msgid "Error! Update attempt failed."
+msgstr "خطا! تلاش برای به روز رسانی شکست خورد."
+
+#: pnadminapi.php:220 pntemplates/feeds_admin_view.htm:3
+msgid "View Feeds"
+msgstr "مشاهده فیدها"
+
+#: pnadminapi.php:223 pntemplates/feeds_admin_new.htm:2
+msgid "Create a Feed"
+msgstr "ایجاد فید"
+
+#: pnadminapi.php:226
+msgid "Purge PermaLinks"
+msgstr "پاک کردن لینک های ثابت"
+
+#: pnadminapi.php:227 pntemplates/feeds_admin_modifyconfig.htm:6
+#: pntemplates/feeds_admin_modifyconfig.htm:8
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: pninit.php:44
+msgid ""
+"Warning! Could not create the default Feeds category tree. If you want to "
+"use categorisation with Feeds, register at least one property for the module "
+"in the Category Registry."
+msgstr ""
+"اخطار! نمی توانم طبقه پیش فرض  درخت ماژول Feeds را ایجاد کنم. اگر شما می "
+"خواهید از طبقه بندی ها برای ماژول Feeds استفاده کنید, حداقل یک ویژگی برای "
+"ماژول در بخش طبقات ایجاد کنید."
+
+#: pntemplates/feeds_user_view.htm:8
+#, php-format
+msgid "Welcome to the Feeds of %s"
+msgstr "به فیدهای %s خوش آمدید"
+
+#: pntemplates/feeds_user_view.htm:11
+msgid "Choose a category to see the Feeds that belongs to it"
+msgstr "یک طبقه را برای دیدن فیدهای وابسته به آن انتخاب کنید"
+
+#: pntemplates/feeds_user_view.htm:29 pntemplates/feeds_user_category.htm:11
+#: pntemplates/feeds_user_category.htm:13
+#, php-format
+msgid "Category: %s"
+msgstr "طبقه: %s"
+
+#: pntemplates/feeds_user_view.htm:32
+msgid "The Feeds of this category are as follows:"
+msgstr "فیدهای این طبقه به شرح زیر است:"
+
+#: pntemplates/feeds_user_view.htm:34
+msgid "View all feeds"
+msgstr "نمایش همه فیدها"
+
+#: pntemplates/feeds_user_view.htm:37
+msgid "Feeds list"
+msgstr "لیست فیدها"
+
+#: pntemplates/feeds_user_view.htm:40
+msgid "Available feeds"
+msgstr "فیدهای موجود"
+
+#: pntemplates/feeds_block_displayfeed_modify.htm:4
+#: pntemplates/feeds_user_display.htm:18
+msgid "Feed"
+msgstr "فید"
+
+#: pntemplates/feeds_block_displayfeed_modify.htm:11
+msgid "Display feed image"
+msgstr "نمایش تصویر فید"
+
+#: pntemplates/feeds_block_displayfeed_modify.htm:13
+#: pntemplates/feeds_block_displayfeed_modify.htm:19
+msgid "(if available in feed)"
+msgstr "(اگر در فید موجود باشد)"
+
+#: pntemplates/feeds_block_displayfeed_modify.htm:17
+msgid "Display feed description"
+msgstr "نمایش شرح فید"
+
+#: pntemplates/feeds_block_displayfeed_modify.htm:23
+msgid "Use alternate layout"
+msgstr "از طرح بندی جایگزین استفاده کن"
+
+#: pntemplates/feeds_block_displayfeed_modify.htm:28
+msgid "Number of items to display"
+msgstr "تعداد آیتم ها جهت نمایش"
+
+#: pntemplates/feeds_block_displayfeed_modify.htm:30
+msgid "(upto the maximum supplied by the feed or -1 for all items)"
+msgstr "(تا حداکثر مقدار فراهم شده بوسیله فید یا 1- برای نمایش همه آیتم ها)"
+
+#: pntemplates/feeds_admin_delete.htm:2
+msgid "Delete Feed"
+msgstr "حذف فید"
+
+#: pntemplates/feeds_admin_delete.htm:9
+msgid "Do you really want to delete this Feed?"
+msgstr "آیا شما واقعا می خواهید این فید را حذف کنید؟"
+
+#: pntemplates/feeds_admin_delete.htm:17
+msgid "Confirm deletion?"
+msgstr "حذف را تایید می کنید؟"
+
+#: pntemplates/feeds_admin_delete.htm:18 pntemplates/feeds_admin_modify.htm:64
+#: pntemplates/feeds_admin_new.htm:46
+#: pntemplates/feeds_admin_modifyconfig.htm:71
+msgid "Cancel"
+msgstr "انصراف"
+
+#: pntemplates/feeds_user_updatecache.htm:2
+msgid "Cache Updated"
+msgstr "کاشه به روز رسانی شد"
+
+#: pntemplates/feeds_admin_modify.htm:2
+msgid "Update Feed"
+msgstr "به روز رسانی فید"
+
+#: pntemplates/feeds_admin_modify.htm:16
+msgid "Content"
+msgstr "محتوا"
+
+#: pntemplates/feeds_admin_modify.htm:18 pntemplates/feeds_admin_new.htm:17
+#: pntemplates/feeds_admin_view.htm:47
+msgid "Name"
+msgstr "نام"
+
+#: pntemplates/feeds_admin_modify.htm:23 pntemplates/feeds_admin_new.htm:27
+#: pntemplates/feeds_admin_view.htm:15 pntemplates/feeds_admin_view.htm:50
+msgid "Category"
+msgstr "طبقه"
+
+#: pntemplates/feeds_admin_modify.htm:39 pntemplates/feeds_admin_new.htm:21
+msgid "PermaLink URL title"
+msgstr "عنوان لینک ثابت"
+
+#: pntemplates/feeds_admin_modify.htm:41 pntemplates/feeds_admin_new.htm:23
+msgid "(Blank = auto-generate)"
+msgstr "(خالی رها کردن = تولید خودکار)"
+
+#: pntemplates/feeds_admin_modify.htm:44 pntemplates/feeds_user_display.htm:21
+#: pntemplates/feeds_admin_new.htm:37 pntemplates/feeds_admin_view.htm:48
+msgid "URL"
+msgstr "URL"
+
+#: pntemplates/feeds_admin_modify.htm:49
+msgid "Meta data"
+msgstr "اطلاعات اضافی"
+
+#: pntemplates/feeds_admin_modify.htm:52
+#, php-format
+msgid "Created by %s"
+msgstr "ایجاد شده بوسیله %s"
+
+#: pntemplates/feeds_admin_modify.htm:53
+#, php-format
+msgid "Created on %s"
+msgstr "ایجاد شده در %s"
+
+#: pntemplates/feeds_admin_modify.htm:55
+#, php-format
+msgid "Last update by %s"
+msgstr "آخرین به روز رسانی بوسیله %s"
+
+#: pntemplates/feeds_admin_modify.htm:56
+#, php-format
+msgid "Updated on %s"
+msgstr "به روز رسانی شده در %s"
+
+#: pntemplates/feeds_admin_modify.htm:63
+msgid "Update"
+msgstr "به روز رسانی"
+
+#: pntemplates/feeds_user_display.htm:40
+#: pntemplates/feeds_user_category.htm:41
+#, php-format
+msgid "by %s"
+msgstr "به وسیله %s"
+
+#: pntemplates/feeds_user_display.htm:46
+#: pntemplates/feeds_user_category.htm:48
+msgid "Read more"
+msgstr "بیشتر بخوانید"
+
+#: pntemplates/feeds_admin_new.htm:14
+msgid "New Feed"
+msgstr "فید جدید"
+
+#: pntemplates/feeds_admin_new.htm:28 pntemplates/feeds_admin_view.htm:16
+msgid "Choose a category"
+msgstr "یک طبقه را انتخاب کنید"
+
+#: pntemplates/feeds_admin_new.htm:45
+msgid "Create"
+msgstr "ایجاد"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:14
+msgid "General Settings"
+msgstr "تنظیمات عمومی"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:16
+msgid "Enable categorization"
+msgstr "طبقه بندی فعال شود"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:20
+msgid "Display item names in bold"
+msgstr "نمایش نام آیتم ها بصورت تیره"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:24
+msgid "Open links in new browser window"
+msgstr "باز کردن لینک ها در پنجره جدید"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:28
+msgid "Items per page"
+msgstr "آیتم به ازای صفحه"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:32
+msgid "Number of feeds to list per page"
+msgstr "تعداد فیدها برای لیست شدن به ازای هر صفحه"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:36
+msgid "Maximum items to add per feed"
+msgstr "حدکثر آیتم ها برای اضافه کردن به ازای هر فید"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:38
+msgid "for combined feeds (0 to add all)"
+msgstr "برای فیدهای ترکیب شده (0 برای اضافه کردن همه)"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:42
+msgid "Cache Settings"
+msgstr "تنظیمات کاشه"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:44
+msgid "Cache directory for feeds"
+msgstr "پوشه کاشه برای فیدها"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:46
+msgid "(relative to pnTemp)"
+msgstr "(مرتبط با pnTemp)"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:49
+msgid "Cache interval for feeds"
+msgstr "وقفه کاشه برای فیدها به ثانیه"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:51
+msgid "in seconds (3600 = 1 hour)"
+msgstr "به ثانیه (3600= ا ساعت)"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:55
+msgid "Cron Job Settings"
+msgstr "تنظیمات Cron Job"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:57
+msgid "Using a Cron Job to update the cache"
+msgstr "از یک Cron Job برای به روز رسانی کاشه استفاده کن"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:59
+msgid "(see instructions)"
+msgstr "(دستورالعمل را ببینید)"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:62
+msgid "Link for using a Cron Job"
+msgstr "لینک برای استفاده از Cron Job"
+
+#: pntemplates/feeds_admin_modifyconfig.htm:70
+msgid "Save"
+msgstr "ذخیره"
+
+#: pntemplates/feeds_admin_view.htm:38
+msgid "Filter"
+msgstr "فیلتر"
+
+#: pntemplates/feeds_admin_view.htm:39
+msgid "Reset"
+msgstr "از نو"
+
+#: pntemplates/feeds_admin_view.htm:52
+msgid "Actions"
+msgstr " \tگزینه ها"

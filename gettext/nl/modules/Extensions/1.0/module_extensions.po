@@ -1,0 +1,4932 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-19 15:43-0500\n"
+"PO-Revision-Date: 2011-10-16 11:46+0200\n"
+"Last-Translator: bvdbos3 <bvdbos@gmail.coml>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: pnstatapi.php:261
+msgid "internal stat update problem occured"
+msgstr "intern probleem met statistieken bijwerken"
+
+#: pnstatapi.php:266 pnstatapi.php:431 pnstatapi.php:454 pnadmin.php:165
+#: pnuser.php:214 pnuser.php:781 pnuser.php:1031 pnuser.php:1150
+#: pnuser.php:1576 pnuser.php:1689 pnuser.php:1947 pnuser.php:2294
+#: pnuser.php:2564 pnuser.php:2637 pnuser.php:2655 pnuser.php:2751
+#: pnuser.php:2814 pnuser.php:3127 pnuser.php:3142 pnuser.php:3158
+#: pnuser.php:3162 pnuser.php:3220 pnuser.php:3243 pnuser.php:3300
+#: pnuser.php:4156 pnajax.php:38 pnajax.php:201 pnajax.php:428
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:96
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:193
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:77
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:166
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:406
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:91
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:175
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:376
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:654
+#: classes/FormHandler/Extensions_admin_globalEvent_edithandler.class.php:69
+#: classes/FormHandler/Extensions_admin_globalEvent_edithandler.class.php:165
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:77
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:169
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:215
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:491
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:544
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:93
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:148
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:305
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:549
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:639
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:99
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:154
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:444
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:807
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:898
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:991
+#: pntranslationapi.php:404 pntranslationapi.php:407 pntranslationapi.php:410
+#: common.php:544
+#: pntemplates/plugins/function.extensionsIsCurrentVersion.php:41
+#, php-format
+msgid "Error! Unable to load module class [%s]"
+msgstr "Fout! Kon module class [%s] niet laden"
+
+#: pnstatapi.php:437 pnstatapi.php:460 pnadmin.php:182 pnuser.php:805
+#: pnuser.php:1703 pnuser.php:1957 pnuser.php:2302 pnajax.php:144
+#: pnajax.php:288 pnajax.php:323 pnajax.php:442
+#: classes/PNComponentVersionArray.class.php:120
+#: classes/PNComponentVersionArray.class.php:127
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:224
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:500
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:553
+#: classes/PNComponentVersion.class.php:75
+#: classes/PNComponentVersion.class.php:82
+msgid "No such item found."
+msgstr "Geen overeenkomstig item gevonden."
+
+#: pnstatapi.php:437 pnstatapi.php:460 pnuser.php:792 pnuser.php:1038
+#: pnuser.php:1157 pnuser.php:1890 pnuser.php:1894 pnuser.php:1908
+#: pnuser.php:1926 pnuser.php:2094 pnuser.php:2241 pnuser.php:2423
+#: pnuser.php:2570 pnuser.php:2592 pnuser.php:2648 pnuser.php:2666
+#: pnuser.php:2679 pnajax.php:144 pnajax.php:288 pnajax.php:323
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:286
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:296
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:462
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:530
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:554
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:569
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:610
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:615
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:623
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:658
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:682
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:716
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:742
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:796
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:852
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:903
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:819
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1082
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1113
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1131
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1157
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1170
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1185
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1210
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1238
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1277
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1308
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1382
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1387
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1420
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1439
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:766
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:790
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:806
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:849
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:857
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:862
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:885
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:592
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:600
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:628
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:639
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:653
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1040
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1220
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1244
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1259
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1305
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1312
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1317
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1367
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1384
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1425
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1440
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1512
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1546
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1579
+#: pntranslationapi.php:116 pntranslationapi.php:144 pntranslationapi.php:301
+#: common.php:550 common.php:572
+#: pnrepositoryapi/renameVersionDirectories.php:52
+#: pnrepositoryapi/renameVersionDirectories.php:73
+#: pnrepositoryapi/renameVersionDirectories.php:83
+#: pnrepositoryapi/createTranslationRevision.php:49
+#: pnrepositoryapi/createTranslationRevision.php:63
+#: pnrepositoryapi/createTranslationRevision.php:75
+#: pnrepositoryapi/createTranslationRevision.php:83
+#: pnrepositoryapi/createTranslationRevision.php:109
+#: pnrepositoryapi/createWorkingDirectory.php:35
+#: pnrepositoryapi/createWorkingDirectory.php:50
+#: pnrepositoryapi/deleteVersionDirectories.php:49
+#: pnrepositoryapi/deleteVersionDirectories.php:68
+#: pnrepositoryapi/deleteVersionDirectories.php:74
+#: pnrepositoryapi/deleteVersionDirectories.php:80
+#: pnrepositoryapi/revertTranslationRevision.php:39
+#: pnrepositoryapi/revertTranslationRevision.php:45
+#: pnrepositoryapi/revertTranslationRevision.php:63
+#: pnrepositoryapi/moveArchiveContent.php:47
+#: pnrepositoryapi/moveArchiveContent.php:55
+#: pnrepositoryapi/moveArchiveContent.php:59
+#, php-format
+msgid "Code %s"
+msgstr "Code %s"
+
+#: pnstatapi.php:565 pnstatapi.php:766 pnadmin.php:75
+#: pnblocks/listobjects.php:100 pnuser.php:77 pnuser.php:273 pnuser.php:1237
+#: pnuser.php:1401 pnuser.php:1637 pnuser.php:2170 pnuser.php:2346
+#: pnuser.php:3066 pnajax.php:42 pnajax.php:205
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:443
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:374
+#: classes/FormHandler/Extensions_user_myoptionsHandler.class.php:107
+#: classes/FormHandler/Extensions_user_myoptionsHandler.class.php:122
+#: classes/FormHandler/Extensions_user_myoptionsHandler.class.php:137
+#: classes/FormHandler/Extensions_user_myoptionsHandler.class.php:152
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:402
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:142
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:185
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:224
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:247
+#: common.php:381 pntemplates/plugins/function.extProfileInfo.php:104
+#, php-format
+msgid "Error! Unable to load module array class [%s]"
+msgstr "Fout! Kon module array class [%s] niet laden"
+
+#: pnadmin.php:174 pnuser.php:792 pnuser.php:1038 pnuser.php:1157
+#: pnuser.php:1698 pnuser.php:4163
+#, php-format
+msgid "Invalid %1$s [%2$s] received"
+msgstr "Ongeldig %1$s [%2$s] ontvangen"
+
+#: pnblocks/listobjects.php:37
+msgid "ListObjects"
+msgstr "ListObjects"
+
+#: pnblocks/listobjects.php:38
+msgid "Show a list of components or distributions"
+msgstr "Toon een lijst met componenten of distributies"
+
+#: pnuser.php:61 pnuser.php:719 pnuser.php:741 pnsearchapi.php:74
+#: pnsearchapi.php:103 pntranslationapi.php:191 pntranslationapi.php:400
+#: pntranslationapi.php:505
+msgid "Error! Could not load any items."
+msgstr "Fout! Kon geen items laden."
+
+#: pnuser.php:147 pnuser.php:646 pnuser.php:868 pnuser.php:2867
+#: pnuser.php:3094
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:67
+msgid "Module"
+msgstr "Module"
+
+#: pnuser.php:148 pnuser.php:647 pnuser.php:869 pnuser.php:2868
+#: pnuser.php:3095
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:68
+msgid "Theme"
+msgstr "Thema"
+
+#: pnuser.php:149 pnuser.php:648 pnuser.php:870 pnuser.php:2869
+#: pnuser.php:3096
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:69
+msgid "Block"
+msgstr "Blok"
+
+#: pnuser.php:150 pnuser.php:649 pnuser.php:871 pnuser.php:2870
+#: pnuser.php:3097
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:70
+msgid "Plugin"
+msgstr "Plugin"
+
+#: pnuser.php:151 pnuser.php:650 pnuser.php:872 pnuser.php:2871
+#: pnuser.php:3098
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:71
+msgid "Other Resource"
+msgstr "Andere bron"
+
+#: pnuser.php:153 pnuser.php:619 pnuser.php:885 pnuser.php:894
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:75
+#: pntemplates/Extensions_user_stats.htm:87
+#: pntemplates/Extensions_user_component_view.htm:80
+#: pntemplates/Extensions_user_component_view.htm:92
+#: pntemplates/Extensions_user_componentVersion_edit.htm:226
+#: pntemplates/Extensions_user_componentVersion_edit.htm:231
+#: pntemplates/Extensions_user_search.htm:92
+#: pntemplates/Extensions_user_search.htm:105
+#: pntemplates/Extensions_user_search.htm:185
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:128
+msgid "All"
+msgstr "Allemaal"
+
+#: pnuser.php:154 pnuser.php:620 pnuser.php:895
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:76
+#: pntemplates/Extensions_user_component_view.htm:93
+#: pntemplates/Extensions_user_search.htm:106
+msgid "Beginner"
+msgstr "Beginner"
+
+#: pnuser.php:155 pnuser.php:621 pnuser.php:896
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:77
+#: pntemplates/Extensions_user_component_view.htm:94
+#: pntemplates/Extensions_user_search.htm:107
+msgid "Advanced"
+msgstr "Gevorderd"
+
+#: pnuser.php:156 pnuser.php:622 pnuser.php:897
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:78
+#: pntemplates/Extensions_user_component_view.htm:95
+#: pntemplates/Extensions_user_search.htm:108
+msgid "Expert"
+msgstr "Expert"
+
+#: pnuser.php:157 pnuser.php:623 pnuser.php:898
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:79
+#: pntemplates/Extensions_user_component_view.htm:96
+#: pntemplates/Extensions_user_search.htm:109
+msgid "Administrator"
+msgstr "Beheerder"
+
+#: pnuser.php:158 pnuser.php:624 pnuser.php:899
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:80
+#: pntemplates/Extensions_user_component_view.htm:97
+#: pntemplates/Extensions_user_search.htm:110
+msgid "Developer"
+msgstr "Ontwikkelaar"
+
+#: pnuser.php:510 pnuser.php:513 pnuser.php:678
+#, php-format
+msgid "Error! Unable to load class [%s]"
+msgstr "Fout! Kon class [%s] niet laden"
+
+#: pnuser.php:587 pnuser.php:930 pnuser.php:1098 pnuser.php:1344
+msgid "System layer"
+msgstr "Systeem laag"
+
+#: pnuser.php:588 pnuser.php:931 pnuser.php:1099 pnuser.php:1345
+msgid "Application layer"
+msgstr "Applicatie laag"
+
+#: pnuser.php:589 pnuser.php:932 pnuser.php:1100 pnuser.php:1346
+msgid "Functionality layer"
+msgstr "Functionaliteits laag"
+
+#: pnuser.php:590 pnuser.php:933 pnuser.php:1101 pnuser.php:1347
+#: pntemplates/Extensions_user_wizard.htm:115
+msgid "Theme type"
+msgstr "Thema soort"
+
+#: pnuser.php:591 pnuser.php:934 pnuser.php:1102 pnuser.php:1348
+#: pntemplates/Extensions_user_wizard.htm:118
+msgid "Resource type"
+msgstr "Bron soort"
+
+#: pnuser.php:592 pnuser.php:593 pnuser.php:935 pnuser.php:936 pnuser.php:1103
+#: pnuser.php:1104 pnuser.php:1349 pnuser.php:1350
+#: pntemplates/Extensions_user_wizard.htm:75
+#: pntemplates/Extensions_user_wizard.htm:112
+msgid "License"
+msgstr "Licentie"
+
+#: pnuser.php:594 pnuser.php:937 pnuser.php:1105 pnuser.php:1351
+msgid "Distribution type"
+msgstr "Distributie type"
+
+#: pnuser.php:595 pnuser.php:938 pnuser.php:1106 pnuser.php:1352
+#: classes/FormHandler/Extensions_user_myoptionsHandler.class.php:196
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:291
+msgid "Project type"
+msgstr "Project type"
+
+#: pnuser.php:599 pnuser.php:856
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:84
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:315
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:65
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:278
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:275
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:453
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:690
+msgid "To approve"
+msgstr "Goedkeuren"
+
+#: pnuser.php:600 pnuser.php:857
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:316
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:279
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:276
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:76
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:454
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:83
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:691
+msgid "To review"
+msgstr "Beoordelen"
+
+#: pnuser.php:601 pnuser.php:858
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:85
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:317
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:66
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:280
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:277
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:77
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:455
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:84
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:692
+msgid "Normal"
+msgstr "Normaal"
+
+#: pnuser.php:602 pnuser.php:859
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:86
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:318
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:67
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:281
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:278
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:78
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:456
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:85
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:693
+#: pntemplates/Extensions_user_componentVersion_edit.htm:239
+#: pntemplates/Extensions_user_componentVersion_edit.htm:323
+#: pntemplates/Extensions_include_component_dependencyVersion.htm:3
+#: pntemplates/Extensions_include_dependencyVersion.htm:3
+msgid "Recommended"
+msgstr "Aanbevolen"
+
+#: pnuser.php:603 pnuser.php:860
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:87
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:319
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:68
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:282
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:279
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:79
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:457
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:86
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:694
+msgid "Obsolete"
+msgstr "Verouderd"
+
+#: pnuser.php:604 pnuser.php:861
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:88
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:320
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:69
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:283
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:280
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:80
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:458
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:87
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:695
+msgid "Insecure"
+msgstr "Onveilig"
+
+#: pnuser.php:605 pnuser.php:862
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:89
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:321
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:70
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:284
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:281
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:81
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:459
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:88
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:696
+msgid "To adopt"
+msgstr "Aannemen"
+
+#: pnuser.php:606 pnuser.php:863
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:90
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:322
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:71
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:285
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:282
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:82
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:460
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:89
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:697
+#: pntemplates/Extensions_include_report_issue.htm:16
+msgid "Archive broken"
+msgstr "Archief beschadigd"
+
+#: pnuser.php:607 pnuser.php:864
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:323
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:286
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:283
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:83
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:461
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:90
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:698
+msgid "Install checked"
+msgstr "Installatie gecontroleerd"
+
+#: pnuser.php:611 pnversion.php:17 pnversion.php:19
+#: pntemplates/plugins/function.extProfileInfo.php:46
+#: pntemplates/Extensions_user_main.htm:43
+#: pntemplates/Extensions_user_header.htm:24
+#: pntemplates/Extensions_user_package_checkout.htm:60
+#: pntemplates/Extensions_user_component_view.htm:137
+#: pntemplates/Extensions_user_package_view.htm:45
+#: pntemplates/Extensions_block_listobjects_modify.htm:5
+#: pntemplates/Extensions_user_distribution_display.htm:183
+#: pntemplates/Extensions_user_myoptions.htm:138
+msgid "Extensions"
+msgstr "Extensies"
+
+#: pnuser.php:612 pnuser.php:886
+#: classes/FormHandler/Extensions_user_myoptionsHandler.class.php:202
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:303
+#: pntemplates/Extensions_user_main.htm:44
+#: pntemplates/Extensions_user_stats.htm:88
+#: pntemplates/Extensions_user_component_view.htm:81
+#: pntemplates/Extensions_user_search.htm:93
+#: pntemplates/Extensions_block_listobjects_modify.htm:6
+msgid "Modules"
+msgstr "Modules"
+
+#: pnuser.php:613 pnuser.php:887
+#: classes/FormHandler/Extensions_user_myoptionsHandler.class.php:205
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:309
+#: pntemplates/Extensions_user_main.htm:45
+#: pntemplates/Extensions_user_stats.htm:89
+#: pntemplates/Extensions_user_component_view.htm:82
+#: pntemplates/Extensions_user_search.htm:94
+#: pntemplates/Extensions_block_listobjects_modify.htm:7
+msgid "Themes"
+msgstr "Thema's"
+
+#: pnuser.php:614 pnuser.php:888
+#: classes/FormHandler/Extensions_user_myoptionsHandler.class.php:208
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:315
+#: pntemplates/Extensions_user_main.htm:46
+#: pntemplates/Extensions_user_stats.htm:90
+#: pntemplates/Extensions_user_component_view.htm:83
+#: pntemplates/Extensions_user_search.htm:95
+#: pntemplates/Extensions_block_listobjects_modify.htm:8
+msgid "Blocks"
+msgstr "Blokken"
+
+#: pnuser.php:615 pnuser.php:889
+#: classes/FormHandler/Extensions_user_myoptionsHandler.class.php:211
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:321
+#: pntemplates/Extensions_user_main.htm:47
+#: pntemplates/Extensions_user_stats.htm:91
+#: pntemplates/Extensions_user_component_view.htm:84
+#: pntemplates/Extensions_user_search.htm:96
+#: pntemplates/Extensions_block_listobjects_modify.htm:9
+msgid "Plugins"
+msgstr "Plugins"
+
+#: pnuser.php:616 pnuser.php:890 pntemplates/Extensions_user_main.htm:48
+#: pntemplates/Extensions_user_stats.htm:92
+#: pntemplates/Extensions_user_component_view.htm:85
+#: pntemplates/Extensions_user_search.htm:97
+#: pntemplates/Extensions_block_listobjects_modify.htm:10
+msgid "Resources"
+msgstr "Bronnen"
+
+#: pnuser.php:903
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:310
+#: pntemplates/Extensions_user_search.htm:198
+msgid "Uses no categories"
+msgstr "Gebruikt geen categorieën"
+
+#: pnuser.php:904
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:311
+#: pntemplates/Extensions_user_search.htm:199
+msgid "Uses own categories"
+msgstr "Gebruikt eigen categorieën"
+
+#: pnuser.php:905
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:312
+#: pntemplates/Extensions_user_search.htm:200
+msgid "Uses core categories"
+msgstr "Gebruikt core categorieën"
+
+#: pnuser.php:1075
+msgid "Error! Unknown component type"
+msgstr "Fout! Onbekend component type"
+
+#: pnuser.php:1109
+msgid "In which section the module is from the administrative perspective?"
+msgstr "In welke sectie de module is vanuit beheer oogpunt?"
+
+#: pnuser.php:1110
+msgid "How can the module be categorized semantically?"
+msgstr "Hoe kan de module in een categorie met woorden beschreven worden?"
+
+#: pnuser.php:1111
+msgid ""
+"This field is intended for developers and shows to which technical area a "
+"module belongs.<ul><li><strong>Core</strong>: modules being very close at "
+"the core</li><li><strong>Shared</strong>: modules offering services to "
+"others  (e.g. Thumbnails, EZComments, MediaAttach)</li><li><strong>Basic</"
+"strong>: modules processing simple tasks (e.g. News, Pages)</"
+"li><li><strong>Medium</strong>: modules being more powerful (e.g. Downloads, "
+"Mediashare)</li><li><strong>Complex</strong>: modules realizing "
+"comprehensive use cases (e.g. Content, PageMaster)</li></ul>"
+msgstr ""
+"Dit veld is bedoeld voor ontwikkelaars en toont bij welk technisch gebied "
+"een module hoort.<ul><li><strong>Core</strong>: modules die vlakbij de core "
+"horen</li><li><strong>Gedeeld</strong>: modules die andere modules voorzien "
+"van services  (bijv. Thumbnails, EZComments, MediaAttach)</"
+"li><li><strong>Eenvoudig</strong>: modules die eenvoudige taken uitvoeren "
+"(bijv. News, Pages)</li><li><strong>Gemiddeld</strong>: modules die "
+"krachtiger zijn (bijv. Downloads, Mediashare)</li><li><strong>Complex</"
+"strong>: modules die  uitgebreide toepassingen kennen (bijv. Content, "
+"PageMaster)</li></ul>"
+
+#: pnuser.php:1112
+msgid "Please choose which theme engine is being used."
+msgstr "Kies welke thema engine gebruikt wordt."
+
+#: pnuser.php:1113
+msgid "Please choose the resource type."
+msgstr "Kies het bron type."
+
+#: pnuser.php:1114
+msgid ""
+"Here you can define the licence under which the extension is being released."
+msgstr ""
+"Hier is te omschrijven onder welke licentie de extensie wordt uitgegeven."
+
+#: pnuser.php:1115
+msgid ""
+"Here you can define the licence under which the distribution is being "
+"released."
+msgstr ""
+"Hier is het mogelijk om te omschrijven onder welke licentie de distributie "
+"wordt uitgegeven."
+
+#: pnuser.php:1116
+msgid "Please choose the distribution type."
+msgstr "Kies een distributietype."
+
+#: pnuser.php:1117
+msgid "What type is your project of?"
+msgstr "Van welk soort is het project?"
+
+#: pnuser.php:1184
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:286
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:296
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:251
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:621
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:925
+#: classes/FormHandler/Extensions_admin_globalEvent_edithandler.class.php:217
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:256
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:429
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:592
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:600
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:628
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:639
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:653
+#: pnrepositoryapi/renameVersionDirectories.php:52
+#: pnrepositoryapi/renameVersionDirectories.php:73
+#: pnrepositoryapi/renameVersionDirectories.php:83
+#: pnrepositoryapi/deleteVersionDirectories.php:49
+msgid "Error! Update attempt failed."
+msgstr "Fout! Opwaardeerpoging mislukte."
+
+#: pnuser.php:1188 pntemplates/Extensions_admin_stat_view.htm:74
+#: pntemplates/Extensions_user_component_edit.htm:153
+#: pntemplates/Extensions_user_stat_view.htm:73
+msgid "Extension"
+msgstr "Extensie"
+
+#: pnuser.php:1188 pnuser.php:1191
+#, php-format
+msgid "Done! %s updated."
+msgstr "Klaar! %s opgewaardeerd."
+
+#: pnuser.php:1191
+#: classes/FormHandler/Extensions_user_myoptionsHandler.class.php:199
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:297
+#: pntemplates/Extensions_user_distributionVersion_display.htm:23
+#: pntemplates/Extensions_user_package_checkout.htm:56
+#: pntemplates/Extensions_user_package_view.htm:37
+#: pntemplates/Extensions_user_distribution_edit.htm:93
+msgid "Distribution"
+msgstr "Distributie"
+
+#: pnuser.php:1745
+#, php-format
+msgid "The extension '%s' has been added to your download selection."
+msgstr "De extensie '%s' is toegevoegd aan de download selectie."
+
+#: pnuser.php:1747
+#, php-format
+msgid "The extension '%s' has been removed from your download selection."
+msgstr "De extensie '%s' is verwijderd uit de download selectie."
+
+#: pnuser.php:1753
+#, php-format
+msgid ""
+"The distribution '%s' has been added to your download selection. Please "
+"notice that you can only have one distribution in your selection at once."
+msgstr ""
+"De distributie '%s' is toegevoegd aan de download selectie. Merk op dat er "
+"slechts 1 distributie tegelijk in de selectie kan zijn."
+
+#: pnuser.php:1755
+#, php-format
+msgid "The distribution '%s' has been removed from your download selection."
+msgstr "De distributie '%s' is verwijderd uit de download selectie."
+
+#: pnuser.php:1762
+#, php-format
+msgid ""
+"The version \"%1$s\" of the extension \"%2$s\" has been added to your "
+"download selection."
+msgstr ""
+"De versie \"%1$s\" van de extensie \"%2$s\" is toegevoegd aan de download "
+"selectie."
+
+#: pnuser.php:1764
+#, php-format
+msgid "The extension \"%s\" has been removed from your download selection."
+msgstr "De extensie \"%s\" is verwijderd uit de download selectie."
+
+#: pnuser.php:1771
+#, php-format
+msgid ""
+"The version \"%1$s\" of the distribution \"%2$s\" has been added to your "
+"download selection. Please notice that you can only have one distribution in "
+"your selection at once."
+msgstr ""
+"De versie \"%1$s\" van de distributie \"%2$s\" is toegevoegd aan de download "
+"selectie. Merk op dat er slechts 1 distributie tegelijk in de selectie kan "
+"zijn."
+
+#: pnuser.php:1773
+#, php-format
+msgid "The distribution \"%s\" has been removed from your download selection."
+msgstr "De distributie '%s' is verwijderd uit de download selectie."
+
+#: pnuser.php:1778
+msgid "Success"
+msgstr "Gelukt"
+
+#: pnuser.php:1890 pnuser.php:1894 pnuser.php:1908 pnuser.php:1926
+#: pnuser.php:2094 pnuser.php:2241 pnuser.php:2423 pnuser.php:2570
+#: pnuser.php:2592 common.php:550 common.php:572
+#, php-format
+msgid "Internal error occured. %s. Please contact an administrator."
+msgstr "Interne fout opgetreden. %s. Licht de beheerder in."
+
+#: pnuser.php:1973
+#, php-format
+msgid "You already selected the distribution \"%s\"."
+msgstr "Ditributie \"%s\" is al geselecteerd."
+
+#: pnuser.php:1978
+#, php-format
+msgid ""
+"You already selected another distribution. Please remove this from your "
+"selection before you add the distribution \"%s\"."
+msgstr ""
+"Er werd al een andere distributie geselecteerd. Haal deze uit de selectie "
+"voor het toevoegen van distributie \"%s\"."
+
+#: pnuser.php:2008
+#, php-format
+msgid "You already selected the extension \"%s\"."
+msgstr "Extensie  \"%s\" is al geselecteerd."
+
+#: pnuser.php:2648 pnuser.php:2666 pnuser.php:2679
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:232
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:205
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:902
+#: classes/FormHandler/Extensions_admin_globalEvent_edithandler.class.php:188
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:205
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:356
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:503
+msgid "Error! Creation attempt failed."
+msgstr "Fout! Aanmaak poging mislukt."
+
+#: pnuser.php:2684
+msgid ""
+"Your pack has been saved successfully. You can find it via the menu entry "
+"\"My Options\" and load it again into your selection."
+msgstr ""
+"Het pakket is opgeslagen. Het is in het menu te vinden onder menuonderdeel "
+"\"Mijn instellingen\" an opnieuw in de selectie te laden."
+
+#: pnuser.php:2721
+msgid "Your download selection has been emptied."
+msgstr "De download selectie is geleegd."
+
+#: pnuser.php:2786
+msgid "You pack has been loaded into your selection successfully."
+msgstr "Het pakket is met succes in de selectie geladen."
+
+#: pnuser.php:2832
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:371
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:311
+#: classes/FormHandler/Extensions_admin_globalEvent_edithandler.class.php:254
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:333
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:527
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:773
+#: pnrepositoryapi/deleteVersionDirectories.php:68
+#: pnrepositoryapi/deleteVersionDirectories.php:74
+#: pnrepositoryapi/deleteVersionDirectories.php:80
+msgid "Error! Deletion attempt failed."
+msgstr "Fout! Wis poging mislukt."
+
+#: pnuser.php:2835
+msgid "Your pack has been removed."
+msgstr "Het pakket is verwijderd."
+
+#: pnuser.php:3041
+msgid "There are conflicts pending to solve"
+msgstr "Er zijn nog hangende conflicten op te losssen"
+
+#: pnuser.php:3072
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:232
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:255
+#: pntemplates/Extensions_user_component_display.htm:220
+#: pntemplates/Extensions_user_search.htm:159
+#: pntemplates/Extensions_user_distribution_display.htm:168
+msgid "not supported"
+msgstr "niet ondersteund"
+
+#: pnuser.php:3072
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:232
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:255
+#: pntemplates/Extensions_user_component_display.htm:220
+#: pntemplates/Extensions_user_search.htm:159
+#: pntemplates/Extensions_user_distribution_display.htm:168
+msgid "supported"
+msgstr "ondersteund"
+
+#: pnuser.php:3356
+msgid "The package could not be built properly"
+msgstr "Het pakket kon niet goed gebouwd worden"
+
+#: pnuser.php:3465 pnuser.php:3976
+#, php-format
+msgid "The [%s] language is not supported by the i18n project"
+msgstr "Taal [%s] wordt niet ondersteund door het i18n project"
+
+#: pnuser.php:3619
+#, php-format
+msgid "%1$s transtalable stuff synced for Zikula v%2$s."
+msgstr "%1$s vertaalbare tekenreeksen gesynced voor Zikula v%2$s."
+
+#: pnuser.php:3624
+#, php-format
+msgid "%1$s translation files for %2$s versions of the core synced."
+msgstr "%1$s vertaalbestanden voor %2$s versies van de core gesynced."
+
+#: pnuser.php:3634
+#, php-format
+msgid ""
+"Invalid module specified or the %1$s translation does not exist for %2$s"
+msgstr "Ongeldige module opgegeven of de %1$s vertaling bestaat niet voor %2$s"
+
+#: pnuser.php:3681 pnuser.php:3797
+#, php-format
+msgid "%1$s translation files for %2$s v%3$s synced."
+msgstr "%1$s vertaal bestanden voor %2$s v%3$s gesynced."
+
+#: pnuser.php:3735
+#, php-format
+msgid "%1$s transtalable stuff synced for %2$s v%3$s."
+msgstr "%1$s vertaalbare tekenreeksen gesynced voor %2$s v%3$s."
+
+#: pnuser.php:3741
+#, php-format
+msgid "%1$s translation files for %3$s versions of the %2$s module synced."
+msgstr ""
+"%1$s vertaalbare bestanden voor %3$s versies van de %2$s module gesynced."
+
+#: pnuser.php:3751
+#, php-format
+msgid "Invalid theme specified or the %1$s translation does not exist for %2$s"
+msgstr "Ongeldig thema opgegeven of de  %1$s vertaling bestaat niet voor %2$s"
+
+#: pnuser.php:3805
+#, php-format
+msgid "%1$s translation files for %3$s versions of the %2$s theme synced."
+msgstr "%1$s vertaalde bestanden voor %3$s versies van %2$s thema gesynced."
+
+#: pnuser.php:3839
+#, php-format
+msgid ""
+"Could not insert the core translation registries for the following versions: "
+"%s"
+msgstr ""
+"Kon de Core vertaling registers voor de volgende versies niet invoegen: %s"
+
+#: pnuser.php:3841
+#, php-format
+msgid "The %1$s core translations found were added to the database."
+msgstr "De %1$s gevonden Core vertalingen zijn aan de database toegevoegd."
+
+#: pnuser.php:3876
+msgid "Could not insert one or more modules translation registries"
+msgstr "Kon 1 of meer module vertaal registers niet invoegen"
+
+#: pnuser.php:3878 pnuser.php:3915
+#, php-format
+msgid "The %1$s translations found were added to the database."
+msgstr "De %1$s gevonden vertaling(en) zijn toegevoegd aan de database."
+
+#: pnuser.php:3913
+msgid "Could not insert one or more themes translation registries"
+msgstr "Kon 1 of meer thema vertaling registers niet invoegen."
+
+#: pnuser.php:3922
+#, php-format
+msgid "%s language synced with the core, modules and themes successfully."
+msgstr "Taal %s succesvol gesynchroniseerd met de Core, modules en thema's."
+
+#: pnuser.php:3925
+#, php-format
+msgid "%s language was processed but some problems occured."
+msgstr ""
+
+#: pnuser.php:3929
+#, php-format
+msgid "There were no translations for the %s language in the i18n project."
+msgstr ""
+
+#: pnuser.php:3956 pnuser.php:3995
+msgid "Invalid component specified."
+msgstr ""
+
+#: pnuser.php:4068
+#, php-format
+msgid "%1$s translation files for %2$s v%3$s removed."
+msgstr "%1$s vertaal bestanden voor %2$s v%3$s verwijderd."
+
+#: pnuser.php:4080
+#, php-format
+msgid "%1$s transtalable stuff for %2$s v%3$s removed."
+msgstr "%1$s vertaal bestanden voor %2$s v%3$s verwijderd."
+
+#: pnuser.php:4102
+msgid "Could not delete one or more translation registries"
+msgstr "Kon 1 of meer vertaling registers niet verwijderen."
+
+#: pnuser.php:4104
+#, php-format
+msgid "The %1$s translations found were removed from the database."
+msgstr "De %1$s gevonden vertaling(en) zijn verwijderd uit de database."
+
+#: pnuser.php:4110
+#, php-format
+msgid "%s language removal was processed but some problems occured."
+msgstr ""
+
+#: pnuser.php:4114
+#, php-format
+msgid "There were no translations for the %s language."
+msgstr ""
+
+#: pnuser.php:4174
+msgid "broken archive"
+msgstr ""
+
+#: pnuser.php:4175
+msgid "broken translation"
+msgstr ""
+
+#: pnuser.php:4176
+msgid "general problem"
+msgstr ""
+
+#: pnuser.php:4177 pnuser.php:4179
+#, php-format
+msgid "%1$s reported a %2$s with %3$s."
+msgstr ""
+
+#: pnuser.php:4178
+#, php-format
+msgid "Hi %s."
+msgstr ""
+
+#: pnuser.php:4181
+msgid "Here are the details:"
+msgstr ""
+
+#: pnuser.php:4183
+msgid ""
+"This mail has been sent automatically by the Zikula Extension Repository."
+msgstr ""
+
+#: pnuser.php:4187
+msgid "Zikula Extension Repository"
+msgstr ""
+
+#: pnuser.php:4194
+#, php-format
+msgid ""
+"The %s module is not available - please contact an administrator about that!"
+msgstr ""
+
+#: pnuser.php:4199
+msgid "The author could not be notified properly, sorry."
+msgstr ""
+
+#: pnuser.php:4201
+msgid "The author has been notified about your problems successfully."
+msgstr ""
+
+#: pnversion.php:24
+msgid "Extensions module generated by ModuleStudio 0.4.10"
+msgstr ""
+
+#: pntrac.php:82
+#, php-format
+msgid "Sorry, an error occured during fetching history of %s"
+msgstr ""
+
+#: pntrac.php:95
+#, php-format
+msgid "Sorry, an error occured during fetching content of %s"
+msgstr ""
+
+#: pntrac.php:109
+#, php-format
+msgid "Sorry, the project %s could not be found in CoZi"
+msgstr ""
+
+#: pntrac.php:112
+#, php-format
+msgid "Sorry, an error occured during fetching listing of %s"
+msgstr ""
+
+#: pnuser/quickcheckout.php:24
+msgid "Invalid Package"
+msgstr "ongeldig pakket"
+
+#: pnuser/quickcheckout.php:57
+#, fuzzy, php-format
+msgid "Unable to load module class [%s]"
+msgstr "Fout! Kon module class [%s] niet laden"
+
+#: pnuser/quickcheckout.php:192
+msgid "The package could not be generated properly."
+msgstr "Het pakket kon niet goed opgebouwd worden."
+
+#: pnajax.php:52
+msgid "no component id"
+msgstr ""
+
+#: pnajax.php:408
+msgid "Sorry! No authorization to access this feature."
+msgstr ""
+
+#: pnajax.php:414
+msgid "no component or distribution id"
+msgstr ""
+
+#: pnajax.php:420
+msgid "invalid mode"
+msgstr ""
+
+#: classes/FormHandler/Extensions_admin_modifyconfighandler.class.php:164
+msgid "Done! Module configuration updated."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:66
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:74
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:83
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:202
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:230
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:299
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:64
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:75
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:82
+msgid "Please choose"
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:106
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:135
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:87
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:109
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:101
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:140
+#: classes/FormHandler/Extensions_admin_globalEvent_edithandler.class.php:79
+#: classes/FormHandler/Extensions_admin_globalEvent_edithandler.class.php:101
+#: classes/FormHandler/Extensions_user_myoptionsHandler.class.php:59
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:87
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:119
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:103
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:128
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:109
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:134
+msgid "You dont have authorization to view this page."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:116
+msgid "Sorry, the extension could not be found."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:217
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:265
+msgid ""
+"There already exists an extension with this name. Please choose another "
+"title."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:235
+msgid "Done! Extension created."
+msgstr "Klaar! Extensie gegenereerd"
+
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:237
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:210
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:368
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:529
+msgid "Your entry will be checked by our moderators and approved afterwards."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:240
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:213
+#, php-format
+msgid ""
+"In the next step you have to <a href=\"%s\">add the initial version</a>. As "
+"long as no version exists, the entry does not appear in the system. You can "
+"find it again anytime in <a href=\"%s\">your options</a> though."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:334
+msgid "Done! Extension updated."
+msgstr "Klaar! Extensie bijgewerkt"
+
+#: classes/FormHandler/Extensions_user_component_edithandler.class.php:387
+msgid "Done! Extension deleted."
+msgstr ""
+
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:97
+msgid "Sorry, the core version could not be found."
+msgstr ""
+
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:186
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:229
+msgid ""
+"Another core version with the same name exists already. Please select "
+"another name."
+msgstr ""
+
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:211
+msgid "Done! Core version created."
+msgstr ""
+
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:268
+msgid "Done! Core version updated."
+msgstr ""
+
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:314
+msgid "Done! Core version deleted."
+msgstr ""
+
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:462
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:569
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:610
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:615
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:623
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:658
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:682
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:716
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:742
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:796
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:852
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:903
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1131
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1157
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1170
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1185
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1210
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1238
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1277
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1308
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1382
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1387
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1420
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:806
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:849
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:857
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:862
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:885
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1040
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1259
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1305
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1312
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1317
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1367
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1579
+#: pnrepositoryapi/createWorkingDirectory.php:35
+#: pnrepositoryapi/createWorkingDirectory.php:50
+#: pnrepositoryapi/moveArchiveContent.php:47
+#: pnrepositoryapi/moveArchiveContent.php:55
+#: pnrepositoryapi/moveArchiveContent.php:59
+msgid "Unfortunately your package could not be processed properly."
+msgstr ""
+
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:506
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1058
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:742
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1196
+msgid "You must either upload the package or import it from SVN"
+msgstr ""
+
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:506
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1058
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:742
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1196
+msgid "You forgot to upload the package"
+msgstr ""
+
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:514
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1066
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:750
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1204
+msgid "Your file could not be uploaded correctly."
+msgstr ""
+
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:530
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:554
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1082
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1113
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:766
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:790
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1220
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1244
+msgid "This file is no valid archive format."
+msgstr ""
+
+#: classes/FormHandler/Extensions_admin_coreVersion_edithandler.class.php:577
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1139
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:814
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1269
+#, php-format
+msgid "Sorry, an error occured during exporting %s"
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:111
+msgid "Sorry, the translation could not be found."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:151
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:140
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:146
+#: pntranslationapi.php:116 pntranslationapi.php:144 pntranslationapi.php:301
+msgid "Error! Could not do what you wanted. Please check your input."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:231
+msgid "Translate online"
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:232
+msgid "Upload translation package"
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:236
+msgid "Export from CoZi SVN"
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:248
+#: pntemplates/Extensions_include_main_review.htm:10
+#: pntemplates/Extensions_include_main_review.htm:12
+#: pntemplates/Extensions_user_component_viewsingle.htm:21
+#: pntemplates/Extensions_user_distribution_viewsingle.htm:14
+msgid "by"
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:249
+#: pntemplates/Extensions_include_main_review.htm:12
+#: pntemplates/Extensions_user_component_viewsingle.htm:21
+#: pntemplates/Extensions_user_distribution_viewsingle.htm:14
+msgid "on"
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:259
+msgid "anonymous user"
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:624
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:928
+msgid "Done! Translation updated."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:819
+msgid "Your translation has been classified as invalid."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:905
+msgid "Done! Translation created."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1082
+#, php-format
+msgid "mime type: %s"
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1185
+#, php-format
+msgid "Missing: %s"
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_translation_edithandler.class.php:1439
+msgid "Internal error occured."
+msgstr ""
+
+#: classes/FormHandler/Extensions_admin_globalEvent_edithandler.class.php:89
+msgid "Sorry, the event could not be found."
+msgstr ""
+
+#: classes/FormHandler/Extensions_admin_globalEvent_edithandler.class.php:191
+msgid "Done! Global event created."
+msgstr ""
+
+#: classes/FormHandler/Extensions_admin_globalEvent_edithandler.class.php:220
+msgid "Done! Global event updated."
+msgstr ""
+
+#: classes/FormHandler/Extensions_admin_globalEvent_edithandler.class.php:257
+msgid "Done! Global event deleted."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_myoptionsHandler.class.php:74
+msgid "I am developer and want to manage my extensions."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_myoptionsHandler.class.php:77
+msgid "I am maintainer of one or several distributions."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_myoptionsHandler.class.php:80
+msgid "I am translator and want to complete outstanding text parts."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_myoptionsHandler.class.php:214
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:327
+msgid "Other resources"
+msgstr "Andere bronnen"
+
+#: classes/FormHandler/Extensions_user_myoptionsHandler.class.php:246
+#, php-format
+msgid "You are managing %s component."
+msgid_plural "You are managing %s components."
+msgstr[0] "U beheert %s component."
+msgstr[1] "U beheert %s componenten."
+
+#: classes/FormHandler/Extensions_user_myoptionsHandler.class.php:249
+#, php-format
+msgid "You are managing %s module."
+msgid_plural "You are managing %s modules."
+msgstr[0] "U beheert %s module."
+msgstr[1] "U beheert %s modules."
+
+#: classes/FormHandler/Extensions_user_myoptionsHandler.class.php:252
+#, php-format
+msgid "You are managing %s theme."
+msgid_plural "You are managing %s themes."
+msgstr[0] "U beheert %s theme."
+msgstr[1] "U beheert %s themes."
+
+#: classes/FormHandler/Extensions_user_myoptionsHandler.class.php:255
+#, php-format
+msgid "You are managing %s block."
+msgid_plural "You are managing %s blocks."
+msgstr[0] "U beheert %s blok."
+msgstr[1] "U beheert %s blokken."
+
+#: classes/FormHandler/Extensions_user_myoptionsHandler.class.php:258
+#, php-format
+msgid "You are managing %s plugin."
+msgid_plural "You are managing %s plugins."
+msgstr[0] "U beheert %s plugin."
+msgstr[1] "U beheert %s plugins."
+
+#: classes/FormHandler/Extensions_user_myoptionsHandler.class.php:261
+#, php-format
+msgid "You are managing %s resource."
+msgid_plural "You are managing %s resources."
+msgstr[0] "U beheert %s bron."
+msgstr[1] "U beheert %s bronnen."
+
+#: classes/FormHandler/Extensions_user_myoptionsHandler.class.php:264
+#, php-format
+msgid "You are managing %s distribution."
+msgid_plural "You are managing %s distributions."
+msgstr[0] "U beheert %s distributie."
+msgstr[1] "U beheert %s distributies."
+
+#: classes/FormHandler/Extensions_user_myoptionsHandler.class.php:267
+#, php-format
+msgid "You are managing %s translation."
+msgid_plural "You are managing %s translations."
+msgstr[0] "U beheert %s vertaling."
+msgstr[1] "U beheert %s vertalingen."
+
+#: classes/FormHandler/Extensions_user_myoptionsHandler.class.php:340
+msgid "Your user settings have been updated successfully."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:97
+msgid "Sorry, the distribution could not be found."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:190
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:238
+msgid ""
+"There already exists a distribution with this name. Please choose another "
+"title."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:208
+msgid "Done! Distribution created."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:297
+msgid "Done! Distribution updated."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_distribution_edithandler.class.php:345
+msgid "Done! Distribution deleted."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:94
+msgid "Corrupt step control pattern detected, reverted to first wizard page"
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:271
+#, php-format
+msgid "Undefined pagename %s occured"
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:292
+msgid "What kind of a package do you need?"
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:293
+msgid "Please choose a section."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:298
+msgid "Select your distribution"
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:299
+msgid "The distribution builds the base system for your package."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:304
+msgid "Select additional modules"
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:305
+msgid "Modules add specific functionality to your package."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:310
+msgid "Select additional themes"
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:311
+msgid "Themes define cosmetical aspects of your system."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:316
+msgid "Select additional blocks"
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:317
+msgid "Blocks allow displaying particular information beside other content."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:322
+msgid "Select additional plugins"
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:323
+msgid "Plugins are functional enhancements simplifying your customization."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:328
+msgid "Select additional other resources"
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:329
+msgid ""
+"Different templates, documentation and other snippets can further contribute "
+"to your package."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_wizardHandler.class.php:424
+#, php-format
+msgid "Undefined pagename: %s"
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:113
+msgid "Sorry, the distribution version could not be found."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:327
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:467
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:563
+msgid ""
+"This version number is already assigned. Please delete those version or "
+"change the version number here accordingly."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:333
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:407
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:616
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:473
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:570
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:875
+msgid "At least one core version has to be supported."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:366
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:527
+msgid "Done! Version created."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:400
+msgid ""
+"This version number is already assigned. Please delete this version or "
+"change the version number here accordingly."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:491
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:730
+msgid "Done! Version updated."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:540
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:797
+msgid "Done! Version deleted."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_distributionVersion_edithandler.class.php:702
+msgid "During processing of the components an error occured."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:119
+msgid "Sorry, the extension version could not be found."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:306
+#: pntemplates/Extensions_include_component_xml.htm:142
+#: pntemplates/Extensions_user_component_display.htm:269
+#: pntemplates/Extensions_user_search.htm:186
+msgid "Gettext"
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:307
+#: pntemplates/Extensions_include_component_xml.htm:142
+#: pntemplates/Extensions_user_component_display.htm:269
+#: pntemplates/Extensions_user_search.htm:187
+msgid "Classic style"
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:309
+#: pntemplates/Extensions_user_search.htm:197
+msgid "Please choose an option"
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:314
+#: pntemplates/Extensions_user_component_display.htm:194
+#: pntemplates/Extensions_user_componentVersion_display.htm:56
+#: pntemplates/Extensions_user_search.htm:169
+msgid "pnRender"
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:315
+#: pntemplates/Extensions_user_component_display.htm:195
+#: pntemplates/Extensions_user_componentVersion_display.htm:57
+#: pntemplates/Extensions_user_search.htm:170
+msgid "pnForm"
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:316
+#: pntemplates/Extensions_user_component_display.htm:196
+#: pntemplates/Extensions_user_componentVersion_display.htm:58
+#: pntemplates/Extensions_user_search.htm:171
+msgid "DBUtil"
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:317
+#: pntemplates/Extensions_user_component_display.htm:197
+#: pntemplates/Extensions_user_componentVersion_display.htm:59
+#: pntemplates/Extensions_user_search.htm:172
+msgid "ObjectUtil"
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:318
+#: pntemplates/Extensions_user_component_display.htm:198
+#: pntemplates/Extensions_user_componentVersion_display.htm:60
+#: pntemplates/Extensions_user_search.htm:173
+msgid "PNObject"
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:319
+#: pntemplates/Extensions_user_component_display.htm:199
+#: pntemplates/Extensions_user_componentVersion_display.htm:61
+#: pntemplates/Extensions_user_search.htm:174
+msgid "Workflows"
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:320
+#: pntemplates/Extensions_user_component_display.htm:200
+#: pntemplates/Extensions_user_componentVersion_display.htm:62
+#: pntemplates/Extensions_user_search.htm:175
+msgid "PageLock"
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:967
+msgid "During processing of the dependencies an error occured."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1384
+#, php-format
+msgid ""
+"Your package contains both, the /%1$s and the /%2$s folders. Please remove "
+"the /%2$s folder to process it properly."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1390
+msgid "Your package does not contain a language folder."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1416
+#, php-format
+msgid "Your package does not contain the required %s file."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1425
+msgid "Could not create the translation directory."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1440
+#, php-format
+msgid "Could not delete an invalid language [%s]."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1512
+#, php-format
+msgid "Could not delete a non english (en) translatable template folder [%s]."
+msgstr ""
+
+#: classes/FormHandler/Extensions_user_componentVersion_edithandler.class.php:1546
+#, php-format
+msgid "Could not delete a non english (en) translatable docs folder [%s]."
+msgstr ""
+
+#: pnreminderapi.php:234
+msgid ""
+"Could not inform interested people about your change, because the Mailer "
+"module is not available - please contact an administrator about that!"
+msgstr ""
+
+#: pnadminapi.php:30 pntemplates/Extensions_admin_coreVersion_view.htm:5
+msgid "Core versions"
+msgstr ""
+
+#: pnadminapi.php:32 pntemplates/Extensions_admin_globalEvent_view.htm:5
+msgid "Global events"
+msgstr ""
+
+#: pnadminapi.php:37 pntemplates/Extensions_admin_modifyconfig.htm:6
+#: pntemplates/Extensions_admin_modifyconfig.htm:8
+#: pntemplates/Extensions_admin_modifyconfig.htm:136
+msgid "Settings"
+msgstr ""
+
+#: common.php:115 common.php:138
+msgid "Item Transform Hooks (API)"
+msgstr ""
+
+#: common.php:116 common.php:139
+msgid "Item Display Hooks (GUI)"
+msgstr ""
+
+#: common.php:117 common.php:140
+msgid "Item Create Hooks (API)"
+msgstr ""
+
+#: common.php:118 common.php:141
+msgid "Item Update Hooks (API)"
+msgstr ""
+
+#: common.php:119 common.php:142
+msgid "Item Delete Hooks (API)"
+msgstr ""
+
+#: common.php:120 common.php:143
+msgid "Item New Hooks (GUI)"
+msgstr ""
+
+#: common.php:121 common.php:144
+msgid "Item Modify Hooks (GUI)"
+msgstr ""
+
+#: common.php:122
+msgid "Module Configuration Hooks"
+msgstr ""
+
+#: common.php:123 common.php:146
+msgid "Custom and other Hooks"
+msgstr ""
+
+#: common.php:145
+msgid "Module Removal Hooks"
+msgstr ""
+
+#: common.php:147
+msgid "System Init Hooks (API)"
+msgstr ""
+
+#: common.php:237
+msgid "Your selection"
+msgstr ""
+
+#: common.php:242
+#, php-format
+msgid "You have %s extension in your download pack."
+msgid_plural "You have %s extensions in your download pack."
+msgstr[0] ""
+msgstr[1] ""
+
+#: common.php:244 pntemplates/Extensions_user_package_checkout.htm:37
+msgid "View details of your selection"
+msgstr ""
+
+#: common.php:244
+msgid "View"
+msgstr ""
+
+#: common.php:245
+msgid "Download selection"
+msgstr ""
+
+#: common.php:245 pntemplates/Extensions_user_package_result.htm:3
+msgid "Download"
+msgstr ""
+
+#: common.php:247 pntemplates/Extensions_user_package_edit.htm:3
+msgid "Save selection as custom download pack"
+msgstr ""
+
+#: common.php:247 pntemplates/Extensions_user_package_checkout.htm:142
+#: pntemplates/Extensions_user_package_edit.htm:34
+#: pntemplates/Extensions_user_package_edit.htm:40
+#: pntemplates/Extensions_user_myoptions.htm:167
+msgid "Save"
+msgstr ""
+
+#: common.php:249
+msgid "Clear selection"
+msgstr ""
+
+#: common.php:249 pntemplates/Extensions_user_myoptions.htm:112
+msgid "Delete"
+msgstr ""
+
+#: common.php:252
+msgid "You do not have any extensions in your selection yet."
+msgstr ""
+
+#: common.php:309
+msgid "There are submissions pending review!"
+msgstr ""
+
+#: common.php:313
+#, php-format
+msgid "There is %s extension waiting for approval:"
+msgid_plural "There are %s extensions waiting for approval:"
+msgstr[0] "Er wacht nog %s extensie op goedkeuring:"
+msgstr[1] "Er wachten nog %s extensies op goedkeuring:"
+
+#: common.php:321
+#, php-format
+msgid "There is %s distribution waiting for approval:"
+msgid_plural "There are %s distributions waiting for approval:"
+msgstr[0] "Er wacht nog %s distributie op goedkeuring:"
+msgstr[1] "Er wachten nog %s distributies op goedkeuring:"
+
+#: common.php:329
+#, php-format
+msgid "There is %s extension version waiting for review:"
+msgid_plural "There are %s extension versions waiting for review:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: common.php:337
+#, php-format
+msgid "There is %s distribution version waiting for review:"
+msgid_plural "There are %s distribution versions waiting for review:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: common.php:344
+msgid ""
+"For approval set the internal status to something else than \"To approve\"/"
+"\"To review\". For rejection delete the object."
+msgstr ""
+
+#: common.php:369
+msgid "There is nothing to do at the moment."
+msgstr ""
+
+#: pnrepositoryapi/getAllowedRootDirectories.php:34
+msgid ""
+"critical error: unknown parameter type in repository api - please contact an "
+"administrator."
+msgstr ""
+
+#: pnrepositoryapi/checkArchiveStructure.php:66
+msgid "Your package contains the following unallowed directories:"
+msgstr ""
+
+#: pnrepositoryapi/checkArchiveStructure.php:69
+msgid "Your package contains the following unallowed files:"
+msgstr ""
+
+#: pnrepositoryapi/checkArchiveStructure.php:97
+#, php-format
+msgid "Your package contains more than one component in the /%s directory."
+msgstr ""
+
+#: pnrepositoryapi/checkArchiveStructure.php:113
+#, php-format
+msgid ""
+"Your Module package does not starts with the /%s folder. Please recheck the "
+"content of your package."
+msgstr ""
+
+#: pnrepositoryapi/checkArchiveStructure.php:116
+#, php-format
+msgid ""
+"Your Theme package does not starts with the /%s folder. Please recheck the "
+"content of your package."
+msgstr ""
+
+#: pnrepositoryapi/checkArchiveStructure.php:124
+#, php-format
+msgid ""
+"Your Module package does not contain the required /%s/pnversion.php file. "
+"Please recheck the content of your package."
+msgstr ""
+
+#: pnrepositoryapi/checkArchiveStructure.php:127
+#, php-format
+msgid ""
+"Your Theme package does not contain the required /%s/version.php file. "
+"Please recheck the content of your package."
+msgstr ""
+
+#: pnrepositoryapi/packFile.php:40
+msgid "Invalid package extension"
+msgstr ""
+
+#: pnrepositoryapi/packFile.php:45
+msgid "Could not create the working directory"
+msgstr ""
+
+#: pnrepositoryapi/createTranslationRevision.php:49
+#: pnrepositoryapi/createTranslationRevision.php:63
+#: pnrepositoryapi/createTranslationRevision.php:75
+#: pnrepositoryapi/createTranslationRevision.php:83
+#: pnrepositoryapi/createTranslationRevision.php:109
+#: pnrepositoryapi/revertTranslationRevision.php:39
+#: pnrepositoryapi/revertTranslationRevision.php:45
+#: pnrepositoryapi/revertTranslationRevision.php:63
+msgid "Internal revisioning error occured."
+msgstr ""
+
+#: pnrepositoryapi/scanFileForMalware.php:53
+#, php-format
+msgid "Malware found: %s"
+msgstr ""
+
+#: pnrepositoryapi/packFilePHP.php:311
+msgid "This archive has been created by the Zikula Extensions Repository."
+msgstr ""
+
+#: pnrepositoryapi/unpackFile.php:47
+msgid "Can't open Rar archive"
+msgstr ""
+
+#: pntemplates/plugins/function.pnformexturlinput.php:50
+msgid "Invalid URL"
+msgstr ""
+
+#: pntemplates/plugins/function.extensionsReminderLink.php:31
+#: pntemplates/plugins/function.extensionsReminderLink.php:35
+#: pntemplates/plugins/function.extensionsDownloadLink.php:33
+#: pntemplates/plugins/function.extensionsDownloadLink.php:37
+#: pntemplates/plugins/function.extensionsResolveHookTypes.php:29
+#: pntemplates/plugins/function.extensionsResolveHookTypes.php:33
+#: pntemplates/plugins/function.extensionsResolveHookTypes.php:37
+#: pntemplates/plugins/function.extensionsCreateLink.php:31
+#: pntemplates/plugins/function.extensionsCreateLink.php:35
+#: pntemplates/plugins/function.extensionsIsCurrentVersion.php:30
+#: pntemplates/plugins/function.extensionsIsCurrentVersion.php:34
+#: pntemplates/plugins/function.extensionsCatName.php:30
+#, php-format
+msgid "plugin %1$s: invalid %2$s parameter received"
+msgstr ""
+
+#: pntemplates/plugins/function.extensionsReminderLink.php:65
+#: pntemplates/plugins/function.extensionsReminderLink.php:74
+msgid "Stop reminding"
+msgstr ""
+
+#: pntemplates/plugins/function.extensionsReminderLink.php:66
+#: pntemplates/plugins/function.extensionsReminderLink.php:75
+msgid "Do not remind me on new versions"
+msgstr ""
+
+#: pntemplates/plugins/function.extensionsReminderLink.php:67
+#: pntemplates/plugins/function.extensionsReminderLink.php:72
+msgid "Remind me"
+msgstr ""
+
+#: pntemplates/plugins/function.extensionsReminderLink.php:68
+#: pntemplates/plugins/function.extensionsReminderLink.php:73
+msgid "Remind me on new versions"
+msgstr ""
+
+#: pntemplates/plugins/function.extensionsDownloadLink.php:87
+msgid "Add to my download selection"
+msgstr ""
+
+#: pntemplates/plugins/function.extensionsDownloadLink.php:88
+msgid "Put into my download pack"
+msgstr ""
+
+#: pntemplates/plugins/function.extensionsDownloadLink.php:93
+#: pntemplates/Extensions_user_package_checkout.htm:57
+#: pntemplates/Extensions_user_package_checkout.htm:73
+#: pntemplates/Extensions_user_package_view.htm:40
+#: pntemplates/Extensions_user_package_view.htm:61
+msgid "Remove from my download selection"
+msgstr ""
+
+#: pntemplates/plugins/function.extensionsDownloadLink.php:94
+msgid "Remove from my download pack"
+msgstr ""
+
+#: pntemplates/plugins/function.extensionsDownloadLink.php:105
+#, php-format
+msgid "Quick Download (%s)"
+msgstr ""
+
+#: pntemplates/plugins/function.extFileSize.php:30
+#: pntemplates/plugins/function.buildLanguageLink.php:25
+#: pntemplates/plugins/function.extProcessListLevels.php:31
+#: pntemplates/plugins/function.extProfileInfo.php:31
+#: pntemplates/plugins/function.headercontenttype.php:28
+#: pntemplates/plugins/function.getLegacyLanguageName.php:24
+#, php-format
+msgid "%1$s: missing parameter '%2$s'"
+msgstr ""
+
+#: pntemplates/plugins/function.extFileSize.php:62
+#, php-format
+msgid "%s Bytes"
+msgstr ""
+
+#: pntemplates/plugins/function.extFileSize.php:65
+#, php-format
+msgid "%s KB"
+msgstr ""
+
+#: pntemplates/plugins/function.extFileSize.php:69
+#, php-format
+msgid "%s MB"
+msgstr ""
+
+#: pntemplates/plugins/function.extFileSize.php:73
+#, php-format
+msgid " %sGB"
+msgstr ""
+
+#: pntemplates/plugins/function.pnformnicecheckboxlist.php:238
+msgid "A selection here is mandatory."
+msgstr ""
+
+#: pntemplates/plugins/function.extProfileInfo.php:36
+#, php-format
+msgid "%1$s: parameter '%2$s' must be numeric"
+msgstr ""
+
+#: pntemplates/plugins/function.extProfileInfo.php:63
+#: pntemplates/Extensions_user_main.htm:49
+#: pntemplates/Extensions_user_header.htm:28
+#: pntemplates/Extensions_block_listobjects_modify.htm:11
+#: pntemplates/Extensions_user_distribution_display.htm:93
+#: pntemplates/Extensions_user_distribution_view.htm:88
+#: pntemplates/Extensions_user_myoptions.htm:146
+msgid "Distributions"
+msgstr "Distributies"
+
+#: pntemplates/plugins/function.extensionsCreateLink.php:57
+#: pntemplates/Extensions_user_component_edit.htm:9
+#: pntemplates/Extensions_user_myoptions.htm:71
+msgid "Add an extension"
+msgstr ""
+
+#: pntemplates/plugins/function.extensionsCreateLink.php:60
+#: pntemplates/Extensions_user_myoptions.htm:86
+#: pntemplates/Extensions_user_distribution_edit.htm:11
+msgid "Add a distribution"
+msgstr ""
+
+#: pntemplates/plugins/function.extensionsIsCurrentVersion.php:60
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:213
+msgid "is up to date"
+msgstr ""
+
+#: pntemplates/plugins/function.extensionsIsCurrentVersion.php:63
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:214
+msgid "is deprecated"
+msgstr ""
+
+#: pntemplates/plugins/function.extensionsTranslationLink.php:75
+#: pntemplates/Extensions_user_packageContent_view.htm:90
+#: pntemplates/Extensions_user_distributionVersion_display.htm:38
+#: pntemplates/Extensions_user_distributionVersion_display.htm:39
+#: pntemplates/Extensions_user_packageContent_display.htm:33
+#: pntemplates/Extensions_user_packageContent_display.htm:34
+#: pntemplates/Extensions_user_packageContent_display.htm:35
+#: pntemplates/Extensions_user_package_display.htm:49
+#: pntemplates/Extensions_user_package_display.htm:50
+#: pntemplates/Extensions_user_package_display.htm:51
+#: pntemplates/Extensions_admin_stat_view.htm:114
+#: pntemplates/Extensions_admin_coreVersion_view.htm:86
+#: pntemplates/Extensions_user_component_display.htm:56
+#: pntemplates/Extensions_user_componentVersion_display.htm:114
+#: pntemplates/Extensions_user_componentVersion_display.htm:115
+#: pntemplates/Extensions_user_translation_display.htm:30
+#: pntemplates/Extensions_user_translation_display.htm:31
+#: pntemplates/Extensions_user_translation_view.htm:54
+#: pntemplates/Extensions_user_translation_view.htm:71
+#: pntemplates/Extensions_user_translation_view.htm:88
+#: pntemplates/Extensions_user_component_viewsingle.htm:14
+#: pntemplates/Extensions_user_translations.htm:80
+#: pntemplates/Extensions_admin_globalEvent_view.htm:106
+#: pntemplates/Extensions_user_distribution_display.htm:54
+#: pntemplates/Extensions_user_distribution_display.htm:155
+#: pntemplates/Extensions_admin_globalEvent_display.htm:36
+#: pntemplates/Extensions_admin_globalEvent_display.htm:37
+#: pntemplates/Extensions_admin_globalEvent_display.htm:38
+#: pntemplates/Extensions_user_distribution_viewsingle.htm:8
+#: pntemplates/Extensions_admin_coreVersion_display.htm:44
+#: pntemplates/Extensions_admin_coreVersion_display.htm:45
+msgid "Edit"
+msgstr ""
+
+#: pntemplates/plugins/function.extensionsTranslationLink.php:84
+msgid "Add translation"
+msgstr ""
+
+#: pninit.php:102
+msgid "creation of default categories failed"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:5
+#: pntemplates/Extensions_trac_main.htm:18
+msgid "SVN Browser"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:5
+#: pntemplates/Extensions_user_main.htm:57
+#: pntemplates/Extensions_user_sidebar.htm:6
+#: pntemplates/Extensions_user_sidebar.htm:18
+#: pntemplates/Extensions_admin_header.htm:6
+#: pntemplates/Extensions_user_search.htm:5
+#: pntemplates/Extensions_user_myoptions.htm:32
+#: pntemplates/Extensions_user_myoptions.htm:33
+msgid "Zikula Extensions"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:31
+msgid "Choose project"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:33
+msgid "CoZi project"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:45
+#: pntemplates/Extensions_user_package_checkout.htm:136
+#: pntemplates/Extensions_user_package_checkout.htm:140
+#: pntemplates/Extensions_user_search.htm:209
+#: pntemplates/Extensions_admin_modifyconfig.htm:133
+#: pntemplates/Extensions_user_translation_edit.htm:147
+msgid "Action"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:46
+#: pntemplates/Extensions_user_translation_edit.htm:299
+msgid "Continue"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:59
+msgid "Back to project selection"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:59
+msgid "Projects"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:69
+#: pntemplates/Extensions_trac_main.htm:165
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:72
+#: pntemplates/Extensions_trac_main.htm:167
+msgid "View history"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:74
+msgid "Back to HEAD"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:95
+#: pntemplates/Extensions_trac_main.htm:143
+msgid "Rev"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:96
+msgid "Changeset"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:97
+msgid "Date"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:98
+#: pntemplates/Extensions_include_component_rss.htm:12
+#: pntemplates/Extensions_include_component_atom.htm:26
+#: pntemplates/Extensions_user_distribution_display.htm:108
+msgid "Author"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:99
+msgid "Log Message"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:106
+#, php-format
+msgid "Browse at revision %s"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:106
+#, php-format
+msgid "View at revision %s"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:107
+#, php-format
+msgid "Show changeset [%1$s] for %2$s"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:114
+msgid "Modified"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:115
+msgid "Added"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:116
+msgid "Deleted"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:117
+msgid "Replaced"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:119
+msgid "copy from"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:129
+msgid ""
+"Change into the folder you want to import by clicking on the directories."
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:141
+#: pntemplates/Extensions_user_component_edit.htm:46
+#: pntemplates/Extensions_admin_coreVersion_view.htm:45
+#: pntemplates/Extensions_user_component_view.htm:60
+#: pntemplates/Extensions_user_search.htm:39
+#: pntemplates/Extensions_user_search.htm:53
+#: pntemplates/EZComments/extensiondb/ezcomments_user_view.htm:119
+#: pntemplates/Extensions_user_package_edit.htm:36
+#: pntemplates/Extensions_block_listobjects_modify.htm:18
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:36
+#: pntemplates/Extensions_user_distribution_view.htm:35
+#: pntemplates/Extensions_user_distribution_edit.htm:33
+msgid "Name"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:142
+msgid "Size"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:144
+#: pntemplates/Extensions_user_component_edit.htm:139
+#: pntemplates/Extensions_user_component_view.htm:63
+#: pntemplates/Extensions_user_componentVersion_edit.htm:270
+#: pntemplates/Extensions_user_component_display.htm:216
+#: pntemplates/Extensions_user_search.htm:56
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:161
+#: pntemplates/Extensions_block_listobjects_modify.htm:19
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:93
+#: pntemplates/Extensions_admin_globalEvent_edit.htm:72
+#: pntemplates/Extensions_user_distribution_display.htm:104
+#: pntemplates/Extensions_user_distribution_display.htm:164
+#: pntemplates/Extensions_user_packageContent_edit.htm:60
+#: pntemplates/Extensions_user_distribution_view.htm:37
+#: pntemplates/Extensions_user_translation_edit.htm:277
+#: pntemplates/Extensions_user_distribution_edit.htm:79
+#, php-format
+msgid "Updated on %s"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:145
+msgid "Last author"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:158
+msgid "Change to parent directory"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:166
+msgid "Bytes"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:179
+msgid "Import this directory"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:181
+msgid ""
+"The selected folder <strong>MUST</strong> contain a folder named "
+"\"yourlangcode\" with all translated component files. If this is not "
+"possible in your case you can use the following field to input a path which "
+"will be created above the selected folder. One example: if the current "
+"folder contains your translation files, you should enter \"yourlangcode/\" "
+"into the field. If the selected folder contains the \"yourlangcode\" folder, "
+"enter nothing."
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:183
+msgid ""
+"The selected folder <strong>MUST</strong> correspond to the Core's root "
+"directory. If this is not possible in your case you can use the following "
+"field to input a path which will be created above the selected folder. One "
+"example: if the current folder is the main directory of the EZComments "
+"module, you should enter \"modules/EZComments/\" into the field. If the "
+"selected folder equals the Core's root, enter nothing."
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:188
+msgid "Go for that"
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:189
+#: pntemplates/Extensions_user_componentVersion_edit.htm:121
+#: pntemplates/Extensions_user_componentVersion_edit.htm:247
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:96
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:137
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:75
+#: pntemplates/Extensions_user_translation_edit.htm:227
+#: pntemplates/Extensions_user_myoptions.htm:36
+#: pntemplates/Extensions_user_myoptions.htm:129
+msgid "This function needs JavaScript."
+msgstr ""
+
+#: pntemplates/Extensions_trac_main.htm:220
+msgid "with prefix"
+msgstr ""
+
+#: pntemplates/Extensions_user_main.htm:14
+#: pntemplates/Extensions_user_packageContent_view.htm:62
+#: pntemplates/Extensions_admin_stat_view.htm:77
+#: pntemplates/Extensions_admin_coreVersion_view.htm:57
+#: pntemplates/Extensions_user_component_view.htm:18
+#: pntemplates/Extensions_user_component_display.htm:22
+#: pntemplates/Extensions_user_component_display.htm:177
+#: pntemplates/Extensions_admin_globalEvent_view.htm:77
+#: pntemplates/Extensions_user_distribution_display.htm:18
+#: pntemplates/Extensions_user_distribution_display.htm:150
+#: pntemplates/Extensions_user_distribution_view.htm:16
+msgid "Options"
+msgstr ""
+
+#: pntemplates/Extensions_user_main.htm:16
+#: pntemplates/Extensions_user_component_view.htm:20
+#: pntemplates/Extensions_user_search.htm:27
+#: pntemplates/Extensions_user_search.htm:211
+msgid "Search"
+msgstr ""
+
+#: pntemplates/Extensions_user_main.htm:22
+#: pntemplates/Extensions_user_main.htm:71
+msgid "Newest entries"
+msgstr ""
+
+#: pntemplates/Extensions_user_main.htm:23
+#: pntemplates/Extensions_user_main.htm:72
+msgid "See all"
+msgstr ""
+
+#: pntemplates/Extensions_user_main.htm:41
+#: pntemplates/Extensions_user_component_edit.htm:52
+#: pntemplates/Extensions_include_component_rss.htm:6
+#: pntemplates/Extensions_user_stats.htm:85
+#: pntemplates/Extensions_user_component_view.htm:77
+#: pntemplates/Extensions_include_main_review.htm:16
+#: pntemplates/Extensions_user_component_display.htm:105
+#: pntemplates/Extensions_user_search.htm:89
+#: pntemplates/Extensions_include_component_atom.htm:22
+msgid "Extension type"
+msgstr ""
+
+#: pntemplates/Extensions_user_main.htm:52
+#: pntemplates/Extensions_user_stats.htm:75
+#: pntemplates/Extensions_user_component_view.htm:112
+#: pntemplates/Extensions_user_distribution_view.htm:63
+msgid "Submit"
+msgstr ""
+
+#: pntemplates/Extensions_user_main.htm:61
+msgid "Latest review"
+msgstr ""
+
+#: pntemplates/Extensions_user_main.htm:65
+msgid "Chosen review"
+msgstr ""
+
+#: pntemplates/Extensions_user_main.htm:78
+msgid "Recently updated"
+msgstr ""
+
+#: pntemplates/Extensions_user_main.htm:79
+msgid "Highest ratings"
+msgstr ""
+
+#: pntemplates/Extensions_user_main.htm:80
+msgid "Most comments"
+msgstr ""
+
+#: pntemplates/Extensions_user_main.htm:86
+#, php-format
+msgid "Overall %s download pack has been created."
+msgid_plural "Overall %s download packs have been created."
+msgstr[0] ""
+msgstr[1] ""
+
+#: pntemplates/Extensions_user_packageContent_view.htm:6
+msgid "Package Contents List"
+msgstr ""
+
+#: pntemplates/Extensions_user_packageContent_view.htm:11
+msgid "Package content"
+msgstr ""
+
+#: pntemplates/Extensions_user_packageContent_view.htm:12
+msgid "Create a content package"
+msgstr ""
+
+#: pntemplates/Extensions_user_packageContent_view.htm:13
+msgid "Edit content package"
+msgstr ""
+
+#: pntemplates/Extensions_user_packageContent_view.htm:14
+msgid "Delete content package"
+msgstr ""
+
+#: pntemplates/Extensions_user_packageContent_view.htm:32
+#: pntemplates/Extensions_admin_stat_view.htm:20
+#: pntemplates/Extensions_admin_coreVersion_view.htm:36
+#: pntemplates/Extensions_user_stat_view.htm:19
+msgid "ID"
+msgstr ""
+
+#: pntemplates/Extensions_user_packageContent_view.htm:41
+#: pntemplates/Extensions_admin_stat_view.htm:29
+#: pntemplates/Extensions_user_packageContent_edit.htm:29
+#: pntemplates/Extensions_user_stat_view.htm:28
+msgid "Type"
+msgstr ""
+
+#: pntemplates/Extensions_user_packageContent_view.htm:50
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:34
+#: pntemplates/Extensions_admin_globalEvent_edit.htm:32
+#: pntemplates/Extensions_user_packageContent_edit.htm:27
+#: pntemplates/Extensions_user_translation_edit.htm:59
+msgid "Content"
+msgstr ""
+
+#: pntemplates/Extensions_user_packageContent_view.htm:59
+#: pntemplates/Extensions_user_packageContent_display.htm:18
+msgid "Package name"
+msgstr ""
+
+#: pntemplates/Extensions_user_packageContent_view.htm:85
+#: pntemplates/Extensions_admin_stat_view.htm:109
+#: pntemplates/Extensions_user_component_edit.htm:112
+#: pntemplates/Extensions_admin_coreVersion_view.htm:81
+#: pntemplates/Extensions_user_componentVersion_edit.htm:85
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:62
+#: pntemplates/Extensions_user_component_viewsingle.htm:9
+#: pntemplates/Extensions_user_translations.htm:55
+#: pntemplates/Extensions_user_translations.htm:56
+#: pntemplates/Extensions_admin_globalEvent_view.htm:101
+#: pntemplates/Extensions_admin_globalEvent_display.htm:6
+#: pntemplates/Extensions_user_distribution_viewsingle.htm:4
+#: pntemplates/Extensions_admin_coreVersion_display.htm:9
+msgid "Details"
+msgstr ""
+
+#: pntemplates/Extensions_user_packageContent_view.htm:100
+msgid "No such content package found."
+msgstr ""
+
+#: pntemplates/Extensions_user_distributionVersion_display.htm:15
+#: pntemplates/Extensions_user_componentVersion_edit.htm:75
+#: pntemplates/Extensions_user_component_display.htm:218
+#: pntemplates/Extensions_user_componentVersion_display.htm:35
+#: pntemplates/Extensions_user_search.htm:154
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:52
+#: pntemplates/Extensions_user_distribution_display.htm:166
+msgid "Core support"
+msgstr ""
+
+#: pntemplates/Extensions_user_distributionVersion_display.htm:20
+#: pntemplates/Extensions_user_componentVersion_edit.htm:87
+#: pntemplates/Extensions_user_component_display.htm:229
+#: pntemplates/Extensions_user_componentVersion_display.htm:47
+#: pntemplates/Extensions_user_historyevents.xml:5
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:64
+#: pntemplates/Extensions_user_distribution_display.htm:173
+msgid "Changelog"
+msgstr ""
+
+#: pntemplates/Extensions_user_distributionVersion_display.htm:25
+#: pntemplates/Extensions_user_packageContent_display.htm:20
+#: pntemplates/Extensions_user_package_display.htm:36
+#: pntemplates/Extensions_user_component_edit.htm:132
+#: pntemplates/Extensions_user_componentVersion_edit.htm:263
+#: pntemplates/Extensions_user_componentVersion_display.htm:101
+#: pntemplates/Extensions_user_translation_display.htm:17
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:154
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:86
+#: pntemplates/Extensions_admin_globalEvent_edit.htm:65
+#: pntemplates/Extensions_admin_globalEvent_display.htm:23
+#: pntemplates/Extensions_user_packageContent_edit.htm:53
+#: pntemplates/Extensions_admin_coreVersion_display.htm:31
+#: pntemplates/Extensions_user_translation_edit.htm:270
+#: pntemplates/Extensions_user_distribution_edit.htm:72
+msgid "Meta Data"
+msgstr ""
+
+#: pntemplates/Extensions_user_distributionVersion_display.htm:29
+#: pntemplates/Extensions_user_packageContent_display.htm:24
+#: pntemplates/Extensions_user_package_display.htm:40
+#: pntemplates/Extensions_user_componentVersion_display.htm:105
+#: pntemplates/Extensions_user_translation_display.htm:21
+#: pntemplates/Extensions_admin_globalEvent_display.htm:27
+#: pntemplates/Extensions_admin_coreVersion_display.htm:35
+#, php-format
+msgid "Created by %1$s on %2$s"
+msgstr ""
+
+#: pntemplates/Extensions_user_distributionVersion_display.htm:33
+#: pntemplates/Extensions_user_packageContent_display.htm:28
+#: pntemplates/Extensions_user_package_display.htm:44
+#: pntemplates/Extensions_user_componentVersion_display.htm:109
+#: pntemplates/Extensions_user_translation_display.htm:25
+#: pntemplates/Extensions_admin_globalEvent_display.htm:31
+#: pntemplates/Extensions_admin_coreVersion_display.htm:39
+#, php-format
+msgid "Last updated by %1$s on %2$s"
+msgstr ""
+
+#: pntemplates/Extensions_user_distributionVersion_display.htm:42
+#: pntemplates/Extensions_user_distributionVersion_display.htm:43
+#: pntemplates/Extensions_user_packageContent_display.htm:38
+#: pntemplates/Extensions_user_packageContent_display.htm:39
+#: pntemplates/Extensions_user_packageContent_display.htm:40
+#: pntemplates/Extensions_user_package_display.htm:54
+#: pntemplates/Extensions_user_package_display.htm:55
+#: pntemplates/Extensions_user_package_display.htm:56
+#: pntemplates/Extensions_user_component_display.htm:28
+#: pntemplates/Extensions_user_componentVersion_display.htm:118
+#: pntemplates/Extensions_user_componentVersion_display.htm:119
+#: pntemplates/Extensions_user_translation_display.htm:34
+#: pntemplates/Extensions_user_translation_display.htm:35
+#: pntemplates/Extensions_user_distribution_display.htm:28
+#: pntemplates/Extensions_admin_globalEvent_display.htm:41
+#: pntemplates/Extensions_admin_globalEvent_display.htm:42
+#: pntemplates/Extensions_admin_globalEvent_display.htm:43
+#: pntemplates/Extensions_admin_coreVersion_display.htm:48
+#: pntemplates/Extensions_admin_coreVersion_display.htm:49
+msgid "Back to overview"
+msgstr ""
+
+#: pntemplates/Extensions_user_packageContent_display.htm:12
+msgid "Package Content ID"
+msgstr ""
+
+#: pntemplates/Extensions_user_packageContent_display.htm:15
+#: pntemplates/Extensions_user_packageContent_edit.htm:36
+msgid "Content ID"
+msgstr ""
+
+#: pntemplates/Extensions_user_packageContent_display.htm:39
+#: pntemplates/Extensions_user_package_display.htm:55
+#: pntemplates/Extensions_user_package_checkout.htm:138
+#: pntemplates/Extensions_user_package_checkout.htm:142
+#: pntemplates/Extensions_user_package_checkout.htm:148
+#: pntemplates/Extensions_user_distribution_editcats.htm:40
+#: pntemplates/Extensions_user_distribution_editcats.htm:41
+#: pntemplates/Extensions_user_component_editcats.htm:51
+#: pntemplates/Extensions_user_component_editcats.htm:52
+#: pntemplates/Extensions_user_package_edit.htm:40
+#: pntemplates/Extensions_admin_globalEvent_display.htm:42
+#: pntemplates/Extensions_user_package_dialog.htm:54
+msgid "Back"
+msgstr ""
+
+#: pntemplates/Extensions_user_package_display.htm:15
+msgid "_EXTENSIONS_PACKAGECONTENT"
+msgstr ""
+
+#: pntemplates/Extensions_user_package_display.htm:16
+#: pntemplates/Extensions_user_component_edit.htm:154
+#: pntemplates/Extensions_admin_coreVersion_view.htm:14
+#: pntemplates/Extensions_user_componentVersion_edit.htm:285
+#: pntemplates/Extensions_user_componentVersion_display.htm:21
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:176
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:12
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:108
+#: pntemplates/Extensions_admin_globalEvent_edit.htm:10
+#: pntemplates/Extensions_admin_globalEvent_edit.htm:89
+#: pntemplates/Extensions_admin_globalEvent_view.htm:15
+#: pntemplates/Extensions_user_packageContent_edit.htm:9
+#: pntemplates/Extensions_user_packageContent_edit.htm:77
+#: pntemplates/Extensions_user_translation_edit.htm:11
+#: pntemplates/Extensions_user_translation_edit.htm:292
+#: pntemplates/Extensions_user_distribution_edit.htm:94
+#, php-format
+msgid "Create %s"
+msgstr ""
+
+#: pntemplates/Extensions_user_package_display.htm:18
+#: pntemplates/Extensions_admin_globalEvent_view.htm:19
+msgid "Create"
+msgstr ""
+
+#: pntemplates/Extensions_user_package_display.htm:33
+msgid "_EXTENSIONS_PACKAGE_PACKAGEID"
+msgstr ""
+
+#: pntemplates/Extensions_admin_stat_view.htm:7
+#: pntemplates/Extensions_user_header.htm:51
+#: pntemplates/Extensions_user_component_display.htm:71
+#: pntemplates/Extensions_user_distribution_display.htm:67
+#: pntemplates/Extensions_user_stat_view.htm:6
+#: pntemplates/Extensions_user_wizard.htm:77
+#: pntemplates/Extensions_user_wizard.htm:120
+msgid "Stats"
+msgstr ""
+
+#: pntemplates/Extensions_admin_stat_view.htm:8
+#: pntemplates/Extensions_admin_coreVersion_view.htm:6
+#: pntemplates/Extensions_admin_globalEvent_view.htm:6
+#: pntemplates/Extensions_user_stat_view.htm:7
+#, php-format
+msgid "%s List"
+msgstr ""
+
+#: pntemplates/Extensions_admin_stat_view.htm:38
+#: pntemplates/Extensions_user_stat_view.htm:37
+msgid "Year"
+msgstr ""
+
+#: pntemplates/Extensions_admin_stat_view.htm:47
+#: pntemplates/Extensions_user_stat_view.htm:46
+msgid "Month"
+msgstr ""
+
+#: pntemplates/Extensions_admin_stat_view.htm:56
+#: pntemplates/Extensions_user_stat_view.htm:55
+msgid "Day"
+msgstr ""
+
+#: pntemplates/Extensions_admin_stat_view.htm:65
+#: pntemplates/Extensions_user_stat_view.htm:64
+msgid "Value"
+msgstr ""
+
+#: pntemplates/Extensions_admin_stat_view.htm:124
+#: pntemplates/Extensions_user_sidebar.htm:28
+#: pntemplates/Extensions_admin_coreVersion_view.htm:96
+#: pntemplates/Extensions_user_component_view.htm:197
+#: pntemplates/Extensions_admin_globalEvent_view.htm:116
+#: pntemplates/Extensions_user_distribution_view.htm:129
+#: pntemplates/Extensions_user_stat_view.htm:111
+#, php-format
+msgid "No such %s found."
+msgstr "Geen overeenkomstig %s gevonden."
+
+#: pntemplates/Extensions_user_translation_syncselect.htm:19
+msgid "Add/Syncronize a language"
+msgstr ""
+
+#: pntemplates/Extensions_user_translation_syncselect.htm:20
+msgid "Select the translations that you wish to add/syncronize"
+msgstr ""
+
+#: pntemplates/Extensions_user_translation_syncselect.htm:22
+#: pntemplates/Extensions_user_component_display.htm:60
+msgid "Remove a language"
+msgstr ""
+
+#: pntemplates/Extensions_user_translation_syncselect.htm:23
+msgid "Select the translations that you wish to remove"
+msgstr ""
+
+#: pntemplates/Extensions_user_translation_syncselect.htm:48
+msgid "Sync"
+msgstr ""
+
+#: pntemplates/Extensions_user_translation_syncselect.htm:50
+#: pntemplates/Extensions_user_component_edit.htm:170
+#: pntemplates/Extensions_user_componentVersion_edit.htm:245
+#: pntemplates/Extensions_user_componentVersion_edit.htm:301
+#: pntemplates/Extensions_user_search.htm:212
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:134
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:192
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:124
+#: pntemplates/Extensions_admin_globalEvent_edit.htm:105
+#: pntemplates/Extensions_user_packageContent_edit.htm:93
+#: pntemplates/Extensions_user_translation_edit.htm:307
+#: pntemplates/Extensions_user_distribution_edit.htm:110
+#: pntemplates/Extensions_user_wizard.htm:155
+msgid "Cancel"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:7
+#: pntemplates/Extensions_user_component_edit.htm:11
+#: pntemplates/Extensions_admin_coreVersion_view.htm:15
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:11
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:15
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:9
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:15
+#: pntemplates/Extensions_admin_globalEvent_edit.htm:7
+#: pntemplates/Extensions_admin_globalEvent_edit.htm:13
+#: pntemplates/Extensions_admin_globalEvent_view.htm:16
+#: pntemplates/Extensions_user_packageContent_edit.htm:7
+#: pntemplates/Extensions_user_packageContent_edit.htm:11
+#: pntemplates/Extensions_user_translation_edit.htm:9
+#: pntemplates/Extensions_user_translation_edit.htm:13
+#: pntemplates/Extensions_user_distribution_edit.htm:9
+#: pntemplates/Extensions_user_distribution_edit.htm:13
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:44
+#: pntemplates/Extensions_user_distribution_edit.htm:31
+msgid "Main data"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:47
+msgid "Input the name of the extension"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:58
+msgid "Target group"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:62
+#: pntemplates/Extensions_user_component_view.htm:62
+#: pntemplates/Extensions_user_search.htm:55
+msgid "Short description"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:63
+msgid "Input a short description of the extension"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:69
+#: pntemplates/Extensions_user_distribution_edit.htm:54
+msgid "Author data"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:71
+#: pntemplates/Extensions_user_distribution_edit.htm:56
+msgid "Project URL"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:72
+#: pntemplates/Extensions_user_component_display.htm:39
+#: pntemplates/Extensions_user_distribution_display.htm:40
+#: pntemplates/Extensions_user_distribution_edit.htm:57
+msgid "The website of this project"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:75
+#: pntemplates/Extensions_user_distribution_edit.htm:60
+msgid "Demo URL"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:76
+#: pntemplates/Extensions_user_component_display.htm:36
+#: pntemplates/Extensions_user_distribution_display.htm:37
+#: pntemplates/Extensions_user_distribution_edit.htm:61
+msgid "A demo URL for this project"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:79
+#: pntemplates/Extensions_user_distribution_edit.htm:64
+msgid "Donation URL"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:80
+#: pntemplates/Extensions_user_component_display.htm:42
+#: pntemplates/Extensions_user_distribution_display.htm:43
+#: pntemplates/Extensions_user_distribution_edit.htm:65
+msgid "A link for a donation"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:83
+#: pntemplates/Extensions_user_search.htm:144
+msgid "Commercial"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:89
+msgid "Company name"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:90
+msgid "Company / manufacturer name"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:93
+msgid "Company URL"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:94
+#: pntemplates/Extensions_user_component_display.htm:45
+msgid "Company / manufacturer URL"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:97
+#: pntemplates/Extensions_user_component_display.htm:153
+msgid "Costs"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:98
+msgid "What does this extension cost?"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:103
+#: pntemplates/Extensions_user_component_display.htm:158
+msgid "Support Info"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:104
+msgid "Where and how can users get support?"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:115
+msgid "Extended description"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:116
+msgid "Input an extended description of the extension"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:123
+#: pntemplates/Extensions_user_componentVersion_edit.htm:66
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:44
+#: pntemplates/Extensions_user_distribution_edit.htm:46
+msgid "Internal Status"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:135
+#: pntemplates/Extensions_user_componentVersion_edit.htm:266
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:157
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:89
+#: pntemplates/Extensions_admin_globalEvent_edit.htm:68
+#: pntemplates/Extensions_user_packageContent_edit.htm:56
+#: pntemplates/Extensions_user_translation_edit.htm:273
+#: pntemplates/Extensions_user_distribution_edit.htm:75
+#, php-format
+msgid "Created by %s"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:136
+#: pntemplates/Extensions_user_component_view.htm:64
+#: pntemplates/Extensions_user_componentVersion_edit.htm:267
+#: pntemplates/Extensions_user_search.htm:57
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:158
+#: pntemplates/Extensions_block_listobjects_modify.htm:20
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:90
+#: pntemplates/Extensions_admin_globalEvent_edit.htm:69
+#: pntemplates/Extensions_user_packageContent_edit.htm:57
+#: pntemplates/Extensions_user_distribution_view.htm:38
+#: pntemplates/Extensions_user_translation_edit.htm:274
+#: pntemplates/Extensions_user_myoptions.htm:112
+#: pntemplates/Extensions_user_distribution_edit.htm:76
+#, php-format
+msgid "Created on %s"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:138
+#: pntemplates/Extensions_user_componentVersion_edit.htm:269
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:160
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:92
+#: pntemplates/Extensions_admin_globalEvent_edit.htm:71
+#: pntemplates/Extensions_user_packageContent_edit.htm:59
+#: pntemplates/Extensions_user_translation_edit.htm:276
+#: pntemplates/Extensions_user_distribution_edit.htm:78
+#, php-format
+msgid "Last updated by %s"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:155
+#: pntemplates/Extensions_user_componentVersion_edit.htm:286
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:177
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:109
+#: pntemplates/Extensions_admin_globalEvent_edit.htm:90
+#: pntemplates/Extensions_user_packageContent_edit.htm:78
+#: pntemplates/Extensions_user_translation_edit.htm:293
+#: pntemplates/Extensions_user_distribution_edit.htm:95
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:156
+#: pntemplates/Extensions_admin_coreVersion_view.htm:16
+#: pntemplates/Extensions_user_componentVersion_edit.htm:287
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:178
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:110
+#: pntemplates/Extensions_admin_globalEvent_edit.htm:91
+#: pntemplates/Extensions_admin_globalEvent_view.htm:17
+#: pntemplates/Extensions_user_packageContent_edit.htm:79
+#: pntemplates/Extensions_user_distribution_edit.htm:96
+#, php-format
+msgid "Delete %s"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:157
+#: pntemplates/Extensions_user_componentVersion_edit.htm:288
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:179
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:111
+#: pntemplates/Extensions_admin_globalEvent_edit.htm:92
+#: pntemplates/Extensions_user_packageContent_edit.htm:80
+#: pntemplates/Extensions_user_distribution_edit.htm:97
+#, php-format
+msgid "Really delete %s?"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_edit.htm:168
+#: pntemplates/Extensions_user_componentVersion_edit.htm:299
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:190
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:122
+#: pntemplates/Extensions_admin_globalEvent_edit.htm:103
+#: pntemplates/Extensions_user_packageContent_edit.htm:91
+#: pntemplates/Extensions_user_translation_edit.htm:305
+#: pntemplates/Extensions_user_distribution_edit.htm:108
+msgid "OK"
+msgstr ""
+
+#: pntemplates/Extensions_include_component_rss.htm:8
+#: pntemplates/Extensions_user_component_display.htm:45
+#: pntemplates/Extensions_user_component_display.htm:107
+#: pntemplates/Extensions_include_component_atom.htm:24
+msgid "Manufacturer"
+msgstr ""
+
+#: pntemplates/Extensions_include_component_rss.htm:16
+#: pntemplates/Extensions_user_component_view.htm:61
+#: pntemplates/Extensions_user_component_view.htm:89
+#: pntemplates/Extensions_include_main_review.htm:16
+#: pntemplates/Extensions_user_component_display.htm:162
+#: pntemplates/Extensions_user_search.htm:54
+#: pntemplates/Extensions_user_search.htm:102
+#: pntemplates/Extensions_include_component_atom.htm:30
+#: pntemplates/Extensions_user_component_viewsingle.htm:33
+msgid "TargetGroup"
+msgstr ""
+
+#: pntemplates/Extensions_include_component_rss.htm:18
+#: pntemplates/Extensions_user_component_view.htm:119
+#: pntemplates/Extensions_user_componentVersion_edit.htm:192
+#: pntemplates/Extensions_include_component_xml.htm:143
+#: pntemplates/Extensions_user_component_display.htm:125
+#: pntemplates/Extensions_user_component_display.htm:270
+#: pntemplates/Extensions_user_componentVersion_display.htm:97
+#: pntemplates/Extensions_user_search.htm:194
+#: pntemplates/Extensions_include_component_atom.htm:32
+#: pntemplates/Extensions_user_distribution_display.htm:113
+#: pntemplates/Extensions_user_distribution_view.htm:70
+#: pntemplates/Extensions_user_wizard.htm:107
+msgid "Categories"
+msgstr ""
+
+#: pntemplates/Extensions_include_component_rss.htm:27
+#: pntemplates/Extensions_user_component_display.htm:148
+#: pntemplates/Extensions_include_component_atom.htm:41
+#: pntemplates/Extensions_user_distribution_display.htm:128
+msgid "You are not authorized to view this category."
+msgstr ""
+
+#: pntemplates/Extensions_user_header.htm:19
+msgid "Latest news"
+msgstr ""
+
+#: pntemplates/Extensions_user_header.htm:20
+msgid "Overview"
+msgstr ""
+
+#: pntemplates/Extensions_user_header.htm:23
+msgid "Extension overview"
+msgstr ""
+
+#: pntemplates/Extensions_user_header.htm:27
+msgid "Distribution overview"
+msgstr ""
+
+#: pntemplates/Extensions_user_header.htm:31
+msgid "Step by step to a download pack"
+msgstr ""
+
+#: pntemplates/Extensions_user_header.htm:32
+msgid "Wizard"
+msgstr ""
+
+#: pntemplates/Extensions_user_header.htm:39
+#: pntemplates/Extensions_user_translations.htm:21
+msgid "Internationalization of Zikula"
+msgstr ""
+
+#: pntemplates/Extensions_user_header.htm:40
+#: pntemplates/Extensions_user_package_checkout.htm:47
+#: pntemplates/Extensions_user_component_display.htm:206
+#: pntemplates/Extensions_user_componentVersion_display.htm:16
+#: pntemplates/Extensions_user_translation_view.htm:38
+#: pntemplates/Extensions_user_translation_view.htm:52
+#: pntemplates/Extensions_user_translation_view.htm:69
+#: pntemplates/Extensions_user_translation_view.htm:86
+#: pntemplates/Extensions_user_translations.htm:74
+#: pntemplates/Extensions_admin_coreVersion_display.htm:24
+#: pntemplates/Extensions_user_translation_edit.htm:110
+msgid "Translations"
+msgstr ""
+
+#: pntemplates/Extensions_user_header.htm:45
+msgid "Manage own data"
+msgstr ""
+
+#: pntemplates/Extensions_user_header.htm:46
+#: pntemplates/Extensions_user_myoptions.htm:7
+msgid "My options"
+msgstr ""
+
+#: pntemplates/Extensions_user_header.htm:50
+msgid "Database analysis"
+msgstr ""
+
+#: pntemplates/Extensions_user_header.htm:56
+msgid "To the admin area"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:23
+msgid "Stats of today"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:24
+msgid "Stats of yesterday"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:25
+msgid "Stats of the day before yesterday"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:26
+msgid "Stats of this week"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:27
+msgid "Stats of last week"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:28
+msgid "Stats of the week before last"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:29
+msgid "Stats of this month"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:30
+msgid "Stats of last months"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:31
+msgid "Stats of the month before last"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:32
+msgid "Stats of this year"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:33
+msgid "Stats of last year"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:34
+msgid "Stats of the year before last"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:35
+msgid "Stats overall"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:36
+#, php-format
+msgid "Stats from %1$s to %2$s"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:54
+#: pntemplates/Extensions_user_componentVersion_edit.htm:224
+msgid "From:"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:55
+#: pntemplates/Extensions_user_componentVersion_edit.htm:229
+msgid "To:"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:58
+msgid "Period:"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:60
+msgid "Today"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:61
+msgid "Yesterday"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:62
+msgid "The day before yesterday"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:63
+msgid "Current week"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:64
+msgid "Last week"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:65
+msgid "The week before last"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:66
+msgid "Current month"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:67
+msgid "Last month"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:68
+msgid "The month before last"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:69
+msgid "This year"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:70
+msgid "Last year"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:71
+msgid "The year before last"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:72
+msgid "Overall"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:73
+msgid "Custom time period"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:100
+msgid "Downloads per component"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:104
+msgid "Downloads per module"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:108
+msgid "Downloads per theme"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:112
+msgid "Downloads per block"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:116
+msgid "Downloads per plugin"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:120
+msgid "Downloads per ressource"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:124
+msgid "Downloads per distribution"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:130
+msgid "Views per component"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:134
+msgid "Views per module"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:138
+msgid "Views per theme"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:142
+msgid "Views per block"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:146
+msgid "Views per plugin"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:150
+msgid "Views per resource"
+msgstr ""
+
+#: pntemplates/Extensions_user_stats.htm:154
+msgid "Views per distribution"
+msgstr ""
+
+#: pntemplates/Extensions_admin_coreVersion_view.htm:13
+#: pntemplates/Extensions_user_package_checkout.htm:42
+#: pntemplates/Extensions_user_package_view.htm:32
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:7
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:107
+msgid "Core version"
+msgstr ""
+
+#: pntemplates/Extensions_admin_coreVersion_view.htm:54
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:42
+#: pntemplates/Extensions_admin_coreVersion_display.htm:15
+msgid "Supported"
+msgstr "Ondersteund"
+
+#: pntemplates/Extensions_admin_coreVersion_view.htm:74
+#: pntemplates/Extensions_admin_modifyconfig.htm:73
+#: pntemplates/Extensions_admin_modifyconfig.htm:80
+#: pntemplates/Extensions_admin_modifyconfig.htm:87
+#: pntemplates/Extensions_admin_modifyconfig.htm:94
+#: pntemplates/Extensions_admin_modifyconfig.htm:101
+#: pntemplates/Extensions_admin_modifyconfig.htm:113
+#: pntemplates/Extensions_admin_modifyconfig.htm:125
+#: pntemplates/Extensions_admin_coreVersion_display.htm:18
+msgid "Yes"
+msgstr ""
+
+#: pntemplates/Extensions_admin_coreVersion_view.htm:76
+#: pntemplates/Extensions_admin_modifyconfig.htm:75
+#: pntemplates/Extensions_admin_modifyconfig.htm:82
+#: pntemplates/Extensions_admin_modifyconfig.htm:89
+#: pntemplates/Extensions_admin_modifyconfig.htm:96
+#: pntemplates/Extensions_admin_modifyconfig.htm:103
+#: pntemplates/Extensions_admin_modifyconfig.htm:115
+#: pntemplates/Extensions_admin_modifyconfig.htm:127
+#: pntemplates/Extensions_admin_coreVersion_display.htm:20
+msgid "No"
+msgstr ""
+
+#: pntemplates/Extensions_user_package_checkout.htm:5
+#: pntemplates/Extensions_user_package_view.htm:5
+#: pntemplates/Extensions_user_package_dialog.htm:3
+msgid "Your package selection in the overview"
+msgstr ""
+
+#: pntemplates/Extensions_user_package_checkout.htm:36
+#: pntemplates/Extensions_user_package_view.htm:29
+msgid "Content of your download pack"
+msgstr ""
+
+#: pntemplates/Extensions_user_package_checkout.htm:48
+msgid "English"
+msgstr ""
+
+#: pntemplates/Extensions_user_package_checkout.htm:52
+msgid "Archive type"
+msgstr ""
+
+#: pntemplates/Extensions_user_package_checkout.htm:57
+#: pntemplates/Extensions_user_package_checkout.htm:73
+#: pntemplates/Extensions_user_package_view.htm:40
+#: pntemplates/Extensions_user_package_view.htm:61
+msgid "Remove"
+msgstr ""
+
+#: pntemplates/Extensions_user_package_checkout.htm:75
+#: pntemplates/Extensions_user_package_view.htm:65
+msgid ""
+"You have no extensions selected yet. Just browse a little in the database, "
+"there is something useful also for you certainly."
+msgstr ""
+
+#: pntemplates/Extensions_user_package_checkout.htm:85
+msgid "Conflicts in your download pack"
+msgstr ""
+
+#: pntemplates/Extensions_user_package_checkout.htm:102
+msgid "Additional questions relating your download pack"
+msgstr ""
+
+#: pntemplates/Extensions_user_package_checkout.htm:104
+msgid "Used core version:"
+msgstr ""
+
+#: pntemplates/Extensions_user_package_checkout.htm:105
+msgid "Do not embed a core"
+msgstr ""
+
+#: pntemplates/Extensions_user_package_checkout.htm:106
+msgid "Use the following core"
+msgstr ""
+
+#: pntemplates/Extensions_user_package_checkout.htm:114
+msgid ""
+"Which additional languages do you want to embed into your download pack? "
+"English ist not being listed, as it is always included as default language."
+msgstr ""
+
+#: pntemplates/Extensions_user_package_checkout.htm:121
+msgid ""
+"Note: not all translations are available for all components. We are pleased "
+"about corrections."
+msgstr ""
+
+#: pntemplates/Extensions_user_package_checkout.htm:123
+msgid ""
+"Please select the archive type in which your download should be packaged."
+msgstr ""
+
+#: pntemplates/Extensions_user_package_checkout.htm:132
+msgid "The download is being generated.<br />Please wait ..."
+msgstr ""
+
+#: pntemplates/Extensions_user_package_checkout.htm:138
+msgid "Recheck"
+msgstr ""
+
+#: pntemplates/Extensions_user_package_checkout.htm:138
+#: pntemplates/Extensions_user_package_checkout.htm:142
+#: pntemplates/Extensions_user_package_checkout.htm:148
+#: pntemplates/EZComments/extensiondb/ezcomments_user_view.htm:153
+#: pntemplates/EZComments/extensiondbreviews/ezcomments_user_view.htm:156
+#: pntemplates/Extensions_user_package_edit.htm:40
+#: pntemplates/Extensions_block_listobjects_modify.htm:43
+#: pntemplates/Extensions_user_package_dialog.htm:54
+msgid "or"
+msgstr ""
+
+#: pntemplates/Extensions_user_package_checkout.htm:144
+#: pntemplates/Extensions_user_wizard.htm:153
+msgid "Finish"
+msgstr ""
+
+#: pntemplates/Extensions_user_package_checkout.htm:148
+msgid "To the download"
+msgstr ""
+
+#: pntemplates/Extensions_include_dialog_conflict.htm:7
+#, php-format
+msgid ""
+"You want to add \"%1$s\" version \"%2$s\", while having already selected "
+"version \"%3$s\"."
+msgstr ""
+
+#: pntemplates/Extensions_include_dialog_conflict.htm:10
+#: pntemplates/Extensions_include_dialog_conflict.htm:36
+msgid "Please choose how the system should treat this problem."
+msgstr ""
+
+#: pntemplates/Extensions_include_dialog_conflict.htm:11
+#: pntemplates/Extensions_include_dialog_conflict.htm:37
+msgid "Solve"
+msgstr ""
+
+#: pntemplates/Extensions_include_dialog_conflict.htm:12
+#, php-format
+msgid "Adds the newer version \"%s\" to your selection."
+msgstr ""
+
+#: pntemplates/Extensions_include_dialog_conflict.htm:14
+#: pntemplates/Extensions_include_dialog_conflict.htm:51
+msgid "Ignore now"
+msgstr ""
+
+#: pntemplates/Extensions_include_dialog_conflict.htm:15
+msgid ""
+"Adds both versions to your selection. You will asked this question again "
+"later."
+msgstr ""
+
+#: pntemplates/Extensions_include_dialog_conflict.htm:22
+msgid "The following dependency has not been solved yet."
+msgstr ""
+
+#: pntemplates/Extensions_include_dialog_conflict.htm:24
+#, php-format
+msgid ""
+"<b>%1$s</b> recommends the installation of <b>%2$s</b>.<br />Do you want to "
+"install <b>%2$s</b> additionally?"
+msgstr ""
+
+#: pntemplates/Extensions_include_dialog_conflict.htm:26
+#, php-format
+msgid ""
+"<b>%1$s</b> requires the additional installation of <b>%2$s</b> to work "
+"properly.<br />Do you want to install both modules?"
+msgstr ""
+
+#: pntemplates/Extensions_include_dialog_conflict.htm:28
+#, php-format
+msgid ""
+"<b>%2$s</b> has a conflict with <b>%1$s</b>.<br />Do you want to replace <b>"
+"%2$s</b> by <b>%1$s</b>?"
+msgstr ""
+
+#: pntemplates/Extensions_include_dialog_conflict.htm:30
+#, php-format
+msgid ""
+"<b>%1$s</b> is being recommended by <b>%2$s</b>.<br />Do you also want to "
+"remove <b>%2$s</b> from your selection?"
+msgstr ""
+
+#: pntemplates/Extensions_include_dialog_conflict.htm:32
+#, php-format
+msgid ""
+"<b>%1$s</b> is being required by <b>%2$s</b>.<br />Do you want to remove "
+"both modules?"
+msgstr ""
+
+#: pntemplates/Extensions_include_dialog_conflict.htm:40
+#: pntemplates/Extensions_include_dialog_conflict.htm:42
+#, php-format
+msgid "Adds <b>%s</b> to your selection."
+msgstr ""
+
+#: pntemplates/Extensions_include_dialog_conflict.htm:44
+#, php-format
+msgid "Adds <b>%1$s</b> to your selection and removes <b>%2$s</b>."
+msgstr ""
+
+#: pntemplates/Extensions_include_dialog_conflict.htm:46
+#, php-format
+msgid "Removes <b>%s</b> from your selection."
+msgstr ""
+
+#: pntemplates/Extensions_include_dialog_conflict.htm:48
+msgid "Removes both extensions from your selection."
+msgstr ""
+
+#: pntemplates/Extensions_include_dialog_conflict.htm:52
+msgid ""
+"Does not perform any further changes. You will be asked this question again "
+"later."
+msgstr ""
+
+#: pntemplates/Extensions_include_dialog_conflict.htm:54
+msgid "Ignore completely"
+msgstr ""
+
+#: pntemplates/Extensions_include_dialog_conflict.htm:55
+msgid ""
+"Does not perform any further changes. You will not be asked this question "
+"again."
+msgstr ""
+
+#: pntemplates/Extensions_user_component_view.htm:26
+#: pntemplates/Extensions_user_search.htm:48
+#: pntemplates/Extensions_user_distribution_view.htm:23
+msgid "Display"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_view.htm:57
+#: pntemplates/Extensions_user_search.htm:50
+#: pntemplates/Extensions_block_listobjects_modify.htm:16
+#: pntemplates/Extensions_user_distribution_view.htm:33
+msgid "Sorting"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_view.htm:65
+#: pntemplates/Extensions_user_component_display.htm:165
+#: pntemplates/Extensions_user_component_display.htm:232
+#: pntemplates/Extensions_user_search.htm:58
+#: pntemplates/Extensions_user_component_viewsingle.htm:35
+#: pntemplates/Extensions_block_listobjects_modify.htm:21
+#: pntemplates/Extensions_user_distribution_display.htm:138
+#: pntemplates/Extensions_user_distribution_display.htm:176
+#: pntemplates/Extensions_user_distribution_viewsingle.htm:19
+#: pntemplates/Extensions_user_distribution_view.htm:39
+#: pntemplates/Extensions_include_distribution_componentList.htm:25
+msgid "Status"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_view.htm:67
+#: pntemplates/Extensions_user_search.htm:60
+#: pntemplates/Extensions_user_distribution_view.htm:40
+msgid "Number of comments"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_view.htm:68
+#: pntemplates/Extensions_user_search.htm:61
+#: pntemplates/Extensions_user_distribution_view.htm:41
+msgid "Number of reviews"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_view.htm:69
+#: pntemplates/Extensions_user_search.htm:62
+#: pntemplates/Extensions_user_distribution_view.htm:42
+msgid "Average rating"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_view.htm:72
+#: pntemplates/Extensions_user_search.htm:65
+#: pntemplates/Extensions_block_listobjects_modify.htm:24
+#: pntemplates/Extensions_user_distribution_view.htm:45
+msgid "Ascending"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_view.htm:73
+#: pntemplates/Extensions_user_search.htm:66
+#: pntemplates/Extensions_block_listobjects_modify.htm:25
+#: pntemplates/Extensions_user_distribution_view.htm:46
+msgid "Descending"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_view.htm:101
+#: pntemplates/Extensions_user_search.htm:71
+#: pntemplates/Extensions_block_listobjects_modify.htm:30
+#: pntemplates/Extensions_user_distribution_view.htm:51
+msgid "Items per page"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_view.htm:138
+#: pntemplates/Extensions_user_component_view_rss.htm:4
+#: pntemplates/Extensions_user_component_view_atom.htm:3
+#, php-format
+msgid "Latest Zikula %s"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_view.htm:157
+#, php-format
+msgid "%1$s in category \"%2$s\""
+msgstr ""
+
+#: pntemplates/Extensions_user_component_view.htm:171
+msgid "get the rss feed for the current selection"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_view.htm:171
+msgid "RSS feed"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_view.htm:172
+msgid "get the atom feed for the current selection"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_view.htm:172
+msgid "Atom feed"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_view.htm:177
+msgid "Welcome to the Zikula extension repository"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_view.htm:178
+msgid ""
+"This database contains/collects several modules, themes, blocks, plugins and "
+"other resources available for Zikula along with download and support links. "
+"We make every effort to keep this database up to date, but if you find a "
+"broken listing, please notify an admin and we will attempt to fix the "
+"problem."
+msgstr ""
+
+#: pntemplates/Extensions_user_component_view.htm:179
+msgid "Submit your stuff"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_view.htm:180
+msgid ""
+"Would you like to list a component here? Then feel free to add an extension "
+"to the database. Each extension should only be listed once. If you already "
+"have a listing in the database which you need to modify, visit this entry to "
+"manage it."
+msgstr ""
+
+#: pntemplates/Extensions_user_component_view.htm:181
+msgid "Legacy components"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_view.htm:182
+msgid ""
+"You can find further extensions in the old database in case you need "
+"something not listed here. Please consider that these components might be "
+"obsolete."
+msgstr ""
+
+#: pntemplates/Extensions_user_component_view.htm:214
+#: pntemplates/Extensions_user_distribution_view.htm:145
+msgid "Expand"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_view.htm:215
+#: pntemplates/Extensions_user_distribution_view.htm:146
+msgid "Collapse"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:9
+#: pntemplates/Extensions_user_componentVersion_edit.htm:284
+#: pntemplates/Extensions_user_translation_display.htm:15
+#: pntemplates/Extensions_user_historyevents.xml:5
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:9
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:175
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:211
+#: pntemplates/Extensions_user_distribution_display.htm:193
+#: pntemplates/Extensions_include_distribution_componentList.htm:7
+msgid "Version"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:11
+#: pntemplates/Extensions_user_componentVersion_edit.htm:15
+msgid "Edit %i"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:13
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:13
+#: pntemplates/Extensions_user_distribution_display.htm:49
+msgid "Add new version"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:49
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:34
+msgid "Version data"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:51
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:36
+msgid "Version number"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:52
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:37
+msgid "Input the version number"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:56
+#: pntemplates/Extensions_user_component_display.htm:226
+#: pntemplates/Extensions_user_componentVersion_display.htm:43
+msgid "Security update"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:57
+msgid "Is this a critical update in terms of security?"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:77
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:54
+msgid "Please choose which core versions are supported."
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:88
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:65
+msgid "Input the changelog for this version"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:92
+msgid "Extension upload"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:94
+#: pntemplates/Extensions_user_componentVersion_edit.htm:123
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:73
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:98
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:63
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:77
+msgid ""
+"Notice: You may leave this field empty if nothing has changed in the package."
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:97
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:76
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:54
+#: pntemplates/Extensions_user_translation_edit.htm:208
+msgid "File package"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:104
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:83
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:61
+#: pntemplates/Extensions_user_translation_edit.htm:211
+msgid "Allowed archive types"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:105
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:85
+msgid ""
+"The root of the package <strong>MUST</strong> correspond to the Core's root "
+"directory. The archive file may contain the following directories"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:107
+#, php-format
+msgid ""
+"As %s is a commercial component it is not required to upload it here. If you "
+"submit no package, users will be refered to the manufacturer page you "
+"specified after downloading their selections."
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:114
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:89
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:68
+#: pntemplates/Extensions_user_translation_edit.htm:220
+msgid "Use SVN"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:116
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:91
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:70
+msgid ""
+"You can import the package directly from a SVN repository in the <a href="
+"\"http://code.zikula.org\" target=\"_blank\">CoZi</a>. If you also select an "
+"upload at the same time, the file takes priority."
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:117
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:92
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:71
+#: pntemplates/Extensions_user_translation_edit.htm:223
+msgid "Select SVN path"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:120
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:95
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:74
+#: pntemplates/Extensions_user_translation_edit.htm:226
+msgid "Selected path:"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:120
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:95
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:74
+#: pntemplates/Extensions_user_translation_edit.htm:226
+msgid "none"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:136
+#: pntemplates/Extensions_user_component_display.htm:192
+#: pntemplates/Extensions_user_componentVersion_display.htm:55
+#: pntemplates/Extensions_user_search.htm:166
+msgid "Technologies"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:138
+msgid "Please choose which core techniques are used."
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:142
+#: pntemplates/Extensions_user_component_display.htm:241
+#: pntemplates/Extensions_user_componentVersion_display.htm:52
+msgid "Custom requirements"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:143
+#: pntemplates/Extensions_user_componentVersion_edit.htm:144
+msgid "Input any custom requirements which are worth to mention."
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:151
+msgid "Integration"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:159
+#: pntemplates/Extensions_user_component_display.htm:245
+#: pntemplates/Extensions_user_componentVersion_display.htm:64
+msgid "Code conformance"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:160
+msgid ""
+"How close is the code to the API? (0 = very dirty, 10 = follows every single "
+"guideline)"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:169
+msgid "Does this module support hooks?"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:174
+msgid "Please specifiy which hook types are supported in detail."
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:178
+msgid "Does this module provide hooks?"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:183
+msgid "Please specifiy which hook types are provided in detail."
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:187
+#: pntemplates/Extensions_user_component_display.htm:268
+#: pntemplates/Extensions_user_componentVersion_display.htm:95
+#: pntemplates/Extensions_user_search.htm:182
+msgid "Language system"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:188
+msgid "Choose the language system"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:193
+msgid "Does this module use a categorization?"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:203
+#: pntemplates/Extensions_user_component_display.htm:275
+#: pntemplates/Extensions_user_componentVersion_display.htm:37
+msgid "Dependencies"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:207
+msgid "Add new dependency"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:210
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:114
+msgid "Find component:"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:221
+msgid "Constraint to specific versions"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:236
+msgid "Choose the dependency type"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:238
+#: pntemplates/Extensions_user_componentVersion_edit.htm:322
+#: pntemplates/Extensions_include_component_dependencyVersion.htm:2
+#: pntemplates/Extensions_include_dependencyVersion.htm:2
+msgid "Required"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:240
+#: pntemplates/Extensions_user_componentVersion_edit.htm:324
+#: pntemplates/Extensions_include_component_dependencyVersion.htm:4
+#: pntemplates/Extensions_include_dependencyVersion.htm:4
+msgid "Conflicts"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:244
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:133
+msgid "Add"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:318
+#: pntemplates/Extensions_include_component_dependencyVersion.htm:5
+#: pntemplates/Extensions_include_dependencyVersion.htm:5
+msgid "Versions"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:319
+#: pntemplates/Extensions_include_component_dependencyVersion.htm:5
+#: pntemplates/Extensions_include_dependencyVersion.htm:5
+msgid "all"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:320
+#: pntemplates/Extensions_include_component_dependencyVersion.htm:7
+#: pntemplates/Extensions_include_component_dependencyVersion.htm:9
+#: pntemplates/Extensions_include_dependencyVersion.htm:7
+#: pntemplates/Extensions_include_dependencyVersion.htm:9
+msgid "from"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_edit.htm:321
+#: pntemplates/Extensions_include_component_dependencyVersion.htm:8
+#: pntemplates/Extensions_include_component_dependencyVersion.htm:9
+#: pntemplates/Extensions_include_dependencyVersion.htm:8
+#: pntemplates/Extensions_include_dependencyVersion.htm:9
+msgid "to"
+msgstr ""
+
+#: pntemplates/Extensions_include_component_xml.htm:81
+#: pntemplates/Extensions_user_component_viewsingle.htm:48
+#: pntemplates/Extensions_user_distribution_viewsingle.htm:32
+#, php-format
+msgid "%s rating"
+msgid_plural "%s ratings"
+msgstr[0] "%s beoordeling"
+msgstr[1] "%s beoordelingen"
+
+#: pntemplates/Extensions_user_component_view_rss.htm:6
+#: pntemplates/Extensions_user_component_view_atom.htm:4
+#, php-format
+msgid ""
+"A direct feed from the extensions repository at http://community.zikula.org "
+"showing the last updated  %s"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_display.htm:26
+#: pntemplates/Extensions_user_distribution_display.htm:26
+msgid "Directly to the comments"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_display.htm:26
+#: pntemplates/Extensions_user_component_display.htm:299
+#: pntemplates/Extensions_user_distribution_display.htm:26
+#: pntemplates/Extensions_user_distribution_display.htm:213
+msgid "Comments"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_display.htm:27
+#: pntemplates/Extensions_user_distribution_display.htm:27
+#: pntemplates/Extensions_user_distribution_display.htm:233
+msgid "History"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_display.htm:33
+#: pntemplates/Extensions_user_distribution_display.htm:33
+msgid "Links"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_display.htm:36
+#: pntemplates/Extensions_user_distribution_display.htm:37
+msgid "Demo"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_display.htm:39
+#: pntemplates/Extensions_user_distribution_display.htm:40
+msgid "Support"
+msgstr "Ondersteund"
+
+#: pntemplates/Extensions_user_component_display.htm:42
+#: pntemplates/Extensions_user_distribution_display.htm:43
+msgid "Donation"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_display.htm:51
+msgid "Add a new version"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_display.htm:54
+#: pntemplates/Extensions_user_distribution_display.htm:52
+msgid "Management"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_display.htm:56
+msgid "Edit this extension"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_display.htm:58
+#: pntemplates/Extensions_user_distribution_editcats.htm:14
+#: pntemplates/Extensions_user_component_editcats.htm:25
+#: pntemplates/Extensions_user_distribution_display.htm:55
+msgid "Manage categories"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_display.htm:59
+msgid "Sync a language"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_display.htm:75
+#: pntemplates/Extensions_user_distribution_display.htm:71
+#: pntemplates/Extensions_user_wizard.htm:77
+#: pntemplates/Extensions_user_wizard.htm:120
+#, php-format
+msgid "%s view"
+msgid_plural "%s views"
+msgstr[0] "%s vertoning"
+msgstr[1] "%s vertoningen"
+
+#: pntemplates/Extensions_user_component_display.htm:77
+#: pntemplates/Extensions_user_distribution_display.htm:73
+#: pntemplates/Extensions_user_wizard.htm:77
+#: pntemplates/Extensions_user_wizard.htm:120
+#, php-format
+msgid "%s download"
+msgid_plural "%s downloads"
+msgstr[0] "%s download"
+msgstr[1] "%s downloads"
+
+#: pntemplates/Extensions_user_component_display.htm:111
+msgid "Publisher"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_display.htm:117
+#: pntemplates/Extensions_admin_globalEvent_edit.htm:54
+#: pntemplates/Extensions_admin_globalEvent_view.htm:65
+#: pntemplates/Extensions_user_distribution_display.htm:132
+#: pntemplates/Extensions_admin_globalEvent_display.htm:17
+#: pntemplates/Extensions_user_distribution_view.htm:36
+#: pntemplates/Extensions_user_distribution_edit.htm:37
+msgid "Description"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_display.htm:121
+#: pntemplates/Extensions_user_component_viewsingle.htm:28
+#: pntemplates/Extensions_user_distribution_display.htm:135
+msgid "Screenshots"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_display.htm:185
+msgid "Edit this version"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_display.htm:227
+#: pntemplates/Extensions_user_componentVersion_display.htm:44
+msgid ""
+"IMPORTANT: This is a security update! If you use this extension, you should "
+"upgrade it immediately!"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_display.htm:248
+#: pntemplates/Extensions_user_componentVersion_display.htm:67
+msgid "Supported hooks"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_display.htm:255
+msgid "This module does not support any hooks."
+msgstr ""
+
+#: pntemplates/Extensions_user_component_display.htm:258
+#: pntemplates/Extensions_user_componentVersion_display.htm:92
+msgid "Provided hooks"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_display.htm:265
+msgid "This module does not provide any hooks."
+msgstr ""
+
+#: pntemplates/Extensions_user_component_display.htm:288
+msgid "No versions available yet."
+msgstr ""
+
+#: pntemplates/Extensions_user_component_display.htm:300
+#: pntemplates/Extensions_user_distribution_display.htm:214
+#, php-format
+msgid ""
+"Write us your opinion about %s. Bug reports and feature request should be "
+"submitted at the project's tracker though."
+msgstr ""
+
+#: pntemplates/Extensions_user_component_display.htm:309
+#: pntemplates/Extensions_user_distribution_display.htm:223
+msgid "Reviews"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_display.htm:310
+#: pntemplates/Extensions_user_distribution_display.htm:224
+#, php-format
+msgid ""
+"You tried %1$s out or are using it? Share your experience and create a "
+"review about %1$s."
+msgstr ""
+
+#: pntemplates/Extensions_user_distribution_editcats.htm:18
+#: pntemplates/Extensions_user_component_editcats.htm:29
+#: pntemplates/Extensions_user_search.htm:115
+msgid "Choose Category"
+msgstr ""
+
+#: pntemplates/Extensions_user_distribution_editcats.htm:34
+#: pntemplates/Extensions_user_component_editcats.htm:45
+#: pntemplates/Extensions_user_package_dialog.htm:54
+msgid "Update"
+msgstr ""
+
+#: pntemplates/Extensions_include_stat_singleList.htm:22
+msgid "No data collected yet."
+msgstr ""
+
+#: pntemplates/Extensions_include_report_issue.htm:2
+msgid "Report a problem"
+msgstr ""
+
+#: pntemplates/Extensions_include_report_issue.htm:6
+#, php-format
+msgid ""
+"Here you can inform the maintainer of %1$s about any issues you experience. "
+"Do not use this function for reporting errors or feature requests relating "
+"%1$s itself (there are trackers in the CoZi projects for that). This form is "
+"only intended for problems with this entry in the Zikula Extensions "
+"Repository."
+msgstr ""
+
+#: pntemplates/Extensions_include_report_issue.htm:13
+msgid "Error type"
+msgstr ""
+
+#: pntemplates/Extensions_include_report_issue.htm:18
+msgid "Translation broken"
+msgstr ""
+
+#: pntemplates/Extensions_include_report_issue.htm:20
+msgid "Other problem"
+msgstr ""
+
+#: pntemplates/Extensions_include_report_issue.htm:25
+msgid "Error details"
+msgstr ""
+
+#: pntemplates/Extensions_include_report_issue.htm:27
+msgid "Input which errors you experience."
+msgstr ""
+
+#: pntemplates/Extensions_include_report_issue.htm:27
+msgid "For translations ensure to specify also the language."
+msgstr ""
+
+#: pntemplates/Extensions_include_report_issue.htm:31
+msgid "Send report"
+msgstr ""
+
+#: pntemplates/Extensions_user_package_result.htm:28
+#, php-format
+msgid ""
+"Your package has been generated successfully.<br />If the download does not "
+"begin shortly, please use this <a href=\"%s\" title=\"Get your download pack"
+"\">direct link</a>.<br /><br />"
+msgstr ""
+
+#: pntemplates/Extensions_user_package_result.htm:32
+msgid ""
+"You selected some commercial components which are not available within this "
+"repository. You can download/purchase them at the following sites:"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_display.htm:20
+#: pntemplates/Extensions_user_translation_edit.htm:7
+#: pntemplates/Extensions_user_translation_edit.htm:118
+#: pntemplates/Extensions_user_translation_edit.htm:149
+#: pntemplates/Extensions_user_translation_edit.htm:291
+msgid "Translation"
+msgstr ""
+
+#: pntemplates/Extensions_user_componentVersion_display.htm:29
+#: pntemplates/Extensions_user_componentVersion_display.htm:30
+#: pntemplates/Extensions_user_componentVersion_display.htm:31
+#, php-format
+msgid "Translation %s"
+msgstr ""
+
+#: pntemplates/Extensions_user_search.htm:5
+#: pntemplates/Extensions_user_search.htm:18
+#: pntemplates/Extensions_search.htm:5
+msgid "Search extensions"
+msgstr ""
+
+#: pntemplates/Extensions_user_search.htm:30
+msgid "Search term"
+msgstr ""
+
+#: pntemplates/Extensions_user_search.htm:36
+msgid "Search in"
+msgstr ""
+
+#: pntemplates/Extensions_user_search.htm:40
+msgid "Name + short description"
+msgstr ""
+
+#: pntemplates/Extensions_user_search.htm:41
+msgid "Name + extended description"
+msgstr ""
+
+#: pntemplates/Extensions_user_search.htm:42
+msgid "Name + both descriptions"
+msgstr ""
+
+#: pntemplates/Extensions_user_search.htm:86
+#: pntemplates/Extensions_block_listobjects_modify.htm:41
+msgid "Filter"
+msgstr ""
+
+#: pntemplates/Extensions_user_search.htm:147
+msgid "Only free"
+msgstr ""
+
+#: pntemplates/Extensions_user_search.htm:148
+msgid "Only commercial"
+msgstr ""
+
+#: pntemplates/Extensions_user_search.htm:149
+msgid "Both"
+msgstr ""
+
+#: pntemplates/Extensions_user_search.htm:157
+msgid "All versions"
+msgstr ""
+
+#: pntemplates/Extensions_user_translation_view.htm:6
+msgid "Internationalization"
+msgstr ""
+
+#: pntemplates/Extensions_user_translation_view.htm:47
+msgid "Not translated yet"
+msgstr ""
+
+#: pntemplates/Extensions_user_translation_view.htm:64
+msgid "Incompletely translated"
+msgstr ""
+
+#: pntemplates/Extensions_user_translation_view.htm:81
+msgid "Completely translated"
+msgstr ""
+
+#: pntemplates/EZComments/extensiondb/ezcomments_user_view.htm:9
+#: pntemplates/EZComments/extensiondb/ezcomments_user_view.htm:11
+#, php-format
+msgid "Feed for the comments to %s"
+msgstr ""
+
+#: pntemplates/EZComments/extensiondb/ezcomments_user_view.htm:30
+#: pntemplates/EZComments/extensiondbreviews/ezcomments_user_view.htm:34
+msgid "Comment by"
+msgstr ""
+
+#: pntemplates/EZComments/extensiondb/ezcomments_user_view.htm:86
+#: pntemplates/EZComments/extensiondbreviews/ezcomments_user_view.htm:90
+#, php-format
+msgid "Version: %s"
+msgstr ""
+
+#: pntemplates/EZComments/extensiondb/ezcomments_user_view.htm:104
+msgid "Add a comment"
+msgstr ""
+
+#: pntemplates/EZComments/extensiondb/ezcomments_user_view.htm:113
+msgid "Subject"
+msgstr ""
+
+#: pntemplates/EZComments/extensiondb/ezcomments_user_view.htm:120
+msgid "Require name for unregistered user"
+msgstr ""
+
+#: pntemplates/EZComments/extensiondb/ezcomments_user_view.htm:125
+msgid "E-mail address (will not be published)"
+msgstr ""
+
+#: pntemplates/EZComments/extensiondb/ezcomments_user_view.htm:130
+msgid "Website"
+msgstr ""
+
+#: pntemplates/EZComments/extensiondb/ezcomments_user_view.htm:136
+#: pntemplates/Extensions_user_historyevents.xml:11
+msgid "Comment"
+msgstr ""
+
+#: pntemplates/EZComments/extensiondb/ezcomments_user_view.htm:145
+msgid "Submit comment"
+msgstr ""
+
+#: pntemplates/EZComments/extensiondb/ezcomments_user_view.htm:150
+#: pntemplates/EZComments/extensiondbreviews/ezcomments_user_view.htm:153
+msgid "Note"
+msgstr ""
+
+#: pntemplates/EZComments/extensiondb/ezcomments_user_view.htm:151
+#: pntemplates/EZComments/extensiondbreviews/ezcomments_user_view.htm:154
+msgid "Only registered users are allowed to add reviews."
+msgstr ""
+
+#: pntemplates/EZComments/extensiondb/ezcomments_user_view.htm:152
+#: pntemplates/EZComments/extensiondbreviews/ezcomments_user_view.htm:155
+msgid "Register an account"
+msgstr ""
+
+#: pntemplates/EZComments/extensiondb/ezcomments_user_view.htm:154
+#: pntemplates/EZComments/extensiondbreviews/ezcomments_user_view.htm:157
+msgid "Log in"
+msgstr ""
+
+#: pntemplates/EZComments/extensiondbreviews/ezcomments_user_view.htm:10
+#: pntemplates/EZComments/extensiondbreviews/ezcomments_user_view.htm:14
+#, php-format
+msgid "Feed for the reviews to %s"
+msgstr ""
+
+#: pntemplates/EZComments/extensiondbreviews/ezcomments_user_view.htm:108
+msgid "Add a review"
+msgstr ""
+
+#: pntemplates/EZComments/extensiondbreviews/ezcomments_user_view.htm:117
+#: pntemplates/Extensions_admin_globalEvent_edit.htm:34
+#: pntemplates/Extensions_admin_globalEvent_view.htm:38
+msgid "Title"
+msgstr ""
+
+#: pntemplates/EZComments/extensiondbreviews/ezcomments_user_view.htm:139
+#: pntemplates/Extensions_user_historyevents.xml:16
+msgid "Review"
+msgstr ""
+
+#: pntemplates/EZComments/extensiondbreviews/ezcomments_user_view.htm:148
+msgid "Submit review"
+msgstr ""
+
+#: pntemplates/Extensions_user_historyevents.xml:3
+#, php-format
+msgid "Project for %s created"
+msgstr ""
+
+#: pntemplates/Extensions_user_historyevents.xml:5
+msgid "released"
+msgstr ""
+
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:71
+msgid "Distribution files upload"
+msgstr ""
+
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:84
+msgid ""
+"Distribution files are additional resources like custom templates, plugins "
+"or documentation. The package should also include the distributions custom "
+"postinstall script if one exists. But the package should <strong>NOT</"
+"strong> contain modules, themes or other extensions."
+msgstr ""
+
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:108
+msgid "Contained components"
+msgstr ""
+
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:111
+msgid "Add new extension"
+msgstr ""
+
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:122
+msgid "Versioning:"
+msgstr ""
+
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:124
+msgid "Always use newest version"
+msgstr ""
+
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:126
+msgid "Use a specific version"
+msgstr ""
+
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:136
+msgid ""
+"<strong>Note:</strong> all components conflicting with those which are "
+"already selected are excluded automatically."
+msgstr ""
+
+#: pntemplates/Extensions_user_distributionVersion_edit.htm:212
+#: pntemplates/Extensions_user_distribution_display.htm:193
+#: pntemplates/Extensions_include_distribution_componentList.htm:7
+msgid "newest"
+msgstr ""
+
+#: pntemplates/Extensions_user_component_viewsingle.htm:43
+#: pntemplates/Extensions_user_distribution_viewsingle.htm:27
+#, php-format
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s reactie"
+msgstr[1] "%s reacties"
+
+#: pntemplates/Extensions_user_component_viewsingle.htm:46
+#: pntemplates/Extensions_user_distribution_viewsingle.htm:30
+#, php-format
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] "%s beoordeling"
+msgstr[1] "%s beoordelingen"
+
+#: pntemplates/Extensions_block_listobjects_modify.htm:3
+msgid "Object type"
+msgstr "Object type"
+
+#: pntemplates/Extensions_block_listobjects_modify.htm:43
+msgid "syntax like known from pagesetter, e.g."
+msgstr ""
+
+#: pntemplates/Extensions_include_history_timeline.htm:3
+msgid ""
+"This graph shows how views and downloads developed. It also contains several "
+"events in form of vertical bars. Thereby are local events, as a new version "
+"or a comment, and global events, like for example new core releases or other "
+"appointments."
+msgstr ""
+
+#: pntemplates/Extensions_include_history_timeline.htm:8
+msgid ""
+"The history appears after one month, as soon as enough data has been "
+"collected."
+msgstr ""
+
+#: pntemplates/Extensions_user_translations.htm:29
+msgid "Help with the translation project!"
+msgstr ""
+
+#: pntemplates/Extensions_user_translations.htm:31
+msgid "For Zikula 1.2+ (gettext)"
+msgstr ""
+
+#: pntemplates/Extensions_user_translations.htm:44
+#, php-format
+msgid "Go to %s project in the translation portal"
+msgstr ""
+
+#: pntemplates/Extensions_user_translations.htm:49
+#, php-format
+msgid "Sync all the %s translations for the core"
+msgstr ""
+
+#: pntemplates/Extensions_user_translations.htm:50
+#, php-format
+msgid "Sync all the %s translations for modules"
+msgstr ""
+
+#: pntemplates/Extensions_user_translations.htm:51
+#, php-format
+msgid "Sync all the %s translations for themes"
+msgstr ""
+
+#: pntemplates/Extensions_user_translations.htm:56
+msgid "Go to the translation portal"
+msgstr ""
+
+#: pntemplates/Extensions_user_translations.htm:62
+msgid "For Zikula 1.1.x and earlier versions (non gettext)"
+msgstr ""
+
+#: pntemplates/Extensions_user_translations.htm:87
+msgid ""
+"To improve clearness we reduced the languages for the beginning. If you want "
+"to see an additional language, please simply post it at the forums to get it "
+"added here."
+msgstr ""
+
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:37
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:39
+msgid "Input the name of the core version"
+msgstr ""
+
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:45
+msgid "Is this core version supported?"
+msgstr ""
+
+#: pntemplates/Extensions_admin_coreVersion_edit.htm:51
+msgid "Core upload"
+msgstr ""
+
+#: pntemplates/Extensions_admin_globalEvent_edit.htm:5
+#: pntemplates/Extensions_admin_globalEvent_edit.htm:88
+#: pntemplates/Extensions_admin_globalEvent_view.htm:14
+msgid "Global event"
+msgstr ""
+
+#: pntemplates/Extensions_admin_globalEvent_edit.htm:35
+msgid "Input the title of the event"
+msgstr ""
+
+#: pntemplates/Extensions_admin_globalEvent_edit.htm:38
+#: pntemplates/Extensions_admin_globalEvent_view.htm:47
+#: pntemplates/Extensions_admin_globalEvent_display.htm:13
+msgid "Start date"
+msgstr ""
+
+#: pntemplates/Extensions_admin_globalEvent_edit.htm:40
+#: pntemplates/Extensions_admin_globalEvent_edit.htm:42
+msgid "Input the start date"
+msgstr ""
+
+#: pntemplates/Extensions_admin_globalEvent_edit.htm:46
+#: pntemplates/Extensions_admin_globalEvent_view.htm:56
+#: pntemplates/Extensions_admin_globalEvent_display.htm:15
+msgid "End date"
+msgstr ""
+
+#: pntemplates/Extensions_admin_globalEvent_edit.htm:48
+#: pntemplates/Extensions_admin_globalEvent_edit.htm:50
+msgid "Input the end date"
+msgstr ""
+
+#: pntemplates/Extensions_admin_globalEvent_edit.htm:55
+msgid "Input a description for the event"
+msgstr ""
+
+#: pntemplates/Extensions_admin_globalEvent_edit.htm:58
+#: pntemplates/Extensions_admin_globalEvent_view.htm:74
+#: pntemplates/Extensions_admin_globalEvent_display.htm:20
+msgid "Url"
+msgstr ""
+
+#: pntemplates/Extensions_admin_globalEvent_edit.htm:59
+msgid "Input an optional url which will be linked with the title"
+msgstr ""
+
+#: pntemplates/Extensions_admin_globalEvent_edit.htm:78
+#: pntemplates/Extensions_user_packageContent_edit.htm:66
+msgid "Hooks"
+msgstr ""
+
+#: pntemplates/Extensions_admin_globalEvent_view.htm:10
+msgid ""
+"The global events appear in the history of projects. Examples for global "
+"events are core releases, Camp Zikula, bugfix weekends and other "
+"appointments which are relevant for the project."
+msgstr ""
+
+#: pntemplates/Extensions_user_distribution_display.htm:204
+msgid "No versions available yet"
+msgstr ""
+
+#: pntemplates/Extensions_user_package_dialog.htm:29
+msgid "Additional information required"
+msgstr ""
+
+#: pntemplates/Extensions_user_package_dialog.htm:48
+msgid "And afterwards:"
+msgstr ""
+
+#: pntemplates/Extensions_user_package_dialog.htm:49
+msgid "Go back to the last page"
+msgstr ""
+
+#: pntemplates/Extensions_user_package_dialog.htm:50
+msgid "Go to the download"
+msgstr ""
+
+#: pntemplates/Extensions_user_package_dialog.htm:51
+msgid "Browse other extensions"
+msgstr ""
+
+#: pntemplates/Extensions_user_packageContent_edit.htm:5
+#: pntemplates/Extensions_user_packageContent_edit.htm:76
+msgid "Content package"
+msgstr ""
+
+#: pntemplates/Extensions_user_packageContent_edit.htm:43
+msgid "Package ID"
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:15
+msgid "General Settings"
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:19
+msgid "HTML root:"
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:22
+msgid "Archive directory:"
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:24
+#: pntemplates/Extensions_admin_modifyconfig.htm:34
+#: pntemplates/Extensions_admin_modifyconfig.htm:44
+msgid "This directory does not exist"
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:25
+#: pntemplates/Extensions_admin_modifyconfig.htm:35
+#: pntemplates/Extensions_admin_modifyconfig.htm:45
+msgid "This is not a directory"
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:26
+#: pntemplates/Extensions_admin_modifyconfig.htm:36
+#: pntemplates/Extensions_admin_modifyconfig.htm:46
+msgid "This directory is not writable for the web server"
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:27
+#: pntemplates/Extensions_admin_modifyconfig.htm:37
+#: pntemplates/Extensions_admin_modifyconfig.htm:47
+msgid "Everything allright"
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:30
+msgid ""
+"Contains the physical extensions, input has to be relative to the Zikula "
+"root."
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:32
+msgid "Working directory:"
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:40
+msgid ""
+"Is being used for temporary unpacking and checking things, input has to be "
+"relative to the Zikula root."
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:42
+msgid "Distribution directory:"
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:50
+msgid ""
+"Contains archives being packaged for users, input has to be relative to the "
+"Zikula root."
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:53
+msgid "Entries per page / page size (default = 25)"
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:56
+msgid "Number of overall packages created (default = 0)"
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:59
+msgid "Chosen review ID (default = 0 means none)"
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:62
+msgid "Maximum amount of translation revisions (default = 30)"
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:67
+msgid "Archive Information"
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:71
+msgid "Rar Support"
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:75
+msgid "install <a href=\"http://pecl.php.net/package/rar\">PECL rar package"
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:78
+msgid "Zip Support"
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:82
+msgid ""
+"install <a href=\"http://de.php.net/manual/en/book.zip.php\">PHP zip "
+"extension</a>"
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:85
+msgid "Tar Support"
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:89
+msgid ""
+"install <a href=\"http://pear.php.net/package/Archive_Tar/\">PEAR "
+"Archive_Tar package</a>"
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:92
+msgid "Tar/Gzip Support"
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:96
+msgid ""
+"install <a href=\"http://de3.php.net/manual/en/book.zlib.php\">PHP zlib "
+"extension</a>"
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:99
+msgid "Tar/Bzip Support"
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:103
+msgid ""
+"install <a href=\"http://de.php.net/manual/en/book.bzip2.php\">PHP Bzip2 "
+"extension</a>"
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:108
+msgid "Integration Information"
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:111
+msgid "SVN Support"
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:115
+msgid ""
+"install <a href=\"http://pecl.php.net/package/svn\">PECL svn package</a>"
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:120
+msgid "Security Information"
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:123
+msgid "ClamAV Bridge"
+msgstr ""
+
+#: pntemplates/Extensions_admin_modifyconfig.htm:127
+msgid ""
+"install <a href=\"http://www.clamav.net/\">ClamAV</a> and <a href=\"http://"
+"www.trickie.org/code/phplibclamav.php\">phplibclamav</a>"
+msgstr ""
+
+#: pntemplates/Extensions_user_distribution_view.htm:89
+msgid "Latest Zikula Distributions"
+msgstr ""
+
+#: pntemplates/Extensions_user_distribution_view.htm:100
+#, php-format
+msgid "Distributions in category \"%s\""
+msgstr ""
+
+#: pntemplates/Extensions_user_distribution_view.htm:110
+msgid "Welcome to the distribution area"
+msgstr ""
+
+#: pntemplates/Extensions_user_distribution_view.htm:111
+msgid ""
+"At this place you find details to several Zikula-based distributions. These "
+"are collections of different extensions in view of particular applications. "
+"So expensive searches for common solutions are saved and a smooth "
+"cooperation of contained components is ensured."
+msgstr ""
+
+#: pntemplates/Extensions_user_distribution_view.htm:112
+msgid "Individually customizable"
+msgstr ""
+
+#: pntemplates/Extensions_user_distribution_view.htm:113
+msgid ""
+"You are bound to download the distributions as how they are offered. They "
+"are intended as suggestion or preselection of certain extensions, but you "
+"are free to enrich your selection by additional components."
+msgstr ""
+
+#: pntemplates/Extensions_user_distribution_view.htm:114
+msgid "Let someone help you"
+msgstr ""
+
+#: pntemplates/Extensions_user_distribution_view.htm:115
+msgid ""
+"Do you haver and not know exactly which distribution is appropriate for your "
+"requirements? In such a case use the assistent leading you to your own "
+"download pack step by step."
+msgstr ""
+
+#: pntemplates/Extensions_include_distribution_componentList.htm:23
+msgid "Component"
+msgstr ""
+
+#: pntemplates/Extensions_include_distribution_componentList.htm:24
+msgid "Dependency"
+msgstr ""
+
+#: pntemplates/Extensions_include_distribution_componentList.htm:35
+msgid "requires"
+msgstr ""
+
+#: pntemplates/Extensions_include_distribution_componentList.htm:35
+msgid "recommends"
+msgstr ""
+
+#: pntemplates/Extensions_include_distribution_componentList.htm:35
+msgid "add"
+msgstr ""
+
+#: pntemplates/Extensions_include_distribution_componentList.htm:36
+msgid "not selected"
+msgstr ""
+
+#: pntemplates/Extensions_include_distribution_componentList.htm:36
+msgid "selected"
+msgstr ""
+
+#: pntemplates/Extensions_user_translation_edit.htm:64
+msgid "Language"
+msgstr ""
+
+#: pntemplates/Extensions_user_translation_edit.htm:67
+msgid "Choose the translation language"
+msgstr ""
+
+#: pntemplates/Extensions_user_translation_edit.htm:72
+msgid "Input type"
+msgstr ""
+
+#: pntemplates/Extensions_user_translation_edit.htm:75
+msgid ""
+"You can either upload an archive file containing the translations or perform "
+"the translation directly in this system. Also you can export translations "
+"directly from your CoZi SVN repository."
+msgstr ""
+
+#: pntemplates/Extensions_user_translation_edit.htm:89
+#: pntemplates/Extensions_user_translation_edit.htm:91
+msgid "Choose One"
+msgstr ""
+
+#: pntemplates/Extensions_user_translation_edit.htm:96
+#, php-format
+msgid "Online translation of %s"
+msgstr ""
+
+#: pntemplates/Extensions_user_translation_edit.htm:97
+msgid "Simply enter the translated texts at the right side."
+msgstr ""
+
+#: pntemplates/Extensions_user_translation_edit.htm:117
+#: pntemplates/Extensions_user_translation_edit.htm:145
+msgid "Reference"
+msgstr ""
+
+#: pntemplates/Extensions_user_translation_edit.htm:133
+msgid "Definitions"
+msgstr ""
+
+#: pntemplates/Extensions_user_translation_edit.htm:144
+msgid "Definition"
+msgstr ""
+
+#: pntemplates/Extensions_user_translation_edit.htm:206
+msgid "Translation package upload"
+msgstr ""
+
+#: pntemplates/Extensions_user_translation_edit.htm:213
+msgid ""
+"Your archive has to correspond with the root core's folder and therefore "
+"contain directories like install, modules and themes. Note that this is no "
+"full package, there are no value addons. The only modules/ subdirectory is "
+"Tour. The following files and folders must be contained:"
+msgstr ""
+
+#: pntemplates/Extensions_user_translation_edit.htm:215
+#, php-format
+msgid ""
+"Your archive has to contain one folder named \"%1$s\" with all translated "
+"files of %2$s."
+msgstr ""
+
+#: pntemplates/Extensions_user_translation_edit.htm:222
+msgid ""
+"You can import the package directly from a SVN repository in the <a href="
+"\"http://code.zikula.org\" target=\"_blank\">CoZi</a>."
+msgstr ""
+
+#: pntemplates/Extensions_user_translation_edit.htm:231
+msgid ""
+"Your selected folder has to correspond with the root core's folder and "
+"therefore contain directories like install, modules and themes. Note that "
+"this is no full package, there are no value addons. The only modules/ "
+"subdirectory is Tour. The following files and folders must be contained:"
+msgstr ""
+
+#: pntemplates/Extensions_user_translation_edit.htm:233
+#, php-format
+msgid ""
+"Your selected folder has to contain one folder named \"%1$s\" with all "
+"translated files of %2$s."
+msgstr ""
+
+#: pntemplates/Extensions_user_translation_edit.htm:253
+msgid "Moderation"
+msgstr ""
+
+#: pntemplates/Extensions_user_translation_edit.htm:256
+msgid ""
+"Here you can manage the newest revisions of this translation and reset the "
+"translation to an earlier revision if required."
+msgstr ""
+
+#: pntemplates/Extensions_user_translation_edit.htm:258
+msgid "Revision"
+msgstr ""
+
+#: pntemplates/Extensions_user_translation_edit.htm:260
+msgid "Switch"
+msgstr ""
+
+#: pntemplates/Extensions_user_translation_edit.htm:262
+msgid ""
+"If you switch to an earlier revision, all newer ones get deleted from the "
+"system."
+msgstr ""
+
+#: pntemplates/Extensions_user_myoptions.htm:18
+msgid "My statistics"
+msgstr ""
+
+#: pntemplates/Extensions_user_myoptions.htm:19
+msgid "At this place you see an overview of your activities."
+msgstr ""
+
+#: pntemplates/Extensions_user_myoptions.htm:27
+msgid "Sidebar Panel"
+msgstr ""
+
+#: pntemplates/Extensions_user_myoptions.htm:28
+msgid ""
+"The sidebar is a special bookmark showing the newest extensions in a "
+"separate browser panel. So you see all news quickly. Simply click on each of "
+"the following links, depending on your browser."
+msgstr ""
+
+#: pntemplates/Extensions_user_myoptions.htm:31
+msgid "Internet Explorer 5+"
+msgstr ""
+
+#: pntemplates/Extensions_user_myoptions.htm:32
+msgid "Firefox and Opera 6+"
+msgstr ""
+
+#: pntemplates/Extensions_user_myoptions.htm:33
+msgid "Mozilla and Netscape 6+"
+msgstr ""
+
+#: pntemplates/Extensions_user_myoptions.htm:34
+msgid "Others (direct call)"
+msgstr ""
+
+#: pntemplates/Extensions_user_myoptions.htm:51
+msgid ""
+"As logged in user you have several possibilities to customize the extension "
+"repository according your personal desires. Do not forget to click the save "
+"button at the bottom after changing your options."
+msgstr ""
+
+#: pntemplates/Extensions_user_myoptions.htm:61
+msgid "My display"
+msgstr ""
+
+#: pntemplates/Extensions_user_myoptions.htm:63
+msgid ""
+"By deactivating single user roles you can blind out particular functions."
+msgstr ""
+
+#: pntemplates/Extensions_user_myoptions.htm:67
+msgid "My extensions"
+msgstr ""
+
+#: pntemplates/Extensions_user_myoptions.htm:69
+msgid "Here you can manage your different extensions."
+msgstr ""
+
+#: pntemplates/Extensions_user_myoptions.htm:82
+msgid "My distributions"
+msgstr "Mijn distributies"
+
+#: pntemplates/Extensions_user_myoptions.htm:84
+msgid "Here you have access to your distributions."
+msgstr ""
+
+#: pntemplates/Extensions_user_myoptions.htm:99
+msgid "This area provides a list of your translations."
+msgstr ""
+
+#: pntemplates/Extensions_user_myoptions.htm:101
+msgid "example translation entry"
+msgstr ""
+
+#: pntemplates/Extensions_user_myoptions.htm:106
+msgid "My download packs"
+msgstr ""
+
+#: pntemplates/Extensions_user_myoptions.htm:108
+msgid "In this section you can reuse and remove your stored download packs."
+msgstr ""
+
+#: pntemplates/Extensions_user_myoptions.htm:112
+msgid "Load this pack into your download selection"
+msgstr ""
+
+#: pntemplates/Extensions_user_myoptions.htm:112
+msgid "Load"
+msgstr ""
+
+#: pntemplates/Extensions_user_myoptions.htm:112
+msgid "Delete pack"
+msgstr ""
+
+#: pntemplates/Extensions_user_myoptions.htm:118
+#: pntemplates/Extensions_user_myoptions.htm:127
+msgid "My reminders"
+msgstr ""
+
+#: pntemplates/Extensions_user_myoptions.htm:121
+msgid ""
+"Here you can activate or deactivate the reminder function for email "
+"notification. Therefore simply click the alarm clock."
+msgstr ""
+
+#: pntemplates/Extensions_user_myoptions.htm:127
+#: pntemplates/Extensions_user_myoptions.htm:205
+msgid ""
+"The mail notification is deactivated. The reminder links are blanked out now."
+msgstr ""
+
+#: pntemplates/Extensions_user_myoptions.htm:127
+#: pntemplates/Extensions_user_myoptions.htm:211
+msgid ""
+"You will get mail notifications about new versions and other important "
+"changes of your the selected components."
+msgstr ""
+
+#: pntemplates/Extensions_user_myoptions.htm:134
+msgid "The following shows an overview of your activated reminders."
+msgstr ""
+
+#: pntemplates/Extensions_user_myoptions.htm:157
+msgid "My wizard"
+msgstr ""
+
+#: pntemplates/Extensions_user_myoptions.htm:159
+msgid "Here you can decide for each wizard page if you want to see it."
+msgstr ""
+
+#: pntemplates/Extensions_user_distribution_edit.htm:34
+msgid "Input the name of the distribution"
+msgstr ""
+
+#: pntemplates/Extensions_user_distribution_edit.htm:38
+msgid "Input the description of the distribution"
+msgstr ""
+
+#: pntemplates/Extensions_user_wizard.htm:21
+msgid "No description yet."
+msgstr ""
+
+#: pntemplates/Extensions_user_wizard.htm:37
+#, php-format
+msgid "Step %1$s of %2$s"
+msgstr ""
+
+#: pntemplates/Extensions_user_wizard.htm:52
+#: pntemplates/Extensions_user_wizard.htm:79
+msgid "Skip"
+msgstr ""
+
+#: pntemplates/Extensions_user_wizard.htm:53
+#: pntemplates/Extensions_user_wizard.htm:80
+msgid "None of the above"
+msgstr ""
+
+#: pntemplates/Extensions_user_wizard.htm:148
+msgid "Previous"
+msgstr ""
+
+#: pntemplates/Extensions_user_wizard.htm:151
+msgid "Next"
+msgstr ""

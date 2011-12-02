@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-07 06:31-0500\n"
+"PO-Revision-Date: 2010-06-11 08:15+0200\n"
+"Last-Translator: <hiltschi@web.de>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: version.php:4
+msgid "Dirtylicious"
+msgstr "Dirtylicious"
+
+#: version.php:8
+msgid "Dirtylicious open source template"
+msgstr "Dirtylicious Open Source Template"
+
+#: templates/includes/footer.htm:4
+msgid "Contact"
+msgstr "Kontakt"
+
+#: templates/includes/footer.htm:5
+msgid "Sitemap"
+msgstr "Sitemap"
+
+#: templates/includes/footer.htm:6
+msgid "RSS"
+msgstr "RSS"
+
+#: templates/includes/footer.htm:10
+msgid "Website template"
+msgstr "Website-Template"
+
+#: templates/includes/footer.htm:10
+msgid "by"
+msgstr "von"
+
+#: templates/includes/footer.htm:10
+msgid "Arcsin"
+msgstr "Arcsin"
+
+#: templates/includes/footer.htm:10
+msgid "Valid"
+msgstr "Gültiges"
+
+#: templates/includes/footer.htm:10
+msgid "CSS"
+msgstr "CSS"
+
+#: templates/includes/footer.htm:10
+msgid "XHTML"
+msgstr "XHTML"
+
+#: templates/master.html:11
+msgid "Home"
+msgstr "Startseite"

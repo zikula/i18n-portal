@@ -1,0 +1,418 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Feeds 2.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-21 21:08+0000\n"
+"PO-Revision-Date: 2011-07-23 14:46+0200\n"
+"Last-Translator: Carsten <carsten@zikula.org>\n"
+"Language-Team: Carsten Volmer <carsten@zikula.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: bootstrap.php:16
+msgid "Fatal error: SimplePie system plugin is not available"
+msgstr "Fataler Fehler: Das SimplePie System-Plugin steht nicht zur Verfügung"
+
+#: lib/Feeds/Api/User.php:70 lib/Feeds/Api/Search.php:65
+#: lib/Feeds/Api/Search.php:92
+msgid "Error! Could not load any Feed."
+msgstr "Fehler! Feed konnte nicht geladen werden."
+
+#: lib/Feeds/Api/Admin.php:31 lib/Feeds/Api/Admin.php:117
+msgid "The provided URL is too long (200 chars max.)."
+msgstr "Die angegebene URL ist zu lang (max. 200 Zeichen)."
+
+#: lib/Feeds/Api/Admin.php:37 lib/Feeds/Api/Admin.php:123
+msgid "Invalid protocol selected. Only http and https are allowed."
+msgstr "Falsches Protokoll - nur http und https sind möglich."
+
+#: lib/Feeds/Api/Admin.php:46
+msgid "Error! Creation attempt failed."
+msgstr "Fehler! Der Erstellversuch ist fehlgeschlagen."
+
+#: lib/Feeds/Api/Admin.php:69 lib/Feeds/Api/Admin.php:104
+#: lib/Feeds/Controller/Admin.php:82 lib/Feeds/Controller/Admin.php:143
+msgid "No such Feed found."
+msgstr "Keinen entsprechenden Feed gefunden."
+
+#: lib/Feeds/Api/Admin.php:78
+msgid "Error! Deletion attempt failed."
+msgstr "Fehler! Der Löschversuch ist fehlgeschlagen."
+
+#: lib/Feeds/Api/Admin.php:132 lib/Feeds/Installer.php:80
+#: lib/Feeds/Installer.php:87 lib/Feeds/Installer.php:100
+#: lib/Feeds/Installer.php:111
+msgid "Error! Update attempt failed."
+msgstr "Fehler! Der Aktualisierungsversuch ist fehlgeschlagen."
+
+#: lib/Feeds/Api/Admin.php:199
+msgid "List Feeds"
+msgstr "Feeds anzeigen"
+
+#: lib/Feeds/Api/Admin.php:205
+msgid "Create a Feed"
+msgstr "Feed anlegen"
+
+#: lib/Feeds/Api/Admin.php:211
+msgid "Purge PermaLinks"
+msgstr "Permalinks bereinigen"
+
+#: lib/Feeds/Api/Admin.php:215 templates/admin/modifyconfig.tpl:4
+msgid "Settings"
+msgstr "Konfiguration"
+
+#: lib/Feeds/Installer.php:39
+msgid ""
+"Warning! Could not create the default Feeds category tree. If you want to "
+"use categorisation with Feeds, register at least one property for the module "
+"in the Category Registry."
+msgstr ""
+"Warnung! Der Standard-Kategorienbaum für Feeds konnte nicht angelegt werden. "
+"Wenn die Kategorisierung von Feeds verwendet werden soll, muss mindestens "
+"eine Kategorienzuweisung dafür Kategorienverwaltung erstellt werden."
+
+#: lib/Feeds/Installer.php:195 lib/Feeds/Version.php:14
+#: templates/search/options.tpl:3
+msgid "Feeds"
+msgstr "Feeds"
+
+#: lib/Feeds/Installer.php:196
+msgid "Feed Reader."
+msgstr "Newsfeed Reader"
+
+#: lib/Feeds/Controller/User.php:71 lib/Feeds/Controller/User.php:227
+#: lib/Feeds/Controller/User.php:255
+msgid "Invalid category"
+msgstr "Ungültige Kategorie"
+
+#: lib/Feeds/Controller/User.php:110 lib/Feeds/Controller/User.php:263
+#: lib/Feeds/Controller/User.php:319 templates/admin/view.tpl:75
+msgid "No Feeds found."
+msgstr "Keine Feeds gefunden."
+
+#: lib/Feeds/Controller/User.php:178
+msgid "Error! Could not load any Feeds."
+msgstr "Fehler! Feeds konnten nicht geladen werden."
+
+#: lib/Feeds/Controller/User.php:313
+msgid "Incorrect Key given. No update performed."
+msgstr "Fehlerhafter Schlüssel angegeben. Keine Aktualisierung durchgeführt."
+
+#: lib/Feeds/Controller/User.php:338
+msgid "Items updated in Feed cache"
+msgstr "Eintrag im Feed-Cache aktualisiert"
+
+#: lib/Feeds/Controller/User.php:340
+msgid "Error"
+msgstr "Fehler"
+
+#: lib/Feeds/Controller/Admin.php:57
+msgid "Done! Feed created."
+msgstr "Erledigt! Feed erstellt."
+
+#: lib/Feeds/Controller/Admin.php:119
+msgid "Done! Feed updated."
+msgstr "Erledigt! Feed aktualisiert."
+
+#: lib/Feeds/Controller/Admin.php:165
+msgid "Done! Feed deleted."
+msgstr "Erledigt! Feed gelöscht."
+
+#: lib/Feeds/Controller/Admin.php:186
+msgid "Purging of the pemalinks was successful"
+msgstr "Die Bereinigung der Permalink war erfolgreich."
+
+#: lib/Feeds/Controller/Admin.php:188
+msgid "Purging of the pemalinks has failed"
+msgstr "Die Bereinigung der Permalink ist fehlgeschlagen."
+
+#: lib/Feeds/Controller/Admin.php:238
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: lib/Feeds/Controller/Admin.php:243
+msgid "Delete"
+msgstr "Löschen"
+
+#: lib/Feeds/Controller/Admin.php:329
+msgid "Done! Module configuration updated."
+msgstr "Erledigt! Modulkonfiguration aktualisiert."
+
+#: lib/Feeds/Version.php:15
+msgid "The Feeds module provides a feed reader to your website."
+msgstr ""
+"Das Feeds-Modul stellt einen Feed-Reader für die Website zur Verfügung."
+
+#. !module name that appears in URL
+#: lib/Feeds/Version.php:16
+msgid "feeds"
+msgstr "feeds"
+
+#: lib/Feeds/Block/Displayfeed.php:28
+msgid "Display feed"
+msgstr "Feed anzeigen"
+
+#: lib/Feeds/Block/Displayfeed.php:29
+msgid "Show a feed item"
+msgstr "Feedeintrag anzeigen"
+
+#: templates/admin/newfeed.tpl:4
+msgid "Create a feed"
+msgstr "Feed anlegen"
+
+#: templates/admin/newfeed.tpl:10
+msgid "New Feed"
+msgstr "Neuer Feed"
+
+#: templates/admin/newfeed.tpl:13 templates/admin/modify.tpl:14
+#: templates/admin/view.tpl:47
+msgid "Name"
+msgstr "Name"
+
+#: templates/admin/newfeed.tpl:17 templates/admin/modify.tpl:35
+msgid "PermaLink URL title"
+msgstr "Permalink URL Titel"
+
+#: templates/admin/newfeed.tpl:19 templates/admin/modify.tpl:37
+msgid "(Blank = auto-generate)"
+msgstr "(Leer = Automatisches Erstellen)"
+
+#: templates/admin/newfeed.tpl:23 templates/admin/modify.tpl:19
+#: templates/admin/view.tpl:12 templates/admin/view.tpl:50
+msgid "Category"
+msgstr "Kategorie"
+
+#: templates/admin/newfeed.tpl:24 templates/admin/modify.tpl:20
+#: templates/admin/view.tpl:13
+msgid "Choose a category"
+msgstr "Kategorie auswählen"
+
+#: templates/admin/newfeed.tpl:33 templates/admin/modify.tpl:40
+#: templates/admin/view.tpl:48 templates/user/display.tpl:21
+msgid "URL"
+msgstr "URL"
+
+#: templates/admin/newfeed.tpl:39 templates/admin/modify.tpl:57
+#: templates/admin/modifyconfig.tpl:64
+msgid "Save"
+msgstr "Speichern"
+
+#: templates/admin/newfeed.tpl:40 templates/admin/modify.tpl:58
+#: templates/admin/delete.tpl:16 templates/admin/modifyconfig.tpl:65
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: templates/admin/modify.tpl:4
+msgid "Update feed"
+msgstr "Feed aktualisieren"
+
+#: templates/admin/modify.tpl:12
+msgid "Content"
+msgstr "Inhalt"
+
+#: templates/admin/modify.tpl:45
+msgid "Meta data"
+msgstr "Meta-Daten"
+
+#: templates/admin/modify.tpl:48
+#, php-format
+msgid "Created by %s"
+msgstr "Erstellt von %s"
+
+#: templates/admin/modify.tpl:49
+#, php-format
+msgid "Created on %s"
+msgstr "Erstellt am %s"
+
+#: templates/admin/modify.tpl:51
+#, php-format
+msgid "Last update by %s"
+msgstr "Zuletzt aktualisiert von %s"
+
+#: templates/admin/modify.tpl:52
+#, php-format
+msgid "Updated on %s"
+msgstr "Aktualisiert am %s"
+
+#: templates/admin/view.tpl:5
+msgid "View feeds"
+msgstr "Feeds anzeigen"
+
+#: templates/admin/view.tpl:36
+msgid "Filter"
+msgstr "Filter"
+
+#: templates/admin/view.tpl:37
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#: templates/admin/view.tpl:52
+msgid "Actions"
+msgstr "Aktionen"
+
+#: templates/admin/delete.tpl:4
+msgid "Delete feed"
+msgstr "Feed löschen"
+
+#: templates/admin/delete.tpl:14
+msgid "Do you really want to delete this Feed?"
+msgstr "Soll dieser Feed wirklich gelöscht werden?"
+
+#: templates/admin/delete.tpl:15
+msgid "Confirm deletion?"
+msgstr "Löschen bestätigen?"
+
+#: templates/admin/modifyconfig.tpl:11
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: templates/admin/modifyconfig.tpl:13
+msgid "Enable categorization"
+msgstr "Kategorisierung aktivieren"
+
+#: templates/admin/modifyconfig.tpl:17
+msgid "Display item names in bold"
+msgstr "Namen in Fettschrift"
+
+#: templates/admin/modifyconfig.tpl:21
+msgid "Open links in new browser window"
+msgstr "Links im neuen Fenster öffnen"
+
+#: templates/admin/modifyconfig.tpl:25
+msgid "Items per page"
+msgstr "Einträge pro Seite"
+
+#: templates/admin/modifyconfig.tpl:29
+msgid "Number of feeds to list per page"
+msgstr "Anzahl der Feeds pro Seite auf der Feedliste"
+
+#: templates/admin/modifyconfig.tpl:33
+msgid "Maximum items to add per feed"
+msgstr "Maximale Einträge je Feed"
+
+#: templates/admin/modifyconfig.tpl:35
+msgid "for combined feeds (0 to add all)"
+msgstr "bei kombinierten Feeds (0 für alle)"
+
+#: templates/admin/modifyconfig.tpl:39
+msgid "Cache Settings"
+msgstr "Cache Einstellungen"
+
+#: templates/admin/modifyconfig.tpl:41
+msgid "Cache directory for feeds"
+msgstr "Cacheverzeichnis für Feeds"
+
+#: templates/admin/modifyconfig.tpl:43
+#, php-format
+msgid "(relative to [%s])"
+msgstr "(relativ zu [%s])"
+
+#: templates/admin/modifyconfig.tpl:46
+msgid "Cache interval for feeds"
+msgstr "Cachingdauer"
+
+#: templates/admin/modifyconfig.tpl:48
+msgid "in seconds (3600 = 1 hour)"
+msgstr "in Sekunden (3600 = 1 Stunde)"
+
+#: templates/admin/modifyconfig.tpl:52
+msgid "Cron Job Settings"
+msgstr "CronJob Einstellungen"
+
+#: templates/admin/modifyconfig.tpl:54
+msgid "Using a Cron Job to update the cache"
+msgstr "CronJob zum Aktualisieren des Feedcaches benutzen"
+
+#: templates/admin/modifyconfig.tpl:56
+msgid "(see instructions)"
+msgstr "(siehe Anleitung)"
+
+#: templates/admin/modifyconfig.tpl:59
+msgid "Link for using a Cron Job"
+msgstr "Link für den CronJob"
+
+#: templates/user/display.tpl:17 templates/block/displayfeed_modify.tpl:2
+msgid "Feed"
+msgstr "Feed"
+
+#: templates/user/display.tpl:40 templates/user/category.tpl:37
+#, php-format
+msgid "by %s"
+msgstr "von %s"
+
+#: templates/user/display.tpl:46 templates/user/category.tpl:44
+msgid "Read more"
+msgstr "Weiterlesen"
+
+#: templates/user/category.tpl:7 templates/user/category.tpl:9
+#: templates/user/view.tpl:26
+#, php-format
+msgid "Category: %s"
+msgstr "Kategorie: %s"
+
+#: templates/user/view.tpl:5
+#, php-format
+msgid "Welcome to the Feeds of %s"
+msgstr "Willkommen zu den Feeds von %s"
+
+#: templates/user/view.tpl:8
+msgid "Choose a category to see the Feeds that belongs to it"
+msgstr "Kategorie für die Feeds auswählen"
+
+#: templates/user/view.tpl:29
+msgid "The Feeds of this category are as follows:"
+msgstr "Folgende Feeds sind in dieser Kategorie enthalten:"
+
+#: templates/user/view.tpl:31
+msgid "View all feeds"
+msgstr "Alle Feeds anzeigen"
+
+#: templates/user/view.tpl:34
+msgid "Feeds list"
+msgstr "Feedliste"
+
+#: templates/user/view.tpl:37
+msgid "Available feeds"
+msgstr "Verfügbare Feeds"
+
+#: templates/block/displayfeed_modify.tpl:9
+msgid "Display feed image"
+msgstr "Feed-Bild anzeigen"
+
+#: templates/block/displayfeed_modify.tpl:11
+#: templates/block/displayfeed_modify.tpl:17
+msgid "(if available in feed)"
+msgstr "(wenn im Feed vorhanden)"
+
+#: templates/block/displayfeed_modify.tpl:15
+msgid "Display feed description"
+msgstr "Feed-Beschreibung anzeigen"
+
+#: templates/block/displayfeed_modify.tpl:21
+msgid "Use alternate layout"
+msgstr "Alternatives Layout benutzen"
+
+#: templates/block/displayfeed_modify.tpl:26
+msgid "Number of items to display"
+msgstr "Anzahl der anzuzeigenen Feeds"
+
+#: templates/block/displayfeed_modify.tpl:28
+msgid "(upto the maximum supplied by the feed or -1 for all items)"
+msgstr "(bis zum bereitgestellten Feedmaximum oder -1 für alle Artikel)"
+
+#~ msgid "Error! Unable to load class [%s]"
+#~ msgstr "Fehler! Konnte Klasse [%s] nicht laden."
+
+#~ msgid "Cache Updated"
+#~ msgstr "Cache aktualisiert"
+
+#~ msgid "Update"
+#~ msgstr "Aktualisieren"
+
+#~ msgid "Create"
+#~ msgstr "Anlegen"

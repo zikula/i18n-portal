@@ -1,0 +1,127 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: ClickedMe 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-03 22:38+0200\n"
+"PO-Revision-Date: 2010-07-08 22:13-0300\n"
+"Last-Translator: Mateo Tibaquirá <mateo@zikula.org>\n"
+"Language-Team: Zikula Spanish Community <equipo@zikula.es>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: pnmailzapi.php:18
+msgid "Last visits of user profile"
+msgstr "Última visita del perfil del usuario"
+
+#: pnmailzapi.php:19
+msgid ""
+"This plugin will insert the last users that have visited the mail recipients "
+"last visitors with their avatar."
+msgstr ""
+"Este complemento insertará los últimos usuarios que han visitado los buzones "
+"de correo con su avatar."
+
+#: pnversion.php:18
+msgid "See who visited your profile!"
+msgstr "¡Vea quien visitó su perfil!"
+
+#: pnaccountapi.php:29 pntemplates/clickedme_user_main.htm:6
+#: pntemplates/clickedme_user_header.htm:7
+msgid "Privacy Settings"
+msgstr "Configuración de privacidad"
+
+#: pnmyprofileapi.php:51
+msgid "My visits"
+msgstr "Mis visitas"
+
+#: pnuser.php:26
+msgid "Settings stored"
+msgstr "Configuración almacenada"
+
+#: pntemplates/clickedme_user_history.htm:5
+msgid "Users that visited your profile page"
+msgstr "Usuarios que visitaron su perfil"
+
+#: pntemplates/clickedme_user_history.htm:22
+msgid "The last profiles you visited"
+msgstr "Los últimos perfiles que visitó"
+
+#: pntemplates/clickedme_block_last.htm:4
+#: pntemplates/clickedme_block_last_alternative.htm:4
+msgid ""
+"Clicks to other profiles are not tracked for you due to your privacy "
+"settings. This is why clicks to your profile are not tracked, too."
+msgstr ""
+"No se hace seguimiento a sus clics a otros perfiles debido a su "
+"configuración de privacidad. Es por ello que tampoco se traza su perfil."
+
+#: pntemplates/clickedme_block_last.htm:4
+#: pntemplates/clickedme_block_last_alternative.htm:4
+msgid "Change your privacy settings!"
+msgstr "¡Cambie su configuración de privacidad!"
+
+#: pntemplates/clickedme_block_last.htm:7
+#: pntemplates/clickedme_block_last_alternative.htm:7
+msgid ""
+"Nobody visited your profile yet. Be more active and other users will visit "
+"your profile!"
+msgstr ""
+"Nadie ha visitado su perfil aún. Sea más activo y otros usuarios visitarán "
+"su perfil!"
+
+#: pntemplates/clickedme_block_last.htm:12
+msgid "do you know them alredy? Visit their profiles!"
+msgstr "¿Los conoce? ¡Visite sus perfiles!"
+
+#: pntemplates/clickedme_user_main.htm:7
+msgid ""
+"The normal settings track every other profile you visit and users can see "
+"that you visited their profile. If you want to surf anonymously you can "
+"disable the profile tracking. Doing this will not let others see that you "
+"have clicked their profiles. But you will also not be able to see who viewed "
+"your profile page. Due to more interaction you should not disable tracking "
+"and surf anonymously."
+msgstr ""
+"La configuración normal permite hacer seguimiento de quien le ha visitado y "
+"a quienes visitó usted. Si desea navegar de forma anónima puede deshabilitar "
+"el seguimiento de perfil. Hacer esto no permite que otros vean si usted ha "
+"hecho clic en sus perfiles. Pero tampoco podrá ver quién vio su perfil. "
+"Debido a una mayor interacción, no se recomienda deshabilitar el seguimiento."
+
+#: pntemplates/clickedme_user_main.htm:12
+msgid "I want to surf anonymously!"
+msgstr "¡Quiero navegar anónimamente!"
+
+#: pntemplates/clickedme_user_main.htm:14
+msgid ""
+"Changing these settings will only affect visits that take place later - "
+"earlier visits will not be deleted."
+msgstr ""
+"Cambiar esta configuración sólo afectará a las visitas que tienen lugar a "
+"posteriori - las visitas anteriores no se eliminarán."
+
+#: pntemplates/clickedme_user_main.htm:16
+msgid "Update Settings"
+msgstr "Actualizar Configuración"
+
+#: pntemplates/clickedme_block_last_modify.htm:3
+msgid "How many users (max) should be displayed?"
+msgstr "¿Cuántos usuarios (máx) deberán mostrarse?"
+
+#: pntemplates/clickedme_user_header.htm:3
+msgid "User Account Panel"
+msgstr "Panel de Usuario"
+
+#: pntemplates/clickedme_user_header.htm:11
+msgid "Profiles I visited and users who visited my profile"
+msgstr "Perfiles que visité y usuarios que visitaron mi perfil"

@@ -1,0 +1,1343 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-03 14:05-0400\n"
+"PO-Revision-Date: 2010-09-30 19:45+0200\n"
+"Last-Translator: Morten <morten@trab.dk>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: zikulawordlist.txt:1
+msgid "accept"
+msgstr "acceptér"
+
+#: zikulawordlist.txt:5
+msgid "acceptable"
+msgstr "acceptabel"
+
+#: zikulawordlist.txt:9
+msgid "access"
+msgstr "adgang"
+
+#: zikulawordlist.txt:11
+msgid "accessed"
+msgstr "åbnet"
+
+#: zikulawordlist.txt:13
+msgid "accessibility"
+msgstr "tilgængelighed"
+
+#: zikulawordlist.txt:15
+msgid "accessible"
+msgstr "tilgængelig"
+
+#: zikulawordlist.txt:17
+msgid "account"
+msgstr "konto"
+
+#: zikulawordlist.txt:19
+msgid "activated"
+msgstr "aktiveret"
+
+#: zikulawordlist.txt:21
+msgid "activation"
+msgstr "aktivering"
+
+#: zikulawordlist.txt:23
+msgid "actual"
+msgstr "faktisk"
+
+#: zikulawordlist.txt:25
+msgid "additional"
+msgstr "ekstra"
+
+#: zikulawordlist.txt:27
+msgid "admin"
+msgstr "admin"
+
+#: zikulawordlist.txt:29
+msgid "administering"
+msgstr "administrering"
+
+#: zikulawordlist.txt:31
+msgid "administration"
+msgstr "administration"
+
+#: zikulawordlist.txt:33
+msgid "administrative"
+msgstr "administrativ"
+
+#: zikulawordlist.txt:35
+msgid "administrator"
+msgstr "administrator"
+
+#: zikulawordlist.txt:37
+msgid "adodb"
+msgstr "adodb"
+
+#: zikulawordlist.txt:39
+msgid "advanced"
+msgstr "avanceret"
+
+#: zikulawordlist.txt:41
+msgid "advertising"
+msgstr "reklamer"
+
+#: zikulawordlist.txt:43
+msgid "agent"
+msgstr "agent"
+
+#: zikulawordlist.txt:45
+msgid "alpha"
+msgstr "alpha"
+
+#: zikulawordlist.txt:47
+msgid "analyzer"
+msgstr "analysator"
+
+#: zikulawordlist.txt:49
+msgid "anonymous"
+msgstr "anonymous"
+
+#: zikulawordlist.txt:51
+msgid "api"
+msgstr "api"
+
+#: zikulawordlist.txt:53
+msgid "application"
+msgstr "program"
+
+#: zikulawordlist.txt:55
+msgid "archive"
+msgstr "arkiv"
+
+#: zikulawordlist.txt:57
+msgid "arguments"
+msgstr "argumenter"
+
+#: zikulawordlist.txt:59
+msgid "arrange"
+msgstr "arranger"
+
+#: zikulawordlist.txt:61
+msgid "array"
+msgstr "array"
+
+#: zikulawordlist.txt:67
+msgid "article"
+msgstr "artikel"
+
+#: zikulawordlist.txt:69
+msgid "assigned"
+msgstr "tildelt"
+
+#: zikulawordlist.txt:71
+msgid "assignment"
+msgstr "tildeling"
+
+#: zikulawordlist.txt:73
+msgid "atom"
+msgstr "atom"
+
+#: zikulawordlist.txt:75
+msgid "attempt"
+msgstr "forsøg"
+
+#: zikulawordlist.txt:77
+msgid "attribute"
+msgstr "egenskab"
+
+#: zikulawordlist.txt:79
+msgid "authentication"
+msgstr "autentikering"
+
+#: zikulawordlist.txt:81
+msgid "authkey"
+msgstr "authkey"
+
+#: zikulawordlist.txt:83
+msgid "autocreate"
+msgstr "autoopret"
+
+#: zikulawordlist.txt:85
+msgid "automated"
+msgstr "automatiseret"
+
+#: zikulawordlist.txt:87
+msgid "automatically"
+msgstr "automatisk"
+
+#: zikulawordlist.txt:89
+msgid "avantgo"
+msgstr "avantgo"
+
+#: zikulawordlist.txt:91
+msgid "banned"
+msgstr "banned"
+
+#: zikulawordlist.txt:93
+msgid "banner"
+msgstr "banner"
+
+#: zikulawordlist.txt:95
+msgid "based"
+msgstr "baseret"
+
+#: zikulawordlist.txt:97
+msgid "basic"
+msgstr "grundlæggende"
+
+#: zikulawordlist.txt:99
+msgid "bind"
+msgstr "bind"
+
+#: zikulawordlist.txt:101
+msgid "blank"
+msgstr "blank"
+
+#: zikulawordlist.txt:102
+msgid "block"
+msgstr "blok"
+
+#: zikulawordlist.txt:103
+msgid "bluerobot"
+msgstr "bluerobot"
+
+#: zikulawordlist.txt:105
+msgid "border"
+msgstr "kant"
+
+#: zikulawordlist.txt:107
+msgid "breach"
+msgstr "brud"
+
+#: zikulawordlist.txt:109
+msgid "browser"
+msgstr "browser"
+
+#: zikulawordlist.txt:111
+msgid "byte"
+msgstr "byte"
+
+#: zikulawordlist.txt:113
+msgid "cache"
+msgstr "cache"
+
+#: zikulawordlist.txt:115
+msgid "caching"
+msgstr "caching"
+
+#: zikulawordlist.txt:117
+msgid "categories"
+msgstr "kategorier"
+
+#: zikulawordlist.txt:119
+msgid "categorization"
+msgstr "kategorisering"
+
+#: zikulawordlist.txt:121
+msgid "category"
+msgstr "kategori"
+
+#: zikulawordlist.txt:123
+msgid "caution"
+msgstr "forsigtig"
+
+#: zikulawordlist.txt:125
+msgid "certain"
+msgstr "visse"
+
+#: zikulawordlist.txt:127
+msgid "cgi"
+msgstr "cgi"
+
+#: zikulawordlist.txt:129
+msgid "characters"
+msgstr "tegn"
+
+#: zikulawordlist.txt:131
+msgid "chars"
+msgstr "tegn"
+
+#: zikulawordlist.txt:133
+msgid "client"
+msgstr "klient"
+
+#: zikulawordlist.txt:135
+msgid "code"
+msgstr "kode"
+
+#: zikulawordlist.txt:137
+msgid "column"
+msgstr "kolonne"
+
+#: zikulawordlist.txt:139
+msgid "comma"
+msgstr "komma"
+
+#: zikulawordlist.txt:141
+msgid "comment"
+msgstr "kommentar"
+
+#: zikulawordlist.txt:143
+msgid "compilation"
+msgstr "kompilering"
+
+#: zikulawordlist.txt:145
+msgid "compile"
+msgstr "kompilér"
+
+#: zikulawordlist.txt:147
+msgid "compiled"
+msgstr "kompileret"
+
+#: zikulawordlist.txt:149
+msgid "component"
+msgstr "komponent"
+
+#: zikulawordlist.txt:151
+msgid "config"
+msgstr "config"
+
+#: zikulawordlist.txt:153
+msgid "configuration"
+msgstr "konfiguration"
+
+#: zikulawordlist.txt:155
+msgid "configure"
+msgstr "konfigurer"
+
+#: zikulawordlist.txt:157
+msgid "configured"
+msgstr "konfigureret"
+
+#: zikulawordlist.txt:159
+msgid "confirm"
+msgstr "bekræft"
+
+#: zikulawordlist.txt:161
+msgid "confirmation"
+msgstr "bekræftelse"
+
+#: zikulawordlist.txt:163
+msgid "consent"
+msgstr "samtykke"
+
+#: zikulawordlist.txt:165
+msgid "consult"
+msgstr "konsultér"
+
+#: zikulawordlist.txt:167
+msgid "contact"
+msgstr "kontakt"
+
+#: zikulawordlist.txt:169
+msgid "contains"
+msgstr "indeholder"
+
+#: zikulawordlist.txt:171
+msgid "content"
+msgstr "indhold"
+
+#: zikulawordlist.txt:173
+msgid "convert"
+msgstr "konverter"
+
+#: zikulawordlist.txt:175
+msgid "cookie"
+msgstr "cookie"
+
+#: zikulawordlist.txt:177
+msgid "core"
+msgstr "core"
+
+#: zikulawordlist.txt:179
+msgid "count"
+msgstr "tæl"
+
+#: zikulawordlist.txt:180
+msgid "create"
+msgstr "opret"
+
+#: zikulawordlist.txt:181
+msgid "credentials"
+msgstr "legitimationsoplysninger"
+
+#: zikulawordlist.txt:183
+msgid "critical"
+msgstr "kritisk"
+
+#: zikulawordlist.txt:185
+msgid "currency"
+msgstr "valuta"
+
+#: zikulawordlist.txt:187
+msgid "custom"
+msgstr "tilpasset"
+
+#: zikulawordlist.txt:189
+msgid "database"
+msgstr "database"
+
+#: zikulawordlist.txt:191
+msgid "deactivate"
+msgstr "deaktiver"
+
+#: zikulawordlist.txt:193
+msgid "deactivated"
+msgstr "deaktiveret"
+
+#: zikulawordlist.txt:195
+msgid "debug"
+msgstr "fejlfinding"
+
+#: zikulawordlist.txt:197
+msgid "default"
+msgstr "standard"
+
+#: zikulawordlist.txt:199
+msgid "defined"
+msgstr "defineret"
+
+#: zikulawordlist.txt:201
+msgid "deletion"
+msgstr "sletning"
+
+#: zikulawordlist.txt:203
+msgid "deny"
+msgstr "afvis"
+
+#: zikulawordlist.txt:205
+msgid "description"
+msgstr "beskrivelse"
+
+#: zikulawordlist.txt:207
+msgid "detail"
+msgstr "detalje"
+
+#: zikulawordlist.txt:209
+msgid "detect"
+msgstr "opdag"
+
+#: zikulawordlist.txt:211
+msgid "detected"
+msgstr "opdaget"
+
+#: zikulawordlist.txt:213
+msgid "detection"
+msgstr "opdagelse"
+
+#: zikulawordlist.txt:215
+msgid "dimensions"
+msgstr "dimensioner"
+
+#: zikulawordlist.txt:217
+msgid "directly"
+msgstr "direkte"
+
+#: zikulawordlist.txt:219
+msgid "directory"
+msgstr "katalog"
+
+#: zikulawordlist.txt:221
+msgid "displaytype"
+msgstr "visnings type"
+
+#: zikulawordlist.txt:223
+msgid "docs"
+msgstr "docs"
+
+#: zikulawordlist.txt:225
+msgid "document"
+msgstr "dokument"
+
+#: zikulawordlist.txt:227
+msgid "documentation"
+msgstr "dokumentation"
+
+#: zikulawordlist.txt:229
+msgid "domain"
+msgstr "domæne"
+
+#: zikulawordlist.txt:231
+msgid "drag"
+msgstr "træk"
+
+#: zikulawordlist.txt:233
+msgid "drop"
+msgstr "slip"
+
+#: zikulawordlist.txt:235
+msgid "dropdown"
+msgstr "dropdown"
+
+#: zikulawordlist.txt:237
+msgid "embed"
+msgstr "inkludér"
+
+#: zikulawordlist.txt:239
+msgid "empty"
+msgstr "tom"
+
+#: zikulawordlist.txt:241
+msgid "enabling"
+msgstr "aktiverer"
+
+#: zikulawordlist.txt:243
+msgid "eng"
+msgstr "eng"
+
+#: zikulawordlist.txt:245
+msgid "enhances"
+msgstr "forbedringer"
+
+#: zikulawordlist.txt:247
+msgid "entries"
+msgstr "indgange"
+
+#: zikulawordlist.txt:249
+msgid "entry"
+msgstr "indgang"
+
+#: zikulawordlist.txt:251
+msgid "ephemerid"
+msgstr "ephemerid"
+
+#: zikulawordlist.txt:253
+msgid "etc"
+msgstr "etc"
+
+#: zikulawordlist.txt:255
+msgid "exif"
+msgstr "exif"
+
+#: zikulawordlist.txt:257
+msgid "expired"
+msgstr "udløbet"
+
+#: zikulawordlist.txt:259
+msgid "expiry"
+msgstr "udløber"
+
+#: zikulawordlist.txt:261
+msgid "extended"
+msgstr "udvidet"
+
+#: zikulawordlist.txt:263
+msgid "extension"
+msgstr "udviddelse"
+
+#: zikulawordlist.txt:265
+msgid "failed"
+msgstr "fejlet"
+
+#: zikulawordlist.txt:267
+msgid "faq"
+msgstr "oss"
+
+#: zikulawordlist.txt:269
+msgid "features"
+msgstr "funktioner"
+
+#: zikulawordlist.txt:271
+msgid "feed"
+msgstr "feed"
+
+#: zikulawordlist.txt:273
+msgid "field"
+msgstr "felt"
+
+#: zikulawordlist.txt:274
+msgid "file"
+msgstr "fil"
+
+#: zikulawordlist.txt:275
+msgid "filename"
+msgstr "filnavn"
+
+#: zikulawordlist.txt:277
+msgid "filesystem"
+msgstr "filsystem"
+
+#: zikulawordlist.txt:279
+msgid "filter"
+msgstr "filter"
+
+#: zikulawordlist.txt:281
+msgid "finished"
+msgstr "færdig"
+
+#: zikulawordlist.txt:283
+msgid "folder"
+msgstr "mappe"
+
+#: zikulawordlist.txt:285
+msgid "font"
+msgstr "skrifttype"
+
+#: zikulawordlist.txt:287
+msgid "format"
+msgstr "format"
+
+#: zikulawordlist.txt:289
+msgid "framework"
+msgstr "framework"
+
+#: zikulawordlist.txt:291
+msgid "function"
+msgstr "funktion"
+
+#: zikulawordlist.txt:293
+msgid "functionality"
+msgstr "funktionalitet"
+
+#: zikulawordlist.txt:295
+msgid "fxp"
+msgstr "fxp"
+
+#: zikulawordlist.txt:297
+msgid "general"
+msgstr "generelt"
+
+#: zikulawordlist.txt:299
+msgid "generate"
+msgstr "generér"
+
+#: zikulawordlist.txt:301
+msgid "generated"
+msgstr "genereret"
+
+#: zikulawordlist.txt:303
+msgid "getstring"
+msgstr "getstring"
+
+#: zikulawordlist.txt:305
+msgid "gif"
+msgstr "gif"
+
+#: zikulawordlist.txt:307
+msgid "gmt"
+msgstr "gmt"
+
+#: zikulawordlist.txt:309
+msgid "gnu"
+msgstr "gnu"
+
+#: zikulawordlist.txt:311
+msgid "gpl"
+msgstr "gpl"
+
+#: zikulawordlist.txt:313
+msgid "hack"
+msgstr "hack"
+
+#: zikulawordlist.txt:315
+msgid "hacking"
+msgstr "hacking"
+
+#: zikulawordlist.txt:317
+msgid "hooked"
+msgstr "hooked"
+
+#: zikulawordlist.txt:319
+msgid "html"
+msgstr "html"
+
+#: zikulawordlist.txt:321
+msgid "icons"
+msgstr "ikoner"
+
+#: zikulawordlist.txt:323
+msgid "imagemagick"
+msgstr "imagemagick"
+
+#: zikulawordlist.txt:329
+msgid "imported"
+msgstr "importeret"
+
+# No, not that one. They mean views, like in "page views" - how often a page was viewed by visitors.
+#: zikulawordlist.txt:331
+msgid "impressions"
+msgstr "visninger"
+
+#: zikulawordlist.txt:333
+msgid "inactive"
+msgstr "inaktiv"
+
+#: zikulawordlist.txt:335
+msgid "inactivity"
+msgstr "inaktivitet"
+
+#: zikulawordlist.txt:337
+msgid "individual"
+msgstr "individuel"
+
+#: zikulawordlist.txt:339
+msgid "info"
+msgstr "info"
+
+#: zikulawordlist.txt:341
+msgid "input"
+msgstr "input"
+
+#: zikulawordlist.txt:343
+msgid "insert"
+msgstr "insert"
+
+#: zikulawordlist.txt:345
+msgid "install"
+msgstr "install"
+
+#: zikulawordlist.txt:347
+msgid "installation"
+msgstr "installation"
+
+#: zikulawordlist.txt:349
+msgid "installed"
+msgstr "installeret"
+
+#: zikulawordlist.txt:351
+msgid "installer"
+msgstr "installer"
+
+#: zikulawordlist.txt:353
+msgid "instance"
+msgstr "eksempel"
+
+#: zikulawordlist.txt:355
+msgid "integer"
+msgstr "integer"
+
+#: zikulawordlist.txt:357
+msgid "interface"
+msgstr "interface"
+
+#: zikulawordlist.txt:359
+msgid "internal"
+msgstr "intern"
+
+#: zikulawordlist.txt:361
+msgid "internet"
+msgstr "internet"
+
+#: zikulawordlist.txt:363
+msgid "invalid"
+msgstr "ugyldig"
+
+#: zikulawordlist.txt:365
+msgid "jpeg"
+msgstr "jpeg"
+
+#: zikulawordlist.txt:367
+msgid "jpg"
+msgstr "jpg"
+
+#: zikulawordlist.txt:369
+msgid "label"
+msgstr "label"
+
+#: zikulawordlist.txt:371
+msgid "layout"
+msgstr "layout"
+
+#: zikulawordlist.txt:373
+msgid "least"
+msgstr "mindst"
+
+#: zikulawordlist.txt:375
+msgid "legacy"
+msgstr "arv"
+
+#: zikulawordlist.txt:377
+msgid "license"
+msgstr "licens"
+
+#: zikulawordlist.txt:379
+msgid "listoptions"
+msgstr "listoptions"
+
+#: zikulawordlist.txt:381
+msgid "log"
+msgstr "log"
+
+#: zikulawordlist.txt:383
+msgid "logged"
+msgstr "logged"
+
+#: zikulawordlist.txt:385
+msgid "managing"
+msgstr "administrerer"
+
+#: zikulawordlist.txt:387
+msgid "mandatory"
+msgstr "obligatorisk"
+
+#: zikulawordlist.txt:389
+msgid "manual"
+msgstr "manuel"
+
+#: zikulawordlist.txt:393
+msgid "medium"
+msgstr "mellem"
+
+#: zikulawordlist.txt:395
+msgid "meta"
+msgstr "meta"
+
+#: zikulawordlist.txt:397
+msgid "modification"
+msgstr "modifikation"
+
+#: zikulawordlist.txt:399
+msgid "modify"
+msgstr "modificér"
+
+#: zikulawordlist.txt:401
+msgid "module"
+msgstr "modul"
+
+#: zikulawordlist.txt:403
+msgid "multi"
+msgstr "multi"
+
+#: zikulawordlist.txt:405
+msgid "multiple"
+msgstr "multiple"
+
+#: zikulawordlist.txt:407
+msgid "myint"
+msgstr "myint"
+
+#: zikulawordlist.txt:409
+msgid "mysql"
+msgstr "mysql"
+
+#: zikulawordlist.txt:411
+msgid "node"
+msgstr "node"
+
+#: zikulawordlist.txt:413
+msgid "null"
+msgstr "null"
+
+#: zikulawordlist.txt:415
+msgid "occured"
+msgstr "opstod"
+
+#: zikulawordlist.txt:417
+msgid "official"
+msgstr "officiel"
+
+#: zikulawordlist.txt:419
+msgid "option"
+msgstr "valg"
+
+#: zikulawordlist.txt:421
+msgid "optional"
+msgstr "valgfri"
+
+#: zikulawordlist.txt:423
+msgid "oracle"
+msgstr "oracle"
+
+#: zikulawordlist.txt:425
+msgid "originally"
+msgstr "originalitet"
+
+#: zikulawordlist.txt:427
+msgid "output"
+msgstr "output"
+
+#: zikulawordlist.txt:429
+msgid "overridden"
+msgstr "tilsidesat"
+
+#: zikulawordlist.txt:431
+msgid "override"
+msgstr "tilsidesæt"
+
+#: zikulawordlist.txt:433
+msgid "palette"
+msgstr "palet"
+
+#: zikulawordlist.txt:435
+msgid "panel"
+msgstr "panel"
+
+#: zikulawordlist.txt:437
+msgid "parameter"
+msgstr "parameter"
+
+#: zikulawordlist.txt:439
+msgid "parental"
+msgstr "forældre"
+
+#: zikulawordlist.txt:441
+msgid "partial"
+msgstr "delvis"
+
+#: zikulawordlist.txt:443
+msgid "passthru"
+msgstr "passthru"
+
+#: zikulawordlist.txt:445
+msgid "path"
+msgstr "sti"
+
+#: zikulawordlist.txt:447
+msgid "paths"
+msgstr "stier"
+
+#: zikulawordlist.txt:449
+msgid "pending"
+msgstr "ventende"
+
+#: zikulawordlist.txt:451
+msgid "permalink"
+msgstr "permalink"
+
+#: zikulawordlist.txt:453
+msgid "permission"
+msgstr "tilladelse"
+
+#: zikulawordlist.txt:455
+msgid "php"
+msgstr "php"
+
+#: zikulawordlist.txt:459
+msgid "pixels"
+msgstr "pixels"
+
+#: zikulawordlist.txt:461
+msgid "png"
+msgstr "png"
+
+#: zikulawordlist.txt:463
+msgid "pnrender"
+msgstr "pnrender"
+
+#: zikulawordlist.txt:465
+msgid "policy"
+msgstr "politik"
+
+#: zikulawordlist.txt:467
+msgid "postnuke"
+msgstr "postnuke"
+
+#: zikulawordlist.txt:469
+msgid "preferably"
+msgstr "fortrinsvis"
+
+#: zikulawordlist.txt:471
+msgid "presentation"
+msgstr "præsentation"
+
+#: zikulawordlist.txt:473
+msgid "prevent"
+msgstr "forhindre"
+
+#: zikulawordlist.txt:475
+msgid "previous"
+msgstr "forrige"
+
+#: zikulawordlist.txt:477
+msgid "privacy"
+msgstr "privacy"
+
+#: zikulawordlist.txt:479
+msgid "private"
+msgstr "personlig"
+
+#: zikulawordlist.txt:481
+msgid "proceed"
+msgstr "fortsæt"
+
+#: zikulawordlist.txt:483
+msgid "process"
+msgstr "proces"
+
+#: zikulawordlist.txt:485
+msgid "profile"
+msgstr "profil"
+
+#: zikulawordlist.txt:487
+msgid "properties"
+msgstr "egenskaber"
+
+#: zikulawordlist.txt:489
+msgid "property"
+msgstr "ejendom"
+
+#: zikulawordlist.txt:491
+msgid "protection"
+msgstr "beskyttelse"
+
+#: zikulawordlist.txt:493
+msgid "provide"
+msgstr "forsyne"
+
+#: zikulawordlist.txt:495
+msgid "psak"
+msgstr "psak"
+
+#: zikulawordlist.txt:497
+msgid "purchased"
+msgstr "købt"
+
+#: zikulawordlist.txt:499
+msgid "quicktags"
+msgstr "quicktags"
+
+#: zikulawordlist.txt:501
+msgid "quote"
+msgstr "citat"
+
+#: zikulawordlist.txt:503
+msgid "rate"
+msgstr "vurder"
+
+#: zikulawordlist.txt:505
+msgid "rating"
+msgstr "vurdering"
+
+#: zikulawordlist.txt:509
+msgid "recent"
+msgstr "tidligere"
+
+#: zikulawordlist.txt:511
+msgid "recently"
+msgstr "fornylig"
+
+#: zikulawordlist.txt:513
+msgid "recommended"
+msgstr "anbefalet"
+
+#: zikulawordlist.txt:515
+msgid "referer"
+msgstr "referent"
+
+#: zikulawordlist.txt:517
+msgid "refresh"
+msgstr "opdater"
+
+#: zikulawordlist.txt:519
+msgid "regenerate"
+msgstr "regenerér"
+
+#: zikulawordlist.txt:521
+msgid "regenerated"
+msgstr "regenereret"
+
+#: zikulawordlist.txt:523
+msgid "register"
+msgstr "registrér"
+
+#: zikulawordlist.txt:525
+msgid "registered"
+msgstr "registreret"
+
+#: zikulawordlist.txt:527
+msgid "registration"
+msgstr "registration"
+
+#: zikulawordlist.txt:529
+msgid "registry"
+msgstr "registreringsdatabase"
+
+#: zikulawordlist.txt:531
+msgid "rejected"
+msgstr "afvist"
+
+#: zikulawordlist.txt:533
+msgid "related"
+msgstr "relateret"
+
+#: zikulawordlist.txt:535
+msgid "release"
+msgstr "frigiv"
+
+#: zikulawordlist.txt:537
+msgid "remote"
+msgstr "fjernt"
+
+#: zikulawordlist.txt:538
+msgid "remove"
+msgstr "fjern"
+
+#: zikulawordlist.txt:539
+msgid "request"
+msgstr "forespørgsel"
+
+#: zikulawordlist.txt:541
+msgid "reserved"
+msgstr "reserveret"
+
+#: zikulawordlist.txt:543
+msgid "retrieve"
+msgstr "hent"
+
+#: zikulawordlist.txt:545
+msgid "root"
+msgstr "root"
+
+#: zikulawordlist.txt:547
+msgid "row"
+msgstr "række"
+
+#: zikulawordlist.txt:549
+msgid "rss"
+msgstr "rss"
+
+#: zikulawordlist.txt:551
+msgid "safehtml"
+msgstr "safehtml"
+
+#: zikulawordlist.txt:553
+msgid "sanitize"
+msgstr "rengør"
+
+#: zikulawordlist.txt:555
+msgid "secure"
+msgstr "sikker"
+
+#: zikulawordlist.txt:557
+msgid "session"
+msgstr "session"
+
+#: zikulawordlist.txt:559
+msgid "sign"
+msgstr "signér"
+
+#: zikulawordlist.txt:561
+msgid "signature"
+msgstr "signatur"
+
+#: zikulawordlist.txt:563
+msgid "site"
+msgstr "site"
+
+#: zikulawordlist.txt:565
+msgid "sitename"
+msgstr "sidenavn"
+
+#: zikulawordlist.txt:567
+msgid "smarty"
+msgstr "smarty"
+
+#: zikulawordlist.txt:569
+msgid "smtp"
+msgstr "smtp"
+
+#: zikulawordlist.txt:571
+msgid "sniffer"
+msgstr "sniffer"
+
+#: zikulawordlist.txt:572
+msgid "sorry"
+msgstr "desværre"
+
+#: zikulawordlist.txt:573
+msgid "sort"
+msgstr "sortér"
+
+#: zikulawordlist.txt:575
+msgid "spaces"
+msgstr "mellemrum"
+
+#: zikulawordlist.txt:577
+msgid "spam"
+msgstr "spam"
+
+#: zikulawordlist.txt:579
+msgid "specific"
+msgstr "specifik"
+
+#: zikulawordlist.txt:581
+msgid "specify"
+msgstr "angiv"
+
+#: zikulawordlist.txt:583
+msgid "standard"
+msgstr "standard"
+
+#: zikulawordlist.txt:585
+msgid "state"
+msgstr "status"
+
+#: zikulawordlist.txt:587
+msgid "statement"
+msgstr "udtalelse"
+
+#: zikulawordlist.txt:589
+msgid "statistics"
+msgstr "statistik"
+
+#: zikulawordlist.txt:591
+msgid "stats"
+msgstr "stats"
+
+#: zikulawordlist.txt:593
+msgid "status"
+msgstr "status"
+
+#: zikulawordlist.txt:595
+msgid "string"
+msgstr "streng"
+
+#: zikulawordlist.txt:597
+msgid "stylesheet"
+msgstr "stylesheet"
+
+#: zikulawordlist.txt:599
+msgid "subcategories"
+msgstr "underkategorier"
+
+#: zikulawordlist.txt:600
+msgid "submit"
+msgstr "indsend"
+
+#: zikulawordlist.txt:601
+msgid "suffix"
+msgstr "endelse"
+
+#: zikulawordlist.txt:603
+msgid "suhosin"
+msgstr "suhosin"
+
+#: zikulawordlist.txt:605
+msgid "tab"
+msgstr "tab"
+
+#: zikulawordlist.txt:607
+msgid "tag"
+msgstr "tag"
+
+#: zikulawordlist.txt:609
+msgid "template"
+msgstr "skabelon"
+
+#: zikulawordlist.txt:611
+msgid "terms"
+msgstr "termer"
+
+#: zikulawordlist.txt:613
+msgid "theme"
+msgstr "tema"
+
+#: zikulawordlist.txt:615
+msgid "thumb"
+msgstr "mini"
+
+#: zikulawordlist.txt:617
+msgid "thumbnail"
+msgstr "miniature"
+
+#: zikulawordlist.txt:619
+msgid "thumbnailing"
+msgstr "thumbnailing"
+
+#: zikulawordlist.txt:621
+msgid "tid"
+msgstr "tid"
+
+#: zikulawordlist.txt:623
+msgid "tour"
+msgstr "tur"
+
+#: zikulawordlist.txt:625
+msgid "unregistered"
+msgstr "uregistreret"
+
+#: zikulawordlist.txt:627
+msgid "url"
+msgstr "url"
+
+#: zikulawordlist.txt:628
+msgid "user"
+msgstr "bruger"
+
+#: zikulawordlist.txt:629
+msgid "valid"
+msgstr "gyldig"
+
+#: zikulawordlist.txt:631
+msgid "validation"
+msgstr "validér"
+
+#: zikulawordlist.txt:633
+msgid "value"
+msgstr "værdi"
+
+#: zikulawordlist.txt:635
+msgid "variable"
+msgstr "variabel"
+
+#: zikulawordlist.txt:637
+msgid "verification"
+msgstr "verifikation"
+
+#: zikulawordlist.txt:639
+msgid "verify"
+msgstr "verificér"
+
+#: zikulawordlist.txt:641
+msgid "version"
+msgstr "version"
+
+#: zikulawordlist.txt:643
+msgid "via"
+msgstr "via"
+
+#: zikulawordlist.txt:647
+msgid "visit"
+msgstr "besøg"
+
+#: zikulawordlist.txt:649
+msgid "vote"
+msgstr "stem"
+
+#: zikulawordlist.txt:651
+msgid "vulnerabilities"
+msgstr "sårbarheder"
+
+#: zikulawordlist.txt:653
+msgid "vulnerability"
+msgstr "sårbarhed"
+
+#: zikulawordlist.txt:655
+msgid "width"
+msgstr "bredde"
+
+#: zikulawordlist.txt:657
+msgid "wiki"
+msgstr "wiki"
+
+#: zikulawordlist.txt:659
+msgid "workflow"
+msgstr "workflow"
+
+#: zikulawordlist.txt:661
+msgid "xanthia"
+msgstr "xanthia"
+
+#: zikulawordlist.txt:663
+msgid "xhtml"
+msgstr "xhtml"
+
+#: zikulawordlist.txt:664
+msgid "you"
+msgstr "dig"
+
+#: zikulawordlist.txt:665
+msgid "zikula"
+msgstr "zikula"

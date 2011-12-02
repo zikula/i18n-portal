@@ -1,0 +1,89 @@
+<!DOCTYPE html 
+     PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<title>Pré-requis pour Zikula</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="style.css" type="text/css" media="screen"  />
+</head>
+
+<body>
+<h1>Pré-requis pour Zikula</h1>
+<p>Une documentation plus détaillée concernant l'installation est disponible dans le 
+<a href="http://communaute.zikula.fr/Wiki/main/tag/Installation" title="wiki">wiki</a> sur 
+<a href="http://communaute.zikula.fr" title="Communaute Zikula">http://communaute.zikula.fr</a>. 
+Un support et de l'aide concernant <a href="install_fra.html">l'installation</a> et <a href="upgrade_fra.html">la mise à jour</a> vers Zikula v1 est fournie sur les <a href="http://communaute.zikula.fr/Forums">forums</a>. Il s'agit juste de quelques informations qui doivent s'appliquer à la majorité des hébergeurs.</p>
+
+<h2>Contenu</h2>
+<ol>
+	<li><a href="#Warning">Mise en garde</a></li>
+	<li><a href="#Stack">Recommandations</a></li>
+	<li><a href="#Apache">Informations concernant Apache</a></li>
+	<li><a href="#ht">Fichiers de configuration du serveur</a></li>
+	<li><a href="#PHP">Configuration de PHP</a></li>
+    <li><a href="#Final">Note finale</a></li>
+</ol>
+
+<h2 id="Warning">1. Mise en garde</h2>
+<p>Comme pour toute installation d'application dynamique, il est important de garder celle-ci à jour. Si vous ne désirez pas mettre à jour votre site vous risquez de l'exposer à diverses vulnérabilités causées par des failles de sécurité. Il est important de rappeler que le fait d'utiliser <strong>n'importe quelle</strong> application dynamique représente un risque, celle-ci pourrait encore contenir une ou plusieurs failles. Afin de mieux protéger votre site, vous pouvez vous tenir informé des dernières annonces en vous inscrivant à la <a href="http://groups.google.com/zikula-announcements">mailing-list</a> (en anglais).</p>
+
+<h2 id="Stack">2. Recommandations</h2>
+<dl>
+  <dt>Système d'Exploitation</dt>
+  <dd>Toute application nécessite un système d'exploitation pour fonctionner. Les types de serveurs les plus connus sont :  <a href="http://www.microsoft.com/windows/">Microsoft Windows</a>, <a href="http://www.unix.org/">UNIX</a> and <a href="http://www.linux.org/">Linux</a> ainsi que <a href="http://www.apple.com/macosx/">Apple MacOS</a>. La vaste majorité des serveurs internet utilisent Linux, il y a donc plus de documentation et de support fournit pour les utilisateurs de Linux. Zikula s'efforce d'être indépendant du système d'exploitation et il est dans ce but intensivement testé sous Linux et Windows.</dd>
+  <dt>Serveur internet</dt>
+  <dd>Les deux serveurs internet les plus connus sont <a href="http://www.apache.org/">Apache</a> et <a href="http://www.iis.net/">Microsoft IIS</a>. Apache est le serveur internet préféré des internautes et la plupart des références à un serveur internet concernent Apache. Zikula est indépendant du serveur internet, bien que la majorité des tests soit réalisé avec Apache.</dd>
+  <dt>PHP</dt>
+  <dd><a href="http://php.net">PHP</a>(Hypertext Pre-processor) est un script qui est exécuté du côté serveur. Zikula requiert, actuellement, de disposer au minimum de la version 4.3 de PHP bien que celle-ci ne soit plus supportée par ses créateurs depuis janvier 2008. Il est donc recommandé d'utiliser au moins la dernière version stable de PHP.</dd>
+  <dt>Base de données</dt>
+  <dd>Zikula a aussi besoin d'une base de données pour pouvoir être installé et supporte actuellement <a href="http://mysql.com/">MySQL 5</a> au minimum, <a href="http://www.microsoft.com/sql">Microsoft SQL Server</a> (MSSQL), <a href="http://www.postgresql.org/">PostgreSQL</a>, and <a href="http://www.oracle.com/">Oracle</a>. Cette version de Zikula est la première qui étend son support à autre chose que MySQL. Le support des bases de données autre que MySQL est assuré par l'API et donc les modules additionnels qui n'utilisent pas l'API de Zikula peuvent ne pas être compatible.</dd>
+  <dt>Zikula</dt>
+  <dd>Chaque version a une durée de vie variable qui dépend de la date de sortie de la prochaine version stable. Nous vous recommandons d'utiliser la dernière version stable aussi vite que possible après que cette dernière aie été publiée et ce pour des raisons de sécurité, de performance et de support.</dd>
+  <dt>Modules Additionnels</dt>
+  <dd>Ce sont eux qui fournissent à Zikula ses vrais fonctionnalités. Veillez à utiliser la dernière version stable de ceux-ci également.</dd>
+</dl>
+
+<h2 id="Apcahe">3. Informations concernant Apache</h2>
+    <p>Apache est le meilleur choix à faire pour un serveur internet. Il est recommandé que vous utilisiez la dernière version stable de Apache, mais ceci n'est pas obligatoire. Si vous utilisez Apache, veuillez installer ces extensions si il vous est possible de le faire :</p>
+    <dl>
+      <dt>mod_security</dt>
+      <dd><a href="http://www.modsecurity.org/">mod_security</a> est un script open source qui permet de protéger les applications internet.</dd>
+      <dt>mod_rewrite</dt>
+      <dd><a href="http://httpd.apache.org/docs/2.0/mod/mod_rewrite.html">mod_rewrite</a> permet d'utiliser l'url rewriting(modifier l'URL).</dd>
+    </dl>
+  
+    
+<h2 id="ht">4. Fichiers de configuration du serveur</h2>
+<p>Sous Apache, ils sont représentés par des fichiers <a href="http://httpd.apache.org/docs/trunk/howto/htaccess.html">.htaccess</a>. Ils vous permettent de modifier la configuration de votre serveur pour le répertoire dans lequel il est placé. Cela permet par exemple de modifier la configuration de PHP(si PHP est exécuté comme étant un module de Apache) ou encore de rendre l'utilisation de l'url rewriting possible et bien d'autres choses encore. Il est important de rappeler qu'une mauvaise utilisation de ces fichiers peut entrainer une erreur du serveur internet. Ils ne sont pas requis par Zikula mais Zikula et beaucoup de modules additionnels essayent d'en tirer avantage afin d'améliorer la sécurité et les fonctionnalités.</p>
+<p>Sur certains serveurs d'hébergement il est possible d'ajouter un fichier php.ini dans vos répertoires afin de modifier la configuration de PHP.</p>
+<h2 id="PHP">5. Configuration de PHP</h2>
+<p>Bien que Zikula ne requiert pas une installation exotique de PHP, une bonne configuration de PHP est importante. Si vous avez la possibilité de modifier la configuration de PHP, vous devriez prendre ceci en compte :</p>
+<dl>
+  <dt>register_globals</dt>
+  <dd><a href="http://us.php.net/register_globals">Register_globals</a> devrait être sur off pour des raisons de sécurité. Note : le fichier .htaccess par défaut met cette option sur off grâce à un flag.</dd>
+  <dt>magic_quotes_gpc</dt>
+  <dd><a href="http://us.php.net/magic_quotes">Magic_quotes_gpc</a> devrait être sur off pour des raisons de sécurité. Note : le fichier .htaccess par défaut met cette option sur off grâce à un flag.</dd>
+  <dt>magic_quotes_runtime</dt>
+  <dd><a href="http://us2.php.net/manual/en/ref.info.php#ini.magic-quotes-runtime">magic_quotes_runtime</a> doit être sur off.</dd>
+  <dt>gd support</dt>
+  <dd>La <a href="http://us.php.net/gd">librairie GD</a> est utilisée pour manipuler des images grâce au serveur internet et par des galeries d'images.</dd>
+  <dt>allow_url_fopen</dt>
+  <dd><a href="http://us2.php.net/filesystem">allow_url_fopen</a> de préférence sur off pour des raisons de sécurité.</dd>
+  <dt>allow_url_include</dt>
+  <dd><a href="http://us2.php.net/filesystem">allow_url_include</a> de préférence sur off.</dd>
+  <dt>display_errors</dt>
+  <dd><a href="http://us2.php.net/manual/en/ref.errorfunc.php">display_errors</a> devrait être normalement sur off, il existe une option pour le mettre sur on dans le fichier /config/config.php en cas de besoin.</dd>
+  <dt>display_startup_errors</dt>
+  <dd><a href="http://us2.php.net/manual/en/ref.errorfunc.php">display_startup_errors</a> devrait être sur off.</dd>
+  <dt>expose_php</dt>
+  <dt>&nbsp;</dt>
+</dl>
+<h2 id="Final">6. Note finale</h2>
+<p>Si vous avez des questions, veuillez les poser sur les forums de la communauté.</p>
+<p>Salutations,<br />
+
+La Team Zikula</p>
+
+</body>
+</html>

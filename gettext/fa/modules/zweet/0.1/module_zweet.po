@@ -1,0 +1,143 @@
+# scribite! for Zikula.
+# Copyright (C) 2009
+# This file is distributed under the same license as the zweet package.
+# Sven Schomacker <hilope@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-30 06:26-0400\n"
+"PO-Revision-Date: 2010-01-24 12:22+0200\n"
+"Last-Translator: Ebrahim <ebrahim.koohi@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnadmin.php:67 pntwitter.php:86
+msgid ""
+"Invalid Authkey:  this probably means that you pressed the -Back- button, or "
+"that the page -authkey- expired. Please refresh the page and try again."
+msgstr ""
+"کلید تصدیق هویت نامعتبر: احتمالا به این معنی است که شما کلید 'back' مرورگر "
+"خود را فشرده اید، یا اینکه کلید تصدیق هویت این صفحه منقضی شده است. لطفا صفحه "
+"را refresh کرده و دوباره سعی کنید."
+
+#: pnversion.php:18 zweet_admin_menu.htm:12 zweet_user_newtweet.htm:2
+msgid "Zikula Tweet Suite"
+msgstr ""
+
+#: pninit.php:22 pninit.php:23
+msgid "zweet-hook could be created."
+msgstr "zweet-hook نمی تواند ایجاپ شود."
+
+#: pninit.php:46 pninit.php:47
+msgid "zweet-hook could be deleted."
+msgstr ""
+
+#: pnadmin.php:126
+msgid "Could not connect to Twitter. Please try again."
+msgstr "قادر به ارتباط با Twitter نیست. لطفا مجددا تلاش کنید."
+
+#: pnadmin.php:73
+msgid "Configuration not updated."
+msgstr "پیکربندی به روز رسانی نشد."
+
+#: pnadmin.php:78
+msgid "Configuration updated."
+msgstr "پیکربندی به روز رسانی شد."
+
+#: pnadminapi.php:2
+msgid "Configuration"
+msgstr "پیکربندی"
+
+#: pnuserapi.php:32
+msgid "Wrong arguments for zweet hook."
+msgstr ""
+
+#: pntwitter.php:51
+msgid "Twitter access token deleted. Please re-authentificate."
+msgstr ""
+
+#: pntwitter.php:98 pnuserapi.php:84
+msgid "New Twitter status set."
+msgstr "وضعیت جدید Twitter تنظیم شد."
+
+#: pntwitter.php:98 pnuserapi.php:87
+msgid "Setting Twitter status not successful!"
+msgstr "تنظیم کردن وضعیت Twitter موفق نبود!"
+
+#: pntwitter.php:135
+msgid "Twitter token too old. Please try again."
+msgstr ""
+
+#: pntwitter.php:157
+msgid "Twitter authentification successful."
+msgstr ""
+
+#: pntwitter.php:160
+msgid "Twitter token not generated. Please re-authentificate."
+msgstr ""
+
+#: pntwitterapi.php:29 pntwitterapi.php:73
+msgid "No permissions for zweet"
+msgstr ""
+
+#: zweet_admin_modifyconfig.htm:18 zweet_admin_setstatus.htm:14
+msgid "Update"
+msgstr "به روز رسانی"
+
+#: zweet_admin_modifyconfig.htm:19
+msgid "Cancel"
+msgstr "انصراف"
+
+#: zweet_admin_modifyconfig.htm:10
+msgid "URL shortener service"
+msgstr ""
+
+#: zweet_admin_modifytwitter.htm:4
+msgid "Twitter Configuration"
+msgstr "پیکربندی Twitter"
+
+#: zweet_admin_modifytwitter.htm:4
+msgid "Authentification okay."
+msgstr ""
+
+#: zweet_admin_modifytwitter.htm:10
+msgid "Actions"
+msgstr ""
+
+#: zweet_admin_modifytwitter.htm:11
+msgid "Reset token"
+msgstr ""
+
+#: zweet_admin_modifytwitter.htm:17
+msgid "Authentificate zweet:"
+msgstr ""
+
+#: zweet_admin_modifytwitter.htm:17
+msgid "Connect"
+msgstr "وصل شدن"
+
+#: zweet_admin_modifytwitter.htm:4 zweet_admin_setstatus.htm:3
+msgid "Current status:"
+msgstr "وضعیت جاری:"
+
+#: zweet_admin_setstatus.htm:6
+msgid "Set new status on Twitter"
+msgstr "تنظیم وضعیت جدید در Twitter"
+
+#: zweet_admin_setstatus.htm:8
+msgid "New status message:"
+msgstr ""
+
+#: zweet_admin_setstatus.htm:12
+msgid "You have "
+msgstr "شما دارید"
+
+#: zweet_admin_setstatus.htm:12
+msgid " chars left."
+msgstr ""

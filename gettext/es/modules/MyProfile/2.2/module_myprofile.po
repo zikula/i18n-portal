@@ -1,0 +1,1922 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-31 18:47+0200\n"
+"PO-Revision-Date: 2010-10-27 08:43+0200\n"
+"Last-Translator:  <info@delosduendeszahories.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnmailzapi.php:26
+msgid "Latest registrations"
+msgstr "Últimos registrados"
+
+#: pnmailzapi.php:27 pnblocks/newbies.php:22
+msgid "Show latest user registrations"
+msgstr "Mostrar los últimos registros de usuarios"
+
+#: pnmailzapi.php:124 pntemplates/myprofile_mailz_latest.htm:28
+msgid "Sum"
+msgstr "Suma"
+
+#: pnmailzapi.php:124 pntemplates/myprofile_mailz_latest.htm:28
+msgid "registered users since"
+msgstr "Usuarios registrados desde"
+
+#: pnuserapi.php:97 pntemplates/myprofile_myprofile_tab.htm:69
+#: pntemplates/myprofile_myprofile_tab.htm:76
+#: pntemplates/myprofile_myprofile_tab.htm:83
+msgid "no permission to view this field"
+msgstr "No tienes permiso para ver este campo"
+
+#: pnuserapi.php:392
+msgid "You can not request a new validation code before"
+msgstr "Usted no puede solicitar un nuevo código de validación"
+
+#: pnuserapi.php:419
+msgid ""
+"Attention: You have to activate your new email address before using this "
+"site again! Please read the instructions in the incoming email!"
+msgstr ""
+"Atención: ¡Tiene que activar su nueva dirección de email antes de visitar "
+"este sitio de nuevo! ¡Por favor, lea las instrucciones del email que le "
+"llegue!"
+
+#: pnuserapi.php:431
+msgid "Email verification code for"
+msgstr "Código de verificación del Email para"
+
+#: pnuserapi.php:431 includes/common_admin.php:19
+msgid "at"
+msgstr "a"
+
+#: pnuserapi.php:688
+msgid "Show user's profile"
+msgstr "Mostrar el perfil del usuario"
+
+#: pnversion.php:17
+msgid "MyProfile"
+msgstr "Mi Perfil"
+
+#. ! this is the URL that will be displayed for the module
+#: pnversion.php:19
+msgid "myprofile"
+msgstr "mi perfil"
+
+#: pnversion.php:20
+msgid "The advances template based zikula profile module"
+msgstr "Módulo de Perfil de Zikula, basado en la plantilla advances"
+
+#: pnaccountapi.php:23
+msgid "My profile data"
+msgstr "Mis datos de perfil"
+
+#: pnaccountapi.php:27
+msgid "My password"
+msgstr "Mi contraseña"
+
+#: pnaccountapi.php:31
+msgid "My email address"
+msgstr "Mi dirección de email"
+
+#: pnuserdeletionapi.php:40
+msgid "Profile data deleted for user"
+msgstr "Datos del perfil eliminados por el usuario"
+
+#: pnuserdeletionapi.php:43
+msgid "User-Profile"
+msgstr "Perfil de usuario"
+
+#: pninit.php:76
+msgid "Error registering System Init Hook for MyProfile module"
+msgstr "Error al registrar el Hook Init del Sistema para el módulo MyProfile"
+
+#: pninit.php:79
+msgid "System Init Hook was created for MyProfile module"
+msgstr "El Hook Init del Sistema fue creado para el módulo MyProfile"
+
+#: pninit.php:109
+msgid "System Init Hook remove error"
+msgstr "Error al eliminar el Hook Init del Sistema"
+
+#: pninit.php:111
+msgid "System Init Hook for MyProfile module was removed"
+msgstr "El Hook Init del sistema para el módulo MyProfile fue eliminado "
+
+#: pninit.php:145
+msgid "MyProfile systeminit hook created"
+msgstr "Hook de systemini de MyProfile creado"
+
+#: pnadminapi.php:99
+msgid ""
+"Config file could not be created - please check the config directory "
+"permissions."
+msgstr ""
+"El archivo de configuración no pudo ser creado - por favor, comprueba los "
+"permisos del directorio de configuración."
+
+#: pnadminapi.php:100 pnadminapi.php:106 pnadminapi.php:111
+msgid ""
+"The file modules/MyProfile/config/tabledef.inc has to be writable. If the "
+"file does not exist yet, the folder config has to be writeable."
+msgstr ""
+"El archivo modules/MyProfile/config/tabledef.inc debe tener permisos de "
+"escritura. Si el archivo aún no existe, la carpeta de configuración debe "
+"tener el mismo permiso."
+
+#: pnadminapi.php:105
+msgid ""
+"Config file is not readable - change this before trying to edit the actual "
+"configuration."
+msgstr ""
+"El archivo de configuración no es legible - remédielo antes de intentar "
+"editar la configuración actual."
+
+#: pnadminapi.php:110
+msgid ""
+"Config file is not writeable - change this before trying to edit the actual "
+"configuration."
+msgstr ""
+"El archivo de configuración no tiene permisos de escritura - remédielo antes "
+"de intentar editar la configuración actual."
+
+#: pnadminapi.php:377
+msgid "An error occured while trying to update the table definition"
+msgstr "Ocurrió un error al tratar de actualizar la definición de la tabla"
+
+#: pnadminapi.php:380
+msgid "Table definition updated successfully"
+msgstr "La definición de la tabla ha sido actualizada con éxito"
+
+#: pnadminapi.php:386
+msgid "Table structure updated"
+msgstr "Estructura de la tabla actualizada"
+
+#: pnadminapi.php:389
+msgid "Parameter is missing: no source given"
+msgstr "Falta algún parámetro: no se estableció ningún origen"
+
+#: pnadminapi.php:424
+msgid "An error occured importing the pnProfile configuration"
+msgstr "Algún error ha ocurrido al importar la configuración de pnProfile"
+
+#: pnadminapi.php:427
+msgid "pnProfile structure imported into MyProfile"
+msgstr "La estructura de pnProfile ha sido importada a MyProfile"
+
+#: pnadminapi.php:469
+msgid "Import done"
+msgstr "Importación realizada"
+
+#: pnadminapi.php:469 pnadminapi.php:472
+msgid "items imported"
+msgstr "elementos importados"
+
+#: pnadminapi.php:472
+msgid ""
+"One import step done.. This step has to be repeated in large communities"
+msgstr ""
+"Paso de importación realizado... Este paso debe repetirse en comunidades "
+"grandes"
+
+#: pnadminapi.php:472
+msgid "about"
+msgstr "sobre"
+
+#: pnadminapi.php:472
+msgid "left"
+msgstr "izquierda"
+
+#: pnadminapi.php:476
+msgid "pnProfile configuration could not be read"
+msgstr "La configuración de pnProfile no es legible"
+
+#: pnadminapi.php:510
+msgid "Parameter error: invalid source given"
+msgstr "Error de parámetros: origen introducido inválido"
+
+#: pnadminapi.php:536
+msgid "Database was cleaned up"
+msgstr "La Base de datos ha sido limpiada"
+
+#: pnuser.php:43
+msgid "MyMap module not found"
+msgstr "El módulo MyMap no pudo ser hallado"
+
+#: pnuser.php:53
+msgid ""
+"More than one coordinate field found. Please use the url parameter "
+"identifier and the value of the identifier you want to use as coordinate "
+"field and reload the page"
+msgstr ""
+"Hallado más de un campo coordinado. Utilice el parámetro identificador de "
+"url y el valor del identificador que quiere usar como campo coordinado, y "
+"recargue la página, por favor."
+
+#: pnuser.php:132
+msgid "User deleted"
+msgstr "Usuario eliminado"
+
+#: pnuser.php:136
+msgid "An error occured while trying to delete the user"
+msgstr "Ocurrió algún error al tratar de eliminar al usuario"
+
+#: pnuser.php:296 pntemplates/myprofile_user_display.htm:6
+msgid "Profile of user"
+msgstr "Perfil de usuario"
+
+#: includes/classes/user/confirmedusers.php:35
+msgid "The username you specified does not exist"
+msgstr "El nombre de usuario que has especificado no existe"
+
+#: includes/classes/user/confirmedusers.php:39
+msgid ""
+"I hope you trust yourself, but you cannot add your own username to your list"
+msgstr ""
+"Ya sabemos que confias en ti, pero no puedes añadir tu propio nombre de "
+"usuario a tu lista"
+
+#: includes/classes/user/confirmedusers.php:43
+#: includes/classes/admin/invalidemail.php:40
+msgid "User already marked"
+msgstr "El Usuario ya ha sido seleccionado"
+
+#: includes/classes/user/confirmedusers.php:50
+msgid "An error occured while trying to add the user to your list"
+msgstr "Ocurrió algún error al tratar de añadir el usuario a tu lista"
+
+#: includes/classes/user/confirmedusers.php:54
+msgid "User was added to the list"
+msgstr "El usuario fue añadido a la lista"
+
+#: includes/classes/user/main.php:37
+msgid ""
+"Your profile is outdated or incomplete - please check / complete / update "
+"your personal data"
+msgstr ""
+"Tu perfil está obsoleto o incompleto - por favor, comprueba / completa / "
+"actualiza tus datos personales"
+
+#: includes/classes/user/main.php:128
+msgid "Please check the format you entered for your coordinates!"
+msgstr "¡Compruebe el formato introducido para sus coordenadas, por favor!"
+
+#: includes/classes/user/main.php:154 includes/classes/user/main.php:173
+msgid "Updating / creating user attributes failed"
+msgstr "Se produo un error al Actualizar / Crear atributos del usuario"
+
+#: includes/classes/user/main.php:157
+msgid "Profile was updated successfully"
+msgstr "El Perfil fue actualizado con éxito"
+
+#: includes/classes/user/main.php:158
+msgid "Creating / Updating profile failed"
+msgstr "Se produjo un error al Crear / Actualizar el perfil"
+
+#: includes/classes/user/main.php:177
+msgid "The profile was created successfully"
+msgstr "El perfil fue creado con éxito"
+
+#: includes/classes/user/main.php:180
+msgid "Profile creation error"
+msgstr "Error al crear el Perfil"
+
+#: includes/classes/user/search.php:21
+#: pntemplates/myprofile_user_confirmedusers.htm:10
+#: pntemplates/myprofile_user_search.htm:53
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: includes/classes/user/search.php:57
+msgid "soft"
+msgstr "programa"
+
+#: includes/classes/user/search.php:58
+msgid "exact"
+msgstr "exacto"
+
+#: includes/classes/user/search.php:61
+msgid "AND"
+msgstr "Y"
+
+#: includes/classes/user/search.php:62
+msgid "OR"
+msgstr "O"
+
+#: includes/classes/user/search.php:65
+msgid "ASC"
+msgstr "ASC"
+
+#: includes/classes/user/search.php:66
+msgid "DESC"
+msgstr "DESC"
+
+#: includes/classes/user/validatemail.php:45
+#: includes/classes/user/settings.php:132
+msgid "Your email address was updated successfully"
+msgstr "Tu dirección de email fue actualizada con éxito"
+
+#: includes/classes/user/validatemail.php:52
+#: includes/classes/user/settings.php:139
+msgid "An error occured while trying to change your email address"
+msgstr "Ocurrió algún error al tratar de cambiar tu dirección de email"
+
+#: includes/classes/user/validatemail.php:54
+msgid "Verification code incorrect"
+msgstr "Código de verificación incorrecto"
+
+#: includes/classes/user/validatemail.php:56
+msgid ""
+"Verification code is no longer valid - you should start a new request for a "
+"new verification code"
+msgstr ""
+"Código de verificación obsoleto - debe solicitar otro para poder iniciar una "
+"nueva verificación"
+
+#: includes/classes/user/settings.php:54 includes/classes/user/settings.php:67
+#: pntemplates/myprofile_admin_fields.htm:20
+#: pntemplates/myprofile_user_main.htm:69
+msgid "viewable by everybody"
+msgstr "visible por todos"
+
+#: includes/classes/user/settings.php:55 includes/classes/user/settings.php:68
+msgid "all members"
+msgstr "todos los miembros"
+
+#: includes/classes/user/settings.php:57 includes/classes/user/settings.php:69
+msgid "confirmed buddies"
+msgstr "amigos confirmados"
+
+#: includes/classes/user/settings.php:70
+msgid "only listed users"
+msgstr "sólo usuarios listados"
+
+#: includes/classes/user/settings.php:93
+msgid ""
+"You have to include all mandatory profile variables into your individual "
+"template"
+msgstr ""
+"Debe incluir todas las variables requeridas del perfil en su plantilla "
+"individual"
+
+#: includes/classes/user/settings.php:108
+msgid "Settings updated successfully"
+msgstr "Ajustes actualizados con éxito"
+
+#: includes/classes/user/settings.php:114
+msgid ""
+"The new password was not entered twice the same way - there might be a typo "
+"in a password - password was not changed"
+msgstr ""
+"La nueva contraseña no fue introducida por duplicado con exactitud - puede "
+"que hubiera algún gazapo en alguno de los campos - la contraseña no fue "
+"cambiada"
+
+#: includes/classes/user/settings.php:121
+msgid "Your password was changed successfully"
+msgstr "Tu contraseña fue cambiada con éxito"
+
+#: includes/classes/user/settings.php:124
+msgid "The new password is too short"
+msgstr "La nueva contraseña es demasiado corta"
+
+#: includes/classes/user/settings.php:144
+msgid ""
+"An verification email with further instructions has been sent to your new "
+"email address."
+msgstr ""
+"Un email de verificación con más instrucciones se ha enviado a tu nueva "
+"dirección de email."
+
+#: includes/classes/user/settings.php:146
+msgid ""
+"An error occured while trying to send an verification code to your new, "
+"entered email address"
+msgstr ""
+"Ocurrió algún error al enviar el código de verificación a la nueva dirección "
+"de email que indicaste."
+
+#: includes/classes/admin/invalidemail.php:33
+msgid "Email address could not be found in user database"
+msgstr ""
+"La dirección de email no pudo ser hallada en la base de datos de usuarios"
+
+#: includes/classes/admin/invalidemail.php:49
+msgid "User marked"
+msgstr "Usuario seleccionado"
+
+#: includes/classes/admin/invalidemail.php:53
+msgid "Error while trying to mark the user"
+msgstr "Error al tratar de seleccionar el usuario"
+
+#: includes/classes/admin/addfield.php:31
+msgid "No"
+msgstr "No"
+
+#: includes/classes/admin/addfield.php:32
+msgid "Yes"
+msgstr "Sí"
+
+#: includes/classes/admin/addfield.php:34
+msgid "Separator"
+msgstr "Separador"
+
+#: includes/classes/admin/addfield.php:35
+msgid "String"
+msgstr "Cadena de texto"
+
+#: includes/classes/admin/addfield.php:36
+msgid "Integer"
+msgstr "Número entero"
+
+#: includes/classes/admin/addfield.php:37
+msgid "Float"
+msgstr "Número Decimal"
+
+#: includes/classes/admin/addfield.php:38
+msgid "String (multiline)"
+msgstr "Cadena de texto (multlínea)"
+
+#: includes/classes/admin/addfield.php:39
+msgid "Url"
+msgstr "Url"
+
+#: includes/classes/admin/addfield.php:40
+msgid "ICQ-UIN"
+msgstr "ICQ-UIN"
+
+#: includes/classes/admin/addfield.php:41
+msgid "Skype-ID"
+msgstr "ID de Skype"
+
+#: includes/classes/admin/addfield.php:42
+msgid "Date"
+msgstr "Fecha"
+
+#: includes/classes/admin/addfield.php:43
+msgid "Timestamp"
+msgstr "Marca de tiempo"
+
+#: includes/classes/admin/addfield.php:44
+msgid "Coordinate"
+msgstr "Coordenada"
+
+#: includes/classes/admin/addfield.php:45
+msgid "This field will be shown to everybody"
+msgstr "Este campo debe mostrarse a todo el mundo"
+
+#: includes/classes/admin/addfield.php:46
+msgid "Only registered users will be able to see this field's value"
+msgstr "Sólo los usuarios registradospodrán visualizar el valor de este campo"
+
+#: includes/classes/admin/addfield.php:47
+msgid "Only the administrator will be able to see this field's value"
+msgstr "Sólo el administrador podrá visualizar el valor de este campo"
+
+#: includes/classes/admin/addfield.php:48
+#: pntemplates/myprofile_admin_fields.htm:23
+msgid "The user can choose who should be able to see this field's value"
+msgstr "El usuario puede escoger quién podrá visualizar el valor de este campo"
+
+#: includes/classes/admin/addfield.php:69
+#: includes/classes/admin/addfield.php:77
+msgid "Error while deleting the fields"
+msgstr "Error al eliminar campos"
+
+#: includes/classes/admin/addfield.php:73
+msgid "Field was deleted successfully"
+msgstr "El campo fue eliminado con éxito"
+
+#: includes/classes/admin/addfield.php:87
+msgid "Existing field was updated successfully"
+msgstr "El campo existente fue actualizado con éxito"
+
+#: includes/classes/admin/addfield.php:94
+msgid ""
+"A field named with this identifier exists already - please choose another "
+"value for the identifier!"
+msgstr ""
+"¡Ya existe un campo denominado con este identificador - elige otro valor "
+"para el identicador, por favor!"
+
+#: includes/classes/admin/addfield.php:105
+msgid ""
+"The identifier must not contain any other characters than numbers (0-9) and "
+"regular characters (A-Z, a-z)"
+msgstr ""
+"El identificador no debe contener otros caracteres que números (0-9) y "
+"letras regulares (A-Z, a-z)"
+
+#: includes/classes/admin/addfield.php:110
+msgid "New field was created successfully"
+msgstr "El nuevo campo fue generado con éxito"
+
+#: includes/classes/admin/settings.php:55
+msgid "Configuration updated successfully"
+msgstr "Configuración actualizada con éxito"
+
+#: includes/common.php:179
+msgid ""
+"Your email address has to be updated before using this site! EMails came "
+"back to the administrator that did not reach you - valid email addresses are "
+"mandatory for this site! After changing your email address you will be able "
+"to use this site again!"
+msgstr ""
+"¡Tu dirección de email tiene que ser actualizada antes de volver a visitar "
+"este sitio! Los emails que no te lleguen, se remitirán al administrador - "
+"¡Una dirección de email válida es obligatoria para este sitio! ¡Una vez "
+"cambies tu dirección de email podrás volver a utilizar este sitio!"
+
+#: includes/common.php:203
+msgid ""
+"Please fill out your personal profile first. This is neccessary before you "
+"can interact in this community!"
+msgstr ""
+"Por favor, rellena tu perfil personal primero ¡Esto es necesario antes de "
+"participar en esta comunidad!"
+
+#: includes/common_admin.php:19
+msgid "New profile"
+msgstr "Nuevo perfil"
+
+#: pnblocks/online.php:22
+msgid ""
+"Show users that are online now (please customize template "
+"myprofile_block_online.htm for your needs)"
+msgstr ""
+"Mostrar los usuarios que están conectados ahora (por favor, ajusta la "
+"plantilla myprofile_block_online.htm a tus necesidades)"
+
+#: pnblocks/random.php:31
+msgid "Show random users"
+msgstr "Mostrar usuarios aleatorios"
+
+#: pnblocks/birthday.php:22
+msgid "Show nicknames that celebrate their birthday today"
+msgstr "Mostrar usuarios que celebren hoy su cumpleaños"
+
+#: pnadmin.php:138
+msgid "pnProfile migration reset done"
+msgstr "Reseteo de la migración de pnProfile realizada"
+
+#: pnadmin.php:224
+msgid "Element was moved successfully"
+msgstr "El elemento fue trasladado con éxito"
+
+#: pnadmin.php:249
+msgid "more than one user found"
+msgstr "hallado más de un usuario"
+
+#: pnadmin.php:251
+msgid "please choose one user and enter its username"
+msgstr "escoge un miembro e introduce su nombre de usuario, por favor"
+
+#: pnadmin.php:261
+msgid "email address not found"
+msgstr "dirección de email no encontrada"
+
+#: pnadmin.php:271
+msgid "No user with this username or user-ID found"
+msgstr "No se ha encontrado ningún usuario con este nombre o ID"
+
+#: pntemplates/myprofile_user_display.htm:31
+msgid "User's main profile"
+msgstr "Perfil principal del usuario"
+
+#: pntemplates/myprofile_block_birthday.htm:7
+msgid "good luck and a nice party!"
+msgstr "¡Buena suerte y que lo pases bien!"
+
+#: pntemplates/myprofile_block_newbies_modify.htm:3
+msgid "Amount of items that should be shown in the newbie list"
+msgstr "Cantidad de elementos de deben mostrarse en la lista de principiantes"
+
+#: pntemplates/myprofile_block_newbies.htm:15
+msgid "Welcome to our community!"
+msgstr "¡Bienvenido a nuestra comunidad!"
+
+# MyProfile tb se traduce?
+#: pntemplates/myprofile_admin_main.htm:3
+#: pntemplates/myprofile_admin_mainsettings.htm:3
+msgid "Welcome to MyProfile - the advanced zikula profile module!"
+msgstr "¡Bienvenido a MiPerfil - el módulo avanzado de perfiles de Zikula!"
+
+# MyProfile tb se traduce?
+#: pntemplates/myprofile_admin_main.htm:6
+msgid "Modify profile"
+msgstr "Modificar perfil"
+
+#: pntemplates/myprofile_admin_main.htm:7
+msgid "You can directly modify a user's profile in entering the"
+msgstr "Puedes modificar directamente el perfil de usuario entrando a"
+
+#: pntemplates/myprofile_admin_main.htm:9
+msgid "username"
+msgstr "nombre de usuario"
+
+#: pntemplates/myprofile_admin_main.htm:13
+msgid "E-mail address"
+msgstr "Dirección de e-mail"
+
+#: pntemplates/myprofile_admin_main.htm:17
+msgid "or the user's ID"
+msgstr "o ID del usuario"
+
+#: pntemplates/myprofile_admin_main.htm:19
+msgid "... and edit the user's profile"
+msgstr "... y editar el perfil de usuario"
+
+#: pntemplates/myprofile_admin_main.htm:23
+msgid "Submit"
+msgstr "Enviar"
+
+#: pntemplates/myprofile_admin_main.htm:24
+#: pntemplates/myprofile_admin_addfield.htm:118
+#: pntemplates/myprofile_user_search.htm:120
+#: pntemplates/myprofile_admin_mainsettings.htm:59
+#: pntemplates/myprofile_admin_invalidemail.htm:16
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: pntemplates/myprofile_admin_main.htm:28
+msgid "Support this module"
+msgstr "Soporte del módulo"
+
+#: pntemplates/myprofile_admin_main.htm:29
+msgid ""
+"You like this module and it is usefull for you? Thank you for some little "
+"donation for the programmer! OK - I like programming very much and this "
+"module is free and open source - but if you spend some money I'll go out for "
+"a nice candlelight dinner with my girlfriend and it will be much easier next "
+"time to get free time for programming ;-)"
+msgstr ""
+"¿Te gusta este módulo? ¿Es útil para ti? ¡Se agradece cualquier pequeña "
+"donación para el programador! OK - Me gusta mucho programar y este módulo es "
+"gratuito y de código abierto - pero si inviertes algo de dinero podré salir "
+"y tener una buena cena con velas con mi chica, por lo que será mucho más "
+"fácil obtener más tiempo libre en el que programar la próxima vez ;-)"
+
+#: pntemplates/myprofile_admin_main.htm:46
+msgid "Donate with PayPal!"
+msgstr "¡Donar con PayPal!"
+
+#: pntemplates/myprofile_admin_findorphans.htm:2
+#: pntemplates/myprofile_admin_menu.htm:13
+msgid "repair"
+msgstr "reparar"
+
+#: pntemplates/myprofile_admin_findorphans.htm:3
+msgid ""
+"This function checks the consistency of your MyProfile database. This check "
+"might be neccessary, if you allow your user's to delete their accounts "
+"themself or if your delete users using the function the Users module offers "
+"you. In this case, old data might still be stored in the MyProfile tables. "
+"This function is the \"garbage collector\" for this module."
+msgstr ""
+"Esta función comprueba la consistencia de la base de datos de MyProfile. "
+"Esta comprobación puede ser necesario si permites a los usuarios eliminar "
+"sus cuentas o si eliminas usuarios usando la función que el módulo de "
+"Usuarios te ofrece. En este caso, los datos antiguos podrían ser almacenados "
+"todavía en las tablas de MyProfile. Esta función es la \"Papelera de "
+"reciclaje\" de este módulo."
+
+#: pntemplates/myprofile_admin_findorphans.htm:6
+msgid "You have"
+msgstr "Tienes que"
+
+#: pntemplates/myprofile_admin_findorphans.htm:6
+msgid "orphans"
+msgstr "huérfano"
+
+#: pntemplates/myprofile_admin_findorphans.htm:7
+msgid "Clean up database"
+msgstr "Limpiar base de datos"
+
+#: pntemplates/myprofile_admin_findorphans.htm:17
+msgid "Database already optimized"
+msgstr "Se acaba de optimizar la Base de datos"
+
+#: pntemplates/myprofile_user_display_invalid.htm:4
+msgid "This profile page cannot be displayed"
+msgstr "Esta página de perfil no puede ser mostrada"
+
+#: pntemplates/myprofile_user_display_invalid.htm:6
+msgid ""
+"The user does not exist or there is no vaid profile available for this user "
+"yet."
+msgstr ""
+"El usuario no existe o aún no hay ningún perfil válido para este usuario."
+
+#: pntemplates/myprofile_user_display_invalid.htm:8
+msgid "Go back one page"
+msgstr "Volver a la página anterior"
+
+#: pntemplates/myprofile_myprofile_tab.htm:30
+msgid "User's gallery"
+msgstr "Galería de usuarios"
+
+#: pntemplates/myprofile_myprofile_tab.htm:30
+#: pntemplates/myprofile_myprofile_tab.htm:33
+msgid "picture(s)"
+msgstr "imagen / imágenes"
+
+#: pntemplates/myprofile_myprofile_tab.htm:33
+msgid "User linked at"
+msgstr "Usuario enlazado en"
+
+#: pntemplates/myprofile_myprofile_tab.htm:42
+msgid "Override individual profile template"
+msgstr "Anular plantilla individual del perfil"
+
+# errata del inglés (registERD), y tb faltaria contexto para saber si el "el" q le he añadido al final queda bien con una posible fecha que vaya despues
+#: pntemplates/myprofile_myprofile_tab.htm:125
+msgid "Registerd since"
+msgstr "Registrado desde el"
+
+#: pntemplates/myprofile_myprofile_tab.htm:128
+msgid "Last update"
+msgstr "Última actualización"
+
+#: pntemplates/myprofile_myprofile_tab.htm:132
+msgid "Last login"
+msgstr "Última sesión"
+
+#: pntemplates/myprofile_myprofile_tab.htm:145
+#: pntemplates/myprofile_myprofile_tab.htm:151
+msgid "Send private message"
+msgstr "Enviar mensaje privado"
+
+#: pntemplates/myprofile_myprofile_tab.htm:157
+msgid "Add as buddy or memorize user"
+msgstr "Añadir como amigo o memorizar usuario"
+
+#: pntemplates/myprofile_admin_addfield.htm:7
+msgid "Modify an existing field"
+msgstr "Modificar algún campo existente"
+
+#: pntemplates/myprofile_admin_addfield.htm:9
+#: pntemplates/myprofile_admin_fields.htm:7
+msgid "Add a new field"
+msgstr "Añadir un nuevo campo"
+
+#: pntemplates/myprofile_admin_addfield.htm:13
+msgid "You can add or modify a custom field for the user's profile here."
+msgstr ""
+"Puedes añadir o modificar cualquier campo personalizable para el perfil del "
+"usuario aquí."
+
+#: pntemplates/myprofile_admin_addfield.htm:13
+msgid ""
+"Due to some technical and logical reasons the type and identifier of a "
+"regular field can not be changed after the field was created."
+msgstr ""
+"Debido a razones lógicas y técnicas, el identificador y denominación de un "
+"campo regular no pueden cambiarse después de crearlo."
+
+#: pntemplates/myprofile_admin_addfield.htm:19
+msgid "Type of this field"
+msgstr "Tipo de este campo"
+
+#: pntemplates/myprofile_admin_addfield.htm:27
+msgid ""
+"Identifier for the field (and the name of the column in the database) or "
+"title of the separator (if type is separator)"
+msgstr ""
+"Identificador del campo (y el nombre de la columna en la base de datos) o "
+"título del separador (si la denominación es de algún separador)"
+
+#: pntemplates/myprofile_admin_addfield.htm:35
+msgid "Should this field be mandatory"
+msgstr "¿Debe ser este campo obligatorio?"
+
+#: pntemplates/myprofile_admin_addfield.htm:39
+#: pntemplates/myprofile_admin_fields.htm:25
+msgid "Description"
+msgstr "Descripción"
+
+#: pntemplates/myprofile_admin_addfield.htm:45
+#: pntemplates/myprofile_admin_addfield.htm:54
+msgid "Minimal value for integer or float"
+msgstr "Valor mínimo: número entero o con decimales..."
+
+#: pntemplates/myprofile_admin_addfield.htm:49
+#: pntemplates/myprofile_admin_addfield.htm:58
+msgid "Maximal value for integer or float"
+msgstr "Valor máximo: número entero o con decimales..."
+
+#: pntemplates/myprofile_admin_addfield.htm:63
+#: pntemplates/myprofile_admin_fields.htm:28
+msgid "Maximal length of string"
+msgstr "Longitud máxima de la cadena de texto"
+
+#: pntemplates/myprofile_admin_addfield.htm:68
+#: pntemplates/myprofile_admin_fields.htm:30
+msgid "List (for building a dropdown menu)"
+msgstr "Lista (para construir un menú desplegable)"
+
+#: pntemplates/myprofile_admin_addfield.htm:71
+msgid "Example code for dropdown menus: @@value to store||text to show"
+msgstr ""
+"Código de ejemplo para los menús desplegables: @@value para almacenar||texto "
+"que mostrar"
+
+#: pntemplates/myprofile_admin_addfield.htm:72
+msgid ""
+"@@daily||I want the daily newsletter @@monthly||Send a newsletter every "
+"month @@no||I do not want to recieve newsletters"
+msgstr ""
+"@@daily||Quiero el boletón diario @@monthly||Enviar un boletín todos los "
+"meses @@no||No quiero recibir boletines"
+
+#: pntemplates/myprofile_admin_addfield.htm:73
+msgid "Example code for radiobutton menus: @*value to store||text to show"
+msgstr ""
+"Código de ejemplo para menús radio-botón: @*value a almacenar||texto a "
+"mostrar"
+
+#: pntemplates/myprofile_admin_addfield.htm:74
+msgid "@*0||No @*1||Yes"
+msgstr "@*0||No @*1||Sí"
+
+#: pntemplates/myprofile_admin_addfield.htm:77
+msgid "Special code parts"
+msgstr "Partes con código especial"
+
+#: pntemplates/myprofile_admin_addfield.htm:79
+msgid ""
+"Just enter the word 'ZCOUNTRYMAP' as list value and all available country "
+"codes and the name of each country will appear as dropdown list in the "
+"user's profile setup page."
+msgstr ""
+"Sólo con introducir la palabra \"ZCOUNTRYMAP\" como valor de lista, todos "
+"los códigos de países con su nombre aparecerán en la lista desplegable de la "
+"página de configuración del perfil del usuario."
+
+#: pntemplates/myprofile_admin_addfield.htm:84
+msgid "Public status"
+msgstr "Status público"
+
+#: pntemplates/myprofile_admin_addfield.htm:88
+msgid ""
+"Should this field be writeable and shown in the user's profile configuration"
+msgstr ""
+"¿Quieres que este campo tenga permisos de escritura y que sea visible en la "
+"configuración del perfil del usuario?"
+
+#: pntemplates/myprofile_admin_addfield.htm:92
+msgid ""
+"Should this field be shown on the user's profile page that will be generated "
+"by this module"
+msgstr ""
+"¿Quieres que este campo sea visible en la página de perfil del usuario que "
+"será generada por este módulo?"
+
+#: pntemplates/myprofile_admin_addfield.htm:96
+msgid "Field should be searchable by all users doing a search"
+msgstr ""
+"Este campo debe poder ser hallado por todos los usuarios mediante la "
+"realización de una Búsqueda"
+
+#: pntemplates/myprofile_admin_addfield.htm:101
+msgid ""
+"Name of user attribute / property to store the users value also as user "
+"attribute. Example: Entering _REALNAME here will make MyProfile to store the "
+"user's value also as _REALNAME"
+msgstr ""
+"Nombre del atributo del usuario / propiedad de almacenar el valor de los "
+"usuarios como atributos de usuario. Ejemplo: Al introducir _REALNAME aquí, "
+"MiPerfil almacenará el valor del usuario como _REALNAME"
+
+#: pntemplates/myprofile_admin_addfield.htm:107
+msgid "Delete this field"
+msgstr "Eliminar este campo"
+
+#: pntemplates/myprofile_admin_addfield.htm:117
+#: pntemplates/myprofile_admin_invalidemail.htm:15
+msgid "Update / create field"
+msgstr "Actualizar / crear campo"
+
+#: pntemplates/myprofile_admin_import.htm:3
+msgid "Import data from pnProfile"
+msgstr "Importar datos de pnProfile"
+
+#: pntemplates/myprofile_admin_import.htm:7
+msgid ""
+"pnProfile module is available on your system. If you want to import data "
+"from this module to use it in the MyProfile module you can do this here. If "
+"you used a database dump to reconstruct pnProfile data make sure, that you "
+"also need the Users tables - not only the pnProfile tables are important!"
+msgstr ""
+"El módulo pnProfile está disponible en tu sistema. Si quieres importar datos "
+"de este módulo para usarlos en el módulo MyProfile puedes hacerlo aquí. Si "
+"recurriste a alguna recuperación de la base de datos para reconstruir los "
+"datos del pnProfile, asegúrate de disponer también de las tablas de Usuario "
+"- ¡No sólo las tablas de pnProfile son importantes!"
+
+#: pntemplates/myprofile_admin_import.htm:8
+msgid "Start import now"
+msgstr "Comenzar la importación ya"
+
+#: pntemplates/myprofile_admin_import.htm:9
+msgid "Migration from pnProfile to MyProfile already done"
+msgstr "La migración desde pnProfile a MyProfile ya está hecha"
+
+#: pntemplates/myprofile_admin_import.htm:11
+msgid "import pnProfile structure"
+msgstr "importar la esctructura de pnProfile"
+
+#: pntemplates/myprofile_admin_import.htm:11
+msgid ""
+"If you have already configured MyProfile your configuration will be lost! "
+"Also values users might have entered already will be lost! Merging is not "
+"supported!"
+msgstr ""
+"¡Si ya has configurado MyProfile, tu configuración se perderá! ¡Puede que "
+"también se pierdan los valores del usuario! ¡La conversión no es viable!"
+
+#: pntemplates/myprofile_admin_import.htm:12
+msgid "update table definition"
+msgstr "actualizar la definición de la tabla"
+
+#: pntemplates/myprofile_admin_import.htm:13
+msgid "update table"
+msgstr "Actualizar tabla"
+
+#: pntemplates/myprofile_admin_import.htm:14
+msgid "import pnProfile data into MyProfile"
+msgstr "Importar datos de pnProfile hacia MyProfile"
+
+#: pntemplates/myprofile_admin_import.htm:14
+msgid ""
+"If you have a huge pnProfile database the update might break if the memory "
+"limit or the timeout is set to low. If the update breaks, raise your memory "
+"limit and the php maximum execution time and try this step again until it "
+"works! Also do not run any other processes you do not need when importing "
+"the database."
+msgstr ""
+"Si tienes una base de datos de pnProfile enorme, la actualización podría "
+"detenerse si el límite de memoria o de tiempo no es suficiente. Si la "
+"actualización se para, aumenta el límite de memoria y el tiempo de ejecución "
+"máximo de php ¡Y así hasta que este paso funcione! Asimismo, no ejecutes "
+"ningún otro proceso que no necesites durante la importación de la base de "
+"datos."
+
+#: pntemplates/myprofile_admin_import.htm:16
+msgid "Migration failed"
+msgstr "Falló la migración"
+
+#: pntemplates/myprofile_admin_import.htm:16
+msgid "Reset migration and start with first step again"
+msgstr "Reinicia la migración y comienza con el primer paso de nuevo"
+
+#: pntemplates/myprofile_admin_import.htm:20
+msgid "pnProfile is not available on your system. No import possible."
+msgstr ""
+"pnProfile no está disponible en tu sistema. La importación no es posible."
+
+#: pntemplates/myprofile_admin_import.htm:24
+msgid "Import data from Profile"
+msgstr "Importar datos desde el Perfil"
+
+#: pntemplates/myprofile_admin_import.htm:28
+msgid ""
+"Profile module found on your system. You can import all data from Profile "
+"module into MyProfile."
+msgstr ""
+"El módulo de Perfil ha sido hallado en su sistema. Puedes importar todos los "
+"datos del módulo de Perfil hacia MyProfile"
+
+#: pntemplates/myprofile_admin_import.htm:29
+msgid ""
+"Attention: You first have to setup the structur of the MyProfile user "
+"profile. Having done this will enable you to import User-Properties step by "
+"step for each user... Just choose the porperty, the target the data should "
+"be written into and then import from Profile module."
+msgstr ""
+"Atención: Primero tienes que configurar la estructura del Perfil de usuario "
+"de MyProfile. Una vez hecho esto, se te permitirá importar las Propiedades "
+"de Usuario paso a paso para cada usuario... Sólamente tendrás que "
+"seleccionar la propiedad, el destino al que deben ser enviados los datos e "
+"importar entonces desde el módulo Profile."
+
+#: pntemplates/myprofile_admin_import.htm:36
+msgid ""
+"After selecting a source user property and a destination MyProfile "
+"identifier you will have some sql code shown in here. Please copy and paste "
+"this code and execute it in phpmyadmin for example to import your Profile "
+"data into MyProfile"
+msgstr ""
+"Tras seleccionar una propiedad del usuario como origen y un indentificador "
+"de MyProfile como destino, aquí se te mostrará algún código sql. Por favor, "
+"copia y pega este código, y ejecútalo en phpmyadmin por ejemplo para "
+"importar tu Perfil hacia MyProfile"
+
+#: pntemplates/myprofile_admin_import.htm:45
+msgid "Source field"
+msgstr "Campo de origen"
+
+#: pntemplates/myprofile_admin_import.htm:51
+msgid "Destination field"
+msgstr "Campo de destino"
+
+#: pntemplates/myprofile_admin_import.htm:60
+msgid ""
+"If your memory limit is to low or your database to huge you can select a "
+"start and stop interval for user IDs"
+msgstr ""
+"Si tu límite de memoria es demasiado bajo o tu base de datos enorme, puedes "
+"seleccionar un intervalo con un comienzo y final de IDs de usuario"
+
+#: pntemplates/myprofile_admin_import.htm:61
+msgid "Begin of User-ID interval"
+msgstr "Comienzo del intervalo de IDs de Usuario"
+
+#: pntemplates/myprofile_admin_import.htm:63
+msgid "End of User-ID interval"
+msgstr "Final del intervalo de IDs de Usuario"
+
+#: pntemplates/myprofile_admin_import.htm:65
+msgid "Import this user property"
+msgstr "Importar la propiedad de este usuario"
+
+#: pntemplates/myprofile_admin_import.htm:72
+msgid ""
+"The regular Profile module could not be found on your system. No Import "
+"possible."
+msgstr ""
+"El módulo regular de Perfil no pudo ser encontrado en su sistema. La "
+"importación no es posible."
+
+#: pntemplates/myprofile_user_confirmedusers.htm:4
+msgid "Manage users that can see your private data"
+msgstr "Gestionar a los usuarios que pueden visualizar tus datos personales"
+
+#: pntemplates/myprofile_user_confirmedusers.htm:9
+msgid "Add a new user to your list"
+msgstr "Añadir un nuevo usuario a tu lista"
+
+#: pntemplates/myprofile_user_confirmedusers.htm:14
+msgid "add"
+msgstr "Añadir"
+
+#: pntemplates/myprofile_user_confirmedusers.htm:19
+msgid "Your list"
+msgstr "Tu lista"
+
+#: pntemplates/myprofile_user_confirmedusers.htm:24
+msgid "delete User"
+msgstr "Eliminar Usuario"
+
+#: pntemplates/myprofile_user_confirmedusers.htm:27
+msgid "No entry was made yet"
+msgstr "Ninguna petición fue realizada aún"
+
+#: pntemplates/myprofile_user_search.htm:8
+msgid "Found"
+msgstr "Encontrado"
+
+#: pntemplates/myprofile_user_search.htm:8
+#: pntemplates/myprofile_user_search.htm:20
+msgid "results"
+msgstr "resultados"
+
+#: pntemplates/myprofile_user_search.htm:10
+msgid "Show search form to change search parameters"
+msgstr ""
+"Mostrar el formulario de búsqueda para cambiar los parámetros de búsqueda"
+
+#: pntemplates/myprofile_user_search.htm:12
+msgid "Show all members"
+msgstr "Mostrar todos los miembros"
+
+#: pntemplates/myprofile_user_search.htm:20
+msgid "Page"
+msgstr "Página"
+
+#: pntemplates/myprofile_user_search.htm:20
+msgid "result"
+msgstr "resultado"
+
+#: pntemplates/myprofile_user_search.htm:26
+msgid "previous page"
+msgstr "Página anterior"
+
+#: pntemplates/myprofile_user_search.htm:29
+msgid "next page"
+msgstr "Página posterior"
+
+#: pntemplates/myprofile_user_search.htm:35
+#: pntemplates/myprofile_user_search.htm:119
+msgid "Search"
+msgstr "Búsqueda"
+
+#: pntemplates/myprofile_user_search.htm:37
+msgid ""
+"You can now use the following form to search for other users. The more "
+"fields you fill out the less results you will get."
+msgstr ""
+"Ahora puedes usar el siguiente formulario para encontrar otros usuarios. "
+"Cuantos más campos rellenes, menos resultados obtendrás."
+
+#: pntemplates/myprofile_user_search.htm:43
+msgid "Search string in all fields"
+msgstr "Buscar cadenas en todos los campos"
+
+#: pntemplates/myprofile_user_search.htm:65
+msgid "Choosing more than one item will link them using OR"
+msgstr "Al eligir más de un elemento, se enlazarán usando OR"
+
+#: pntemplates/myprofile_user_search.htm:80
+msgid ""
+"There are no more searchable fields or you do not have the permission to "
+"view these fields"
+msgstr ""
+"No hay más campos rastreables o no tienes los permisos para ver estos campos"
+
+#: pntemplates/myprofile_user_search.htm:86
+msgid "Search type"
+msgstr "Tipo de búsqueda"
+
+#: pntemplates/myprofile_user_search.htm:94
+msgid "Connector for search logic"
+msgstr "Conector para la lógica de la búsqueda"
+
+#: pntemplates/myprofile_user_search.htm:102
+msgid "Sort result by"
+msgstr "Ordenar resultados por"
+
+#: pntemplates/myprofile_user_search.htm:110
+msgid ""
+"Using the search type soft and searching for sun you will also get results "
+"like sunset because the searched word is in it. If you do not want to use "
+"this select exact as search type!"
+msgstr ""
+"Al usar el soft de tipo de búsqueda y buscando \"rayos\", por ejemplo, "
+"obtendrás tambíén resultados como \"pararrayos\" porque la palabra buscada "
+"estaría dentro ¡Si no quieres estos resultados, selecciona el tipo "
+"\"búsqueda exacta\"!"
+
+#: pntemplates/myprofile_user_search.htm:114
+msgid ""
+"If you just click the search button without any search parameters you will "
+"get the whole member list displayed"
+msgstr ""
+"Sólo con pulsar el botón de búsqueda sin establecer ningún parámetro, "
+"obtendrás la lista entera de usuarios"
+
+#: pntemplates/myprofile_admin_fields.htm:5
+msgid "Your profile's configuration"
+msgstr "Configuración de tu perfil"
+
+#: pntemplates/myprofile_admin_fields.htm:10
+msgid "Manage the existing fields"
+msgstr "Gestionar los campos existentes"
+
+#: pntemplates/myprofile_admin_fields.htm:10
+msgid ""
+"If you want to change the order just click on the box and move the item to "
+"the position you want it to be. Settings will be stored automatically!"
+msgstr ""
+"Si quieres cambiar el orden, solamente tienes que pulsar en el cuadro y "
+"mover el elemento a la posición deseada ¡Los ajustes se guardarán "
+"automáticamente!"
+
+#: pntemplates/myprofile_admin_fields.htm:13
+msgid "mandatory field"
+msgstr "campo obligatorio"
+
+#: pntemplates/myprofile_admin_fields.htm:14
+msgid "optional field"
+msgstr "campo opcional"
+
+#: pntemplates/myprofile_admin_fields.htm:21
+msgid "viewable by registered users only"
+msgstr "visible sólo por usuarios registrados"
+
+#: pntemplates/myprofile_admin_fields.htm:22
+#: pntemplates/myprofile_user_main.htm:70
+msgid "viewable by admin users only"
+msgstr "visible sólo por administradores"
+
+#: pntemplates/myprofile_admin_fields.htm:28
+msgid "characters"
+msgstr "caracteres"
+
+#: pntemplates/myprofile_admin_fields.htm:28
+msgid "0 = unlimited text"
+msgstr "0 = texto ilimitado"
+
+#: pntemplates/myprofile_admin_fields.htm:35
+msgid "Activated"
+msgstr "Activado"
+
+#: pntemplates/myprofile_admin_fields.htm:35
+msgid "shown"
+msgstr "mostrado/s"
+
+#: pntemplates/myprofile_admin_fields.htm:36
+msgid "Also store value as following user attribute"
+msgstr "Guardar este valor también como atributo de usuario"
+
+#: pntemplates/myprofile_admin_fields.htm:48
+msgid "modify this field"
+msgstr "modificar este campo"
+
+#: pntemplates/myprofile_admin_fields.htm:55
+msgid "Move up"
+msgstr "Mover arriba"
+
+#: pntemplates/myprofile_admin_fields.htm:61
+msgid "Move down"
+msgstr "Mover abajo"
+
+#: pntemplates/myprofile_block_online.htm:4
+msgid "There are"
+msgstr "Hay"
+
+#: pntemplates/myprofile_block_online.htm:4
+msgid "members online"
+msgstr "miembros conectados"
+
+#: pntemplates/myprofile_block_online.htm:27
+msgid "Guests online"
+msgstr "Invitados conectados"
+
+#: pntemplates/myprofile_admin_plugins.htm:2
+#: pntemplates/myprofile_admin_configfailure.htm:2
+#: pntemplates/myprofile_admin_menu.htm:3
+msgid "MyProfile backend configuration"
+msgstr "Configuración de cierre de MyProfile"
+
+#: pntemplates/myprofile_admin_plugins.htm:3
+msgid ""
+"Some modules have plugins for the profile module. For developers: Please "
+"take a look at the plugins.txt file in the documentation directory. Found "
+"plugins will be used automatically."
+msgstr ""
+"Algunos módulos tienen plugins para este módulo de Perfil. Para "
+"desarrolladores: Por favor, echad un vistazo al archivo plugins.txt, en el "
+"directorio de documentación. Los plugins encontrados serán utilizados "
+"automáticamente."
+
+#: pntemplates/myprofile_admin_plugins.htm:10
+msgid ""
+"If you want to remove a plugin from a user's profile page jsut delete the "
+"pnmyprofileapi.php in the root folder of the modules you want to remove"
+msgstr ""
+"Si quieres retirar un plugin de la página de perfil de algún usuario, sólo "
+"tienes que eliminarlo del pnmyprofileapi.php de la carpeta raíz de los "
+"módulos que quieras eliminar."
+
+#: pntemplates/myprofile_admin_plugins.htm:12
+msgid "No plugins found!"
+msgstr "¡No se hallaron plugins!"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:6
+msgid "General module settings"
+msgstr "Ajustes generales del módulo"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:9
+msgid "Appearance"
+msgstr "Apariencia"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:10
+msgid "Profile display configuration"
+msgstr "Configuración de la presentación del Perfil"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:11
+msgid "Date format to be used"
+msgstr "Formato de fecha a utilizar"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:13
+msgid "No-tab mode for user's profile management page"
+msgstr ""
+"Ningún modo de pestañas para la página de gestión del perfil de usuario"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:14
+msgid "Do not use AJAX for plugin loading"
+msgstr "No utilizar AJAX para cargar el plugin"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:15
+msgid "Convert content loaded via AJAX to UTF8"
+msgstr "Convertir los contenidos cargados vía AJAX hacia UTF8"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:16
+msgid ""
+"Use profile separators as tabs. Might be interesting for huge profile pages"
+msgstr ""
+"Utilice separadores de perfil en forma de fichas. Puede ser útil en páginas "
+"de perfil grandes"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:18
+msgid "Search engine configuration"
+msgstr "Configuración del motor de búsqueda"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:19
+msgid "Results that should be shown per page"
+msgstr "Resultados que deben ser mostrados por página"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:20
+msgid ""
+"Allow users to access the whole member list in entering no search string"
+msgstr ""
+"Permitir a los usuarios acceder a la lista entera de miembros al introducir "
+"ninguna cadena de búsqueda"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:21
+msgid ""
+"You can specify a tempalte that should be included in the vcards that are "
+"displayed in a search result page that will have all user data assigned; "
+"Enter filename to use this feature"
+msgstr ""
+"Puedes especificar una plantilla para ser incluida en las vcards que se "
+"muestren en una página de resultados de búsqueda que tendrán asignados todos "
+"los datos de usuario; Introduzca el nombre del archivo para utilizar esta "
+"característica."
+
+#: pntemplates/myprofile_admin_mainsettings.htm:23
+msgid "URL for search engine"
+msgstr "URL para el motor de búsqueda"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:25
+msgid "Show users in map"
+msgstr "Mostrar usuarios en el mapa"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:26
+msgid ""
+"You can show all users that have filled out a field (fieldtype: COORD) using "
+"the following url"
+msgstr ""
+"Puedes mostrar todos los usuarios que hallan rellenado un campo (tipo de "
+"campo: COORD) utilizando la siguiente url"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:28
+msgid "MyMap module has to be installed for this feature"
+msgstr ""
+"El módulo de MyMap tiene que ser instalado para utilizar esta característica."
+
+#: pntemplates/myprofile_admin_mainsettings.htm:30
+msgid "Email address management"
+msgstr "Gestíón de direcciones de Email"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:31
+msgid "Do not force verification within email change requests"
+msgstr "No forzar la verificación en las peticiones de cambio de email"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:32
+msgid "Forbid new change request within"
+msgstr "Prohibir peticiones de nuevos cambios internos"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:32
+msgid "days after last request"
+msgstr "días tras la última petición"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:33
+msgid "Validation code's expiration of validity"
+msgstr "Expiración del código de validación"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:34
+#: pntemplates/myprofile_admin_information.htm:23
+#: pntemplates/myprofile_admin_information.htm:24
+#: pntemplates/myprofile_admin_information.htm:25
+#: pntemplates/myprofile_admin_information.htm:26
+#: pntemplates/myprofile_admin_information.htm:27
+#: pntemplates/myprofile_admin_information.htm:28
+#: pntemplates/myprofile_admin_information.htm:29
+#: pntemplates/myprofile_admin_information.htm:30
+msgid "days"
+msgstr "días"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:36
+msgid ""
+"It is possible to exclude users that use invalid email addresses from site "
+"usage. To use this feature you have to include the following function call "
+"into your templates"
+msgstr ""
+"Es posible excluir usuarios que utilicen direcciones de email inválidas. "
+"Para utilizar esta característica tendrás que incluir la siguiente orden de "
+"función en tus plantillas"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:37
+#: pntemplates/myprofile_admin_invalidemail.htm:3
+msgid "Manage invalid email addresses"
+msgstr "Gestionar direcciones de email inválidas"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:40
+msgid "Behaviour"
+msgstr "Comportamiento"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:41
+msgid "Send email notification to site admin when new registration is finished"
+msgstr ""
+"Enviar un email de notificación al administrador del sitio cuando se realiza "
+"un nuevo registro"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:42
+msgid "Also store profile as a user object attribute"
+msgstr "Almacenar también el perfil como atributo de objeto de usuario"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:46
+msgid "Valid profile mandatory for every user"
+msgstr "Será obligatorio tener Perfiles válidos para cada usuario"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:48
+msgid "User profile's expiration of validity"
+msgstr "Expiración de la validez del perfil del usuario"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:48
+msgid "in seconds, 0 = no expiration"
+msgstr "en segundos, 0 = sin expiración"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:49
+msgid ""
+"If you only want to force every user to complete the profile insert the code "
+"and set the expiration period to 0"
+msgstr ""
+"Si quieres forzar a cada usuario a completar sus perfiles, inserta el código "
+"y ajusta el periodo de expiración a 0"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:50
+msgid "User's permissions"
+msgstr "Permisos del usuario"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:51
+msgid ""
+"Allow users to set individual permissions who can see their profile page"
+msgstr ""
+"Permitir a los usuarios configurar permisos individuales para quienes "
+"quieran que puedan ver su página de perfil"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:52
+msgid ""
+"Users should be allowed to upload theis own templates for their profile."
+msgstr ""
+"Los usuarios deben estar autorizados a subir sus propias plantillas para su "
+"perfil."
+
+#: pntemplates/myprofile_admin_mainsettings.htm:53
+msgid ""
+"Exclude selected groups from the permission to upload and use own individual "
+"profile templates"
+msgstr ""
+"Excluir a los grupos seleccionados del permiso de subida y uso de plantillas "
+"de perfil individuales propias"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:58
+msgid "Update configuration"
+msgstr "Actualizar configuración"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:64
+msgid "Integrate user profiles into any zikula content"
+msgstr "Integrar los perfiles de usuario en algún contenido de zikula"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:65
+msgid ""
+"There is a plugin that can be called in any module with this piece of code"
+msgstr ""
+"Hay un plugin que puede ser llamado por algún módulo con este trozo de código"
+
+#: pntemplates/myprofile_admin_mainsettings.htm:67
+msgid ""
+"But you have to configure this plugin via its template manually - the "
+"template file that has to be edited is"
+msgstr ""
+"Pero tienes que configurar este plugin a través de su plantilla manualmente "
+"- el archivo de la plantilla que debe ser editado es"
+
+#: pntemplates/myprofile_user_header.htm:4
+msgid "User's menu"
+msgstr "Menú del Usuario"
+
+#: pntemplates/myprofile_user_header.htm:5
+msgid "my profile data"
+msgstr "datos de mi perfil"
+
+#: pntemplates/myprofile_user_header.htm:6
+msgid "email address, password and extended settings"
+msgstr "dirección de email, contraseña y ajustes extendidos"
+
+#: pntemplates/myprofile_user_header.htm:7
+msgid "search members"
+msgstr "Buscar miembros"
+
+#: pntemplates/myprofile_user_settings.htm:4
+#: pntemplates/myprofile_user_main.htm:6
+msgid "My profile"
+msgstr "Mi perfil"
+
+#: pntemplates/myprofile_user_settings.htm:5
+msgid "Here you can define some custom settings for your profile"
+msgstr "Aquí puedes definir algunos ajustes personalizados para tu perfil"
+
+#: pntemplates/myprofile_user_settings.htm:10
+msgid "General settings"
+msgstr "Ajustes generales"
+
+#: pntemplates/myprofile_user_settings.htm:12
+msgid "My timezone"
+msgstr "Mi zona horaria"
+
+#: pntemplates/myprofile_user_settings.htm:16
+msgid "Do not allow other users to comment my profile"
+msgstr "No permitir a otros usuarios comentar mi perfil"
+
+#: pntemplates/myprofile_user_settings.htm:20
+msgid "My profile page should be accessable by"
+msgstr "Mi página de perfil debería ser accesible para"
+
+#: pntemplates/myprofile_user_settings.htm:25
+msgid "Profile data fields that are marked as private should be viewable by"
+msgstr ""
+"Los campos de los datos del Perfil marcados como privados deberían ser "
+"visibles para"
+
+#: pntemplates/myprofile_user_settings.htm:27
+msgid ""
+"Manage users that are allowed to view all my data that is declared as private"
+msgstr ""
+"Gestionar usuarios a los que se les debe permitir ver todos mis datos "
+"declarados como privados"
+
+#: pntemplates/myprofile_user_settings.htm:33
+#: pntemplates/myprofile_user_settings.htm:37
+msgid "Use an individual template"
+msgstr "Utilizar una plantilla individual"
+
+#: pntemplates/myprofile_user_settings.htm:40
+msgid "Some hints to create your own template"
+msgstr "Algunos consejos para crear tu propia plantilla"
+
+#: pntemplates/myprofile_user_settings.htm:44
+msgid "The individual profile tempalte can be designed in HTML"
+msgstr "La plantilla individual del perfil debe ser diseñada en HTML"
+
+#: pntemplates/myprofile_user_settings.htm:45
+msgid ""
+"The use of the following words (bold printed) will cause a replacement with "
+"your profile data - with * marked variables are mandatory and have to be "
+"used in your template"
+msgstr ""
+"El uso de las siguientes palabras (en negrita) causarán una sobrescritura en "
+"tus datos de perfil - las variables marcadas con * serán obligatorias y "
+"tendrán que ser utilizadas en tu plantilla"
+
+#: pntemplates/myprofile_user_settings.htm:48
+msgid "will be replaced with"
+msgstr "será reemplazado por"
+
+#: pntemplates/myprofile_user_settings.htm:65
+msgid "Manage your password"
+msgstr "Gestionar tu contraseña"
+
+#: pntemplates/myprofile_user_settings.htm:66
+msgid "If you want to change your password enter the new one"
+msgstr "Si quieres cambiar tu contraseña, introduzca una nueva"
+
+#: pntemplates/myprofile_user_settings.htm:68
+msgid "and repeat the new password please"
+msgstr "y repite la nueva contraseña, por favor"
+
+#: pntemplates/myprofile_user_settings.htm:73
+msgid "Change email address"
+msgstr "Cambia tu dirección de email"
+
+#: pntemplates/myprofile_user_settings.htm:74
+msgid "New email address"
+msgstr "Nueva dirección de email"
+
+#: pntemplates/myprofile_user_settings.htm:77
+msgid "Enter verification code for new email address"
+msgstr "Introduzca el código de verificación para la nueva dirección de email"
+
+#: pntemplates/myprofile_user_settings.htm:79
+#: pntemplates/myprofile_user_main.htm:113
+msgid "save / update"
+msgstr "guardar / actualizar"
+
+#: pntemplates/myprofile_admin_invalidemail.htm:10
+msgid "User's email address"
+msgstr "Dirección de email del usuario"
+
+#: pntemplates/myprofile_admin_configfailure.htm:3
+msgid "An error occured. Please regard the error message!"
+msgstr "Ocurrió algún error ¡Por favor, presta atención al mensaje de error!"
+
+#: pntemplates/myprofile_admin_configfailure.htm:6
+msgid "A directory inside the MyProfile module named "
+msgstr "Un directorio dentro del módulo de MyProfile denominado "
+
+#: pntemplates/myprofile_admin_configfailure.htm:7
+msgid "This directory has to be writable by the webserver"
+msgstr ""
+"Este directorio tiene que tener permisos de escritura en el servidor web"
+
+#: pntemplates/myprofile_admin_configfailure.htm:8
+msgid ""
+"In this directory a file called tabledef.inc will be created by the module"
+msgstr "El módulo creará un archivo llamado tabledef.inc en este directorio"
+
+#: pntemplates/myprofile_admin_configfailure.htm:9
+msgid "This file has to be readable by the webserver"
+msgstr "Este archivo tiene que tener permisos de lectura en el servidor web"
+
+#: pntemplates/myprofile_admin_configfailure.htm:10
+msgid "This file has to be writable by the webserver"
+msgstr "Este archivo tiene que tener permisos de escritura en el servidor web"
+
+#: pntemplates/myprofile_admin_configfailure.htm:13
+msgid "Try again and proceed"
+msgstr "Inténtalo otra vez y procede"
+
+#: pntemplates/myprofile_mailz_latest.htm:11
+msgid "User Name"
+msgstr "Nombre de Usuario"
+
+#: pntemplates/myprofile_admin_menu.htm:8
+msgid "main / modify user"
+msgstr "principal / modificar usuario"
+
+#: pntemplates/myprofile_admin_menu.htm:9
+msgid "module configuration"
+msgstr "configuración del módulo"
+
+#: pntemplates/myprofile_admin_menu.htm:10
+msgid "profile configuration"
+msgstr "configuración del perfil"
+
+#: pntemplates/myprofile_admin_menu.htm:11
+msgid "profile plugins"
+msgstr "plugins del perfil"
+
+#: pntemplates/myprofile_admin_menu.htm:12
+#: pntemplates/myprofile_admin_information.htm:3
+msgid "information"
+msgstr "información"
+
+#: pntemplates/myprofile_admin_menu.htm:14
+msgid "import"
+msgstr "importar"
+
+#: pntemplates/myprofile_user_main.htm:7
+msgid "Show my own profile page"
+msgstr "Mostrar mi propia página de perfil"
+
+#: pntemplates/myprofile_user_main.htm:15
+msgid "Show all tabs on one page"
+msgstr "Mostrar todas las entradas en una sola página"
+
+#: pntemplates/myprofile_user_main.htm:16
+msgid "Switch to the tab-mode"
+msgstr "Cambiar a modo de pestañas"
+
+#: pntemplates/myprofile_user_main.htm:34
+msgid "Manage your community profile"
+msgstr "Gestionar el perfil de tu comunidad"
+
+#: pntemplates/myprofile_user_main.htm:35
+msgid ""
+"Please fill the form with your input. Every field that is marked with this "
+"sign: * is mandatory."
+msgstr ""
+"Por favor, rellena el formulario con tus datos. Cada campo marcado con * es "
+"obligatorio"
+
+#: pntemplates/myprofile_user_main.htm:40
+msgid ""
+"Please click on the tabs above this text to get to the separated sections to "
+"manage your profile data. Please click the save-Button only if the profile "
+"is completely filled out!"
+msgstr ""
+"Por favor, pulsa en las pestañas de arriba de este texto para acceder a las "
+"distintas secciones de tus datos de perfil a gestionar. ¡Por favor, pulsa en "
+"el botón de Guardar sólo cuando el perfil esté completamente relleno!"
+
+#: pntemplates/myprofile_user_main.htm:71
+msgid "Private field, only viewable by users you allow to access this data"
+msgstr ""
+"Campo privado, sólo visible para usuarios a los que permitas acceder a estos "
+"datos."
+
+#: pntemplates/myprofile_user_main.htm:100
+msgid "Longitude"
+msgstr "Longitud"
+
+#: pntemplates/myprofile_user_main.htm:101
+msgid "Latitude"
+msgstr "Latitud"
+
+#: pntemplates/myprofile_user_validatemail.htm:4
+msgid "Enter verification code to activate new email address"
+msgstr ""
+"Introduzca el código de verificación para activar la nueva dirección de email"
+
+#: pntemplates/myprofile_user_validatemail.htm:9
+#: pntemplates/myprofile_email_validationcode.htm:11
+msgid "Verification code (25 characters)"
+msgstr "Código de verificación (25 caracteres)"
+
+#: pntemplates/myprofile_user_validatemail.htm:11
+#: pntemplates/myprofile_email_validationcode.htm:10
+msgid "Your user ID"
+msgstr "Tu ID de usuario"
+
+#: pntemplates/myprofile_user_validatemail.htm:15
+msgid "Activate new email address"
+msgstr "Activar la nueva dirección de email"
+
+#: pntemplates/myprofile_myprofile_tab_noaccess.htm:3
+msgid "Sorry, no authorisation"
+msgstr "Lo siento, no tienes autorización"
+
+#: pntemplates/myprofile_myprofile_tab_noaccess.htm:5
+msgid "The main profile part is not accessible by you"
+msgstr "La parte principal del perfil no es accesible para ti"
+
+#: pntemplates/myprofile_admin_information.htm:6
+msgid "Registered users"
+msgstr "Usuarios registrados"
+
+#: pntemplates/myprofile_admin_information.htm:7
+msgid "Active users"
+msgstr "Usuarios Activos"
+
+#: pntemplates/myprofile_admin_information.htm:8
+msgid "Active in last two weeks"
+msgstr "Actividad en las dos últimas semanas"
+
+#: pntemplates/myprofile_admin_information.htm:9
+msgid "Active in last month"
+msgstr "Actividad en el último mes"
+
+#: pntemplates/myprofile_admin_information.htm:10
+msgid "Active in last two months"
+msgstr "Actividad en los últimos dos meses"
+
+#: pntemplates/myprofile_admin_information.htm:11
+msgid "Active in last three months"
+msgstr "Actividad en los últimos tres meses"
+
+#: pntemplates/myprofile_admin_information.htm:12
+msgid "Active in last six months"
+msgstr "Actividad en los últimos seis meses"
+
+#: pntemplates/myprofile_admin_information.htm:13
+msgid "Active in last year"
+msgstr "Actividad en el último año"
+
+#: pntemplates/myprofile_admin_information.htm:14
+msgid "New registrations in last month"
+msgstr "Nuevos registros en el último mes"
+
+#: pntemplates/myprofile_admin_information.htm:15
+msgid "Users with a myprofile profile"
+msgstr "Usuarios con un perfil myprofile"
+
+#: pntemplates/myprofile_admin_information.htm:16
+msgid "Users without a myprofile profile"
+msgstr "Usuarios sin un perfil myprofile"
+
+#: pntemplates/myprofile_admin_information.htm:17
+msgid "Users with invalid email address"
+msgstr "Usuarios con una dirección de email inválida"
+
+#: pntemplates/myprofile_admin_information.htm:18
+msgid "Users with invalid email address and no changes in last month"
+msgstr ""
+"Usuarios con una dirección de email inválida y sin ningún cambio en el "
+"último mes"
+
+#: pntemplates/myprofile_admin_information.htm:22
+msgid "Range for graphical statistics"
+msgstr "Intervalo para las estadísticas gráficas"
+
+#: pntemplates/myprofile_admin_information.htm:32
+msgid "User-defined: Please specify range in days as url parameter named "
+msgstr ""
+"Definido por el usuario: Por favor, especifica un rango de días como "
+"parámetro url denominado "
+
+#: pntemplates/myprofile_admin_information.htm:209
+msgid "Explanation"
+msgstr "Explicación"
+
+#: pntemplates/myprofile_admin_information.htm:210
+msgid "active accounts"
+msgstr "cuentas activas"
+
+#: pntemplates/myprofile_admin_information.htm:211
+msgid "online"
+msgstr "conectados"
+
+#: pntemplates/myprofile_admin_information.htm:212
+msgid "online last 2 weeks"
+msgstr "conectados en las dos últimas semanas"
+
+#: pntemplates/myprofile_admin_information.htm:213
+msgid "online last month"
+msgstr "conectados en el último mes"
+
+#: pntemplates/myprofile_admin_information.htm:214
+msgid "online last 2 months"
+msgstr "conectados en los dos últimos meses"
+
+#: pntemplates/myprofile_admin_information.htm:215
+msgid "online last three months"
+msgstr "conectados en los tres últimos meses"
+
+#: pntemplates/myprofile_admin_information.htm:216
+msgid "online last 6 months"
+msgstr "conectados en los seis últimos meses"
+
+#: pntemplates/myprofile_admin_information.htm:217
+msgid "online last year"
+msgstr "conectados en el último año"
+
+#: pntemplates/myprofile_block_birthday_modify.htm:3
+msgid ""
+"Field in the database in which the value for the user's birthday is stored "
+"in the format YYY-MM-DD (format: DATE)"
+msgstr ""
+"Campo de la base de datos en el que el valor del cumpleaños del usuario está "
+"almacenado en formato AAA-MM-DD (formato: FECHA)"
+
+#: pntemplates/myprofile_block_birthday_modify.htm:7
+msgid "-- nothing is chosen --"
+msgstr "-- no se eligió nada --"
+
+#: pntemplates/myprofile_block_birthday_modify.htm:16
+msgid ""
+"Field for restrictions, for example if a field is existing in which the user "
+"can manage if his birthday should be hidden and not shown in the list"
+msgstr ""
+"Campo para restricciones, por ejemplo: si un campo existente en el que el "
+"usuario pueda establecer si su cumpleaños deba estar oculto y por tanto no "
+"mostrarse en la lista"
+
+#: pntemplates/myprofile_block_birthday_modify.htm:20
+msgid "-- nothing is chosen. Empty if no restriction field should be used --"
+msgstr ""
+"-- no se escogió nada. Dejarlo vacío será como si ningún campo debiera ser "
+"utilizado --"
+
+#: pntemplates/myprofile_block_birthday_modify.htm:29
+msgid ""
+"Enter the value the restriction field should have if you want to show the "
+"birthday in the list"
+msgstr ""
+"Introduzca el valor que el campo de restricción debe tener si deseas que el "
+"cumpleaños aparezca en la lista"
+
+# imagino que con "at" se refiere a una hora, por lo de la expiración o algo
+#: pntemplates/myprofile_email_validationcode.htm:1
+msgid "You requested to change your email address at"
+msgstr "Ha solicitado cambiar su dirección de correo electrónico a"
+
+#: pntemplates/myprofile_email_validationcode.htm:3
+msgid "To activate your new email address click the following link please"
+msgstr ""
+"Para activar tu nueva dirección de email, pulsa en el siguiente en el "
+"siguiente enlace, por favor"
+
+#: pntemplates/myprofile_email_validationcode.htm:6
+msgid ""
+"If this link is broken use the following website and enter your verification "
+"code there"
+msgstr ""
+"Si este link estuviese roto, usa el siguiente sitio web e introduce tu "
+"código de verificación allí"
+
+#: pntemplates/myprofile_email_validationcode.htm:9
+msgid "To use the alternate URL you have to enter the following data"
+msgstr ""
+"Para usar la URL alternativa, tienes que introducir los siguientes datos"
+
+#: pntemplates/myprofile_email_validationcode.htm:13
+msgid "This code is valid until"
+msgstr "Este código será válido hasta"
+
+#: pntemplates/myprofile_email_validationcode.htm:13
+msgid "or up to a new request by yourself"
+msgstr "o hasta que realice una nueva solicitud"
+
+#: pntemplates/myprofile_email_validationcode.htm:15
+msgid ""
+"Please do not respond to this automatically created email - contact the "
+"website administrator if there are any problems"
+msgstr ""
+"Por favor, no respondas a este email creado automáticamente - ponte en "
+"contacto con el administrador del sitio web si hay algún problema"
+
+#: pntemplates/myprofile_plugin_myprofile.htm:17
+msgid "more/less"
+msgstr "más/menos"

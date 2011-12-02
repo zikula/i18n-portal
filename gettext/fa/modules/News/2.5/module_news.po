@@ -1,0 +1,1953 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-19 12:26+0000\n"
+"PO-Revision-Date: 2010-09-22 22:19+0200\n"
+"Last-Translator:  <tux.eng@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnadmin.php:85 pnadmin.php:243 pnadmin.php:354 pnajax.php:33 pnajax.php:124
+#: pnajax.php:164 pnajax.php:293 pnajax.php:346 pnuser.php:555 pnuser.php:901
+#: pnadminapi.php:35 pnadminapi.php:98
+msgid "Error! No such article found."
+msgstr "خطا! چنین مقاله ای پیدا نشد."
+
+#: pnadmin.php:148 pnadmin.php:444 pnadmin.php:694 pnadmin.php:769
+#: pnajax.php:69 pnuserapi.php:297 pnblocks/stories.php:93
+#: pnblocks/stories.php:167 pnblocks/storiesext.php:224
+#: pnblocks/storiesext.php:524 pncontenttypesapi/newsarticles.php:353
+#: pnuser.php:102 pnuser.php:337 pnuser.php:618 pnuser.php:799
+#, php-format
+msgid "Error! Could not load [%s] class."
+msgstr "خطا! نمی توانم کلاس [%s] را بارگزاری کنم."
+
+#: pnadmin.php:255 pnuser.php:221
+msgid "title"
+msgstr "عنوان"
+
+#: pnadmin.php:255 pnuser.php:221
+#, php-format
+msgid "Error! You did not enter a %s."
+msgstr "Error! You did not enter a %s."
+
+#: pnadmin.php:259 pnuser.php:225
+msgid "article content"
+msgstr "محتوای مقاله"
+
+#: pnadmin.php:259 pnuser.php:225
+#, php-format
+msgid "Error! You did not enter the minimum necessary %s."
+msgstr "خطا! شما حداقل مورد نیاز %s را وارد نکرده اید."
+
+#: pnadmin.php:319 pnajax.php:238
+msgid "Done! Saved your changes."
+msgstr "انجام شد! تغییرات شما ذخیره شد."
+
+#: pnadmin.php:386 pnajax.php:248
+msgid "Done! Deleted article."
+msgstr "انجام شد! مقاله حذف شد."
+
+#: pnadmin.php:420
+msgid "Done! Purged permalinks."
+msgstr "Done! Purged permalinks."
+
+#: pnadmin.php:422
+msgid "Error! Could not purge permalinks."
+msgstr "Error! Could not purge permalinks."
+
+#: pnadmin.php:498 pnadmin.php:664 pntemplates/news_admin_view.htm:24
+#: pntemplates/news_block_storiesext_modify.htm:22
+msgid "All"
+msgstr "همه"
+
+#: pnadmin.php:499 pnadmin.php:612
+#: pntemplates/plugins/modifier.news_getstatustext.php:32
+#: pncontenttypesapi/newsarticles.php:368
+#: pntemplates/news_block_storiesext_modify.htm:36
+msgid "Published"
+msgstr "منتشر شده"
+
+#: pnadmin.php:500 pnadmin.php:658
+#: pntemplates/plugins/modifier.news_getstatustext.php:36
+#: pncontenttypesapi/newsarticles.php:369
+msgid "Rejected"
+msgstr "مردود"
+
+#: pnadmin.php:501 pnadmin.php:631
+#: pntemplates/plugins/modifier.news_getstatustext.php:40
+#: pncontenttypesapi/newsarticles.php:370 pntemplates/news_admin_view.htm:97
+msgid "Pending Review"
+msgstr "در انتظار نظرات"
+
+#: pnadmin.php:502 pnadmin.php:649
+#: pntemplates/plugins/modifier.news_getstatustext.php:44
+#: pncontenttypesapi/newsarticles.php:371
+#: pntemplates/news_block_storiesext_modify.htm:37
+msgid "Archived"
+msgstr "بایگانی شده"
+
+#: pnadmin.php:503 pnadmin.php:640
+#: pntemplates/plugins/modifier.news_getstatustext.php:48
+#: pntemplates/news_admin_view.htm:98
+#: pntemplates/news_block_storiesext_modify.htm:38
+msgid "Draft"
+msgstr "پیش نویس"
+
+#: pnadmin.php:504 pnadmin.php:622
+msgid "Scheduled"
+msgstr "برنامه ریزی شده"
+
+#: pnadmin.php:527
+msgid "View"
+msgstr "مشاهده"
+
+#: pnadmin.php:534
+msgid "Review"
+msgstr "بررسی"
+
+#: pnadmin.php:538 pntemplates/plugins/function.articleadminlinks.php:76
+#: pntemplates/plugins/function.articleadminlinks.php:78
+#: pntemplates/news_user_categorylist.htm:47
+#: pntemplates/news_user_categorylist.htm:90 pntemplates/news_admin_new.htm:76
+msgid "Edit"
+msgstr "ویرایش"
+
+#: pnadmin.php:547 pntemplates/plugins/function.articleadminlinks.php:81
+#: pntemplates/news_admin_new.htm:242 pntemplates/news_admin_new.htm:262
+#: pntemplates/news_user_new.htm:229 pntemplates/news_user_new.htm:249
+#: pntemplates/news_admin_modify.htm:225 pntemplates/news_admin_modify.htm:245
+#: pntemplates/news_admin_modify.htm:300 pntemplates/news_ajax_modify.htm:183
+#: pntemplates/news_ajax_modify.htm:203 pntemplates/news_ajax_modify.htm:218
+#: pntemplates/news_admin_delete.htm:17
+msgid "Delete"
+msgstr "حذف کردن"
+
+#: pnadmin.php:555
+msgid "Unknown"
+msgstr "ناشناس"
+
+#: pnadmin.php:559 pntemplates/news_block_storiesext_modify.htm:122
+#: pntemplates/news_block_storiesext_modify.htm:145
+#: pntemplates/news_admin_modifyconfig.htm:61
+msgid "Yes"
+msgstr "بله"
+
+#: pnadmin.php:561 pntemplates/news_block_storiesext_modify.htm:123
+#: pntemplates/news_block_storiesext_modify.htm:146
+#: pntemplates/news_admin_modifyconfig.htm:62
+msgid "No"
+msgstr "خیر"
+
+#: pnadmin.php:583 pntemplates/news_admin_modifyconfig.htm:46
+msgid "Article date/time"
+msgstr "زمان/تاریخ مقاله"
+
+#: pnadmin.php:584 pntemplates/news_admin_new.htm:199
+#: pntemplates/news_admin_modifyconfig.htm:45
+#: pntemplates/news_admin_modifyconfig.htm:172
+msgid "Article ID"
+msgstr "شناسه مقاله"
+
+#: pnadmin.php:585 pncontenttypesapi/newsarticles.php:378
+#: pntemplates/news_block_storiesext_modify.htm:46
+#: pntemplates/news_admin_new.htm:170 pntemplates/news_user_new.htm:162
+#: pntemplates/news_admin_modify.htm:157 pntemplates/news_ajax_modify.htm:115
+#: pntemplates/news_admin_modifyconfig.htm:47
+msgid "Article weight"
+msgstr "وزن مقاله"
+
+#: pnadmin.php:788
+msgid "Done! Saved module settings."
+msgstr "انجام شد! تنظیمات ماژول ذخیره شد."
+
+#: pnajax.php:39 pnajax.php:226 pnajax.php:298
+msgid "Sorry! You do not have authorisation for this page."
+msgstr "متاسفانه شما مجوز دسترسی به این صفحه را ندارید."
+
+#: pnajax.php:128
+msgid ""
+"Sorry! Invalid authorisation key ('authkey'). This is probably either "
+"because you pressed the 'Back' button to return to a page which does not "
+"allow that, or else because the page's authorisation key expired due to "
+"prolonged inactivity. Please refresh the page and try again."
+msgstr ""
+"متاسفانه کلید مجوز نامعتبر ('authkey'). ممکن است این خطا بخاطر کلیک بر روی "
+"دکمه بازگشت و رفتن به صفحه ای که مجوز آنرا ندارید رخ داده باشد، یا اینکه "
+"کلید مجوز شما بعلت عدم فعالیت در مدت قابل توجهی منقضی شده است. لطفا صفحه را "
+"مجددا بارگزاری کرده و دوباره سعی کنید."
+
+#: pnajax.php:218 pnajax.php:233 pnajax.php:320 pnajax.php:361
+#: pnuserapi.php:929 pnadminapi.php:158
+msgid "Error! Could not save your changes."
+msgstr "خطا! نمی توانم تغییرات شما را ذخیره کنم."
+
+#: pnajax.php:250 pnadminapi.php:45
+msgid "Error! Could not delete article."
+msgstr "خطا! نمی توانم مقاله را حذف کنم."
+
+#: pnajax.php:322
+#, php-format
+msgid "Draft updated at %s"
+msgstr "پیش نویس بروز شده در %s"
+
+#: pnajax.php:349
+#, php-format
+msgid "Draft saved at %s"
+msgstr "پیش نویس ذخیره شده در %s"
+
+#: pnmailzapi.php:29
+msgid "News publisher articles list"
+msgstr "لیست اخبار"
+
+#: pnmailzapi.php:30
+msgid ""
+"Show a list of News publisher articles published since the last newsletter."
+msgstr "نمایش لیستی از اخبار منتشر شده از زمان آخرین خبرنامه."
+
+#: pnmailzapi.php:67 pntemplates/news_user_article.htm:25
+#: pntemplates/news_mailz_listarticles.htm:5
+#: pntemplates/news_mailz_listarticles.htm:7
+#, php-format
+msgid "by %1$s on %2$s"
+msgstr "توسط %1$s در %2$s"
+
+#: pnmailzapi.php:76
+#, php-format
+msgid "No News publisher articles since last newsletter on %s."
+msgstr "از زمان آخرین خبرنامه در %s اخبار جدیدی نداریم."
+
+#: pnversion.php:20 pnuser.php:953 pninit.php:456
+#: pntemplates/news_admin_menu.htm:5
+msgid "News publisher"
+msgstr "سیستم اخبار"
+
+#: pnversion.php:21 pninit.php:457
+msgid ""
+"Provides the ability to publish and manage news articles contributed by site "
+"users, with support for news categories and various associated blocks."
+msgstr ""
+"امکان انتشار و مدیریت اخبار جمع آوری شده توسط کاربران سایت را فراهم می کند، "
+"بهمراه پشتیبانی از سیستم طبقه بندی و انواع مختلف بلاک."
+
+#. ! this defines the module's url
+#: pnversion.php:24
+msgid "news"
+msgstr "اخبار"
+
+#: pntemplates/plugins/modifier.news_getstatustext.php:27
+msgid "Unknown status"
+msgstr "وضعیت نامشخص"
+
+#: pntemplates/plugins/modifier.dateformatHuman.php:53
+#, php-format
+msgid "%s day ago"
+msgid_plural "%s days ago"
+msgstr[0] "%s روز قبل"
+
+#: pntemplates/plugins/modifier.dateformatHuman.php:55
+msgid "yesterday"
+msgstr "دیروز"
+
+#: pntemplates/plugins/modifier.dateformatHuman.php:63
+msgid "tomorrow"
+msgstr "فردا"
+
+#: pntemplates/plugins/modifier.dateformatHuman.php:65
+#, php-format
+msgid "%s day from now"
+msgid_plural "%s days from now"
+msgstr[0] "%s روز از همین حالا"
+
+#: pntemplates/plugins/modifier.dateformatHuman.php:70
+#, php-format
+msgid "%s hour ago"
+msgid_plural "%s hours ago"
+msgstr[0] "%s ساعت قبل"
+
+#: pntemplates/plugins/modifier.dateformatHuman.php:72
+#, php-format
+msgid "%s hour from now"
+msgid_plural "%s hours from now"
+msgstr[0] "%s ساعت از همین حالا"
+
+#: pntemplates/plugins/modifier.dateformatHuman.php:76
+#, php-format
+msgid "%s minute ago"
+msgid_plural "%s minutes ago"
+msgstr[0] "%s دقیقه قبل"
+
+#: pntemplates/plugins/modifier.dateformatHuman.php:78
+#, php-format
+msgid "%s minute from now"
+msgid_plural "%s minutes from now"
+msgstr[0] "%s دقیقه از همین حالا"
+
+#: pntemplates/plugins/modifier.dateformatHuman.php:82
+#, php-format
+msgid "%s second ago"
+msgid_plural "%s seconds ago"
+msgstr[0] "%s ثانیه قبل"
+
+#: pntemplates/plugins/modifier.dateformatHuman.php:84
+#, php-format
+msgid "%s second from now"
+msgid_plural "%s seconds from now"
+msgstr[0] "%s ثانیه از همین حالا"
+
+#: pnsearchapi.php:94
+msgid "Error! Could not load any articles."
+msgstr "خطا! نمی توانم هیچ اخباری را بارگزاری کنم."
+
+#: pnuserapi.php:209
+msgid "Error! Could not retrieve any articles."
+msgstr ""
+
+#: pnuserapi.php:251
+msgid "Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec"
+msgstr "Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec"
+
+#: pnuserapi.php:713
+msgid "Read more..."
+msgstr "ادامه مطلب..."
+
+#: pnuserapi.php:716
+#, php-format
+msgid "%s bytes more"
+msgstr "%s بایت بیشتر"
+
+#: pnuserapi.php:723
+msgid "Print"
+msgstr "چاپ"
+
+#: pnuserapi.php:723 pnuserapi.php:724
+msgid "Printer-friendly page"
+msgstr "صفحه مخصوص چاپ"
+
+#: pnuserapi.php:736
+msgid "Comments?"
+msgstr "نظرات؟"
+
+#: pnuserapi.php:738 pntemplates/news_block_storiesext_row.htm:11
+#, php-format
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s نظر"
+
+#: pnuserapi.php:744
+msgid "Comments"
+msgstr "نظرات"
+
+#: pnuserapi.php:745
+#, php-format
+msgid "%1$s about %2$s"
+msgstr "%1$s about %2$s"
+
+#: pnuserapi.php:754
+#, php-format
+msgid "Footnote: %s"
+msgstr "پانویس: %s"
+
+#: pnuserapi.php:922
+msgid "Error! Could not create new article."
+msgstr "خطا! نمی توانم اخبار جدید ایجاد کنم."
+
+#: pnblocks/stories.php:36
+msgid "Article titles"
+msgstr "عنوان اخبار"
+
+#: pnblocks/stories.php:37
+msgid "Display article titles"
+msgstr "نمایش عنوان اخبار"
+
+#: pnblocks/big.php:36
+msgid "Most-read article"
+msgstr "اخبار بیشتری خوانده شده"
+
+#: pnblocks/big.php:37 pnblocks/big.php:95
+msgid "Today's most-read article"
+msgstr "اخبار بیشترین خوانده شده ی امروز"
+
+#: pnblocks/storiesext.php:72
+msgid "Extended article titles"
+msgstr "عنوان اخبار پیشرفته"
+
+#: pnblocks/storiesext.php:73
+msgid "Display article titles with extended options"
+msgstr "نمایش عنوان اخبار بهمراه گزینه های اضافه"
+
+#: pnblocks/storiesext.php:265
+msgid "No articles."
+msgstr "هیچ اخباری وجود ندارد"
+
+#. ! default past block title
+#: pnblocks/past.php:36 pnblocks/past.php:128
+msgid "Past articles"
+msgstr "اخبار گذشته"
+
+#: pnblocks/past.php:37
+msgid "Display past articles"
+msgstr "نمایش اخبار گذشته"
+
+#: pnneedleapi/news.php:53
+#, php-format
+msgid "Error! Database contains no article with the title '%s'."
+msgstr "خطا! پایگاه داده حاوی خبری با عنوان '%s' نیست."
+
+#: pnneedleapi/news.php:58
+msgid "Error! No needle ID provided."
+msgstr "Error! No needle ID provided."
+
+#: pncontenttypesapi/newsarticles.php:59
+msgid "Recent news articles"
+msgstr "اخبار اخیر"
+
+#: pncontenttypesapi/newsarticles.php:65
+msgid ""
+"Displays a specific number of news articles from one or all categories "
+"available"
+msgstr "نمایش تعداد مشخصی از اخبار از یک یا همه ی طبقات فعال"
+
+#: pncontenttypesapi/newsarticles.php:304
+#, php-format
+msgid "News articles listed under the '%s' category"
+msgstr "اخبار فهرست شده تحت طبقه '%s'"
+
+#: pncontenttypesapi/newsarticles.php:326
+msgid "Read more"
+msgstr "ادامه مطلب"
+
+#: pncontenttypesapi/newsarticles.php:362
+msgid "All news articles"
+msgstr ""
+
+#: pncontenttypesapi/newsarticles.php:363
+msgid "Only articles set for index page listing"
+msgstr ""
+
+#: pncontenttypesapi/newsarticles.php:364
+msgid "Only articles not set for index page listing"
+msgstr ""
+
+#: pncontenttypesapi/newsarticles.php:376
+#: pntemplates/news_block_storiesext_modify.htm:44
+msgid "News publisher setting"
+msgstr "تنظیمات سیستم اخبار"
+
+#: pncontenttypesapi/newsarticles.php:377
+#: pntemplates/news_block_storiesext_modify.htm:45
+msgid "Number of pageviews"
+msgstr "تعداد بازدید صفحات"
+
+#: pncontenttypesapi/newsarticles.php:379
+#: pntemplates/news_block_storiesext_modify.htm:47
+msgid "Random"
+msgstr "تصادفی"
+
+#: pnuser.php:256
+msgid "Done! Created new article."
+msgstr "انجام شد! اخبار جدید ایجاد شد."
+
+#: pnuser.php:267 pninit.php:52 pninit.php:235
+msgid "A News Publisher article has been submitted for review"
+msgstr "یک اخبار جدید برای بررسی ارسال شده است"
+
+#: pnuser.php:275
+#, php-format
+msgid ""
+"<br />A News Publisher article <strong>%s</strong> has been submitted by %s "
+"for review on website %s.<br />Index page teaser text of the article:<br /"
+"><hr />%s<hr /><br /><br />Go to the <a href=\"%s\">news publisher admin</a> "
+"pages to review and publish the <em>Pending Review</em> article(s).<br /"
+"><br />Regards,<br />%s"
+msgstr ""
+
+#: pnuser.php:277
+#, php-format
+msgid ""
+"\\nA News Publisher article '%s' has been submitted by %s for review on "
+"website %s.\\nIndex page teaser text of the article:\\n--------\\n%s"
+"\\n--------\\n\\nGo to the <a href=\"%s\">news publisher admin</a> pages to "
+"review and publish the 'Pending Review' article(s).\\n\\nRegards,\\n%s"
+msgstr ""
+
+#: pnuser.php:287
+msgid "Done! E-mail about new pending article is sent."
+msgstr "انجام شد! ایمیل درمورد اخبار در انتظار تایید جدید ارسال شد."
+
+#: pnuser.php:289
+msgid "Warning! E-mail about new pending article could not be sent."
+msgstr "اخطار! ایمیل در مورد اخبار در انتظار تایید جدید نمی تواند ارسال شود."
+
+#: pnuser.php:363
+msgid "Error! Invalid category passed."
+msgstr "Error! Invalid category passed."
+
+#: pnuser.php:380
+#, php-format
+msgid "No articles currently published under the '%s' category."
+msgstr "در حال حاضر اخباری ذیل طبقه '%s' منتشر نشده است."
+
+#: pnuser.php:382
+msgid "No articles currently published."
+msgstr "در حال حاضر اخباری منتشر نشده است."
+
+#: pnuser.php:591
+#, php-format
+msgid " :: page %s"
+msgstr " :: صفحه %s"
+
+#: pnuser.php:680
+msgid ""
+"January February March April May June July August September October November "
+"December"
+msgstr "فروردین اردیبهشت خرداد تیر مرداد شهریور مهر آبان آذر دی بهمن اسفند"
+
+#: pnuser.php:952
+#, php-format
+msgid "Article %s by %s"
+msgstr ""
+
+#: pnaccountapi.php:37 pntemplates/news_user_menu.htm:45
+#: pntemplates/news_user_new.htm:21
+#: pntemplates/contenttype/newsarticles_view.html:49
+msgid "Submit an article"
+msgstr "ارسال اخبار"
+
+#: pnadminapi.php:238 pntemplates/news_admin_view.htm:3
+msgid "News articles list"
+msgstr "لیست اخبار"
+
+#: pnadminapi.php:243 pntemplates/news_admin_new.htm:18
+#: pntemplates/contenttype/newsarticles_view.html:10
+msgid "Create new article"
+msgstr "ایجاد اخبار جدید"
+
+#: pnadminapi.php:248
+msgid "Purge permalinks"
+msgstr "Purge permalinks"
+
+#: pnadminapi.php:251 pntemplates/news_admin_modifyconfig.htm:7
+#: pntemplates/news_admin_modifyconfig.htm:9
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: pninit.php:31
+msgid ""
+"Warning! Could not create the default News category tree. If you want to use "
+"categorisation with News, register at least one property for the module in "
+"the Category Registry."
+msgstr ""
+"Warning! Could not create the default News category tree. If you want to use "
+"categorisation with News, register at least one property for the module in "
+"the Category Registry."
+
+#: pninit.php:101 pninit.php:168 pninit.php:223 pninit.php:584 pninit.php:633
+msgid "Error! Could not update table."
+msgstr "Error! Could not update table."
+
+#: pninit.php:113
+msgid "Error! Could not update articles."
+msgstr "خطا! نمی توانم اخبار را بروز کنم."
+
+#: pninit.php:120
+#, php-format
+msgid "Error! The '%s' module is not installed."
+msgstr "خطا! ماژول '%s' نصب نشده است."
+
+#: pninit.php:127 pninit.php:136 pninit.php:140
+msgid "Error! Could not delete table."
+msgstr "Error! Could not delete table."
+
+#: pninit.php:152
+msgid "Error! Could not migrate categories."
+msgstr "Error! Could not migrate categories."
+
+#: pninit.php:187
+msgid "Error! Could not rename table."
+msgstr "Error! Could not rename table."
+
+#: pninit.php:195 pninit.php:199 pninit.php:203
+msgid "Error! Could not rename column."
+msgstr "Error! Could not rename column."
+
+#: pninit.php:297
+msgid "News introduction article"
+msgstr "معرفی اخبار"
+
+#: pninit.php:298
+msgid "news_introduction_article"
+msgstr "معرفی اخبار"
+
+#: pninit.php:299
+msgid ""
+"A news article is divided into an article teaser text (which is the lead-in "
+"text you are reading now) and an article body text (which you can view by "
+"clicking on the article's title or the 'Read more' link). The teaser will "
+"generally be a short introduction to the article, but if you plan to publish "
+"only very short bulletins, the teaser can contain the full draft and the "
+"article body can be left empty. Click on the article title for more "
+"information about Zikula's News publisher module."
+msgstr ""
+"هر خبر به یک بخش خلاصه متن خبر (که اول از همه مشاهده می شود) و یک بخش متن "
+"کامل خبر (که پس از کلیک بر روی عنوان خبر یا لینک ادامه مطلب، قابل مشاهده "
+"خواهد شد) تقسیم شده است. یک خلاصه، معمولا معرفی کوتاهی در مورد خبر یا مطلب "
+"اصلی است، اما اگر شما برای انتشار متون خیلی کوتاه برنامه ریزی کرده اید، تمام "
+"پیش نویس شما می تواند در بخش خلاصه متن قرار گیرد و بخش متن کامل خالی رها "
+"شود. برای دریافت اطلاعات بیشتر در مورد ماژول اخبار زیکولا بر روی عنوان مطلب "
+"کلیک کنید."
+
+#: pninit.php:300 pntemplates/news_user_menu.htm:24
+msgid "News"
+msgstr "اخبار"
+
+#: pninit.php:300
+#, php-format
+msgid ""
+"<h3>More about the News module</h3><p>You are now reading the body text of "
+"the article (starting as from the 'More about the News module' title above). "
+"Both the article teaser and the article body can contain URL links, images, "
+"mark-up (HTML tags and, if you have the additional necessary add-ons "
+"installed, other mark-up languages such as BBCode) You can learn more about "
+"the News module by reading the <a href=\"http://code.zikula.org/news/"
+"wiki#Documentation\">News Wiki Documentation</a>.</p><h3>Some more details</"
+"h3><p><img src=\"modules/News/pnimages/admin.gif\" width=\"48\" height="
+"\"48\" float=\"left\" alt=\"News publisher admin image\"/>To control what "
+"HTML tags can be included in an article to format and enhance it, the site "
+"administrator should set the desired tags to enabled status by visiting the "
+"<a href=\"index.php?module=SecurityCenter&type=admin&func=allowedhtml"
+"\">Security centre</a>. With the News module, you can take advantage of "
+"Zikula's permissions system to control who gets what access to which parts "
+"of the News module. A moderator group can be created, containing registered "
+"site users who can add, edit and delete articles. This is just a simple "
+"example: the Zikula permissions system is sufficiently flexible to let you "
+"implement practically any organisation you want.</p><p>You can edit or "
+"delete this introductory article by clicking on the link beside the article "
+"title, or you can visit to the <a href=\"index.php?module="
+"%s&type=admin&func=view\">News admin pages</a>.</p>"
+msgstr ""
+
+#: pninit.php:316
+msgid "Warning! Could not create the default News introductory article."
+msgstr "Warning! Could not create the default News introductory article."
+
+#: pninit.php:320
+msgid "Warning! Could not update the default News introductory article."
+msgstr "Warning! Could not update the default News introductory article."
+
+#: pninit.php:418
+msgid "Error! Could not update the article categories."
+msgstr "Error! Could not update the article categories."
+
+#: pninit.php:504
+msgid "Topics"
+msgstr "موضوعات"
+
+#: pninit.php:505
+msgid "Display and manage topics"
+msgstr "نمایش و مدیریت موضوعات"
+
+#: pntemplates/news_user_articlepdf.htm:3 pntemplates/news_user_index.htm:5
+#: pntemplates/news_user_articlecontent.htm:24
+#, php-format
+msgid "Posted by %1$s on %2$s"
+msgstr ""
+
+#: pntemplates/news_block_stories_modify.htm:4
+msgid "Scope of news article listing"
+msgstr "Scope of news article listing"
+
+#: pntemplates/news_block_stories_modify.htm:6
+#: pntemplates/news_block_storiesext_modify.htm:9
+msgid "Show all news articles"
+msgstr "نمایش تمام اخبار"
+
+#: pntemplates/news_block_stories_modify.htm:7
+msgid "Show only articles listed on news index page"
+msgstr ""
+
+#: pntemplates/news_block_stories_modify.htm:8
+msgid "Show only articles not listed on news index page"
+msgstr ""
+
+#: pntemplates/news_block_stories_modify.htm:14
+#: pntemplates/news_admin_view.htm:23 pntemplates/news_admin_view.htm:84
+#: pntemplates/news_admin_new.htm:88 pntemplates/news_user_new.htm:84
+#: pntemplates/contenttype/newsarticles_edit.html:13
+#: pntemplates/news_user_archives.htm:53 pntemplates/news_admin_modify.htm:77
+#: pntemplates/news_ajax_modify.htm:35
+msgid "Category"
+msgstr "طبقه"
+
+#: pntemplates/news_block_stories_modify.htm:16
+#: pntemplates/news_admin_new.htm:89 pntemplates/news_admin_modify.htm:78
+#: pntemplates/news_ajax_modify.htm:36
+msgid "Choose category"
+msgstr "انتخاب طبقه"
+
+#: pntemplates/news_block_stories_modify.htm:25
+msgid "Maximum number of articles to display"
+msgstr "حداکثر تعداد اخبار برای نمایش"
+
+#: pntemplates/news_admin_view.htm:47 pntemplates/news_admin_view.htm:65
+#: pntemplates/news_admin_new.htm:102 pntemplates/news_user_new.htm:98
+msgid "Language"
+msgstr "زبان"
+
+#: pntemplates/news_admin_view.htm:52 pntemplates/news_admin_view.htm:69
+#: pntemplates/news_block_storiesext_modify.htm:34
+#: pntemplates/contenttype/newsarticles_edit.html:35
+msgid "Status"
+msgstr "وضعیت"
+
+#: pntemplates/news_admin_view.htm:55
+msgid "Order by"
+msgstr ""
+
+#: pntemplates/news_admin_view.htm:58 pntemplates/news_admin_view.htm:71
+msgid "Apply filter"
+msgstr "اعمال کردن فیلتر"
+
+#: pntemplates/news_admin_view.htm:59 pntemplates/news_admin_view.htm:72
+#: pntemplates/news_admin_view.htm:138
+msgid "Reset"
+msgstr "بازنشاندن"
+
+#: pntemplates/news_admin_view.htm:80
+msgid "ID"
+msgstr "شناسه"
+
+#: pntemplates/news_admin_view.htm:81 pntemplates/news_admin_new.htm:67
+#: pntemplates/news_user_new.htm:67 pntemplates/news_user_archives.htm:51
+#: pntemplates/news_admin_modify.htm:62 pntemplates/news_ajax_modify.htm:20
+msgid "Title"
+msgstr "عنوان"
+
+#: pntemplates/news_admin_view.htm:82
+msgid "Contributor"
+msgstr "نویسندگان"
+
+#: pntemplates/news_admin_view.htm:86
+msgid "Index page<br />listing / Weight"
+msgstr "صفحه خانگی<br />فهرست نویسی / وزن"
+
+#: pntemplates/news_admin_view.htm:87
+msgid "Date"
+msgstr "تاریخ"
+
+#: pntemplates/news_admin_view.htm:88
+msgid "Actions"
+msgstr "عملیات"
+
+#: pntemplates/news_admin_view.htm:109
+msgid "Last edited on"
+msgstr "آخرین ویرایش در"
+
+#: pntemplates/news_admin_view.htm:112
+msgid "Scheduled for"
+msgstr "برنامه ریزی شده برای"
+
+#: pntemplates/news_admin_view.htm:117
+msgid "No comments allowed."
+msgstr "ارسال نظر مجاز نمی باشد."
+
+#: pntemplates/news_admin_view.htm:128
+msgid "No articles currently in database."
+msgstr "در حال حاضر اخباری در پایگاه داده موجود نمی باشد."
+
+#: pntemplates/news_admin_view.htm:135
+msgid "Access a past article via its ID"
+msgstr "دسترسی به یک اخبار گذشته از طریق شناسه اش"
+
+#: pntemplates/news_admin_view.htm:137
+msgid "Go retrieve"
+msgstr "بازیابی مجدد"
+
+#: pntemplates/news_user_menu.htm:17 pntemplates/news_user_menu.htm:30
+msgid "News index page"
+msgstr "صفحه اول اخبار"
+
+#: pntemplates/news_user_menu.htm:35 pntemplates/news_user_categorylist.htm:8
+msgid "News categories"
+msgstr "طبقات اخبار"
+
+#: pntemplates/news_user_menu.htm:40 pntemplates/news_user_archives.htm:12
+#: pntemplates/news_user_archives.htm:15
+msgid "News archive"
+msgstr "آرشیو اخبار"
+
+#: pntemplates/news_user_menu.htm:52
+#, php-format
+msgid "%s pending article"
+msgid_plural "%s pending articles"
+msgstr[0] "%s  اخبار در انتظار تایید"
+
+#: pntemplates/news_user_article.htm:5 pntemplates/news_admin_new.htm:25
+#: pntemplates/news_admin_new.htm:152 pntemplates/news_admin_new.htm:163
+#: pntemplates/news_admin_new.htm:222 pntemplates/news_user_new.htm:29
+#: pntemplates/news_user_new.htm:144 pntemplates/news_user_new.htm:155
+#: pntemplates/news_user_new.htm:209 pntemplates/news_admin_modify.htm:26
+#: pntemplates/news_admin_modify.htm:141 pntemplates/news_admin_modify.htm:150
+#: pntemplates/news_admin_modify.htm:205 pntemplates/news_ajax_modify.htm:99
+#: pntemplates/news_ajax_modify.htm:108 pntemplates/news_ajax_modify.htm:163
+msgid "Show"
+msgstr "نمایش"
+
+#: pntemplates/news_user_article.htm:6 pntemplates/news_admin_new.htm:26
+#: pntemplates/news_user_new.htm:30 pntemplates/news_admin_modify.htm:27
+msgid "Hide"
+msgstr "پنهان"
+
+#: pntemplates/news_user_article.htm:19
+msgid "More articles in "
+msgstr "اخبار بیشتر در"
+
+#: pntemplates/news_block_storiesext_scrollmarquee.htm:25
+#: pntemplates/news_block_storiesext_witheditblock.htm:11
+#: pntemplates/news_block_storiesext_scrollfade.htm:26
+#: pntemplates/news_block_storiesext_scrollpause.htm:26
+msgid "Edit this block"
+msgstr "ویرایش این بلاک"
+
+#: pntemplates/news_block_storiesext_modify.htm:5
+#: pntemplates/contenttype/newsarticles_edit.html:4
+#: pntemplates/news_admin_modifyconfig.htm:16
+msgid "General settings"
+msgstr "تنظیمات عمومی"
+
+#: pntemplates/news_block_storiesext_modify.htm:7
+msgid "Articles to list"
+msgstr "اخبار به لیست"
+
+#: pntemplates/news_block_storiesext_modify.htm:10
+msgid "Show only articles set for index page listing"
+msgstr "فقط اخباری را نمایش بده که برای لیست شدن در صفحه خانگی تنظیم شده اند"
+
+#: pntemplates/news_block_storiesext_modify.htm:11
+msgid "Show only articles not set for index page listing"
+msgstr "فقط اخباری را نمایش بده که برای لیست شدن در صفحه خانگی تنظیم نشده اند"
+
+#: pntemplates/news_block_storiesext_modify.htm:16
+msgid "Choose categories"
+msgstr "انتخاب طبقات"
+
+#: pntemplates/news_block_storiesext_modify.htm:16
+msgid "Category registry"
+msgstr "رجیستری طبقه"
+
+#: pntemplates/news_block_storiesext_modify.htm:23
+msgid "None"
+msgstr "هیچ"
+
+#: pntemplates/news_block_storiesext_modify.htm:30
+#: pntemplates/news_block_past_modify.htm:4
+msgid "Maximum number of news articles to display"
+msgstr "حداکثر تعداد اخبار برای نمایش"
+
+#: pntemplates/news_block_storiesext_modify.htm:42
+msgid "Order articles by"
+msgstr "چیدن اخبار بر اساس"
+
+#: pntemplates/news_block_storiesext_modify.htm:51
+msgid "Maximum age of articles"
+msgstr "حداکثر سن اخبار"
+
+#: pntemplates/news_block_storiesext_modify.htm:53
+#: pntemplates/contenttype/newsarticles_edit.html:42
+msgid "(Number of days; 0 for no limit)"
+msgstr "(تعداد روزها، ۰ برای نامحدود)"
+
+#: pntemplates/news_block_storiesext_modify.htm:56
+msgid "Maximum length of titles"
+msgstr "حداکثر طول عناوین"
+
+#: pntemplates/news_block_storiesext_modify.htm:58
+#: pntemplates/news_block_storiesext_modify.htm:131
+#: pntemplates/contenttype/newsarticles_edit.html:53
+msgid "(Number of characters; 0 for no limit)"
+msgstr "(تعداد کاراکتر ها، ۰ برای نامحدود)"
+
+#: pntemplates/news_block_storiesext_modify.htm:61
+msgid "Suffix to add when truncating titles"
+msgstr ""
+
+#: pntemplates/news_block_storiesext_modify.htm:65
+msgid ""
+"Show 'No articles currently published' status message when no articles "
+"published"
+msgstr ""
+"نمایش پیام وضعیت 'در حال حاضر اخباری منتشر نشده است' زمانیکه اخباری منتشر "
+"نشده"
+
+#: pntemplates/news_block_storiesext_modify.htm:71
+msgid "Custom templates"
+msgstr "قالب های سفارشی"
+
+#: pntemplates/news_block_storiesext_modify.htm:72
+msgid ""
+"Notice: You can use your own custom templates instead of the default "
+"templates. You must specify them here.The default template for block rows is "
+"'news_block_storiesext_row.htm'. The default block template depends on the "
+"scroll setting. The default static template is 'news_block_storiesext.htm'. "
+"For scrolling content, 'news_block_storiesext_scrollNAME.htm' is used."
+msgstr ""
+"توجه: شما می توانید در عوض قالب های پیش گزیده از قالب های سفارشی سازی شده "
+"خود استفاده کنید. شما باید آنها را اینجا تعیین کنید. قالب پیش گزیده برای "
+"ردیف بلاک 'news_block_storiesext_row.htm' است. قالب بلاک پیش گزیده بر اساس "
+"تنظیمات اسکرول است. قالب استاتیک پیش گزیده 'news_block_storiesext.htm' "
+"میباشد. برای اسکرول محتوا، 'news_block_storiesext_scrollNAME.htm' استفاده می "
+"شود."
+
+#: pntemplates/news_block_storiesext_modify.htm:74
+msgid "Custom block template"
+msgstr "قالب بلاک سفارشی"
+
+#: pntemplates/news_block_storiesext_modify.htm:76
+#: pntemplates/news_block_storiesext_modify.htm:81
+msgid "(Default template is used if this box is left blank)"
+msgstr "(اگر این جعبه خالی رها شود قالب پیش گزیده استفاده خواهد شد)"
+
+#: pntemplates/news_block_storiesext_modify.htm:79
+msgid "Custom row template"
+msgstr "قالب ردیف سفارشی"
+
+#: pntemplates/news_block_storiesext_modify.htm:86
+msgid "Advanced block settings"
+msgstr "تنظیمات پیشرفته بلاک"
+
+#: pntemplates/news_block_storiesext_modify.htm:88
+msgid "Show contributor's name"
+msgstr "نمایش نام نویسنده ها"
+
+#: pntemplates/news_block_storiesext_modify.htm:92
+msgid "Show article creation date"
+msgstr "نمایش تاریخ ایجاد اخبار"
+
+#: pntemplates/news_block_storiesext_modify.htm:96
+#: pntemplates/contenttype/newsarticles_edit.html:75
+msgid "Date format"
+msgstr "فرمت تاریخ"
+
+#: pntemplates/news_block_storiesext_modify.htm:98
+msgid "Click here to read 'strftime' description in PHP documentation"
+msgstr "برای خواندن توضیحات 'strftime' در مستندات PHP اینجا کلیک کنید"
+
+#: pntemplates/news_block_storiesext_modify.htm:101
+msgid "Show number of pageviews"
+msgstr "نمایش تعداد بازدید صفحات"
+
+#: pntemplates/news_block_storiesext_modify.htm:107
+msgid "Show number of comments"
+msgstr "نمایش تعداد نظرات"
+
+#: pntemplates/news_block_storiesext_modify.htm:112
+msgid "Separator character for additional information"
+msgstr "کاراکتر جداکننده برای اطلاعات اضافی"
+
+#: pntemplates/news_block_storiesext_modify.htm:118
+#: pntemplates/contenttype/newsarticles_edit.html:131
+msgid "Index page teaser settings"
+msgstr "تنظیمات نمایش اخبار در صفحه خانگی"
+
+#: pntemplates/news_block_storiesext_modify.htm:120
+#: pntemplates/contenttype/newsarticles_edit.html:134
+msgid "Display article's index page teaser"
+msgstr "نمایش خلاصه متن خبر"
+
+#: pntemplates/news_block_storiesext_modify.htm:127
+#: pntemplates/contenttype/newsarticles_edit.html:136
+msgid ""
+"Notice: When truncating the index page teaser text, incomplete HTML mark-up "
+"elements will be completed by the 'truncatehtml' plug-in."
+msgstr ""
+"توجه: زمانیکه متن خلاصه کوتاه می شود، عناصر اتمام نیافته زبان نشانه گزاری "
+"HTML توسط پلاگین 'truncatehtml' کامل خواهند شد."
+
+#: pntemplates/news_block_storiesext_modify.htm:129
+msgid "Maximum displayed length of index page teaser"
+msgstr "حداکثر طول متن خلاصه نمایش داده شده"
+
+#: pntemplates/news_block_storiesext_modify.htm:134
+#: pntemplates/contenttype/newsarticles_edit.html:147
+msgid "Suffix appended to truncated index page teaser"
+msgstr "پسوندی که به متن خلاصه ی کوتاه شده افزوده می شود"
+
+#: pntemplates/news_block_storiesext_modify.htm:141
+msgid "Article recency settings"
+msgstr "تنظیمات تازگی اخبار"
+
+#: pntemplates/news_block_storiesext_modify.htm:143
+msgid "Display image for recent article titles"
+msgstr "نمایش تصویر برای آخرین عناوین خبری"
+
+#: pntemplates/news_block_storiesext_modify.htm:151
+#: pntemplates/contenttype/newsarticles_edit.html:113
+msgid "Number of days during which article is considered recent"
+msgstr "تعداد روزهایی که تعیین می کند کدام اخبار، اخبار اخیر حساب می شود"
+
+#: pntemplates/news_block_storiesext_modify.htm:155
+#: pntemplates/contenttype/newsarticles_edit.html:118
+msgid "Image set for 'New' image"
+msgstr "تصویر تعیین شده برای تصویر 'جدید'"
+
+#: pntemplates/news_block_storiesext_modify.htm:157
+#: pntemplates/news_block_storiesext_modify.htm:162
+#: pntemplates/contenttype/newsarticles_edit.html:120
+#: pntemplates/contenttype/newsarticles_edit.html:126
+msgid "(Used by 'pnimg' plug-in)"
+msgstr "(مورد استفاده توسط پلاگین 'pnimg')"
+
+#: pntemplates/news_block_storiesext_modify.htm:160
+#: pntemplates/contenttype/newsarticles_edit.html:124
+msgid "File name of 'New' image from image set"
+msgstr "نام فایل تصویر 'جدید' از مجموعه تصاویر"
+
+#: pntemplates/news_block_storiesext_modify.htm:168
+msgid "News item scroll settings"
+msgstr "تنظیمات اسکرول آیتم اخبار"
+
+#: pntemplates/news_block_storiesext_modify.htm:169
+msgid ""
+"Notice: News articles can shown in a scrolling box. The provided scrollers "
+"are based upon code from the <a href=\"http://www.dynamicdrive.com/"
+"dynamicindex2/crosstick.htm\">dynamicdrive.com 'crosstick'</a> upward and "
+"downward pauseable vertical scroller, the <a href=\"http://www.dynamicdrive."
+"com/dynamicindex2/memoryticker.htm\">dynamicdrive.com 'memoryticker'</a> "
+"fading scroller (gradient wipe effect only works in IE), and the <a href="
+"\"http://www.dynamicdrive.com/dynamicindex2/cmarquee2.htm\" target=\"_new"
+"\">dynamicdrive.com 'marquee II'</a> marquee scroller."
+msgstr ""
+"توجه: اخبار می توانند در یک جعبه پیمایش نشان داده شوند. پیمایشگر های فراهم "
+"شده بر پایه کدهایی از <a href=\"http://www.dynamicdrive.com/dynamicindex2/"
+"crosstick.htm\">dynamicdrive.com 'crosstick'</a> یک پیمایشگر عمودی بطرف بالا "
+"و پایین و قابل توقف، <a href=\"http://www.dynamicdrive.com/dynamicindex2/"
+"memoryticker.htm\">dynamicdrive.com 'memoryticker'</a> یک پیمایشگر محو شو "
+"(گرادینت فقط در IE کار می کند) و <a href=\"http://www.dynamicdrive.com/"
+"dynamicindex2/cmarquee2.htm\" target=\"_new\">dynamicdrive.com 'marquee II'</"
+"a> یک پیمایشگر مارکویی میباشند."
+
+#: pntemplates/news_block_storiesext_modify.htm:171
+msgid "Choose scroller"
+msgstr "انتخاب نوع اسکرول"
+
+#: pntemplates/news_block_storiesext_modify.htm:173
+msgid "No scrolling"
+msgstr "بدون اسکرول"
+
+#: pntemplates/news_block_storiesext_modify.htm:174
+msgid "Pauseable vertical scroller"
+msgstr "اسکرول عمودی قابل توقف"
+
+#: pntemplates/news_block_storiesext_modify.htm:175
+msgid "Fading scroller"
+msgstr "اسکرول محو"
+
+#: pntemplates/news_block_storiesext_modify.htm:176
+msgid "Marquee scroller"
+msgstr "اسکرول مارکویی"
+
+#: pntemplates/news_block_storiesext_modify.htm:181
+msgid "Scroller CSS styles definition"
+msgstr "تعریف سبک های CSS پیمایشگر"
+
+#: pntemplates/news_block_storiesext_modify.htm:185
+msgid "Delay between scrolls and starting delay for marquee"
+msgstr "تاخیر بین اسکرول ها و تاخیر شروع مارکویی"
+
+#: pntemplates/news_block_storiesext_modify.htm:187
+msgid "(Number of milliseconds)"
+msgstr "(تعداد میلی ثانیه ها)"
+
+#: pntemplates/news_block_storiesext_modify.htm:190
+msgid "Marquee scroller speed"
+msgstr "سرعت اسکرول مارکویی"
+
+#: pntemplates/news_block_storiesext_modify.htm:192
+msgid "(Number from 1 to 10)"
+msgstr "(عدد بین ۱ تا ۱۰)"
+
+#: pntemplates/news_user_index.htm:17
+msgid "Filed under:"
+msgstr "در زمینه:"
+
+#: pntemplates/news_user_categorylist.htm:18
+#: pntemplates/news_user_archives.htm:25
+#, php-format
+msgid "%s article"
+msgid_plural "%s articles"
+msgstr[0] "%s اخبار"
+
+#: pntemplates/news_user_categorylist.htm:20
+msgid "Currently no articles"
+msgstr "در حال حاضر اخباری موجود نیست"
+
+#: pntemplates/news_user_categorylist.htm:41
+#: pntemplates/news_user_categorylist.htm:43
+#: pntemplates/news_user_categorylist.htm:84
+#: pntemplates/news_user_categorylist.htm:86
+msgid "RSS feed"
+msgstr "خوراک خبری RSS"
+
+#: pntemplates/news_user_categorylist.htm:47
+#: pntemplates/news_user_categorylist.htm:90
+msgid "Edit this category"
+msgstr "ویرایش این طبقه"
+
+#: pntemplates/news_user_categorylist.htm:59
+#: pntemplates/news_user_categorylist.htm:102
+#, php-format
+msgid "%s article."
+msgid_plural "%s articles."
+msgstr[0] "%s اخبار."
+
+#: pntemplates/news_user_categorylist.htm:60
+#: pntemplates/news_user_categorylist.htm:103
+msgid "Total"
+msgstr "مجموع"
+
+#: pntemplates/news_user_categorylist.htm:61
+#: pntemplates/news_user_categorylist.htm:104
+#, php-format
+msgid "%s contributed by you."
+msgstr "%s توسط شما نوشته شده است."
+
+#: pntemplates/news_user_categorylist.htm:63
+#: pntemplates/news_user_categorylist.htm:106
+msgid "Currently no articles."
+msgstr "در حال حاضر اخباری موجود نیست."
+
+#: pntemplates/news_block_big.htm:3
+msgid "Today's most-read article is:"
+msgstr "اخبار بیشترین خوانده شده های امروز:"
+
+#: pntemplates/news_admin_new.htm:24 pntemplates/news_user_new.htm:28
+#: pntemplates/news_user_new.htm:129 pntemplates/news_admin_modify.htm:25
+#: pntemplates/news_user_articlecontent.htm:5
+msgid "#{chars} characters out of 65,536"
+msgstr "#{کاراکتر} کاراکتر از 65,536"
+
+#: pntemplates/news_admin_new.htm:27 pntemplates/news_admin_new.htm:281
+#: pntemplates/news_user_new.htm:31 pntemplates/news_user_new.htm:267
+#: pntemplates/news_admin_modify.htm:28 pntemplates/news_admin_modify.htm:288
+#: pntemplates/news_admin_modify.htm:290
+msgid "Publish"
+msgstr "انتشار"
+
+#: pntemplates/news_admin_new.htm:28 pntemplates/news_user_new.htm:32
+#: pntemplates/news_admin_modify.htm:29
+msgid "Schedule"
+msgstr "برنامه"
+
+#: pntemplates/news_admin_new.htm:29 pntemplates/news_admin_new.htm:279
+#: pntemplates/news_admin_new.htm:280 pntemplates/news_user_new.htm:33
+#: pntemplates/news_user_new.htm:266 pntemplates/news_admin_modify.htm:30
+#: pntemplates/news_admin_modify.htm:282
+msgid "Save as draft"
+msgstr "ذخیره بعنوان پیش نویس"
+
+#: pntemplates/news_admin_new.htm:30 pntemplates/news_user_new.htm:34
+#: pntemplates/news_admin_modify.htm:31 pntemplates/news_admin_modify.htm:280
+msgid "Update draft"
+msgstr "بروزرسانی پیش نویس"
+
+#: pntemplates/news_admin_new.htm:31 pntemplates/news_user_new.htm:35
+#: pntemplates/news_admin_modify.htm:32
+msgid "Saving draft..."
+msgstr "در حال ذخیره پیش نویس..."
+
+#: pntemplates/news_admin_new.htm:32 pntemplates/news_user_new.htm:36
+msgid "<strong>Title is empty, draft not saved!</strong>"
+msgstr "<strong>عنوان خالی است, پیش نویس ذخیره نشد!</strong>"
+
+#: pntemplates/news_admin_new.htm:70 pntemplates/news_user_new.htm:70
+#: pntemplates/news_admin_modify.htm:65 pntemplates/news_ajax_modify.htm:23
+msgid "Title text"
+msgstr "متن عنوان"
+
+#: pntemplates/news_admin_new.htm:75
+msgid "Permalink"
+msgstr "لینک ثابت"
+
+#: pntemplates/news_admin_new.htm:81 pntemplates/news_user_new.htm:76
+#: pntemplates/news_admin_modify.htm:70 pntemplates/news_ajax_modify.htm:28
+msgid "Permalink URL"
+msgstr "آدرس لینک ثابت"
+
+#: pntemplates/news_admin_new.htm:83 pntemplates/news_user_new.htm:78
+#: pntemplates/news_admin_modify.htm:72 pntemplates/news_ajax_modify.htm:30
+msgid "(Generated automatically if left blank)"
+msgstr "(اگر خالی رها شود بصورت خودکار تولید خواهد شد)"
+
+#: pntemplates/news_admin_new.htm:113 pntemplates/news_user_new.htm:105
+#: pntemplates/news_admin_modify.htm:103 pntemplates/news_ajax_modify.htm:61
+msgid "Article"
+msgstr "اخبار"
+
+#: pntemplates/news_admin_new.htm:116 pntemplates/news_user_new.htm:108
+#: pntemplates/news_admin_modify.htm:106 pntemplates/news_ajax_modify.htm:64
+msgid "Permitted HTML tags"
+msgstr "تگ های HTML مجاز"
+
+#: pntemplates/news_admin_new.htm:119 pntemplates/news_user_new.htm:111
+#: pntemplates/news_admin_modify.htm:109 pntemplates/news_ajax_modify.htm:67
+msgid "Index page teaser text"
+msgstr "متن خلاصه"
+
+#: pntemplates/news_admin_new.htm:121 pntemplates/news_admin_new.htm:137
+#: pntemplates/news_admin_new.htm:155 pntemplates/news_user_new.htm:113
+#: pntemplates/news_user_new.htm:147 pntemplates/news_admin_modify.htm:111
+#: pntemplates/news_admin_modify.htm:127 pntemplates/news_admin_modify.htm:144
+#: pntemplates/news_ajax_modify.htm:69 pntemplates/news_ajax_modify.htm:85
+#: pntemplates/news_ajax_modify.htm:102
+msgid "(Limit: 65,536 characters)"
+msgstr "(محدودیت: ۶۵/۵۳۶ کاراکتر)"
+
+#: pntemplates/news_admin_new.htm:126 pntemplates/news_user_new.htm:118
+#: pntemplates/news_admin_modify.htm:116 pntemplates/news_ajax_modify.htm:74
+msgid "Index page teaser format"
+msgstr "فرمت متن خلاصه"
+
+#: pntemplates/news_admin_new.htm:128 pntemplates/news_admin_new.htm:144
+#: pntemplates/news_user_new.htm:120 pntemplates/news_user_new.htm:136
+#: pntemplates/news_admin_modify.htm:118 pntemplates/news_admin_modify.htm:134
+#: pntemplates/news_ajax_modify.htm:76 pntemplates/news_ajax_modify.htm:92
+msgid "Plain text"
+msgstr "متن ساده"
+
+#: pntemplates/news_admin_new.htm:129 pntemplates/news_admin_new.htm:145
+#: pntemplates/news_user_new.htm:121 pntemplates/news_user_new.htm:137
+#: pntemplates/news_admin_modify.htm:119 pntemplates/news_admin_modify.htm:135
+#: pntemplates/news_ajax_modify.htm:77 pntemplates/news_ajax_modify.htm:93
+msgid "Text formatted with mark-up language"
+msgstr "متن فرمت شده توسط زبان نشانه گزاری"
+
+#: pntemplates/news_admin_new.htm:135 pntemplates/news_user_new.htm:127
+#: pntemplates/news_admin_modify.htm:125 pntemplates/news_ajax_modify.htm:83
+msgid "Article body text"
+msgstr "متن کامل خبر"
+
+#: pntemplates/news_admin_new.htm:142 pntemplates/news_user_new.htm:134
+#: pntemplates/news_admin_modify.htm:132 pntemplates/news_ajax_modify.htm:90
+msgid "Article body format"
+msgstr "فرمت متن کامل"
+
+#: pntemplates/news_admin_new.htm:152 pntemplates/news_user_new.htm:144
+#: pntemplates/news_admin_modify.htm:141 pntemplates/news_ajax_modify.htm:99
+msgid "Footnote"
+msgstr "شرح"
+
+#: pntemplates/news_admin_new.htm:163 pntemplates/news_user_new.htm:155
+#: pntemplates/news_admin_modify.htm:150 pntemplates/news_ajax_modify.htm:108
+msgid "Publishing options"
+msgstr "گزینه های انتشار"
+
+#: pntemplates/news_admin_new.htm:166 pntemplates/news_user_new.htm:158
+#: pntemplates/news_admin_modify.htm:153 pntemplates/news_ajax_modify.htm:111
+msgid "Publish on news index page"
+msgstr "انتشار در صفحه اصلی اخبار"
+
+#: pntemplates/news_admin_new.htm:174 pntemplates/news_user_new.htm:166
+#: pntemplates/news_admin_modify.htm:161 pntemplates/news_ajax_modify.htm:119
+msgid "No time limit"
+msgstr "بدون محدودیت زمانی"
+
+#: pntemplates/news_admin_new.htm:180 pntemplates/news_user_new.htm:171
+#: pntemplates/news_admin_modify.htm:167 pntemplates/news_ajax_modify.htm:125
+msgid "Start date"
+msgstr "تاریخ شروع"
+
+#: pntemplates/news_admin_new.htm:184 pntemplates/news_user_new.htm:175
+#: pntemplates/news_admin_modify.htm:171 pntemplates/news_ajax_modify.htm:129
+msgid "No end date"
+msgstr "بدون تاریخ پایان"
+
+#: pntemplates/news_admin_new.htm:189 pntemplates/news_user_new.htm:180
+#: pntemplates/news_admin_modify.htm:176 pntemplates/news_ajax_modify.htm:134
+msgid "End date"
+msgstr "تاریخ پایان"
+
+#: pntemplates/news_admin_new.htm:195 pntemplates/news_user_new.htm:186
+#: pntemplates/news_admin_modify.htm:182 pntemplates/news_ajax_modify.htm:140
+msgid "Allow comments on this article"
+msgstr "اجازه ارسال نظر در مورد این مقاله"
+
+#: pntemplates/news_admin_new.htm:222 pntemplates/news_user_new.htm:209
+#: pntemplates/news_admin_modify.htm:205 pntemplates/news_ajax_modify.htm:163
+msgid "Article attributes"
+msgstr "ویژگی های خبر"
+
+#: pntemplates/news_admin_new.htm:226 pntemplates/news_user_new.htm:213
+#: pntemplates/news_admin_modify.htm:209 pntemplates/news_ajax_modify.htm:167
+msgid "Create new attribute"
+msgstr "ایجاد ویژگی جدید"
+
+#: pntemplates/news_admin_new.htm:242 pntemplates/news_admin_new.htm:262
+#: pntemplates/news_user_new.htm:229 pntemplates/news_user_new.htm:249
+#: pntemplates/news_admin_modify.htm:225 pntemplates/news_admin_modify.htm:245
+#: pntemplates/news_ajax_modify.htm:183 pntemplates/news_ajax_modify.htm:203
+msgid "Delete this attribute"
+msgstr "حذف این ویژگی"
+
+#: pntemplates/news_admin_new.htm:275 pntemplates/news_user_new.htm:262
+#: pntemplates/news_admin_modify.htm:275
+msgid "Preview"
+msgstr "پیش نمایش"
+
+#: pntemplates/news_admin_new.htm:275 pntemplates/news_user_new.htm:262
+#: pntemplates/news_admin_modify.htm:275
+msgid "Preview this article"
+msgstr "پیش نمایش این خبر"
+
+#: pntemplates/news_admin_new.htm:277 pntemplates/news_user_new.htm:264
+#: pntemplates/news_admin_modify.htm:277
+msgid "Submit"
+msgstr "ارسال"
+
+#: pntemplates/news_admin_new.htm:277 pntemplates/news_user_new.htm:264
+#: pntemplates/news_admin_modify.htm:277
+msgid "Submit this article"
+msgstr "ارسال این خبر"
+
+#: pntemplates/news_admin_new.htm:279 pntemplates/news_admin_new.htm:280
+#: pntemplates/news_user_new.htm:266 pntemplates/news_admin_modify.htm:282
+msgid "Save this article as draft"
+msgstr "ذخیره این خبر بعنوان پیش نویس"
+
+#: pntemplates/news_admin_new.htm:281 pntemplates/news_user_new.htm:267
+#: pntemplates/news_admin_modify.htm:290
+msgid "Publish this article"
+msgstr "انتشار این خبر"
+
+#: pntemplates/news_admin_new.htm:283 pntemplates/news_user_new.htm:269
+#: pntemplates/news_admin_modify.htm:302 pntemplates/news_ajax_modify.htm:220
+#: pntemplates/news_admin_modifyconfig.htm:182
+#: pntemplates/news_admin_delete.htm:18
+msgid "Cancel"
+msgstr "لغو"
+
+#: pntemplates/news_search_options.htm:5
+msgid "News articles"
+msgstr "اخبار"
+
+#: pntemplates/contenttype/newsarticles_view.html:15
+#, php-format
+msgid "Contributed by %s"
+msgstr "نوشته شده توسط %s"
+
+#: pntemplates/contenttype/newsarticles_view.html:16
+#: pntemplates/news_block_storiesext_row.htm:9
+#, php-format
+msgid "on %s"
+msgstr "در %s"
+
+#: pntemplates/contenttype/newsarticles_view.html:17
+#: pntemplates/news_block_storiesext_row.htm:10
+#, php-format
+msgid "%s pageview"
+msgid_plural "%s pageviews"
+msgstr[0] "%s بازدید از صحفه"
+
+#: pntemplates/contenttype/newsarticles_view.html:18
+msgid "1 comment"
+msgstr ""
+
+#: pntemplates/contenttype/newsarticles_view.html:18
+#, php-format
+msgid "%s comments"
+msgstr ""
+
+#: pntemplates/contenttype/newsarticles_view.html:44
+msgid "No articles published recently."
+msgstr "اخیرا خبری منتشر نشده است."
+
+#: pntemplates/contenttype/newsarticles_edit.html:6
+msgid "Widget title"
+msgstr "Widget title"
+
+#: pntemplates/contenttype/newsarticles_edit.html:25
+msgid "Display"
+msgstr "نمایش"
+
+#: pntemplates/contenttype/newsarticles_edit.html:30
+msgid "Number of articles"
+msgstr "تعداد اخبار"
+
+#: pntemplates/contenttype/newsarticles_edit.html:40
+msgid "Limit of backward reach"
+msgstr "حد برگشت به عقب"
+
+#: pntemplates/contenttype/newsarticles_edit.html:46
+msgid "Articles sorted by"
+msgstr ""
+
+#: pntemplates/contenttype/newsarticles_edit.html:51
+msgid "Maximum displayed length of title"
+msgstr "حداکثر طول عنوان نمایش داده شده"
+
+#: pntemplates/contenttype/newsarticles_edit.html:57
+msgid "Suffix appended to truncated title"
+msgstr "Suffix appended to truncated title"
+
+#: pntemplates/contenttype/newsarticles_edit.html:62
+msgid "Information settings"
+msgstr "تنظیمات اطلاعات"
+
+#: pntemplates/contenttype/newsarticles_edit.html:65
+msgid "Display contributor's name"
+msgstr "نمایش نام نویسنده"
+
+#: pntemplates/contenttype/newsarticles_edit.html:70
+msgid "Display article creation date"
+msgstr "نمایش تاریخ ارسال خبر"
+
+#: pntemplates/contenttype/newsarticles_edit.html:77
+msgid ""
+"Refer to the <a href=\"http://www.php.net/manual/function.strftime.php\" "
+"target=\"_new\">'strftime' description</a> in the PHP documentation."
+msgstr ""
+
+#: pntemplates/contenttype/newsarticles_edit.html:81
+msgid "Display number of pageviews"
+msgstr "نمایش تعداد بازدید صفحات"
+
+#: pntemplates/contenttype/newsarticles_edit.html:88
+msgid "Display number of comments"
+msgstr "نمایش تعداد نظرات"
+
+#: pntemplates/contenttype/newsarticles_edit.html:94
+msgid "Separator character for article information"
+msgstr "کاراکتر جدا کننده برای اطلاعات خبر"
+
+#: pntemplates/contenttype/newsarticles_edit.html:99
+msgid "Display 'Submit an article' link"
+msgstr "نمایش لینک 'ارسال خبر'"
+
+#: pntemplates/contenttype/newsarticles_edit.html:104
+msgid "Article settings"
+msgstr "تنظیمات اخبار"
+
+#: pntemplates/contenttype/newsarticles_edit.html:107
+msgid "Display an icon to highlight recent article titles"
+msgstr "نمایش یک آیکون برای مشخص شدن عناوین آخرین اخبار"
+
+#: pntemplates/contenttype/newsarticles_edit.html:141
+msgid "Maximum displayed length of index page teaser(0 means no limit)"
+msgstr ""
+
+#: pntemplates/contenttype/newsarticles_edit.html:143
+msgid "(Number of characters; 0 for no limit"
+msgstr ""
+
+#: pntemplates/news_user_archives.htm:16
+msgid "Expand all"
+msgstr "باز کردن همه"
+
+#: pntemplates/news_user_archives.htm:16
+msgid "Contract all"
+msgstr "بستن همه"
+
+#: pntemplates/news_user_archives.htm:43
+#, php-format
+msgid "News archive for %1$s, %2$s"
+msgstr "اخبار آرشیو شد برای %1$s, %2$s"
+
+#: pntemplates/news_user_archives.htm:55
+msgid "Pageviews"
+msgstr "بازدید صفحات"
+
+#: pntemplates/news_user_archives.htm:56
+msgid "Posted"
+msgstr "ارسال شده"
+
+#: pntemplates/news_user_archives.htm:70
+#, php-format
+msgid "on %1$s by %2$s"
+msgstr "در %1$s توسط %2$s"
+
+#: pntemplates/news_admin_modify.htm:16 pntemplates/news_ajax_modify.htm:4
+msgid "Edit news article"
+msgstr "ویرایش خبر"
+
+#: pntemplates/news_admin_modify.htm:96 pntemplates/news_ajax_modify.htm:54
+msgid "Language(s) for which article should be displayed"
+msgstr "زبان هایی که باید اخبار برای آنها بنمایش درآید"
+
+#: pntemplates/news_admin_modify.htm:255
+msgid "Meta data"
+msgstr "داده متا"
+
+#: pntemplates/news_admin_modify.htm:259
+#, php-format
+msgid "Contributed by %s on %s"
+msgstr ""
+
+#: pntemplates/news_admin_modify.htm:261
+#, php-format
+msgid "Last edited by %s on %s"
+msgstr "آخرین تغییرات توسط %s در %s"
+
+#: pntemplates/news_admin_modify.htm:264
+#, php-format
+msgid "Approved by %s"
+msgstr "تایید شده توسط %s"
+
+#: pntemplates/news_admin_modify.htm:266
+#, php-format
+msgid "Status %s"
+msgstr "وضعیت %s"
+
+#: pntemplates/news_admin_modify.htm:267
+#, php-format
+msgid "Article ID: %s"
+msgstr "شناسه اخبار: %s"
+
+#: pntemplates/news_admin_modify.htm:285 pntemplates/news_ajax_modify.htm:216
+msgid "Mark this article as pending"
+msgstr "نشانه گزاری این خبر بعنوان معلق"
+
+#: pntemplates/news_admin_modify.htm:285
+msgid "Pending"
+msgstr "در انتظار تایید"
+
+#: pntemplates/news_admin_modify.htm:288
+msgid "Approve and publish this article"
+msgstr "تصویب و انتشار این خبر"
+
+#: pntemplates/news_admin_modify.htm:288
+msgid "Approve and Publish"
+msgstr "تصویب و انتشار"
+
+#: pntemplates/news_admin_modify.htm:288
+msgid "Approve and"
+msgstr "تصویب و"
+
+#: pntemplates/news_admin_modify.htm:293
+msgid "Archive this article"
+msgstr "آرشیو این خبر"
+
+#: pntemplates/news_admin_modify.htm:293
+msgid "Archive"
+msgstr "آرشیو"
+
+#: pntemplates/news_admin_modify.htm:296
+msgid "Reject this article"
+msgstr "رد کردن این خبر"
+
+#: pntemplates/news_admin_modify.htm:296
+msgid "Reject"
+msgstr "رد کردن"
+
+#: pntemplates/news_admin_modify.htm:300 pntemplates/news_ajax_modify.htm:218
+msgid "Delete this article"
+msgstr "حذف این خبر"
+
+#: pntemplates/news_ajax_modify.htm:215
+#: pntemplates/news_admin_modifyconfig.htm:181
+msgid "Save"
+msgstr "ذخیره"
+
+#: pntemplates/news_ajax_modify.htm:215
+msgid "Save your changes"
+msgstr "ذخیره تغییرات شما"
+
+#: pntemplates/news_ajax_modify.htm:216
+msgid "Mark as pending"
+msgstr "علامت گزاری بعنوان معلق"
+
+#: pntemplates/news_block_storiesext_row.htm:4
+msgid "New"
+msgstr "جدید"
+
+#: pntemplates/news_block_storiesext_row.htm:8
+#, php-format
+msgid "by %s"
+msgstr "توسط %s"
+
+#: pntemplates/news_admin_modifyconfig.htm:18
+msgid "Enable article attributes"
+msgstr "فعال کردن ویژگی های اخبار"
+
+#: pntemplates/news_admin_modifyconfig.htm:24
+msgid "Category settings"
+msgstr "تنظیمات طبقه بندی"
+
+#: pntemplates/news_admin_modifyconfig.htm:26
+msgid "Enable categorisation"
+msgstr "فعال سازی طبقه بندی"
+
+#: pntemplates/news_admin_modifyconfig.htm:30
+msgid "Category to use for legacy 'Topics' module template variables"
+msgstr "طبقه مورد استفاده برای متغیرهای قالب ماژول 'موضوعات'"
+
+#: pntemplates/news_admin_modifyconfig.htm:34
+msgid "Category image path (with trailing /)"
+msgstr "مسیر تصویر طبقه (با یک / پیش از آن)"
+
+#: pntemplates/news_admin_modifyconfig.htm:36
+msgid ""
+"Notice: You can associate an image with each article category. The image "
+"must be located in the category image path entered in 'Category image path'. "
+"You must also go to the Categories manager in the site admin panel and then "
+"define the associated image. To do this, add a category attribute named "
+"'topic_image' to each article category, and then enter the associated image "
+"path and name."
+msgstr ""
+"توجه: شما می توانید به هر طبقه موضوعات تصویری اختصاص دهید. تصویر باید در "
+"مسیر تصاویر طبقه تعیین شده در فیلد 'مسیر تصاویر طبقه' قرار گیرد. همچنین باید "
+"به مدیریت ماژول طبقات رفته سپس تصویر اختصاص یافته را معین کنید. برای انجام "
+"این کار، به هر یک از طبقه موضوعات یک ویژگی اضافه کنید به نام 'topic_image' "
+"سپس مسیر و نام تصویر اختصاص یافته را وارد کنید."
+
+#: pntemplates/news_admin_modifyconfig.htm:41
+msgid "Display settings"
+msgstr "نمایش تنظیمات"
+
+#: pntemplates/news_admin_modifyconfig.htm:43
+msgid "Order article listings by"
+msgstr "مرتب کردن فهرست اخبار توسط"
+
+#: pntemplates/news_admin_modifyconfig.htm:51
+msgid "Number of articles in news index page"
+msgstr "تعداد اخبار در صفحه اصلی"
+
+#: pntemplates/news_admin_modifyconfig.htm:55
+msgid "Number of articles in archive page"
+msgstr "تعداد اخبار در صفحه آرشیو"
+
+#: pntemplates/news_admin_modifyconfig.htm:59
+msgid "Check referer on printer-friendly pages"
+msgstr "بررسی رجوع به صفحات مخصوص چاپ"
+
+#: pntemplates/news_admin_modifyconfig.htm:66
+msgid "Enable in-line editing of articles via JavaScript/Ajax controls"
+msgstr "فعال کردن ویرایش توکار اخبار توسط کنترل های JavaScript/Ajax"
+
+#: pntemplates/news_admin_modifyconfig.htm:70
+msgid ""
+"When Scribite! is being used for editing, the <strong>display</strong> "
+"function needs to be added to the list of module functions that Scribite! "
+"uses for the News Publisher module."
+msgstr ""
+"When Scribite! is being used for editing, the <strong>display</strong> "
+"function needs to be added to the list of module functions that Scribite! "
+"uses for the News Publisher module."
+
+#: pntemplates/news_admin_modifyconfig.htm:73
+msgid "Enable 'More articles in category' when displaying an article"
+msgstr "فعال کردن 'بقیه اخبار این طبقه' زمانیکه یک خبر نمایش داده می شود"
+
+#: pntemplates/news_admin_modifyconfig.htm:78
+msgid "Number of 'More articles in category' for every article"
+msgstr "تعداد 'بقیه اخبار در این طبقه' برای هر خبر"
+
+#: pntemplates/news_admin_modifyconfig.htm:80
+msgid ""
+"When displaying an article, a number of additional articletitles in the same "
+"category can be shown.<br />To show the additional articletitles for every "
+"article set the value above to a number larger than 0. When the value is set "
+"to 0, the number of additional articletitles can be set per article by means "
+"of the article attribute 'morearticlesincat'. You need to enable 'article "
+"attributes' yourself. <br />When the setting above or the article attribute "
+"is set to 0, no titles will be extracted from the database."
+msgstr ""
+"زمانیکه یک خبر نمایش داده می شود، تعدادی از عناوین خبری دیگر در همان طبقه "
+"نیز می تواند به نمایش در آید.<br />برای بنمایش در آمدن عناوین خبری دیگر برای "
+"هر خبر مقدار بالا را به عددی بزرگتر از ۰ تغییر دهید. زمانیکه مقدار برابر با "
+"۰ تعیین شود، تعداد عناوین خبری دیگر می تواند در هر خبر با استفاده از صفت "
+"'morearticlesincat' مشخص شود. شما نیاز دارید تا 'صفات اخبار' را خودتان فعال "
+"کنید.<br />زمانیکه تنظیمات بالا یا صفات خبر بر روی ۰ تنظیم شود، هیچ عنوان "
+"خبری از پایگاه داده استخراج نخواهد شد."
+
+#: pntemplates/news_admin_modifyconfig.htm:84
+msgid "Notify moderators when a new pending article is submitted for review"
+msgstr "مطلع ساختن مدیران زمانیکه یک خبر جدید برای بررسی ارسال می شود"
+
+#: pntemplates/news_admin_modifyconfig.htm:89
+msgid ""
+"Whenever a new article is submitted as Pending Review, the admin or a list "
+"of E-mail addresses can be informed of this event with a notification E-mail."
+msgstr ""
+"هر زمانیکه یک خبر جدید برای بررسی ارسال شود، مدیر یا لیستی از آدرس ایمیل ها "
+"می توانند از این رویداد توسط یک ایمیل اطلاع رسانی مطلع شوند."
+
+#: pntemplates/news_admin_modifyconfig.htm:90
+msgid "From name (leave empty for sitename)"
+msgstr "از نام (برای نام سایت، خالی رها کنید)"
+
+#: pntemplates/news_admin_modifyconfig.htm:94
+msgid "From address (leave empty for admin E-mail address)"
+msgstr "از آدرس (برای آدرس ایمیل مدیر، خالی رها کنید)"
+
+#: pntemplates/news_admin_modifyconfig.htm:98
+msgid "To name (leave empty for sitename)"
+msgstr "به نام (برای نام سایت خالی رها کنید)"
+
+#: pntemplates/news_admin_modifyconfig.htm:102
+msgid ""
+"To address (comma seperated list of E-Mail addresses, leave empty for admin "
+"E-mail address)"
+msgstr ""
+"به آدرس (لیستی از آدرس ایمیل ها، جدا شده توسط کاما، برای آدرس ایمیل مدیر "
+"خالی رها کنید)"
+
+#: pntemplates/news_admin_modifyconfig.htm:106
+msgid "E-mail subject"
+msgstr "موضوع ایمیل"
+
+#: pntemplates/news_admin_modifyconfig.htm:110
+msgid "Send E-mail as HTML "
+msgstr "ارسال ایمیل بصورت HTML"
+
+#: pntemplates/news_admin_modifyconfig.htm:115
+msgid "Display a PDF link for the articles in the index page"
+msgstr "نمایش لینک PDF برای اخبار در صفحه اصلی"
+
+#: pntemplates/news_admin_modifyconfig.htm:120
+msgid "Path to the TCPDF main file"
+msgstr "مسیر فایل اصلی TCPDF"
+
+#: pntemplates/news_admin_modifyconfig.htm:122
+msgid ""
+"The PDF link is based on <a href=\"http://www.tcpdf.org\">TCPDF</a>. You "
+"have to install the files yourself into the path specified above, when you "
+"want to use the pdflink. Download TCPDF from the link and place the 'tcpdf' "
+"folder into the correct location."
+msgstr ""
+"لینک PDF بر پایه <a href=\"http://www.tcpdf.org\">TCPDF</a> است. زمانیکه "
+"بخواهید از لینک PDF استفاده کنید خودتان باید فایل های مرتبط را در مسیری که "
+"بالا تعیین شده نصب کنید. از لینک، TCPDF را دانلود کرده و پوشه 'tcpdf' را در "
+"محل صحیح قرار دهید."
+
+#: pntemplates/news_admin_modifyconfig.htm:125
+msgid "TCPDF language file"
+msgstr "فایل زبان TCPDF"
+
+#: pntemplates/news_admin_modifyconfig.htm:129
+msgid "TCPDF Header logo image (absolute path or relative to tcpdf)"
+msgstr "تصویر لوگوی سرصفحه TCPDF (مسیر محدود یا نسبی به tcpdf)"
+
+#: pntemplates/news_admin_modifyconfig.htm:131
+msgid ""
+"Default Header logo is defined by TCPDF and in PathToTCPDF/images folder. "
+"tcpdf_logo.jpg with a width of 30"
+msgstr ""
+"لوگوی سرصفحه پیش گزیده توسط TCPDF تعیین شده و در پوشه PathToTCPDF/images "
+"قرار دارد. tcpdf_logo.jpg با عرض ۳۰"
+
+#: pntemplates/news_admin_modifyconfig.htm:134
+msgid "TCPDF header logo width in mm"
+msgstr "عرض لوگوی سرصفحه TCPDF به میلی متر"
+
+#: pntemplates/news_admin_modifyconfig.htm:143
+msgid "Permalinks"
+msgstr "لینک ثابت"
+
+#: pntemplates/news_admin_modifyconfig.htm:144
+msgid ""
+"You can select a pre-defined permalink format, or define your custom format."
+msgstr ""
+"شما می توانید یک فرمت از پیش تعریف شده برای لینک ثابت انتخاب کنید یا فرمت "
+"مورد نظر خود را مشخص کنید."
+
+#: pntemplates/news_admin_modifyconfig.htm:147
+msgid "Format based on date and name"
+msgstr "فرمت بر مبنای تاریخ و نام"
+
+#: pntemplates/news_admin_modifyconfig.htm:149
+msgid "your-article-title"
+msgstr "عنوان-خبر-شما"
+
+#: pntemplates/news_admin_modifyconfig.htm:152
+msgid "Numeric format"
+msgstr "فرمت عددی"
+
+#: pntemplates/news_admin_modifyconfig.htm:157
+msgid "Custom format"
+msgstr "فرمت سفارشی"
+
+#: pntemplates/news_admin_modifyconfig.htm:161
+msgid "Custom format definition"
+msgstr "تعریف فرمت سفارشی"
+
+#: pntemplates/news_admin_modifyconfig.htm:163
+msgid ""
+"Notice: A custom format definition must contain at least either '%storyid%' "
+"or '%storytitle%', in order to be able to identify the article."
+msgstr ""
+"توجه: یک فرمت سفارشی تعریف شده باید حداقل محتوی '%storyid%' یا '%storytitle"
+"%' باشد تا بتوان خبر را شناسایی کرد."
+
+#: pntemplates/news_admin_modifyconfig.htm:165
+msgid "Acceptable values for use in custom format definition:"
+msgstr "مقادیر قابل پذیرش برای استفاده در تعریف فرمت سفارشی"
+
+#: pntemplates/news_admin_modifyconfig.htm:167
+msgid "Year of publication (including century numerals)"
+msgstr "سال انتشار (شامل شماره قرن)"
+
+#: pntemplates/news_admin_modifyconfig.htm:168
+msgid "Month of publication, as a number (ergo 1 to 12)"
+msgstr "ماه انتشار، بصورت عدد (بین ۱ تا ۱۲)"
+
+#: pntemplates/news_admin_modifyconfig.htm:169
+msgid "Month of publication as a name (ergo January to December)"
+msgstr "ماه انتشار، بصورت نام (از فروردین تا اسفند)"
+
+#: pntemplates/news_admin_modifyconfig.htm:170
+msgid "Day"
+msgstr "روز"
+
+#: pntemplates/news_admin_modifyconfig.htm:171
+msgid "Article title"
+msgstr "عنوان خبر"
+
+#: pntemplates/news_admin_modifyconfig.htm:173
+msgid "Article category"
+msgstr "طبقه خبر"
+
+#: pntemplates/news_admin_delete.htm:2
+msgid "Delete news article"
+msgstr "حذف خبر"
+
+#: pntemplates/news_admin_delete.htm:8
+msgid "Do you really want to delete this news article?"
+msgstr "آیا واقعا می خواهید این خبر را حذف کنید؟"
+
+#: pntemplates/news_admin_delete.htm:15
+msgid "Confirmation prompt"
+msgstr "متن تاییدیه"
+
+#~ msgid ""
+#~ "Refer to the <a href=\"http://www.php.net/manual/function.strftime.php"
+#~ "\">'strftime' description</a> in the PHP documentation."
+#~ msgstr ""
+#~ "مراجعه کنید به <a href=\"http://www.php.net/manual/function.strftime.php"
+#~ "\">توضیحات'strftime'</a> در مستندات PHP."
+
+#~ msgid "Last edited"
+#~ msgstr "آخرین ویرایش"
+
+#~ msgid ""
+#~ "<br />A News Publisher article <strong>%1$s</strong> has been submitted "
+#~ "by %2$s for review on website %3$s.<br />Index page teaser text of the "
+#~ "article:<br /><hr />%4$s<hr /><br /><br />Go to the <a href=\"%5$s\">news "
+#~ "publisher admin</a> pages to review and publish the <em>Pending Review</"
+#~ "em> article(s).<br /><br />Regards,<br />%6$s"
+#~ msgstr ""
+#~ "<br />یک خبر جدید <strong>%1$s</strong> توسط %2$s برای وب سایت %3$s ارسال "
+#~ "شده است.<br />متن خلاصه اخبار:<br /><hr />%4$s<hr /><br /><br /> برو به "
+#~ "صفحه <a href=\"%5$s\">مدیریت اخبار</a> برای بررسی و تایید اخبار <em>در "
+#~ "انتظار تایید</em>.<br /><br /> با احترام،<br />%6$s"
+
+#~ msgid "Maximum displayed length of index page teaser text"
+#~ msgstr "حداکثر طول متن خلاصه خبر به نمایش در آمده"
+
+#~ msgid "Contributed"
+#~ msgstr "مشارکت شده"
+
+#~ msgid "Display article's index page teaser text"
+#~ msgstr "نمایش متن خلاصه اخبار"
+
+#~ msgid ""
+#~ "\n"
+#~ "A News Publisher article '%1$s' has been submitted by %2$s for review on "
+#~ "website %3$s.\n"
+#~ "Index page teaser text of the article:\n"
+#~ "--------\n"
+#~ "%4$s\n"
+#~ "--------\n"
+#~ "\n"
+#~ "Go to the <a href=\"%5$s\">news publisher admin</a> pages to review and "
+#~ "publish the 'Pending Review' article(s).\n"
+#~ "\n"
+#~ "Regards,\n"
+#~ "%6$s"
+#~ msgstr ""
+#~ "\n"
+#~ "یک اخبار '%1$s' توسط %2$s برای بررسی سایت %3$s ارسال شده است.\n"
+#~ "خلاصه اخبار:\n"
+#~ "--------\n"
+#~ "%4$s\n"
+#~ "--------\n"
+#~ "\n"
+#~ "برای بررسی و تایید اخبار در انتظار تایید به صفحه <a href=\"%5$s\">مدیریت "
+#~ "اخبار</a>  بروید.\n"
+#~ "\n"
+#~ "با تشکر،\n"
+#~ "%6$s"
+
+#~ msgid "Article %1$s by %2$s"
+#~ msgstr "اخبار %1$s توسط %2$s"
+
+#~ msgid ""
+#~ "<h3>More about the News module</h3><p>You are now reading the body text "
+#~ "of the article (starting as from the 'More about the News module' title "
+#~ "above). Both the article teaser and the article body can contain URL "
+#~ "links, images, mark-up (HTML tags and, if you have the additional "
+#~ "necessary add-ons installed, other mark-up languages such as BBCode) You "
+#~ "can learn more about the News module by reading the <a href=\"http://code."
+#~ "zikula.org/news/wiki#Documentation\">News Wiki Documentation</a>.</"
+#~ "p><h3>Some more details</h3><p><img src=\"modules/News/pnimages/admin.gif"
+#~ "\" width=\"48\" height=\"48\" class=\"z-floatleft\" alt=\"News publisher "
+#~ "admin image\"/>To control what HTML tags can be included in an article to "
+#~ "format and enhance it, the site administrator should set the desired tags "
+#~ "to enabled status by visiting the <a href=\"index.php?"
+#~ "module=SecurityCenter&type=admin&func=allowedhtml\">Security centre</a>. "
+#~ "With the News module, you can take advantage of Zikula's permissions "
+#~ "system to control who gets what access to which parts of the News module. "
+#~ "A moderator group can be created, containing registered site users who "
+#~ "can add, edit and delete articles. This is just a simple example: the "
+#~ "Zikula permissions system is sufficiently flexible to let you implement "
+#~ "practically any organisation you want.</p><p>You can edit or delete this "
+#~ "introductory article by clicking on the link beside the article title, or "
+#~ "you can visit to the <a href=\"index.php?module=%s&type=admin&func=view"
+#~ "\">News admin pages</a>.</p>"
+#~ msgstr ""
+#~ "<h3>اطلاعات بیشتر درباره ماژول اخبار</h3><p>شما الان در حال خواندن متن "
+#~ "کامل خبر هستید (که از عنوان چاپ شده در بالا 'اطلاعات بیشتر درباره ماژول "
+#~ "اخبار' شروع شده است). هر دو قسمت متن خلاصه و متن کامل می توانند شامل آدرس "
+#~ "های URL، تصاویر و زبان های نشانه گزاری (برچسب های HTML و اگر ماژول های "
+#~ "مورد نیاز نصب شده باشد، دیگر زبان های نشانه گزاری مانند BBCode) باشند. "
+#~ "شما می توانید با خواندن <a href=\"http://code.zikula.org/news/"
+#~ "wiki#Documentation\">مستندات ویکی اخبار</a> درباره ماژول اخبار بیشتر "
+#~ "بدانید. </p><h3>جزئیات بیشتر</h3><p><img src=\"modules/News/pnimages/"
+#~ "admin.gif\" width=\"48\" height=\"48\" class=\"z-floatleft\" alt=\"News "
+#~ "publisher admin image\"/>برای کنترل اینکه کدام برچسب های HTML می توانند "
+#~ "برای فرمت کردن مطلبی در آن استفاده شوند، مدیر سایت باید برچسب های مورد "
+#~ "نظر را توسط ماژول <a href=\"index.php?"
+#~ "module=SecurityCenter&type=admin&func=allowedhtml\">مرکز امنیت</a> به "
+#~ "وضعیت مجاز تنظیم کند. همراه ماژول اخبار نیز می توانید از مزایای سیستم "
+#~ "مجوزهای دسترسی زیکولا برای کنترل اینکه هر شخص به هر بخش از ماژول اخبار چه "
+#~ "نوع دسترسی داشته باشد بهره ببرید. میتوان یک گروه مدیریتی حاوی تعدادی از "
+#~ "کاربران عضو ساخت که می توانند خبر جدید اضافه کنند، ویرایش کنند و اخبار را "
+#~ "حذف کنند. این فقط یک مثال ساده بود، سیستم مجوزهای دسترسی زیکولا به اندازه "
+#~ "کافی انعطاف پذیر است و عملا به شما اجازه می دهد هرآن طور که می خواهید "
+#~ "سازماندهی کنید.</p><p>شما می توانید این خبر را با کلیک بر روی لینک کنار "
+#~ "عنوان خبر، یا با مشاهده <a href=\"index.php?module=%s&type=admin&func=view"
+#~ "\">صفحه مدیریت اخبار</a> ویرایش یا حذف کنید."
+
+#~ msgid ""
+#~ "Notice: Your theme could be using template overrides for the News "
+#~ "publisher module (in themes/YourThemeName/templates/modules/News/...). "
+#~ "They might lack behind in functionality to the current default News "
+#~ "publisher templates, please remove them or check them carefully against "
+#~ "the default News publisher templates (in modules/News/pntemplates/...)."
+#~ msgstr ""
+#~ "توجه: قالب شما می تواند از تنظیمات تحت الشعاع قرار دهنده ی قالب ها برای "
+#~ "ماژول اخبار استفاده کند (در themes/YourThemeName/templates/modules/"
+#~ "News/...). ممکن است آنها باعث عدم توانایی های فعلی قالب پیش گزیده اخبار "
+#~ "شوند، لطفا آنها را پاک کرده یا دقیقا با قالب پیش گزیده ی اخبار (در "
+#~ "modules/News/pntemplates/...) مقایسه کنید."
+
+#~ msgid "Suffix appended to truncated index page teaser text"
+#~ msgstr "پسوند اضافه شده به متن خلاصه اخبار کوتاه شده"

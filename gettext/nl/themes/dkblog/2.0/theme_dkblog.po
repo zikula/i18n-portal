@@ -1,0 +1,141 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Dutch Translation for dkblog 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-07 06:10-0500\n"
+"PO-Revision-Date: 2010-06-11 15:37+0200\n"
+"Last-Translator: Arjen <teb@zikula.nl>\n"
+"Language-Team: Dutch Zikula Community\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: version.php:4
+msgid "DkBlog"
+msgstr "DkBlog"
+
+#: version.php:8
+msgid "DkBlog template"
+msgstr "DkBlog template"
+
+#: templates/modules/News/old/news_user_articlecontent.htm:2
+#: templates/modules/News/old/news_user_index.htm:2
+msgid "Posted on"
+msgstr "Geplaatst op"
+
+#: templates/modules/News/old/news_user_articlecontent.htm:2
+#: templates/modules/News/old/news_user_index.htm:2
+msgid "in"
+msgstr "in"
+
+#: templates/modules/News/old/news_user_articlecontent.htm:2
+#: templates/modules/News/old/news_user_index.htm:2
+msgid " "
+msgstr ""
+
+#: templates/modules/News/old/news_user_index.htm:4
+msgid "Comments"
+msgstr "Reacties"
+
+#: templates/includes/header.htm:5
+msgid "Contact Us"
+msgstr "Neem contact op"
+
+#: templates/includes/header.htm:6 templates/includes/footer.htm:6
+msgid "SiteMap"
+msgstr "SiteMap"
+
+#: templates/includes/header.htm:12
+msgid "My Account Settings"
+msgstr "Mijn account instellingen"
+
+#: templates/includes/header.htm:12
+msgid "My Account"
+msgstr "Mijn account"
+
+#: templates/includes/header.htm:12
+msgid "Logout of Your Account"
+msgstr "Uitloggen van je account"
+
+#: templates/includes/header.htm:12
+msgid "Logout"
+msgstr "Uitloggen"
+
+#: templates/includes/header.htm:16
+msgid "New Account Registration"
+msgstr "Nieuwe account registratie"
+
+#: templates/includes/header.htm:16
+msgid "Log In to Your Account"
+msgstr "Inloggen op je account"
+
+#: templates/includes/header.htm:16
+msgid "Log In"
+msgstr "Inloggen"
+
+#: templates/includes/header.htm:19
+msgid "Back to Main page"
+msgstr "Terug naar de hoofdpagina"
+
+#: templates/includes/header.htm:29
+msgid "Home"
+msgstr "Start"
+
+#: templates/includes/header.htm:30
+msgid "Pages"
+msgstr "Pagina's"
+
+#: templates/includes/header.htm:31
+msgid "News"
+msgstr "Nieuws"
+
+#: templates/includes/header.htm:32
+msgid "Forums"
+msgstr "Forums"
+
+#: templates/includes/header.htm:33 templates/includes/footer.htm:5
+msgid "Contact"
+msgstr "Contact"
+
+#: templates/includes/footer.htm:4
+msgid "Home Page"
+msgstr "Startpagina"
+
+#: templates/includes/footer.htm:7
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: templates/includes/footer.htm:10
+msgid "Design:"
+msgstr "Ontwerp:"
+
+#: templates/includes/footer.htm:10
+msgid "Free CSS Templates"
+msgstr "Free CSS Templates"
+
+#: templates/includes/footer.htm:10
+msgid "David Herreman"
+msgstr "David Herreman"
+
+#: templates/includes/footer.htm:11
+msgid "Valid"
+msgstr "Geldig"
+
+#: templates/includes/footer.htm:11
+msgid "Validate"
+msgstr "Valideren"
+
+#: templates/includes/footer.htm:11
+msgid "XHTML"
+msgstr "XHTML"
+
+#: templates/includes/footer.htm:12
+msgid "CSS"
+msgstr "CSS"

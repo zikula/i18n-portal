@@ -1,0 +1,149 @@
+# scribite! for Zikula.
+# Copyright (C) 2009
+# This file is distributed under the same license as the zweet package.
+# Sven Schomacker <hilope@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-30 06:26-0400\n"
+"PO-Revision-Date: 2010-11-26 14:37+0200\n"
+"Last-Translator: Albert Pérez Monfort <aperezm@xtec.cat>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.2\n"
+
+#: pnadmin.php:67 pntwitter.php:86
+msgid ""
+"Invalid Authkey:  this probably means that you pressed the -Back- button, or "
+"that the page -authkey- expired. Please refresh the page and try again."
+msgstr ""
+"La clau d'autorització ('authkey') no és vàlida. Causes possibles d'aquest "
+"error són haver clicat el botó de tornar enrere del navegador, navegar "
+"simultàniament amb vàries pestanyes o un període llarg d'inactivitat. Torneu "
+"a carregar la pàgina i torneu-ho a provar."
+
+#: pnversion.php:18 zweet_admin_menu.htm:12 zweet_user_newtweet.htm:2
+msgid "Zikula Tweet Suite"
+msgstr "Twitter per a Zikula"
+
+#: pninit.php:22 pninit.php:23
+msgid "zweet-hook could be created."
+msgstr "No s'ha pogut crear el lligam amb zweet."
+
+#: pninit.php:46 pninit.php:47
+msgid "zweet-hook could be deleted."
+msgstr "No s'ha pogut esborrar el lligam amb zweet."
+
+#: pnadmin.php:126
+msgid "Could not connect to Twitter. Please try again."
+msgstr ""
+"No ha estat possible connectar amb Twitter. Si us plau, torne-ho a provar."
+
+#: pnadmin.php:73
+msgid "Configuration not updated."
+msgstr "No s'ha actualitzat la configuració."
+
+#: pnadmin.php:78
+msgid "Configuration updated."
+msgstr "S'ha actualitzat la configuració."
+
+#: pnadminapi.php:2
+msgid "Configuration"
+msgstr "Configuració"
+
+#: pnuserapi.php:32
+msgid "Wrong arguments for zweet hook."
+msgstr "Arguments incorrectes per l'enllaç amb zweet."
+
+#: pntwitter.php:51
+msgid "Twitter access token deleted. Please re-authentificate."
+msgstr ""
+"S'ha esborrat el token d'accés a Twitter. Si us plau, torneu-vos a "
+"identificar."
+
+#: pntwitter.php:98 pnuserapi.php:84
+msgid "New Twitter status set."
+msgstr "Nou estat de Twitter."
+
+#: pntwitter.php:98 pnuserapi.php:87
+msgid "Setting Twitter status not successful!"
+msgstr "La configuració de l'estat de Twitter no ha tingut èxit!"
+
+#: pntwitter.php:135
+msgid "Twitter token too old. Please try again."
+msgstr "El token de Twitter és massa antiga. Si us plau torneu-ho a provar."
+
+#: pntwitter.php:157
+msgid "Twitter authentification successful."
+msgstr "La validació a Twitter ha funcionat correctament."
+
+#: pntwitter.php:160
+msgid "Twitter token not generated. Please re-authentificate."
+msgstr ""
+"No s'ha generat el token de Twitter. Si us plau, torner-ho-vos a "
+"identificar."
+
+#: pntwitterapi.php:29 pntwitterapi.php:73
+msgid "No permissions for zweet"
+msgstr "No teniu permisos per Twittejar"
+
+#: zweet_admin_modifyconfig.htm:18 zweet_admin_setstatus.htm:14
+msgid "Update"
+msgstr "Actualitza"
+
+#: zweet_admin_modifyconfig.htm:19
+msgid "Cancel"
+msgstr "Cancel·la"
+
+#: zweet_admin_modifyconfig.htm:10
+msgid "URL shortener service"
+msgstr "Serveu de URL curts"
+
+#: zweet_admin_modifytwitter.htm:4
+msgid "Twitter Configuration"
+msgstr "Configuració del Twitter"
+
+#: zweet_admin_modifytwitter.htm:4
+msgid "Authentification okay."
+msgstr "La validació és correcta"
+
+#: zweet_admin_modifytwitter.htm:10
+msgid "Actions"
+msgstr "Accions"
+
+#: zweet_admin_modifytwitter.htm:11
+msgid "Reset token"
+msgstr "Regenera el token"
+
+#: zweet_admin_modifytwitter.htm:17
+msgid "Authentificate zweet:"
+msgstr "Autentificat del Twit:"
+
+#: zweet_admin_modifytwitter.htm:17
+msgid "Connect"
+msgstr "Connecta"
+
+#: zweet_admin_modifytwitter.htm:4 zweet_admin_setstatus.htm:3
+msgid "Current status:"
+msgstr "Estat actual:"
+
+#: zweet_admin_setstatus.htm:6
+msgid "Set new status on Twitter"
+msgstr "Estableix un estat nou a Twitter"
+
+#: zweet_admin_setstatus.htm:8
+msgid "New status message:"
+msgstr "Missatge d'estat nou:"
+
+#: zweet_admin_setstatus.htm:12
+msgid "You have "
+msgstr "Tens "
+
+#: zweet_admin_setstatus.htm:12
+msgid " chars left."
+msgstr " caràcters disponibles."

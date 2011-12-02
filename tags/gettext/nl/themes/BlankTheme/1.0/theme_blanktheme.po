@@ -1,0 +1,418 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Dutch Translation for BlankTheme 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-20 18:17-0500\n"
+"PO-Revision-Date: 2010-10-19 22:05+0200\n"
+"Last-Translator: Arjen <teb@zikula.nl>\n"
+"Language-Team: Dutch Zikula Community\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: plugins/function.diggers.php:62
+#, php-format
+msgid "Add %1$s at %2$s"
+msgstr "%1$s toevoegen aan %2$s"
+
+#: plugins/function.bt_adminlinks.php:53 plugins/function.bt_userlinks.php:49
+msgid "Home"
+msgstr "Startpagina"
+
+#: plugins/function.bt_adminlinks.php:59
+msgid "Site settings"
+msgstr "Site instellingen"
+
+#: plugins/function.bt_adminlinks.php:61
+msgid "Localization"
+msgstr "Taal instellingen"
+
+#: plugins/function.bt_adminlinks.php:62
+msgid "HTML settings"
+msgstr "HTML instellingen"
+
+#: plugins/function.bt_adminlinks.php:65
+msgid "Permissions"
+msgstr "Rechten"
+
+#: plugins/function.bt_adminlinks.php:66
+msgid "Categories"
+msgstr "Categorieën"
+
+#: plugins/function.bt_adminlinks.php:68
+msgid "Category registry"
+msgstr "Categorie register"
+
+#: plugins/function.bt_adminlinks.php:69
+msgid "New category"
+msgstr "Nieuwe categorie"
+
+#: plugins/function.bt_adminlinks.php:72
+msgid "Admin panel"
+msgstr "Beheer paneel"
+
+#: plugins/function.bt_adminlinks.php:73
+msgid "System mailer"
+msgstr "Systeem Mailer"
+
+#: plugins/function.bt_adminlinks.php:74
+msgid "Search options"
+msgstr "Zoek-opties"
+
+#: plugins/function.bt_adminlinks.php:77
+msgid "Legal settings"
+msgstr "Juridische instellingen"
+
+#: plugins/function.bt_adminlinks.php:80
+msgid "WYSIWYG editors"
+msgstr "WYSIWYG editors"
+
+#: plugins/function.bt_adminlinks.php:83
+msgid "Thumbnails"
+msgstr "Thumbnails"
+
+#: plugins/function.bt_adminlinks.php:86
+msgid "Config"
+msgstr "Configuratie"
+
+#: plugins/function.bt_adminlinks.php:94
+msgid "Comments"
+msgstr "Reacties"
+
+#: plugins/function.bt_adminlinks.php:97
+msgid "MultiHook"
+msgstr "MultiHook"
+
+#: plugins/function.bt_adminlinks.php:100
+msgid "BBCode"
+msgstr "BBCode"
+
+#: plugins/function.bt_adminlinks.php:103
+msgid "Smilies"
+msgstr "Smilies"
+
+#: plugins/function.bt_adminlinks.php:106
+msgid "Ratings"
+msgstr "Beoordelingen"
+
+#: plugins/function.bt_adminlinks.php:109
+msgid "No hooks installed"
+msgstr "Geen hooks geïnstalleerd"
+
+#: plugins/function.bt_adminlinks.php:112
+msgid "System"
+msgstr "Systeem"
+
+#: plugins/function.bt_adminlinks.php:114
+msgid "Modules"
+msgstr "Modules"
+
+#: plugins/function.bt_adminlinks.php:116
+msgid "System hooks"
+msgstr "Systeem hooks"
+
+#: plugins/function.bt_adminlinks.php:119
+msgid "Hooks"
+msgstr "Hooks"
+
+#: plugins/function.bt_adminlinks.php:122
+msgid "Blocks"
+msgstr "Blokken"
+
+#: plugins/function.bt_adminlinks.php:123
+msgid "Themes"
+msgstr "Themes"
+
+#: plugins/function.bt_adminlinks.php:124
+msgid "Security center"
+msgstr "Beveiligings centrum"
+
+#: plugins/function.bt_adminlinks.php:126
+msgid "Registered attacks"
+msgstr "Opgeslagen aanvallen"
+
+#: plugins/function.bt_adminlinks.php:129
+msgid "System information"
+msgstr "Systeem informatie"
+
+#: plugins/function.bt_adminlinks.php:137
+msgid "Users settings"
+msgstr "Gebruiker instellingen"
+
+#: plugins/function.bt_adminlinks.php:141
+msgid "Account properties"
+msgstr "Account eigenschappen"
+
+#: plugins/function.bt_adminlinks.php:144
+msgid "Users"
+msgstr "Gebruikers"
+
+#: plugins/function.bt_adminlinks.php:146
+msgid "Manage groups"
+msgstr "Groepen beheren"
+
+#: plugins/function.bt_adminlinks.php:148
+msgid "Groups settings"
+msgstr "Groep instellingen"
+
+#: plugins/function.bt_adminlinks.php:151
+msgid "Manage users"
+msgstr "Gebruikers beheren"
+
+#: plugins/function.bt_adminlinks.php:154
+msgid "Create user"
+msgstr "Gebruiker aanmaken"
+
+#: plugins/function.bt_adminlinks.php:155
+msgid "Find and e-mail users"
+msgstr "Zoek en mail gebruikers"
+
+#: plugins/function.bt_adminlinks.php:164
+msgid "Template engine"
+msgstr "Template systeem"
+
+#: plugins/function.bt_adminlinks.php:166
+#: plugins/function.bt_adminlinks.php:172
+msgid "Clear compiled templates"
+msgstr "Wis gecompileerde templates"
+
+#: plugins/function.bt_adminlinks.php:167
+msgid "Clear pnRender cache"
+msgstr "Wis cache"
+
+#: plugins/function.bt_adminlinks.php:170
+msgid "Theme engine"
+msgstr "Theme systeem"
+
+#: plugins/function.bt_adminlinks.php:173
+msgid "Clear Theme cache"
+msgstr "Wis theme cache"
+
+#: plugins/function.bt_adminlinks.php:176
+msgid "Filesystem check"
+msgstr "Bestandssysteem controle"
+
+#: plugins/function.bt_adminlinks.php:177
+msgid "Temporary folder check"
+msgstr "Tijdelijke map controle"
+
+#: plugins/function.bt_adminlinks.php:180
+msgid "Routines"
+msgstr "Routines"
+
+#: plugins/function.bt_adminlinks.php:191
+#: plugins/function.bt_adminlinks.php:198
+#: plugins/function.bt_adminlinks.php:213
+#: plugins/function.bt_adminlinks.php:229
+#: plugins/function.bt_adminlinks.php:236
+#: plugins/function.bt_adminlinks.php:243
+#: plugins/function.bt_adminlinks.php:250
+#: plugins/function.bt_adminlinks.php:262
+#: plugins/function.bt_adminlinks.php:275
+#: plugins/function.bt_adminlinks.php:284
+msgid "View list"
+msgstr "Bekijk lijst"
+
+#: plugins/function.bt_adminlinks.php:192
+#: plugins/function.bt_adminlinks.php:199
+#: plugins/function.bt_adminlinks.php:205
+#: plugins/function.bt_adminlinks.php:214
+#: plugins/function.bt_adminlinks.php:221
+#: plugins/function.bt_adminlinks.php:230
+#: plugins/function.bt_adminlinks.php:237
+#: plugins/function.bt_adminlinks.php:244
+#: plugins/function.bt_adminlinks.php:251
+#: plugins/function.bt_adminlinks.php:263
+#: plugins/function.bt_adminlinks.php:269
+#: plugins/function.bt_adminlinks.php:276
+#: plugins/function.bt_adminlinks.php:285
+msgid "Settings"
+msgstr "Instellingen"
+
+#: plugins/function.bt_adminlinks.php:194
+msgid "Add an article"
+msgstr "Artikel toevoegen"
+
+#: plugins/function.bt_adminlinks.php:201
+msgid "Add a page"
+msgstr "Pagina toevoegen"
+
+#: plugins/function.bt_adminlinks.php:207
+msgid "Edit contents"
+msgstr "Inhoud bewerken"
+
+#: plugins/function.bt_adminlinks.php:216
+#: plugins/function.bt_adminlinks.php:223
+msgid "Add a download"
+msgstr "Download toevoegen"
+
+#: plugins/function.bt_adminlinks.php:220
+msgid "Add category"
+msgstr "Categorie toevoegen"
+
+#: plugins/function.bt_adminlinks.php:232
+msgid "Add a poll"
+msgstr "Peiling toevoegen"
+
+#: plugins/function.bt_adminlinks.php:239
+msgid "Add a FAQ"
+msgstr "FAQ toevoegen"
+
+#: plugins/function.bt_adminlinks.php:246
+msgid "Add a feed"
+msgstr "Feed toevoegen"
+
+#: plugins/function.bt_adminlinks.php:253
+msgid "Add a review"
+msgstr "Recensie toevoegen"
+
+#: plugins/function.bt_adminlinks.php:256
+msgid "Add a web link"
+msgstr "Web link toevoegen"
+
+#: plugins/function.bt_adminlinks.php:265
+#: plugins/function.bt_adminlinks.php:271
+#: plugins/function.bt_adminlinks.php:278
+msgid "Add a calendar event"
+msgstr "Kalender evenement toevoegen"
+
+#: plugins/function.bt_adminlinks.php:287
+msgid "Add an admin message"
+msgstr "Beheerders bericht toevoegen"
+
+#: plugins/function.bt_adminlinks.php:290
+msgid "Create content"
+msgstr "Inhoud aanmaken"
+
+#: plugins/function.bt_adminlinks.php:293
+#: plugins/function.bt_htmloutput.php:59
+msgid "Log out"
+msgstr "Uitloggen"
+
+#: plugins/function.bt_userlinks.php:52
+msgid "News"
+msgstr "Nieuws"
+
+#: plugins/function.bt_userlinks.php:56
+msgid "Pages"
+msgstr "Pagina's"
+
+#: plugins/function.bt_userlinks.php:60 plugins/function.bt_userlinks.php:64
+#: plugins/function.bt_userlinks.php:68
+msgid "Forums"
+msgstr "Forums"
+
+#: plugins/function.bt_userlinks.php:72
+msgid "Faq"
+msgstr "FAQ"
+
+#: plugins/function.bt_userlinks.php:76
+msgid "Wiki"
+msgstr "Wiki"
+
+#: plugins/function.bt_userlinks.php:80 plugins/function.bt_userlinks.php:84
+#: plugins/function.bt_userlinks.php:88
+msgid "Calendar"
+msgstr "Kalender"
+
+#: plugins/function.bt_userlinks.php:92 templates/footer.htm:14
+msgid "Contact"
+msgstr "Contact"
+
+#: plugins/function.bt_htmloutput.php:57
+msgid "Your account"
+msgstr "Mijn account"
+
+#: plugins/function.bt_htmloutput.php:61
+msgid "Register new account"
+msgstr "Nieuw account aanmaken"
+
+#: plugins/function.bt_htmloutput.php:62
+msgid "Login"
+msgstr "Inloggen"
+
+#: plugins/function.bt_htmloutput.php:95
+msgid "Increase font size"
+msgstr "Lettergrootte vergroten"
+
+#: plugins/function.bt_htmloutput.php:96
+msgid "Reset font size"
+msgstr "Lettergrootte terugzetten"
+
+#: plugins/function.bt_htmloutput.php:97
+msgid "Decrease font size"
+msgstr "Lettergrootte verkleinen"
+
+#: version.php:16
+msgid "BlankTheme"
+msgstr "BlankTheme"
+
+#: version.php:17
+msgid "Theme development framework for Zikula"
+msgstr "Theme ontwikkelings framework voor Zikula"
+
+#: templates/modules/admin.htm:16 templates/body/grid.htm:5
+#: templates/body/3col.htm:5 templates/body/2col.htm:5
+#: templates/body/3col231.htm:5
+msgid "Skip to navigation"
+msgstr "Spring naar navigatie"
+
+#: templates/modules/admin.htm:16 templates/modules/admin.htm:17
+#: templates/body/grid.htm:5 templates/body/grid.htm:6
+#: templates/body/3col.htm:5 templates/body/3col.htm:6
+#: templates/body/2col.htm:5 templates/body/2col.htm:6
+#: templates/body/3col231.htm:5 templates/body/3col231.htm:6
+msgid "(Press Enter)"
+msgstr "(Druk op Enter)"
+
+#: templates/modules/admin.htm:17 templates/body/grid.htm:6
+#: templates/body/3col.htm:6 templates/body/2col.htm:6
+#: templates/body/3col231.htm:6
+msgid "Skip to main content"
+msgstr "Spring naar de hoofd-inhoud"
+
+#: templates/modules/admin.htm:29 templates/body/grid.htm:19
+#: templates/body/3col.htm:19 templates/body/2col.htm:19
+#: templates/body/3col231.htm:19
+msgid "Go to the homepage"
+msgstr "Ga naar de startpagina"
+
+#: templates/modules/admin.htm:56
+msgid "http://community.zikula.org/"
+msgstr "http://zikula.nl/"
+
+#: templates/modules/admin.htm:56 templates/footer.htm:20
+msgid "Powered by Zikula"
+msgstr "Draait op Zikula"
+
+#: templates/body/grid.htm:18 templates/body/3col.htm:18
+#: templates/body/2col.htm:18 templates/body/3col231.htm:18
+msgid "logo"
+msgstr "logo"
+
+#: templates/footer.htm:12
+msgid "Terms of use"
+msgstr "Gebruiksvoorwaarden"
+
+#: templates/footer.htm:16
+msgid "Back to top"
+msgstr "Naar boven"
+
+#: templates/footer.htm:22
+msgid "Layout based on YAML"
+msgstr "Layout gebaseerd op YAML"
+
+#: templates/footer.htm:24
+msgid "Valid CSS"
+msgstr "Geldig CSS"
+
+#: templates/footer.htm:26
+msgid "Valid XHTML"
+msgstr "Geldig XHTML"

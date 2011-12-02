@@ -1,0 +1,3568 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-27 16:11+0200\n"
+"PO-Revision-Date: 2009-02-23 18:32+0200\n"
+"Last-Translator: Louis Kruger <zr6abc@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 1.2.1\n"
+
+# Essential terminology list for general software localisation
+# License: GPL
+# Copyright Youssef Chahibi, Friedel Wolff 2006
+
+#, fuzzy
+msgid "abort"
+msgstr "Stop"
+
+#, fuzzy
+msgid "absolute"
+msgstr "Verouderd"
+
+#, fuzzy
+msgid "abstract"
+msgstr "Abstrak"
+
+msgid "accelerator"
+msgstr "versneller"
+
+msgid "accent"
+msgstr "aksent"
+
+#, fuzzy
+msgid "accept"
+msgstr "Aanvaar"
+
+#, fuzzy
+msgid "access"
+msgstr "kaccess"
+
+#, fuzzy
+msgid "accessibility"
+msgstr "Toeganklikheid"
+
+msgid "accessory"
+msgstr ""
+
+#, fuzzy
+msgid "account"
+msgstr "Rekening"
+
+msgid "accuracy"
+msgstr "akkuraatheid"
+
+msgid "acquire"
+msgstr "verkry"
+
+msgid "acronym"
+msgstr "akroniem"
+
+#, fuzzy
+msgid "action"
+msgstr "Aksie"
+
+#, fuzzy
+msgid "activate"
+msgstr "Aktiveer"
+
+#, fuzzy
+msgid "active"
+msgstr "Aktief"
+
+msgid "activity"
+msgstr "aktiwiteit"
+
+msgid "adapter"
+msgstr ""
+
+msgid "add"
+msgstr "byvoeg"
+
+msgid "address"
+msgstr "adres"
+
+msgid "adjust"
+msgstr "verstel"
+
+msgid "administration"
+msgstr "administrasie"
+
+msgid "administrator"
+msgstr "administrateur"
+
+msgid "advanced"
+msgstr "gevorderd"
+
+msgid "agent"
+msgstr "agent"
+
+#, fuzzy
+msgid "agree"
+msgstr "ooreenstem"
+
+msgid "agreement"
+msgstr "ooreenkoms"
+
+msgid "alarm"
+msgstr "alarm"
+
+#, fuzzy
+msgid "alert"
+msgstr "Opmerksaam"
+
+msgid "algorithm"
+msgstr "algoritme"
+
+msgid "alias"
+msgstr "alias"
+
+#"تسنن" مع الرسوميات (الخطوط وخلافه)
+msgid "aliasing"
+msgstr ""
+
+msgid "align"
+msgstr "belyn"
+
+msgid "alignment"
+msgstr "belyning"
+
+msgid "allow"
+msgstr "toelaat"
+
+msgid "alphanumeric"
+msgstr "alfanumeries"
+
+msgid "alternative"
+msgstr "alternatief"
+
+#, fuzzy
+msgid "amount"
+msgstr "bedrag"
+
+msgid "analysis"
+msgstr "ontleding"
+
+msgid "anchor"
+msgstr "anker"
+
+msgid "angle"
+msgstr "hoek"
+
+msgid "animate"
+msgstr "animeer"
+
+msgid "animation"
+msgstr "animasie"
+
+msgid "announce"
+msgstr "aankondig"
+
+msgid "announcement"
+msgstr "aankondiging"
+
+msgid "anonymous"
+msgstr "anoniem"
+
+msgid "anti-aliasing"
+msgstr "anti-aliasering"
+
+msgid "anti virus"
+msgstr ""
+
+msgid "appear"
+msgstr "verskyn"
+
+#, fuzzy
+msgid "append"
+msgstr "aanheg"
+
+msgid "applet"
+msgstr ""
+
+msgid "application"
+msgstr "toepassing"
+
+#, fuzzy
+msgid "apply"
+msgstr "toepas"
+
+msgid "approval"
+msgstr "goekeuring"
+
+msgid "approve"
+msgstr "goedkeur"
+
+msgid "approximate"
+msgstr "ongeveer"
+
+msgid "arbitrary"
+msgstr "arbitrêr"
+
+msgid "archive"
+msgstr "argief"
+
+msgid "area"
+msgstr "area"
+
+msgid "argument"
+msgstr "argument"
+
+msgid "arrangement"
+msgstr "rangskikking"
+
+msgid "arrow"
+msgstr "pyl"
+
+msgid "article"
+msgstr "artikel"
+
+msgid "ascending"
+msgstr "stygend"
+
+msgid "aspect"
+msgstr "aspek"
+
+msgid "assign"
+msgstr "toeken"
+
+msgid "assignment"
+msgstr "opdrag"
+
+msgid "asynchronous"
+msgstr "asinchroon"
+
+msgid "attach"
+msgstr "aanheg"
+
+msgid "attachment"
+msgstr "aanhegsels"
+
+#, fuzzy
+msgid "attempt"
+msgstr "poging"
+
+msgid "attribute"
+msgstr "kenmerk"
+
+#, fuzzy
+msgid "audio"
+msgstr "Oudio"
+
+msgid "authenticate"
+msgstr "waarmerk"
+
+msgid "authentication"
+msgstr "waarmerking"
+
+msgid "authorization"
+msgstr "magtiging"
+
+msgid "authorize"
+msgstr "magtig"
+
+msgid "auto"
+msgstr "outo"
+
+msgid "automatic"
+msgstr "outomaties"
+
+msgid "availability"
+msgstr "beskikbaarheid"
+
+msgid "available"
+msgstr "beskikbaar"
+
+msgid "average"
+msgstr "gemiddelde"
+
+msgid "axis"
+msgstr "as"
+
+msgid "backbone"
+msgstr "ruggraat"
+
+msgid "back-end"
+msgstr "agterkant"
+
+msgid "background"
+msgstr "agtergrond"
+
+msgid "backup"
+msgstr "rugsteun"
+
+msgid "bandwidth"
+msgstr "bandwydte"
+
+msgid "banner"
+msgstr "banier"
+
+#, fuzzy
+msgid "bar"
+msgstr "staaf"
+
+msgid "base"
+msgstr "basis"
+
+msgid "beep"
+msgstr "biep"
+
+msgid "begin"
+msgstr "begin"
+
+msgid "behavior"
+msgstr "gedrag"
+
+msgid "binary"
+msgstr "binêre"
+
+msgid "bind"
+msgstr "bind"
+
+msgid "bit"
+msgstr "bis"
+
+msgid "bitmap"
+msgstr "biskaart"
+
+#, fuzzy
+msgid "blank"
+msgstr "Leë"
+
+msgid "blink"
+msgstr "flits"
+
+msgid "block (unit)"
+msgstr "blok (eenheid)"
+
+msgid "block (verb)"
+msgstr "blok (werkwoord)"
+
+#, fuzzy
+msgid "blog"
+msgstr "blob"
+
+msgid "blur"
+msgstr "verdof"
+
+msgid "board"
+msgstr "bord"
+
+msgid "body"
+msgstr "liggaam"
+
+#, fuzzy
+msgid "bold"
+msgstr "vet"
+
+msgid "bookmarks"
+msgstr "boekmerke"
+
+msgid "boot"
+msgstr "skop"
+
+msgid "border"
+msgstr "grens"
+
+msgid "box"
+msgstr "boks"
+
+msgid "bracket"
+msgstr ""
+
+msgid "branch"
+msgstr "vertak"
+
+msgid "break"
+msgstr "breek"
+
+msgid "break (program)"
+msgstr ""
+
+msgid "break point"
+msgstr "breekpunt"
+
+msgid "bridge (verb)"
+msgstr "oorbrug (werkwoord)"
+
+msgid "bridge (noun)"
+msgstr "brug (selfstandige naamwoord)"
+
+msgid "broken"
+msgstr "gebreek"
+
+#, fuzzy
+msgid "browse"
+msgstr "Blaaiers"
+
+#, fuzzy
+msgid "browser"
+msgstr "Blaaiers"
+
+msgid "buffer"
+msgstr "buffer"
+
+msgid "bug"
+msgstr "gogga"
+
+msgid "build"
+msgstr "bou"
+
+msgid "built-in"
+msgstr "ingeboude"
+
+msgid "bullet"
+msgstr "patroon"
+
+msgid "bus"
+msgstr "bus"
+
+msgid "button"
+msgstr "knoppie"
+
+msgid "byte"
+msgstr "greep"
+
+msgid "cable"
+msgstr "kabel"
+
+msgid "cache"
+msgstr "kas"
+
+msgid "calculate"
+msgstr "bereken"
+
+msgid "calculator"
+msgstr "rekenaar"
+
+msgid "calendar"
+msgstr "kalender"
+
+msgid "call"
+msgstr "roep"
+
+msgid "camera"
+msgstr "kamera"
+
+msgid "cancel"
+msgstr "kanselleer"
+
+msgid "capability"
+msgstr "vermoë"
+
+#, fuzzy
+msgid "capacity"
+msgstr "vermoë"
+
+msgid "caption"
+msgstr "byskrif"
+
+msgid "capture"
+msgstr "vang"
+
+msgid "card"
+msgstr "kaart"
+
+msgid "case"
+msgstr "geval"
+
+msgid "case (font)"
+msgstr "kas"
+
+msgid "catalog"
+msgstr "katalogusse"
+
+msgid "category"
+msgstr "kategorie"
+
+msgid "cell"
+msgstr "sel"
+
+msgid "certificate"
+msgstr "sertifikaat"
+
+msgid "certify"
+msgstr "sertifiseer"
+
+msgid "change"
+msgstr "verander"
+
+msgid "channel"
+msgstr "kanale"
+
+msgid "character"
+msgstr "karakter"
+
+#, fuzzy
+msgid "charset"
+msgstr "Karakterstel"
+
+#, fuzzy
+msgid "chart"
+msgstr "karakter"
+
+#, fuzzy
+msgid "chat"
+msgstr "karakter"
+
+msgid "check"
+msgstr ""
+
+#, fuzzy
+msgid "check box"
+msgstr "Keuseblokkie"
+
+msgid "child"
+msgstr ""
+
+msgid "choice"
+msgstr ""
+
+msgid "choose"
+msgstr ""
+
+#, fuzzy
+msgid "class"
+msgstr "Klas"
+
+#, fuzzy
+msgid "classic"
+msgstr "Klasiek"
+
+#, fuzzy
+msgid "classify"
+msgstr "Klasiek"
+
+#, fuzzy
+msgid "clean"
+msgstr "Maak skoon"
+
+#, fuzzy
+msgid "clear"
+msgstr "Maak skoon"
+
+msgid "click (noun)"
+msgstr ""
+
+#, fuzzy
+msgid "click (verb)"
+msgstr "blok (werkwoord)"
+
+#, fuzzy
+msgid "client"
+msgstr "Kliënt"
+
+msgid "clip art"
+msgstr ""
+
+#, fuzzy
+msgid "clip board"
+msgstr "Klipbord"
+
+#, fuzzy
+msgid "clock"
+msgstr "Horlosie"
+
+#, fuzzy
+msgid "close"
+msgstr "Maak toe"
+
+msgid "code (program)"
+msgstr ""
+
+msgid "code (symbol)"
+msgstr ""
+
+msgid "codec"
+msgstr ""
+
+msgid "collapse"
+msgstr ""
+
+#, fuzzy
+msgid "collect"
+msgstr "Ontvang van"
+
+#, fuzzy
+msgid "column"
+msgstr "Kolom"
+
+# حويل الشفرة المصرية إلى ملفات ثنائية (برمجة
+#, fuzzy
+msgid "combination"
+msgstr "Samestelling"
+
+#, fuzzy
+msgid "comma"
+msgstr "Comma"
+
+#, fuzzy
+msgid "command"
+msgstr "Opdrag"
+
+msgid "comment"
+msgstr "kommentaar"
+
+#, fuzzy
+msgid "common"
+msgstr "Gemeenskaplike"
+
+#, fuzzy
+msgid "communication"
+msgstr "Kommunikasie"
+
+msgid "compact"
+msgstr ""
+
+#, fuzzy
+msgid "compare"
+msgstr "Vergelyk"
+
+msgid "compatibility"
+msgstr ""
+
+msgid "compatible"
+msgstr ""
+
+#تحويل الشفرة المصرية إلى ملفات ثنائية (برمجة
+#, fuzzy
+msgid "compilation"
+msgstr "Samestelling"
+
+#, fuzzy
+msgid "compile"
+msgstr "Saamsteller"
+
+#, fuzzy
+msgid "compiler"
+msgstr "Saamsteller"
+
+msgid "complete"
+msgstr "volledig"
+
+#, fuzzy
+msgid "component"
+msgstr "Komponent"
+
+#, fuzzy
+msgid "compose"
+msgstr "Saamsteller"
+
+msgid "composition"
+msgstr ""
+
+msgid "compress"
+msgstr ""
+
+#, fuzzy
+msgid "compression"
+msgstr "Saampersing"
+
+#, fuzzy
+msgid "computer"
+msgstr "Rekenaar"
+
+msgid "computing"
+msgstr ""
+
+msgid "concatenate"
+msgstr ""
+
+msgid "concurrent"
+msgstr ""
+
+msgid "condense"
+msgstr ""
+
+#, fuzzy
+msgid "condition"
+msgstr "Kondisie"
+
+#, fuzzy
+msgid "configuration"
+msgstr "Konfigurasie"
+
+#, fuzzy
+msgid "configure"
+msgstr "Stel op"
+
+#, fuzzy
+msgid "confirm"
+msgstr "Bevestig"
+
+#, fuzzy
+msgid "confirmation"
+msgstr "Bevestiging"
+
+#, fuzzy
+msgid "conflict"
+msgstr "konflik"
+
+#, fuzzy
+msgid "connect"
+msgstr "Koppel"
+
+#, fuzzy
+msgid "connection"
+msgstr "Verbinding"
+
+#, fuzzy
+msgid "console"
+msgstr "Konsole"
+
+msgid "contact (noun)"
+msgstr ""
+
+msgid "contact (verb)"
+msgstr ""
+
+#, fuzzy
+msgid "content"
+msgstr "Inhoud"
+
+#, fuzzy
+msgid "context"
+msgstr "Konteks"
+
+#, fuzzy
+msgid "continue"
+msgstr "Gaan voort"
+
+#, fuzzy
+msgid "contrast"
+msgstr "Kontras"
+
+#, fuzzy
+msgid "contributor"
+msgstr "Bydraer"
+
+#, fuzzy
+msgid "control"
+msgstr "Kontrole"
+
+#, fuzzy
+msgid "conversion"
+msgstr "Omskakeling"
+
+#, fuzzy
+msgid "convert"
+msgstr "Skakel om"
+
+msgid "cookie"
+msgstr ""
+
+msgid "cooperative"
+msgstr ""
+
+#, fuzzy
+msgid "coordinate"
+msgstr "X Koordinaat"
+
+msgid "copy (noun)"
+msgstr ""
+
+msgid "copy (verb)"
+msgstr ""
+
+#, fuzzy
+msgid "copy left"
+msgstr "Bo links"
+
+#, fuzzy
+msgid "copy right"
+msgstr "Kopie reg"
+
+#, fuzzy
+msgid "correct"
+msgstr "Korrek"
+
+msgid "correspondence"
+msgstr ""
+
+msgid "correspondent"
+msgstr ""
+
+msgid "corrupt"
+msgstr ""
+
+#, fuzzy
+msgid "count"
+msgstr "Mount"
+
+msgid "countable"
+msgstr ""
+
+#, fuzzy
+msgid "crash"
+msgstr "Omval"
+
+#, fuzzy
+msgid "create"
+msgstr "Skep"
+
+#, fuzzy
+msgid "creation"
+msgstr "Ontspanning"
+
+#, fuzzy
+msgid "criteria"
+msgstr "Kriterië"
+
+#, fuzzy
+msgid "crop"
+msgstr "Laat val"
+
+msgid "cross-platform"
+msgstr ""
+
+msgid "crypt"
+msgstr ""
+
+msgid "cryptology"
+msgstr ""
+
+#, fuzzy
+msgid "current"
+msgstr "Huidige"
+
+#, fuzzy
+msgid "cursor"
+msgstr "Plekaanduier"
+
+msgid "curve"
+msgstr ""
+
+#, fuzzy
+msgid "custom"
+msgstr "Pasmaak"
+
+msgid "customization"
+msgstr ""
+
+#, fuzzy
+msgid "customize"
+msgstr "Pasmaak"
+
+msgid "cut"
+msgstr ""
+
+msgid "cycle"
+msgstr ""
+
+#, fuzzy
+msgid "daemon"
+msgstr "Bediener"
+
+msgid "damage"
+msgstr ""
+
+#, fuzzy
+msgid "data"
+msgstr "Data"
+
+#, fuzzy
+msgid "database"
+msgstr "Databasis"
+
+msgid "debug"
+msgstr ""
+
+#, fuzzy
+msgid "debugger"
+msgstr "Ontfouter"
+
+#, fuzzy
+msgid "decimal"
+msgstr "Desimaal"
+
+msgid "decode"
+msgstr ""
+
+msgid "decompress"
+msgstr ""
+
+#, fuzzy
+msgid "decrease"
+msgstr "Herskep"
+
+msgid "decrypt"
+msgstr ""
+
+#, fuzzy
+msgid "decryption"
+msgstr "beskrywing"
+
+msgid "default"
+msgstr "standaard"
+
+msgid "defect"
+msgstr ""
+
+msgid "define"
+msgstr ""
+
+msgid "definition"
+msgstr ""
+
+#, fuzzy
+msgid "degree"
+msgstr "grade"
+
+#, fuzzy
+msgid "delay"
+msgstr "Oordra"
+
+#, fuzzy
+msgid "delete"
+msgstr "Vee Uit"
+
+#, fuzzy
+msgid "deletion"
+msgstr "Keuse"
+
+#, fuzzy
+msgid "delimiter"
+msgstr "Skeisimbool"
+
+msgid "demo"
+msgstr ""
+
+#, fuzzy
+msgid "deny"
+msgstr "Verbied"
+
+#, fuzzy
+msgid "dependence"
+msgstr "afhanklikes"
+
+#, fuzzy
+msgid "dependency"
+msgstr "afhanklikes"
+
+#, fuzzy
+msgid "depth"
+msgstr "Diepte"
+
+msgid "derived"
+msgstr ""
+
+msgid "descending"
+msgstr "afgaande"
+
+msgid "description"
+msgstr "beskrywing"
+
+#, fuzzy
+msgid "deselect"
+msgstr "Ontkies"
+
+msgid "design"
+msgstr ""
+
+#, fuzzy
+msgid "desktop"
+msgstr ".werkskerm"
+
+#, fuzzy
+msgid "destination"
+msgstr "Bestemming"
+
+msgid "destroy"
+msgstr ""
+
+#, fuzzy
+msgid "detach"
+msgstr "Maak los"
+
+msgid "detect"
+msgstr ""
+
+#, fuzzy
+msgid "develop"
+msgstr "ontwikkelaar"
+
+msgid "development"
+msgstr ""
+
+msgid "developer"
+msgstr "ontwikkelaar"
+
+#, fuzzy
+msgid "device"
+msgstr "Toestel"
+
+msgid "diagram"
+msgstr ""
+
+#, fuzzy
+msgid "dial"
+msgstr "Dial"
+
+#, fuzzy
+msgid "dialog"
+msgstr "Dialoog"
+
+msgid "dialup"
+msgstr ""
+
+msgid "difference"
+msgstr "verskil"
+
+#, fuzzy
+msgid "digit"
+msgstr "Syfer"
+
+#, fuzzy
+msgid "digital"
+msgstr "Digitaal"
+
+#, fuzzy
+msgid "dimension"
+msgstr "Dimensies"
+
+#, fuzzy
+msgid "directory"
+msgstr "Gids"
+
+#, fuzzy
+msgid "disable"
+msgstr "gestremde"
+
+msgid "disc"
+msgstr "skyf"
+
+#, fuzzy
+msgid "discard"
+msgstr "Gooi weg"
+
+#, fuzzy
+msgid "disconnect"
+msgstr "Ontkoppel"
+
+msgid "discussion"
+msgstr ""
+
+msgid "disk"
+msgstr "skyf"
+
+msgid "dispatch"
+msgstr ""
+
+#, fuzzy
+msgid "display"
+msgstr "Vertoon"
+
+msgid "distort"
+msgstr ""
+
+#, fuzzy
+msgid "distribute"
+msgstr "Versprei"
+
+msgid "distribution"
+msgstr "verspreiding"
+
+#, fuzzy
+msgid "distributor"
+msgstr "verspreiding"
+
+#, fuzzy
+msgid "dock"
+msgstr "Sluit"
+
+#, fuzzy
+msgid "document"
+msgstr "Dokument"
+
+#, fuzzy
+msgid "documentation"
+msgstr "Dokumentasie"
+
+#, fuzzy
+msgid "domain"
+msgstr "Domein"
+
+#, fuzzy
+msgid "double click"
+msgstr "Dubbel Kliek"
+
+#, fuzzy
+msgid "download"
+msgstr "Aflaai"
+
+#, fuzzy
+msgid "drag"
+msgstr "Trek"
+
+#, fuzzy
+msgid "draw"
+msgstr "Teken"
+
+#, fuzzy
+msgid "driver"
+msgstr "Drywer"
+
+#, fuzzy
+msgid "dual"
+msgstr "Dubbel"
+
+msgid "dump"
+msgstr ""
+
+msgid "duplicate"
+msgstr "duplikaat"
+
+msgid "dynamic"
+msgstr ""
+
+#, fuzzy
+msgid "echo"
+msgstr "Ego"
+
+#, fuzzy
+msgid "edit"
+msgstr "Redigeer"
+
+#, fuzzy
+msgid "edition"
+msgstr "Byvoeging"
+
+#, fuzzy
+msgid "editor"
+msgstr "Redigeerder"
+
+msgid "effect"
+msgstr ""
+
+#, fuzzy
+msgid "eject"
+msgstr "Verwerp"
+
+msgid "electronic"
+msgstr ""
+
+#, fuzzy
+msgid "element"
+msgstr "Element"
+
+msgid "email"
+msgstr "e-pos"
+
+msgid "embed"
+msgstr ""
+
+msgid "emoticon"
+msgstr ""
+
+msgid "empty"
+msgstr "leeg"
+
+#, fuzzy
+msgid "emulate"
+msgstr "Sjabloon"
+
+msgid "emulation"
+msgstr ""
+
+#, fuzzy
+msgid "emulator"
+msgstr "Sjabloon"
+
+#, fuzzy
+msgid "enable"
+msgstr "geaktiveer"
+
+msgid "enabled"
+msgstr "geaktiveer"
+
+#, fuzzy
+msgid "encode"
+msgstr "Enkodeer"
+
+#, fuzzy
+msgid "encoding"
+msgstr "Enkodering"
+
+#, fuzzy
+msgid "encrypt"
+msgstr "Enkripteer"
+
+#, fuzzy
+msgid "encrypted"
+msgstr "Enkripteer"
+
+#, fuzzy
+msgid "encryption"
+msgstr "Enkripsie:"
+
+#, fuzzy
+msgid "engine"
+msgstr "Enjin"
+
+msgid "enhancement"
+msgstr ""
+
+msgid "enlarge"
+msgstr ""
+
+msgid "enlargement"
+msgstr ""
+
+#, fuzzy
+msgid "enter"
+msgstr "Middel"
+
+msgid "entertainment"
+msgstr ""
+
+msgid "entry"
+msgstr ""
+
+msgid "environment"
+msgstr ""
+
+#, fuzzy
+msgid "equalizer"
+msgstr "Band menger"
+
+msgid "erase"
+msgstr ""
+
+#, fuzzy
+msgid "error"
+msgstr "Fout"
+
+#, fuzzy
+msgid "escape"
+msgstr "Escape"
+
+msgid "evaluation"
+msgstr ""
+
+#, fuzzy
+msgid "event"
+msgstr "Gebeurtenis"
+
+#, fuzzy
+msgid "exception"
+msgstr "Uitsonderings"
+
+#, fuzzy
+msgid "executable"
+msgstr "Uitvoerbare program"
+
+#, fuzzy
+msgid "execute"
+msgstr "Uitvoer"
+
+msgid "existing"
+msgstr ""
+
+#, fuzzy
+msgid "exit"
+msgstr "Beïendig"
+
+msgid "expand"
+msgstr ""
+
+#, fuzzy
+msgid "expansion"
+msgstr "Uitbreiding"
+
+msgid "explore"
+msgstr ""
+
+#, fuzzy
+msgid "export"
+msgstr "Voer uit"
+
+#, fuzzy
+msgid "expression"
+msgstr "Uitdrukking"
+
+msgid "extend"
+msgstr ""
+
+msgid "extensible"
+msgstr ""
+
+#, fuzzy
+msgid "extension"
+msgstr "Uitbreiding"
+
+#, fuzzy
+msgid "external"
+msgstr "Interval"
+
+msgid "extra"
+msgstr ""
+
+#, fuzzy
+msgid "extract"
+msgstr "Uitpak"
+
+#, fuzzy
+msgid "fail"
+msgstr "Tronk"
+
+# فادح: مثل خطأ فادح
+msgid "fatal"
+msgstr ""
+
+#, fuzzy
+msgid "fault"
+msgstr "foutiewe"
+
+#, fuzzy
+msgid "favorite"
+msgstr "Gunsteling"
+
+#, fuzzy
+msgid "feature"
+msgstr "Funksie"
+
+#, fuzzy
+msgid "feed"
+msgstr "voet"
+
+msgid "feedback"
+msgstr ""
+
+#, fuzzy
+msgid "fetch"
+msgstr "Gaan haal"
+
+#, fuzzy
+msgid "field"
+msgstr "Veld"
+
+msgid "figure"
+msgstr ""
+
+msgid "file"
+msgstr "lêer"
+
+#, fuzzy
+msgid "fill"
+msgstr "Opvul"
+
+msgid "filter"
+msgstr "filter"
+
+#, fuzzy
+msgid "find"
+msgstr "Bind"
+
+msgid "firewall"
+msgstr ""
+
+#, fuzzy
+msgid "firmware"
+msgstr "Firmware:"
+
+msgid "fit"
+msgstr ""
+
+msgid "fix"
+msgstr ""
+
+#, fuzzy
+msgid "flag"
+msgstr "Vlag"
+
+#, fuzzy
+msgid "flash"
+msgstr "Slash"
+
+#, fuzzy
+msgid "flat"
+msgstr "dryf"
+
+msgid "flip"
+msgstr ""
+
+#, fuzzy
+msgid "float (verb)"
+msgstr "blok (werkwoord)"
+
+msgid "flood"
+msgstr ""
+
+#, fuzzy
+msgid "floppy"
+msgstr "Sagteskyf"
+
+#, fuzzy
+msgid "folder"
+msgstr "Gids"
+
+#, fuzzy
+msgid "font"
+msgstr "voor"
+
+#, fuzzy
+msgid "footer"
+msgstr "Voetskrif"
+
+#, fuzzy
+msgid "form"
+msgstr "vir"
+
+msgid "format (noun)"
+msgstr ""
+
+msgid "format (verb)"
+msgstr ""
+
+msgid "formatted"
+msgstr ""
+
+#, fuzzy
+msgid "formula"
+msgstr "Formule"
+
+#, fuzzy
+msgid "forum"
+msgstr "vir"
+
+msgid "fragment"
+msgstr ""
+
+#, fuzzy
+msgid "frame"
+msgstr "Raam"
+
+msgid "frame set"
+msgstr ""
+
+#, fuzzy
+msgid "framework"
+msgstr "Raamwerk"
+
+msgid "free software"
+msgstr ""
+
+#, fuzzy
+msgid "freeze"
+msgstr "Vries"
+
+#, fuzzy
+msgid "frequency"
+msgstr "Frekwensie:"
+
+msgid "front end"
+msgstr ""
+
+#, fuzzy
+msgid "function"
+msgstr "Funksie"
+
+#, fuzzy
+msgid "gallery"
+msgstr "Galery"
+
+#, fuzzy
+msgid "game"
+msgstr "Naam"
+
+#, fuzzy
+msgid "gateway"
+msgstr "Portaal"
+
+#, fuzzy
+msgid "generate"
+msgstr "Genereer"
+
+msgid "generation"
+msgstr ""
+
+#, fuzzy
+msgid "generator"
+msgstr "Genereer"
+
+#, fuzzy
+msgid "generic"
+msgstr "Generies"
+
+#, fuzzy
+msgid "geometric"
+msgstr "Geometrie"
+
+#, fuzzy
+msgid "geometry"
+msgstr "Geometrie"
+
+msgid "grab"
+msgstr ""
+
+#, fuzzy
+msgid "gradient"
+msgstr "Gradiënt"
+
+msgid "grain"
+msgstr ""
+
+msgid "graph"
+msgstr ""
+
+#, fuzzy
+msgid "graphic"
+msgstr "Grafieka"
+
+#, fuzzy
+msgid "graphical"
+msgstr "Grafieka"
+
+#, fuzzy
+msgid "graphics"
+msgstr "Grafieka"
+
+#, fuzzy
+msgid "gray-scale"
+msgstr "Gryskleur"
+
+#, fuzzy
+msgid "grid"
+msgstr "Rooster"
+
+msgid "group"
+msgstr "groep"
+
+msgid "guess"
+msgstr ""
+
+msgid "guest"
+msgstr ""
+
+msgid "handle (noun)"
+msgstr ""
+
+msgid "handle (verb)"
+msgstr ""
+
+msgid "handler"
+msgstr ""
+
+#, fuzzy
+msgid "hardware"
+msgstr "Harde ware"
+
+#, fuzzy
+msgid "hash"
+msgstr "Bash"
+
+#, fuzzy
+msgid "head"
+msgstr "Lei"
+
+#, fuzzy
+msgid "header"
+msgstr "Leser"
+
+msgid "height"
+msgstr "hoogte"
+
+#, fuzzy
+msgid "help"
+msgstr "Hulp"
+
+#, fuzzy
+msgid "hide"
+msgstr "Steek weg"
+
+#, fuzzy
+msgid "hierarchy"
+msgstr "Hiërargie"
+
+msgid "high light"
+msgstr ""
+
+#, fuzzy
+msgid "history"
+msgstr "Geskiedenis"
+
+#, fuzzy
+msgid "host"
+msgstr "Bediener"
+
+#, fuzzy
+msgid "hostname"
+msgstr "Bediener naam"
+
+msgid "hyperlink"
+msgstr ""
+
+msgid "hypertext"
+msgstr ""
+
+#, fuzzy
+msgid "icon"
+msgstr "ikoone"
+
+#, fuzzy
+msgid "identify"
+msgstr "Identifiseer"
+
+msgid "idle"
+msgstr "luier"
+
+#, fuzzy
+msgid "ignore"
+msgstr "Ignoreer"
+
+#, fuzzy
+msgid "image"
+msgstr "Beeld"
+
+msgid "implement"
+msgstr ""
+
+#, fuzzy
+msgid "import"
+msgstr "Voer In"
+
+#, fuzzy
+msgid "inactive"
+msgstr "Onaktief"
+
+msgid "inbox"
+msgstr ""
+
+msgid "inch"
+msgstr "duim"
+
+msgid "include"
+msgstr ""
+
+#, fuzzy
+msgid "incoming"
+msgstr "Inkomende/"
+
+msgid "incompatible"
+msgstr ""
+
+#, fuzzy
+msgid "increase"
+msgstr "Herskep"
+
+#, fuzzy
+msgid "increment"
+msgstr "inkrementeel"
+
+#, fuzzy
+msgid "indent"
+msgstr "Inkeep"
+
+#, fuzzy
+msgid "index"
+msgstr "Indeks"
+
+msgid "indice"
+msgstr ""
+
+msgid "infect"
+msgstr ""
+
+msgid "infinite"
+msgstr "oneindig"
+
+#, fuzzy
+msgid "information"
+msgstr "Informasie"
+
+msgid "infrared"
+msgstr ""
+
+msgid "initial"
+msgstr ""
+
+#, fuzzy
+msgid "initialize"
+msgstr "Inisialiseer"
+
+#, fuzzy
+msgid "input"
+msgstr "Invoer"
+
+#, fuzzy
+msgid "insert"
+msgstr "Insert"
+
+#, fuzzy
+msgid "install"
+msgstr "Installeer"
+
+#, fuzzy
+msgid "installer"
+msgstr "Geïnstalleer"
+
+#, fuzzy
+msgid "instance"
+msgstr "Voorbeeld"
+
+msgid "instruction"
+msgstr ""
+
+#, fuzzy
+msgid "integer"
+msgstr "Heelgetal"
+
+#, fuzzy
+msgid "integral"
+msgstr "Interval"
+
+msgid "integrate"
+msgstr ""
+
+#, fuzzy
+msgid "integration"
+msgstr "Operasie"
+
+#, fuzzy
+msgid "integrity"
+msgstr "Intensiteit"
+
+#, fuzzy
+msgid "intensity"
+msgstr "Intensiteit"
+
+msgid "interactivity"
+msgstr ""
+
+#, fuzzy
+msgid "interface"
+msgstr "Koppelvlak"
+
+#, fuzzy
+msgid "internal"
+msgstr "Interval"
+
+#, fuzzy
+msgid "internet"
+msgstr "Internet"
+
+#, fuzzy
+msgid "interrupt"
+msgstr "Interrupt"
+
+msgid "invalid"
+msgstr "ongeldig"
+
+#, fuzzy
+msgid "inverse"
+msgstr "Omgekeerde"
+
+#, fuzzy
+msgid "invert"
+msgstr "Omkeer"
+
+msgid "invoke"
+msgstr ""
+
+#, fuzzy
+msgid "italic"
+msgstr "Kursief"
+
+#, fuzzy
+msgid "item"
+msgstr "Item"
+
+#, fuzzy
+msgid "iteration"
+msgstr "Operasie"
+
+msgid "jag"
+msgstr ""
+
+msgid "jam"
+msgstr ""
+
+msgid "job"
+msgstr ""
+
+#, fuzzy
+msgid "join"
+msgstr "Aansluit by"
+
+msgid "joy stick"
+msgstr ""
+
+msgid "jump"
+msgstr ""
+
+msgid "junk"
+msgstr ""
+
+msgid "justify"
+msgstr ""
+
+#, fuzzy
+msgid "keep"
+msgstr "Biep"
+
+#, fuzzy
+msgid "kernel"
+msgstr "Kernel"
+
+msgid "key"
+msgstr ""
+
+#, fuzzy
+msgid "keyboard"
+msgstr "Sleutelbord"
+
+msgid "key stroke"
+msgstr ""
+
+#, fuzzy
+msgid "key word"
+msgstr "Sleutelwoord"
+
+#, fuzzy
+msgid "label"
+msgstr "Etiket"
+
+msgid "landscape"
+msgstr "landskap"
+
+#, fuzzy
+msgid "language"
+msgstr "Taal"
+
+#, fuzzy
+msgid "laptop"
+msgstr "Skootrekenaar"
+
+#, fuzzy
+msgid "launch"
+msgstr "Lanseer"
+
+#, fuzzy
+msgid "layer"
+msgstr "Speler"
+
+#, fuzzy
+msgid "layout"
+msgstr "Uitleg"
+
+#, fuzzy
+msgid "length"
+msgstr "Lengte"
+
+#, fuzzy
+msgid "license"
+msgstr "Lisensie"
+
+#, fuzzy
+msgid "line"
+msgstr "linne"
+
+msgid "link"
+msgstr "skakel"
+
+#, fuzzy
+msgid "list"
+msgstr "Lys"
+
+#, fuzzy
+msgid "load"
+msgstr "Laai"
+
+msgid "local"
+msgstr "plaaslike"
+
+msgid "localization"
+msgstr ""
+
+#, fuzzy
+msgid "location"
+msgstr "Ligging"
+
+#, fuzzy
+msgid "log"
+msgstr "blob"
+
+msgid "lookup"
+msgstr ""
+
+#, fuzzy
+msgid "lower-case"
+msgstr "Onderste kas"
+
+#, fuzzy
+msgid "machine"
+msgstr "Masjien"
+
+msgid "main board"
+msgstr ""
+
+msgid "maintainer"
+msgstr "onderhouer"
+
+msgid "maintenance"
+msgstr ""
+
+#, fuzzy
+msgid "manage"
+msgstr "Bestuurder"
+
+#, fuzzy
+msgid "management"
+msgstr "Bestuuring"
+
+#, fuzzy
+msgid "manager"
+msgstr "Bestuurder"
+
+#, fuzzy
+msgid "manual"
+msgstr "Self"
+
+msgid "margin"
+msgstr ""
+
+#, fuzzy
+msgid "mark"
+msgstr "ark"
+
+#, fuzzy
+msgid "master"
+msgstr "remaster"
+
+#, fuzzy
+msgid "match"
+msgstr "Waarneem"
+
+#, fuzzy
+msgid "maximize"
+msgstr "Maksimeer"
+
+#, fuzzy
+msgid "memory"
+msgstr "Geheue"
+
+#, fuzzy
+msgid "menu"
+msgstr "Kieslys"
+
+msgid "merge"
+msgstr "saamvlans"
+
+#, fuzzy
+msgid "message"
+msgstr "Boodskap"
+
+#, fuzzy
+msgid "method"
+msgstr "Metode"
+
+#, fuzzy
+msgid "minimize"
+msgstr "Minimeer"
+
+#, fuzzy
+msgid "mode"
+msgstr "modem"
+
+msgid "modem"
+msgstr "modem"
+
+#, fuzzy
+msgid "moderator"
+msgstr "moderated"
+
+#, fuzzy
+msgid "modify"
+msgstr "Verander"
+
+#, fuzzy
+msgid "module"
+msgstr "Module"
+
+#, fuzzy
+msgid "monitor"
+msgstr "Monitor"
+
+msgid "mosaic"
+msgstr ""
+
+msgid "motion"
+msgstr ""
+
+#, fuzzy
+msgid "mouse"
+msgstr "Muis"
+
+#, fuzzy
+msgid "move"
+msgstr "Liefde"
+
+msgid "multimedia"
+msgstr ""
+
+msgid "multitasking"
+msgstr ""
+
+msgid "name"
+msgstr "naam"
+
+#, fuzzy
+msgid "navigation"
+msgstr "Navigering"
+
+#, fuzzy
+msgid "navigator"
+msgstr "Navigering"
+
+#, fuzzy
+msgid "network"
+msgstr "Netwerk"
+
+#, fuzzy
+msgid "news group"
+msgstr "nuwe groep"
+
+#, fuzzy
+msgid "next"
+msgstr "Volgende"
+
+#, fuzzy
+msgid "nick name"
+msgstr "By naam:"
+
+msgid "no"
+msgstr "Nee"
+
+#, fuzzy
+msgid "node"
+msgstr "geen"
+
+#, fuzzy
+msgid "notation"
+msgstr "Rotering"
+
+#, fuzzy
+msgid "note"
+msgstr "geen"
+
+msgid "notebook"
+msgstr ""
+
+#, fuzzy
+msgid "notification"
+msgstr "Inkennisstelling"
+
+msgid "notify"
+msgstr ""
+
+# في الرياضيات "صفر"
+# الصفة "منعدم"
+#, fuzzy
+msgid "null"
+msgstr "Vol"
+
+#, fuzzy
+msgid "number"
+msgstr "Nommer"
+
+#, fuzzy
+msgid "numbering"
+msgstr "Nommering"
+
+#, fuzzy
+msgid "object"
+msgstr "Voorwerp"
+
+#, fuzzy
+msgid "occurrence"
+msgstr "Voorkoms"
+
+msgid "octet"
+msgstr ""
+
+#, fuzzy
+msgid "offline"
+msgstr "Af-lyn"
+
+msgid "OK"
+msgstr "Goed"
+
+msgid "online"
+msgstr ""
+
+msgid "ongoing"
+msgstr ""
+
+#, fuzzy
+msgid "opacity"
+msgstr "Ondeursigtigheid"
+
+#, fuzzy
+msgid "opaque"
+msgstr "Opaque"
+
+#, fuzzy
+msgid "open"
+msgstr "Maak oop"
+
+#, fuzzy
+msgid "operation"
+msgstr "Operasie"
+
+#, fuzzy
+msgid "option"
+msgstr "Opsie"
+
+#, fuzzy
+msgid "optional"
+msgstr "Opsionele"
+
+#, fuzzy
+msgid "order"
+msgstr "Grens"
+
+msgid "organize"
+msgstr ""
+
+#, fuzzy
+msgid "orientation"
+msgstr "Oriëntasie"
+
+msgid "original"
+msgstr "oorspronklike"
+
+msgid "outgoing"
+msgstr ""
+
+msgid "output"
+msgstr "uitset"
+
+msgid "overflow"
+msgstr ""
+
+#, fuzzy
+msgid "override"
+msgstr "Oorskryf"
+
+#, fuzzy
+msgid "overwrite"
+msgstr "Oorskryf"
+
+#, fuzzy
+msgid "owner"
+msgstr "Eienaar"
+
+#, fuzzy
+msgid "pack"
+msgstr "Terug"
+
+#, fuzzy
+msgid "package"
+msgstr "verpakker"
+
+msgid "packet"
+msgstr ""
+
+#, fuzzy
+msgid "padding"
+msgstr "Stopping"
+
+msgid "page"
+msgstr "bladsy"
+
+#, fuzzy
+msgid "paint"
+msgstr "Druk"
+
+#, fuzzy
+msgid "pair"
+msgstr "Paar"
+
+#, fuzzy
+msgid "palette"
+msgstr "Palet"
+
+#, fuzzy
+msgid "panel"
+msgstr "Paneel"
+
+#, fuzzy
+msgid "parallel"
+msgstr "Parallelle"
+
+#, fuzzy
+msgid "parameter"
+msgstr "Parameter"
+
+#, fuzzy
+msgid "parcel"
+msgstr "Pakkie"
+
+msgid "parent"
+msgstr ""
+
+msgid "parity"
+msgstr ""
+
+#, fuzzy
+msgid "parse"
+msgstr "pouse"
+
+#, fuzzy
+msgid "partition"
+msgstr "Partisies"
+
+#, fuzzy
+msgid "pass"
+msgstr "Bas"
+
+#, fuzzy
+msgid "password"
+msgstr "Wagwoord"
+
+#, fuzzy
+msgid "paste"
+msgstr "Plak"
+
+msgid "patch (noun)"
+msgstr ""
+
+msgid "patch (verb)"
+msgstr ""
+
+#, fuzzy
+msgid "path"
+msgstr "Soekpad"
+
+msgid "pattern"
+msgstr "patroon"
+
+#, fuzzy
+msgid "pause"
+msgstr "pouse"
+
+msgid "peripheral"
+msgstr ""
+
+#, fuzzy
+msgid "permanent"
+msgstr "Permanent"
+
+#, fuzzy
+msgid "permission"
+msgstr "Regte"
+
+msgid "permutation"
+msgstr ""
+
+msgid "physical"
+msgstr ""
+
+#, fuzzy
+msgid "picture"
+msgstr "Prent"
+
+msgid "pipe"
+msgstr ""
+
+#, fuzzy
+msgid "pixel"
+msgstr "beeld elemente"
+
+#, fuzzy
+msgid "placement"
+msgstr "Plasing"
+
+#, fuzzy
+msgid "plain"
+msgstr "Gewoon"
+
+#, fuzzy
+msgid "plot (verb)"
+msgstr "blok (werkwoord)"
+
+msgid "plotter"
+msgstr ""
+
+msgid "plugin"
+msgstr "inprop module"
+
+msgid "pop up"
+msgstr ""
+
+#, fuzzy
+msgid "port"
+msgstr "Poort"
+
+#, fuzzy
+msgid "position"
+msgstr "Posisie"
+
+#, fuzzy
+msgid "post"
+msgstr "Bediener"
+
+#, fuzzy
+msgid "preferences"
+msgstr "Voorkeure"
+
+msgid "prepare"
+msgstr ""
+
+#, fuzzy
+msgid "presentation"
+msgstr "Aanbieding"
+
+msgid "press"
+msgstr ""
+
+msgid "prevent"
+msgstr ""
+
+#, fuzzy
+msgid "preview"
+msgstr "Voorskou"
+
+#, fuzzy
+msgid "primary"
+msgstr "Primere"
+
+#, fuzzy
+msgid "principal"
+msgstr "Primêre"
+
+#, fuzzy
+msgid "print"
+msgstr "Druk"
+
+#, fuzzy
+msgid "printer"
+msgstr "Drukker"
+
+msgid "priority"
+msgstr "prioriteit"
+
+#, fuzzy
+msgid "privacy"
+msgstr "Privaatheid"
+
+#, fuzzy
+msgid "private"
+msgstr "Privaat"
+
+msgid "privilege"
+msgstr ""
+
+msgid "procedure"
+msgstr ""
+
+#, fuzzy
+msgid "process"
+msgstr "Vordering"
+
+#, fuzzy
+msgid "processor"
+msgstr "Vordering"
+
+#, fuzzy
+msgid "product"
+msgstr "Produk"
+
+#, fuzzy
+msgid "profile"
+msgstr "Profille"
+
+#, fuzzy
+msgid "program"
+msgstr "Program"
+
+msgid "programmer"
+msgstr ""
+
+#, fuzzy
+msgid "project"
+msgstr "Projek"
+
+#, fuzzy
+msgid "prompt"
+msgstr "Por"
+
+#, fuzzy
+msgid "property"
+msgstr "Eienskap"
+
+msgid "proprietary"
+msgstr ""
+
+#, fuzzy
+msgid "protect"
+msgstr "Projek"
+
+#, fuzzy
+msgid "protection"
+msgstr "Beskerming"
+
+#, !!!
+#, fuzzy
+msgid "protocol"
+msgstr "Protokol"
+
+#, fuzzy
+msgid "provide"
+msgstr "verskaf"
+
+#, fuzzy
+msgid "provider"
+msgstr "verskaf"
+
+#, fuzzy
+msgid "proxy"
+msgstr "Volmag"
+
+#, fuzzy
+msgid "public"
+msgstr "Publiek"
+
+#, fuzzy
+msgid "publish"
+msgstr "Publiseer"
+
+#, fuzzy
+msgid "pull"
+msgstr "Vol"
+
+#, fuzzy
+msgid "push"
+msgstr "Stoot"
+
+#, fuzzy
+msgid "quality"
+msgstr "Navraag"
+
+#, fuzzy
+msgid "quantity"
+msgstr "Navraag"
+
+msgid "quarantine"
+msgstr ""
+
+#, fuzzy
+msgid "query"
+msgstr "Navraag"
+
+#, fuzzy
+msgid "queue"
+msgstr "Wagtou"
+
+#, fuzzy
+msgid "quit"
+msgstr "Gaan uit"
+
+msgid "quota"
+msgstr ""
+
+#, fuzzy
+msgid "quotation"
+msgstr "Rotering"
+
+msgid "quote"
+msgstr ""
+
+#, fuzzy
+msgid "raise"
+msgstr "Lig"
+
+#, fuzzy
+msgid "random"
+msgstr "Willekeurig"
+
+#, fuzzy
+msgid "range"
+msgstr "Oranje"
+
+#, fuzzy
+msgid "rate"
+msgstr "Datum"
+
+#, fuzzy
+msgid "ratio"
+msgstr "Verhouding"
+
+#, fuzzy
+msgid "raw"
+msgstr "Teken"
+
+#, fuzzy
+msgid "ray"
+msgstr "Grys"
+
+#, fuzzy
+msgid "read"
+msgstr "Lei"
+
+#, fuzzy
+msgid "read only"
+msgstr "Lees slegs"
+
+#, fuzzy
+msgid "ready"
+msgstr "Gereed"
+
+#, fuzzy
+msgid "real"
+msgstr "Lei"
+
+#, fuzzy
+msgid "reboot"
+msgstr "Herlaai"
+
+msgid "receipt"
+msgstr ""
+
+#, fuzzy
+msgid "receive"
+msgstr "Ontvanger"
+
+msgid "recognition"
+msgstr ""
+
+#, fuzzy
+msgid "reconnect"
+msgstr "Herkoppel"
+
+msgid "record"
+msgstr "opneem"
+
+msgid "record (verb)"
+msgstr ""
+
+msgid "recover"
+msgstr ""
+
+msgid "recovery"
+msgstr ""
+
+#
+#, fuzzy
+msgid "recursion"
+msgstr "Rekursief"
+
+#, fuzzy
+msgid "recursive"
+msgstr "Rekursief"
+
+msgid "redirect"
+msgstr ""
+
+#, fuzzy
+msgid "redo"
+msgstr "Herstel herroep"
+
+msgid "reduce"
+msgstr ""
+
+msgid "reduction"
+msgstr ""
+
+msgid "redundant"
+msgstr ""
+
+#, fuzzy
+msgid "reference"
+msgstr "Verwysing"
+
+msgid "referer"
+msgstr ""
+
+msgid "referral"
+msgstr ""
+
+msgid "reflexive"
+msgstr ""
+
+#, fuzzy
+msgid "refresh"
+msgstr "Verfris"
+
+msgid "refuse"
+msgstr ""
+
+#, fuzzy
+msgid "regenerate"
+msgstr "Genereer"
+
+#, fuzzy
+msgid "register"
+msgstr "remaster"
+
+msgid "registration"
+msgstr ""
+
+#, fuzzy
+msgid "registry"
+msgstr "remaster"
+
+msgid "regular"
+msgstr "gewone"
+
+#, fuzzy
+msgid "regulate"
+msgstr "gewone"
+
+#, fuzzy
+msgid "relay"
+msgstr "Oordra"
+
+#, fuzzy
+msgid "release"
+msgstr "Vrylaat"
+
+#, fuzzy
+msgid "remaining"
+msgstr "Oorblywend:"
+
+msgid "remind"
+msgstr ""
+
+#, fuzzy
+msgid "remote"
+msgstr "Afgeleë"
+
+msgid "removable"
+msgstr ""
+
+#, fuzzy
+msgid "remove"
+msgstr "Verwyder"
+
+#, fuzzy
+msgid "rename"
+msgstr "Verander naam"
+
+#, fuzzy
+msgid "render"
+msgstr "Stuurder"
+
+msgid "renew"
+msgstr ""
+
+msgid "repair"
+msgstr ""
+
+#, fuzzy
+msgid "repeat"
+msgstr "Herhaal"
+
+#, fuzzy
+msgid "replace"
+msgstr "vervang"
+
+#, fuzzy
+msgid "replicate"
+msgstr "duplikaat"
+
+#, fuzzy
+msgid "replication"
+msgstr "Programme"
+
+#, fuzzy
+msgid "reply"
+msgstr "Antwoord"
+
+msgid "report"
+msgstr ""
+
+#, fuzzy
+msgid "repository"
+msgstr "Stoorplek"
+
+#, fuzzy
+msgid "request"
+msgstr "Versoek"
+
+#, fuzzy
+msgid "require"
+msgstr "Benodig"
+
+#, fuzzy
+msgid "requirement"
+msgstr "Benodighede"
+
+#, fuzzy
+msgid "reset"
+msgstr "Herstel"
+
+#, fuzzy
+msgid "resize"
+msgstr "Hervergroot"
+
+#, fuzzy
+msgid "resolution"
+msgstr "Resolusie"
+
+msgid "resolver"
+msgstr ""
+
+msgid "resource"
+msgstr "hulpbron"
+
+#, fuzzy
+msgid "response"
+msgstr "Antwoord"
+
+msgid "restart"
+msgstr "herbegin"
+
+#, fuzzy
+msgid "restore"
+msgstr "Herstel"
+
+msgid "restrict"
+msgstr ""
+
+msgid "restriction"
+msgstr ""
+
+#, fuzzy
+msgid "result"
+msgstr "Resultaat"
+
+#, fuzzy
+msgid "resume"
+msgstr "Voortgaan"
+
+msgid "retrieve"
+msgstr ""
+
+#, fuzzy
+msgid "retry"
+msgstr "Probeer weer"
+
+#, fuzzy
+msgid "return"
+msgstr "Return"
+
+#, fuzzy
+msgid "reverse"
+msgstr "Omgekeer"
+
+#, fuzzy
+msgid "revert"
+msgstr "SkakelTerug"
+
+msgid "revocation"
+msgstr ""
+
+msgid "revoke"
+msgstr ""
+
+msgid "root"
+msgstr "root"
+
+msgid "rotate"
+msgstr "roteer"
+
+msgid "route"
+msgstr ""
+
+msgid "router"
+msgstr ""
+
+msgid "routine"
+msgstr ""
+
+msgid "row"
+msgstr ""
+
+msgid "rule"
+msgstr ""
+
+msgid "run"
+msgstr ""
+
+msgid "runtime"
+msgstr ""
+
+#, fuzzy
+msgid "safe"
+msgstr "Wave"
+
+#, fuzzy
+msgid "sample"
+msgstr "Voorbeeld"
+
+msgid "sans"
+msgstr ""
+
+#, fuzzy
+msgid "save"
+msgstr "Wave"
+
+msgid "scalable"
+msgstr ""
+
+msgid "scale"
+msgstr "skaal"
+
+#, fuzzy
+msgid "scan"
+msgstr "Skandeer"
+
+#, fuzzy
+msgid "scanner"
+msgstr "Skandeerder"
+
+#, fuzzy
+msgid "schedule"
+msgstr "Skeduleer"
+
+#, fuzzy
+msgid "scheme"
+msgstr "Skema"
+
+msgid "scratch"
+msgstr ""
+
+#, fuzzy
+msgid "screen"
+msgstr "Skerm"
+
+msgid "screw"
+msgstr ""
+
+#, fuzzy
+msgid "script"
+msgstr "Skrip"
+
+# من لف الشئ يلفه
+# فتقول:
+# لف ﻷعلى=scroll up ، وهكذا
+msgid "scroll"
+msgstr ""
+
+#, fuzzy
+msgid "search"
+msgstr "Soek"
+
+#, fuzzy
+msgid "section"
+msgstr "Seksie"
+
+msgid "sector"
+msgstr ""
+
+msgid "secure"
+msgstr ""
+
+#, fuzzy
+msgid "security"
+msgstr "Sekuriteit"
+
+#, fuzzy
+msgid "seek"
+msgstr "Soek"
+
+#, fuzzy
+msgid "segment"
+msgstr "Segmente"
+
+msgid "segmentation"
+msgstr ""
+
+#, fuzzy
+msgid "select"
+msgstr "Kies"
+
+#, fuzzy
+msgid "selection"
+msgstr "Keuse"
+
+msgid "semantic"
+msgstr ""
+
+#, fuzzy
+msgid "send"
+msgstr "Stuur"
+
+#, fuzzy
+msgid "sender"
+msgstr "Stuurder"
+
+msgid "sensitive"
+msgstr ""
+
+#, fuzzy
+msgid "sensor"
+msgstr "Sensor"
+
+msgid "serif"
+msgstr ""
+
+#, fuzzy
+msgid "server"
+msgstr "Bediener"
+
+#, fuzzy
+msgid "session"
+msgstr "Sessie"
+
+msgid "set"
+msgstr ""
+
+#, fuzzy
+msgid "settings"
+msgstr "Instellings"
+
+msgid "setup"
+msgstr ""
+
+#, fuzzy
+msgid "shading"
+msgstr "Skadu"
+
+msgid "shadow"
+msgstr ""
+
+#, fuzzy
+msgid "shape"
+msgstr "Vorm"
+
+#, fuzzy
+msgid "share"
+msgstr "Deel"
+
+#, fuzzy
+msgid "sharp"
+msgstr "Deel"
+
+msgid "sheet"
+msgstr "staat"
+
+#, fuzzy
+msgid "shell"
+msgstr "Tolk"
+
+#, fuzzy
+msgid "shift"
+msgstr "Shift"
+
+#, fuzzy
+msgid "shortcut"
+msgstr "Kortpad"
+
+#, fuzzy
+msgid "show"
+msgstr "sneeu"
+
+msgid "shrink"
+msgstr ""
+
+msgid "shut down"
+msgstr ""
+
+msgid "side bar"
+msgstr ""
+
+#, fuzzy
+msgid "sign"
+msgstr "Onderteken"
+
+msgid "signal"
+msgstr ""
+
+#, fuzzy
+msgid "signature"
+msgstr "Handtekening"
+
+#, fuzzy
+msgid "site"
+msgstr "webruimte:"
+
+msgid "size"
+msgstr "grootte"
+
+msgid "skew"
+msgstr ""
+
+#, fuzzy
+msgid "skip"
+msgstr "Spring oor"
+
+#, fuzzy
+msgid "slave"
+msgstr "Wave"
+
+msgid "sleep"
+msgstr ""
+
+#, fuzzy
+msgid "slide"
+msgstr "Skuif"
+
+msgid "slot"
+msgstr ""
+
+#, fuzzy
+msgid "smart"
+msgstr "Luukse"
+
+msgid "smiley"
+msgstr ""
+
+#, fuzzy
+msgid "smooth"
+msgstr "Glad"
+
+msgid "socket"
+msgstr ""
+
+#, fuzzy
+msgid "software"
+msgstr "Sagteware"
+
+#, fuzzy
+msgid "solid"
+msgstr "Solied"
+
+#, fuzzy
+msgid "sort"
+msgstr "kort"
+
+msgid "source"
+msgstr "bron"
+
+#, fuzzy
+msgid "space"
+msgstr "spasies"
+
+#, fuzzy
+msgid "spacing"
+msgstr "Spasiëring"
+
+#, fuzzy
+msgid "spam"
+msgstr "Spam"
+
+#, fuzzy
+msgid "span"
+msgstr "Skandeer"
+
+msgid "spawn"
+msgstr ""
+
+#, fuzzy
+msgid "specify"
+msgstr "Spesifiseer"
+
+#, fuzzy
+msgid "speed"
+msgstr "Spoed"
+
+#, fuzzy
+msgid "spelling"
+msgstr "Spelling"
+
+msgid "splash"
+msgstr ""
+
+msgid "split"
+msgstr ""
+
+msgid "spool"
+msgstr ""
+
+msgid "spread sheet"
+msgstr ""
+
+msgid "stack"
+msgstr ""
+
+msgid "stand alone"
+msgstr ""
+
+#, fuzzy
+msgid "standard"
+msgstr "Standaard"
+
+msgid "start"
+msgstr "begin"
+
+#, fuzzy
+msgid "state"
+msgstr "Eiendom"
+
+msgid "static"
+msgstr ""
+
+#, fuzzy
+msgid "statistics"
+msgstr "Statistiek"
+
+#, fuzzy
+msgid "step"
+msgstr "Stap"
+
+msgid "stop"
+msgstr "stop"
+
+msgid "storage"
+msgstr ""
+
+#, fuzzy
+msgid "store"
+msgstr "Stoor"
+
+#, fuzzy
+msgid "stream"
+msgstr "Stroom"
+
+msgid "stretch"
+msgstr ""
+
+msgid "strict"
+msgstr ""
+
+#, fuzzy
+msgid "string"
+msgstr "String"
+
+#, fuzzy
+msgid "strip"
+msgstr "Verwyder"
+
+msgid "stroke"
+msgstr ""
+
+msgid "structure"
+msgstr ""
+
+msgid "stub"
+msgstr ""
+
+#, fuzzy
+msgid "style"
+msgstr "Styl"
+
+#, fuzzy
+msgid "sub directory"
+msgstr "Voeg gids by"
+
+msgid "sub folder"
+msgstr ""
+
+msgid "submission"
+msgstr ""
+
+#, fuzzy
+msgid "submit"
+msgstr "Stuur in"
+
+msgid "subscribe"
+msgstr ""
+
+#, fuzzy
+msgid "subscription"
+msgstr "Intekenings"
+
+#, fuzzy
+msgid "subtract"
+msgstr "Aftrek"
+
+msgid "succeed"
+msgstr ""
+
+#, fuzzy
+msgid "suggest"
+msgstr "stel voor"
+
+msgid "suggestion"
+msgstr ""
+
+msgid "sum (noun)"
+msgstr ""
+
+msgid "sum (verb)"
+msgstr ""
+
+msgid "summary"
+msgstr "opsomming"
+
+msgid "support"
+msgstr ""
+
+msgid "surface"
+msgstr ""
+
+#, fuzzy
+msgid "suspend"
+msgstr "Hangend"
+
+msgid "suspicious"
+msgstr ""
+
+msgid "swap"
+msgstr ""
+
+msgid "switch"
+msgstr ""
+
+#, fuzzy
+msgid "symbol"
+msgstr "Simbool"
+
+#, fuzzy
+msgid "synchronize"
+msgstr "Sinkroniseer"
+
+msgid "syntax"
+msgstr ""
+
+#, fuzzy
+msgid "system"
+msgstr "Stelsel"
+
+msgid "tab"
+msgstr ""
+
+#, fuzzy
+msgid "table"
+msgstr "Tabel"
+
+msgid "tag"
+msgstr ""
+
+msgid "target"
+msgstr ""
+
+#, fuzzy
+msgid "template"
+msgstr "Sjabloon"
+
+#, fuzzy
+msgid "temporary"
+msgstr "Tydelike"
+
+#, fuzzy
+msgid "terminal"
+msgstr "Terminaal"
+
+#, fuzzy
+msgid "test"
+msgstr "Toets"
+
+msgid "text"
+msgstr "teks"
+
+msgid "texture"
+msgstr "tekstuur"
+
+#, fuzzy
+msgid "theme"
+msgstr "Tema"
+
+msgid "thread"
+msgstr ""
+
+#, fuzzy
+msgid "thumbnail"
+msgstr "Duimnael"
+
+msgid "tick"
+msgstr ""
+
+#, fuzzy
+msgid "tile"
+msgstr "titel"
+
+msgid "time"
+msgstr "tyd"
+
+#, fuzzy
+msgid "time out"
+msgstr "Tyd verstreke"
+
+msgid "tip"
+msgstr ""
+
+msgid "title"
+msgstr "titel"
+
+msgid "toggle"
+msgstr ""
+
+msgid "token"
+msgstr ""
+
+msgid "tool"
+msgstr ""
+
+#, fuzzy
+msgid "tool bar"
+msgstr "Nutsbalk"
+
+#, fuzzy
+msgid "tool box"
+msgstr "Nutsbalk"
+
+msgid "topic"
+msgstr ""
+
+#, fuzzy
+msgid "trace"
+msgstr "snitte"
+
+#, fuzzy
+msgid "track"
+msgstr "snitte"
+
+msgid "traffic"
+msgstr ""
+
+#, fuzzy
+msgid "transfer"
+msgstr "Dra oor"
+
+#, fuzzy
+msgid "transform"
+msgstr "Transformeer"
+
+msgid "transformation"
+msgstr ""
+
+msgid "trap"
+msgstr ""
+
+msgid "trash"
+msgstr "gemors"
+
+#, fuzzy
+msgid "trigger"
+msgstr "Snellers"
+
+msgid "trouble shoot"
+msgstr ""
+
+#, fuzzy
+msgid "tune"
+msgstr "Junie"
+
+msgid "tweak"
+msgstr ""
+
+msgid "type (noun)"
+msgstr ""
+
+msgid "type (verb)"
+msgstr ""
+
+msgid "type face"
+msgstr ""
+
+msgid "unavailable"
+msgstr "onbeskikbaar"
+
+#, fuzzy
+msgid "undelete"
+msgstr "Vee Uit"
+
+#, fuzzy
+msgid "under line"
+msgstr "Onderstreep"
+
+#, fuzzy
+msgid "undo"
+msgstr "Herstel"
+
+#, fuzzy
+msgid "uninstall"
+msgstr "Vee uit"
+
+#, fuzzy
+msgid "unit"
+msgstr "Eenheid"
+
+msgid "unknown"
+msgstr "onbekende"
+
+#, fuzzy
+msgid "unload"
+msgstr "Oplaai"
+
+#, fuzzy
+msgid "named"
+msgstr "naam"
+
+msgid "reachable"
+msgstr ""
+
+msgid "readable"
+msgstr ""
+
+#, fuzzy
+msgid "unspecified"
+msgstr "Ongespesifiseer"
+
+msgid "unsubscribe"
+msgstr ""
+
+msgid "unsupported"
+msgstr ""
+
+#, fuzzy
+msgid "update"
+msgstr "Dateer op"
+
+#, fuzzy
+msgid "upgrade"
+msgstr "Opgradeer"
+
+#, fuzzy
+msgid "upload"
+msgstr "Oplaai"
+
+#, fuzzy
+msgid "upper case"
+msgstr "Boonste kas"
+
+#, fuzzy
+msgid "usage"
+msgstr "Gebruik"
+
+#, fuzzy
+msgid "user"
+msgstr "gebruiker:"
+
+#, fuzzy
+msgid "user name"
+msgstr "Gebruiker naam:"
+
+msgid "utility"
+msgstr ""
+
+#, fuzzy
+msgid "valid"
+msgstr "Geldige"
+
+#, fuzzy
+msgid "validation"
+msgstr "Bekragting"
+
+#, fuzzy
+msgid "validity"
+msgstr "Geldigheid"
+
+#, fuzzy
+msgid "value"
+msgstr "Waarde"
+
+msgid "variable"
+msgstr "veranderlike"
+
+msgid "vector"
+msgstr ""
+
+msgid "verbose"
+msgstr ""
+
+#, fuzzy
+msgid "verify"
+msgstr "Bevestig"
+
+msgid "version"
+msgstr "weergawe"
+
+#, fuzzy
+msgid "video"
+msgstr "Video"
+
+#, fuzzy
+msgid "view"
+msgstr "Besigtig"
+
+#, fuzzy
+msgid "viewer"
+msgstr "Beskouer"
+
+msgid "virtual"
+msgstr ""
+
+msgid "virus"
+msgstr ""
+
+msgid "visual"
+msgstr ""
+
+#, fuzzy
+msgid "volume"
+msgstr "Volume"
+
+#, fuzzy
+msgid "wallpaper"
+msgstr "Muurpapier"
+
+#, fuzzy
+msgid "warn"
+msgstr "warp"
+
+msgid "web"
+msgstr ""
+
+msgid "web cam"
+msgstr ""
+
+msgid "web master"
+msgstr ""
+
+#, fuzzy
+msgid "web page"
+msgstr "Web bladsy:"
+
+msgid "widget"
+msgstr ""
+
+msgid "width"
+msgstr "wydte"
+
+msgid "wi fi"
+msgstr ""
+
+msgid "wild card"
+msgstr ""
+
+#, fuzzy
+msgid "window"
+msgstr "Venster"
+
+msgid "wizard"
+msgstr ""
+
+msgid "word processor"
+msgstr ""
+
+msgid "work around"
+msgstr ""
+
+msgid "work group"
+msgstr ""
+
+msgid "work station"
+msgstr ""
+
+msgid "wrap"
+msgstr ""
+
+msgid "yes"
+msgstr "Ja"
+
+#, fuzzy
+msgid "zone"
+msgstr "een"
+
+#, fuzzy
+msgid "zoom"
+msgstr "Zoom"

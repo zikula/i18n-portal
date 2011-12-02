@@ -1,0 +1,2209 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-14 11:37+0000\n"
+"PO-Revision-Date: 2010-08-31 13:14+0200\n"
+"Last-Translator: Albert Pérez Monfort <aperezm@xtec.cat>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnadmin.php:84 pnadmin.php:241 pnadmin.php:441 pnajax.php:33 pnajax.php:123
+#: pnajax.php:238 pnajax.php:366 pnajax.php:429 pnuser.php:653 pnuser.php:995
+#: pnadminapi.php:35 pnadminapi.php:110
+msgid "Error! No such article found."
+msgstr "No s'ha trobat la notícia."
+
+#: pnadmin.php:147 pnadmin.php:529 pnadmin.php:783 pnadmin.php:900
+#: pnajax.php:68 pnuserapi.php:300 pnblocks/slideshow.php:77
+#: pnblocks/slideshow.php:149 pnblocks/stories.php:93 pnblocks/stories.php:166
+#: pnblocks/storiesext.php:224 pnblocks/storiesext.php:524
+#: pncontenttypesapi/newsarticles.php:360 pnuser.php:102 pnuser.php:436
+#: pnuser.php:714 pnuser.php:893
+#, php-format
+msgid "Error! Could not load [%s] class."
+msgstr "No s'ha pogut carregar la classe [%s]."
+
+#: pnadmin.php:252 pnuser.php:234
+msgid "title"
+msgstr "títol"
+
+#: pnadmin.php:252 pnuser.php:234
+#, php-format
+msgid "Error! You did not enter a %s."
+msgstr "No has entrat un %s."
+
+#: pnadmin.php:256 pnuser.php:238
+msgid "article content"
+msgstr "contingut de la notícia"
+
+#: pnadmin.php:256 pnuser.php:238
+#, php-format
+msgid "Error! You did not enter the minimum necessary %s."
+msgstr "No heu introduït el mínim necessari %s."
+
+#: pnadmin.php:369 pnuser.php:274
+#, php-format
+msgid ""
+"Warning! Picture %s is not uploaded, since the file extension is now allowed "
+"(only %s is allowed)."
+msgstr ""
+"Atenció! La imatge %s no està pujada al servidor, ja que l'extensió del "
+"fitxer ara és permesa (només l'extensió %s és permesa)."
+
+#: pnadmin.php:372 pnadmin.php:375 pnuser.php:279 pnuser.php:282
+#, php-format
+msgid ""
+"Warning! Picture %s is not uploaded, since the filesize was too large (max. "
+"%s kB)."
+msgstr ""
+"Atenció! La imatge %s no està pujada al servidor, ja que la mida del fitxer "
+"és massa gran (màxim %s kB)."
+
+#: pnadmin.php:377
+#, php-format
+msgid ""
+"Warning! Picture %1$s gave an error (code %2$s, explained on this page: "
+"%4$s) during uploading."
+msgstr ""
+"Atenció! La imatge %1$s ha produït un error (codi %2$s, explicat en aquesta "
+"pàgina: %4$s) durant la pujada al servidor."
+
+#: pnadmin.php:406 pnajax.php:311
+msgid "Done! Saved your changes."
+msgstr "S'han desat el canvis"
+
+#: pnadmin.php:472 pnajax.php:321
+msgid "Done! Deleted article."
+msgstr "S'ha esborrat la notícia"
+
+#: pnadmin.php:505
+msgid "Done! Purged permalinks."
+msgstr "S'han esborrat el enllaços permanents"
+
+#: pnadmin.php:507
+msgid "Error! Could not purge permalinks."
+msgstr "No s'han pogut esborrar els enllaços permanents"
+
+#: pnadmin.php:584 pnadmin.php:754 pntemplates/news_admin_view.htm:24
+#: pntemplates/news_block_storiesext_modify.htm:22
+msgid "All"
+msgstr "Totes"
+
+#: pnadmin.php:585 pnadmin.php:702
+#: pntemplates/plugins/modifier.news_getstatustext.php:32
+#: pncontenttypesapi/newsarticles.php:375
+#: pntemplates/news_block_storiesext_modify.htm:36
+msgid "Published"
+msgstr "Publicades"
+
+#: pnadmin.php:586 pnadmin.php:748
+#: pntemplates/plugins/modifier.news_getstatustext.php:36
+#: pncontenttypesapi/newsarticles.php:376
+msgid "Rejected"
+msgstr "Rebutjades"
+
+#: pnadmin.php:587 pnadmin.php:721
+#: pntemplates/plugins/modifier.news_getstatustext.php:40
+#: pncontenttypesapi/newsarticles.php:377 pntemplates/news_admin_view.htm:100
+msgid "Pending Review"
+msgstr "Pendent de revisió"
+
+#: pnadmin.php:588 pnadmin.php:739
+#: pntemplates/plugins/modifier.news_getstatustext.php:44
+#: pncontenttypesapi/newsarticles.php:378
+#: pntemplates/news_block_storiesext_modify.htm:37
+msgid "Archived"
+msgstr "Arxivades"
+
+#: pnadmin.php:589 pnadmin.php:730
+#: pntemplates/plugins/modifier.news_getstatustext.php:48
+#: pntemplates/news_admin_view.htm:101
+#: pntemplates/news_block_storiesext_modify.htm:38
+msgid "Draft"
+msgstr "Esborranys"
+
+#: pnadmin.php:590 pnadmin.php:712
+msgid "Scheduled"
+msgstr "Programades"
+
+#: pnadmin.php:614 pnadmin.php:618
+msgid "View"
+msgstr "Mostra"
+
+#: pnadmin.php:625
+msgid "Review"
+msgstr "Revisa"
+
+#: pnadmin.php:629 pntemplates/plugins/function.articleadminlinks.php:78
+#: pntemplates/plugins/function.articleadminlinks.php:80
+#: pntemplates/news_user_categorylist.htm:47
+#: pntemplates/news_user_categorylist.htm:90 pntemplates/news_admin_new.htm:83
+msgid "Edit"
+msgstr "Edita"
+
+#: pnadmin.php:637 pntemplates/plugins/function.articleadminlinks.php:82
+#: pntemplates/news_admin_new.htm:273 pntemplates/news_admin_new.htm:293
+#: pntemplates/news_user_new.htm:257 pntemplates/news_user_new.htm:277
+#: pntemplates/news_admin_modify.htm:266 pntemplates/news_admin_modify.htm:286
+#: pntemplates/news_admin_modify.htm:343 pntemplates/news_ajax_modify.htm:214
+#: pntemplates/news_ajax_modify.htm:234 pntemplates/news_ajax_modify.htm:254
+#: pntemplates/news_admin_delete.htm:17
+msgid "Delete"
+msgstr "Esborra"
+
+#: pnadmin.php:645
+msgid "Unknown"
+msgstr "Desconegut"
+
+#: pnadmin.php:649 pntemplates/news_block_storiesext_modify.htm:122
+#: pntemplates/news_block_storiesext_modify.htm:145
+#: pntemplates/news_admin_modifyconfig.htm:68
+msgid "Yes"
+msgstr "Sí"
+
+#: pnadmin.php:651 pntemplates/news_block_storiesext_modify.htm:123
+#: pntemplates/news_block_storiesext_modify.htm:146
+#: pntemplates/news_admin_modifyconfig.htm:69
+msgid "No"
+msgstr "No"
+
+#: pnadmin.php:673 pntemplates/news_admin_modifyconfig.htm:53
+msgid "Article date/time"
+msgstr "Data i hora de la notícia"
+
+#: pnadmin.php:674 pntemplates/news_admin_new.htm:232
+#: pntemplates/news_admin_modifyconfig.htm:52
+#: pntemplates/news_admin_modifyconfig.htm:261
+msgid "Article ID"
+msgstr "ID de la notícia"
+
+#: pnadmin.php:675 pncontenttypesapi/newsarticles.php:385
+#: pntemplates/news_block_storiesext_modify.htm:46
+#: pntemplates/news_admin_new.htm:197 pntemplates/news_user_new.htm:187
+#: pntemplates/news_admin_modify.htm:195 pntemplates/news_ajax_modify.htm:143
+#: pntemplates/news_admin_modifyconfig.htm:54
+msgid "Article weight"
+msgstr "Pes de la notícia"
+
+#: pnadmin.php:887
+#, php-format
+msgid ""
+"Warning! The image upload directory at [%s] already exists. Make sure that "
+"this folder is accessible via the web and writable by the webserver."
+msgstr ""
+"Atenció! El directori d'imatge [%s] ja existeix. Assegura't que aquest "
+"directori és accessible i s'hi pot escriure."
+
+#: pnadmin.php:891
+#, php-format
+msgid ""
+"News publisher created the image upload directory successfully at [%s]. Make "
+"sure that this folder is accessible via the web and writable by the "
+"webserver."
+msgstr ""
+"El publicador de notícies ha creat el directori de pujada de les imatges amb "
+"èxit [%s]. Assegura't de què aquest directori és accessible i s'hi pot "
+"escriure."
+
+#: pnadmin.php:893
+#, php-format
+msgid ""
+"Warning! News publisher could not create the specified image upload "
+"directory [%s]. Try to create it yourself and make sure that this folder is "
+"accessible via the web and writable by the webserver."
+msgstr ""
+"Atenció! El publicador de notícies no ha pogut crear el directori d'imatges "
+"especificat [%s]. Prova de crear-lo manualment i assegura't que el directori "
+"es accessible i s'hi pot escriure."
+
+#: pnadmin.php:919
+msgid "Done! Saved module settings."
+msgstr "S'ha desat la configuració del mòdul"
+
+#: pnajax.php:38 pnajax.php:299 pnajax.php:370
+msgid "Sorry! You do not have authorisation for this page."
+msgstr "No teniu autorització per accedir a aquesta pàgina."
+
+#: pnajax.php:127
+msgid ""
+"Sorry! Invalid authorisation key ('authkey'). This is probably either "
+"because you pressed the 'Back' button to return to a page which does not "
+"allow that, or else because the page's authorisation key expired due to "
+"prolonged inactivity. Please refresh the page and try again."
+msgstr ""
+"La clau d'autorització ('authkey') no és vàlida. Les causes més probables "
+"d'aquest error són haver clicat el botó de tornar enrere del navegador, "
+"navegar simultàniament amb vàries pestanyes o un període llarg "
+"d'inactivitat. Torneu a carregar la pàgina i torneu-ho a provar."
+
+#: pnajax.php:292 pnajax.php:306 pnajax.php:393 pnajax.php:444
+#: pnuserapi.php:942 pnadminapi.php:169
+msgid "Error! Could not save your changes."
+msgstr "No s'han pogut desar els canvis."
+
+#: pnajax.php:323 pnadminapi.php:44
+msgid "Error! Could not delete article."
+msgstr "No s'ha pogut esborrar la notícia"
+
+#: pnajax.php:395
+#, php-format
+msgid "Draft updated at %s"
+msgstr "S'ha modificat l'esborrany a les %s"
+
+#: pnajax.php:432
+#, php-format
+msgid "Draft saved at %s"
+msgstr "S'ha desat l'esborrany a les %s"
+
+#: pnajax.php:492
+#, php-format
+msgid "Specified folder [%s] does exist and is writable."
+msgstr "El directori [%s] existeix i s'hi pot escriure."
+
+#: pnajax.php:494
+#, php-format
+msgid ""
+"Specified folder [%s] does exist, but is not writable. Make sure that this "
+"folder is accessible via the web and writable by the webserver."
+msgstr ""
+"El directori [%s] existeix però no s'hi pot escriure. Assegura't de que "
+"aquest directori es accessible i s'hi pot escriure."
+
+#: pnajax.php:497
+#, php-format
+msgid ""
+"Specified folder [%s] does not exist yet. News pubisher will create this "
+"folder if you check the field below."
+msgstr ""
+"El directori [%s] no existeix. El mòdul de notícies crearà aquest directori "
+"si marques l'opció que tens a sota."
+
+#: pnajax.php:500
+msgid ""
+"Specified folder is an empty string, please fill in a folder (e.g. images/"
+"news_picupload)."
+msgstr ""
+"El directori especificat és una cadena buida. Escriu el directori on s'han "
+"de pujar les imatges (per exemple \"images/news_picupload\")."
+
+#: pnmailzapi.php:29
+msgid "News publisher articles list"
+msgstr "Llista de notícies publicades"
+
+#: pnmailzapi.php:30
+msgid ""
+"Show a list of News publisher articles published since the last newsletter."
+msgstr ""
+"Mostra la llista de notícies publicades des del darrer enviament del resum."
+
+#: pnmailzapi.php:66 pntemplates/news_user_articlepdf.htm:3
+#: pntemplates/news_user_article.htm:33 pntemplates/news_user_index.htm:5
+#: pntemplates/news_user_archives.htm:71 pntemplates/news_admin_modify.htm:300
+#: pntemplates/news_admin_modify.htm:302
+#: pntemplates/news_mailz_listarticles.htm:5
+#: pntemplates/news_mailz_listarticles.htm:7
+#: pntemplates/news_user_articlecontent.htm:24
+#, php-format
+msgid "by %1$s on %2$s"
+msgstr "per %1$s el %2$s"
+
+#: pnmailzapi.php:75
+#, php-format
+msgid "No News publisher articles since last newsletter on %s."
+msgstr ""
+"No s'han publicat notícies noves des del darrer enviament del resum el %s."
+
+#: pnversion.php:20 pninit.php:518 pntemplates/news_admin_menu.htm:5
+msgid "News publisher"
+msgstr "Notícies publicades"
+
+#: pnversion.php:21 pninit.php:519
+msgid ""
+"Provides the ability to publish and manage news articles contributed by site "
+"users, with support for news categories and various associated blocks."
+msgstr ""
+"Proporciona un sistema d'addició, edició, esborrament i administració de "
+"notícies."
+
+#. ! this defines the module's url
+#: pnversion.php:24
+msgid "news"
+msgstr "news"
+
+#: pntemplates/plugins/modifier.news_getstatustext.php:27
+msgid "Unknown status"
+msgstr "Estat desconegut"
+
+#: pntemplates/plugins/block.browserhack.php:34
+msgid "browserhack block: condition param is required, non specified."
+msgstr ""
+"Bloc \"browserhack\": no s'ha especificat el paràmetre de condició requerit."
+
+#: pntemplates/plugins/modifier.dateformatHuman.php:53
+#, php-format
+msgid "%s day ago"
+msgid_plural "%s days ago"
+msgstr[0] "fa %s dia"
+msgstr[1] "fa %s dies"
+
+#: pntemplates/plugins/modifier.dateformatHuman.php:55
+msgid "yesterday"
+msgstr "ahir"
+
+#: pntemplates/plugins/modifier.dateformatHuman.php:63
+msgid "tomorrow"
+msgstr "demà"
+
+#: pntemplates/plugins/modifier.dateformatHuman.php:65
+#, php-format
+msgid "%s day from now"
+msgid_plural "%s days from now"
+msgstr[0] "%s dia des d'ara"
+msgstr[1] "%s dies des d'ara"
+
+#: pntemplates/plugins/modifier.dateformatHuman.php:70
+#, php-format
+msgid "%s hour ago"
+msgid_plural "%s hours ago"
+msgstr[0] "fa %s hora"
+msgstr[1] "fa %s hores"
+
+#: pntemplates/plugins/modifier.dateformatHuman.php:72
+#, php-format
+msgid "%s hour from now"
+msgid_plural "%s hours from now"
+msgstr[0] "%s hora des d'ara"
+msgstr[1] "%s hores des d'ara"
+
+#: pntemplates/plugins/modifier.dateformatHuman.php:76
+#, php-format
+msgid "%s minute ago"
+msgid_plural "%s minutes ago"
+msgstr[0] "fa %s minut"
+msgstr[1] "fa %s minuts"
+
+#: pntemplates/plugins/modifier.dateformatHuman.php:78
+#, php-format
+msgid "%s minute from now"
+msgid_plural "%s minutes from now"
+msgstr[0] "%s minut des d'ara"
+msgstr[1] "%s minuts des d'ara"
+
+#: pntemplates/plugins/modifier.dateformatHuman.php:82
+#, php-format
+msgid "%s second ago"
+msgid_plural "%s seconds ago"
+msgstr[0] "fa %s segon"
+msgstr[1] "fa %s segons"
+
+#: pntemplates/plugins/modifier.dateformatHuman.php:84
+#, php-format
+msgid "%s second from now"
+msgid_plural "%s seconds from now"
+msgstr[0] "%s segon des d'ara"
+msgstr[1] "%s segons des d'ara"
+
+#: pnsearchapi.php:94 pnuserapi.php:213
+msgid "Error! Could not load any articles."
+msgstr "No s'ha pogut carregar cap notícia."
+
+#: pnuserapi.php:255
+msgid "Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec"
+msgstr "Gen Feb Mar Abr Mai Jun Jul Ago Set Oct Nov Dec"
+
+#: pnuserapi.php:733 pncontenttypesapi/newsarticles.php:333
+msgid "Read more..."
+msgstr "Llegeix més..."
+
+#: pnuserapi.php:736
+#, php-format
+msgid "%s bytes more"
+msgstr "%s bytes més"
+
+#: pnuserapi.php:742
+msgid "Print"
+msgstr "Imprimeix"
+
+#: pnuserapi.php:742 pnuserapi.php:743
+msgid "Printer-friendly page"
+msgstr "Pàgina per imprimir"
+
+#: pnuserapi.php:755
+msgid "Comments?"
+msgstr "Comentaris?"
+
+#: pnuserapi.php:757 pntemplates/contenttype/newsarticles_view.html:24
+#: pntemplates/news_block_storiesext_row.htm:11
+#, php-format
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s comentari"
+msgstr[1] "%s comentaris"
+
+#: pnuserapi.php:762
+#, php-format
+msgid "%1$s about %2$s"
+msgstr "%1$s sobre %2$s"
+
+#: pnuserapi.php:770
+#, php-format
+msgid "Footnote: %s"
+msgstr "Nota al peu: %s"
+
+#: pnuserapi.php:935
+msgid "Error! Could not create new article."
+msgstr "No s'ha pogut crear la notícia nova"
+
+#: pnblocks/stories.php:36
+msgid "Article titles"
+msgstr "Títols de les notícies"
+
+#: pnblocks/stories.php:37
+msgid "Display article titles"
+msgstr "Mostra els títols de les notícies"
+
+#: pnblocks/big.php:36
+msgid "Most-read article"
+msgstr "La notícia més llegida"
+
+#: pnblocks/big.php:37 pnblocks/big.php:94
+msgid "Today's most-read article"
+msgstr "La notícia més llegida avui"
+
+#: pnblocks/storiesext.php:72
+msgid "Extended article titles"
+msgstr "Títols estesos de les notícies"
+
+#: pnblocks/storiesext.php:73
+msgid "Display article titles with extended options"
+msgstr "Mostra els títols de les notícies amb les opcions esteses"
+
+#: pnblocks/storiesext.php:265
+msgid "No articles."
+msgstr "No hi ha notícies."
+
+#. ! default past block title
+#: pnblocks/past.php:36 pnblocks/past.php:127
+msgid "Past articles"
+msgstr "Notícies anteriors"
+
+#: pnblocks/past.php:37
+msgid "Display past articles"
+msgstr "Mostra les notícies anteriors"
+
+#: pnneedleapi/news.php:53
+#, php-format
+msgid "Error! Database contains no article with the title '%s'."
+msgstr "La base de dades no conté cap notícia amb el títol '%s'."
+
+#: pnneedleapi/news.php:58
+msgid "Error! No needle ID provided."
+msgstr "No s'ha especificat l'ID del \"needle\"."
+
+#: pncontenttypesapi/newsarticles.php:59
+msgid "Recent news articles"
+msgstr "Notícies recents"
+
+#: pncontenttypesapi/newsarticles.php:65
+msgid ""
+"Displays a specific number of news articles from one or all categories "
+"available"
+msgstr ""
+"Mostra un nombre específic de notícies d'una de les categories disponibles"
+
+#: pncontenttypesapi/newsarticles.php:308
+#, php-format
+msgid "News articles listed under the '%s' category"
+msgstr "Llista de notícies ordenades per la categoria '%s'"
+
+#: pncontenttypesapi/newsarticles.php:310
+msgid "News articles listed without a category selection"
+msgstr "Llista d'articles sense categoria"
+
+#: pncontenttypesapi/newsarticles.php:369
+#: pntemplates/news_block_stories_modify.htm:6
+#: pntemplates/news_block_storiesext_modify.htm:9
+msgid "Show all news articles"
+msgstr "Mostra totes les notícies"
+
+#: pncontenttypesapi/newsarticles.php:370
+#: pntemplates/news_block_stories_modify.htm:7
+#: pntemplates/news_block_storiesext_modify.htm:10
+msgid "Show only articles set for index page listing"
+msgstr "Mostra només les notícies de la pàgina d'inici"
+
+#: pncontenttypesapi/newsarticles.php:371
+#: pntemplates/news_block_stories_modify.htm:8
+#: pntemplates/news_block_storiesext_modify.htm:11
+msgid "Show only articles not set for index page listing"
+msgstr "Mostra només les notícies que no estiguin a la pàgina d'inici"
+
+#: pncontenttypesapi/newsarticles.php:383
+#: pntemplates/news_block_storiesext_modify.htm:44
+msgid "News publisher setting"
+msgstr "Configuració de la publicació de notícies"
+
+#: pncontenttypesapi/newsarticles.php:384
+#: pntemplates/news_block_storiesext_modify.htm:45
+msgid "Number of pageviews"
+msgstr "Nombre de pàgines vistes"
+
+#: pncontenttypesapi/newsarticles.php:386
+#: pntemplates/news_block_storiesext_modify.htm:47
+msgid "Random"
+msgstr "Aleatori"
+
+#: pnuser.php:284
+#, php-format
+msgid ""
+"Warning! Picture %1$s gave an error (code %2$s, explained on this page: "
+"%3$s) during uploading."
+msgstr ""
+"Atenció! La imatge %1$s ha provocat un error (codi %2$s, explicat en aquesta "
+"pàgina: %3$s) durant la pujada al servidor."
+
+#: pnuser.php:303
+msgid "Done! Created new article."
+msgstr "S'ha creat una notícia nova"
+
+#: pnuser.php:322
+#, php-format
+msgid ""
+"<br />A News Publisher article <strong>%1$s</strong> has been submitted by "
+"%2$s for review on website %3$s.<br />Index page teaser text of the article:"
+"<br /><hr />%4$s<hr /><br /><br />Go to the <a href=\"%5$s\">news publisher "
+"admin</a> pages to review and publish the <em>Pending Review</em> article(s)."
+"<br /><br />Regards,<br />%6$s"
+msgstr ""
+"<br />La notícia <strong>%1$s</strong> ha estat tramesa per %2$s i roman a "
+"l'espera de ser validada en el lloc web %3$s.<br />Text d'introducció de la "
+"notícia:<br /><hr />%4$s<hr /><br /><br />Vés a l'<a href=\"%5$s"
+"\">administració de les notícies</a> per revisar i publicar les notícies "
+"<em>pendents de revisió</em>.<br /><br />Salutacions,<br />%6$s"
+
+#: pnuser.php:324
+#, php-format
+msgid ""
+"\n"
+"A News Publisher article '%1$s' has been submitted by %2$s for review on "
+"website %3$s.\n"
+"Index page teaser text of the article:\n"
+"--------\n"
+"%4$s\n"
+"--------\n"
+"\n"
+"Go to the <a href=\"%5$s\">news publisher admin</a> pages to review and "
+"publish the 'Pending Review' article(s).\n"
+"\n"
+"Regards,\n"
+"%6$s"
+msgstr ""
+"\n"
+"La notícia '%1$s' ha estat tramesa per %2$s i roman a l'espera per ser "
+"validada en el lloc web %3$s.\n"
+"Text d'introducció de la notícia:\n"
+"--------\n"
+"%4$s\n"
+"--------\n"
+"\n"
+"Vés a l'<a href=\"%5$s\">administració de les notícies</a> per revisar i "
+"publicar les notícies pendents de revisió.\n"
+"\n"
+"Salutacions,\n"
+"%6$s"
+
+#: pnuser.php:344
+msgid "Done! E-mail about new pending article is sent."
+msgstr "S'ha enviat un correu electrònic amb les notícies pendents de revisió."
+
+#: pnuser.php:346
+msgid "Warning! E-mail about new pending article could not be sent."
+msgstr ""
+"Atenció! No s'ha pogut enviar el correu electrònic amb les notícies pendents "
+"de revisió."
+
+#: pnuser.php:387
+#, php-format
+msgid ""
+"%s out of %s picture was uploaded and resized. Article now has draft status, "
+"since not all pictures were uploaded."
+msgid_plural ""
+"%s out of %s pictures were uploaded and resized. Article now has draft "
+"status, since not all pictures were uploaded."
+msgstr[0] ""
+"%s de %s imatges s'han pujat i canviat de mida. Ara l'article és un "
+"esborrany fins que la imatge no s'hagi pujat completament al servidor."
+msgstr[1] ""
+"%s de %s imatges s'han pujat i canviat de mida. Ara l'article és un "
+"esborrany fins que les imatges no s'hagin pujat completament al servidor."
+
+#: pnuser.php:389
+#, php-format
+msgid "%s out of %s picture was uploaded and resized."
+msgid_plural "%s out of %s pictures were uploaded and resized."
+msgstr[0] "%s de %s imatges s'han pujat i canviat de mida."
+msgstr[1] "%s de %s imatges s'han pujat i canviat de mida."
+
+#: pnuser.php:462
+msgid "Error! Invalid category passed."
+msgstr "S'ha passat una categoria incorrecta."
+
+#: pnuser.php:479
+#, php-format
+msgid "No articles currently published under the '%s' category."
+msgstr "No hi ha notícies publicades a la categoria '%s'"
+
+#: pnuser.php:481
+msgid "No articles currently published."
+msgstr "No hi ha notícies publicades"
+
+#: pnuser.php:689
+#, php-format
+msgid " :: page %s"
+msgstr " :: pàgina %s"
+
+#: pnuser.php:775
+msgid ""
+"January February March April May June July August September October November "
+"December"
+msgstr ""
+"Gener Febrer Març Abril Maig Juny Juliol Agost Setembre Octubre Novembre "
+"Desembre"
+
+#: pnaccountapi.php:37 pntemplates/news_user_menu.htm:47
+#: pntemplates/news_user_new.htm:21
+#: pntemplates/contenttype/newsarticles_view.html:55
+msgid "Submit an article"
+msgstr "Tramet una notícia"
+
+#: pnadminapi.php:247 pntemplates/news_admin_view.htm:3
+msgid "News articles list"
+msgstr "Llista de notícies"
+
+#: pnadminapi.php:251 pntemplates/news_admin_new.htm:21
+#: pntemplates/contenttype/newsarticles_view.html:16
+msgid "Create new article"
+msgstr "Crea una notícia"
+
+#: pnadminapi.php:255
+msgid "Purge permalinks"
+msgstr "Esborra els enllaços permanents"
+
+#: pnadminapi.php:258 pntemplates/news_admin_modifyconfig.htm:7
+#: pntemplates/news_admin_modifyconfig.htm:9
+msgid "Settings"
+msgstr "Configuració"
+
+#: pninit.php:31
+msgid ""
+"Warning! Could not create the default News category tree. If you want to use "
+"categorisation with News, register at least one property for the module in "
+"the Category Registry."
+msgstr ""
+"Atenció! No ha estat possible crear l'arbre de categories de les notícies "
+"per defecte. Si voleu fer ús de les categories amb les notícies heu de "
+"registrar com a mínim una propietat per al mòdul en el registre de "
+"categories."
+
+#: pninit.php:54 pninit.php:254
+msgid "A News Publisher article has been submitted for review"
+msgstr "La notícia s'ha enviat i roman a l'espera de ser validada"
+
+#: pninit.php:120 pninit.php:187 pninit.php:242 pninit.php:646 pninit.php:695
+msgid "Error! Could not update table."
+msgstr "No s'ha pogut actualitzar la taula"
+
+#: pninit.php:132
+msgid "Error! Could not update articles."
+msgstr "No s'ha pogut actualitzar la notícia"
+
+#: pninit.php:139
+#, php-format
+msgid "Error! The '%s' module is not installed."
+msgstr "El mòdul %s no està instal·lat"
+
+#: pninit.php:146 pninit.php:155 pninit.php:159
+msgid "Error! Could not delete table."
+msgstr "No s'ha pogut esborrar la taula"
+
+#: pninit.php:171
+msgid "Error! Could not migrate categories."
+msgstr "No s'han pogut migrar les categories"
+
+#: pninit.php:206
+msgid "Error! Could not rename table."
+msgstr "No s'ha pogut canviar el nom de la taula"
+
+#: pninit.php:214 pninit.php:218 pninit.php:222
+msgid "Error! Could not rename column."
+msgstr "No s'ha pogut canviar el nom de la columna"
+
+#: pninit.php:358
+msgid "News introduction article"
+msgstr "Introducció a les notícies"
+
+#: pninit.php:359
+msgid "news_introduction_article"
+msgstr "news_introduction_article"
+
+#: pninit.php:360
+msgid ""
+"A news article is divided into an article teaser text (which is the lead-in "
+"text you are reading now) and an article body text (which you can view by "
+"clicking on the article's title or the 'Read more' link). The teaser will "
+"generally be a short introduction to the article, but if you plan to publish "
+"only very short bulletins, the teaser can contain the full draft and the "
+"article body can be left empty. Click on the article title for more "
+"information about Zikula's News publisher module."
+msgstr ""
+"Una notícia es divideix en un resum (el text que esteu llegint en aquests "
+"moments) i el cos de la notícia (al qual podeu accedir fent clic a l'enllaç "
+"'Llegeix més'). El resum és una introducció breu de la notícia, però si "
+"teniu previst escriure notícies curtes, el resum pot contenir la notícia "
+"completa i el cos es pot deixar en blanc. Feu clic sobre el títol de la "
+"notícia per obtenir més informació sobre el mòdul de publicació de notícies "
+"del Zikula."
+
+#: pninit.php:361 pntemplates/news_user_menu.htm:17
+#: pntemplates/news_user_menu.htm:24
+msgid "News"
+msgstr "Notícies"
+
+#: pninit.php:361
+#, php-format
+msgid ""
+"<h3>More about the News module</h3><p>You are now reading the body text of "
+"the article (starting as from the 'More about the News module' title above). "
+"Both the article teaser and the article body can contain URL links, images, "
+"mark-up (HTML tags and, if you have the additional necessary add-ons "
+"installed, other mark-up languages such as BBCode) You can learn more about "
+"the News module by reading the <a href=\"http://code.zikula.org/news/"
+"wiki#Documentation\">News Wiki Documentation</a>.</p><h3>Some more details</"
+"h3><p><img src=\"modules/News/pnimages/admin.gif\" width=\"48\" height="
+"\"48\" class=\"z-floatleft\" alt=\"News publisher admin image\"/>To control "
+"what HTML tags can be included in an article to format and enhance it, the "
+"site administrator should set the desired tags to enabled status by visiting "
+"the <a href=\"index.php?module=SecurityCenter&type=admin&func=allowedhtml"
+"\">Security centre</a>. With the News module, you can take advantage of "
+"Zikula's permissions system to control who gets what access to which parts "
+"of the News module. A moderator group can be created, containing registered "
+"site users who can add, edit and delete articles. This is just a simple "
+"example: the Zikula permissions system is sufficiently flexible to let you "
+"implement practically any organisation you want.</p><p>You can edit or "
+"delete this introductory article by clicking on the link beside the article "
+"title, or you can visit to the <a href=\"index.php?module="
+"%s&type=admin&func=view\">News admin pages</a>.</p>"
+msgstr ""
+"<h3>Més informació sobre el mòdul de notícies</h3><p>Ara esteu llegint el "
+"cos de la notícia. Tant el resum de la notícia com el cos poden contenir "
+"enllaços URL, imatges, etiquetes HTML i altres codis de format automàtic com "
+"el que pot proporcionar el mòdul BBCode. Podeu aprendre més coses sobre el "
+"mòdul de notícies si llegiu la <a href=\"http://code.zikula.org/news/"
+"wiki#Documentation\">documentació del mòdul que hi ha en el wiki</a> (en "
+"anglès).</p><h3>Alguns detalls més</h3><p><img src=\"modules/News/pnimages/"
+"admin.gif\" width=\"48\" height=\"48\" class=\"z-floatleft\" alt=\"Icona "
+"d'administració del mòdul\"/>Per controlar quines etiquetes HTML es poden "
+"incloure a la notícia per a donar-li format, l'administrador/a del lloc web "
+"ha d'establir quines són les etiquetes permeses des del <a href=\"index.php?"
+"module=SecurityCenter&type=admin&func=allowedhtml\">Centre de seguretat</a>. "
+"El mòdul de notícies us permet definir, per mitjà del sistema de permisos de "
+"Zikula, quin tipus d'accés té cada usuari/ària a les diferents notícies del "
+"portal. Per exemple podeu definir un grup de moderadors, un grup de "
+"redactors i altres perfils. El sistema de permisos de Zikula és prou "
+"flexible com per permetre-us implementar pràcticament qualsevol organització "
+"que us vagi bé.</p><p>Podeu editar o esborrar aquesta notícia introductòria "
+"si feu clic a l'enllaç que teniu a sota del títol de la notícia o podeu "
+"visitar <a href=\"index.php?module=%s&type=admin&func=view\">la pàgina "
+"d'administració de les notícies</a>.</p>"
+
+#: pninit.php:378
+msgid "Warning! Could not create the default News introductory article."
+msgstr "No s'ha pogut crear la introducció per defecte de la notícia"
+
+#: pninit.php:382
+msgid "Warning! Could not update the default News introductory article."
+msgstr "No s'ha pogut modificar la introducció per defecte de la notícia"
+
+#: pninit.php:480
+msgid "Error! Could not update the article categories."
+msgstr "No s'han pogut actualitzar les categories de les notícies"
+
+#: pninit.php:566
+msgid "Topics"
+msgstr "Temes"
+
+#: pninit.php:567
+msgid "Display and manage topics"
+msgstr "Mostra i gestiona els temes"
+
+#: pntemplates/news_user_articlepdf.htm:3 pntemplates/news_user_index.htm:5
+#: pntemplates/news_user_archives.htm:57 pntemplates/news_admin_modify.htm:300
+#: pntemplates/news_user_articlecontent.htm:24
+msgid "Contributed"
+msgstr "Enviada"
+
+#: pntemplates/news_block_stories_modify.htm:4
+msgid "Scope of news article listing"
+msgstr "Àmbit de la llista de notícies"
+
+#: pntemplates/news_block_stories_modify.htm:14
+#: pntemplates/news_admin_view.htm:23 pntemplates/news_admin_view.htm:84
+#: pntemplates/news_block_slideshow_modify.htm:5
+#: pntemplates/news_admin_new.htm:95 pntemplates/news_user_new.htm:89
+#: pntemplates/news_user_archives.htm:54 pntemplates/news_admin_modify.htm:87
+#: pntemplates/news_ajax_modify.htm:40
+msgid "Category"
+msgstr "Categoria"
+
+#: pntemplates/news_block_stories_modify.htm:16
+#: pntemplates/news_block_slideshow_modify.htm:7
+#: pntemplates/news_admin_new.htm:96 pntemplates/news_user_new.htm:90
+#: pntemplates/news_admin_modify.htm:88 pntemplates/news_ajax_modify.htm:41
+msgid "Choose category"
+msgstr "Trieu una categoria"
+
+#: pntemplates/news_block_stories_modify.htm:25
+#: pntemplates/news_block_slideshow_modify.htm:17
+msgid "Maximum number of articles to display"
+msgstr "Nombre màxim de notícies que s'han de mostrar"
+
+#: pntemplates/news_admin_view.htm:47 pntemplates/news_admin_view.htm:65
+#: pntemplates/news_admin_new.htm:109 pntemplates/news_user_new.htm:103
+msgid "Language"
+msgstr "Idioma"
+
+#: pntemplates/news_admin_view.htm:52 pntemplates/news_admin_view.htm:69
+#: pntemplates/news_block_storiesext_modify.htm:34
+#: pntemplates/contenttype/newsarticles_edit.html:34
+msgid "Status"
+msgstr "Estat"
+
+#: pntemplates/news_admin_view.htm:55
+#: pntemplates/news_block_storiesext_modify.htm:42
+#: pntemplates/contenttype/newsarticles_edit.html:45
+msgid "Order articles by"
+msgstr "Ordena els articles"
+
+#: pntemplates/news_admin_view.htm:58 pntemplates/news_admin_view.htm:71
+msgid "Apply filter"
+msgstr "Aplica el filtre"
+
+#: pntemplates/news_admin_view.htm:59 pntemplates/news_admin_view.htm:72
+#: pntemplates/news_admin_view.htm:145
+msgid "Reset"
+msgstr "Reinicia"
+
+#: pntemplates/news_admin_view.htm:80
+msgid "ID"
+msgstr "ID"
+
+#: pntemplates/news_admin_view.htm:81 pntemplates/news_admin_new.htm:74
+#: pntemplates/news_user_new.htm:72 pntemplates/news_user_archives.htm:52
+#: pntemplates/news_admin_modify.htm:72 pntemplates/news_ajax_modify.htm:25
+msgid "Title"
+msgstr "Títol"
+
+#: pntemplates/news_admin_view.htm:82
+msgid "Contributor"
+msgstr "Enviada per"
+
+#: pntemplates/news_admin_view.htm:87 pntemplates/news_admin_new.htm:170
+#: pntemplates/news_user_new.htm:160 pntemplates/news_admin_modify.htm:161
+#: pntemplates/news_ajax_modify.htm:114
+msgid "Pictures"
+msgstr "Imatges"
+
+#: pntemplates/news_admin_view.htm:89
+msgid "Index page<br />listing / Weight"
+msgstr "Índex de pàgines<br />(llista/pes)"
+
+#: pntemplates/news_admin_view.htm:90
+msgid "Date"
+msgstr "Data"
+
+#: pntemplates/news_admin_view.htm:91
+msgid "Actions"
+msgstr "Accions"
+
+#: pntemplates/news_admin_view.htm:117
+#, php-format
+msgid "Last edited %s"
+msgstr "Darrera edició %s"
+
+#: pntemplates/news_admin_view.htm:119
+msgid "Scheduled for"
+msgstr "Programat per"
+
+#: pntemplates/news_admin_view.htm:121
+#, php-format
+msgid "until %s"
+msgstr "fins a %s"
+
+#: pntemplates/news_admin_view.htm:124
+msgid "No comments allowed"
+msgstr "No s'admeten comentaris"
+
+#: pntemplates/news_admin_view.htm:135
+msgid "No articles currently in database."
+msgstr "No hi ha notícies a la base de dades"
+
+#: pntemplates/news_admin_view.htm:142
+msgid "Access a past article via its ID"
+msgstr "Accés a notícies antigues pel seu ID"
+
+#: pntemplates/news_admin_view.htm:144
+msgid "Go retrieve"
+msgstr "Recupera"
+
+#: pntemplates/news_user_menu.htm:30
+msgid "News index page"
+msgstr "Inici de les notícies"
+
+#: pntemplates/news_user_menu.htm:32 pntemplates/news_user_categorylist.htm:41
+#: pntemplates/news_user_categorylist.htm:43
+#: pntemplates/news_user_categorylist.htm:84
+#: pntemplates/news_user_categorylist.htm:86
+msgid "RSS feed"
+msgstr "Canal RSS"
+
+#: pntemplates/news_user_menu.htm:37 pntemplates/news_user_categorylist.htm:8
+msgid "News categories"
+msgstr "Categories de notícies"
+
+#: pntemplates/news_user_menu.htm:42 pntemplates/news_user_archives.htm:12
+#: pntemplates/news_user_archives.htm:15
+msgid "News archive"
+msgstr "Notícies arxivades"
+
+#: pntemplates/news_user_menu.htm:54
+#, php-format
+msgid "%s pending article"
+msgid_plural "%s pending articles"
+msgstr[0] "%s notícia pendent"
+msgstr[1] "%s notícies pendents"
+
+#: pntemplates/news_user_menu.htm:57
+msgid "Admin"
+msgstr "Admin"
+
+#: pntemplates/news_user_article.htm:13 pntemplates/news_admin_new.htm:27
+#: pntemplates/news_admin_new.htm:159 pntemplates/news_admin_new.htm:190
+#: pntemplates/news_admin_new.htm:253 pntemplates/news_user_new.htm:29
+#: pntemplates/news_user_new.htm:149 pntemplates/news_user_new.htm:180
+#: pntemplates/news_user_new.htm:237 pntemplates/news_admin_modify.htm:31
+#: pntemplates/news_admin_modify.htm:151 pntemplates/news_admin_modify.htm:188
+#: pntemplates/news_admin_modify.htm:246 pntemplates/news_ajax_modify.htm:104
+#: pntemplates/news_ajax_modify.htm:136 pntemplates/news_ajax_modify.htm:194
+msgid "Show"
+msgstr "Mostra"
+
+#: pntemplates/news_user_article.htm:14 pntemplates/news_admin_new.htm:28
+#: pntemplates/news_user_new.htm:30 pntemplates/news_admin_modify.htm:32
+msgid "Hide"
+msgstr "Amaga"
+
+#: pntemplates/news_user_article.htm:27
+msgid "More articles in category "
+msgstr "Més articles a la categoria "
+
+#: pntemplates/news_block_storiesext_scrollmarquee.htm:25
+#: pntemplates/news_block_storiesext_witheditblock.htm:11
+#: pntemplates/news_block_storiesext_scrollfade.htm:26
+#: pntemplates/news_block_storiesext_scrollpause.htm:26
+msgid "Edit this block"
+msgstr "Edita aquest bloc"
+
+#: pntemplates/news_block_storiesext_modify.htm:5
+#: pntemplates/contenttype/newsarticles_edit.html:4
+#: pntemplates/news_admin_modifyconfig.htm:16
+msgid "General settings"
+msgstr "Configuració general"
+
+#: pntemplates/news_block_storiesext_modify.htm:7
+msgid "Articles to list"
+msgstr "Notícies que s'han de posar a la llista"
+
+#: pntemplates/news_block_storiesext_modify.htm:16
+#: pntemplates/contenttype/newsarticles_edit.html:13
+msgid "Choose categories"
+msgstr "Tria categories"
+
+#: pntemplates/news_block_storiesext_modify.htm:16
+msgid "Category registry"
+msgstr "Registre de categories"
+
+#: pntemplates/news_block_storiesext_modify.htm:23
+msgid "None"
+msgstr "Cap"
+
+#: pntemplates/news_block_storiesext_modify.htm:30
+#: pntemplates/news_block_past_modify.htm:4
+msgid "Maximum number of news articles to display"
+msgstr "Nombre màxim de notícies que s'han de mostrar"
+
+#: pntemplates/news_block_storiesext_modify.htm:51
+msgid "Maximum age of articles"
+msgstr "Temps màxim d'antiguitat de les notícies"
+
+#: pntemplates/news_block_storiesext_modify.htm:53
+#: pntemplates/contenttype/newsarticles_edit.html:41
+msgid "(Number of days; 0 for no limit)"
+msgstr "(Nombre de dies; 0 per no posar límit)"
+
+#: pntemplates/news_block_storiesext_modify.htm:56
+msgid "Maximum length of titles"
+msgstr "Mida màxima dels títols"
+
+#: pntemplates/news_block_storiesext_modify.htm:58
+#: pntemplates/news_block_storiesext_modify.htm:131
+#: pntemplates/contenttype/newsarticles_edit.html:52
+#: pntemplates/contenttype/newsarticles_edit.html:140
+msgid "(Number of characters; 0 for no limit)"
+msgstr "(Nombre de caràcters; 0 per no posar límit)"
+
+#: pntemplates/news_block_storiesext_modify.htm:61
+#: pntemplates/contenttype/newsarticles_edit.html:56
+msgid "Suffix appended to truncated title"
+msgstr "Sufix que s'ha d'afegir en els títol truncats"
+
+#: pntemplates/news_block_storiesext_modify.htm:65
+msgid ""
+"Show 'No articles currently published' status message when no articles "
+"published"
+msgstr ""
+"Mostra el missatge d'estat 'No hi ha notícies publicades' quan no hi ha "
+"notícies publicades"
+
+#: pntemplates/news_block_storiesext_modify.htm:71
+msgid "Custom templates"
+msgstr "Plantilles personalitzades"
+
+#: pntemplates/news_block_storiesext_modify.htm:72
+msgid ""
+"Notice: You can use your own custom templates instead of the default "
+"templates. You must specify them here.The default template for block rows is "
+"'news_block_storiesext_row.htm'. The default block template depends on the "
+"scroll setting. The default static template is 'news_block_storiesext.htm'. "
+"For scrolling content, 'news_block_storiesext_scrollNAME.htm' is used."
+msgstr ""
+"Podeu utilitzar plantilles personalitzades en lloc de les que venen per "
+"defecte. Cal que les especifiqueu aquí. La plantilla per defecte per a les "
+"files del bloc és 'news_block_storiesext_row.htm'. La plantilla per defecte "
+"del bloc depèn dels paràmetres de l'\"scroll\". La plantilla estàtica per "
+"defecte és 'news_block_storiesext.htm'. Per poder fer \"scroll\" dels "
+"continguts s'utilitza la plantilla 'news_block_storiesext_scrollNAME.htm'."
+
+#: pntemplates/news_block_storiesext_modify.htm:74
+msgid "Custom block template"
+msgstr "Plantilla personalitzada del bloc"
+
+#: pntemplates/news_block_storiesext_modify.htm:76
+#: pntemplates/news_block_storiesext_modify.htm:81
+msgid "(Default template is used if this box is left blank)"
+msgstr "(Plantilla per defecte que s'utilitza si la caixa es deixa en blanc)"
+
+#: pntemplates/news_block_storiesext_modify.htm:79
+msgid "Custom row template"
+msgstr "Plantilla personalitzada de les files"
+
+#: pntemplates/news_block_storiesext_modify.htm:86
+msgid "Advanced block settings"
+msgstr "Configuració avançada del bloc"
+
+#: pntemplates/news_block_storiesext_modify.htm:88
+msgid "Show contributor's name"
+msgstr "Mostra els noms de qui ha enviat cada notícia"
+
+#: pntemplates/news_block_storiesext_modify.htm:92
+msgid "Show article creation date"
+msgstr "Mostra la data de creació de la notícia"
+
+#: pntemplates/news_block_storiesext_modify.htm:96
+#: pntemplates/contenttype/newsarticles_edit.html:74
+msgid "Date format"
+msgstr "Format de la data"
+
+#: pntemplates/news_block_storiesext_modify.htm:98
+msgid "Click here to read 'strftime' description in PHP documentation"
+msgstr ""
+"Fes clic aquí per llegir la documentació que descriu l'ús d''strftime'."
+
+#: pntemplates/news_block_storiesext_modify.htm:101
+msgid "Show number of pageviews"
+msgstr "Mostra el nombre de pàgines vistes"
+
+#: pntemplates/news_block_storiesext_modify.htm:107
+msgid "Show number of comments"
+msgstr "Mostra el nombre de comentaris"
+
+#: pntemplates/news_block_storiesext_modify.htm:112
+msgid "Separator character for additional information"
+msgstr "Caràcter separador per a informació addicional"
+
+#: pntemplates/news_block_storiesext_modify.htm:118
+#: pntemplates/contenttype/newsarticles_edit.html:128
+msgid "Index page teaser settings"
+msgstr "Configuració de la pàgina d'índexs dels resums"
+
+#: pntemplates/news_block_storiesext_modify.htm:120
+msgid "Display article's index page teaser"
+msgstr "Mostra el resum a la pàgina inici"
+
+#: pntemplates/news_block_storiesext_modify.htm:127
+#: pntemplates/contenttype/newsarticles_edit.html:133
+msgid ""
+"Notice: When truncating the index page teaser text, incomplete HTML mark-up "
+"elements will be completed by the 'truncatehtml' plug-in."
+msgstr ""
+"Nota: Quan es trunqui el text del resum de la pàgina d'inici, les etiquetes "
+"HTML incompletes seran completades pel connector 'truncatehtml'."
+
+#: pntemplates/news_block_storiesext_modify.htm:129
+msgid "Maximum displayed length of index page teaser"
+msgstr "Mida màxima del resum a mostrar a la pàgina d'inici"
+
+#: pntemplates/news_block_storiesext_modify.htm:134
+msgid "Suffix appended to truncated index page teaser"
+msgstr "Sufix per truncar el resum de la pàgina d'inici"
+
+#: pntemplates/news_block_storiesext_modify.htm:141
+msgid "Article recency settings"
+msgstr "Configuració de les notícies recents"
+
+#: pntemplates/news_block_storiesext_modify.htm:143
+msgid "Display image for recent article titles"
+msgstr "Mostra una imatge pels títols de les notícies recents"
+
+#: pntemplates/news_block_storiesext_modify.htm:151
+#: pntemplates/contenttype/newsarticles_edit.html:111
+msgid "Number of days during which article is considered recent"
+msgstr "Nombre de dies que una notícia es considera recent"
+
+#: pntemplates/news_block_storiesext_modify.htm:155
+#: pntemplates/contenttype/newsarticles_edit.html:116
+msgid "Image set for 'New' image"
+msgstr "Joc d'imatges per a la imatge 'Nova'"
+
+#: pntemplates/news_block_storiesext_modify.htm:157
+#: pntemplates/news_block_storiesext_modify.htm:162
+#: pntemplates/contenttype/newsarticles_edit.html:118
+#: pntemplates/contenttype/newsarticles_edit.html:124
+msgid "(Used by 'pnimg' plug-in)"
+msgstr "(usat pel connector 'pnimg')"
+
+#: pntemplates/news_block_storiesext_modify.htm:160
+#: pntemplates/contenttype/newsarticles_edit.html:122
+msgid "File name of 'New' image from image set"
+msgstr "Nom del fitxer de la imatge de la notícia dins del conjunt d'imatges"
+
+#: pntemplates/news_block_storiesext_modify.htm:168
+msgid "News item scroll settings"
+msgstr "Configuració de les barres de desplaçament de les notícies"
+
+#: pntemplates/news_block_storiesext_modify.htm:169
+msgid ""
+"Notice: News articles can shown in a scrolling box. The provided scrollers "
+"are based upon code from the <a href=\"http://www.dynamicdrive.com/"
+"dynamicindex2/crosstick.htm\">dynamicdrive.com 'crosstick'</a> upward and "
+"downward pauseable vertical scroller, the <a href=\"http://www.dynamicdrive."
+"com/dynamicindex2/memoryticker.htm\">dynamicdrive.com 'memoryticker'</a> "
+"fading scroller (gradient wipe effect only works in IE), and the <a href="
+"\"http://www.dynamicdrive.com/dynamicindex2/cmarquee2.htm\" target=\"_new"
+"\">dynamicdrive.com 'marquee II'</a> marquee scroller."
+msgstr ""
+"Atenció: les notícies es poden mostrar dins d'un quadre amb barres de "
+"desplaçament. Aquestes barres estan basades en el codi publicat a "
+"dynamicdrive.com de <a href=\"http://www.dynamicdrive.com/dynamicindex2/"
+"crosstick.htm\">'crosstick'</a>, <a href=\"http://www.dynamicdrive.com/"
+"dynamicindex2/memoryticker.htm\">'memoryticker'</a> i <a href=\"http://www."
+"dynamicdrive.com/dynamicindex2/cmarquee2.htm\" target=\"_new\">'marquee II'</"
+"a>"
+
+#: pntemplates/news_block_storiesext_modify.htm:171
+msgid "Choose scroller"
+msgstr "Tria una barra de desplaçament"
+
+#: pntemplates/news_block_storiesext_modify.htm:173
+msgid "No scrolling"
+msgstr "Sense barres de desplaçament"
+
+#: pntemplates/news_block_storiesext_modify.htm:174
+msgid "Pauseable vertical scroller"
+msgstr "Barra de desplaçament vertical que pot fer pausa"
+
+#: pntemplates/news_block_storiesext_modify.htm:175
+msgid "Fading scroller"
+msgstr "Barra de desplaçament que s'esvaeix"
+
+#: pntemplates/news_block_storiesext_modify.htm:176
+msgid "Marquee scroller"
+msgstr "Barra de desplaçament mòbil"
+
+#: pntemplates/news_block_storiesext_modify.htm:181
+msgid "Scroller CSS styles definition"
+msgstr "Definició dels fulls d'estils de la barra de desplaçament"
+
+#: pntemplates/news_block_storiesext_modify.htm:185
+msgid "Delay between scrolls and starting delay for marquee"
+msgstr ""
+"Retard entre els desplaçaments i el retard inicial de la barra que s'esvaeix."
+
+#: pntemplates/news_block_storiesext_modify.htm:187
+msgid "(Number of milliseconds)"
+msgstr "(Nombre de mil·lisegons)"
+
+#: pntemplates/news_block_storiesext_modify.htm:190
+msgid "Marquee scroller speed"
+msgstr "Velocitat de la barra de desplaçament mòbil"
+
+#: pntemplates/news_block_storiesext_modify.htm:192
+msgid "(Number from 1 to 10)"
+msgstr "(Número entre 1 i 10)"
+
+#: pntemplates/news_user_index.htm:11 pntemplates/news_user_index.htm:13
+#: pntemplates/news_user_articlecontent.htm:33
+#: pntemplates/news_user_articlecontent.htm:54
+#, php-format
+msgid "Picture %s for %s"
+msgstr "Imatge %s per %s"
+
+#: pntemplates/news_user_index.htm:26
+msgid "Filed under:"
+msgstr "Desat sota:"
+
+#: pntemplates/news_user_categorylist.htm:18
+#: pntemplates/news_user_archives.htm:26
+#, php-format
+msgid "%s article"
+msgid_plural "%s articles"
+msgstr[0] "%s notícia"
+msgstr[1] "%s notícies"
+
+#: pntemplates/news_user_categorylist.htm:20
+msgid "Currently no articles"
+msgstr "No hi ha notícies en aquests moments"
+
+#: pntemplates/news_user_categorylist.htm:47
+#: pntemplates/news_user_categorylist.htm:90
+msgid "Edit this category"
+msgstr "Edita aquesta categoria"
+
+#: pntemplates/news_user_categorylist.htm:59
+#: pntemplates/news_user_categorylist.htm:102
+#, php-format
+msgid "%s article."
+msgid_plural "%s articles."
+msgstr[0] "%s notícia"
+msgstr[1] "%s notícies"
+
+#: pntemplates/news_user_categorylist.htm:60
+#: pntemplates/news_user_categorylist.htm:103
+msgid "Total"
+msgstr "Total"
+
+#: pntemplates/news_user_categorylist.htm:61
+#: pntemplates/news_user_categorylist.htm:104
+#, php-format
+msgid "%s contributed by you."
+msgstr "%s enviades per vostè."
+
+#: pntemplates/news_user_categorylist.htm:63
+#: pntemplates/news_user_categorylist.htm:106
+msgid "Currently no articles."
+msgstr "No hi ha notícies en aquests moments"
+
+#: pntemplates/news_block_big.htm:3
+msgid "Today's most-read article is:"
+msgstr "La notícia més llegida avui és:"
+
+#: pntemplates/news_block_slideshow_modify.htm:15
+msgid ""
+"Notice: the news publisher slideshow block is developed for the case where "
+"every article has images. Furthermore it only works fine if the sizing is "
+"set to adaptive resizing, which gives fixed dimensions."
+msgstr ""
+"Atenció: el bloc \"slideshow\" del publicador de notícies està desenvolupat "
+"pel cas en el que tots els articles tinguin imatges. A més, només funciona "
+"correctament si s'estableix una mida de les imatges acceptable, la qual cosa "
+"dóna lloc a mides fixes."
+
+#: pntemplates/news_admin_new.htm:26 pntemplates/news_user_new.htm:28
+#: pntemplates/news_user_new.htm:134 pntemplates/news_admin_modify.htm:30
+#: pntemplates/news_user_articlecontent.htm:5
+msgid "#chars characters out of 65,536"
+msgstr "#chars caràcters disponibles de 65,536"
+
+#: pntemplates/news_admin_new.htm:29 pntemplates/news_admin_new.htm:313
+#: pntemplates/news_user_new.htm:31 pntemplates/news_user_new.htm:296
+#: pntemplates/news_admin_modify.htm:33 pntemplates/news_admin_modify.htm:329
+#: pntemplates/news_admin_modify.htm:333
+msgid "Publish"
+msgstr "Publica"
+
+#: pntemplates/news_admin_new.htm:30 pntemplates/news_user_new.htm:32
+#: pntemplates/news_admin_modify.htm:34
+msgid "Schedule"
+msgstr "Programa"
+
+#: pntemplates/news_admin_new.htm:31 pntemplates/news_admin_new.htm:310
+#: pntemplates/news_admin_new.htm:311 pntemplates/news_user_new.htm:33
+#: pntemplates/news_user_new.htm:294 pntemplates/news_admin_modify.htm:35
+#: pntemplates/news_admin_modify.htm:323
+msgid "Save as draft"
+msgstr "Desa com a esborrany"
+
+#: pntemplates/news_admin_new.htm:32 pntemplates/news_user_new.htm:34
+#: pntemplates/news_admin_modify.htm:36 pntemplates/news_admin_modify.htm:321
+msgid "Update draft"
+msgstr "Modifica aquest esborrany"
+
+#: pntemplates/news_admin_new.htm:33 pntemplates/news_user_new.htm:35
+#: pntemplates/news_admin_modify.htm:37
+msgid "Saving draft..."
+msgstr "Desant..."
+
+#: pntemplates/news_admin_new.htm:34 pntemplates/news_user_new.htm:36
+msgid "<strong>Title is empty, draft not saved!</strong>"
+msgstr "<strong>El títol està buit i no es por desar l'esborrany!</strong>"
+
+#: pntemplates/news_admin_new.htm:35
+msgid "Remove"
+msgstr "Suprimeix"
+
+#: pntemplates/news_admin_new.htm:36
+msgid "Picture"
+msgstr "Imatge"
+
+#: pntemplates/news_admin_new.htm:77 pntemplates/news_user_new.htm:75
+#: pntemplates/news_admin_modify.htm:75 pntemplates/news_ajax_modify.htm:28
+msgid "Title text"
+msgstr "Text del títol"
+
+#: pntemplates/news_admin_new.htm:82
+msgid "Permalink"
+msgstr "Enllaç permanent"
+
+#: pntemplates/news_admin_new.htm:88 pntemplates/news_user_new.htm:81
+#: pntemplates/news_admin_modify.htm:80 pntemplates/news_ajax_modify.htm:33
+msgid "Permalink URL"
+msgstr "URL de l'enllaç permanent"
+
+#: pntemplates/news_admin_new.htm:90 pntemplates/news_user_new.htm:83
+#: pntemplates/news_admin_modify.htm:82 pntemplates/news_ajax_modify.htm:35
+msgid "(Generated automatically if left blank)"
+msgstr "(En blanc = generat automàticament)"
+
+#: pntemplates/news_admin_new.htm:120 pntemplates/news_user_new.htm:110
+#: pntemplates/news_admin_modify.htm:113 pntemplates/news_ajax_modify.htm:66
+msgid "Article"
+msgstr "Notícia"
+
+#: pntemplates/news_admin_new.htm:123 pntemplates/news_user_new.htm:113
+#: pntemplates/news_admin_modify.htm:116 pntemplates/news_ajax_modify.htm:69
+msgid "Permitted HTML tags"
+msgstr "Etiquetes HTML permeses"
+
+#: pntemplates/news_admin_new.htm:126 pntemplates/news_user_new.htm:116
+#: pntemplates/news_admin_modify.htm:119 pntemplates/news_ajax_modify.htm:72
+msgid "Index page teaser text"
+msgstr "Resum de la pàgina d'inici"
+
+#: pntemplates/news_admin_new.htm:128 pntemplates/news_admin_new.htm:144
+#: pntemplates/news_admin_new.htm:162 pntemplates/news_user_new.htm:118
+#: pntemplates/news_user_new.htm:152 pntemplates/news_admin_modify.htm:121
+#: pntemplates/news_admin_modify.htm:137 pntemplates/news_admin_modify.htm:154
+#: pntemplates/news_ajax_modify.htm:74 pntemplates/news_ajax_modify.htm:90
+#: pntemplates/news_ajax_modify.htm:107
+msgid "(Limit: 65,536 characters)"
+msgstr "(Límit: 65,536 caràcters)"
+
+#: pntemplates/news_admin_new.htm:133 pntemplates/news_user_new.htm:123
+#: pntemplates/news_admin_modify.htm:126 pntemplates/news_ajax_modify.htm:79
+msgid "Index page teaser format"
+msgstr "Format del resum"
+
+#: pntemplates/news_admin_new.htm:135 pntemplates/news_admin_new.htm:151
+#: pntemplates/news_user_new.htm:125 pntemplates/news_user_new.htm:141
+#: pntemplates/news_admin_modify.htm:128 pntemplates/news_admin_modify.htm:144
+#: pntemplates/news_ajax_modify.htm:81 pntemplates/news_ajax_modify.htm:97
+msgid "Plain text"
+msgstr "Text pla"
+
+#: pntemplates/news_admin_new.htm:136 pntemplates/news_admin_new.htm:152
+#: pntemplates/news_user_new.htm:126 pntemplates/news_user_new.htm:142
+#: pntemplates/news_admin_modify.htm:129 pntemplates/news_admin_modify.htm:145
+#: pntemplates/news_ajax_modify.htm:82 pntemplates/news_ajax_modify.htm:98
+msgid "Text formatted with mark-up language"
+msgstr "Text formatat amb estils predissenyats"
+
+#: pntemplates/news_admin_new.htm:142 pntemplates/news_user_new.htm:132
+#: pntemplates/news_admin_modify.htm:135 pntemplates/news_ajax_modify.htm:88
+msgid "Article body text"
+msgstr "Cos de la notícia"
+
+#: pntemplates/news_admin_new.htm:149 pntemplates/news_user_new.htm:139
+#: pntemplates/news_admin_modify.htm:142 pntemplates/news_ajax_modify.htm:95
+msgid "Article body format"
+msgstr "Format del cos de la notícia"
+
+#: pntemplates/news_admin_new.htm:159 pntemplates/news_user_new.htm:149
+#: pntemplates/news_admin_modify.htm:151 pntemplates/news_ajax_modify.htm:104
+msgid "Footnote"
+msgstr "Nota al peu"
+
+#: pntemplates/news_admin_new.htm:171 pntemplates/news_user_new.htm:161
+#: pntemplates/news_admin_modify.htm:162
+#, php-format
+msgid "Select a picture (max. %s kB per picture)"
+msgstr "Selecciona una imatge (màxim %s kB per imatge)"
+
+#: pntemplates/news_admin_new.htm:176 pntemplates/news_user_new.htm:166
+#: pntemplates/news_admin_modify.htm:167 pntemplates/news_ajax_modify.htm:116
+#, php-format
+msgid ""
+"(max files %s, first picture is used as thumbnail in the index teaser page "
+"for this article.)"
+msgstr ""
+"(màxim de fitxers %s, la primera imatge s'usarà com a miniatura a la pàgina "
+"d'inici per a aquest article.)"
+
+#: pntemplates/news_admin_new.htm:190 pntemplates/news_user_new.htm:180
+#: pntemplates/news_admin_modify.htm:188 pntemplates/news_ajax_modify.htm:136
+msgid "Publishing options"
+msgstr "Opcions de publicació"
+
+#: pntemplates/news_admin_new.htm:193 pntemplates/news_user_new.htm:183
+#: pntemplates/news_admin_modify.htm:191 pntemplates/news_ajax_modify.htm:139
+msgid "Publish on news index page"
+msgstr "Publica a la pàgina d'inici de les notícies"
+
+#: pntemplates/news_admin_new.htm:203 pntemplates/news_user_new.htm:193
+#: pntemplates/news_admin_modify.htm:201 pntemplates/news_ajax_modify.htm:149
+msgid "No time limit"
+msgstr "Sense límit de temps"
+
+#: pntemplates/news_admin_new.htm:209 pntemplates/news_user_new.htm:198
+#: pntemplates/news_admin_modify.htm:207 pntemplates/news_ajax_modify.htm:155
+msgid "Start date"
+msgstr "Data d'inici"
+
+#: pntemplates/news_admin_new.htm:215 pntemplates/news_user_new.htm:204
+#: pntemplates/news_admin_modify.htm:213 pntemplates/news_ajax_modify.htm:161
+msgid "No end date"
+msgstr "Sense data de finalització"
+
+#: pntemplates/news_admin_new.htm:220 pntemplates/news_user_new.htm:209
+#: pntemplates/news_admin_modify.htm:218 pntemplates/news_ajax_modify.htm:166
+msgid "End date"
+msgstr "Data de finalització"
+
+#: pntemplates/news_admin_new.htm:228 pntemplates/news_user_new.htm:217
+#: pntemplates/news_admin_modify.htm:226 pntemplates/news_ajax_modify.htm:174
+msgid "Allow comments on this article"
+msgstr "Permet els comentaris en aquesta notícia"
+
+#: pntemplates/news_admin_new.htm:253 pntemplates/news_user_new.htm:237
+#: pntemplates/news_admin_modify.htm:246 pntemplates/news_ajax_modify.htm:194
+msgid "Article attributes"
+msgstr "Atributs de la notícia"
+
+#: pntemplates/news_admin_new.htm:257 pntemplates/news_user_new.htm:241
+#: pntemplates/news_admin_modify.htm:250 pntemplates/news_ajax_modify.htm:198
+msgid "Create new attribute"
+msgstr "Crea un atribut nou"
+
+#: pntemplates/news_admin_new.htm:273 pntemplates/news_admin_new.htm:293
+#: pntemplates/news_user_new.htm:257 pntemplates/news_user_new.htm:277
+#: pntemplates/news_admin_modify.htm:266 pntemplates/news_admin_modify.htm:286
+#: pntemplates/news_ajax_modify.htm:214 pntemplates/news_ajax_modify.htm:234
+msgid "Delete this attribute"
+msgstr "Esborra aquest atribut"
+
+#: pntemplates/news_admin_new.htm:306 pntemplates/news_user_new.htm:290
+#: pntemplates/news_admin_modify.htm:316
+msgid "Preview this article"
+msgstr "Previsualització de la notícia"
+
+#: pntemplates/news_admin_new.htm:306 pntemplates/news_user_new.htm:290
+#: pntemplates/news_admin_modify.htm:316
+msgid "Preview"
+msgstr "Previsualitza"
+
+#: pntemplates/news_admin_new.htm:308 pntemplates/news_user_new.htm:292
+#: pntemplates/news_admin_modify.htm:318
+msgid "Submit this article"
+msgstr "Tramet aquesta notícia"
+
+#: pntemplates/news_admin_new.htm:308 pntemplates/news_user_new.htm:292
+#: pntemplates/news_admin_modify.htm:318
+msgid "Submit"
+msgstr "Tramet"
+
+#: pntemplates/news_admin_new.htm:310 pntemplates/news_admin_new.htm:311
+#: pntemplates/news_user_new.htm:294 pntemplates/news_admin_modify.htm:323
+msgid "Save this article as draft"
+msgstr "Desa aquesta notícia com a esborrany"
+
+#: pntemplates/news_admin_new.htm:312 pntemplates/news_user_new.htm:295
+#: pntemplates/news_admin_modify.htm:326 pntemplates/news_ajax_modify.htm:252
+msgid "Mark this article as pending"
+msgstr "Marca aquesta notícia com a pendent"
+
+#: pntemplates/news_admin_new.htm:312 pntemplates/news_user_new.htm:295
+#: pntemplates/news_admin_modify.htm:326
+msgid "Pending"
+msgstr "Pendent"
+
+#: pntemplates/news_admin_new.htm:313 pntemplates/news_user_new.htm:296
+#: pntemplates/news_admin_modify.htm:333
+msgid "Publish this article"
+msgstr "Publica aquesta notícia"
+
+#: pntemplates/news_admin_new.htm:315 pntemplates/news_user_new.htm:298
+#: pntemplates/news_admin_modify.htm:345 pntemplates/news_ajax_modify.htm:256
+#: pntemplates/news_admin_modifyconfig.htm:272
+#: pntemplates/news_admin_delete.htm:18
+msgid "Cancel"
+msgstr "Cancel·la"
+
+#: pntemplates/news_search_options.htm:5
+msgid "News articles"
+msgstr "Notícies"
+
+#: pntemplates/contenttype/newsarticles_view.html:21
+#, php-format
+msgid "Contributed by %s"
+msgstr "Enviada per %s"
+
+#: pntemplates/contenttype/newsarticles_view.html:22
+#: pntemplates/news_block_storiesext_row.htm:9
+#, php-format
+msgid "on %s"
+msgstr "el %s"
+
+#: pntemplates/contenttype/newsarticles_view.html:23
+#: pntemplates/news_block_storiesext_row.htm:10
+#, php-format
+msgid "%s pageview"
+msgid_plural "%s pageviews"
+msgstr[0] "%s visualització"
+msgstr[1] "%s visualitzacions"
+
+#: pntemplates/contenttype/newsarticles_view.html:50
+msgid "No articles published recently."
+msgstr "Recentment no s'ha publicat notícies."
+
+#: pntemplates/contenttype/newsarticles_edit.html:6
+msgid "Widget title"
+msgstr "Títol del widget"
+
+#: pntemplates/contenttype/newsarticles_edit.html:19
+msgid ""
+"(An empty category selection will show articles from all available "
+"categories)"
+msgstr ""
+"(La selecció d'una categoria buida mostrarà els articles de totes les "
+"categories disponibles)"
+
+#: pntemplates/contenttype/newsarticles_edit.html:24
+msgid "Display"
+msgstr "Mostra"
+
+#: pntemplates/contenttype/newsarticles_edit.html:29
+msgid "Number of articles"
+msgstr "Nombre de notícies"
+
+#: pntemplates/contenttype/newsarticles_edit.html:39
+msgid "Limit of backward reach"
+msgstr "Límit per anar cap enrere"
+
+#: pntemplates/contenttype/newsarticles_edit.html:50
+msgid "Maximum displayed length of title"
+msgstr "Mida màxima del títol que s'ha de mostrar"
+
+#: pntemplates/contenttype/newsarticles_edit.html:60
+msgid "Information settings"
+msgstr "Configuració de la informació"
+
+#: pntemplates/contenttype/newsarticles_edit.html:63
+msgid "Display contributor's name"
+msgstr "Mostra els noms dels contribuïdors"
+
+#: pntemplates/contenttype/newsarticles_edit.html:68
+msgid "Display article creation date"
+msgstr "Mostra la data de creació de la notícia"
+
+#: pntemplates/contenttype/newsarticles_edit.html:70
+msgid "(Only shown when contributor's name is also enabled)"
+msgstr "(Només es mostra quan el nom del col·laborador està també habilitat)"
+
+#: pntemplates/contenttype/newsarticles_edit.html:76
+msgid ""
+"Refer to the <a href=\"http://www.php.net/manual/function.strftime.php"
+"\">'strftime' description</a> in the PHP documentation."
+msgstr ""
+"Referència a <a href=\\http://www.php.net/manual/function.strftime.php\\>la "
+"descripció de 'strftime'</a> a la documentació de PHP."
+
+#: pntemplates/contenttype/newsarticles_edit.html:80
+msgid "Display number of pageviews"
+msgstr "Mostra el nombre de visualitzacions"
+
+#: pntemplates/contenttype/newsarticles_edit.html:87
+msgid "Display number of comments"
+msgstr "Mostra el nombre de comentaris"
+
+#: pntemplates/contenttype/newsarticles_edit.html:93
+msgid "Separator character for article information"
+msgstr "Caràcter que separa la informació de la notícia"
+
+#: pntemplates/contenttype/newsarticles_edit.html:98
+msgid "Display 'Submit an article' link"
+msgstr "Mosta l'enllaç 'Tramet una notícia'"
+
+#: pntemplates/contenttype/newsarticles_edit.html:102
+msgid "Article settings"
+msgstr "Configuració de la notícia"
+
+#: pntemplates/contenttype/newsarticles_edit.html:105
+msgid "Display an icon to highlight recent article titles"
+msgstr "Mostra una icona per ressaltar els títols de les notícies recents"
+
+#: pntemplates/contenttype/newsarticles_edit.html:131
+msgid "Display article's index page teaser text"
+msgstr "Mostra el resum de la notícia a la pàgina d'inici"
+
+#: pntemplates/contenttype/newsarticles_edit.html:138
+msgid "Maximum displayed length of index page teaser text"
+msgstr "Mida màxima que s'ha de mostrar del resum a la pàgina d'inici"
+
+#: pntemplates/contenttype/newsarticles_edit.html:144
+msgid "Suffix appended to truncated index page teaser text"
+msgstr "Sufixe per truncar el resum de la pàgina d'inici"
+
+#: pntemplates/news_user_archives.htm:16
+msgid "Expand all"
+msgstr "Expandeix-ho tot"
+
+#: pntemplates/news_user_archives.htm:16
+msgid "Contract all"
+msgstr "Col·lapsa-ho tot"
+
+#: pntemplates/news_user_archives.htm:44
+#, php-format
+msgid "News archive for %1$s, %2$s"
+msgstr "Notícies per %1$s, %2$s"
+
+#: pntemplates/news_user_archives.htm:56
+msgid "Pageviews"
+msgstr "Visualitzacions"
+
+#: pntemplates/news_admin_modify.htm:21 pntemplates/news_ajax_modify.htm:4
+msgid "Edit news article"
+msgstr "Edita la notícia"
+
+#: pntemplates/news_admin_modify.htm:106 pntemplates/news_ajax_modify.htm:59
+msgid "Language(s) for which article should be displayed"
+msgstr "Idiomes en els que s'ha de mostrar aquesta notícia"
+
+#: pntemplates/news_admin_modify.htm:180 pntemplates/news_ajax_modify.htm:128
+msgid "Delete this picture"
+msgstr "Esborra aquesta imatge"
+
+#: pntemplates/news_admin_modify.htm:296
+msgid "Meta data"
+msgstr "Metadades"
+
+#: pntemplates/news_admin_modify.htm:302
+msgid "Last edited"
+msgstr "Editat per darrera vegada"
+
+#: pntemplates/news_admin_modify.htm:305
+#, php-format
+msgid "Approved by %s"
+msgstr "Aprovada per %s"
+
+#: pntemplates/news_admin_modify.htm:307
+#, php-format
+msgid "Status %s"
+msgstr "Estat %s"
+
+#: pntemplates/news_admin_modify.htm:308
+#, php-format
+msgid "Article ID: %s"
+msgstr "ID de la notícia: %s"
+
+#: pntemplates/news_admin_modify.htm:329
+msgid "Approve and publish this article"
+msgstr "Aprova i publica aquesta notícia"
+
+#: pntemplates/news_admin_modify.htm:329
+msgid "Approve and Publish"
+msgstr "Aprova i publica"
+
+#: pntemplates/news_admin_modify.htm:329
+msgid "Approve and"
+msgstr "Aprovada i"
+
+#: pntemplates/news_admin_modify.htm:331
+msgid "Update this article"
+msgstr "Edita aquest article"
+
+#: pntemplates/news_admin_modify.htm:331
+msgid "Update"
+msgstr "Edita"
+
+#: pntemplates/news_admin_modify.htm:336
+msgid "Archive this article"
+msgstr "Arxiva aquesta notícia"
+
+#: pntemplates/news_admin_modify.htm:336
+msgid "Archive"
+msgstr "Arxivada"
+
+#: pntemplates/news_admin_modify.htm:339
+msgid "Reject this article"
+msgstr "Refusa aquesta notícia"
+
+#: pntemplates/news_admin_modify.htm:339
+msgid "Reject"
+msgstr "Refusada"
+
+#: pntemplates/news_admin_modify.htm:343 pntemplates/news_ajax_modify.htm:254
+msgid "Delete this article"
+msgstr "Esborra aquesta notícia"
+
+#: pntemplates/news_ajax_modify.htm:115
+msgid "Select a picture"
+msgstr "Selecciona una imatge"
+
+#: pntemplates/news_ajax_modify.htm:251
+#: pntemplates/news_admin_modifyconfig.htm:271
+msgid "Save"
+msgstr "Guarda"
+
+#: pntemplates/news_ajax_modify.htm:251
+msgid "Save your changes"
+msgstr "Emmagatzema els canvis"
+
+#: pntemplates/news_ajax_modify.htm:252
+msgid "Mark as pending"
+msgstr "Marca com a pendent"
+
+#: pntemplates/news_block_storiesext_row.htm:4
+msgid "New"
+msgstr "Notícia"
+
+#: pntemplates/news_block_storiesext_row.htm:8
+#, php-format
+msgid "by %s"
+msgstr "per %s"
+
+#: pntemplates/news_user_articlecontent.htm:50
+msgid "Picture gallery"
+msgstr "Galeria d'imatges"
+
+#: pntemplates/news_admin_modifyconfig.htm:10
+msgid ""
+"Notice: Your theme could be using template overrides for the News publisher "
+"module (in themes/YourThemeName/templates/modules/News/...). They might lack "
+"behind in functionality to the current default News publisher templates, "
+"please remove them or check them carefully against the default News "
+"publisher templates (in modules/News/pntemplates/...)."
+msgstr ""
+"Nota: L'entorn visual podria estar utilitzant una plantilla no vàlida per al "
+"mòdul d'edició de notícies (a themes/elvostreentornvisual/templates/modules/"
+"News/...). Pot ser que la falta de funcionalitat sigui deguda a la plantilla "
+"actual del mòdul de notícies. Esborreu les plantilles incorrectes o reviseu "
+"amb cura la plantilla per defecte del mòdul de notícies (a modules/News/"
+"pntemplates/...)."
+
+#: pntemplates/news_admin_modifyconfig.htm:18
+msgid "Enable article attributes"
+msgstr "Activa els atributs de les notícies"
+
+#: pntemplates/news_admin_modifyconfig.htm:24
+msgid "Category settings"
+msgstr "Configuració de les categories"
+
+#: pntemplates/news_admin_modifyconfig.htm:26
+msgid "Enable categorisation"
+msgstr "Activa les categories"
+
+#: pntemplates/news_admin_modifyconfig.htm:31
+msgid "Category to use for legacy 'Topics' module template variables"
+msgstr ""
+"Categoria que s'ha de fer servir per a les variables de plantilla de l'antic "
+"mòdul de temes"
+
+#: pntemplates/news_admin_modifyconfig.htm:35
+msgid "Category image path (with trailing /)"
+msgstr "Camí de les imatges de les categories (amb /)"
+
+#: pntemplates/news_admin_modifyconfig.htm:37
+msgid ""
+"Notice: You can associate an image with each article category. The image "
+"must be located in the category image path entered in 'Category image path'. "
+"You must also go to the Categories manager in the site admin panel and then "
+"define the associated image. To do this, add a category attribute named "
+"'topic_image' to each article category, and then enter the associated image "
+"path and name."
+msgstr ""
+"Nota: Podeu associar una imatge a cadascuna de les categories de les "
+"notícies. La imatge s'ha de situar a l'adreça indicada a 'Camí de la imatge "
+"de la categoria'. Heu d'anar a l'administració de les notícies i definir les "
+"imatges associades a les categories. Per fer això afegiu un atribut amb el "
+"nom 'topic_image' a cada categoria de notícies i introduïu l'adreça i el nom "
+"de la imatge associada."
+
+#: pntemplates/news_admin_modifyconfig.htm:40
+msgid "Enable category based permission checks"
+msgstr "Habilita les categories basades en permisos"
+
+#: pntemplates/news_admin_modifyconfig.htm:42
+msgid ""
+"Notice: You can use category based permission checks (Categories::Category | "
+"Category ID:Category Path:Category IPath) for the display of each and every "
+"article. If you don't need to select access based on the articles "
+"categories, you can uncheck this setting for a gain in speed (e.g. less "
+"database queries)."
+msgstr ""
+"Atenció: Pots fer ús de les categories basades en permisos (Categories::"
+"Category | Category ID:Category Path:Category IPath) per a la visualització "
+"de cadascun dels articles. Si no necessites basar l'accés a les categories "
+"dels articles pots desmarcar aquesta opció i guanyaràs en velocitat de "
+"càrrega de les pàgines."
+
+#: pntemplates/news_admin_modifyconfig.htm:48
+msgid "Display settings"
+msgstr "Mostra la configuració"
+
+#: pntemplates/news_admin_modifyconfig.htm:50
+msgid "Order article listings by"
+msgstr "Ordena les notícies de la llista per"
+
+#: pntemplates/news_admin_modifyconfig.htm:58
+msgid "Number of articles in news index page"
+msgstr "Nombre de notícies a la pàgina d'inici"
+
+#: pntemplates/news_admin_modifyconfig.htm:62
+msgid "Number of articles in archive page"
+msgstr "Nombre de notícies a la pàgina de notícies arxivades"
+
+#: pntemplates/news_admin_modifyconfig.htm:66
+msgid "Check referer on printer-friendly pages"
+msgstr "Comprova el remitent a les pàgines d'impressió"
+
+#: pntemplates/news_admin_modifyconfig.htm:73
+msgid "Enable in-line editing of articles via JavaScript/Ajax controls"
+msgstr "Activa l'edició de notícies mitjançant controls JavaScript"
+
+#: pntemplates/news_admin_modifyconfig.htm:77
+msgid ""
+"When Scribite! is being used for editing, the <strong>display</strong> "
+"function needs to be added to the list of module functions that Scribite! "
+"uses for the News Publisher module."
+msgstr ""
+"En utilitzar Scribite! per editar, s'ha d'afegir la funció <strong>display</"
+"strong> a la llista de funcions del mòdul de notícies que pot utilitzar "
+"l'Scribite!"
+
+#: pntemplates/news_admin_modifyconfig.htm:80
+msgid "Enable 'More articles in category' when displaying an article"
+msgstr ""
+"Activa l'opció 'Més notícies de la categoria' quan es visualitza una notícia"
+
+#: pntemplates/news_admin_modifyconfig.htm:85
+msgid "Number of 'More articles in category' for every article"
+msgstr "Nombre de notícies a la categoria per a cada notícia"
+
+#: pntemplates/news_admin_modifyconfig.htm:87
+msgid ""
+"When displaying an article, a number of additional articletitles in the same "
+"category can be shown.<br />To show the additional articletitles for every "
+"article set the value above to a number larger than 0. When the value is set "
+"to 0, the number of additional articletitles can be set per article by means "
+"of the article attribute 'morearticlesincat'. You need to enable 'article "
+"attributes' yourself. <br />When the setting above or the article attribute "
+"is set to 0, no titles will be extracted from the database."
+msgstr ""
+"En mostrar una notícia es mostren un cert nombre de títols de notícies "
+"addicionals.<br />Per mostrar l'accés a aquestes notícies, fixeu el valor "
+"anterior a un número més gran que 0. Si aquest valor és 0, el nombre de "
+"notícies es pot fixar a nivell de notícia mitjançant l'atribut "
+"'morearticlesincat'. En aquest cas, heu d'activar els 'atributs de les "
+"notícies.<br />Si el paràmetre anterior o si 'morearticlesincat' és 0, no es "
+"mostra cap títol."
+
+#: pntemplates/news_admin_modifyconfig.htm:91
+msgid "Notify moderators when a new pending article is submitted for review"
+msgstr ""
+"Avisa als moderadors quan s'enviï una notícia i quedi pendent de revisió"
+
+#: pntemplates/news_admin_modifyconfig.htm:96
+msgid ""
+"Whenever a new article is submitted as Pending Review, the admin or a list "
+"of E-mail addresses can be informed of this event with a notification E-mail."
+msgstr ""
+"Quan s'envia una notícia nova i queda com a pendent de revisió, "
+"l'administrador/a o una llista d'adreces de correu electrònic poden rebre "
+"una notificació automàticament."
+
+#: pntemplates/news_admin_modifyconfig.htm:97
+msgid "From name (leave empty for sitename)"
+msgstr "Nom del remitent (si està buit s'utilitzarà el nom del lloc web)"
+
+#: pntemplates/news_admin_modifyconfig.htm:101
+msgid "From address (leave empty for admin E-mail address)"
+msgstr "Adreça del remitent (si està buida s'utilitzarà la del lloc web)"
+
+#: pntemplates/news_admin_modifyconfig.htm:105
+msgid "To name (leave empty for sitename)"
+msgstr "Nom del destinatari (si està buit s'utilitzarà el nom del lloc web)"
+
+#: pntemplates/news_admin_modifyconfig.htm:109
+msgid ""
+"To address (comma seperated list of E-Mail addresses, leave empty for admin "
+"E-mail address)"
+msgstr ""
+"Adreça del destinatari (llista d'adreces separades per comes. Si està buida "
+"s'utilitzarà l'adreça del lloc web)"
+
+#: pntemplates/news_admin_modifyconfig.htm:113
+msgid "E-mail subject"
+msgstr "Assumpte del missatge"
+
+#: pntemplates/news_admin_modifyconfig.htm:117
+msgid "Send E-mail as HTML "
+msgstr "Marca el missatge indicant que té contingut HTML"
+
+#: pntemplates/news_admin_modifyconfig.htm:122
+msgid "Display a PDF link for the articles in the index page"
+msgstr "Mostra l'enllaç PDF per a les notícies a la pàgina d'inici"
+
+#: pntemplates/news_admin_modifyconfig.htm:127
+msgid "Path to the TCPDF main file"
+msgstr "Camí al fitxer principal del TCPDF"
+
+#: pntemplates/news_admin_modifyconfig.htm:129
+msgid ""
+"The PDF link is based on <a href=\"http://www.tcpdf.org\">TCPDF</a>. You "
+"have to install the files yourself into the path specified above, when you "
+"want to use the pdflink. Download TCPDF from the link and place the 'tcpdf' "
+"folder into the correct location."
+msgstr ""
+"L'enllaç al PDF està basat en <a href=\"http://www.tcpdf.org\">TCPDF</a>. "
+"Heu d'instal·lar els fitxers al camí especificat si desitgeu utilitzar "
+"pdflink. Descarregueu TCPDF des de l'enllaç i allotgeu la carpeta 'tcpdf' en "
+"el lloc correcte."
+
+#: pntemplates/news_admin_modifyconfig.htm:132
+msgid "TCPDF language file"
+msgstr "Fitxer d'idioma del TCPDF"
+
+#: pntemplates/news_admin_modifyconfig.htm:136
+msgid "TCPDF Header logo image (absolute path or relative to tcpdf)"
+msgstr "Imatge de la capçalera del TCPDF (camí absolut o relatiu a tcpdf)"
+
+#: pntemplates/news_admin_modifyconfig.htm:138
+msgid ""
+"Default Header logo is defined by TCPDF and in PathToTCPDF/images folder. "
+"tcpdf_logo.jpg with a width of 30"
+msgstr ""
+"El logotip per defecte el defineix el TCPDF i a està a camí_del_TCPDF/images "
+"folder. tcpdf_logo.jpg amb una amplada de 30"
+
+#: pntemplates/news_admin_modifyconfig.htm:141
+msgid "TCPDF header logo width in mm"
+msgstr "Amplada del logotip de la capçalera en mm"
+
+#: pntemplates/news_admin_modifyconfig.htm:146
+msgid "Allow article picture(s) uploading"
+msgstr "Permet la pujada d'imatges"
+
+#: pntemplates/news_admin_modifyconfig.htm:148
+msgid ""
+"Notice: Enabling picture uploading has a small security risk, since the "
+"upload folder needs to have write permission for the webserver. For instance "
+"make sure that you trust the users that have picture uploading permissions."
+msgstr ""
+"Habilitar la pujada d'imatges comporta un petit risc de seguretat, ja que el "
+"directori de pujada dels fitxers requereix permisos d'escriptura. Cal estar "
+"segur de què es confia amb els usuaris que tenen permisos per pujar imatges."
+
+#: pntemplates/news_admin_modifyconfig.htm:152
+msgid "Allowed picture extension (comma seperated list)"
+msgstr "Extensions de les imatges permeses (llista separada per comes)"
+
+#: pntemplates/news_admin_modifyconfig.htm:156
+msgid "Image float on the index page"
+msgstr "Posició de la imatge a la pàgina d'inici"
+
+#: pntemplates/news_admin_modifyconfig.htm:158
+#: pntemplates/news_admin_modifyconfig.htm:166
+msgid "Left - image floats to the left and text wraps around it"
+msgstr ""
+"Esquerra - la imatge es posiciona a l'esquerra i el text s'ajusta al seu "
+"voltant"
+
+#: pntemplates/news_admin_modifyconfig.htm:159
+#: pntemplates/news_admin_modifyconfig.htm:167
+msgid "Right - image floats to the right and text wraps around it"
+msgstr ""
+"Dreta - la imatge es posiciona a la dreta i el text s'ajusta al seu voltant"
+
+#: pntemplates/news_admin_modifyconfig.htm:160
+#: pntemplates/news_admin_modifyconfig.htm:168
+msgid "None - text is not wrapped around the image"
+msgstr "Cap - El text no s'ajusta al voltant de la imatge"
+
+#: pntemplates/news_admin_modifyconfig.htm:164
+msgid "Image float on the article display page"
+msgstr "La imatge flota a la pàgina de visualització de l'article"
+
+#: pntemplates/news_admin_modifyconfig.htm:172
+msgid "How many pictures are allowed"
+msgstr "Quantes imatges es permeten"
+
+#: pntemplates/news_admin_modifyconfig.htm:176
+msgid "Maximum file size of the pictures (in Bytes)"
+msgstr "Mida màxima dels fitxers d'imatge (en octets)"
+
+#: pntemplates/news_admin_modifyconfig.htm:180
+msgid "What thumbnail sizing to use"
+msgstr "Especific la mida de les miniatures"
+
+#: pntemplates/news_admin_modifyconfig.htm:182
+msgid "Best fit (keeps aspect ratio)"
+msgstr "Millor ajustament (manté la proporcionalitat)"
+
+#: pntemplates/news_admin_modifyconfig.htm:183
+msgid "Fixed size (scale and crop)"
+msgstr "Mida fixa"
+
+#: pntemplates/news_admin_modifyconfig.htm:187
+msgid "Maximum width of the full size pictures (in pixels)"
+msgstr "Amplada màxima de les imatges a mida completa (en píxels)"
+
+#: pntemplates/news_admin_modifyconfig.htm:191
+msgid "Maximum height of the full size pictures (in pixels)"
+msgstr "Alçada màxima de les imatges a mida completa (en píxels)"
+
+#: pntemplates/news_admin_modifyconfig.htm:195
+msgid "Maximum width of the thumbnails (in pixels)"
+msgstr "Amplada màxima de les miniatures (en píxels)"
+
+#: pntemplates/news_admin_modifyconfig.htm:199
+msgid "Maximum height of the thumbnails (in pixels)"
+msgstr "Alçada màxima de les miniatures (en píxels)"
+
+#: pntemplates/news_admin_modifyconfig.htm:203
+msgid ""
+"Maximum width of the thumbnail in the article display intro text (in pixels)"
+msgstr ""
+"Amplada màxima de les miniatures en la visualització del text introductori "
+"de l'article (en píxels)"
+
+#: pntemplates/news_admin_modifyconfig.htm:207
+msgid ""
+"Maximum height of the thumbnail in the article display intro text (in pixels)"
+msgstr ""
+"Alçada màxima de les miniatures en la visualització del text introductori de "
+"l'article (en píxels)"
+
+#: pntemplates/news_admin_modifyconfig.htm:211
+msgid "Directory where the images are uploaded"
+msgstr "Directori on es pugen les imatges"
+
+#: pntemplates/news_admin_modifyconfig.htm:216
+msgid "Create the specified upload directory"
+msgstr "Crea el directori de pujada de fitxers especificat"
+
+#: pntemplates/news_admin_modifyconfig.htm:225
+msgid "Permalinks"
+msgstr "Enllaços permanents"
+
+#: pntemplates/news_admin_modifyconfig.htm:226
+msgid ""
+"You can select a pre-defined permalink format, or define your custom format."
+msgstr ""
+"Podeu seleccionar un format d'enllaç permanent predefinit o definir el "
+"vostre format"
+
+#: pntemplates/news_admin_modifyconfig.htm:229
+msgid "Format based on date and name"
+msgstr "Format basat en dates i noms"
+
+#: pntemplates/news_admin_modifyconfig.htm:232
+msgid "your-article-title"
+msgstr "titol-de-la-noticia"
+
+#: pntemplates/news_admin_modifyconfig.htm:236
+msgid "Numeric format"
+msgstr "Format numèric"
+
+#: pntemplates/news_admin_modifyconfig.htm:243
+msgid "Custom format"
+msgstr "Format estàndard"
+
+#: pntemplates/news_admin_modifyconfig.htm:250
+msgid "Custom format definition"
+msgstr "Definició del format estàndard"
+
+#: pntemplates/news_admin_modifyconfig.htm:252
+msgid ""
+"Notice: A custom format definition must contain at least either '%articleid"
+"%' or '%articletitle%', in order to be able to identify the article."
+msgstr ""
+"Un format personalitzat ha de contenir almenys '%articleid%' o '%articletitle"
+"%', per tal de poder identificar l'article."
+
+#: pntemplates/news_admin_modifyconfig.htm:254
+msgid "Acceptable values for use in custom format definition:"
+msgstr "Valors que es poden acceptar en l'ús del format estàndard"
+
+#: pntemplates/news_admin_modifyconfig.htm:256
+msgid "Year of publication (including century numerals)"
+msgstr "Any de publicació (incloent-hi centenes)"
+
+#: pntemplates/news_admin_modifyconfig.htm:257
+msgid "Month of publication, as a number (ergo 1 to 12)"
+msgstr "Mes de publicació en format numèric (d'1 a 12)"
+
+#: pntemplates/news_admin_modifyconfig.htm:258
+msgid "Month of publication as a name (ergo January to December)"
+msgstr "Més de publicació en format de nom (de gener a desembre)"
+
+#: pntemplates/news_admin_modifyconfig.htm:259
+msgid "Day"
+msgstr "Dia"
+
+#: pntemplates/news_admin_modifyconfig.htm:260
+msgid "Article title"
+msgstr "Títol de la notícia"
+
+#: pntemplates/news_admin_modifyconfig.htm:262
+msgid "Article category"
+msgstr "Categoria de la notícia"
+
+#: pntemplates/news_admin_delete.htm:2
+msgid "Delete news article"
+msgstr "Esborra la notícia"
+
+#: pntemplates/news_admin_delete.htm:8
+msgid "Do you really want to delete this news article?"
+msgstr "Esteu segur/a de voler esborrar aquesta notícia?"
+
+#: pntemplates/news_admin_delete.htm:15
+msgid "Confirmation prompt"
+msgstr "Confirma"

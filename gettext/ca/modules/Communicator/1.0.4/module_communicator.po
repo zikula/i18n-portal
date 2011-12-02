@@ -1,0 +1,813 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-27 00:30+0200\n"
+"PO-Revision-Date: 2010-11-30 12:50+0200\n"
+"Last-Translator: Albert Pérez Monfort <aperezm@xtec.cat>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.2\n"
+
+#: pnuserapi.php:244
+msgid "Notice of receipt"
+msgstr "Notificació de rebuda"
+
+#: pnuserapi.php:284
+msgid "no subject"
+msgstr "no hi ha títol"
+
+#: pnuserapi.php:309
+msgid "Mail sending failed - mail body could not be stored."
+msgstr ""
+"L'enviament del missatge ha fallat, ja que no s'ha pogut guardar el "
+"contingut del missatge."
+
+#: pnuserapi.php:332 pnuserapi.php:354
+msgid "Mail sending failed for user"
+msgstr "L'enviament del missatge ha fallat perquè no s'ha trobat l'usuari/ària"
+
+#: pnuserapi.php:384
+msgid "A private message is waiting for you!"
+msgstr "Tens un missatge privat nou!"
+
+#: pnuserapi.php:389
+msgid "Sending email notification failed!"
+msgstr "Ha fallat l'enviament del missatge de notificació!"
+
+#: pnuserapi.php:396
+msgid "Autoresponse"
+msgstr "Resposta automàtica"
+
+#: pnuserapi.php:401
+msgid "Sending autoresponse failed!"
+msgstr "L'enviament de la resposta automàtica ha fallat!"
+
+#: pnuserapi.php:716
+msgid "Forwarded Mail"
+msgstr "Missatge re-enviat"
+
+#: pnversion.php:14
+msgid "Communicator"
+msgstr "Missatgeria"
+
+#: pnversion.php:16
+msgid "More than just private messaging"
+msgstr "Més que simples massatges privats"
+
+#: pnaccountapi.php:32
+msgid "Read Mails"
+msgstr "Llegeix els missatges"
+
+#: pninit.php:33
+msgid "Error creating Hook!"
+msgstr "S'ha produït un error en crear el lligam!"
+
+#: pninit.php:59
+msgid "Error deleting Hook!"
+msgstr "S'ha produït un error en l'esborrament del lligam!"
+
+#: pnadminapi.php:16
+msgid "Main Modul Configuration"
+msgstr "Configuració principal del mòdul"
+
+#: pnadminapi.php:17
+msgid "Import Mails from InterCom"
+msgstr "Importa missatges des de InterCom"
+
+#: pnuser.php:27
+#: pnstyle/pntemplates/communicator_output_ajax_folder_menu.htm:4
+#: pntemplates/communicator_output_message.htm:24
+#: pntemplates/communicator_output_message.htm:48
+#: pntemplates/communicator_user_main.htm:17
+#: pntemplates/communicator_output_ajax_folder_menu.htm:4
+msgid "Inbox"
+msgstr "Safata d'entrada"
+
+#: pnuser.php:27
+#: pnstyle/pntemplates/communicator_output_ajax_folder_menu.htm:5
+#: pntemplates/communicator_output_message.htm:27
+#: pntemplates/communicator_output_message.htm:51
+#: pntemplates/communicator_user_main.htm:18
+#: pntemplates/communicator_output_ajax_folder_menu.htm:5
+msgid "Sent"
+msgstr "Enviats"
+
+#: pnuser.php:27
+msgid "Folders"
+msgstr "Carpetes"
+
+#: pnuser.php:27 pnuser.php:156
+msgid "Preferences"
+msgstr "Preferències"
+
+#: pnuser.php:59
+msgid "Message was marked!"
+msgstr "El missatge ha estat marcat!"
+
+#: pnuser.php:62
+msgid "Message was unmarked!"
+msgstr "S'ha eliminat la marca del missatge!"
+
+#: pnuser.php:65
+msgid "Notice of receipt was sent to message sender."
+msgstr "S'ha enviat una notificació al remitent del missatge."
+
+#: pnuser.php:69
+msgid "Error: Message could not be deleted!"
+msgstr "No s'ha pogut esborrar el missatge!"
+
+#: pnuser.php:71
+msgid "Selected message was deleted!"
+msgstr "S'ha esborrat el missatge seleccionat!"
+
+#: pnuser.php:76
+msgid "Error: mail could not be sent to your private email address!"
+msgstr "El missatge no s'ha pogut enviar a la teva adreça de correu electrònic!"
+
+#: pnuser.php:78
+msgid "Mail was forwarded as email to your private mailbox:"
+msgstr ""
+"El missatge va ser re-enviat com a correu electrònic a la teva safata "
+"d'entrada privada:"
+
+#: pnuser.php:130 pntemplates/communicator_user_main.htm:8
+#: pntemplates/communicator_user_main.htm:9
+#: pntemplates/communicator_user_compose.htm:3
+msgid "Compose new message"
+msgstr "Crea un missatge nou"
+
+#: pnuser.php:163 pnajax.php:229
+msgid "Settings could not be stored!"
+msgstr "No s'han pogut emmagatzemar els paràmetres!"
+
+#: pnuser.php:165
+msgid "Your settings have been stored!"
+msgstr "S'han emmagatzemat els paràmetres!"
+
+#: pnuser.php:189 pnajax.php:256
+msgid "Folder could not be created!"
+msgstr "No s'ha pogut crear la carpeta!"
+
+#: pnuser.php:191
+msgid "Folder was created."
+msgstr "S'ha creat la carpeta."
+
+#: pnuser.php:217
+msgid "Folder Management"
+msgstr "Gestió de les carpetes"
+
+#: pnuser.php:221 pnajax.php:287
+msgid "Folder could not be deleted!"
+msgstr "No s'ha pogut esborrar la carpeta!"
+
+#: pnuser.php:223
+msgid "Folder deleted!"
+msgstr "S'ha esborrat la carpeta!"
+
+#: pnuser.php:228 pnajax.php:294
+msgid "Folder could not be renamed!"
+msgstr "No s'ha pogut canviar el nom de la carpeta!"
+
+#: pnuser.php:230
+msgid "Folder was renamed!"
+msgstr "S'ha canviat el nom de la carpeta!"
+
+#: pnuser.php:257
+msgid "Move message into folder"
+msgstr "Mou els missatge a la carpeta"
+
+#: pnuser.php:262
+msgid "Message was moved to folder."
+msgstr "El missatge ha estat mogut a la carpeta."
+
+#: pnuser.php:264 pnajax.php:347
+msgid "Message could not be moved to target folder!"
+msgstr "No s'ha pogut moure el missatge a la carpeta de destí!"
+
+#: pnuser.php:288
+msgid "Message print view"
+msgstr "Vista d'impressió del missatge"
+
+#: pnajax.php:19 pnajax.php:88 pnajax.php:121 pnajax.php:220 pnajax.php:250
+#: pnajax.php:277
+msgid "You have no permissions for this action"
+msgstr "No teniu permisos per portar a terme aquesta acció"
+
+#: pnajax.php:101
+msgid "Message could not be deleted"
+msgstr "No s'ha pogut esborrar el missatge"
+
+#: pnajax.php:141
+msgid "Message could not be (de)marked"
+msgstr "No s'ha pogut esborrar la marca del missatge"
+
+#: pnajax.php:382
+msgid "Notice of receipt could not be send!"
+msgstr "No s'ha pogut enviar la notificació de rebuda!"
+
+#: pnajax.php:407
+msgid "Mail could not be read for forwarding!"
+msgstr "No s'ha pogut llegir el missatge per re-enviar!"
+
+#: pnajax.php:409
+msgid "Mail was forwarded to your mailbox:"
+msgstr "S'ha re-enviat el missatge a la vostra safata d'entrada:"
+
+#: includes/classes/user/compose.php:33
+msgid "normal priority"
+msgstr "prioritat normal"
+
+#: includes/classes/user/compose.php:34
+msgid "high priority"
+msgstr "alta prioritat"
+
+#: includes/classes/user/compose.php:70 includes/classes/user/compose.php:72
+msgid "wrote at"
+msgstr "escrit el"
+
+#: includes/classes/user/compose.php:77
+msgid "Re:"
+msgstr "Re:"
+
+#: includes/classes/user/compose.php:87
+msgid "Fwd:"
+msgstr "Fwd:"
+
+#: includes/classes/user/compose.php:97
+msgid "You have no permission to include the specified message id"
+msgstr "No teniu permís per incloure la identitat del missatges especificada"
+
+#: includes/classes/user/compose.php:139
+msgid "Message body is mandatory"
+msgstr "El cos del missatge és obligatori"
+
+#: includes/classes/user/compose.php:171
+msgid ""
+"You cannot send mails to the following user because this user does not want "
+"to recieve emails from you:"
+msgstr ""
+"No podeu enviar missatges a l'usuari/ària següent perquè l'usuari/ària no "
+"vol rebre els vostres missatges:"
+
+#: includes/classes/user/compose.php:180
+msgid "Please check recipients: user not found: "
+msgstr "Si us plau, reviseu els destinataris: no s'ha trobat l'usuari/ària: "
+
+#: includes/classes/user/compose.php:213
+msgid ""
+"An error occured while trying to send the message. Please try again and "
+"contact the webmaster if sending fails again."
+msgstr ""
+"S'ha produït un error en el moment d'enviar el missatge. Si us plau, torneu-"
+"ho a provar i contacteu amb l'administrador del portal si l'enviament torna "
+"a fallar."
+
+#: includes/classes/user/compose.php:220
+msgid "Message sent succesfully to "
+msgstr "El missatge s'ha enviat correctament a "
+
+#: includes/classes/admin/intercom.php:34
+msgid "InterCom module not found!"
+msgstr "No s'ha provat el mòdul InterCom!"
+
+#: includes/classes/admin/intercom.php:51
+msgid "Reset done!"
+msgstr "S'ha reiniciat!"
+
+#: includes/classes/admin/intercom.php:73
+msgid "Import done! No InterCom mails left for import!"
+msgstr ""
+"La importació s'ha portat a terme satisfactòriament. No queden missatge de "
+"InterCom per importar!"
+
+#: includes/classes/admin/intercom.php:136
+msgid "Messages imported successfully"
+msgstr "La importació de missatge s'ha fet satisfactòriament"
+
+#: includes/classes/admin/settings.php:42
+msgid "Settings updated"
+msgstr "S'ha actualitzat la configuració"
+
+#: pnblocks/newmessages.php:31
+msgid "Unread Messages Block"
+msgstr "Bloc de missatges no llegits"
+
+#: pnadmin.php:55
+msgid ""
+"InterCom was not found as active module at your zikula instance. To import "
+"InterCom data InterCom has to be installed."
+msgstr ""
+"No s'ha trobat InterCom com un mòdul actiu. Per importar dades des de "
+"InterCom el mòdul ha d'estar instal·lat."
+
+#: pnstyle/pntemplates/communicator_admin_intercom.htm:8
+#: pntemplates/communicator_admin_intercom.htm:8
+msgid "InterCom Import"
+msgstr "Importació des de InterCom"
+
+#: pnstyle/pntemplates/communicator_admin_intercom.htm:11
+#: pntemplates/communicator_admin_intercom.htm:11
+msgid ""
+"The InterCom import might take a long time and will be done step by step. On "
+"large installations this might take a long time. Just click the import "
+"button as long as the import needs... Mails that do not belong to any users "
+"any more will be skipped automatically..."
+msgstr ""
+"La importació des de InterCom requerirà força temps i es farà pas a pas. En "
+"instal·alcions grans pot significar molt temps. Feu clic al botó "
+"d'importació tant de temps com sigui necessari... Els missatges que no "
+"pertanyin a cap usuari/ària seran descartats de forma automàtica."
+
+#: pnstyle/pntemplates/communicator_admin_intercom.htm:14
+#: pntemplates/communicator_admin_intercom.htm:14
+msgid "InterCom messages are procesed up tp message id"
+msgstr ""
+
+#: pnstyle/pntemplates/communicator_admin_intercom.htm:17
+#: pntemplates/communicator_admin_intercom.htm:17
+msgid "How many InterCom mails should be processed with each request?"
+msgstr ""
+
+#: pnstyle/pntemplates/communicator_admin_intercom.htm:22
+#: pntemplates/communicator_admin_intercom.htm:22
+msgid "Get the mails..."
+msgstr ""
+
+#: pnstyle/pntemplates/communicator_admin_intercom.htm:23
+#: pntemplates/communicator_admin_intercom.htm:23
+msgid "Reset internal counter"
+msgstr ""
+
+#: pnstyle/pntemplates/communicator_email_notification.htm:3
+#: pnstyle/pntemplates/communicator_email_receipt.htm:3
+#: pntemplates/communicator_email_notification.htm:3
+#: pntemplates/communicator_email_receipt.htm:3
+msgid "Dear user"
+msgstr "Estimat usuari/ària"
+
+#: pnstyle/pntemplates/communicator_email_notification.htm:5
+#: pntemplates/communicator_email_notification.htm:5
+#, php-format
+msgid ""
+"the user \"%s\" has sent a private message to you with the title \"%s\"."
+msgstr "l'usuari/ària \"%s\" li ha enviat un missatge privat amb el títol \"%s\"."
+
+#: pnstyle/pntemplates/communicator_email_notification.htm:7
+#: pntemplates/communicator_email_notification.htm:7
+msgid ""
+"Please take a look into your inbox folder. You have to be logged in to view "
+"your private messages."
+msgstr ""
+"Si us plau, feu una ullada a la vostra safata d'entrada. Heu d'estar validat "
+"per veure els seus missatges privats."
+
+#: pnstyle/pntemplates/communicator_email_notification.htm:9
+#: pntemplates/communicator_email_notification.htm:9
+#, php-format
+msgid ""
+"Actually, there are %s unread messages awaiting you in your inbox folder."
+msgstr "Hi ha %s missatge no llegits a la seva safata d'entrada."
+
+#: pnstyle/pntemplates/communicator_email_notification.htm:9
+#: pntemplates/communicator_email_notification.htm:9
+msgid ""
+"Actually, there is one unread messages awaiting you in your inbox folder."
+msgstr "No hi ha missatge no llegits a la seva safata d'entrada."
+
+#: pnstyle/pntemplates/communicator_email_notification.htm:11
+#: pntemplates/communicator_email_notification.htm:11
+msgid "Login at"
+msgstr "Ha entrat a les"
+
+#: pnstyle/pntemplates/communicator_email_notification.htm:13
+#: pntemplates/communicator_email_notification.htm:13
+msgid "Read your messages"
+msgstr "Llegiu els vostres missatges"
+
+#: pnstyle/pntemplates/communicator_email_notification.htm:15
+#: pntemplates/communicator_email_notification.htm:15
+msgid ""
+"If you do not want to recieve notifications about new private messages any "
+"more please change your personal settings in your communication centre. The "
+"settings can be changed directly at the communication centre's index page."
+msgstr ""
+"Si no voleu rebre notificacions sobre missatges privats modifiqueu els seus "
+"paràmetres personals. Els paràmetres es poden modificar directament a la "
+"pàgina d'inici de la missatgeria."
+
+#: pnstyle/pntemplates/communicator_output_ajax_folder_menu.htm:9
+#: pnstyle/pntemplates/communicator_output_introtext.htm:17
+#: pntemplates/communicator_user_main.htm:22
+#: pntemplates/communicator_output_ajax_folder_menu.htm:9
+#: pntemplates/communicator_output_introtext.htm:17
+msgid "My settings"
+msgstr "Els meus paràmetres"
+
+#: pnstyle/pntemplates/communicator_output_introtext.htm:13
+#: pntemplates/communicator_output_introtext.htm:13
+msgid "Welcome to your communication centre"
+msgstr "Benvingut/da a la seva missatgeria privada"
+
+#: pnstyle/pntemplates/communicator_output_introtext.htm:15
+#: pntemplates/communicator_output_introtext.htm:15
+msgid ""
+"Welcome to your communication center. You can read your emails and compose "
+"new messages to other contacts. Messages are listed in the table above this "
+"text. If this table is not big enough just click at the gray line and resize "
+"the messages list as you need it. For the case that you have many messages "
+"in your inbox you can start to create custom folders for your messages."
+msgstr ""
+"Benvingut/da a la seva missatgeria privada. Podeu llegir els seus missatges "
+"i crear-ne de nous. Els missatges els teniu a la llista que hi ha a sobre "
+"d'aquest text. Si aquesta taula no és pru gran feu clic a la línia de color "
+"gris i feu la llista de missatges tant gran com us sigui necessari. Si teniu "
+"molts missatges a la safata d'entrada podeu crear carpetes personals pels "
+"vostres missatges."
+
+#: pnstyle/pntemplates/communicator_output_introtext.htm:19
+#: pntemplates/communicator_output_introtext.htm:19
+msgid "You can manage some settings here."
+msgstr "Podeu gestionar algunes configuracions des d'aquí."
+
+#: pnstyle/pntemplates/communicator_output_introtext.htm:22
+#: pntemplates/communicator_output_introtext.htm:22
+msgid "Disable email notification for new messages"
+msgstr "Inhabiliteu la notificació per correu electrònic de missatges nous"
+
+#: pnstyle/pntemplates/communicator_output_introtext.htm:23
+#: pntemplates/communicator_output_introtext.htm:23
+msgid "Activate autoresponder"
+msgstr "Activeu el contestador automàtic"
+
+#: pnstyle/pntemplates/communicator_output_introtext.htm:25
+#: pntemplates/communicator_output_introtext.htm:25
+msgid ""
+"Enter some text that should be automatically sent as auto response for "
+"incoming mails"
+msgstr ""
+"Entreu el text que s'haurà enviar automàticament com a resposta automàtica "
+"dels missatges nous"
+
+#: pnstyle/pntemplates/communicator_output_introtext.htm:31
+#: pntemplates/communicator_output_introtext.htm:31
+msgid "store settings"
+msgstr "Paràmetres d'emmagatzematge"
+
+#: pnstyle/pntemplates/communicator_output_introtext.htm:40
+#: pntemplates/communicator_output_introtext.htm:40
+msgid "Custom mail folders"
+msgstr "Carpetes de missatges personals"
+
+#: pnstyle/pntemplates/communicator_output_introtext.htm:42
+#: pntemplates/communicator_output_introtext.htm:42
+msgid ""
+"Inbox and outbox are system folders. They cannot be renamed or deleted. If "
+"you want more folders, feel free to create new folders as you need them. If "
+"you want to edit a folder just click the folder name and you will be able to "
+"rename or delete the folder."
+msgstr ""
+"La safata d'entrada i els missatges privats són carpetes del sistema. No es "
+"poden canviar de nom o ser esborrades. Si voleu podeu crear tantes carpetes "
+"com necessiteu. Si voleu editar una carpeta feu clic sobre el seu nom i "
+"podreu canviar-li el nom o esborrar-la."
+
+#: pnstyle/pntemplates/communicator_output_introtext.htm:48
+#: pntemplates/communicator_output_introtext.htm:48
+msgid "Create a new folder with the title"
+msgstr "Crea una carpeta nova amb el títol"
+
+#: pnstyle/pntemplates/communicator_output_introtext.htm:50
+#: pntemplates/communicator_output_introtext.htm:50
+msgid "create"
+msgstr "crea"
+
+#: pnstyle/pntemplates/communicator_output_introtext.htm:65
+#: pntemplates/communicator_output_introtext.htm:65
+msgid "delete"
+msgstr "esborra"
+
+#: pnstyle/pntemplates/communicator_output_introtext.htm:66
+#: pntemplates/communicator_output_introtext.htm:66
+msgid "update"
+msgstr "modifica"
+
+#: pnstyle/pntemplates/communicator_output_introtext.htm:68
+#: pntemplates/communicator_output_introtext.htm:68
+#: pntemplates/communicator_user_compose.htm:57
+msgid "cancel"
+msgstr "cancel·la"
+
+#: pnstyle/pntemplates/communicator_output_introtext.htm:77
+#: pntemplates/communicator_output_introtext.htm:77
+msgid "You have not ceated any custom folders yet."
+msgstr "Encara no heu creat cap carpeta privada."
+
+#: pnstyle/pntemplates/communicator_admin_header.htm:3
+#: pntemplates/communicator_admin_header.htm:3
+msgid "Backend for Zikula Communication Center"
+msgstr ""
+
+#: pnstyle/pntemplates/communicator_admin_settings.htm:8
+#: pntemplates/communicator_admin_settings.htm:8
+msgid "General Settings"
+msgstr "Paràmetres generals"
+
+#: pnstyle/pntemplates/communicator_admin_settings.htm:10
+#: pntemplates/communicator_admin_settings.htm:10
+msgid ""
+"Format (from zikula pndate modifier) that should be used inside "
+"Communication Centre"
+msgstr ""
+
+#: pnstyle/pntemplates/communicator_admin_settings.htm:14
+#: pntemplates/communicator_admin_settings.htm:14
+msgid ""
+"Message limit for a single user (after this limit is reached the user will "
+"not be able to send mails any more). To disable quota enter 0 please"
+msgstr ""
+
+#: pnstyle/pntemplates/communicator_admin_settings.htm:19
+msgid "Enable WYSIWYG editor (This only works if scribite! is installed)."
+msgstr ""
+
+#: pnstyle/pntemplates/communicator_admin_settings.htm:23
+#: pntemplates/communicator_admin_settings.htm:18
+msgid "Spam guard"
+msgstr ""
+
+#: pnstyle/pntemplates/communicator_admin_settings.htm:24
+#: pntemplates/communicator_admin_settings.htm:19
+msgid "Time in minutes (0 to disable)"
+msgstr ""
+
+#: pnstyle/pntemplates/communicator_admin_settings.htm:25
+#: pntemplates/communicator_admin_settings.htm:20
+msgid "a user is allowed to send a maximum of messages"
+msgstr ""
+
+#: pnstyle/pntemplates/communicator_admin_settings.htm:25
+#: pntemplates/communicator_admin_settings.htm:20
+msgid "Messages"
+msgstr ""
+
+#: pnstyle/pntemplates/communicator_admin_settings.htm:26
+#: pntemplates/communicator_admin_settings.htm:21
+msgid ""
+"Please note: Mails that are sent to buddies (ContactList module) will not be "
+"included into the spam guard calculation!"
+msgstr ""
+
+#: pnstyle/pntemplates/communicator_admin_settings.htm:28
+#: pntemplates/communicator_admin_settings.htm:23
+msgid "Popup Notification"
+msgstr ""
+
+#: pnstyle/pntemplates/communicator_admin_settings.htm:30
+#: pntemplates/communicator_admin_settings.htm:25
+msgid ""
+"If you want your users to be informed about new messages with an upcoming "
+"ajax notification please put the following code inside your theme templates "
+"- best place is before the body tag closes."
+msgstr ""
+
+#: pnstyle/pntemplates/communicator_admin_settings.htm:36
+#: pntemplates/communicator_admin_settings.htm:32
+msgid ""
+"You do not need any clean up or repair functions for this module. This "
+"module will do a daily self-check and orphan messages will be deleted "
+"automatically. Just have fun with the module."
+msgstr ""
+
+#: pnstyle/pntemplates/communicator_admin_settings.htm:37
+#: pntemplates/communicator_admin_settings.htm:33
+msgid ""
+"You like the module? Help us to keep this module up to date for the future, "
+"click here and donate some cents!"
+msgstr ""
+
+#: pnstyle/pntemplates/communicator_admin_settings.htm:40
+#: pntemplates/communicator_admin_settings.htm:38
+msgid "Store configuration"
+msgstr ""
+
+#: pnstyle/pntemplates/communicator_email_receipt.htm:5
+#: pntemplates/communicator_email_receipt.htm:5
+msgid ""
+"This message was generated by the mail system. The user sending this mail "
+"has read the following message you sent to this user."
+msgstr ""
+"Aquest missatge va ser generat pel sistema de missatgeria. Usuari/ària a qui "
+"veu enviar aquest missatge l'ha llegit."
+
+#: pnstyle/pntemplates/communicator_email_receipt.htm:7
+#: pntemplates/communicator_output_message.htm:73
+#: pntemplates/communicator_user_main.htm:34
+#: pntemplates/communicator_email_receipt.htm:7
+msgid "Subject"
+msgstr "Assumpte"
+
+#: pnstyle/pntemplates/communicator_email_receipt.htm:8
+#: pntemplates/communicator_email_receipt.htm:8
+msgid "Message was read at"
+msgstr "El missatge va ser llegit a"
+
+#: pntemplates/communicator_output_popup.htm:7
+#, php-format
+msgid "You have %s new Message(s)"
+msgstr "Teniu %s missatge/s nous"
+
+#: pntemplates/communicator_output_popup.htm:10
+msgid "Open Inbox Folder"
+msgstr "Obre la safata d'entrada"
+
+#: pntemplates/communicator_output_popup.htm:11
+msgid "Close Notification"
+msgstr "Tanca la notificació"
+
+#: pntemplates/communicator_output_message.htm:13
+#: pntemplates/communicator_output_message.htm:40
+msgid "reply to message"
+msgstr "respon el missatge"
+
+#: pntemplates/communicator_output_message.htm:14
+#: pntemplates/communicator_output_message.htm:41
+msgid "forward message"
+msgstr "missatge de re-enviament"
+
+#: pntemplates/communicator_output_message.htm:16
+#: pntemplates/communicator_output_message.htm:42
+msgid "mark message"
+msgstr "marca el missatge"
+
+#: pntemplates/communicator_output_message.htm:18
+#: pntemplates/communicator_output_message.htm:44
+msgid "unmark message"
+msgstr "elimina la marca del missatge"
+
+#: pntemplates/communicator_output_message.htm:20
+#: pntemplates/communicator_output_message.htm:43
+msgid "mail @ home"
+msgstr "correu @ inici"
+
+#: pntemplates/communicator_output_message.htm:21
+#: pntemplates/communicator_output_message.htm:45
+msgid "move into folder"
+msgstr "mou a la carpeta"
+
+#: pntemplates/communicator_output_message.htm:35
+#: pntemplates/communicator_output_message.htm:60
+msgid "print message"
+msgstr "imprimeix el missatge"
+
+#: pntemplates/communicator_output_message.htm:36
+#: pntemplates/communicator_output_message.htm:61
+msgid "delete message"
+msgstr "esborra el missatge"
+
+#: pntemplates/communicator_output_message.htm:75
+msgid "From"
+msgstr "Des de"
+
+#: pntemplates/communicator_output_message.htm:76
+msgid "To"
+msgstr "A"
+
+#: pntemplates/communicator_output_message.htm:77
+#: pntemplates/communicator_user_main.htm:48
+msgid "Date"
+msgstr "Data"
+
+#: pntemplates/communicator_output_message.htm:79
+msgid "The sender classified this mail as very important."
+msgstr ""
+"L'usuari/ària que ha enviat aquest missatge l'ha classificat com a molt "
+"important."
+
+#: pntemplates/communicator_output_message.htm:83
+msgid "Message sender requested a notice of receipt."
+msgstr ""
+"L'usuari/ària que ha enviat el missatge sol·licita una notificació de "
+"rebuda."
+
+#: pntemplates/communicator_output_message.htm:85
+#: pntemplates/communicator_output_message.htm:87
+msgid "Please click here to send receipt to sender."
+msgstr "Si us plau, feu clic aquí per enviar el missatge de notificació."
+
+#: pntemplates/communicator_output_message.htm:92
+msgid "Notice of Receipt was requested by sender and was already sent by you."
+msgstr ""
+"La notificació de rebuda va ser sol·licitada per la persona que va fer "
+"l'enviament i vosaltres la veu enviar."
+
+#: pntemplates/communicator_output_message.htm:100
+msgid "Message could not be loaded."
+msgstr "No s'ha pogut carregar el missatge."
+
+#: pntemplates/communicator_user_main.htm:10
+msgid "Switch to mailbox folders"
+msgstr "Mou-te a les carpetes de missatges"
+
+#: pntemplates/communicator_user_main.htm:41
+msgid "User"
+msgstr "Usuari/ària"
+
+#: pntemplates/communicator_user_main.htm:160
+msgid "No message selected"
+msgstr "No s'ha seleccionat cap missatge"
+
+#: pntemplates/communicator_user_main.htm:288
+msgid "This message is already in specified target folder!"
+msgstr "Aquest missatge ja està a la carpeta de destí especificada!"
+
+#: pntemplates/communicator_user_main.htm:309
+msgid "Please confirm to delete the message"
+msgstr "Si us plau, confirmeu l'esborrament del missatge"
+
+#: pntemplates/communicator_user_main.htm:384
+#, php-format
+msgid "Please confirm to send the message to your private mailbox (%s)"
+msgstr ""
+"Si us plau, confirmeu l'enviament del missatge a la seva carpeta privada(%s)"
+
+#: pntemplates/communicator_user_main.htm:469
+msgid "Your settings have been stored"
+msgstr "S'ha guardat la seva configuració"
+
+#: pntemplates/communicator_user_compose.htm:11
+msgid "Preview"
+msgstr "Vista prèvia"
+
+#: pntemplates/communicator_user_compose.htm:18
+msgid "Recipients"
+msgstr "Destinataris"
+
+#: pntemplates/communicator_user_compose.htm:23
+msgid "You can enter multiple recipients separated with comma."
+msgstr "Podeu entrar diversos destinataris separats per coma."
+
+#: pntemplates/communicator_user_compose.htm:26
+msgid "Show buddies for quicker recipipent selection."
+msgstr "Mostra companys per la selecció ràpida de destinataris."
+
+#: pntemplates/communicator_user_compose.htm:30
+msgid "Mark the users who should recieve this message"
+msgstr "Maqueu els usuaris que haurien de rebre aquest missatge"
+
+#: pntemplates/communicator_user_compose.htm:37
+msgid "Message subject"
+msgstr "Títol del missatge"
+
+#: pntemplates/communicator_user_compose.htm:39
+msgid "Message body"
+msgstr "Cos del missatge"
+
+#: pntemplates/communicator_user_compose.htm:51
+msgid "Delivery options"
+msgstr "Opcions d'enviament"
+
+#: pntemplates/communicator_user_compose.htm:53
+msgid "Request notice of receipt"
+msgstr "Sol·licita un notificació de rebuda"
+
+#: pntemplates/communicator_user_compose.htm:55
+msgid "send message"
+msgstr "envia el missatge"
+
+#: pntemplates/communicator_user_compose.htm:56
+msgid "preview message"
+msgstr "vista prèvia del missatge"
+
+#: pntemplates/communicator_admin_settings.htm:31
+msgid "Maintenance"
+msgstr "Manteniment"
+
+#: pntemplates/communicator_admin_settings.htm:35
+msgid "Do not use automatical included clean up."
+msgstr ""
+
+#: pntemplates/communicator_output_messages_list.htm:46
+msgid "Folder is empty - no message found!"
+msgstr "La carpeta està buida - no s'han trobat missatges!"
+
+#: pntemplates/communicator_block_newmessages.htm:4
+msgid "You have new mail"
+msgstr "Teniu missatges nous"
+
+#: pntemplates/communicator_block_newmessages.htm:5
+#, php-format
+msgid "You have %s unread message(s) in your inbox folder."
+msgstr "Teniu %s missatges no llegits a la seva safata d'entrada."
+
+#: pntemplates/communicator_block_newmessages.htm:6
+msgid "...read messages now!"
+msgstr "...llegeix els missatges ara!"

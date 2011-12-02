@@ -1,0 +1,1462 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Dutch Translation for PageMaster 0.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-23 08:35-0300\n"
+"PO-Revision-Date: 2010-07-04 22:18+0200\n"
+"Last-Translator: Arjen <teb@zikula.nl>\n"
+"Language-Team: Dutch Zikula Community\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnuserapi.php:32 pnuserapi.php:231 pnuserapi.php:234 pnuserapi.php:339
+#: pnuserapi.php:342 pnuserapi.php:390 pnuserapi.php:393 pnuserapi.php:415
+#: pnuserapi.php:418 pnadmin.php:141 pnadmin.php:234 pnadmin.php:237
+#: pnadmin.php:281 pnadmin.php:284 classes/PmWorkflowUtil.class.php:33
+#: classes/PmWorkflowUtil.class.php:37 pnadminapi.php:24 pnuser.php:37
+#: pnuser.php:179 pnuser.php:182 pnuser.php:335 pnuser.php:438 pnuser.php:442
+#: pnuser.php:446 pntemplates/plugins/function.get_workflow_state.php:31
+#: pntemplates/plugins/function.get_workflow_state.php:35
+#: pntemplates/plugins/function.genericformplugin.php:28
+#: pntemplates/plugins/function.multilistdecode.php:21
+#: pntemplates/plugins/function.multilistdecode.php:25
+#: pntemplates/plugins/function.category_browser.php:50
+#: pntemplates/plugins/function.category_browser.php:54
+#: pntemplates/plugins/function.pmadminsubmenu.php:26
+#: pntemplates/plugins/function.hitcount.php:30
+#: pntemplates/plugins/function.hitcount.php:34
+#, php-format
+msgid "Error! Missing argument [%s]."
+msgstr "Foutmelding: Argument [%s] ontbreekt."
+
+#: pnuserapi.php:40 pnuserapi.php:254 pnuser.php:42 pnuser.php:187
+#: pnuser.php:340
+#, php-format
+msgid "Error! No such publication type [%s] found."
+msgstr "Foutmelding: Publicatie type [%s] niet gevonden."
+
+#: pnuserapi.php:263 pnuser.php:109 pnuser.php:268 pnuser.php:345
+msgid "Error! No publication fields found."
+msgstr "Foutmelding: Geen publicatie velden gevonden."
+
+#: pnuserapi.php:342
+msgid "commandName has to be a valid workflow action for the current state."
+msgstr ""
+"commandName dient een geldige workflow actie voor de huidige toestand te "
+"zijn."
+
+#: pnuserapi.php:369
+msgid "Workflow action error."
+msgstr "Workflow actie fout."
+
+#: pnadmin.php:113
+msgid "Error! No such publication type found."
+msgstr "Foutmelding: Publicatie type niet gevonden."
+
+#: pnadmin.php:120 pnajax.php:33 pninit.php:127 pninit.php:157 pninit.php:226
+#: pninit.php:237
+msgid "Error! Update attempt failed."
+msgstr "Foutmelding: Poging tot bijwerken mislukt."
+
+#: pnadmin.php:123
+msgid "Done! Database table updated."
+msgstr "Database tabellen bijgewerkt."
+
+#: pnadmin.php:151
+msgid ""
+"Error! The table of this publication type seems not to exist. Please, update "
+"the DB Tables at the bottom of this form."
+msgstr ""
+"Foutmelding: De tabel van dit publicatie type lijkt niet te bestaan. "
+"Onderaan dit formulier bevindt zich de mogelijkheid om de database tabellen "
+"bij te werken."
+
+#: pnadmin.php:301
+msgid "There has to be at least one publication to generate the template code."
+msgstr ""
+"Er dient tenminste één publicatie aanwezig te zijn om de template code te "
+"genereren."
+
+#: workflows/function.none_permissioncheck.php:46
+msgid "None"
+msgstr "Geen"
+
+#: workflows/function.none_permissioncheck.php:47
+msgid ""
+"This is an almost non-existing workflow. Everything is online immediately "
+"after creation."
+msgstr ""
+"Deze workflow is zeer uitgekleed: direct na het aanmaken wordt alles "
+"gepubliceerd."
+
+#: workflows/function.none_permissioncheck.php:51
+#: workflows/function.standard_permissioncheck.php:52
+msgid "Approved"
+msgstr "Goedgekeurd"
+
+#: workflows/function.none_permissioncheck.php:51
+#: workflows/function.standard_permissioncheck.php:52
+msgid "Content has been approved is available online"
+msgstr "De inhoud is goedgekeurd en staat gepubliceerd"
+
+#: workflows/function.none_permissioncheck.php:52
+msgid "Deleted"
+msgstr "Verwijderd"
+
+#: workflows/function.none_permissioncheck.php:52
+msgid "Content has been deleted"
+msgstr "De inhoud is verwijderd"
+
+#: workflows/function.none_permissioncheck.php:58
+#: workflows/function.standard_permissioncheck.php:59
+msgid "Submit"
+msgstr "Inzenden"
+
+#: workflows/function.none_permissioncheck.php:58
+msgid "Submit a publication"
+msgstr "Een publicatie inzenden"
+
+#: workflows/function.none_permissioncheck.php:61
+#: workflows/function.standard_permissioncheck.php:64
+#: workflows/function.standard_permissioncheck.php:68
+msgid "Update"
+msgstr "Bijwerken"
+
+#: workflows/function.none_permissioncheck.php:61
+#: workflows/function.standard_permissioncheck.php:68
+msgid "Update the publication"
+msgstr "De publicatie bijwerken"
+
+#: workflows/function.none_permissioncheck.php:62
+#: workflows/function.standard_permissioncheck.php:65
+#: workflows/function.standard_permissioncheck.php:72
+#: Form/Plugin/CustomData.php:261 Form/Plugin/CustomData.php:282
+#: classes/FormPlugins/pmformcustomdata.class.php:264
+#: classes/FormPlugins/pmformcustomdata.class.php:285
+#: pntemplates/pagemaster_admin_pubfields.htm:146
+#: pntemplates/pagemaster_admin_pubtype.htm:111
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: workflows/function.none_permissioncheck.php:62
+#: workflows/function.standard_permissioncheck.php:65
+#: workflows/function.standard_permissioncheck.php:72
+msgid "Delete the publication"
+msgstr "De publicatie verwijderen"
+
+#: workflows/operations/function.updatePub.php:44
+msgid "Error! Could not unpublish the other revisions of this publication."
+msgstr ""
+"Foutmelding: De andere revisies van deze publicatie konden niet worden "
+"uitgeschakeld."
+
+#: workflows/operations/function.updatePub.php:91
+msgid "Done! Publication updated."
+msgstr "Publicatie bijgewerkt."
+
+#: workflows/operations/function.updatePub.php:93
+#: workflows/operations/function.updateOnlineState.php:45
+msgid "Error! Failed to update the publication."
+msgstr "Foutmelding: Kon de publicatie niet bijwerken."
+
+#: workflows/operations/function.deletePub.php:43
+msgid "Done! Publication deleted."
+msgstr "Publicatie verwijderd."
+
+#: workflows/operations/function.deletePub.php:45
+msgid "Error! Failed to delete the publication."
+msgstr "Foutmelding: Kon de publicatie niet verwijderen."
+
+#: workflows/operations/function.copyPub.php:65
+msgid "Done! Publication copied."
+msgstr "Publicatie gekopieerd."
+
+#: workflows/operations/function.copyPub.php:67
+msgid "Error! Failed to copy the publication."
+msgstr "Foutmelding: Kon de publicatie niet kopiëren."
+
+#: workflows/operations/function.moveToDepot.php:40
+msgid "Done! Publication archived."
+msgstr "Publicatie gearchiveerd."
+
+#: workflows/operations/function.moveToDepot.php:42
+msgid "Error! Failed to update publication."
+msgstr "Foutmelding: Kon de publicatie niet archiveren."
+
+#: workflows/operations/function.createPub.php:50
+msgid "Done! Publication created."
+msgstr "Publicatie aangemaakt."
+
+#: workflows/operations/function.createPub.php:59
+msgid "Error! Failed to create the publication."
+msgstr "Foutmelding: Kon de publicatie niet aanmaken."
+
+#: workflows/operations/function.updateOnlineState.php:40
+msgid "Done! Publication status set to 'published'."
+msgstr "Publicatie status ingesteld op 'gepubliceerd'."
+
+#: workflows/operations/function.updateOnlineState.php:42
+msgid "Done! Publication status set to 'unpublished'."
+msgstr "Publicatie status ingesteld op 'ongepubliceerd'"
+
+#: workflows/function.standard_permissioncheck.php:46
+msgid "Standard"
+msgstr "Standaard"
+
+#: workflows/function.standard_permissioncheck.php:47
+msgid ""
+"This is a two staged workflow with stages for untrusted submissions and "
+"finally approved publications. It does not allow untrusted corrections to "
+"published pages."
+msgstr ""
+"Deze workflow bestaat uit 2 stappen, voor in eerste instantie wachtende "
+"inzending en vervolgens goedgekeurde publicaties. Wijzigingen aan reeds "
+"gepubliceerde pagina's worden ook als wachtend gemarkeerd."
+
+#: workflows/function.standard_permissioncheck.php:51
+msgid "Waiting"
+msgstr "Wachtend"
+
+#: workflows/function.standard_permissioncheck.php:51
+msgid "Content has been submitted and is waiting for acceptance"
+msgstr "Inhoud is ingezonden en wacht op goedkeuring"
+
+#: workflows/function.standard_permissioncheck.php:58
+msgid "Submit and Approve"
+msgstr "Inzenden en goedkeuren"
+
+#: workflows/function.standard_permissioncheck.php:58
+msgid "Submit a publication and approve immediately"
+msgstr "Een publicatie inzenden en goedkeuren in één stap"
+
+#: workflows/function.standard_permissioncheck.php:59
+msgid "Submit a publication for acceptance by a moderator"
+msgstr "Een publicatie inzenden ter goedkeuring"
+
+#: workflows/function.standard_permissioncheck.php:62
+msgid "Update and Approve"
+msgstr "Bijwerken en goedkeuren"
+
+#: workflows/function.standard_permissioncheck.php:62
+msgid "Update the content and approve for immediate publishing"
+msgstr "Een publicatie bijwerken en goedkeuren in één stap"
+
+#: workflows/function.standard_permissioncheck.php:63
+msgid "Approve"
+msgstr "Goedkeuren"
+
+#: workflows/function.standard_permissioncheck.php:63
+msgid "Approve the publication for immediate publishing"
+msgstr "De publicatie goedkeuren en direct publiceren"
+
+#: workflows/function.standard_permissioncheck.php:64
+msgid "Update the content for later publishing"
+msgstr "Inhoud bijwerken en als wachtend markeren"
+
+#: workflows/function.standard_permissioncheck.php:69
+msgid "Publish"
+msgstr "Publiceren"
+
+#: workflows/function.standard_permissioncheck.php:69
+msgid "Make the publication available"
+msgstr "Publicatie beschikbaar maken"
+
+#: workflows/function.standard_permissioncheck.php:70
+msgid "Unpublish"
+msgstr "Onpubliceren"
+
+#: workflows/function.standard_permissioncheck.php:70
+msgid "Hide the publication"
+msgstr "De publicatie verbergen"
+
+#: workflows/function.standard_permissioncheck.php:71
+msgid "Move to depot"
+msgstr "Verplaatsen naar depot"
+
+#: workflows/function.standard_permissioncheck.php:71
+msgid "Move the publication to the depot"
+msgstr "Verplaats de publicatie naar het depot"
+
+#. ! field type name
+#: Form/Plugin/String.php:22
+#: classes/FormPlugins/pmformstringinput.class.php:24
+msgid "String"
+msgstr "String (1 regel tekst)"
+
+#. ! field type name
+#: Form/Plugin/Ms.php:22 classes/FormPlugins/pmformmsinput.class.php:24
+msgid "Mediashare"
+msgstr "Mediashare"
+
+#. ! field type name
+#: Form/Plugin/MultiList.php:25
+#: classes/FormPlugins/pmformmultilistinput.class.php:27
+msgid "Multiple Selector"
+msgstr "Meerkeuze opties"
+
+#: Form/Plugin/MultiList.php:149 Form/Plugin/List.php:124
+#: Form/Plugin/MultiCheck.php:116
+#: classes/FormPlugins/pmformmultilistinput.class.php:151
+#: classes/FormPlugins/pmformmulticheckinput.class.php:118
+#: classes/FormPlugins/pmformlistinput.class.php:126
+msgid "Category"
+msgstr "Categorie"
+
+#: Form/Plugin/MultiList.php:165
+#: classes/FormPlugins/pmformmultilistinput.class.php:167
+msgid "Size"
+msgstr "Grootte"
+
+#. ! field type name
+#: Form/Plugin/Url.php:22 classes/FormPlugins/pmformurlinput.class.php:24
+msgid "URL"
+msgstr "URL"
+
+#: Form/Plugin/Url.php:65 classes/FormPlugins/pmformurlinput.class.php:67
+msgid "Error! Invalid URL."
+msgstr "Foutmelding: Ongeldige URL."
+
+#. ! field type name
+#: Form/Plugin/Int.php:22 classes/FormPlugins/pmformintinput.class.php:24
+msgid "Integer Value"
+msgstr "Geheel getal"
+
+#. ! field type name
+#: Form/Plugin/CustomData.php:24
+#: classes/FormPlugins/pmformcustomdata.class.php:26
+msgid "Custom Data"
+msgstr "Eigen gegevens"
+
+#: Form/Plugin/CustomData.php:231
+#: classes/FormPlugins/pmformcustomdata.class.php:234
+msgid "Default:"
+msgstr "Standaard:"
+
+#: Form/Plugin/CustomData.php:235
+#: classes/FormPlugins/pmformcustomdata.class.php:238
+msgid "Add a new item type"
+msgstr "Nieuw item type toevoegen"
+
+#: Form/Plugin/CustomData.php:239
+#: classes/FormPlugins/pmformcustomdata.class.php:242
+msgid "Type name"
+msgstr "Type naam"
+
+#: Form/Plugin/CustomData.php:240
+#: classes/FormPlugins/pmformcustomdata.class.php:243
+msgid "Display name"
+msgstr "Weergave naam"
+
+#: Form/Plugin/CustomData.php:241
+#: classes/FormPlugins/pmformcustomdata.class.php:244
+msgid "API to use"
+msgstr "Te gebruiken API"
+
+#: Form/Plugin/CustomData.php:242
+#: classes/FormPlugins/pmformcustomdata.class.php:245
+msgid "Ajax call"
+msgstr "Ajax aanroep"
+
+#: Form/Plugin/CustomData.php:243
+#: classes/FormPlugins/pmformcustomdata.class.php:246
+#: pntemplates/plugins/function.pmadminsubmenu.php:40
+#: pntemplates/plugins/function.pmadminsubmenu.php:42
+#: pntemplates/pagemaster_admin_publist.htm:71
+#: pntemplates/pagemaster_admin_pubtypes.htm:18
+msgid "Options"
+msgstr "Opties"
+
+#. ! field type name
+#: Form/Plugin/Image.php:25 classes/FormPlugins/pmformimageinput.class.php:27
+msgid "Image Upload"
+msgstr "Afbeelding uploaden"
+
+#: Form/Plugin/Image.php:66 Form/Plugin/Upload.php:61
+#: classes/FormPlugins/pmformimageinput.class.php:68
+#: classes/FormPlugins/pmformuploadinput.class.php:63
+msgid "Stored data is invalid"
+msgstr "Opgeslagen data is ongeldig"
+
+#: Form/Plugin/Image.php:243
+#: classes/FormPlugins/pmformimageinput.class.php:245
+msgid "Thumbnail width"
+msgstr "Thumbnail breedte"
+
+#: Form/Plugin/Image.php:247
+#: classes/FormPlugins/pmformimageinput.class.php:249
+msgid "Thumbnail height"
+msgstr "Thumbnail hoogte"
+
+#: Form/Plugin/Image.php:252
+#: classes/FormPlugins/pmformimageinput.class.php:254
+msgid "Preview width"
+msgstr "Voorbeeld breedte"
+
+#: Form/Plugin/Image.php:256
+#: classes/FormPlugins/pmformimageinput.class.php:258
+msgid "Preview height"
+msgstr "Voorbeeld hoogte"
+
+#: Form/Plugin/Image.php:261
+#: classes/FormPlugins/pmformimageinput.class.php:263
+msgid "Full width"
+msgstr "Volledige breedte"
+
+#: Form/Plugin/Image.php:265
+#: classes/FormPlugins/pmformimageinput.class.php:267
+msgid "Full height"
+msgstr "Volledige hoogte"
+
+#: Form/Plugin/Image.php:270
+#: classes/FormPlugins/pmformimageinput.class.php:272
+msgid ""
+"Warning! The Thumbnails module is not available. This plugin needs it to "
+"build the Preview and Thumbnail of each uploaded Image."
+msgstr ""
+"Waarschuwing: De Thumbnails module is niet beschikbaar. Deze plugin heeft "
+"deze module wel nodig voor correcte bouw van voorbeelden en thumbnails van "
+"iedere geuploade afbeelding."
+
+#. ! field type name
+#: Form/Plugin/Pub.php:24 Form/Plugin/Pub.php:121
+#: classes/FormPlugins/pmformpubinput.class.php:26
+#: classes/FormPlugins/pmformpubinput.class.php:123
+msgid "Publication"
+msgstr "Publicatie"
+
+#: Form/Plugin/Pub.php:51 classes/FormPlugins/pmformpubinput.class.php:53
+msgid "No such publication found."
+msgstr "Publicatie niet gevonden."
+
+#: Form/Plugin/Pub.php:86 classes/FormPlugins/pmformpubinput.class.php:88
+msgid "Plugin not configured."
+msgstr "Plugin niet geconfigureerd."
+
+#: Form/Plugin/Pub.php:133 classes/FormPlugins/pmformpubinput.class.php:135
+msgid "Filter"
+msgstr "Filter"
+
+#: Form/Plugin/Pub.php:137 classes/FormPlugins/pmformpubinput.class.php:139
+msgid "Join"
+msgstr "Join"
+
+#: Form/Plugin/Pub.php:141 classes/FormPlugins/pmformpubinput.class.php:143
+msgid "Join fields"
+msgstr "Join-velden"
+
+#: Form/Plugin/Pub.php:143 classes/FormPlugins/pmformpubinput.class.php:145
+msgid "format: fieldname:alias,fieldname:alias"
+msgstr "formaat: veldnaam:alias,veldnaam:alias"
+
+#: Form/Plugin/Pub.php:146 classes/FormPlugins/pmformpubinput.class.php:148
+msgid "Orderby field"
+msgstr "Sorteer-veld"
+
+#. ! field type name
+#: Form/Plugin/Float.php:22 classes/FormPlugins/pmformfloatinput.class.php:24
+msgid "Float Value"
+msgstr "Floating-point waarde"
+
+#. ! field type name
+#: Form/Plugin/Email.php:22 classes/FormPlugins/pmformemailinput.class.php:24
+msgid "Email"
+msgstr "E-mail"
+
+#. ! field type name
+#: Form/Plugin/Date.php:25 classes/FormPlugins/pmformdateinput.class.php:27
+msgid "Date"
+msgstr "Datum"
+
+#: Form/Plugin/Date.php:59 classes/FormPlugins/pmformdateinput.class.php:61
+msgid "Include time"
+msgstr "Inclusief tijd"
+
+#. ! field type name
+#: Form/Plugin/List.php:25 classes/FormPlugins/pmformlistinput.class.php:27
+#: pntemplates/pagemaster_admin_pubtypes.htm:64
+msgid "List"
+msgstr "Lijst"
+
+#: Form/Plugin/List.php:142 classes/FormPlugins/pmformlistinput.class.php:144
+msgid "Include an empty item?"
+msgstr "Lege optie toevoegen?"
+
+#. ! field type name
+#: Form/Plugin/Checkbox.php:22
+#: classes/FormPlugins/pmformcheckboxinput.class.php:24
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#. ! field type name
+#: Form/Plugin/MultiCheck.php:25
+#: classes/FormPlugins/pmformmulticheckinput.class.php:27
+msgid "MultiCheckbox List"
+msgstr "Lijst met checkboxen"
+
+#. ! field type name
+#: Form/Plugin/Text.php:24 classes/FormPlugins/pmformtextinput.class.php:26
+msgid "Text"
+msgstr "Tekst"
+
+#: Form/Plugin/Text.php:79 classes/FormPlugins/pmformtextinput.class.php:81
+msgid "Use Scribite!"
+msgstr "Gebruik scribite!"
+
+#: Form/Plugin/Text.php:84 classes/FormPlugins/pmformtextinput.class.php:86
+msgid "Install Scribite! if you want to use it in this text field"
+msgstr "Installeer scribite! indien dit benodigd is bij dit invoerveld"
+
+#. ! field type name
+#: Form/Plugin/Upload.php:23
+#: classes/FormPlugins/pmformuploadinput.class.php:25
+msgid "File Upload"
+msgstr "Bestands upload"
+
+#: pnversion.php:16 pninit.php:44
+msgid "PageMaster"
+msgstr "PageMaster"
+
+#: pnversion.php:17
+msgid "Content Module like pagesetter"
+msgstr "Inhoudsmodule zoals pagesetter"
+
+#. ! module name that appears in URL
+#: pnversion.php:19
+msgid "pagemaster"
+msgstr "pagemaster"
+
+#: pnajax.php:17
+msgid "Sorry! No authorization to access this module."
+msgstr "Foutmelding: Geen rechten om deze module te benaderen."
+
+#: pninit.php:45
+msgid "PageMaster root category"
+msgstr "PageMaster ROOT categorie"
+
+#: pninit.php:47 pninit.php:64
+#, php-format
+msgid "Error! Could not create the [%s] category."
+msgstr "Foutmelding: Kon de categorie [%s] niet aanmaken."
+
+#. ! this is the 'lists' root category name
+#: pninit.php:61
+msgid "lists"
+msgstr "Lijsten"
+
+#: pninit.php:62
+msgid "PageMaster lists for its publications"
+msgstr "PageMaster lijsten voor zijn publicaties"
+
+#: pninit.php:81
+#, php-format
+msgid "Error! Could not create the [%s] Category Registry for PageMaster."
+msgstr ""
+"Foutmelding: Kon het categorie register [%s] voor PageMaster niet aanmaken."
+
+#: pninit.php:90
+#, php-format
+msgid ""
+"PageMaster created the upload directory successfully at [%s]. Be sure that "
+"this directory is accessible via web and writable by the webserver."
+msgstr ""
+"PageMaster heeft de upload directory aangemaakt op [%s]. Vergewis dat deze "
+"directory toegankelijk is via het web en beschrijfbaar voor de webserver."
+
+#: pninit.php:93
+#, php-format
+msgid ""
+"PageMaster could not create the upload directory [%s]. Please create an "
+"upload directory, accessible via web and writable by the webserver."
+msgstr ""
+"PageMaster kon de upload directory niet aanmaken op [%s]. Creëer deze upload "
+"directory zelf en vergewis dat deze directory toegankelijk is via het web en "
+"beschrijfbaar voor de webserver."
+
+#: pninit.php:305 pninit.php:306
+#, php-format
+msgid "Error! Category path not found [%s]."
+msgstr "Foutmelding: Categorie pad niet gevonden [%s]."
+
+#: pnsearchapi.php:117
+msgid "Error! Could not save the search results."
+msgstr "Foutmelding: Kon de zoekresultaten niet opslaan."
+
+#: classes/FormHandlers/PageMaster_user_editpub.class.php:73
+msgid "No workflow actions found. This can be a permissions issue."
+msgstr ""
+"Geen workflow acties gevonden. Dit kan ook veroorzaakt worden door "
+"restricties via het Rechten systeem."
+
+#: classes/FormHandlers/PageMaster_admin_modifyconfig.class.php:82
+msgid "Done! Module configuration updated."
+msgstr "Module configuratie bijgewerkt."
+
+#: classes/FormHandlers/PageMaster_admin_pubtypes.class.php:50
+#: pntemplates/pagemaster_admin_publist.htm:63
+msgid "Creation date"
+msgstr "Aangemaakt"
+
+#: classes/FormHandlers/PageMaster_admin_pubtypes.class.php:54
+#: pntemplates/pagemaster_admin_publist.htm:68
+msgid "Update date"
+msgstr "Bijgewerkt"
+
+#: classes/FormHandlers/PageMaster_admin_pubtypes.class.php:58
+msgid "Creator"
+msgstr "Aangemaakt door"
+
+#: classes/FormHandlers/PageMaster_admin_pubtypes.class.php:62
+msgid "Updater"
+msgstr "Bijgewerkt door"
+
+#: classes/FormHandlers/PageMaster_admin_pubtypes.class.php:66 common.php:231
+msgid "Publish date"
+msgstr "Publicatiedatum"
+
+#: classes/FormHandlers/PageMaster_admin_pubtypes.class.php:70 common.php:232
+msgid "Expire date"
+msgstr "Verloop datum"
+
+#: classes/FormHandlers/PageMaster_admin_pubtypes.class.php:74 common.php:230
+msgid "Language"
+msgstr "Taal"
+
+#: classes/FormHandlers/PageMaster_admin_pubtypes.class.php:78
+msgid "Number of reads"
+msgstr "Aantal maal gelezen"
+
+#: classes/FormHandlers/PageMaster_admin_pubtypes.class.php:137
+msgid "Done! Publication type created."
+msgstr "Publicatie type aangemaakt."
+
+#: classes/FormHandlers/PageMaster_admin_pubtypes.class.php:140
+msgid "Done! Publication type updated."
+msgstr "Publicatie type bijgewerkt."
+
+#: classes/FormHandlers/PageMaster_admin_pubtypes.class.php:151
+msgid "Done! Publication type deleted."
+msgstr "Publicatietype verwijderd."
+
+#: classes/FormHandlers/PageMaster_admin_pubfields.class.php:34
+#, php-format
+msgid "Error! %s not set."
+msgstr "Foutmelding: %s niet opgegeven."
+
+#: classes/FormHandlers/PageMaster_admin_pubfields.class.php:94
+msgid "Error! Name has to be unique."
+msgstr "Foutmelding: Naam dient uniek te zijn."
+
+#: classes/FormHandlers/PageMaster_admin_pubfields.class.php:104
+msgid "Done! Field created."
+msgstr "Veld aangemaakt."
+
+#: classes/FormHandlers/PageMaster_admin_pubfields.class.php:108
+msgid "Done! Field updated."
+msgstr "Veld bijgewerkt."
+
+#: classes/FormHandlers/PageMaster_admin_pubfields.class.php:115
+msgid "Done! Field deleted."
+msgstr "Veld verwijderd."
+
+#: classes/FormHandlers/PageMaster_admin_pubfields.class.php:117
+msgid "Error! Deletion attempt failed."
+msgstr "Foutmelding: Poging to verwijderen mislukt."
+
+#: pnadminapi.php:32
+#, php-format
+msgid ""
+"Error! No table definitions found. Please <a href=\"%s\">define the fields</"
+"a> of your publication."
+msgstr ""
+"Foutmelding: Geen tabel definities gevonden. Er dienen<a href=\"%s\">velden "
+"gedefinieerd te worden</a> voor de publicatie."
+
+#: pnadminapi.php:60
+msgid "List publication types"
+msgstr "Lijst van publicatie types weergeven"
+
+#: pnadminapi.php:64
+msgid "New publication type"
+msgstr "Nieuw publicatie type"
+
+#: pnadminapi.php:68
+msgid "Edit publications"
+msgstr "Publicaties bewerken"
+
+#: pnadminapi.php:72 pntemplates/pagemaster_admin_modifyconfig.htm:6
+#: pntemplates/pagemaster_admin_modifyconfig.htm:8
+msgid "Settings"
+msgstr "Instellingen"
+
+#: pnuser.php:143 pnuser.php:304 pnuser.php:396 pnuser.php:405
+#, php-format
+msgid "Notice: Template [%s] not found."
+msgstr "Let op: Template [%s] niet gevonden."
+
+#: pnuser.php:282
+#, php-format
+msgid "No such publication [%s - %s, %s] found."
+msgstr "De publicatie [%s - %s, %s] werd niet gevonden."
+
+#: pnuser.php:358
+#, php-format
+msgid "Error! No such publication [%s - %s] found."
+msgstr "De publicatie [%s - %s] werd niet gevonden."
+
+#: pnuser.php:458
+#, php-format
+msgid "Error! No such publication [%s] found."
+msgstr "De publicatie [%s] werd niet gevonden."
+
+#: common.php:67
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: common.php:68
+msgid "Image"
+msgstr "Afbeelding"
+
+#: common.php:176 pntemplates/plugins/function.pmadminsubmenu.php:59
+msgid "New publication"
+msgstr "Nieuwe publicatie"
+
+#: common.php:177
+msgid "Edit publication"
+msgstr "Publicatie bewerken"
+
+#: common.php:233
+msgid "Show in list"
+msgstr "In lijst tonen"
+
+#: pnimportapi.php:97
+msgid "Lists import succeded!"
+msgstr "Import van pagesetter-categorieën gelukt!"
+
+#: pnimportapi.php:269
+#, php-format
+msgid "Error! Unsupported field type [%s]."
+msgstr "Foutmelding: Veld type [%s] niet ondersteund."
+
+#: pnimportapi.php:286
+msgid "Fields import succeded!"
+msgstr "Import van velden gelukt!"
+
+#: pnimportapi.php:305
+#, php-format
+msgid "Cannot create the database for tid [%1$s (%2$s)]."
+msgstr "Kon de database voor tid [%1$s (%2$s)] niet aanmaken."
+
+#: pnimportapi.php:309
+msgid "Database update succeded!"
+msgstr "Database bijwerken gelukt!"
+
+#: pnimportapi.php:364
+#, php-format
+msgid "Error! Cannot import the data for pubtype [%1$s (%2$s)]."
+msgstr "Foutmelding: Kon data voor pubtype [%1$s (%2$s)] niet importeren."
+
+#: pnimportapi.php:481
+msgid "Data import succeded!"
+msgstr "Data import gelukt!"
+
+#: pnblocks/list.php:31
+msgid "PageMaster List"
+msgstr "PageMaster lijst"
+
+#: pnblocks/list.php:32
+msgid "PageMaster N publications list"
+msgstr "PageMaster lijst van N publicaties"
+
+#: pnblocks/list.php:140 pnblocks/viewpub.php:126
+msgid "Publication type"
+msgstr "Publicatie type"
+
+#: pnblocks/list.php:152
+msgid "Filter string"
+msgstr "Filter string"
+
+#: pnblocks/list.php:164
+msgid "Order by"
+msgstr "Sorteren op"
+
+#: pnblocks/list.php:177 pnblocks/viewpub.php:150
+msgid "Cache lifetime"
+msgstr "Cache geldigheidsduur"
+
+#: pnblocks/list.php:189
+msgid "Number of items"
+msgstr "Aantal items"
+
+#: pnblocks/list.php:201
+msgid "Starting from"
+msgstr "Starten bij"
+
+#: pnblocks/list.php:213 pnblocks/viewpub.php:162
+msgid "Template"
+msgstr "Template"
+
+#: pnblocks/pubeditlist.php:31
+msgid "PageMaster edit list"
+msgstr "PageMaster bewerk-lijst"
+
+#: pnblocks/pubeditlist.php:32
+msgid "PageMaster dynamic edit tree/list"
+msgstr "PageMaster dynamische bewerk-boom/lijst"
+
+#: pnblocks/viewpub.php:31
+msgid "PageMaster viewpub"
+msgstr "PageMaster viewpub"
+
+#: pnblocks/viewpub.php:32
+msgid "PageMaster View Publication"
+msgstr "PageMaster bekijk publicatie"
+
+#: pnblocks/viewpub.php:138 pntemplates/pagemaster_admin_publist.htm:45
+#: pntemplates/pagemaster_admin_history.htm:15
+msgid "PID"
+msgstr "PID"
+
+#: pntemplates/plugins/function.category_browser.php:74
+#, php-format
+msgid "Error! No such category found for the ID passed [%s]."
+msgstr "Foutmelding: Categorie voor opgegeven ID [%s] niet gevonden."
+
+#: pntemplates/plugins/function.pmadminsubmenu.php:49
+#: pntemplates/plugins/function.pmadminsubmenu.php:51
+#: pntemplates/plugins/function.pmadminsubmenu.php:53
+#: pntemplates/pagemaster_admin_pubtypes.htm:38
+msgid "Fields"
+msgstr "Velden"
+
+#: pntemplates/plugins/function.pmadminsubmenu.php:65
+#: pntemplates/plugins/function.pmadminsubmenu.php:67
+msgid "Publication list"
+msgstr "Publicatie lijst"
+
+#: pntemplates/plugins/function.pmadminsubmenu.php:73
+msgid "Input template"
+msgstr "Input template"
+
+#: pntemplates/plugins/function.pmadminsubmenu.php:74
+msgid "List template"
+msgstr "Lijst template"
+
+#: pntemplates/plugins/function.pmadminsubmenu.php:75
+msgid "Display template"
+msgstr "Weergave template"
+
+#: pntemplates/plugins/function.pmadminsubmenu.php:77
+msgid "Generate templates"
+msgstr "Templates aanmaken"
+
+#: pntemplates/plugins/function.pmformplugintype.php:86
+#: pntemplates/plugins/function.pmformplugintype.php:178
+msgid "Modify config"
+msgstr "Configuratie wijzigen"
+
+#: pntemplates/plugins/function.pmformplugintype.php:90
+#: pntemplates/plugins/function.pmformplugintype.php:182
+#: pntemplates/pagemaster_admin_pubfields.htm:144
+#: pntemplates/pagemaster_admin_pubtype.htm:110
+#: pntemplates/pagemaster_admin_modifyconfig.htm:52
+msgid "Save"
+msgstr "Opslaan"
+
+#: pntemplates/plugins/function.pmformplugintype.php:91
+#: pntemplates/plugins/function.pmformplugintype.php:183
+#: pntemplates/pagemaster_admin_modifyconfig.htm:53
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: pntemplates/pagemaster_admin_showcode.htm:6
+#: pntemplates/pagemaster_admin_showcode.htm:8
+#: pntemplates/pagemaster_admin_pubtypes.htm:20
+msgid "Show code"
+msgstr "Toon code"
+
+#: pntemplates/pagemaster_admin_showcode.htm:16
+msgid "Input form template"
+msgstr "Template voor invoer"
+
+#: pntemplates/pagemaster_admin_showcode.htm:21
+msgid "Publication list template"
+msgstr "Template voor lijst van publicaties"
+
+#: pntemplates/pagemaster_admin_showcode.htm:26
+msgid "Publication display template"
+msgstr "Template voor weergave van publicatie"
+
+#: pntemplates/pagemaster_admin_showcode.htm:31
+#, php-format
+msgid ""
+"Create a template named <strong>%1$s</strong> with this code, and store it "
+"in the the directory: <strong>/config/templates/PageMaster/%2$s/%1$s</"
+"strong>, or within your theme in the <strong>/themes/YourTheme/templates/"
+"modules/PageMaster/%2$s/%1$s</strong>."
+msgstr ""
+"Creëer een template met de naam <strong>%1$s</strong> met deze code, en sla "
+"het op in de directory: <strong>/config/templates/PageMaster/%2$s/%1$s</"
+"strong>, of binnen het gebruikte theme in de directory: <strong>/themes/"
+"YourTheme/templates/modules/PageMaster/%2$s/%1$s</strong>."
+
+#: pntemplates/pagemaster_admin_pubfields.htm:8
+#: pntemplates/pagemaster_admin_pubfields.htm:10
+msgid "Manage Publication fields"
+msgstr "Beheer Publicatie velden"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:16
+#, php-format
+msgid ""
+"When publication fields are added or changed you need to <a href=\"%s"
+"\">Update the DB Table</a>."
+msgstr ""
+"Als er velden worden toegevoegd, gewijzigd of verwijderd, dient de <a href="
+"\"%s\">database te worden bijgewerkt</a>."
+
+#: pntemplates/pagemaster_admin_pubfields.htm:20
+msgid "Existing publication fields"
+msgstr "Bestaande publicatie velden"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:25
+msgid "Name"
+msgstr "Naam"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:26
+#: pntemplates/pagemaster_admin_publist.htm:50
+#: pntemplates/pagemaster_admin_history.htm:16
+msgid "Title"
+msgstr "Titel"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:27
+msgid "Description"
+msgstr "Beschrijving"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:28
+msgid "Title field"
+msgstr "Titel veld"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:29
+msgid "Mandatory"
+msgstr "Verplicht"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:30
+msgid "Searchable"
+msgstr "Doorzoekbaar"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:31
+msgid "Max. lenght"
+msgstr "Maximale lengte"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:32
+msgid "Actions"
+msgstr "Acties"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:71
+#: pntemplates/pagemaster_admin_publist.htm:88
+#: pntemplates/pagemaster_generic_publist.htm:24
+#: pntemplates/pagemaster_generic_navbar.htm:44
+#: pntemplates/pagemaster_admin_pubtypes.htm:34
+msgid "Edit"
+msgstr "Bewerken"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:76
+msgid "This publication type doesn't have fields yet."
+msgstr "Dit publicatie type heeft nog geen velden."
+
+#: pntemplates/pagemaster_admin_pubfields.htm:86
+msgid "Add a publication field"
+msgstr "Publicatie veld toevoegen"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:90
+msgid "Name of this field (is used e.g. in the template variables)."
+msgstr "Naam van dit veld (wordt gebruikt in o.a. de template variabelen)."
+
+#: pntemplates/pagemaster_admin_pubfields.htm:95
+msgid ""
+"Title (is shown e.g. in the automatically generated templates) and can be a "
+"custom gettext string."
+msgstr ""
+"Titel (wordt getoond in de gegenereerde templates en kan een eigen gettext "
+"string zijn)"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:100
+msgid ""
+"Optional tooltip of this field used on the input form, and can be a custom "
+"gettext string."
+msgstr ""
+"Optionele tooltip voor dit veld bij weergave in het invoer formulier (kan "
+"een eigen gettext string zijn)"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:105
+msgid ""
+"Which kind of fieldtype is used (can be extended by plugins). Detailed "
+"informations about the individual plugins can be found in the documentation."
+msgstr ""
+"Het soort veld type dat wordt gebruikt (kan worden uitgebreid door plugins). "
+"Gedetailleerde informatie over individuele plugins kan gevonden worden in de "
+"documentatie."
+
+#: pntemplates/pagemaster_admin_pubfields.htm:107
+msgid "Edit this field only if you know what you are doing."
+msgstr "Bewerk dit veld alleen als de gevolgen en impact bekend zijn."
+
+#: pntemplates/pagemaster_admin_pubfields.htm:108
+msgid ""
+"This is the configuration data of the field, if you edit it manually you can "
+"get unexpected results. Please use the configuration icon next to the "
+"selector to configure the field with ease."
+msgstr ""
+"Dit is de configuratie data van het veld. De resultaten kunnen onverwacht "
+"worden als dit veld bewerkt wordt. Gebruik het configuratie icoon naast de "
+"selector om het veld makkelijk te configureren."
+
+#: pntemplates/pagemaster_admin_pubfields.htm:114
+msgid "The content of this field will be used as the title?"
+msgstr "Inhoud van dit veld wordt gebruikt als titel?"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:119
+msgid "The content of this field is pageable?"
+msgstr "Inhoud van dit veld is onder te verdelen over meerdere pagina's?"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:124
+msgid "Is this field mandatory?"
+msgstr "Veld is verplicht?"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:129
+msgid "The content of this field can be searched?"
+msgstr "Inhoud van dit veld is doorzoekbaar?"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:134
+msgid "The maximum lenght for the content of this field."
+msgstr "Maximale lengte voor de inhoud van dit veld."
+
+#: pntemplates/pagemaster_admin_pubfields.htm:139
+msgid ""
+"Weight number of this field. You can leave it blank and order it later with "
+"Drag & Drop in the full list."
+msgstr ""
+"Volgorde-gewicht van dit veld. Dit kan ook leeg gelaten worden, en later "
+"middels Drag & Drop gemakkelijk aangepast worden."
+
+#: pntemplates/pagemaster_user_pubeditlist_menu.htm:23
+msgid "Add new publication"
+msgstr "Nieuwe publicatie toevoegen"
+
+#: pntemplates/pagemaster_user_pubeditlist_menu.htm:24
+#: pntemplates/pagemaster_admin_pubtypes.htm:33
+msgid "Edit this publication type"
+msgstr "Publicatie type bewerken"
+
+#: pntemplates/pagemaster_user_pubeditlist_menu.htm:25
+msgid "Add, edit or modify the fields of this publication type"
+msgstr "Velden voor dit publicatie type aanmaken, bewerken of verwijderen"
+
+#: pntemplates/pagemaster_user_pubeditlist_menu.htm:36
+msgid "View this publication"
+msgstr "Bekijk deze publicatie"
+
+#: pntemplates/pagemaster_user_pubeditlist_menu.htm:42
+#: pntemplates/pagemaster_admin_pubtypes.htm:73
+msgid "No publication types found."
+msgstr "Geen publicatietypes gevonden."
+
+#: pntemplates/pagemaster_admin_publist.htm:32
+#: pntemplates/pagemaster_admin_publist.htm:34
+#: pntemplates/pagemaster_user_pubeditlist.htm:17
+msgid "Publications list"
+msgstr "Publicaties lijst"
+
+#: pntemplates/pagemaster_admin_publist.htm:53
+#: pntemplates/pagemaster_admin_history.htm:17
+msgid "Revision"
+msgstr "Revisie"
+
+#: pntemplates/pagemaster_admin_publist.htm:54
+#: pntemplates/pagemaster_admin_history.htm:18
+msgid "State"
+msgstr "Toestand"
+
+#: pntemplates/pagemaster_admin_publist.htm:57
+#: pntemplates/pagemaster_admin_history.htm:19
+msgid "Author"
+msgstr "Auteur"
+
+#: pntemplates/pagemaster_admin_publist.htm:60
+#: pntemplates/pagemaster_admin_history.htm:20
+msgid "Online"
+msgstr "Online"
+
+#: pntemplates/pagemaster_admin_publist.htm:89
+#: pntemplates/pagemaster_generic_publist.htm:19
+msgid "View"
+msgstr "Bekijken"
+
+#: pntemplates/pagemaster_admin_publist.htm:90
+#: pntemplates/pagemaster_admin_history.htm:6
+#: pntemplates/pagemaster_admin_history.htm:8
+msgid "History"
+msgstr "Geschiedenis"
+
+#: pntemplates/pagemaster_admin_publist.htm:94
+#: pntemplates/pagemaster_generic_publist.htm:32
+#: pntemplates/pagemaster_admin_history.htm:36
+msgid "No publications found."
+msgstr "Geen publicaties gevonden."
+
+#: pntemplates/pagemaster_user_pubeditlist.htm:20
+msgid "Publications edit list"
+msgstr "Publicaties bewerk lijst"
+
+#: pntemplates/pagemaster_admin_pubtype.htm:6
+msgid "Create / Edit publication type"
+msgstr "Publicatie type aanmaken / bewerken"
+
+#: pntemplates/pagemaster_admin_pubtype.htm:9
+msgid "Edit publication type"
+msgstr "Publicatie type bewerken"
+
+#: pntemplates/pagemaster_admin_pubtype.htm:12
+msgid "Create publication type"
+msgstr "Publicatie type aanmaken"
+
+#: pntemplates/pagemaster_admin_pubtype.htm:19
+msgid "General options"
+msgstr "Algemene opties"
+
+#: pntemplates/pagemaster_admin_pubtype.htm:23
+msgid "Title of the publication type, can be a custom gettext string."
+msgstr "Titel van het publicatie type (kan een eigen gettext string zijn)."
+
+#: pntemplates/pagemaster_admin_pubtype.htm:28
+msgid "Description of the publication type, can be a custom gettext string."
+msgstr ""
+"Beschrijving van het publicatie type (kan een eigen gettext string zijn)."
+
+#: pntemplates/pagemaster_admin_pubtype.htm:33
+msgid "After how many publications the list will be paged. 0 for no paging."
+msgstr ""
+"Aantal publicaties per pagina in lijstweergave (0 = geen opsplitsing in "
+"pagina's)."
+
+#: pntemplates/pagemaster_admin_pubtype.htm:38
+msgid "Enable revisioning."
+msgstr "Bijhouden van publicatie-revisies inschakelen."
+
+#: pntemplates/pagemaster_admin_pubtype.htm:43
+msgid "Allow editing of own publications."
+msgstr "Auteurs toestaan eigen publicaties te bewerken."
+
+#: pntemplates/pagemaster_admin_pubtype.htm:48
+msgid "The filter which is used by default."
+msgstr "Standaard toe te passen filter."
+
+#: pntemplates/pagemaster_admin_pubtype.htm:53
+msgid "You can choose a special workflow for the publications."
+msgstr "Er kan een speciale workflow gekozen worden voor de publicaties."
+
+#: pntemplates/pagemaster_admin_pubtype.htm:59
+msgid "Sort options"
+msgstr "Sorteer opties"
+
+#: pntemplates/pagemaster_admin_pubtype.htm:63
+#: pntemplates/pagemaster_admin_pubtype.htm:72
+#: pntemplates/pagemaster_admin_pubtype.htm:81
+msgid "Field for sorting."
+msgstr "Veld om op te sorteren."
+
+#: pntemplates/pagemaster_admin_pubtype.htm:91
+msgid "Output options"
+msgstr "Weergave mogelijkheden"
+
+#: pntemplates/pagemaster_admin_pubtype.htm:95
+msgid ""
+"Name of the output template, used in the publist and pubview template names."
+msgstr ""
+"Naam van de output template, gebruikt in de publist en de pubview template "
+"namen."
+
+#: pntemplates/pagemaster_admin_pubtype.htm:100
+msgid "Name of the output, used in the pubedit template name."
+msgstr "Naam van de output, gebruikt in de pubedit template naam."
+
+#: pntemplates/pagemaster_admin_pubtype.htm:105
+msgid "How long should the publications be cached. Empty for no cache."
+msgstr "Geldigheidsduur van de publicatie cache (leeg = geen cache gebruiken)"
+
+#: pntemplates/pagemaster_admin_importps.htm:8
+#: pntemplates/pagemaster_admin_modifyconfig.htm:11
+msgid "Import pagesetter publications"
+msgstr "Pagesetter publicaties importeren"
+
+#: pntemplates/pagemaster_admin_importps.htm:11
+msgid "Be sure to know what you are doing on this process."
+msgstr "Wees bewust van de acties die worden uitgevoerd bij dit proces!"
+
+#: pntemplates/pagemaster_admin_importps.htm:14
+msgid ""
+"On this page you can import publications from Pagesetter.<br />You can only "
+"import publications when no PageMaster publication exist.<br />Please "
+"configure the Upload Path before you import something.<br />No Pagesetter "
+"data will be changed due the import."
+msgstr ""
+"Op deze pagina kunnen Pagesetter publicaties worden geïmporteerd.<br />Er "
+"kunnen alleen publicaties worden geïmporteerd indien er nog geen PageMaster "
+"publicaties bestaan.<br />Configureer het Upload Pad voordat het import "
+"proces wordt gestart.<br />Tijdens het import proces worden er geen "
+"pagesetter gegevens gewijzigd."
+
+#: pntemplates/pagemaster_admin_importps.htm:18
+msgid "Import lists,"
+msgstr "Lijsten importeren,"
+
+#: pntemplates/pagemaster_admin_importps.htm:22
+msgid "Import publication types,"
+msgstr "Publicatie typen importeren,"
+
+#: pntemplates/pagemaster_admin_importps.htm:24
+msgid ""
+"PageMaste already has publication types. It must be empty before perform an "
+"import."
+msgstr ""
+"PageMaster heeft al publicatie types. Deze dienen te worden verwijderd "
+"voordat dit import proces kan worden gestart."
+
+#: pntemplates/pagemaster_admin_importps.htm:28
+msgid "Create the database tables,"
+msgstr "Aanmaken van Database tabellen,"
+
+#: pntemplates/pagemaster_admin_importps.htm:31
+msgid "Import data."
+msgstr "Data importeren."
+
+#: pntemplates/pagemaster_admin_history.htm:21
+msgid "In depot"
+msgstr "In depot"
+
+#: pntemplates/pagemaster_generic_navbar.htm:20
+msgid "Add a publication"
+msgstr "Publicatie toevoegen"
+
+#: pntemplates/pagemaster_generic_navbar.htm:57
+msgid "Edit form"
+msgstr "Bewerken"
+
+#: pntemplates/pagemaster_generic_navbar.htm:59
+msgid "Create form"
+msgstr "Aanmaken"
+
+#: pntemplates/pagemaster_generic_navbar.htm:79
+#, php-format
+msgid ""
+"This is a generic template. Your can <a href=\"%1$s\">get the publist code</"
+"a> and create a customized template (<strong>publist_%2$s.htm</strong>), "
+"then store it in the the config directory: <strong>/config/templates/"
+"PageMaster/output/publist_%2$s.htm</strong> or within your theme: <strong>/"
+"templates/modules/PageMaster/output/publist_%2$s.htm</strong>."
+msgstr ""
+"Dit is een generieke template. Er kan een eigen template (<strong>publist_"
+"%2$s.htm</strong>) worden aangemaakt met de <a href=\"%1$s\">publist code</"
+"a>. Deze dient dan te worden opgeslagen in de config directory: <strong>/"
+"config/templates/PageMaster/output/publist_%2$s.htm</strong>, of binnen het "
+"theme: <strong>/themes/YourTheme/templates/modules/PageMaster/output/publist_"
+"%2$s.htm</strong>."
+
+#: pntemplates/pagemaster_generic_navbar.htm:83
+#, php-format
+msgid ""
+"This is a generic template. Your can <a href=\"%1$s\">get the pubview code</"
+"a> and create a customized template (<strong>viewpub_%2$s.htm</strong>), "
+"then store it in the the config directory: <strong>/config/templates/"
+"PageMaster/output/viewpub_%2$s.htm</strong> or within your theme: <strong>/"
+"templates/modules/PageMaster/output/viewpub_%2$s.htm</strong>."
+msgstr ""
+"Dit is een generieke template. Er kan een eigen template (<strong>viewpub_"
+"%2$s.htm</strong>) worden aangemaakt met de <a href=\"%1$s\">viewpub code</"
+"a>. Deze dient dan te worden opgeslagen in de config directory: <strong>/"
+"config/templates/PageMaster/output/viewpub_%2$s.htm</strong>, of binnen het "
+"theme: <strong>/themes/YourTheme/templates/modules/PageMaster/output/viewpub_"
+"%2$s.htm</strong>."
+
+#: pntemplates/pagemaster_generic_navbar.htm:87
+#, php-format
+msgid ""
+"This is a generic template. Your can <a href=\"%1$s\">get the form code</a> "
+"and create individual templates (<strong>pubedit_%2$s_STEPNAME.htm</strong> "
+"or <strong>pubedit_%2$s_all.htm</strong>), then store it in the the config "
+"directory: <strong>/config/templates/PageMaster/input/pubedit_%2$s_STEPNAME."
+"htm</strong> or within your theme: <strong>/templates/modules/PageMaster/"
+"input/pubedit_%2$s_STEPNAME.htm</strong>."
+msgstr ""
+"Dit is een generieke template. Er kunnen eigen templates (<strong>pubedit_"
+"%2$s_STAPNAAM.htm</strong> of <strong>pubedit_%2$s_all.htm</strong>) worden "
+"aangemaakt met de <a href=\"%1$s\">form code</a>. Deze dient dan te worden "
+"opgeslagen in de config directory: <strong>/config/templates/PageMaster/"
+"input/pubedit_%2$s_STAPNAAM.htm</strong>, of binnen het theme: <strong>/"
+"themes/YourTheme/templates/modules/PageMaster/input/pubedit_%2$s_STAPNAAM."
+"htm</strong>."
+
+#: pntemplates/pagemaster_generic_navbar.htm:93
+#, php-format
+msgid ""
+"You can hide this message <a href=\"%s\">disabling the development mode</a>."
+msgstr ""
+"Dit bericht kan verborgen worden door het <a href=\"%s\">uitschakelen van de "
+"ontwikkelings-modus</a>."
+
+#: pntemplates/pagemaster_generic_pending.htm:5
+msgid "Publication accepted, pending moderation."
+msgstr "Publicatie ontvangen en wacht op goedkeuring."
+
+#: pntemplates/pagemaster_generic_pending.htm:8
+msgid "Thanks for your submission!"
+msgstr "Bedankt voor de inzending!"
+
+#: pntemplates/pagemaster_generic_pending.htm:11
+msgid "Go back to the list"
+msgstr "Terug naar de lijst"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:6
+#: pntemplates/pagemaster_admin_pubtypes.htm:8
+msgid "Publication types"
+msgstr "Publicatie types"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:12
+#, php-format
+msgid ""
+"Here the list of the existing Publication types (pubtypes). If you don't "
+"have one yet, go to the <a href=\"%s\">New publication type form</a> and "
+"create one; after that, you'll be able to add the <strong>Fields</strong> "
+"for the publications within that type, and once you have the fields you "
+"want, click the corresponding <strong>DB Update</strong> link. Now you will "
+"be able to add <strong>New publications</strong> and customize the templates "
+"for your pubtype, starting of the code that PageMaster generate for you. "
+"Enjoy!"
+msgstr ""
+"Hier is de lijst van de bestaande publicatie types (pubtypes). Als er nog "
+"geen publicatie types bestaan, kan er één worden aangemaakt bij <a href=\"%s"
+"\">Nieuw publicatie type</a>. Daarna kunnen er zogenaamde <strong>data "
+"velden</strong> worden toegevoegd voor deze publicatie type. Tenslotte dient "
+"dit te worden geactiveerd door het uitvoeren van de corresponderende "
+"<strong>Database bijwerken</strong>. Nu kunnen er <strong>Nieuwe "
+"publicaties</strong> worden toegevoegd, en de templates voor invoer en "
+"weergave naar eigen wens worden aangepast (te beginnen met de code die "
+"PageMaster heeft gegenereerd). Veel plezier!"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:17
+msgid "Pubtype"
+msgstr "Pubtype"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:19
+msgid "Show publists"
+msgstr "Toon publists"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:37
+msgid "Add, edit or modify the fields of this pubtype"
+msgstr "Creëer, bewerk of wijzig de velden van dit publicatie type"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:41
+msgid ""
+"Update the database table of this pubtype to any recent change in the fields"
+msgstr ""
+"Werk de database tabel van dit pubtype bij, om recente wijzigingen in de "
+"velden door te voeren"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:42
+msgid "DB update"
+msgstr "Database bijwerken"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:45
+msgid "Add new publications to this pubtype"
+msgstr "Nieuwe publicaties aan dit publicatie type toevoegen"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:46
+msgid "New pub"
+msgstr "Nieuwe pub"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:50
+msgid "Go to the Admin publication list"
+msgstr "Ga naar de Publicatie Lijst voor Beheerders"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:51
+msgid "Admin"
+msgstr "Beheer"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:54
+msgid "Go to the public publication list"
+msgstr "Ga naar de publieke Publicatie Lijst"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:55
+msgid "Public"
+msgstr "Openbaar"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:59
+msgid "Get the input form code of this pubtype"
+msgstr "Input formulier code ophalen voor dit publicatie type"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:60
+msgid "Form"
+msgstr "Formulier"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:63
+msgid "Get the publist code of this pubtype"
+msgstr "Publist code ophalen voor dit publicatie type"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:67
+msgid "Get the pubview code of this pubtype"
+msgstr "Viewpub code ophalen voor dit publicatie type"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:68
+msgid "Display"
+msgstr "Weergave"
+
+#: pntemplates/pagemaster_admin_modifyconfig.htm:18
+msgid "General settings"
+msgstr "Algemene instellingen"
+
+#: pntemplates/pagemaster_admin_modifyconfig.htm:20
+msgid "Upload path"
+msgstr "Upload pad"
+
+#: pntemplates/pagemaster_admin_modifyconfig.htm:25
+msgid "The given path doesn't exists"
+msgstr "Het opgegeven pad bestaat niet"
+
+#: pntemplates/pagemaster_admin_modifyconfig.htm:27
+msgid "The given path is not a directory"
+msgstr "Het opgegeven pad is geen directory"
+
+#: pntemplates/pagemaster_admin_modifyconfig.htm:29
+msgid "The given path is not writeable"
+msgstr "Het opgegeven pad is niet beschrijfbaar"
+
+#: pntemplates/pagemaster_admin_modifyconfig.htm:33
+msgid "The given path is writeable"
+msgstr "Het opgegeven pad is beschrijfbaar"
+
+#: pntemplates/pagemaster_admin_modifyconfig.htm:36
+#, php-format
+msgid ""
+"Path where uploaded files will be stored, relative to the site root (%s)"
+msgstr ""
+"Pad waar geuploade bestanden worden opgeslagen, relatief tot de site root "
+"(%s)"
+
+#: pntemplates/pagemaster_admin_modifyconfig.htm:41
+msgid "Development mode"
+msgstr "Ontwikkel modus"
+
+#: pntemplates/pagemaster_admin_modifyconfig.htm:44
+msgid ""
+"Enable the development mode to see detailed notices about PageMaster "
+"requirements."
+msgstr ""
+"Ontwikkel modus inschakelen om gedetailleerde informatie over PageMaster en "
+"het systeem tijdens gebruik te tonen."

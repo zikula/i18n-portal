@@ -1,0 +1,507 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: menutree 2.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-28 20:35+0000\n"
+"PO-Revision-Date: 2010-01-18 14:14+0200\n"
+"Last-Translator: Carsten <carsten@zikula.org>\n"
+"Language-Team: rallek <ralf@zikula.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.0\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: pnversion.php:14
+msgid "Menutree"
+msgstr "Menutree"
+
+#: pnversion.php:15
+msgid "Module for tree-like menu (menutree) block"
+msgstr "Modul für verschachtelten Menüblöcke"
+
+#. ! module url
+#: pnversion.php:17
+msgid "menutree"
+msgstr "menutree"
+
+#: pnblocks/menutree.php:22
+msgid "Tree-like menu (menutree)"
+msgstr "verschachtelter Menüblock"
+
+#: pnblocks/menutree.php:205 pnadminapi.php:51 pnadminapi.php:99
+msgid "Only in some themes"
+msgstr "Nur in einigen Themes"
+
+#: pnblocks/menutree.php:481
+msgid "Edit access"
+msgstr "Recht bearbeiten"
+
+#: pnblocks/menutree.php:482
+msgid "Add access"
+msgstr "Recht hinzufügen"
+
+#: pnblocks/menutree.php:483
+msgid "Delete access"
+msgstr "Recht löschen"
+
+#: pnblocks/menutree.php:484
+msgid "Admin access"
+msgstr "Recht Administration"
+
+#: pnblocks/menutree.php:553 pnblocks/menutree.php:591
+msgid "no name"
+msgstr "ohne Namen"
+
+#: pnexternalapi/blank.php:90
+#: pntemplates/menutree_block_menutree_modify.htm:202
+msgid "Title"
+msgstr "Titel"
+
+#: pnexternalapi/userlinks.php:86 pnexternalapi/userlinks.php:88
+msgid "Profile"
+msgstr "Profil"
+
+#: pnexternalapi/userlinks.php:100 pnexternalapi/userlinks.php:102
+msgid "Private messages"
+msgstr "Private Nachrichten"
+
+#: pnexternalapi/userlinks.php:114 pnexternalapi/userlinks.php:116
+msgid "Logout"
+msgstr "Abmelden"
+
+#: pnexternalapi/userlinks.php:128 pnexternalapi/userlinks.php:130
+msgid "Login"
+msgstr "Anmelden"
+
+#: pnexternalapi/userlinks.php:141 pnexternalapi/userlinks.php:143
+msgid "Register"
+msgstr "Registrieren"
+
+#: pnexternalapi/userlinks.php:154 pnexternalapi/userlinks.php:156
+msgid "Lost password"
+msgstr "Kennwort vergessen"
+
+#: pnexternalapi/news.php:83
+msgid "View news"
+msgstr "Beiträge anzeigen"
+
+#: pnexternalapi/news.php:96 pnexternalapi/news.php:98
+msgid "Archive"
+msgstr "Archiv"
+
+#: pnexternalapi/news.php:111 pnexternalapi/news.php:113
+msgid "Submit news"
+msgstr "Beitrag einreichen"
+
+#: pnexternalapi/news.php:127 pnexternalapi/news.php:129
+msgid "Categories"
+msgstr "Kategorien"
+
+#: pntemplates/menutree_block_vertical.htm:7
+#: pntemplates/menutree_block_menutree.htm:6
+#: pntemplates/menutree_block_tree.htm:11
+msgid "Add the current URL as new link in this block"
+msgstr "Aktuelle URL als neuen Link hinzufügen"
+
+#: pntemplates/menutree_block_vertical.htm:7
+#: pntemplates/menutree_block_menutree.htm:6
+#: pntemplates/menutree_block_tree.htm:11
+msgid "Add current URL"
+msgstr "Aktuelle URL hinzufügen"
+
+#: pntemplates/menutree_block_vertical.htm:8
+#: pntemplates/menutree_block_menutree.htm:7
+#: pntemplates/menutree_block_tree.htm:12
+msgid "Edit this block"
+msgstr "Block bearbeiten"
+
+#: pntemplates/menutree_block_menutree_modify.htm:16
+msgid "Block content"
+msgstr "Blockinhalt"
+
+#: pntemplates/menutree_block_menutree_modify.htm:18
+msgid "Block settings"
+msgstr "Blockeinstellungen"
+
+#: pntemplates/menutree_block_menutree_modify.htm:20
+msgid "Help"
+msgstr "Hilfe"
+
+#: pntemplates/menutree_block_menutree_modify.htm:27
+msgid "Permissions"
+msgstr "Berechtigungen"
+
+#: pntemplates/menutree_block_menutree_modify.htm:28
+msgid ""
+"You can restrict access to certain options setting higher than the default "
+"(\"Edit\") permissions level. Below is a list of these options."
+msgstr ""
+"Es können für bestimmte Optionen erweiterte Rechte vergeben (Standard ist "
+"\"Editieren\"). Unten steht eine Liste dieser Optionen."
+
+#: pntemplates/menutree_block_menutree_modify.htm:30
+#: pntemplates/menutree_block_menutree_modify.htm:52
+msgid "Block titles"
+msgstr "Blocktitel"
+
+#: pntemplates/menutree_block_menutree_modify.htm:36
+#: pntemplates/menutree_block_menutree_modify.htm:65
+msgid "Block display settings"
+msgstr "Blockdarstellung"
+
+#: pntemplates/menutree_block_menutree_modify.htm:42
+#: pntemplates/menutree_block_menutree_modify.htm:93
+msgid "Block editing settings"
+msgstr "Blockeinstellungen"
+
+#: pntemplates/menutree_block_menutree_modify.htm:53
+msgid ""
+"You can specify diferent block title for each language. If you leave it "
+"blank - default block title (shown above) will be displayed."
+msgstr ""
+"Es können für jede Sprache einen eigener Blocktitel festgelegt werden. Wird "
+"das Feld nicht gefüllt, so wird der Standard Blocktitel (s.o.) angezeigt."
+
+#: pntemplates/menutree_block_menutree_modify.htm:67
+msgid ""
+"<strong>Note</strong>: some templates and/or stylesheets are found only in "
+"certain themes. These templates and stylesheets have been included in the "
+"\"Only in some themes\" group. Choosing a template or a stylesheet from this "
+"group you must take into account the fact that it might not be available in "
+"certain theme - in such situation default template and style "
+"(\"menutree_block_menutree.htm\") is used."
+msgstr ""
+"<strong>Hinweis:</strong> Einige Templates und Stylesheets könnten nur in "
+"bestimmten Themes verfügbar sein. Diese sollten dann in der Gruppe \"nur in "
+"bestimmten Themes\" aufgenommen werden. Wird ein Template/Stylesheet aus "
+"dieser Gruppe ausgewählt, so sollte bekannt sein, dass diese nicht in allen "
+"Themes zur Verfügung stehen. Standardmäßig wird (\"menutree_block_menutree."
+"htm\") genutzt."
+
+#: pntemplates/menutree_block_menutree_modify.htm:70
+msgid "Template"
+msgstr "Template"
+
+#: pntemplates/menutree_block_menutree_modify.htm:76
+msgid "Stylesheet"
+msgstr "Stylesheet"
+
+#: pntemplates/menutree_block_menutree_modify.htm:78
+msgid "choose stylesheet"
+msgstr "Stylesheet auswählen"
+
+#: pntemplates/menutree_block_menutree_modify.htm:81
+msgid ""
+"The list of stylesheets has been limited to those which appear to be "
+"associated with selected template.<br />If you do not find among them "
+"stylesheet you are looking for - you can <a href=\"#\" title=\"Click here, "
+"to display all stylesheets\">show all stylesheets</a>."
+msgstr ""
+"Die Liste wurde auf die zu diesem Template passenden Stylesheets "
+"eingeschränkt.<br />Wenn hier das passende Stylesheet nicht gefunden wird, "
+"bitte hier <a href=\"#\" title=\"Alle Stylesheets anzeigen\">Alle "
+"Stylesheets anzeigen</a> klicken."
+
+#: pntemplates/menutree_block_menutree_modify.htm:84
+msgid "Show editing links"
+msgstr "Bearbeiten-Link anzeigen"
+
+#: pntemplates/menutree_block_menutree_modify.htm:86
+msgid "Display in block links: \"Add current URL\" and \"Edit this block\"."
+msgstr ""
+"Im Block die Links \"Aktuelle URL hinzufügen\" und \"Block editieren\" "
+"anzeigen."
+
+#: pntemplates/menutree_block_menutree_modify.htm:95
+msgid "Strip base url from links"
+msgstr "Basis-URL aus den Links entfernen"
+
+#: pntemplates/menutree_block_menutree_modify.htm:98
+#, php-format
+msgid "Base URL which will be removed: %s."
+msgstr "zu entfernende Basis-URL: %s."
+
+#: pntemplates/menutree_block_menutree_modify.htm:103
+msgid ""
+"<strong>Note! Short URL-s are turn on. You're strongly recommended to turn "
+"on this option when using short URL-s.</strong>"
+msgstr ""
+"<strong>Hinweis:</strong> Die ShortURLs sind eingeschaltet. Es empfiehlt "
+"sich, diese Option bei eingeschalteten ShortURLs zu aktivieren."
+
+#: pntemplates/menutree_block_menutree_modify.htm:108
+msgid "Maximum depth of tree"
+msgstr "Maximale Verzeichnistiefe"
+
+#: pntemplates/menutree_block_menutree_modify.htm:111
+msgid "Zero means no limit."
+msgstr "0 bedeutet keine Einschränkungen"
+
+#: pntemplates/menutree_block_menutree_modify.htm:115
+#: pntemplates/menutree_block_menutree_modify.htm:120
+msgid "Class list for links"
+msgstr "CSS-Klassen bei Links"
+
+#: pntemplates/menutree_block_menutree_modify.htm:117
+msgid ""
+"You can give the CSS class for each link in the menu. This option allows you "
+"to prepare a list of classes, which you will be able to choose."
+msgstr ""
+"Es kann für jeden Menüpunkt einen eigene CSS Klasse vergeben werden. Diese "
+"Option erlaubt es, aus einer Liste die Klasse zu wählen."
+
+#: pntemplates/menutree_block_menutree_modify.htm:121
+msgid ""
+"The title of the class will be visible to the user, the name of the class "
+"will be used as an \"class\" attribute value."
+msgstr ""
+"Der Titel der Klasse wird für den Benutzer sichtbar sein. Diese Klasse wird "
+"im HTML-Tag als Attribut genutzt."
+
+#: pntemplates/menutree_block_menutree_modify.htm:123
+msgid "Class name"
+msgstr "Klassenname"
+
+#: pntemplates/menutree_block_menutree_modify.htm:123
+msgid "Class title"
+msgstr "Klassentitel"
+
+#: pntemplates/menutree_block_menutree_modify.htm:129
+#: pntemplates/menutree_block_menutree_modify.htm:210
+msgid "Delete"
+msgstr "Löschen"
+
+#: pntemplates/menutree_block_menutree_modify.htm:130
+#: pntemplates/menutree_block_menutree_modify.htm:136
+msgid "Delete class"
+msgstr "Klasse löschen"
+
+#: pntemplates/menutree_block_menutree_modify.htm:139
+#: pntemplates/menutree_block_menutree_modify.htm:150
+msgid "Add"
+msgstr "Hinzufügen"
+
+#: pntemplates/menutree_block_menutree_modify.htm:140
+msgid "Add class"
+msgstr "Klasse hinzufügen"
+
+#: pntemplates/menutree_block_menutree_modify.htm:150
+msgid "Expand all"
+msgstr "Alle aufklappen"
+
+#: pntemplates/menutree_block_menutree_modify.htm:150
+msgid "Collapse all"
+msgstr "Alle zuklappen"
+
+#: pntemplates/menutree_block_menutree_modify.htm:152
+msgid "Change active language: "
+msgstr "Aktive Sprache ändern:"
+
+#: pntemplates/menutree_block_menutree_modify.htm:162
+msgid ""
+"You can import one of existing menus. To this purpose choose the appropriate "
+"menu from the drop-down list. If the chosen menu had marked appropriate "
+"option - links to all modules will be imported."
+msgstr ""
+"Es können bereits erstellte Menüs importieren werden. Dafür bitte ein Menü "
+"aus der Dropdown-Liste auswählen. Sofern möglich, werden die Links aus dem "
+"anderen Menü importiert."
+
+#: pntemplates/menutree_block_menutree_modify.htm:164
+msgid "choose menu"
+msgstr "Menü auswählen"
+
+#: pntemplates/menutree_block_menutree_modify.htm:199
+msgid "Do you really want to delete this element and all of it subelements?"
+msgstr "Soll das Element mit alle Unterelementen wirklich gelöscht werden?"
+
+#: pntemplates/menutree_block_menutree_modify.htm:200
+msgid "Name"
+msgstr "Name"
+
+#: pntemplates/menutree_block_menutree_modify.htm:201
+msgid "URL"
+msgstr "URL"
+
+#: pntemplates/menutree_block_menutree_modify.htm:203
+msgid "CSS class"
+msgstr "CSS Klasse"
+
+#: pntemplates/menutree_block_menutree_modify.htm:204
+msgid "choose class"
+msgstr "Klasse wählen"
+
+#: pntemplates/menutree_block_menutree_modify.htm:205
+msgid "Language"
+msgstr "Sprache"
+
+#: pntemplates/menutree_block_menutree_modify.htm:206
+msgid "Active?"
+msgstr "Aktiv?"
+
+#: pntemplates/menutree_block_menutree_modify.htm:207
+msgid "Activate"
+msgstr "Aktivieren"
+
+#: pntemplates/menutree_block_menutree_modify.htm:208
+msgid "Deactivate"
+msgstr "Deaktivieren"
+
+#: pntemplates/menutree_block_menutree_modify.htm:209
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: pntemplates/menutree_block_menutree_modify.htm:211
+msgid "Add new..."
+msgstr "Hinzufügen..."
+
+#: pntemplates/menutree_block_menutree_modify.htm:212
+msgid "before"
+msgstr "vor"
+
+#: pntemplates/menutree_block_menutree_modify.htm:213
+msgid "after"
+msgstr "nach"
+
+#: pntemplates/menutree_block_menutree_modify.htm:214
+msgid "as child"
+msgstr "als Unterverzeichnis"
+
+#: pntemplates/menutree_block_menutree_modify.htm:215
+msgid "Expand this node"
+msgstr "Diesen Ordner aufklappen"
+
+#: pntemplates/menutree_block_menutree_modify.htm:216
+msgid "Collapse this node"
+msgstr "Diesen Ordner zuklappen"
+
+#: pntemplates/menutree_block_menutree_modify.htm:217
+msgid "State"
+msgstr "Status"
+
+#: pntemplates/menutree_block_menutree_modify.htm:218
+msgid "Activate for all languages"
+msgstr "Für alle Sprachen aktivieren"
+
+#: pntemplates/menutree_block_menutree_modify.htm:219
+msgid "Deactivate for all languages"
+msgstr "Für alle Sprachen deaktivieren"
+
+#: pntemplates/menutree_block_menutree_modify.htm:220
+msgid "Use one for all languages"
+msgstr "Einen für alle Sprachen benutzen"
+
+#: pntemplates/menutree_block_menutree_modify.htm:221
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: pntemplates/menutree_block_menutree_modify.htm:222
+msgid "Submit"
+msgstr "Bestätigen"
+
+#: pntemplates/menutree_block_menutree_modify.htm:223
+msgid "Please fill required fields"
+msgstr "Bitte die Felder füllen"
+
+#: pntemplates/menutree_block_menutree_modify.htm:224
+msgid "Field Name is required."
+msgstr "Das Feld wird benötigt"
+
+#: pntemplates/menutree_block_menutree_modify.htm:225
+#, php-format
+msgid "Maximum depth of tree exceeded. Limit is: %s"
+msgstr "Maximale Verzeichnistiefe. Das Limit ist: %s"
+
+#: pntemplates/menutree_block_menutree_modify.htm:226
+msgid ""
+"You have unsaved changes, which will be lost if you leave this page without "
+"saving!"
+msgstr ""
+"Es wurde noch nicht gespeichert. Wird die Seite jetzt verlassen, so werden "
+"die Änderungen nicht wirksam!"
+
+#: pntemplates/menutree_block_menutree_modify.htm:243
+msgid ""
+"<p>Block \"Tree-like menu (menutree)\" allows you to create the extended "
+"menu with nested structure. Below you will find some basic information. </"
+"p><h4>How to start?</h4><p>To <strong>add the first item</strong> to the "
+"menu, click link \"<strong>Add</strong>\". You will get a form in which you "
+"must enter the name of the item and possibly other parameters (title, "
+"address, css class). At the top of the form you can find drop-down list with "
+"installed languages, which allows switching between languages.</p><p>While "
+"adding a new block, you can <strong>import </strong>an existing menu "
+"(blocks: \"menu\", \"extmenu\" and \"menutree\"). To this purpose choose a "
+"block from the drop-down list.</p><h4>The basic options</h4><p>To "
+"<strong>move </strong>an item, simply <strong>grab a folder icon</strong> "
+"and drop it on desired position.</p><p><strong>Clicking the name</strong> of "
+"the item, you can view the <strong>context menu</strong>, which includes the "
+"following options:</p><ul><li><strong>Edit</strong>: opens form to edit</"
+"li><li><strong>Delete</strong>: removes selected element and all its "
+"subelements</li><li><strong>Add new...</strong><ul><li><strong>before</"
+"strong>: opens form and adds new item before selected element</"
+"li><li><strong>after</strong>: opens form and adds new item after selected "
+"element</li><li><strong>as child</strong>:opens form and adds new item as a "
+"child of selected element</li></ul></li><li><strong>Expand (Collapse) this "
+"node</strong>: expands or collapses selected node</li><li><strong>Deactivate "
+"(Activate)</strong>: turns on or off selected element (and all its subitems) "
+"for the current language</li><li><strong>State</"
+"strong><ul><li><strong>Activate for all languages</strong>: turns on "
+"selected element (and all its subitems) for all languages</"
+"li><li><strong>Deactivate for all languages</strong>:turns off selected "
+"element (and all its subitems) for all languages </li></ul></li></"
+"ul><h4>Multilingual options</h4><p>If site has installed many languages - "
+"menu will include all language versions. Each menu element can have separate "
+"name and title for each language. Url adress and css class may (but not "
+"need) be common for all languages.</p><p>Above the menu is displayed list of "
+"available languages (current language is marked). By clicking language name "
+"you can change displayed language.</p><h4>More information</h4><p>If you "
+"want to learn more, read the<strong> help.txt</strong> file, included in the "
+"package, or visit the <strong><a href=\"http://code.zikula.org/bianor"
+"\">menutree project site</a></strong>.</p>"
+msgstr ""
+"<p>Block \"Menutree\" erlaubt Ihnen ein Menü mit verschachtelter Struktur zu "
+"erstellen. Unten finden Sie einige Basisinformation hierzu. </p><h4>Wie "
+"starte ich?</h4><p>Zur <strong>Anlage des ersten Menüpunktes</strong>, "
+"klicken Sie auf \"<strong>hinzufügen</strong>\". Es wird ein Formular "
+"geöffnet in dem Sie den Namen sowie die dazugehörigen anderen Parameter "
+"(Titel, URL, CSS-Klasse) eintragen können. Hier finden Sie auch eine Drop-"
+"Down-Liste mit den installierten Sprachen, welches ermöglicht, zwischen den "
+"Sprachen zu wechseln.</p><p>Sie können auch ein bereits vorhandes Menü "
+"(\"menu\", \"extmenu\", \"menutree\") <strong>importieren </strong>. Zu "
+"diesem Zweck wählen Sie einen Block aus der Drop-Down-Liste aus.</"
+"p><h4>Basis-Einstellungen</h4><p>Zum <strong>verschieben </strong>eines "
+"Menüeintrages,<strong>klicken Sie einfach auf ein Ordnersymbol und halten "
+"Sie die Maustaste gedrückt</strong> und lassen Sie die Maustaste an "
+"geeigneter Stelle wieder los (drag & drop).</p><p><strong>Wenn Sie auf den "
+"Namen</strong> des Objekts klicken, sehen Sie das <strong>Kontext-Menü</"
+"strong>, welches die folgende Optionen beinhaltet:</"
+"p><ul><li><strong>bearbeiten</strong>: öffnet ein Formular zum bearbeiten "
+"des Objektes</li><li><strong>Löschen</strong>: löscht den Menüpunkt und alle "
+"Untermenüs</li><li><strong>Hinzufügen...</strong><ul><li><strong>Vor</"
+"strong>: öffnet ein Formular zum hinzufügen eines Menüpunktes vor dem "
+"markierten Objekt</li><li><strong>Hinter</strong>: öffnet ein Formular zum "
+"hinzufügen eines Menüpunktes hinter dem markierten Objekt</"
+"li><li><strong>als Unterverzeichnis</strong>:öffnet ein Formular zum "
+"hinzufügen eines Menüpunktes als Unterverzeichnis zum markierten Objekt</"
+"li></ul></li><li><strong>Dieses Verzeichnis auf/zuklappen</strong>: zeigt "
+"bzw. verbirgt die Untervzeichnisse zu diesem Menüpunkt</"
+"li><li><strong>Aktivieren/Deaktivieren</strong>: Schaltet das markierte "
+"Verzeichnis (und dessen Unterverzeichnisse) für die aktuelle Sprache ein "
+"bzw. aus</li><li><strong>Status</strong><ul><li><strong>Für alle Sprachen "
+"aktivieren</strong>: Schaltet die Anzeige des markierten Objektes (und "
+"dessen Unterverzeichnisse) für alle Sprachen ein</li><li><strong>Für alle "
+"Sprachen deaktivieren</strong>:Schaltet die Anzeige des markierten Objektes "
+"(und dessen Unterverzeichnisse) für alle Sprachen ein </li></ul></li></"
+"ul><h4>Mehrsprachen-Optionen</h4><p>Falls für die Seite mehrere Sprachen "
+"aktiviert sind, arbeitet menutree mit diesen. Zu jedem Menüpunkt kann für "
+"die jeweilige Sprache ein anderer Name bzw. Titel verwendet werden. Url-"
+"Adressen und CSS-Klassen können (müssen aber nicht) für alle Sprachen "
+"gemeinsam verwendet werden.</p><h4>Weitere Informationen</h4><p>Wenn Sie "
+"mehr wissen wollen, lesen Sie die<strong> help.txt</strong> Datei, welche "
+"sich in dem Modulordner befindet oder besuchen Sie die <strong><a href="
+"\"http://code.zikula.org/bianor\">menutree Projektseite</a></strong>.</p>"

@@ -1,0 +1,110 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-07 06:39-0500\n"
+"PO-Revision-Date: 2010-07-19 10:54+0200\n"
+"Last-Translator: Gilles <gilles@pilloud.fr>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: version.php:4
+msgid "andreas06"
+msgstr "andreas06"
+
+#: version.php:8
+msgid "andreas06 template"
+msgstr "modèle andreas06"
+
+#: templates/includes/header.htm:1
+msgid "Skip to"
+msgstr "Aller a"
+
+#: templates/includes/header.htm:1
+msgid "site menu"
+msgstr "menu du site"
+
+#: templates/includes/header.htm:1
+msgid "section menu"
+msgstr "section de menu"
+
+#: templates/includes/header.htm:1
+msgid "main content"
+msgstr "contenu principal"
+
+#: templates/includes/header.htm:4 templates/includes/footer.htm:7
+msgid "Home Page"
+msgstr "Page d'accueil"
+
+#: templates/includes/header.htm:11
+msgid "Home"
+msgstr "Accueil"
+
+#: templates/includes/header.htm:12
+msgid "Pages"
+msgstr "Pages"
+
+#: templates/includes/header.htm:13
+msgid "News"
+msgstr "Nouvelles"
+
+#: templates/includes/header.htm:14
+msgid "Forums"
+msgstr "Forums"
+
+#: templates/includes/header.htm:15 templates/includes/footer.htm:11
+msgid "Sitemap"
+msgstr "Carte du site"
+
+#: templates/includes/header.htm:16 templates/includes/footer.htm:13
+msgid "Contact"
+msgstr "Contact"
+
+#: templates/includes/header.htm:18 templates/includes/footer.htm:26
+msgid "Back to top"
+msgstr "Revenir au début"
+
+#: templates/includes/footer.htm:9
+msgid "Privacy"
+msgstr "Confidentialité"
+
+#: templates/includes/footer.htm:15
+msgid "RSS Feed"
+msgstr "Flux RSS"
+
+#: templates/includes/footer.htm:23
+msgid "design by"
+msgstr "créé par"
+
+#: templates/includes/footer.htm:23
+msgid "Andreas Viklund"
+msgstr "Andreas Viklund"
+
+#: templates/includes/footer.htm:24
+msgid "Valid"
+msgstr "Valide"
+
+#: templates/includes/footer.htm:24
+msgid "CSS"
+msgstr "CSS"
+
+#: templates/includes/footer.htm:25
+msgid "XHTML"
+msgstr "XHTML"
+
+#: templates/master.html:13
+msgid "Currently viewing"
+msgstr "vue courrante"
+
+#: templates/master.html:15
+msgid "Front page"
+msgstr "Page principale"

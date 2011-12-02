@@ -1,0 +1,533 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-12 17:10+0000\n"
+"PO-Revision-Date: 2010-09-05 10:01+0200\n"
+"Last-Translator: Armin Borumand <armin390@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnversion.php:31
+msgid "BBCode is a transform hook that converts usual bbcode tags into html."
+msgstr "BBCode قلابی است که تگ های متداول bbcode را به html تبدیل می کند."
+
+#: pnversion.php:32
+msgid "BBCode Hook"
+msgstr "قلاب BBCode"
+
+#. ! module url (lower case without spaces and different to displayname)
+#: pnversion.php:34
+msgid "bbcode"
+msgstr "bbcode"
+
+#: pnuserapi.php:219
+msgid "Spoiler follows"
+msgstr "Spoiler follows"
+
+#: pnuserapi.php:329 pntemplates/bbcode_admin_config.html:42
+#: pntemplates/bbcode_user_bbcodes.html:27
+msgid "Quote"
+msgstr "نقل قول"
+
+#: pnuserapi.php:494
+msgid "From"
+msgstr "از"
+
+#: pnuserapi.php:496 pntemplates/bbcode_admin_config.html:19
+#: pntemplates/bbcode_user_bbcodes.html:34
+#: pntemplates/bbcode_user_bbcodes.html:38
+msgid "Code"
+msgstr "کد"
+
+#: pnuserapi.php:698 pnuserapi.php:700 pnuserapi.php:744 pnuserapi.php:746
+#: pnuserapi.php:778 pnuserapi.php:787 pnuserapi.php:789 pnuserapi.php:829
+#: pnuserapi.php:838 pnuserapi.php:840
+msgid "*Not allowed to see the external links*"
+msgstr "*مجاز به مشاهده لینک های خارجی نیستید*"
+
+#: pnuserapi.php:865 pnuserapi.php:867
+msgid "*Not allowed to see emails*"
+msgstr "*مجاز به مشاهده ایمیل ها نیستید*"
+
+#: pnincludes/bbcode_admin_confighandler.class.php:32
+msgid "No highlighting"
+msgstr "بدون برجسته سازی"
+
+#: pnincludes/bbcode_admin_confighandler.class.php:33
+msgid "GeSHi with line numbers"
+msgstr "GeSHi بهمراه شماره خطوط"
+
+# GeSHi هایلات کننده‌ی سورس کد است
+#: pnincludes/bbcode_admin_confighandler.class.php:34
+msgid "GeSHi without line numbers"
+msgstr "GeSHi همراه با شماره سطر"
+
+# Prettifier یک ماژول جاوا از پروژه گوگل کد است که وظیفه تعیین استایل هایلات کردن سورس کد را برای خوانایی بیشتر به عهده دارد و ... برای کسب اطلاعات بیشتر به گوگل کد مراجعه نمایید.
+#: pnincludes/bbcode_admin_confighandler.class.php:35
+msgid "Google Code Prettifier"
+msgstr "Prettifier گوگل کد"
+
+#: pnincludes/bbcode_admin_confighandler.class.php:78
+#: pnincludes/bbcode_admin_confighandler.class.php:83
+#: pnincludes/bbcode_admin_confighandler.class.php:88
+#: pnincludes/bbcode_admin_confighandler.class.php:93
+#: pnincludes/bbcode_admin_confighandler.class.php:98
+msgid ""
+"Illegal value, allowed format: up to four decimal places + dot + two decimal "
+"places followed by unit, one out of cm,em,ex,in,mm,pc,pt,px or %. Example: "
+"1.05em or 95%."
+msgstr ""
+"Illegal value, allowed format: up to four decimal places + dot + two decimal "
+"places followed by unit, one out of cm,em,ex,in,mm,pc,pt,px or %. Example: "
+"1.05em or 95%."
+
+#: pnincludes/bbcode_admin_confighandler.class.php:138
+msgid "Done! Configuration has been updated"
+msgstr "انجام شد! پیکربندی به روز شد"
+
+#: pnadminapi.php:37
+msgid "Start"
+msgstr "آغاز"
+
+#: pnadminapi.php:38 pntemplates/bbcode_admin_config.html:4
+#: pntemplates/bbcode_admin_menu.html:10
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: pninit.php:39
+msgid "Error! Could not register BBCode transform hook"
+msgstr "خطا! ناتوانی در ثبت قلاب تبدیل BBCode"
+
+#: pninit.php:126 pninit.php:138
+msgid "Error! Could not register BBCode display hook"
+msgstr "خطا! نمی توانم قلاب نمایش BBCode را ثبت کنم"
+
+#: pninit.php:194
+msgid "Error! Failed to upgrade hook (smodule)"
+msgstr "خطا! ارتقا قلاب شکست خورد (smodule)"
+
+#: pninit.php:201
+msgid "Error! Failed to upgrade hook (tmodule)"
+msgstr "خطا! ارتقا قلاب شکست خورد (tmodule)"
+
+#: pninit.php:223
+msgid "Error! Could not unregister BBCode transform hook"
+msgstr "خطا! نمی توانم قلاب تبدیل BBCode را از حال ثبت خارج کنم"
+
+#: pntemplates/bbcode_admin_main.html:5
+msgid "Actually the bbcode hook is used with the following modules"
+msgstr " ماژول های زیر از قلاب bbcode  استفاده می کنند"
+
+#: pntemplates/bbcode_admin_main.html:10
+msgid "Module"
+msgstr "ماژول"
+
+#: pntemplates/bbcode_admin_main.html:11
+msgid "Displayname"
+msgstr "نام نمایشی"
+
+#: pntemplates/bbcode_admin_main.html:12
+msgid "Options"
+msgstr "گزینه ها"
+
+#: pntemplates/bbcode_admin_main.html:21
+msgid "Hook settings"
+msgstr "تنظیمات قلاب"
+
+#: pntemplates/bbcode_admin_main.html:25
+msgid "bbcode is not used with any module"
+msgstr "هیچ ماژولی از bbcode استفاده نمی کند"
+
+#: pntemplates/bbcode_admin_main.html:27
+msgid "Activate bbcode for more modules"
+msgstr "فعال نمودن bbcode برای تعداد بیشتری از ماژول‌ها"
+
+#: pntemplates/bbcode_admin_footer.html:4
+msgid "Visit the bbcode project site"
+msgstr "به سایت پروژه bbcode مراجعه کنید"
+
+#: pntemplates/bbcode_admin_config.html:6
+msgid "Notice! Please allow the used HTML tags in the SecurityCenter."
+msgstr ""
+"توجه! لطفا تگ های HTML  استفاده شده در اینجا را در مرکز امنیت در حالت مجاز "
+"قرار دهید."
+
+#: pntemplates/bbcode_admin_config.html:12
+msgid "Configuration [code][/code]"
+msgstr "پیکربندی [code][/code]"
+
+#: pntemplates/bbcode_admin_config.html:14
+msgid "Enable code highlighting"
+msgstr "نمایش رنگی کد فعال شود"
+
+#: pntemplates/bbcode_admin_config.html:21
+msgid ""
+"%h = Header (Code), %c=lines of code, %j=lines of code, escaped for "
+"javascript."
+msgstr ""
+"%h = Header (Code), %c=lines of code, %j=lines of code, escaped for "
+"javascript."
+
+#: pntemplates/bbcode_admin_config.html:24
+msgid "Select code highlight mode"
+msgstr "انتخاب حالت نمایش رنگی کد"
+
+#: pntemplates/bbcode_admin_config.html:28
+#: pntemplates/bbcode_admin_config.html:47
+#: pntemplates/bbcode_admin_config.html:166
+msgid "Preview"
+msgstr "پیش نمایش"
+
+#: pntemplates/bbcode_admin_config.html:35
+msgid "Configuration [quote][/quote]"
+msgstr "پیکربندی [quote][/quote]"
+
+#: pntemplates/bbcode_admin_config.html:37
+msgid "Enable quote highlighting"
+msgstr "نمایش رنگی نقل قول فعال شود"
+
+#: pntemplates/bbcode_admin_config.html:44
+msgid "%u = username, %t=quoted text"
+msgstr "%u = نام کاربری, %t=متن نقل قول"
+
+#: pntemplates/bbcode_admin_config.html:54
+msgid "Configuration [color][/color]"
+msgstr "پیکر بندی [color][/color]"
+
+#: pntemplates/bbcode_admin_config.html:56
+msgid "Enable flexible text colors"
+msgstr "فعال شدن امکان تغییر رنگهای متن"
+
+#: pntemplates/bbcode_admin_config.html:60
+msgid "Allow userdefined text color"
+msgstr "کابر اجازه تعیین رنگ داشته باشد"
+
+#: pntemplates/bbcode_admin_config.html:66
+msgid "Configuration [size][/size]"
+msgstr "تنظیم سایز [size][/size]"
+
+#: pntemplates/bbcode_admin_config.html:68
+msgid "Enable flexible text size"
+msgstr "امکان تغییر سایز متن فعال شود"
+
+#: pntemplates/bbcode_admin_config.html:73
+#: pntemplates/bbcode_user_bbcodes.html:87
+msgid "Tiny"
+msgstr "بسیار کوچک"
+
+#: pntemplates/bbcode_admin_config.html:80
+#: pntemplates/bbcode_user_bbcodes.html:88
+msgid "Small"
+msgstr "کوچک"
+
+#: pntemplates/bbcode_admin_config.html:87
+#: pntemplates/bbcode_user_bbcodes.html:89
+msgid "Normal"
+msgstr "معمولی"
+
+#: pntemplates/bbcode_admin_config.html:94
+#: pntemplates/bbcode_user_bbcodes.html:90
+msgid "Large"
+msgstr "بزرگ"
+
+#: pntemplates/bbcode_admin_config.html:101
+#: pntemplates/bbcode_user_bbcodes.html:91
+msgid "Huge"
+msgstr "خیلی بزرگ"
+
+#: pntemplates/bbcode_admin_config.html:108
+msgid "Allow userdefined text size"
+msgstr "کاربران مجازند اندازه متن را انتخاب کنند"
+
+#: pntemplates/bbcode_admin_config.html:115
+msgid "Configuration of mimeTeX integration [math][/math]"
+msgstr "پیکربندی یکپارچه سازی mimeTeX [math][/math]"
+
+#: pntemplates/bbcode_admin_config.html:117
+msgid "Enable mimeTeX support"
+msgstr "فعال سازی پشتیبانی از mimeTeX"
+
+#: pntemplates/bbcode_admin_config.html:122
+msgid "Full URL to the mimeTeX cgi script"
+msgstr "URL کامل برای اسکریپت cgi در mimeTex"
+
+#: pntemplates/bbcode_admin_config.html:124
+msgid "Please use an own mimeTeX installation for your website!"
+msgstr "لطفا از mimeTeX نصب شده خودتان برای وب سایتتان استفاده کنید!"
+
+#: pntemplates/bbcode_admin_config.html:128
+msgid "Test image for mimeTeX"
+msgstr "تست تصویر برای mimeTeX"
+
+#: pntemplates/bbcode_admin_config.html:131
+msgid ""
+"Enter URl to your mimeTeX installation and you will see a test image here"
+msgstr ""
+"را برای نصب mimeTeX وارد کنید و سپس شما اینجا یک تصویر آزمایشی خواهید دید"
+
+#: pntemplates/bbcode_admin_config.html:138
+msgid "Miscellaneous settings"
+msgstr "تنظیمات متفرقه"
+
+#: pntemplates/bbcode_admin_config.html:140
+msgid "Shrink links to"
+msgstr "کوچک  شدن لینک به"
+
+#: pntemplates/bbcode_admin_config.html:141
+msgid "chars"
+msgstr "کاراکتر"
+
+#: pntemplates/bbcode_admin_config.html:142
+msgid "Shrinks the urls shown to the specified length (0=no action)."
+msgstr ""
+"لینکهای نمایش داده شده را به طول تعیین شده, کوچک میکند (0=غیرفعال کردن)."
+
+#: pntemplates/bbcode_admin_config.html:145
+msgid "Use Lightbox in img-tag"
+msgstr "از Lightbox در بر چسب img استفاده کن"
+
+#: pntemplates/bbcode_admin_config.html:150
+msgid "Width of preview image"
+msgstr "پیش نمایش عرض تصویر"
+
+#: pntemplates/bbcode_admin_config.html:151
+msgid "(50-1000px)"
+msgstr "(50 - 1000 پیکسل)"
+
+#: pntemplates/bbcode_admin_config.html:152
+msgid "Height will be calculated by the browser automatically."
+msgstr "ارتفاع به طور خودکار به وسیله مرورگر محاسبه خواهد شد."
+
+#: pntemplates/bbcode_admin_config.html:156
+msgid "Enable spoiler tag"
+msgstr "فعال سازی تگ spoiler"
+
+#: pntemplates/bbcode_admin_config.html:161
+msgid "HTML for spoiler tag"
+msgstr "HTML برای برچسب spoiler"
+
+#: pntemplates/bbcode_admin_config.html:163
+msgid "%h = Heading (Spoiler follows), %s = text"
+msgstr "%h = Heading (Spoiler follows), %s = text"
+
+#: pntemplates/bbcode_admin_config.html:173
+msgid "Update"
+msgstr "به روز رسانی"
+
+#: pntemplates/bbcode_user_bbcodes.html:7
+#: pntemplates/bbcode_user_bbcodes.html:23
+msgid "Insert a link"
+msgstr "قرار دادن لینک"
+
+#: pntemplates/bbcode_user_bbcodes.html:8
+#: pntemplates/bbcode_user_bbcodes.html:24
+msgid "Insert an email address"
+msgstr "قرار دادن آدرس ایمیل"
+
+#: pntemplates/bbcode_user_bbcodes.html:9
+#: pntemplates/bbcode_user_bbcodes.html:25
+msgid "Insert an image"
+msgstr "قرار دادن تصویر"
+
+#: pntemplates/bbcode_user_bbcodes.html:10
+#: pntemplates/bbcode_user_bbcodes.html:27
+msgid "Insert quote"
+msgstr "قرار دادن نقل قول"
+
+#: pntemplates/bbcode_user_bbcodes.html:11
+#: pntemplates/bbcode_user_bbcodes.html:34
+#: pntemplates/bbcode_user_bbcodes.html:39
+msgid "Insert code"
+msgstr "قرار دادن کد"
+
+#: pntemplates/bbcode_user_bbcodes.html:14
+#: pntemplates/bbcode_user_bbcodes.html:50
+msgid "Open list"
+msgstr "باز کردن لیست"
+
+#: pntemplates/bbcode_user_bbcodes.html:15
+#: pntemplates/bbcode_user_bbcodes.html:51
+msgid "Add list entry"
+msgstr "اضافه کردن لیست ورودی"
+
+#: pntemplates/bbcode_user_bbcodes.html:16
+#: pntemplates/bbcode_user_bbcodes.html:52
+msgid "Close list"
+msgstr "بستن لیست"
+
+#: pntemplates/bbcode_user_bbcodes.html:17
+#: pntemplates/bbcode_user_bbcodes.html:53
+msgid "Bold text"
+msgstr "متن کلفت"
+
+#: pntemplates/bbcode_user_bbcodes.html:18
+#: pntemplates/bbcode_user_bbcodes.html:54
+msgid "Italic text"
+msgstr "متن کج"
+
+#: pntemplates/bbcode_user_bbcodes.html:19
+#: pntemplates/bbcode_user_bbcodes.html:55
+msgid "Underlined text"
+msgstr "متن زیر خط"
+
+#: pntemplates/bbcode_user_bbcodes.html:23
+msgid "URL"
+msgstr "URL"
+
+#: pntemplates/bbcode_user_bbcodes.html:24
+msgid "E-Mail"
+msgstr "ایمیل"
+
+#: pntemplates/bbcode_user_bbcodes.html:25
+msgid "Image"
+msgstr "تصویر"
+
+#: pntemplates/bbcode_user_bbcodes.html:30
+msgid "Hide text"
+msgstr "متن مخفی"
+
+#: pntemplates/bbcode_user_bbcodes.html:30
+msgid "Spoiler"
+msgstr "Spoiler"
+
+#: pntemplates/bbcode_user_bbcodes.html:40
+msgid "Select code type"
+msgstr "نوع کد را انتخاب کنید"
+
+#: pntemplates/bbcode_user_bbcodes.html:41
+msgid "No special code"
+msgstr "بدون کد مخصوص"
+
+#: pntemplates/bbcode_user_bbcodes.html:50
+msgid "ul"
+msgstr "ul"
+
+#: pntemplates/bbcode_user_bbcodes.html:51
+msgid "li"
+msgstr "li"
+
+#: pntemplates/bbcode_user_bbcodes.html:52
+msgid "/ul"
+msgstr "/ul"
+
+#: pntemplates/bbcode_user_bbcodes.html:53
+msgid "b"
+msgstr "b"
+
+#: pntemplates/bbcode_user_bbcodes.html:54
+msgid "i"
+msgstr "i"
+
+#: pntemplates/bbcode_user_bbcodes.html:55
+msgid "u"
+msgstr "u"
+
+#: pntemplates/bbcode_user_bbcodes.html:61
+msgid "Font color"
+msgstr "رنگ فونت"
+
+#: pntemplates/bbcode_user_bbcodes.html:62
+msgid "Select font color"
+msgstr "رنگ فونت را انتخاب کنید"
+
+#: pntemplates/bbcode_user_bbcodes.html:63
+msgid "Black"
+msgstr "بازگشت"
+
+#: pntemplates/bbcode_user_bbcodes.html:64
+msgid "Dark Red"
+msgstr "قرمز تاریک"
+
+#: pntemplates/bbcode_user_bbcodes.html:65
+msgid "Red"
+msgstr "قرمز"
+
+#: pntemplates/bbcode_user_bbcodes.html:66
+msgid "Orange"
+msgstr "پرتقالى"
+
+#: pntemplates/bbcode_user_bbcodes.html:67
+msgid "Brown"
+msgstr "قهوه ای"
+
+#: pntemplates/bbcode_user_bbcodes.html:68
+msgid "Yellow"
+msgstr "زرد"
+
+#: pntemplates/bbcode_user_bbcodes.html:69
+msgid "Green"
+msgstr "سبز"
+
+#: pntemplates/bbcode_user_bbcodes.html:70
+msgid "Olive"
+msgstr "زیتونی"
+
+#: pntemplates/bbcode_user_bbcodes.html:71
+msgid "Cyan"
+msgstr "Cyan"
+
+#: pntemplates/bbcode_user_bbcodes.html:72
+msgid "Blue"
+msgstr "آبی"
+
+#: pntemplates/bbcode_user_bbcodes.html:73
+msgid "Dark Blue"
+msgstr "آبی تاریک"
+
+#: pntemplates/bbcode_user_bbcodes.html:74
+msgid "Indigo"
+msgstr "نيلى"
+
+#: pntemplates/bbcode_user_bbcodes.html:75
+msgid "Violet"
+msgstr "بنفش"
+
+#: pntemplates/bbcode_user_bbcodes.html:76
+msgid "White"
+msgstr "سفید"
+
+#: pntemplates/bbcode_user_bbcodes.html:78
+msgid "Enter color code"
+msgstr "کد رنگ را اینجا وارد کنید"
+
+#: pntemplates/bbcode_user_bbcodes.html:78
+msgid "Self defined color"
+msgstr "خودم کد رنگ را تعریف می کنم"
+
+#: pntemplates/bbcode_user_bbcodes.html:85
+msgid "Font size"
+msgstr "اندازه فونت"
+
+#: pntemplates/bbcode_user_bbcodes.html:86
+msgid "Select font size"
+msgstr "اندازه فونت را انتخاب کنید"
+
+#: pntemplates/bbcode_user_bbcodes.html:93
+msgid "Enter text size"
+msgstr "اندازه فونت را اینجا وارد کنید"
+
+#: pntemplates/bbcode_user_bbcodes.html:93
+msgid "Self defined size"
+msgstr "خودم اندازه را تعریف می کنم"
+
+#: pntemplates/bbcode_user_bbcodes.html:102
+msgid ""
+"Your browser does not support javascript or you turned it off. The BBCode "
+"interface has been disabled."
+msgstr ""
+"مرورگر شما از javascript پشتیبانی نمی کند یا آن را غیر فعال کرده اید. رابط "
+"BBCode غیر فعال است."
+
+#: pntemplates/bbcode_admin_menu.html:5
+msgid "bbcode Administration"
+msgstr "مدیریت bbcode"

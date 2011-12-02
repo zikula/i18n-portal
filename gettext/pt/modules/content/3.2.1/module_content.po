@@ -1,0 +1,2446 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-05-29 09:47+0000\n"
+"PO-Revision-Date: 2011-06-14 12:15+0200\n"
+"Last-Translator: ADJ 3 Sistemas <geral@adj3.pt>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: pnpageapi.php:364
+msgid "Error! Cannot create sub-page without parent page ID"
+msgstr "Erro! Não é possível criar sub-página sem o ID da página pai"
+
+#: pnpageapi.php:391 pnpageapi.php:429 pnpageapi.php:440 pnpageapi.php:671
+#: pnpageapi.php:922 pnpageapi.php:961
+msgid ""
+"Error! There is already another page registered with the supplied permalink "
+"URL."
+msgstr ""
+"Erro! Já existe uma outra página com o registada com a URL permalink "
+"fornecida."
+
+#: pnpageapi.php:583 pnhistoryapi.php:103
+msgid "Translated"
+msgstr "Traduzido"
+
+#: pnpageapi.php:615 pnhistoryapi.php:106
+msgid "Translation deleted"
+msgstr "Tradução eliminada"
+
+#: pnpageapi.php:907
+msgid ""
+"Error! It is not possible to move a parent page beneath one of its "
+"descendants."
+msgstr ""
+"Erro! Não é possível mover uma página pai abaixo de um dos seus "
+"descendentes."
+
+#: pnpageapi.php:1220 pnpageapi.php:1321 pnsearchapi.php:76
+msgid "Error! Could not load items."
+msgstr "Erro! Não foi possível carregar itens."
+
+#: pnadmin.php:36
+msgid "Use 2 category levels (1st level single, 2nd level multi selection)"
+msgstr ""
+"Use 2 níveis de categoria (primeiro nível único, segundo nível de selecção "
+"múltipla)"
+
+#: pnadmin.php:37
+msgid "Use 2 category levels (both single selection)"
+msgstr "Use 2 níveis de categoria (ambos de selecção única)"
+
+#: pnadmin.php:38
+msgid "Use 1 category level"
+msgstr "Use 1 nível de categoria"
+
+#: pnadmin.php:39
+msgid "Don't use Categories at all"
+msgstr "Não usar categorias"
+
+#: pnadmin.php:44
+msgid "New pages will be active and available in the menu"
+msgstr "Novas páginas estarão activas e disponíveis no menu"
+
+#: pnadmin.php:45
+msgid "New pages will be inactive and available in the menu"
+msgstr "Novas páginas estarão inactivas e disponíveis no menu"
+
+#: pnadmin.php:46
+msgid "New pages will be active and not available in the menu"
+msgstr "Novas páginas estarão activas e não disponíveis no menu"
+
+#: pnadmin.php:47
+msgid "New pages will be inactive and not available in the menu"
+msgstr "Novas páginas estarão inactivas e não disponíveis no menu"
+
+#: pnadmin.php:74
+msgid "Main category property does not exist."
+msgstr "Propriedade da categoria principal não existe."
+
+#: pnadmin.php:79
+msgid "Second category property does not exist."
+msgstr "Propriedade da segunda categoria não existe."
+
+#: pnadmin.php:83
+msgid "Done! Saved module configuration."
+msgstr "Feito! Configuração do módulo guardada."
+
+#: pnajax.php:22
+msgid "OK"
+msgstr "OK"
+
+#: pnajax.php:37 pnajax.php:68
+msgid "Sorry! You have not been granted access to this page."
+msgstr "Não tem acesso a esta página."
+
+#: pnajax.php:44 pnajax.php:75
+msgid "No page ID passed."
+msgstr "Nenhum ID de página passou."
+
+#: pnajax.php:50 pnajax.php:81
+msgid "Error! Could not update state."
+msgstr "Não foi possível actualizar estado."
+
+#: pncontentapi.php:288
+msgid "Error! Unknown content-ID"
+msgstr "Erro! ID do conteúdo desconhecido"
+
+#: pncontentapi.php:392 pncontentapi.php:432
+msgid "Error! Can't load content plugin"
+msgstr "Erro! Não é possível carregar o plug-in do conteúdo"
+
+#: pncontentapi.php:1049
+#, php-format
+msgid ""
+"Error! Unable to load plugin [%1$s] in module [%2$s] since the module is not "
+"available."
+msgstr ""
+"Erro! Não é possível carregar o plug-in [%1$s] no módulo [%2$s] uma vez que "
+"o módulo não está disponível."
+
+#: pncontentapi.php:1050
+#, php-format
+msgid ""
+"Error! Unable to load plugin [%1$s] in module [%2$s] for some unknown reason."
+msgstr ""
+"Erro! Não é possível carregar o plug-in [%1$s] no módulo [%2$s] por alguma "
+"razão desconhecida."
+
+#: pnversion.php:17
+msgid "Content editing"
+msgstr "Edição de conteúdos"
+
+#: pnversion.php:18
+msgid ""
+"Content is a page editing module. With it you can insert and edit various "
+"content items, such as HTML texts, videos, Google maps and much more."
+msgstr ""
+"O conteúdo é um módulo de edição de páginas. Com ele, pode inserir e editar "
+"vários itens de conteúdo, como textos HTML, vídeos, mapas do Google e muito "
+"mais."
+
+#. ! module url should be different to displayname and in lowercase without space
+#: pnversion.php:20
+msgid "content"
+msgstr "content"
+
+#: pntemplates/plugins/function.contenteditthis.php:35
+msgid "Edit this page"
+msgstr "Editar esta página"
+
+#: pntemplates/plugins/function.contenteditthis.php:37
+msgid "Translate this page"
+msgstr "Traduzir esta página"
+
+#: pntemplates/plugins/function.contenteditthis.php:46
+#, php-format
+msgid "Edit this: %1$s [ID%2$s]"
+msgstr "Editar: %1$s [ID%2$s]"
+
+#: pntemplates/plugins/function.contenteditthis.php:49
+#: pntemplates/content_edit_editpage.html:38
+#: pntemplates/content_edit_editpage.html:186
+#: pntemplates/content_include_tocedit.html:38
+#: pntemplates/content_edit_editcontent.html:52
+msgid "Translate"
+msgstr "Traduzir"
+
+#: pntemplates/plugins/function.contenthtmleditor.php:40
+msgid "Please install Scribite to get a real HTML editor."
+msgstr "Instale o Scribite para obter um editor HTML real."
+
+#: pntemplates/plugins/function.contenthtmleditor.php:52
+msgid "Please install the hook BBCode to enable bbcode filtering."
+msgstr "Instale o gancho BBCode para activar o filtro bbcode."
+
+#: pntemplates/plugins/function.contentareatitle.php:16
+#, php-format
+msgid "%s area"
+msgstr "área %s"
+
+#: pntemplates/plugins/function.contentinsertlink.php:22
+msgid "Add new content here"
+msgstr "Adicione novo conteúdo aqui"
+
+#: pntemplates/plugins/function.contentpositionselector.php:52
+msgid "No box"
+msgstr "Nenhuma caixa"
+
+#: pntemplates/plugins/function.contentpositionselector.php:57
+msgid "Above"
+msgstr "Acima"
+
+#: pntemplates/plugins/function.contentpositionselector.php:62
+msgid "Float, left"
+msgstr "Flutuante, à esquerda"
+
+#: pntemplates/plugins/function.contentpositionselector.php:67
+msgid "Float, right"
+msgstr "Flutuante, à direita"
+
+#: pntemplates/plugins/function.contentpositionselector.php:72
+msgid "Above, left"
+msgstr "Acima, à esquerda"
+
+#: pntemplates/plugins/function.contentpositionselector.php:77
+msgid "Above, right"
+msgstr "Acima, à direita"
+
+#: pnlayouttypesapi/column2_6238_header.php:18
+#: pnlayouttypesapi/column2_3070_header.php:18
+#: pnlayouttypesapi/column3_502525_header.php:18
+#: pnlayouttypesapi/column3_252550_header.php:18
+#: pnlayouttypesapi/column2_7525_header.php:18
+#: pnlayouttypesapi/column1topheader.php:18
+#: pnlayouttypesapi/column2_6633_header.php:18 pnlayouttypesapi/column1.php:18
+#: pnlayouttypesapi/column2_2575_header.php:18
+#: pnlayouttypesapi/column2_3862_header.php:18
+#: pnlayouttypesapi/column2_7030_header.php:18
+#: pnlayouttypesapi/column2_1_2header.php:18
+#: pnlayouttypesapi/column3_255025_header.php:18
+#: pnlayouttypesapi/column2header.php:18 pnlayouttypesapi/column3header.php:18
+#: pnlayouttypesapi/column2_3366_header.php:18
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: pnlayouttypesapi/column2_6238_header.php:18
+#: pnlayouttypesapi/column2_3070_header.php:18
+#: pnlayouttypesapi/column3_502525_header.php:18
+#: pnlayouttypesapi/column3_252550_header.php:18
+#: pnlayouttypesapi/column2_7525_header.php:18
+#: pnlayouttypesapi/column2_6633_header.php:18
+#: pnlayouttypesapi/column2_2575_header.php:18
+#: pnlayouttypesapi/column2_3862_header.php:18
+#: pnlayouttypesapi/column2_7030_header.php:18
+#: pnlayouttypesapi/column3_255025_header.php:18
+#: pnlayouttypesapi/column2header.php:18 pnlayouttypesapi/column3header.php:18
+#: pnlayouttypesapi/column2_3366_header.php:18
+msgid "Left column"
+msgstr "Coluna da esquerda"
+
+#: pnlayouttypesapi/column2_6238_header.php:18
+#: pnlayouttypesapi/column2_3070_header.php:18
+#: pnlayouttypesapi/column3_502525_header.php:18
+#: pnlayouttypesapi/column3_252550_header.php:18
+#: pnlayouttypesapi/column2_7525_header.php:18
+#: pnlayouttypesapi/column2_6633_header.php:18
+#: pnlayouttypesapi/column2_2575_header.php:18
+#: pnlayouttypesapi/column2_3862_header.php:18
+#: pnlayouttypesapi/column2_7030_header.php:18
+#: pnlayouttypesapi/column3_255025_header.php:18
+#: pnlayouttypesapi/column2header.php:18 pnlayouttypesapi/column3header.php:18
+#: pnlayouttypesapi/column2_3366_header.php:18
+msgid "Right column"
+msgstr "Coluna da direita"
+
+#: pnlayouttypesapi/column2_6238_header.php:18
+#: pnlayouttypesapi/column2_3070_header.php:18
+#: pnlayouttypesapi/column3_502525_header.php:18
+#: pnlayouttypesapi/column3_252550_header.php:18
+#: pnlayouttypesapi/column2_7525_header.php:18
+#: pnlayouttypesapi/column2_6633_header.php:18
+#: pnlayouttypesapi/column2_2575_header.php:18
+#: pnlayouttypesapi/column2_3862_header.php:18
+#: pnlayouttypesapi/column2_7030_header.php:18
+#: pnlayouttypesapi/column2_1_2header.php:24
+#: pnlayouttypesapi/column3_255025_header.php:18
+#: pnlayouttypesapi/column2header.php:18 pnlayouttypesapi/column3header.php:18
+#: pnlayouttypesapi/column2_3366_header.php:18
+msgid "Footer"
+msgstr "Rodapé"
+
+#: pnlayouttypesapi/column2_6238_header.php:31
+msgid "2 columns (62|38)"
+msgstr "2 colunas (62|38)"
+
+#: pnlayouttypesapi/column2_6238_header.php:36
+msgid "Header + two columns (62|38) + footer"
+msgstr "Cabeçalho + 2 colunas (62|38) + rodapé"
+
+#: pnlayouttypesapi/column2_3070_header.php:31
+msgid "2 columns (30|70)"
+msgstr "2 colunas (30|70)"
+
+#: pnlayouttypesapi/column2_3070_header.php:36
+msgid "Header + two columns (30|70) + footer"
+msgstr "Cabeçalho + 2 colunas (30|70) + rodapé"
+
+#: pnlayouttypesapi/column3_502525_header.php:18
+#: pnlayouttypesapi/column3_252550_header.php:18
+#: pnlayouttypesapi/column1topheader.php:18 pnlayouttypesapi/column1.php:18
+#: pnlayouttypesapi/column1woheader.php:18
+#: pnlayouttypesapi/column3_255025_header.php:18
+#: pnlayouttypesapi/column3header.php:18
+msgid "Centre column"
+msgstr "Coluna do centro"
+
+#: pnlayouttypesapi/column3_502525_header.php:31
+msgid "3 columns (50|25|25)"
+msgstr "3 colunas (50|25|25)"
+
+#: pnlayouttypesapi/column3_502525_header.php:36
+msgid "Header + three columns (50|25|25) + footer"
+msgstr "Cabeçalho + três colunas (50|25|25) + rodapé"
+
+#: pnlayouttypesapi/column3_252550_header.php:31
+msgid "3 columns (25|25|50)"
+msgstr "3 colunas (25|25|50)"
+
+#: pnlayouttypesapi/column3_252550_header.php:36
+msgid "Header + three columns (25|25|50) + footer"
+msgstr "Cabeçalho + três colunas (25|25|50) + rodapé"
+
+#: pnlayouttypesapi/column2_7525_header.php:31
+msgid "2 columns (75|25)"
+msgstr "2 colunas (75|25)"
+
+#: pnlayouttypesapi/column2_7525_header.php:36
+msgid "Header + two columns (75|25) + footer"
+msgstr "Cabeçalho + duas colunas (75|25) + rodapé"
+
+#: pnlayouttypesapi/column1topheader.php:18
+msgid "Header above page headline"
+msgstr "Cabeçalho acima da manchete da página"
+
+#: pnlayouttypesapi/column1topheader.php:34
+msgid "1 column, header above page headline"
+msgstr "1 coluna, cabeçalho acima da manchete da página"
+
+#: pnlayouttypesapi/column1topheader.php:40
+msgid ""
+"Single 100% wide column and a top-header above the page headline (for e.g. "
+"breadcrumbs or author-information above the title)"
+msgstr ""
+"Única coluna de largura 100% e um cabeçalho acima da manchete da página (por "
+"exemplo: migalhas ou informação do autor, acima do título)"
+
+#: pnlayouttypesapi/column2_6633_header.php:31
+msgid "2 columns (66|33)"
+msgstr "2 colunas (66|33)"
+
+#: pnlayouttypesapi/column2_6633_header.php:36
+msgid "Header + two columns (66|33) + footer"
+msgstr "Cabeçalho + 2 colunas (66|33) + rodapé"
+
+#: pnlayouttypesapi/column1.php:31
+msgid "1 column"
+msgstr "1 coluna"
+
+#: pnlayouttypesapi/column1.php:36
+msgid "Header + single 100% wide column"
+msgstr "Cabeçalho + única coluna de largura 100%"
+
+#: pnlayouttypesapi/column2_2575_header.php:31
+msgid "2 columns (25|75)"
+msgstr "2 colunas (25|75)"
+
+#: pnlayouttypesapi/column2_2575_header.php:36
+msgid "Header + two columns (25|75) + footer"
+msgstr "Cabeçalho + 2 colunas (25|75) + rodapé"
+
+#: pnlayouttypesapi/column2_3862_header.php:31
+msgid "2 columns (38|62)"
+msgstr "2 colunas (38|62)"
+
+#: pnlayouttypesapi/column2_3862_header.php:36
+msgid "Header + two columns (38|62) + footer"
+msgstr "Cabeçalho + 2 colunas (38|62) + rodapé"
+
+#: pnlayouttypesapi/column2_7030_header.php:31
+msgid "2 columns (70|30)"
+msgstr "2 colunas (70|30)"
+
+#: pnlayouttypesapi/column2_7030_header.php:36
+msgid "Header + two columns (70|30) + footer"
+msgstr "Cabeçalho + 2 colunas (70|30) + rodapé"
+
+#: pnlayouttypesapi/column2_1_2header.php:19
+msgid "Left column1"
+msgstr "Coluna da esquerda 1"
+
+#: pnlayouttypesapi/column2_1_2header.php:20
+msgid "Right column1"
+msgstr "Coluna da direita 1"
+
+#: pnlayouttypesapi/column2_1_2header.php:21
+msgid "center1"
+msgstr "centro1"
+
+#: pnlayouttypesapi/column2_1_2header.php:22
+msgid "Left column2"
+msgstr "Coluna da esquerda 2"
+
+#: pnlayouttypesapi/column2_1_2header.php:23
+msgid "Right column2"
+msgstr "Coluna da direita 2"
+
+#: pnlayouttypesapi/column2_1_2header.php:38
+msgid "2-1-2 columns (50|50)"
+msgstr "2-1-2 colunas (50|50)"
+
+#: pnlayouttypesapi/column2_1_2header.php:43
+msgid "Header + two-one-two columns (50|50) + footer"
+msgstr "Cabeçalho+ 2-1-2 colunas (50|50) + rodapé"
+
+#: pnlayouttypesapi/column1woheader.php:31
+msgid "1 column no header"
+msgstr "1 coluna sem cabeçalho"
+
+#: pnlayouttypesapi/column1woheader.php:36
+msgid "Single 100% wide column without header"
+msgstr "1 coluna com largura 100% sem cabeçalho"
+
+#: pnlayouttypesapi/column3_255025_header.php:31
+msgid "3 columns (25|50|25)"
+msgstr "3 colunas (25|50|25)"
+
+#: pnlayouttypesapi/column3_255025_header.php:36
+msgid "Header + three columns (25|50|25) + footer"
+msgstr "Cabeçalho + 3 colunas (25|50|25) + rodapé"
+
+#: pnlayouttypesapi/column2header.php:31
+msgid "2 columns (50|50)"
+msgstr "2 colunas (50|50)"
+
+#: pnlayouttypesapi/column2header.php:36
+msgid "Header + two columns (50|50) + footer"
+msgstr "Cabeçalho + 2 colunas (50|50) + rodapé"
+
+#: pnlayouttypesapi/column3header.php:31
+msgid "3 columns (33|33|33)"
+msgstr "3 colunas (33|33|33)"
+
+#: pnlayouttypesapi/column3header.php:36
+msgid "Header + three columns (33|33|33) + footer"
+msgstr "Cabeçalho + 3 colunas (33|33|33) + rodapé"
+
+#: pnlayouttypesapi/column2_3366_header.php:31
+msgid "2 columns (33|66)"
+msgstr "2 colunas (33|66)"
+
+#: pnlayouttypesapi/column2_3366_header.php:36
+msgid "Header + two columns (33|66) + footer"
+msgstr "Cabeçalho + 2 colunas (33|66) + rodapé"
+
+#: pnblocks/mostviewed.php:24
+msgid "Content Most Viewed"
+msgstr "Conteúdo mais visualizado"
+
+#: pnblocks/mostviewed.php:25
+msgid "Content Most viewed Pages block"
+msgstr "Bloco de Conteúdos mais visualizados"
+
+#: pnblocks/mostviewed.php:93 pnblocks/menu.php:87
+#: pncontenttypesapi/directory.php:160
+msgid "All pages"
+msgstr "Todas as páginas"
+
+#: pnblocks/menu.php:23
+msgid "Content menu"
+msgstr "Menu para Conteúdo"
+
+#: pnblocks/menu.php:24
+msgid "Content menu block"
+msgstr "Bloco de Menu para Conteúdo"
+
+#: pnneedleapi/content.php:39
+msgid "Unknown id"
+msgstr "ID desconhecido"
+
+#: pnneedleapi/content.php:42
+msgid "Content not available"
+msgstr "Conteúdo não disponível"
+
+#: pnneedleapi/content.php:47
+msgid "No needle id"
+msgstr "Nenhum ID de needle"
+
+#: pncontenttypesapi/vimeo.php:26
+msgid "Vimeo video clip"
+msgstr "Clip de vídeo Vimeo"
+
+#: pncontenttypesapi/vimeo.php:31
+msgid "Display Vimeo video clip."
+msgstr "Exibir clip de vídeo Vimeo"
+
+#: pncontenttypesapi/vimeo.php:83
+msgid "Error! Unrecognized Vimeo URL"
+msgstr "Erro! URL de Vimeo não reconhecido"
+
+#: pncontenttypesapi/heading.php:27 pncontenttypesapi/heading.php:68
+#: pntemplates/contenttype/heading_edit.html:4
+#: pntemplates/contenttype/heading_translate_original.html:2
+#: pntemplates/contenttype/heading_translate_new.html:2
+msgid "Heading"
+msgstr "Título"
+
+#: pncontenttypesapi/heading.php:32
+msgid "Section heading for structuring larger amounts of text."
+msgstr "Título da secção para a estruturação de grandes quantidades de texto."
+
+#: pncontenttypesapi/quote.php:27
+msgid "Quote"
+msgstr "Citação"
+
+#: pncontenttypesapi/quote.php:32
+msgid "A highlighted quote with source."
+msgstr "Citação destacada com a fonte."
+
+#: pncontenttypesapi/quote.php:80
+msgid "Add quote text here..."
+msgstr "Acrescentar o texto de citação aqui ..."
+
+#: pncontenttypesapi/quote.php:80
+msgid "Name of the Source"
+msgstr "Nome da Fonte"
+
+#: pncontenttypesapi/pagesetter_publist.php:32
+msgid "Pagesetter publication list"
+msgstr "Lista de publicação Pagesetter"
+
+#: pncontenttypesapi/pagesetter_publist.php:37
+msgid "Pagesetter list of filtered, ordered, and/or formatted publications."
+msgstr ""
+"Lista do Pagesetter ou publicações filtradas, ordenadas e/ou formatadas."
+
+#: pncontenttypesapi/slideshare.php:31
+msgid "Slideshare"
+msgstr "Slideshare"
+
+#: pncontenttypesapi/slideshare.php:36
+msgid "Display slides from slideshare.com"
+msgstr "Exibir slides a partir de slideshare.com"
+
+#: pncontenttypesapi/slideshare.php:69
+#, php-format
+msgid "Slideshare: %s"
+msgstr "Slideshare: %s"
+
+#: pncontenttypesapi/slideshare.php:95
+msgid "Not valid Slideshare Wordpress embed code"
+msgstr "Código embebido Slideshare Wordpress não válido"
+
+#: pncontenttypesapi/googlemap.php:33
+msgid "Google map"
+msgstr "Mapa do Google"
+
+#: pncontenttypesapi/googlemap.php:38
+msgid "Display Google map position."
+msgstr "Exibição da posição do mapa do Google."
+
+#: pncontenttypesapi/googlemap.php:43
+msgid ""
+"A Google maps API key is not needed any more in the new version 3 of the "
+"Javascript API."
+msgstr ""
+"A chave API de mapas do Google não é mais necessária na nova versão 3 da API "
+"Javascript."
+
+#: pncontenttypesapi/openstreetmap.php:30
+msgid "OpenStreetMap map"
+msgstr "Mapa OpenStreetMap"
+
+#: pncontenttypesapi/openstreetmap.php:35
+msgid "Display OpenStreetMap map position."
+msgstr "Exibição da posição do mapa OpenStreetMap."
+
+#: pncontenttypesapi/openstreetmap.php:40
+msgid ""
+"If you want to add OpenStreetMap maps to your content you don't need an API "
+"key."
+msgstr ""
+"Se quiser adicionar mapas OpenStreetMap para o seu conteúdo não é necessário "
+"uma chave API."
+
+#: pncontenttypesapi/author.php:26
+msgid "Author Infobox"
+msgstr "Caixa de informação do autor"
+
+#: pncontenttypesapi/author.php:31
+msgid "Various information about the author of the page."
+msgstr "Informações diversas sobre o autor da página."
+
+#: pncontenttypesapi/pagenavigation.php:24
+#: pncontenttypesapi/pagenavigation.php:82
+msgid "Page navigation"
+msgstr "Navegação de página"
+
+#: pncontenttypesapi/pagenavigation.php:29
+msgid "Allows to navigate within pages on the same level."
+msgstr "Permite navegar dentro de páginas ao mesmo nível"
+
+#: pncontenttypesapi/flickr.php:30
+msgid "Photos from Flickr.com"
+msgstr "Fotos de Flickr.com"
+
+#: pncontenttypesapi/flickr.php:35
+msgid "Display thumbnails from specific Flickr user or tags."
+msgstr "Exibir miniaturas de etiquetas ou utilizadores específicos do Flickr."
+
+#: pncontenttypesapi/flickr.php:40 pntemplates/content_admin_settings.html:46
+msgid ""
+"If your want to add Flickr photos to your content then you need a Flickr API "
+"key. You can get this from <a href=\"http://www.flickr.com/api\">flickr.com</"
+"a>."
+msgstr ""
+"Se quiser adicionar fotos Flickr para o seu conteúdo, então precisa de uma "
+"chave API do Flickr. Pode obtê-la em <a "
+"href=\"http://www.flickr.com/api\">flickr.com</a>."
+
+#: pncontenttypesapi/flickr.php:85
+#, php-format
+msgid "Flickr photos from user %1$s associated with tags %2$s"
+msgstr "Fotos de Flickr do utilizador %1$s associadas com etiquetas %2$s"
+
+#: pncontenttypesapi/pagesetter_pub.php:20
+msgid "Pagesetter publication"
+msgstr "Publicação Pagesetter"
+
+#: pncontenttypesapi/pagesetter_pub.php:25
+msgid "Display a Pagesetter publication."
+msgstr "Exibir uma uma publicação do Pagesetter."
+
+#: pncontenttypesapi/joinposition.php:26
+msgid "Join Position"
+msgstr "Juntar Posição"
+
+#: pncontenttypesapi/joinposition.php:31
+msgid ""
+"Joins different positions, e.g. if you used position: top-right then this "
+"can fix the layout/textflow."
+msgstr ""
+"Junta posições diferentes, por exemplo, se usou posição: topo-direito, então "
+"esta pode corrigir o layout/textflow."
+
+#: pncontenttypesapi/breadcrumb.php:29
+msgid "BreadCrumb"
+msgstr "Migalhas"
+
+#: pncontenttypesapi/breadcrumb.php:34
+msgid "Show breadcrumbs for hierarchical pages"
+msgstr "Mostrar migalhas para páginas hierárquicas"
+
+#: pncontenttypesapi/html.php:27
+msgid "HTML text"
+msgstr "Texto HTML"
+
+#: pncontenttypesapi/html.php:32
+msgid "A rich HTML editor for adding text to your page."
+msgstr "Um editor visual de HTML para adicionar texto à sua página."
+
+#: pncontenttypesapi/html.php:69
+msgid "Add text here ..."
+msgstr "Acrescentar texto aqui ..."
+
+#: pncontenttypesapi/block.php:25
+msgid "Blocks"
+msgstr "Blocos"
+
+#: pncontenttypesapi/block.php:30
+msgid "Display Zikula blocks."
+msgstr "Exibir blocos Zikula."
+
+#: pncontenttypesapi/modulefunc.php:29
+msgid "Module display"
+msgstr "Exibição de módulo."
+
+#: pncontenttypesapi/modulefunc.php:34
+msgid "Display output from any installed module."
+msgstr "Exibir o output de qualquer módulo instalado."
+
+#: pncontenttypesapi/modulefunc.php:55
+msgid ""
+"Maximum number of pages-in-pages reached! You probably included this page in "
+"itself."
+msgstr ""
+"O número máximo de páginas em páginas foi atingido! Provavelmente incluiu "
+"esta página nela própria."
+
+#: pncontenttypesapi/directory.php:33
+msgid "Table of contents"
+msgstr "Índice analítico"
+
+#: pncontenttypesapi/directory.php:38
+msgid ""
+"A table of contents of headings and subpages (build from this module's "
+"pages)."
+msgstr ""
+"Um Índice analítico dos cabeçalhos e subpáginas (construído a partir das "
+"páginas deste módulo)."
+
+#: pncontenttypesapi/directory.php:146
+#, php-format
+msgid "Table of contents of %1$s"
+msgstr "Índice analítico de %1$s"
+
+#: pncontenttypesapi/directory.php:166 pncontenttypesapi/directory.php:167
+msgid "No"
+msgstr "Não"
+
+#: pncontenttypesapi/directory.php:166 pncontenttypesapi/directory.php:167
+msgid "Yes, unlimited"
+msgstr "Sim, ilimitado"
+
+#: pncontenttypesapi/directory.php:166 pncontenttypesapi/directory.php:167
+msgid "Yes, limited"
+msgstr "Sim, limitado"
+
+#: pncontenttypesapi/computercode.php:26
+msgid "Computer Code"
+msgstr "Código de computador"
+
+#: pncontenttypesapi/computercode.php:31
+msgid ""
+"A text editor for computer code. Line numbers are added to the text and it "
+"is displayed in a monospaced font."
+msgstr ""
+"Um editor de texto de código de computador. Os números de linha são "
+"adicionadas ao texto e são exibidos numa fonte monoespaçada."
+
+#: pncontenttypesapi/youtube.php:31
+msgid "YouTube video clip"
+msgstr "Video clip do YouTube"
+
+#: pncontenttypesapi/youtube.php:36
+msgid "Display YouTube video clip."
+msgstr "Exibir video clip do YouTube."
+
+#: pncontenttypesapi/youtube.php:81
+msgid "Unrecognized YouTube URL"
+msgstr "URL do YouTube não reconhecido"
+
+#: pncontenttypesapi/rss.php:35
+msgid "RSS feed"
+msgstr "Feed RSS"
+
+#: pncontenttypesapi/rss.php:40
+msgid "Display list of items in an RSS feed."
+msgstr "Exibir uma lista de itens de um feed RSS."
+
+#: pncontenttypesapi/camtasia.php:34
+msgid "Camtasia Flash video"
+msgstr "Vídeo em Flash Camtasia"
+
+#: pncontenttypesapi/camtasia.php:39
+msgid "Display a Camtasia Flash video."
+msgstr "Exibir um Vídeo em Flash Camtasia"
+
+#: pncontenttypesapi/camtasia.php:75
+#, php-format
+msgid "Flash Video-Path: %1$s<br>Size in pixels: %2$s"
+msgstr "Caminho Vídeo em Flash: %1$s<br>Tamanho em pixeis: %2$s"
+
+#: pncontenttypesapi/camtasia.php:76
+#, php-format
+msgid "Video description: %s"
+msgstr "Descrição de vídeo: %s"
+
+#: pncontenttypesapi/camtasia.php:99
+#, php-format
+msgid "Unrecognized Flash video path: %s"
+msgstr "Caminho de vídeo em Flash não reconhecido: %s"
+
+#: pncontenttypesapi/camtasia.php:111
+msgid "Unrecognized camtasia-Flash video path: "
+msgstr "Caminho de vídeo em Flash camtasia não reconhecido: "
+
+#: pncontenttypesapi/unfiltered.php:35
+msgid "Unfiltered raw text"
+msgstr "Texto em bruto não filtrado"
+
+#: pncontenttypesapi/unfiltered.php:40
+msgid "A plugin for unfiltered raw output (iframes, JavaScript, banners, etc)"
+msgstr ""
+"Um plugin para a saída em bruto não filtrada (iframes, JavaScript, banners, "
+"etc)"
+
+#: pncontenttypesapi/unfiltered.php:91
+#, php-format
+msgid ""
+"An <strong>iframe</strong> is included with<br />src = %1$s<br />width = "
+"%2$s and height = %3$s"
+msgstr ""
+"Uma <strong>iframe</strong> é incluída com<br />src = %1$s<br />largura = %"
+"2$s e altura = %3$s"
+
+#: pncontenttypesapi/unfiltered.php:93
+#, php-format
+msgid ""
+"The following <strong>unfiltered text</strong> will be included "
+"literally<br /><hr>%s<hr>"
+msgstr ""
+"O seguinte <strong>texto não filtrado</strong> será incluído literalmente<br "
+"/><hr>%s<hr>"
+
+#: pncontenttypesapi/unfiltered.php:102
+msgid "Add unfiltered text here ..."
+msgstr "Adicionar texto não filtrado aqui ..."
+
+#: pnuser.php:89
+#, php-format
+msgid "Version #%1$s - %2$s - %3$s by %4$s from %5$s"
+msgstr "Versão #%1$s - %2$s - %3$s por %4$s a partir de %5$s"
+
+#: pnuser.php:111 pntemplates/content_edit_editpage.html:181
+#: pntemplates/content_include_tocedit.html:29
+msgid "Preview"
+msgstr "Pré-visualização"
+
+#: pnuser.php:227
+msgid "Error! Unknown page."
+msgstr "Erro! Página desconhecida."
+
+#: pnuser.php:256 pntemplates/content_admin_main.html:21
+#: pntemplates/content_user_sitemap.html:1
+msgid "Sitemap"
+msgstr "Mapa do site"
+
+#: pnhistoryapi.php:38 pnhistoryapi.php:220
+msgid "Unknown user"
+msgstr "Utilizador desconhecido"
+
+#: pnhistoryapi.php:97
+msgid "Content updated"
+msgstr "Conteúdo actualizado"
+
+#: pnhistoryapi.php:100
+msgid "Content deleted"
+msgstr "Conteúdo eliminado"
+
+#: pnhistoryapi.php:109
+msgid "Content moved"
+msgstr "Conteúdo movido"
+
+#: pnhistoryapi.php:112
+msgid "Content added"
+msgstr "Conteúdo adicionado"
+
+#: pnhistoryapi.php:115
+msgid "Page added"
+msgstr "Página adicionada"
+
+#: pnhistoryapi.php:118
+#, php-format
+msgid "Page cloned from page [%s]"
+msgstr "Página clonada da página [%s]"
+
+#: pnhistoryapi.php:121
+msgid "Page updated"
+msgstr "Página actualizada"
+
+#: pnhistoryapi.php:124
+#, php-format
+msgid "Page restored from version [%s]"
+msgstr "Página restaurada a partir da versão [%s]"
+
+#: pnhistoryapi.php:127
+msgid "Page deleted"
+msgstr "Página eliminada"
+
+#: pnhistoryapi.php:215 pnhistoryapi.php:312
+#, php-format
+msgid "Error! Unknown version ID [%s]"
+msgstr "Erro! ID da versão desconhecida [%s]"
+
+#: pnhistoryapi.php:333
+msgid "Error! Could not reinsert page"
+msgstr "Erro! Não foi possível reinserir página"
+
+#: pnhistoryapi.php:410
+msgid "Error! Re-created old content item but did not restore old ID."
+msgstr "Erro! Re-criado item de conteúdo antigo, mas não restaurou o antigo ID."
+
+#: pnadminapi.php:23
+msgid "Administration"
+msgstr "Administração"
+
+#: pnadminapi.php:26 pntemplates/content_include_pageinfo.html:25
+#: pntemplates/content_user_list.html:1 pntemplates/content_admin_main.html:17
+#: pntemplates/content_user_sitemap.html:8
+#: pntemplates/content_edit_deletedpages.html:4
+#: pntemplates/content_edit_history.html:6
+msgid "Page list"
+msgstr "Lista de páginas"
+
+#: pnadminapi.php:27 pnedit.php:165 pntemplates/content_edit_newpage.html:3
+#: pntemplates/content_include_pageinfo.html:23
+#: pntemplates/content_edit_main.html:9
+#: pntemplates/content_user_sitemap.html:6
+msgid "Add new page"
+msgstr "Adicionar nova página"
+
+#: pnadminapi.php:30 pntemplates/content_admin_main.html:19
+#: pntemplates/content_admin_settings.html:22
+#: pntemplates/content_admin_settings.html:24
+#: pntemplates/content_edit_main.html:12
+msgid "Settings"
+msgstr "Definições"
+
+#: pninit.php:38
+msgid ""
+"Warning! Could not create the default Content category tree. If you want to "
+"use categorisation with Content, register at least one property for the "
+"module in the Category Registry."
+msgstr ""
+"Atenção! Não foi possível criar a árvore de categorias de conteúdos por "
+"defeito. Se quiser usar a categorização de conteúdos, registo de pelo menos "
+"uma propriedade para o módulo no registo da categoria."
+
+#: pninit.php:283
+msgid "Content introduction page"
+msgstr "Página de introdução de conteúdo"
+
+#: pninit.php:284
+msgid "content-introduction-page"
+msgstr "página-de-introdução-de-conteúdo"
+
+#: pninit.php:292
+msgid "Warning! Could not create the default Content introductory page."
+msgstr ""
+"Atenção! Não foi possível criar a página introdutória de conteúdo por "
+"defeito."
+
+#: pninit.php:301
+msgid "A Content page consists of various content items in a chosen layout"
+msgstr ""
+"Uma página de conteúdo é composta por vários itens de conteúdo em um layout "
+"escolhido"
+
+#: pninit.php:308
+msgid ""
+"<p>Each created page has a specific layout, like 1 column with and without a "
+"header, 2 columns, 3 columns. The chosen layout contains various content "
+"areas. In each area you can place 1 or more content items of various kinds "
+"like:</p> <ul> <li>HTML text;</li> <li>YouTube videos;</li> <li>Google maps;"
+"</li> <li>Flickr photos;</li> <li>RSS feeds;</li> <li>Computer Code;</li> "
+"<li>the output of another Zikula module.</li> </ul> <p>Within these content "
+"areas you can sort the content items by means of drag & drop.<br /> You can "
+"make an unlimited number of pages and structure them hierarchical. Your page "
+"structure can be displayed in a multi level menu in your website.</p>"
+msgstr ""
+"<p>Cada página criada tem um layout específico, como uma coluna com e sem um "
+"cabeçalho, 2 colunas, 3 colunas. O layout escolhido contém diversas áreas "
+"de conteúdo. Em cada área pode colocar um ou mais itens de conteúdo de "
+"vários tipos, como:</p> <ul> <li>HTML text;</li> <li>vídeos YouTube;</li> "
+"<li>mapas Google;</li> <li>fotos Flickr;</li> <li>feeds RSS;</li> <li>código "
+"de computador;</li> <li>o output de outro módulo do Zikula.</li> </ul> "
+"<p>Dentro destas áreas de conteúdo pode ordenar os itens de conteúdo através "
+"de pegar e arrastar.<br /> Pode fazer um número ilimitado de páginas e "
+"estruturá-las hierarquicamente. A estrutura da página pode ser exibida em um "
+"menu multi nível no seu site.</p>"
+
+#: pninit.php:315
+msgid ""
+"<p><strong>This is a second HTML text content item in the left column</"
+"strong><br /> Content is an extendible module. You can create your own "
+"content plugins and layouts and other Zikula modules can also offer content "
+"items. The News published module for instance has a Content plugin for a "
+"list of the latest articles.</p>"
+msgstr ""
+"<p><strong> Este é um segundo item de conteúdo de texto HTML na coluna da "
+"esquerda </strong><br /> Conteúdo é um módulo extensível. Pode criar os seus "
+"próprios plugins de conteúdo e layouts e outros módulos Zikula também podem "
+"oferecer itens de conteúdo. O módulo de notícias publicadas, por exemplo, "
+"tem um plugin de conteúdo para obter uma lista das últimas notícias. </p>"
+
+#: pninit.php:322
+msgid "No matter what your needs, Zikula can provide the solution."
+msgstr ""
+"Qualquer que sejam as suas necessidades, Zikula pode fornecer a solução."
+
+#: pninit.php:329
+msgid "$this->doAction($var); // just some code"
+msgstr "$this->doAction($var); // apenas algum código"
+
+#: pninit.php:335
+msgid ""
+"<p>So you see that you can place all kinds of content on the page in your "
+"own style and liking. This makes Content a really powerful module.</p> "
+"<p>This page uses the <strong>2 column (62|38) layout</strong> which has a "
+"header, 2 colums with 62% width on the left and 38% width on the right and a "
+"footer</p>"
+msgstr ""
+"<p>Então vê que pode colocar todos os tipos de conteúdo na página em seu "
+"próprio estilo e gosto. Isso faz com que o Content seja um módulo muito "
+"poderoso.</p> <p>Esta página usa o <strong>layout 2 colunas (62|38)</strong> "
+"que tem um cabeçalho, 2 coluna com 62% de largura na esquerda e 38% de "
+"largura na direita e um rodapé</p>"
+
+#: pninit.php:342
+msgid ""
+"This <strong>footer</strong> finishes of this introduction page. Good luck "
+"with using Content. The <a href=\"index.php?module=content&type=edit\">Page "
+"list</a> interface lets you edit or delete this introduction page. In the <a "
+"href=\"index.php?module=content&type=admin\">administration</a> interface "
+"you can further control the Content module."
+msgstr ""
+"Este<strong>rodapé</strong> termina esta página de introdução. A interface "
+"da <a href=\"index.php?module=content&type=edit\">lista de páginas</a> permite "
+"editar ou eliminar esta página de introdução. Na interface de <a "
+"href=\"index.php?module=content&type=admin\">administração</a> pode controlar "
+"o módulo Content."
+
+#: pnedit.php:38 pntemplates/content_edit_main.html:4
+msgid "Page list and content structure"
+msgstr "Lista de páginas e estrutura de conteúdos"
+
+#: pnedit.php:172
+msgid "Located below:"
+msgstr "Localizado abaixo:"
+
+#: pnedit.php:174
+msgid "Located after:"
+msgstr "Localizado depois:"
+
+#: pnedit.php:185
+msgid "Error! You have not been granted access to this page."
+msgstr "Erro! Não têm acesso a esta página."
+
+#: pnedit.php:255 pntemplates/content_edit_editpage.html:3
+#: pntemplates/content_include_pageinfo.html:17
+msgid "Edit page"
+msgstr "Editar página"
+
+#: pnedit.php:307
+msgid "Layout changed"
+msgstr "Layout alterado"
+
+#: pnedit.php:377 pntemplates/content_include_tocedit.html:32
+#: pntemplates/content_edit_clonepage.html:1
+msgid "Clone page"
+msgstr "Clonar página"
+
+#: pnedit.php:465 pntemplates/content_edit_newcontent.html:2
+msgid "Add new content to page"
+msgstr "Adicionar novo conteúdo para a página"
+
+#: pnedit.php:550 pntemplates/content_edit_editcontent.html:1
+msgid "Edit content item"
+msgstr "Editar item de conteúdo"
+
+#: pnedit.php:555
+msgid "public (all)"
+msgstr "público (tudo)"
+
+#: pnedit.php:555
+msgid "only logged in members"
+msgstr "apenas membros autenticados"
+
+#: pnedit.php:555
+msgid "only not logged in people"
+msgstr "apenas membros não autenticados"
+
+#: pnedit.php:651 pnedit.php:782
+#, php-format
+msgid ""
+"Sorry, you cannot translate an item to the same language as it's default "
+"language (\"%1$s\"). Change the current site language (\"%1$s\") to some "
+"other language on the <a href=\"%2$s\">localisation settings</a> page.<br /> "
+"Another way is to add, for instance, <strong>&amp;lang=de</strong> to the "
+"url for changing the current site language to German and after that the item "
+"can be translated to German."
+msgstr ""
+"Não pode traduzir um item para o mesmo idioma que o idioma por defeito (\"%"
+"1$s\"). Altere o idioma actual do site (\"%1$s\") para algum outro idioma na "
+"página de <a href=\"%2$s\">definições de localização</a>.<br /> Outra maneira "
+"é adicionar, por exemplo, <strong>&amp;lang=de</strong> para a url para "
+"alterar o idioma actual do site para Alemão e depois pode ser traduzido para "
+"Alemão."
+
+#: pnedit.php:653 pntemplates/content_include_pageinfo.html:19
+#: pntemplates/content_edit_translatepage.html:1
+msgid "Translate page"
+msgstr "Traduzir página"
+
+#: pnedit.php:788 pntemplates/content_edit_translatecontent.html:1
+msgid "Translate content item"
+msgstr "Traduzir item de conteúdo"
+
+#: pnedit.php:908 pntemplates/content_edit_history.html:2
+msgid "Page history"
+msgstr "Histórico da página"
+
+#: pnedit.php:964 pntemplates/content_edit_deletedpages.html:1
+msgid "Restore deleted pages"
+msgstr "Restaurar páginas eliminadas"
+
+#: pntemplates/content_edit_newpage.html:3
+msgid "Select layout"
+msgstr "Seleccionar layout"
+
+#: pntemplates/content_edit_newpage.html:26
+#: pntemplates/content_edit_editpage.html:66
+#: pntemplates/content_edit_translatepage.html:13
+#: pntemplates/content_edit_translatepage.html:21
+#: pntemplates/content_edit_clonepage.html:12
+msgid "Page title"
+msgstr "Título da página"
+
+#: pntemplates/content_edit_newpage.html:30
+#: pntemplates/content_edit_editpage.html:70
+msgid "Permalink URL"
+msgstr "URL permalink"
+
+#: pntemplates/content_edit_newpage.html:32
+#: pntemplates/content_edit_editpage.html:72
+msgid "(Used in shorturl mode and generated automatically if left blank)"
+msgstr "(Utilizado no modo shorturl e gerado automaticamente se em branco)"
+
+#: pntemplates/content_edit_newpage.html:37
+msgid "Please select a specific layout for your page"
+msgstr "Seleccione um layout específico para a sua página"
+
+#: pntemplates/content_edit_newpage.html:39
+#: pntemplates/content_edit_editpage.html:160
+#: pntemplates/content_edit_editpage.html:162
+msgid "Page layout"
+msgstr "Layout da página"
+
+#: pntemplates/content_edit_newpage.html:43
+#: pntemplates/content_edit_editpage.html:166
+msgid "Layout preview and description"
+msgstr "Pré-visualização do layout e descrição"
+
+#: pntemplates/content_edit_newpage.html:54
+#: pntemplates/content_edit_newcontent.html:19
+msgid "Create"
+msgstr "Criar"
+
+#: pntemplates/content_edit_newpage.html:55
+#: pntemplates/content_edit_editpage.html:188
+#: pntemplates/content_edit_translatepage.html:31
+#: pntemplates/content_admin_settings.html:171
+#: pntemplates/content_edit_editcontent.html:54
+#: pntemplates/content_edit_translatecontent.html:26
+#: pntemplates/content_edit_newcontent.html:20
+#: pntemplates/content_edit_clonepage.html:30
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: pntemplates/content_block_mostviewed_modify.html:2
+#: pntemplates/content_block_menu_modify.html:2
+msgid "Include the following subpages"
+msgstr "Incluir as seguintes subpáginas"
+
+#: pntemplates/content_block_mostviewed_modify.html:13
+#: pntemplates/content_block_menu_modify.html:13
+msgid "Use caching in the menu block"
+msgstr "Usar cache no bloco menu"
+
+#: pntemplates/content_block_mostviewed_modify.html:17
+msgid "Also show pages which don't appear in menu"
+msgstr "Também mostra as páginas que não aparecem no menu"
+
+#: pntemplates/content_block_mostviewed_modify.html:21
+msgid "Number of pages"
+msgstr "Número de páginas"
+
+#: pntemplates/content_edit_editpage.html:30
+#: pntemplates/content_include_tocedit.html:28
+msgid "Edit"
+msgstr "Editar"
+
+#: pntemplates/content_edit_editpage.html:32
+msgid "Clone content"
+msgstr "Clonar conteúdo"
+
+#: pntemplates/content_edit_editpage.html:33
+msgid "Add new content above"
+msgstr "Adicionar novo conteúdo acima"
+
+#: pntemplates/content_edit_editpage.html:34
+msgid "Add new content below"
+msgstr "Adicionar novo conteúdo abaixo"
+
+#: pntemplates/content_edit_editpage.html:36
+#: pntemplates/content_edit_editpage.html:180
+#: pntemplates/content_edit_translatepage.html:30
+#: pntemplates/content_include_tocedit.html:39
+#: pntemplates/content_edit_editcontent.html:50
+#: pntemplates/content_edit_translatecontent.html:25
+msgid "Delete"
+msgstr "Eliminar"
+
+#: pntemplates/content_edit_editpage.html:53
+#: pntemplates/content_include_tocedit.html:40
+msgid "History"
+msgstr "Histórico"
+
+#: pntemplates/content_edit_editpage.html:57
+#: pntemplates/content_edit_editcontent.html:12
+#: pntemplates/content_search_options.html:3
+msgid "Content"
+msgstr "Conteúdo"
+
+#: pntemplates/content_edit_editpage.html:58
+msgid ""
+"Here you manage the content of this page. You can add/edit/delete content as "
+"well as drag the content boxes around to get the layout right. Click on the "
+"icon next to the title for the options of that content item."
+msgstr ""
+"Aqui gerir o conteúdo desta página. Pode adicionar/editar/excluir conteúdos, "
+"bem como arrastar as caixas de conteúdos em torno para obter o layout "
+"correcto. Clique no ícone ao lado do título para as opções desse item de "
+"conteúdo."
+
+#: pntemplates/content_edit_editpage.html:62
+msgid "Options"
+msgstr "Opções"
+
+#: pntemplates/content_edit_editpage.html:64
+msgid "Page settings"
+msgstr "Definições de página"
+
+#: pntemplates/content_edit_editpage.html:75
+msgid "Page language"
+msgstr "Idioma da página"
+
+#: pntemplates/content_edit_editpage.html:79
+msgid "Include page in menu"
+msgstr "Incluir página no menu"
+
+#: pntemplates/content_edit_editpage.html:81
+msgid ""
+"You can include/exclude the page in the menu. The page is only shown when it "
+"is also Online."
+msgstr ""
+"Pode incluir ou excluir a página no menu. A página só é exibida quando "
+"também está Online."
+
+#: pntemplates/content_edit_editpage.html:84
+msgid "Do not display hooks on page"
+msgstr "Não exibir hooks na página"
+
+#: pntemplates/content_edit_editpage.html:84
+msgid "Just hide all the hooks on this page, it does not replace policies."
+msgstr "Esconda todos os hooks nesta página, não substitui políticas."
+
+#: pntemplates/content_edit_editpage.html:92
+msgid "Page state"
+msgstr "Estado da página"
+
+#: pntemplates/content_edit_editpage.html:94
+#: pntemplates/content_include_tocedit.html:89
+#: pntemplates/content_include_tocedit.html:90
+#: pntemplates/content_include_tocedit.html:124
+#: pntemplates/content_admin_settings.html:87
+#: pntemplates/content_admin_settings.html:112
+#: pntemplates/content_admin_settings.html:138
+#: pntemplates/content_admin_settings.html:151
+#: pntemplates/content_edit_editcontent.html:17
+msgid "Active"
+msgstr "Activo"
+
+#: pntemplates/content_edit_editpage.html:96
+msgid ""
+"You can set the page active/inactive as well as supply a publication date "
+"interval. A page is only online if it is active and within the publication "
+"interval."
+msgstr ""
+"Pode configurar a página de activos/inactivos, bem como fornecer um "
+"intervalo de data de publicação. Uma página é só online se ela estiver "
+"activa e dentro do intervalo de publicação."
+
+#: pntemplates/content_edit_editpage.html:99
+msgid "Start date"
+msgstr "Data de início"
+
+#: pntemplates/content_edit_editpage.html:103
+msgid "End date"
+msgstr "Data de fim"
+
+#: pntemplates/content_edit_editpage.html:107
+msgid "Created"
+msgstr "Criado"
+
+#: pntemplates/content_edit_editpage.html:109
+#: pntemplates/content_edit_editpage.html:113
+#: pntemplates/content_include_tocedit.html:108
+#, php-format
+msgid "on %1$s by %2$s"
+msgstr "em %1$s por %2$s"
+
+#: pntemplates/content_edit_editpage.html:112
+msgid "Updated"
+msgstr "Actualizado"
+
+#: pntemplates/content_edit_editpage.html:125
+#: pntemplates/content_edit_editpage.html:127
+msgid "Category"
+msgstr "Categoria"
+
+#: pntemplates/content_edit_editpage.html:133
+msgid "Categories"
+msgstr "Categorias"
+
+#: pntemplates/content_edit_editpage.html:135
+msgid "Primary category"
+msgstr "Categoria primária"
+
+#: pntemplates/content_edit_editpage.html:142
+msgid "Secondary category"
+msgstr "Categoria secundária"
+
+#: pntemplates/content_edit_editpage.html:147
+msgid "Secondary categories"
+msgstr "Categorias secundárias"
+
+#: pntemplates/content_edit_editpage.html:158
+#: pntemplates/content_edit_editcontent.html:27
+#: pntemplates/content_edit_editcontent.html:29
+msgid "Layout"
+msgstr "Layout"
+
+#: pntemplates/content_edit_editpage.html:179
+#: pntemplates/content_edit_translatepage.html:29
+#: pntemplates/content_admin_settings.html:170
+#: pntemplates/content_edit_editcontent.html:49
+#: pntemplates/content_edit_translatecontent.html:24
+msgid "Save"
+msgstr "Guardar"
+
+#: pntemplates/content_edit_editpage.html:183
+msgid "Save & View"
+msgstr "Guardar e Ver"
+
+#: pntemplates/content_include_pageinfo.html:13
+msgid "Edit-mode off"
+msgstr "Modo de edição desligado"
+
+#: pntemplates/content_include_pageinfo.html:15
+msgid "Edit-mode on"
+msgstr "Modo de edição ligado"
+
+#: pntemplates/content_include_pageinfo.html:22
+#: pntemplates/content_include_tocedit.html:34
+msgid "New sub-page"
+msgstr "Nova sub-página"
+
+#: pntemplates/content_include_pageinfo.html:28
+#, php-format
+msgid "Created by %1$s on %2$s"
+msgstr "Criado por %1$s em %2$s"
+
+#: pntemplates/content_include_pageinfo.html:29
+#, php-format
+msgid "Last updated by %1$s on %2$s"
+msgstr "Última actualização por %1$s em %2$s"
+
+#: pntemplates/content_include_pageinfo.html:30
+msgid "Version"
+msgstr "Versão"
+
+#: pntemplates/content_include_pageinfo.html:31
+#: pntemplates/content_include_tocedit.html:59
+msgid "Language"
+msgstr "Idioma"
+
+#: pntemplates/content_user_list.html:11
+#: pntemplates/content_user_extlist.html:16
+#: pntemplates/content_user_pagelist.html:12
+#: pntemplates/content_user_main.htm:18
+msgid "There are no pages to display."
+msgstr "Não existem páginas para exibir."
+
+#: pntemplates/content_edit_translatepage.html:3
+msgid ""
+"You can only translate the actual page data here. The content items must be "
+"translated one by one."
+msgstr ""
+"Só pode traduzir os dados da página aqui. Os itens de conteúdo devem ser "
+"traduzido, um por um."
+
+#: pntemplates/content_edit_translatepage.html:11
+#: pntemplates/content_edit_translatecontent.html:9
+msgid "Original content"
+msgstr "Conteúdo original"
+
+#: pntemplates/content_edit_translatepage.html:19
+#: pntemplates/content_edit_translatecontent.html:16
+msgid "Translated content"
+msgstr "Conteúdo traduzido"
+
+#: pntemplates/content_edit_translatepage.html:27
+#: pntemplates/content_edit_translatecontent.html:22
+msgid "Next"
+msgstr "Próximo"
+
+#: pntemplates/content_edit_translatepage.html:28
+#: pntemplates/content_edit_translatecontent.html:23
+msgid "Skip"
+msgstr "Saltar"
+
+#: pntemplates/content_edit_translatepage.html:30
+msgid "Delete page translation AND all content translations"
+msgstr "Eliminar página de tradução E todas as traduções de conteúdos"
+
+#: pntemplates/content_admin_main.html:1
+msgid "Module administration"
+msgstr "Administração do módulo"
+
+#: pntemplates/content_admin_main.html:14
+msgid ""
+"Welcome to your content administration. We have split the editing and "
+"administrative setup into separate systems. So please select from the list "
+"below or the menu above."
+msgstr ""
+"Bem-vindo à administração de conteúdos. Dividimos a edição e configuração "
+"administrativa em sistemas separados. Então, seleccione a partir da lista "
+"abaixo ou do menu acima."
+
+#: pntemplates/content_admin_main.html:22
+msgid "Extended page list (showing page headers)"
+msgstr "Lista alargada de páginas (mostrando cabeçalhos de página)"
+
+#: pntemplates/content_admin_main.html:23
+msgid "Complete page list (showing complete pages)"
+msgstr "Lista completa de páginas (mostrando cabeçalhos de página)"
+
+#: pntemplates/content_admin_main.html:24
+msgid "Show content by category"
+msgstr "Mostrar conteúdos por categorias"
+
+#: pntemplates/content_include_tocedit.html:33
+msgid "New page"
+msgstr "Nova página"
+
+#: pntemplates/content_include_tocedit.html:36
+msgid "Decrease indent"
+msgstr "Diminuir indentação"
+
+#: pntemplates/content_include_tocedit.html:37
+msgid "Increase indent"
+msgstr "Aumentar indentação"
+
+#: pntemplates/content_include_tocedit.html:42
+#: pntemplates/content_include_tocedit.html:130
+msgid "Expand All"
+msgstr "Expandir tudo"
+
+#: pntemplates/content_include_tocedit.html:43
+#: pntemplates/content_include_tocedit.html:130
+msgid "Collapse All"
+msgstr "Colapsar tudo"
+
+#: pntemplates/content_include_tocedit.html:46
+msgid "Click to activate this page"
+msgstr "Clicar para activar esta página"
+
+#: pntemplates/content_include_tocedit.html:47
+msgid "Click to deactivate this page"
+msgstr "Clicar para desactivar esta página"
+
+#: pntemplates/content_include_tocedit.html:48
+msgid "Click to put this page in the menu"
+msgstr "Clique para colocar esta página no menu"
+
+#: pntemplates/content_include_tocedit.html:49
+msgid "Click to pull this page from the menu"
+msgstr "Clique para tirar esta página no menu"
+
+#: pntemplates/content_include_tocedit.html:55
+msgid "Page title [id]"
+msgstr "Título da página [id]"
+
+#: pntemplates/content_include_tocedit.html:56
+msgid "Status"
+msgstr "Estado"
+
+#: pntemplates/content_include_tocedit.html:57
+msgid "Menu"
+msgstr "Menu"
+
+#: pntemplates/content_include_tocedit.html:58
+msgid "Last updated (revision)"
+msgstr "Última actualização (revisão)"
+
+#: pntemplates/content_include_tocedit.html:58
+msgid "Last updated"
+msgstr "Última actualização"
+
+#: pntemplates/content_include_tocedit.html:70
+msgid "Click to hide sub-pages"
+msgstr "Clique para esconder sub-páginas"
+
+#: pntemplates/content_include_tocedit.html:72
+msgid "Click to show sub-pages"
+msgstr "Clique para exibir sub-páginas"
+
+#: pntemplates/content_include_tocedit.html:79
+msgid "Page dragable"
+msgstr "Página arrastável"
+
+#: pntemplates/content_include_tocedit.html:93
+#: pntemplates/content_include_tocedit.html:94
+#: pntemplates/content_include_tocedit.html:125
+#: pntemplates/content_admin_settings.html:107
+#: pntemplates/content_admin_settings.html:109
+#: pntemplates/content_admin_settings.html:132
+#: pntemplates/content_admin_settings.html:135
+#: pntemplates/content_admin_settings.html:153
+msgid "Inactive"
+msgstr "Inactivo"
+
+#: pntemplates/content_include_tocedit.html:100
+#: pntemplates/content_include_tocedit.html:101
+#: pntemplates/content_include_tocedit.html:126
+msgid "In"
+msgstr "Dentro"
+
+#: pntemplates/content_include_tocedit.html:104
+#: pntemplates/content_include_tocedit.html:105
+#: pntemplates/content_include_tocedit.html:127
+msgid "Out"
+msgstr "Fora"
+
+#: pntemplates/content_include_tocedit.html:114
+#, php-format
+msgid "%1$s (%2$s original)"
+msgstr "%1$s (%2$s original)"
+
+#: pntemplates/content_include_tocedit.html:114
+#, php-format
+msgid "%s original used"
+msgstr "%s original usado"
+
+#: pntemplates/content_include_tocedit.html:117
+msgid "No pages available."
+msgstr "Nenhuma página disponível."
+
+#: pntemplates/content_user_extlist.html:1
+msgid "Extended page list"
+msgstr "Lista alargada de páginas"
+
+#: pntemplates/content_user_extlist.html:12
+msgid "more"
+msgstr "mais"
+
+#: pntemplates/content_user_pagelist.html:1
+msgid "Complete page list"
+msgstr "Lista completa de páginas"
+
+#: pntemplates/content_user_pagelist.html:8
+msgid "View full page"
+msgstr "Ver página completa"
+
+#: pntemplates/content_admin_settings.html:1
+msgid "Module settings"
+msgstr "Configurações do módulo"
+
+#: pntemplates/content_admin_settings.html:14
+msgid "This is where you configure various parts of the content module."
+msgstr "Aqui pode configurar várias partes do módulo dos conteúdos."
+
+#: pntemplates/content_admin_settings.html:26
+msgid "Short URL suffix"
+msgstr "Sufixo da URL curta"
+
+#: pntemplates/content_admin_settings.html:28
+msgid ""
+"File suffix of short URLs (including a dot - for instance \".html\"). This "
+"is only used if you enable short URLs in Zikula's admin section."
+msgstr ""
+"Sufixo do ficheiro de URLs curtas (incluindo um ponto - por exemplo "
+"\".html\"). Isto apenas é utilizado se activar URLs curtas na secção de "
+"administração do Zikula."
+
+#: pntemplates/content_admin_settings.html:31
+msgid "State of new pages"
+msgstr "Estado de novas páginas"
+
+#: pntemplates/content_admin_settings.html:35
+msgid "Count page views"
+msgstr "Contar visitas"
+
+#: pntemplates/content_admin_settings.html:39
+msgid "Google maps API key"
+msgstr "Chave API do Google Maps"
+
+#: pntemplates/content_admin_settings.html:41
+msgid ""
+"A Google Maps API key is no longer needed for including maps with the "
+"Javascript API v3. More information at <a href=\"http://code.google.com/apis/"
+"maps/documentation/javascript/basics.html\">Google</a>."
+msgstr ""
+"A chave API do Google Maps não é mais necessária para incluir mapas com "
+"Javascript API v3. Mais informação em <a href=\"http://code.google.com/apis/m"
+"aps/documentation/javascript/basics.html\">Google</a>."
+
+#: pntemplates/content_admin_settings.html:44
+msgid "Flickr API key"
+msgstr "Chave API do Flickr"
+
+#: pntemplates/content_admin_settings.html:49
+msgid "Enable the unfiltered raw text plugin"
+msgstr "Activar o plugin de texto não filtrado"
+
+#: pntemplates/content_admin_settings.html:51
+msgid ""
+"Use this plugin with caution and if you can trust your editors, since no "
+"filtering is being done on the content. To be used for iframes, JavaScript "
+"blocks, etc."
+msgstr ""
+"Utilize este plugin com cuidado e se confiar nos seus editores, já que "
+"nenhuma filtragem está sendo feito no conteúdo. Para ser usado para iframes, "
+"JavaScript blocos, etc"
+
+#: pntemplates/content_admin_settings.html:54
+#: pntemplates/content_edit_editcontent.html:40
+msgid "Styling"
+msgstr "Estilo"
+
+#: pntemplates/content_admin_settings.html:56
+msgid ""
+"A list of CSS class names available for styling of content elements. The end "
+"user can select one class for each element on a page - for instance \"note\" "
+"for an element styled as a note. Write one class name on each line. Please "
+"separate the CSS classes and displaynames with | - eg. \"note | Memo\"."
+msgstr ""
+"Uma lista de nomes de classes CSS disponíveis para definir o estilo de "
+"elementos de conteúdo. O utilizador final pode escolher uma classe para cada "
+"elemento numa página - por exemplo \"note\" para um elemento definido como "
+"uma nota. Escreva um nome da classe em cada linha. Separe as classes CSS e "
+"displaynames com | - eg. \"note | Memo\"."
+
+#: pntemplates/content_admin_settings.html:59
+msgid "Enable version history"
+msgstr "Activar o histórico da versão"
+
+#: pntemplates/content_admin_settings.html:63
+msgid "Category usage"
+msgstr "Uso de categoria"
+
+#: pntemplates/content_admin_settings.html:68
+msgid "Category Property for the first category selection"
+msgstr "Categoria Propriedade para a selecção de primeira categoria"
+
+#: pntemplates/content_admin_settings.html:70
+#, php-format
+msgid ""
+"(In the <a href=\"%s\">category registry</a> you can set the property to use "
+"for the first category)"
+msgstr ""
+"(No <a href=\"%s\">registo de categoria</a> pode definir a propriedade a usar "
+"para a primeira categoria)"
+
+#: pntemplates/content_admin_settings.html:73
+msgid "Category Property for the second category selection"
+msgstr "Categoria Propriedade para a selecção de segunda categoria"
+
+#: pntemplates/content_admin_settings.html:75
+#, php-format
+msgid ""
+"(In the <a href=\"%s\">category registry</a> you can set the property to use "
+"for the second category if being used)"
+msgstr ""
+"(No <a href=\"%s\">registo de categoria</a> pode definir a propriedade a usar "
+"para a segunda categoria se estiver a ser utilizada)"
+
+#: pntemplates/content_admin_settings.html:80
+msgid "Module Dependencies"
+msgstr "Módulo Dependencies"
+
+#: pntemplates/content_admin_settings.html:81
+msgid ""
+"Content includes an API that other modules can use to provide their content. "
+"Moreover some modules introduce extra functions to plugins delivered with "
+"Content."
+msgstr ""
+"O conteúdo inclui uma API que outros módulos podem utilizar para fornecer o "
+"seu conteúdo. Além disso, alguns módulos introduzem funções adicionais para "
+"plugins entregues com o conteúdo."
+
+#: pntemplates/content_admin_settings.html:86
+#: pntemplates/content_admin_settings.html:100
+#: pntemplates/content_admin_settings.html:125
+#: pntemplates/content_admin_settings.html:148
+msgid "Installed"
+msgstr "Instalado"
+
+#: pntemplates/content_admin_settings.html:88
+msgid "Module"
+msgstr "Módulo"
+
+#: pntemplates/content_admin_settings.html:89
+msgid "Plugin"
+msgstr "Plugin"
+
+#: pntemplates/content_admin_settings.html:90
+#: pntemplates/contenttype/quote_edit.html:12
+#: pntemplates/contenttype/openstreetmap_translate_new.html:2
+#: pntemplates/contenttype/quote_translate_new.html:11
+#: pntemplates/contenttype/openstreetmap_translate_original.html:2
+msgid "Description"
+msgstr "Descrição"
+
+#: pntemplates/content_admin_settings.html:98
+#: pntemplates/content_admin_settings.html:123
+msgid "Not installed"
+msgstr "Não instalado"
+
+#: pntemplates/content_admin_settings.html:115
+msgid "Scribite"
+msgstr "Scribite"
+
+#: pntemplates/content_admin_settings.html:116
+msgid "WYSIWYG"
+msgstr "WYSIWYG"
+
+#: pntemplates/content_admin_settings.html:117
+msgid ""
+"Scribite integrated WYSIWYG JavaScript editors like Xinha, TinyMCE, "
+"FCKeditor, openWYSIWYG or NicEdit into Zikula.<br /><a href=\"http://code."
+"zikula.org/scribite\">Download</a>"
+msgstr ""
+"Scribite integrado em editores JavaScript WYSIWYG como Xinha, TinyMCE, "
+"FCKeditor, openWYSIWYG ou NicEdit para Zikula.<br /><a "
+"href=\"http://code.zikula.org/scribite\">Download</a>"
+
+#: pntemplates/content_admin_settings.html:141
+msgid "BBCode"
+msgstr "BBCode"
+
+#: pntemplates/content_admin_settings.html:142
+msgid "Buttons"
+msgstr "Botões"
+
+#: pntemplates/content_admin_settings.html:143
+msgid ""
+"BBCode is an abbreviation for Bulletin Board Code, the lightweight markup "
+"language used to format posts in many message boards. (<a href=\"http://en."
+"wikipedia.org/wiki/Bbcode\">Wikipedia</a>)<br /><a href=\"http://code.zikula."
+"org/bbcode\">Download</a>"
+msgstr ""
+"BBCode é uma abreviatura para Bulletin Board Code, utilizada para formatar "
+"posts em muitas mensagens de fóruns. (<a "
+"href=\"http://en.wikipedia.org/wiki/Bbcode\">Wikipedia</a>)<br /><a "
+"href=\"http://code.zikula.org/bbcode\">Download</a>"
+
+#: pntemplates/content_edit_main.html:10
+msgid "Restore pages"
+msgstr "Restaurar páginas"
+
+#: pntemplates/content_edit_main.html:19
+msgid ""
+"This is where you manage all your pages. You can add/edit/delete/translate "
+"pages (depending on permission rights) as well as drag them around to get "
+"the content structure right."
+msgstr ""
+"Aqui pode gerir todas as suas páginas. Pode adicionar/editar/apagar/traduzir "
+"páginas (dependendo das permissões), bem como arrastá-las ao redor para "
+"obter a estrutura correcta do conteúdo."
+
+#: pntemplates/content_edit_main.html:24
+msgid ""
+"Click on the arrow right of a page title for the options of that page. To "
+"drag and drop a page you must select the folder icon left of the title and "
+"drop it on the title of another page. A page with sub-pages can be expanded "
+"or contracted by clicking on the plus or minus left of the page title. To "
+"activate/deactive pages or make pages (not) available in the menu click on "
+"the led icons."
+msgstr ""
+"Clique na seta à direita de um título de página para as opções dessa página. "
+"Para arrastar e soltar uma página deve seleccionar o ícone de pasta à "
+"esquerda do título e solte-o no título de uma outra página. Uma página com "
+"sub-páginas podem ser expandidos ou contraídos clicando no mais ou menos que "
+"se encontra à esquerda do título da página. Para activar/desactivar páginas "
+"ou fazer páginas (não) disponíveis no menu clique no ícone aceso."
+
+#: pntemplates/contenttype/block_edit.html:4
+msgid "Please enter the Block-ID"
+msgstr "Indique o ID do Bloco"
+
+#: pntemplates/contenttype/camtasia_view.html:16
+#, php-format
+msgid "by %s"
+msgstr "por %s"
+
+#: pntemplates/contenttype/camtasia_view.html:29
+#: pntemplates/contenttype/vimeo_view.html:22
+#: pntemplates/contenttype/youtube_view.html:22
+msgid "Play Video"
+msgstr "Play Video"
+
+#: pntemplates/contenttype/googlemap_translate_original.html:2
+#: pntemplates/contenttype/openstreetmap_edit.html:109
+#: pntemplates/contenttype/googlemap_edit.html:92
+#: pntemplates/contenttype/googlemap_translate_new.html:2
+msgid "Description to be shown below the map"
+msgstr "Descrição que deve ser exibida abaixo do mapa"
+
+#: pntemplates/contenttype/googlemap_translate_original.html:6
+#: pntemplates/contenttype/googlemap_edit.html:97
+#: pntemplates/contenttype/googlemap_translate_new.html:7
+msgid "Text to be shown in the popup window of the marker"
+msgstr "Texto a ser exibido na janela popup do marcador"
+
+#: pntemplates/contenttype/directory_edit.html:2
+msgid "Page"
+msgstr "Página"
+
+#: pntemplates/contenttype/directory_edit.html:7
+msgid "Include self"
+msgstr "Incluir a própria"
+
+#: pntemplates/contenttype/directory_edit.html:9
+msgid "if page isn't 'All pages'"
+msgstr "se página não for 'Todas as páginas'"
+
+#: pntemplates/contenttype/directory_edit.html:13
+msgid "Include subpages that are not in the menus"
+msgstr "Incluir subpáginas que não estão nos menus"
+
+#: pntemplates/contenttype/directory_edit.html:18
+msgid "Include headings"
+msgstr "Incluir cabeçalhos"
+
+#: pntemplates/contenttype/directory_edit.html:23
+msgid "Include headings up to level"
+msgstr "Incluir cabeçalhos até ao nível"
+
+#: pntemplates/contenttype/directory_edit.html:25
+msgid ""
+"if headings are included and not unlimited; select 0 to include menu only "
+"for the selected page"
+msgstr ""
+"se cabeçalhos estão incluídos e não ilimitados; seleccione 0 para incluir "
+"menu apenas para a página seleccionada"
+
+#: pntemplates/contenttype/directory_edit.html:29
+msgid "Include subpages"
+msgstr "Incluir subpáginas"
+
+#: pntemplates/contenttype/directory_edit.html:34
+msgid "Include subpages into table up to level"
+msgstr "Incluir subpáginas na tabela até ao nível"
+
+#: pntemplates/contenttype/directory_edit.html:36
+msgid "if subpages are included and not unlimited"
+msgstr "se subpáginas estão incluídas e não ilimitados"
+
+#: pntemplates/contenttype/heading_edit.html:9
+msgid "Header size"
+msgstr "Tamanho do cabeçalho"
+
+#: pntemplates/contenttype/quote_edit.html:2
+#: pntemplates/contenttype/html_edit.html:3
+#: pntemplates/contenttype/html_translate_new.html:2
+msgid "Text"
+msgstr "Texto"
+
+#: pntemplates/contenttype/quote_edit.html:7
+#: pntemplates/contenttype/quote_translate_new.html:6
+msgid "Source"
+msgstr "Fonte"
+
+#: pntemplates/contenttype/rss_edit.html:3
+msgid "URL of RSS feed (include http://)"
+msgstr "URL de feed RSS (incluir http://)"
+
+#: pntemplates/contenttype/rss_edit.html:8
+msgid "Include feed text in addition to the title"
+msgstr "Incluir o texto feed, além do título"
+
+#: pntemplates/contenttype/rss_edit.html:13
+msgid "Refresh time (in minutes)"
+msgstr "Tempo de refrescamento (em minutos)"
+
+#: pntemplates/contenttype/rss_edit.html:18
+msgid "Max. no. of items to display"
+msgstr "N.º máximo de itens a exibir"
+
+#: pntemplates/contenttype/joinposition_edit.html:5
+msgid "both"
+msgstr "ambos(as)"
+
+#: pntemplates/contenttype/joinposition_edit.html:7
+msgid "left"
+msgstr "esquerda"
+
+#: pntemplates/contenttype/joinposition_edit.html:9
+msgid "right"
+msgstr "direita"
+
+#: pntemplates/contenttype/vimeo_translate_new.html:2
+#: pntemplates/contenttype/camtasia_translate_new.html:2
+#: pntemplates/contenttype/youtube_edit.html:19
+#: pntemplates/contenttype/vimeo_edit.html:19
+#: pntemplates/contenttype/youtube_translate_new.html:2
+#: pntemplates/contenttype/youtube_translate_original.html:7
+#: pntemplates/contenttype/camtasia_translate_original.html:7
+#: pntemplates/contenttype/vimeo_translate_original.html:7
+#: pntemplates/contenttype/camtasia_edit.html:29
+msgid "Video description"
+msgstr "Descrição de vídeo"
+
+#: pntemplates/contenttype/openstreetmap_edit.html:82
+#: pntemplates/contenttype/googlemap_edit.html:55
+msgid ""
+"Select a geographical position either by clicking on the map or writing the "
+"position (latitude and longitude) directly. You can drag the map with your "
+"mouse, and double-click to zoom and select position."
+msgstr ""
+"Seleccione uma posição geográfica, quer clicando no mapa ou escrevendo a "
+"posição (latitude e longitude) directamente. Pode arrastar o mapa com o rato "
+"e clique duas vezes para aplicar zoom e seleccione a posição."
+
+#: pntemplates/contenttype/openstreetmap_edit.html:85
+#: pntemplates/contenttype/googlemap_edit.html:58
+msgid "Latitude"
+msgstr "Latitude"
+
+#: pntemplates/contenttype/openstreetmap_edit.html:87
+#: pntemplates/contenttype/openstreetmap_edit.html:93
+#: pntemplates/contenttype/googlemap_edit.html:60
+#: pntemplates/contenttype/googlemap_edit.html:66
+msgid ""
+"(a comma-separated numeral that has a precision to 6 decimal places. For "
+"example, 40.714728)"
+msgstr ""
+"(um numeral separado por vírgula, que tem uma precisão de 6 casas decimais. "
+"Por exemplo, 40.714728)"
+
+#: pntemplates/contenttype/openstreetmap_edit.html:91
+#: pntemplates/contenttype/googlemap_edit.html:64
+msgid "Longitude"
+msgstr "Longitude"
+
+#: pntemplates/contenttype/openstreetmap_edit.html:97
+#: pntemplates/contenttype/googlemap_edit.html:70
+msgid "Zoom level"
+msgstr "Nível de zoom"
+
+#: pntemplates/contenttype/openstreetmap_edit.html:99
+#: pntemplates/contenttype/googlemap_edit.html:72
+msgid "(from 0 for the entire world to 21 for individual buildings)"
+msgstr "(de 0 para o mundo inteiro a 21 para edifícios individuais)"
+
+#: pntemplates/contenttype/openstreetmap_edit.html:103
+#: pntemplates/contenttype/googlemap_edit.html:76
+msgid "Height of the displayed map in pixels"
+msgstr "Altura do mapa exibido em pixeis"
+
+#: pntemplates/contenttype/openstreetmap_edit.html:105
+#: pntemplates/contenttype/googlemap_edit.html:78
+msgid "(below 350 pixels the navigation controls will be small)"
+msgstr "(abaixo de 350 pixeis os controles de navegação serão pequenos)"
+
+#: pntemplates/contenttype/unfiltered_translate_original.html:2
+#: pntemplates/contenttype/unfiltered_edit.html:3
+#: pntemplates/contenttype/unfiltered_translate_new.html:2
+msgid "Unfiltered text"
+msgstr "Texto não filtrado"
+
+#: pntemplates/contenttype/unfiltered_translate_original.html:7
+#: pntemplates/contenttype/unfiltered_edit.html:22
+#: pntemplates/contenttype/unfiltered_translate_new.html:7
+msgid "iframe name parameter"
+msgstr "parâmetro de nome de iframe"
+
+#: pntemplates/contenttype/unfiltered_translate_original.html:12
+#: pntemplates/contenttype/unfiltered_edit.html:27
+#: pntemplates/contenttype/unfiltered_translate_new.html:12
+msgid "iframe title parameter"
+msgstr "parâmetro de título de iframe"
+
+#: pntemplates/contenttype/html_edit.html:13
+msgid "HTML"
+msgstr "HTML"
+
+#: pntemplates/contenttype/html_edit.html:16
+msgid "Formatted text"
+msgstr "Texto formatado"
+
+#: pntemplates/contenttype/html_edit.html:18
+msgid "Unformatted text"
+msgstr "Texto não formatado"
+
+#: pntemplates/contenttype/youtube_edit.html:3
+#: pntemplates/contenttype/vimeo_edit.html:3
+#: pntemplates/contenttype/youtube_translate_original.html:2
+#: pntemplates/contenttype/vimeo_translate_original.html:2
+msgid "URL to the video clip"
+msgstr "URL para o vídeo clip"
+
+#: pntemplates/contenttype/youtube_edit.html:5
+msgid ""
+"Something like \"http://www.youtube.com/watch?v=ABcDEFgHij&feature=dir\"."
+msgstr "Algo como \"http://www.youtube.com/watch?v=ABcDEFgHij&feature=dir\"."
+
+#: pntemplates/contenttype/youtube_edit.html:9
+#: pntemplates/contenttype/vimeo_edit.html:9
+#: pntemplates/contenttype/camtasia_edit.html:9
+msgid "Video display width [in pixels]"
+msgstr "Largura de exibição de vídeo [em pixeis]"
+
+#: pntemplates/contenttype/youtube_edit.html:14
+#: pntemplates/contenttype/vimeo_edit.html:14
+#: pntemplates/contenttype/camtasia_edit.html:14
+msgid "Video display height [in pixels]"
+msgstr "Altura de exibição de vídeo [em pixeis] "
+
+#: pntemplates/contenttype/youtube_edit.html:26
+#: pntemplates/contenttype/vimeo_edit.html:26
+#: pntemplates/contenttype/camtasia_edit.html:46
+msgid "Show video inline"
+msgstr "Mostrar vídeo inline"
+
+#: pntemplates/contenttype/youtube_edit.html:29
+#: pntemplates/contenttype/vimeo_edit.html:29
+#: pntemplates/contenttype/camtasia_edit.html:49
+msgid "Show video in popup window"
+msgstr "Mostrar vídeo em janela pop-up"
+
+#: pntemplates/contenttype/author_view.html:5
+msgid "By"
+msgstr "Por"
+
+#: pntemplates/contenttype/flickr_edit.html:4
+#, php-format
+msgid ""
+"No Flickr API key available! You must specify a Flickr API key to use this "
+"feature. You can get a key from %s."
+msgstr ""
+"Sem chave de API do Flickr disponível! Deve especificar uma chave de API do "
+"Flickr para usar este recurso. Pode obter uma chave a partir de %s."
+
+#: pntemplates/contenttype/flickr_edit.html:8
+msgid "Display photos from this user"
+msgstr "Exibir fotos deste utilizador"
+
+#: pntemplates/contenttype/flickr_edit.html:13
+msgid "Display photos tagged with these tags (comma separated)"
+msgstr "Exibir fotos marcadas com essas etiquetas (separadas por vírgulas)"
+
+#: pntemplates/contenttype/flickr_edit.html:18
+msgid "Number of photos to show"
+msgstr "Número de fotos para mostrar"
+
+#: pntemplates/contenttype/googlemap_edit.html:82
+msgid "Display the streetview control"
+msgstr "Exibir o controle streetview"
+
+#: pntemplates/contenttype/googlemap_edit.html:87
+msgid "Display a link to directions to this location in Google Maps "
+msgstr "Exibir um link para direcções para esse local no Google Maps "
+
+#: pntemplates/contenttype/googlemap_edit.html:99
+msgid ""
+"(can contain HTML markup. Leave this field empty for disabling the popup "
+"window.)"
+msgstr ""
+"(pode conter marcação HTML. Deixe este campo vazio para desactivar a janela "
+"pop-up)."
+
+#: pntemplates/contenttype/pagesetter_pub_edit.html:2
+#: pntemplates/contenttype/pagesetter_publist_edit.html:2
+msgid "Publication type"
+msgstr "Tipo de publicação"
+
+#: pntemplates/contenttype/pagesetter_pub_edit.html:7
+msgid "Publication PID"
+msgstr "PID da Publicação"
+
+#: pntemplates/contenttype/pagesetter_pub_edit.html:12
+msgid "Template format for displaying the publication"
+msgstr "Formato de template para exibir a publicação"
+
+#: pntemplates/contenttype/modulefunc_edit.html:2
+msgid ""
+"Use this feature carefully! Some modules do not work when displayed together "
+"with other modules. DO NOT create circular module references, e.g., adding a "
+"Content page that displays itself ..."
+msgstr ""
+"Utilize este recurso com cuidado! Alguns módulos não funcionam quando "
+"apresentados juntamente com outros módulos. NÃO criar referências circulares "
+"de módulos, por exemplo, adicionar uma página de conteúdo que exibe o "
+"próprio conteúdo ..."
+
+#: pntemplates/contenttype/modulefunc_edit.html:4
+msgid "Module name"
+msgstr "Nome do módulo"
+
+#: pntemplates/contenttype/modulefunc_edit.html:9
+msgid "Function type"
+msgstr "Tipo de função"
+
+#: pntemplates/contenttype/modulefunc_edit.html:14
+msgid "Function name"
+msgstr "Nome da função"
+
+#: pntemplates/contenttype/modulefunc_edit.html:19
+msgid "Function parameters"
+msgstr "Parâmetros da função"
+
+#: pntemplates/contenttype/modulefunc_edit.html:21
+msgid "Separate by commas, e.g., x=5,y=2"
+msgstr "Separado por vírgulas, e.g., x=5,y=2"
+
+#: pntemplates/contenttype/googlemap_view.html:9
+msgid "Get directions from start address"
+msgstr "Obter direcções a partir do endereço de início"
+
+#: pntemplates/contenttype/googlemap_view.html:11
+msgid "Show Directions"
+msgstr "Exibir Direcções"
+
+#: pntemplates/contenttype/googlemap_view.html:12
+msgid "Clear Directions"
+msgstr "Limpar Direcções"
+
+#: pntemplates/contenttype/googlemap_view.html:18
+msgid "Get directions to this location"
+msgstr "Obter direcções para este local"
+
+#: pntemplates/contenttype/vimeo_edit.html:5
+msgid "Something like \"http://vimeo.com/7504225\"."
+msgstr "Algo como \"http://vimeo.com/7504225\"."
+
+#: pntemplates/contenttype/unfiltered_edit.html:9
+msgid "Use an iframe instead of the textfield"
+msgstr "Use um iframe em vez do campo de texto"
+
+#: pntemplates/contenttype/unfiltered_edit.html:11
+msgid ""
+"If this setting is enabled the text field above will be ignored and iframe "
+"parameters will be used."
+msgstr ""
+"Se esta configuração estiver activada, o campo de texto acima será ignorado "
+"e os parâmetros iframe serão usados."
+
+#: pntemplates/contenttype/unfiltered_edit.html:16
+msgid "iframe src"
+msgstr "src da iframe"
+
+#: pntemplates/contenttype/unfiltered_edit.html:18
+msgid "the src parameter of the iframe"
+msgstr "o parâmetro src da iframe"
+
+#: pntemplates/contenttype/unfiltered_edit.html:32
+msgid "iframe Style"
+msgstr "estilo da iframe"
+
+#: pntemplates/contenttype/unfiltered_edit.html:34
+msgid "the style parameter of the iframe, e.g. \"border:0\""
+msgstr "o parâmetro estilo da iframe, por exemplo \"border:0\""
+
+#: pntemplates/contenttype/unfiltered_edit.html:38
+msgid "iframe Width [in pixels]"
+msgstr "Largura da iframe [em pixeis]"
+
+#: pntemplates/contenttype/unfiltered_edit.html:40
+msgid "the width parameter of the iframe, e.g. \"800\""
+msgstr "o parâmetro largura da iframe, por exemplo \"800\""
+
+#: pntemplates/contenttype/unfiltered_edit.html:44
+msgid "iframe Height [in pixels]"
+msgstr "Altura da iframe [em pixeis]"
+
+#: pntemplates/contenttype/unfiltered_edit.html:46
+msgid "the height parameter of the iframe, e.g. \"600\""
+msgstr "o parâmetro altura da iframe, por exemplo \"600\""
+
+#: pntemplates/contenttype/unfiltered_edit.html:50
+msgid "iframe frameborder"
+msgstr "frameborder da iframe"
+
+#: pntemplates/contenttype/unfiltered_edit.html:52
+msgid "the frameborder parameter of the iframe, e.g. \"0\""
+msgstr "o parâmetro frameborder da iframe, por exemplo \"0\""
+
+#: pntemplates/contenttype/unfiltered_edit.html:56
+msgid "iframe scrolling"
+msgstr "scrolling da iframe"
+
+#: pntemplates/contenttype/unfiltered_edit.html:58
+msgid "the scrolling parameter of the iframe, e.g. \"no\""
+msgstr "o parâmetro scrolling da iframe, por exemplo \"não\" "
+
+#: pntemplates/contenttype/unfiltered_edit.html:62
+msgid "Allow transparancy on the iframe"
+msgstr "Permitir transparência na iframe"
+
+#: pntemplates/contenttype/computercode_edit.html:3
+msgid "Computer code lines"
+msgstr "Linhas de código de computador"
+
+#: pntemplates/contenttype/computercode_edit.html:9
+msgid ""
+"If you register the module BBCode as a hook for Content then you can get "
+"your computer code better formatted."
+msgstr ""
+"Se registar o módulo BBCode como um hook para o conteúdo, então pode obter o "
+"seu código de computador melhor formatado."
+
+#: pntemplates/contenttype/pagesetter_publist_edit.html:7
+msgid "Number of publications (leave empty for default)"
+msgstr "Número de publicações (deixe em branco para o padrão)"
+
+#: pntemplates/contenttype/pagesetter_publist_edit.html:12
+msgid "First publication number to show (leave empty for first in list)"
+msgstr ""
+"Primeiro número da publicação para mostrar (deixar em branco para o primeiro "
+"da lista)"
+
+#: pntemplates/contenttype/pagesetter_publist_edit.html:17
+msgid ""
+"List filter as used in URL, separated by \"&\", but without \"filter=\" (e."
+"g. \"country:eq:DK\")"
+msgstr ""
+"Lista de filtro tal como utilizado na URL, separados por \"&\", mas sem "
+"\"filter=\" (e.g. \"country:eq:DK\")"
+
+#: pntemplates/contenttype/pagesetter_publist_edit.html:22
+msgid ""
+"Orderby clause as used in URL. Should be a comma separated list of field "
+"names without \"orderby=\" (e.g. \"core.lastUpdated:desc,title\")"
+msgstr ""
+"Ordenar por cláusula como utilizado na URL. Deve ser uma lista separada por "
+"vírgulas de nomes de domínio, sem \"orderby=\" (e.g. "
+"\"core.lastUpdated:desc,title\")"
+
+#: pntemplates/contenttype/pagesetter_publist_edit.html:27
+msgid "Template format for displaying list items"
+msgstr "Formato de template para exibir lista de itens"
+
+#: pntemplates/contenttype/camtasia_translate_original.html:2
+msgid "Path to the Shockwave-Flash video"
+msgstr "Caminho para vídeo Shockwave-Flash"
+
+#: pntemplates/contenttype/openstreetmap_view.html:7
+msgid "Show information on the map"
+msgstr "Exibir informações sobre o mapa"
+
+#: pntemplates/contenttype/openstreetmap_view.html:7
+msgid "Hide information on the map"
+msgstr "Ocultar informações sobre o mapa"
+
+#: pntemplates/contenttype/camtasia_edit.html:3
+msgid "Name of the Camtasia-Flash video"
+msgstr "Nome do vídeo Camtasia-Flash"
+
+#: pntemplates/contenttype/camtasia_edit.html:5
+msgid ""
+"You have to upload your camtasia project in the folder defined below "
+"<folder>/project/project.mp4 first. Here you have to give only the name of "
+"your project without path and file extension."
+msgstr ""
+"Tem que enviar seu projecto camtasia na pasta definida abaixo "
+"<folder>/project/project.mp4 primeiro. Aqui tem de dar apenas o nome do seu "
+"projecto sem caminho e estensão de ficheiro."
+
+#: pntemplates/contenttype/camtasia_edit.html:19
+msgid "Thumbnail display width in popup mode [in pixels]"
+msgstr "Largura da exibição de miniatura no modo pop-up [em pixeis]"
+
+#: pntemplates/contenttype/camtasia_edit.html:24
+msgid "Thumbnail display height in popup mode [in pixels]"
+msgstr "Altura da exibição de miniatura no modo pop-up [em pixeis]"
+
+#: pntemplates/contenttype/camtasia_edit.html:34
+msgid "Optional author of the video"
+msgstr "Autor opcional do vídeo"
+
+#: pntemplates/contenttype/camtasia_edit.html:39
+msgid "Folder where the files are uploaded"
+msgstr "Pasta onde os arquivos são carregados"
+
+#: pntemplates/contenttype/slideshare_edit.html:3
+msgid "Slideshare's Wordpress code"
+msgstr "Código Wordpress de Slideshare"
+
+#: pntemplates/contenttype/slideshare_edit.html:5
+msgid ""
+"Copy Slideshare's Wordpress embed code here (including square brackets and "
+"all). Click on Embed and Customize to show the wordpress embed code. It "
+"should look something like [slideshare id=145849&doc=prototype-jquery-going-"
+"from-one-to-the-other-1193346036472971-5]"
+msgstr ""
+"Copie o código embebido Slideshare's Wordpress aqui (incluindo parêntesis "
+"rectos e tudo). Clique em Embebido e Personalizar para exibir o código "
+"embebido. Deve ficar algo parecido [slideshare id=145849&doc=prototype-"
+"jquery-going-from-one-to-the-other-1193346036472971-5]"
+
+#: pntemplates/contenttype/slideshare_edit.html:9
+msgid "Slide description"
+msgstr "Deslizar descrição"
+
+#: pntemplates/contenttype/slideshare_edit.html:14
+msgid "Slideshare's embedded player width"
+msgstr "Largura do player embebido do Slideshare"
+
+#: pntemplates/contenttype/slideshare_edit.html:19
+msgid "Slideshare's embedded player height"
+msgstr "Altura do player embebido do Slideshare"
+
+#: pntemplates/contenttype/author_edit.html:10
+msgid "Author"
+msgstr "Autor"
+
+#: pntemplates/content_edit_editcontent.html:14
+msgid "ID"
+msgstr "ID"
+
+#: pntemplates/content_edit_editcontent.html:21
+msgid "Visible for"
+msgstr "Visível para"
+
+#: pntemplates/content_edit_editcontent.html:30
+msgid "Positioning works only with fixed width!"
+msgstr "O posicionamento só funciona com largura fixa!"
+
+#: pntemplates/content_edit_editcontent.html:32
+msgid "Position"
+msgstr "Posição"
+
+#: pntemplates/content_edit_editcontent.html:36
+msgid "Width"
+msgstr "Largura"
+
+#: pntemplates/content_edit_translatecontent.html:21
+msgid "Previous"
+msgstr "Anterior"
+
+#: pntemplates/content_edit_translatecontent.html:30
+msgid "Error! There is nothing to translate for this content type."
+msgstr "Erro! Não há nada para traduzir para este tipo de conteúdo."
+
+#: pntemplates/content_edit_translatecontent.html:33
+msgid "Back"
+msgstr "Voltar"
+
+#: pntemplates/content_user_main.htm:1
+msgid "Contents"
+msgstr "Conteúdos"
+
+#: pntemplates/content_user_main.htm:4
+#, php-format
+msgid "Welcome to the contents for %s"
+msgstr "Bem-vindo aos conteúdos para %s"
+
+#: pntemplates/content_user_main.htm:7
+msgid "The available sections are as follows:"
+msgstr "As secções disponíveis são as seguintes:"
+
+#: pntemplates/content_edit_newcontent.html:11
+msgid "Please select the type of content you want to add to your page."
+msgstr "Seleccione o tipo de conteúdo que deseja adicionar à sua página."
+
+#: pntemplates/content_edit_newcontent.html:14
+msgid "Select content type"
+msgstr "Escolha o tipo de conteúdo"
+
+#: pntemplates/content_edit_deletedpages.html:10
+#: pntemplates/content_edit_history.html:12
+msgid ""
+"Version history is currently disabled and no new entries will be recorded."
+msgstr ""
+"O histórico de versões está desactivado e nenhuma nova entrada será "
+"registada."
+
+#: pntemplates/content_edit_deletedpages.html:18
+#: pntemplates/content_edit_history.html:21
+msgid "Date"
+msgstr "Data"
+
+#: pntemplates/content_edit_deletedpages.html:19
+#: pntemplates/content_edit_history.html:23
+msgid "User"
+msgstr "Utilizador"
+
+#: pntemplates/content_edit_deletedpages.html:20
+#: pntemplates/content_edit_history.html:24
+msgid "IP.No."
+msgstr "IP.No."
+
+#: pntemplates/content_edit_deletedpages.html:21
+#: pntemplates/content_edit_history.html:25
+msgid "Action"
+msgstr "Acção"
+
+#: pntemplates/content_edit_deletedpages.html:30
+#: pntemplates/content_edit_history.html:36
+msgid "Restore"
+msgstr "Restaurar"
+
+#: pntemplates/content_edit_deletedpages.html:33
+#: pntemplates/content_edit_history.html:39
+msgid "No history data recorded."
+msgstr "Nenhum histórico registado."
+
+#: pntemplates/content_user_subpages.html:1
+#, php-format
+msgid "Subpages of %s"
+msgstr "Subpáginas de %s"
+
+#: pntemplates/content_user_subpages.html:6
+msgid "No subpages available"
+msgstr "Nenhuma subpágina disponível"
+
+#: pntemplates/content_edit_clonepage.html:16
+msgid "Permalink URL name"
+msgstr "Nome da URL Permalink"
+
+#: pntemplates/content_edit_clonepage.html:18
+msgid ""
+"Used to refer this page in short URLs mode. Leave as blank for default value."
+msgstr ""
+"Usado para referir esta página em modo de URLs curtas. Deixar em branco para "
+"valor por defeito."
+
+#: pntemplates/content_edit_clonepage.html:21
+msgid "Clone translations"
+msgstr "Clonar traduções"
+
+#: pntemplates/content_edit_clonepage.html:29
+msgid "Clone"
+msgstr "Clonar"
+
+#: pntemplates/content_include_contentedit.html:10
+#, php-format
+msgid "ID %d"
+msgstr "ID %d"
+
+#: pntemplates/content_edit_history.html:5
+msgid "Back to page"
+msgstr "Voltar para a página"
+
+#: pntemplates/content_edit_history.html:20
+msgid "Revision #"
+msgstr "Revisão #"
+
+#: pntemplates/content_edit_history.html:22
+msgid "Event"
+msgstr "Evento"

@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Dutch Translation for orange_juice 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-07 06:09-0500\n"
+"PO-Revision-Date: 2010-06-13 23:12+0200\n"
+"Last-Translator: Arjen <teb@zikula.nl>\n"
+"Language-Team: Dutch Zikula Community\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: version.php:4
+msgid "Orange Juice"
+msgstr "Orange Juice"
+
+#: version.php:6
+msgid "Orange Juice OWD template"
+msgstr "Orange Juice OWD template"
+
+#: templates/includes/header.htm:6 templates/includes/menu.htm:3
+msgid "Home"
+msgstr "Start"
+
+#: templates/includes/footer.htm:4
+msgid "Home Page"
+msgstr "Startpagina"
+
+#: templates/includes/footer.htm:4 templates/includes/menu.htm:8
+msgid "Sitemap"
+msgstr "Sitemap"
+
+#: templates/includes/footer.htm:4 templates/includes/menu.htm:9
+msgid "Contact"
+msgstr "Contact"
+
+#: templates/includes/footer.htm:4
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: templates/includes/footer.htm:9
+msgid "Design by"
+msgstr "Ontwerp door"
+
+#: templates/includes/footer.htm:9
+msgid "www.mitchinson.net"
+msgstr "www.mitchinson.net"
+
+#: templates/includes/footer.htm:9
+msgid "Licensed"
+msgstr "Gelicentieerd"
+
+#: templates/includes/footer.htm:9
+msgid "Creative Commons Attribution 2.5 License"
+msgstr "Creative Commons Attribution 2.5 License"
+
+#: templates/includes/footer.htm:9
+msgid "Valid"
+msgstr "Geldig"
+
+#: templates/includes/footer.htm:9
+msgid "CSS"
+msgstr "CSS"
+
+#: templates/includes/footer.htm:9
+msgid "XHTML"
+msgstr "XHTML"
+
+#: templates/includes/menu.htm:4
+msgid "Pages"
+msgstr "Pagina's"
+
+#: templates/includes/menu.htm:5
+msgid "News"
+msgstr "Nieuws"
+
+#: templates/includes/menu.htm:6
+msgid "Forums"
+msgstr "Forums"
+
+#: templates/includes/menu.htm:7
+msgid "Wiki"
+msgstr "Wiki"

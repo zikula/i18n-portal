@@ -1,0 +1,3079 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-27 16:13+0200\n"
+"PO-Revision-Date: 2008-02-01 10:29+0100\n"
+"Last-Translator: stwn <stwn@kuliax.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 1.0.2\n"
+
+# Essential terminology list for general software localisation
+# License: GPL
+# Copyright Youssef Chahibi, Friedel Wolff 2006
+
+msgid "abort"
+msgstr "batal"
+
+msgid "absolute"
+msgstr "absolut"
+
+msgid "abstract"
+msgstr "abstrak"
+
+msgid "accelerator"
+msgstr "pemercepat"
+
+msgid "accent"
+msgstr "aksen"
+
+msgid "accept"
+msgstr "terima"
+
+msgid "access"
+msgstr "akses"
+
+msgid "accessibility"
+msgstr "aksesibilitas"
+
+msgid "accessory"
+msgstr "aksesori"
+
+msgid "account"
+msgstr "akun"
+
+msgid "accuracy"
+msgstr "akurasi"
+
+msgid "acquire"
+msgstr ""
+
+msgid "acronym"
+msgstr "akronim"
+
+msgid "action"
+msgstr "aksi"
+
+msgid "activate"
+msgstr "aktifkan"
+
+msgid "active"
+msgstr "aktif"
+
+msgid "activity"
+msgstr "aktivitas"
+
+msgid "adapter"
+msgstr ""
+
+msgid "add"
+msgstr "tambah"
+
+msgid "address"
+msgstr "alamat"
+
+msgid "adjust"
+msgstr "sesuaikan"
+
+msgid "administration"
+msgstr "administrasi"
+
+msgid "administrator"
+msgstr "administrator"
+
+msgid "advanced"
+msgstr "lanjut"
+
+msgid "agent"
+msgstr "agen"
+
+msgid "agree"
+msgstr "setuju"
+
+msgid "agreement"
+msgstr "persetujuan"
+
+msgid "alarm"
+msgstr "alarm"
+
+msgid "alert"
+msgstr "peringatan"
+
+msgid "algorithm"
+msgstr "algoritma"
+
+msgid "alias"
+msgstr "alias"
+
+#"تسنن" مع الرسوميات (الخطوط وخلافه)
+msgid "aliasing"
+msgstr ""
+
+msgid "align"
+msgstr ""
+
+#, fuzzy
+msgid "alignment"
+msgstr "tugas"
+
+msgid "allow"
+msgstr "ijinkan"
+
+msgid "alphanumeric"
+msgstr "alfanumerik"
+
+msgid "alternative"
+msgstr "alternatif"
+
+msgid "amount"
+msgstr "jumlah"
+
+msgid "analysis"
+msgstr "analisis"
+
+msgid "anchor"
+msgstr ""
+
+msgid "angle"
+msgstr "sudut"
+
+msgid "animate"
+msgstr ""
+
+msgid "animation"
+msgstr "animasi"
+
+msgid "announce"
+msgstr "mengumumkan"
+
+msgid "announcement"
+msgstr "pengumuman"
+
+msgid "anonymous"
+msgstr "anonim"
+
+msgid "anti-aliasing"
+msgstr ""
+
+msgid "anti virus"
+msgstr "anti virus"
+
+msgid "appear"
+msgstr "terlihat"
+
+msgid "append"
+msgstr "menambahkan"
+
+msgid "applet"
+msgstr "aplet"
+
+msgid "application"
+msgstr "aplikasi"
+
+msgid "apply"
+msgstr "terapkan"
+
+msgid "approval"
+msgstr "persetujuan"
+
+msgid "approve"
+msgstr "menyetujui"
+
+msgid "approximate"
+msgstr "mendekati"
+
+msgid "arbitrary"
+msgstr "sembarang"
+
+msgid "archive"
+msgstr "arsip"
+
+msgid "area"
+msgstr "daerah"
+
+msgid "argument"
+msgstr "argumen"
+
+msgid "arrangement"
+msgstr "penataan"
+
+msgid "arrow"
+msgstr "panah"
+
+msgid "article"
+msgstr "artikel"
+
+# dari kecil ke besar
+msgid "ascending"
+msgstr "naik"
+
+msgid "aspect"
+msgstr "aspek"
+
+msgid "assign"
+msgstr "menugaskan"
+
+msgid "assignment"
+msgstr "tugas"
+
+msgid "asynchronous"
+msgstr "asinkron"
+
+msgid "attach"
+msgstr "menyertakan"
+
+msgid "attachment"
+msgstr "lampiran"
+
+msgid "attempt"
+msgstr "mencoba"
+
+msgid "attribute"
+msgstr "atribut"
+
+msgid "audio"
+msgstr "suara"
+
+msgid "authenticate"
+msgstr "mengotentifikasi"
+
+msgid "authentication"
+msgstr "otentikasi"
+
+msgid "authorization"
+msgstr "otorisasi"
+
+msgid "authorize"
+msgstr "mengotorisasi"
+
+msgid "auto"
+msgstr "auto"
+
+msgid "automatic"
+msgstr "otomatis"
+
+msgid "availability"
+msgstr "ketersediaan"
+
+msgid "available"
+msgstr "tersedia"
+
+msgid "average"
+msgstr "rata-rata"
+
+msgid "axis"
+msgstr "sumbu"
+
+msgid "backbone"
+msgstr ""
+
+msgid "back-end"
+msgstr ""
+
+msgid "background"
+msgstr "latar belakang"
+
+msgid "backup"
+msgstr "cadangan"
+
+msgid "bandwidth"
+msgstr "lebar-pita"
+
+msgid "banner"
+msgstr "banner"
+
+msgid "bar"
+msgstr "batang/bar"
+
+msgid "base"
+msgstr "dasar"
+
+msgid "beep"
+msgstr "bip"
+
+msgid "begin"
+msgstr "mulai"
+
+msgid "behavior"
+msgstr "sifat"
+
+msgid "binary"
+msgstr "biner"
+
+msgid "bind"
+msgstr "mengaitkan"
+
+msgid "bit"
+msgstr "bit"
+
+msgid "bitmap"
+msgstr "bitmap"
+
+msgid "blank"
+msgstr "kosong"
+
+msgid "blink"
+msgstr "kedip"
+
+msgid "block (unit)"
+msgstr "blok"
+
+msgid "block (verb)"
+msgstr "cegah"
+
+msgid "blog"
+msgstr "blog"
+
+msgid "blur"
+msgstr "kabur"
+
+msgid "board"
+msgstr "papan"
+
+msgid "body"
+msgstr "badan"
+
+msgid "bold"
+msgstr "cetak tebal"
+
+#, fuzzy
+msgid "bookmarks"
+msgstr "penanda web"
+
+msgid "boot"
+msgstr "boot"
+
+msgid "border"
+msgstr "tepi"
+
+msgid "box"
+msgstr "boks"
+
+msgid "bracket"
+msgstr "tanda kurung"
+
+msgid "branch"
+msgstr "cabang"
+
+msgid "break"
+msgstr ""
+
+msgid "break (program)"
+msgstr ""
+
+msgid "break point"
+msgstr ""
+
+msgid "bridge (verb)"
+msgstr "menjembatani"
+
+msgid "bridge (noun)"
+msgstr "jembatan"
+
+msgid "broken"
+msgstr "rusak"
+
+msgid "browse"
+msgstr "merambah"
+
+msgid "browser"
+msgstr "perambah"
+
+msgid "buffer"
+msgstr "penyangga"
+
+msgid "bug"
+msgstr "kutu (kesalahan program)"
+
+msgid "build"
+msgstr "membangun"
+
+msgid "built-in"
+msgstr "menyatu"
+
+msgid "bullet"
+msgstr ""
+
+msgid "bus"
+msgstr "bus"
+
+msgid "button"
+msgstr "tombol"
+
+msgid "byte"
+msgstr "byte"
+
+msgid "cable"
+msgstr "kabel"
+
+msgid "cache"
+msgstr "cache"
+
+msgid "calculate"
+msgstr "menghitung"
+
+msgid "calculator"
+msgstr "kalkulator"
+
+msgid "calendar"
+msgstr "kalender"
+
+msgid "call"
+msgstr "memanggil"
+
+msgid "camera"
+msgstr "kamera"
+
+msgid "cancel"
+msgstr "batal"
+
+msgid "capability"
+msgstr "kapabilitas"
+
+msgid "capacity"
+msgstr "kapasitas"
+
+msgid "caption"
+msgstr ""
+
+msgid "capture"
+msgstr ""
+
+msgid "card"
+msgstr "kartu"
+
+#, fuzzy
+msgid "case"
+msgstr "dasar"
+
+msgid "case (font)"
+msgstr ""
+
+msgid "catalog"
+msgstr "katalog"
+
+msgid "category"
+msgstr "katagori"
+
+msgid "cell"
+msgstr "sel"
+
+msgid "certificate"
+msgstr "sertifikat"
+
+msgid "certify"
+msgstr ""
+
+msgid "change"
+msgstr "ubah"
+
+msgid "channel"
+msgstr "kanal"
+
+msgid "character"
+msgstr "karakter"
+
+msgid "charset"
+msgstr ""
+
+msgid "chart"
+msgstr "diagram"
+
+#, fuzzy
+msgid "chat"
+msgstr "diagram"
+
+msgid "check"
+msgstr "pemeriksaan"
+
+msgid "check box"
+msgstr "boks pemeriksaan"
+
+msgid "child"
+msgstr "anak"
+
+msgid "choice"
+msgstr "pilihan"
+
+msgid "choose"
+msgstr "pilih"
+
+msgid "class"
+msgstr "kelas"
+
+msgid "classic"
+msgstr "klasik"
+
+msgid "classify"
+msgstr "menggolongkan"
+
+msgid "clean"
+msgstr "bersih"
+
+msgid "clear"
+msgstr "hapus"
+
+msgid "click (noun)"
+msgstr "klik (kata benda)"
+
+msgid "click (verb)"
+msgstr "meng-klik (kata kerja)"
+
+msgid "client"
+msgstr "klien"
+
+msgid "clip art"
+msgstr ""
+
+msgid "clip board"
+msgstr ""
+
+msgid "clock"
+msgstr "jam"
+
+msgid "close"
+msgstr "tutup"
+
+msgid "code (program)"
+msgstr "kode"
+
+msgid "code (symbol)"
+msgstr "kode"
+
+msgid "codec"
+msgstr ""
+
+msgid "collapse"
+msgstr ""
+
+msgid "collect"
+msgstr "mengumpulkan"
+
+msgid "column"
+msgstr "kolom"
+
+msgid "combination"
+msgstr "kombinasi"
+
+msgid "comma"
+msgstr "koma"
+
+msgid "command"
+msgstr "perintah"
+
+msgid "comment"
+msgstr "komentar"
+
+msgid "common"
+msgstr "biasa"
+
+msgid "communication"
+msgstr "komunikasi"
+
+msgid "compact"
+msgstr "kompak"
+
+msgid "compare"
+msgstr "membandingkan"
+
+msgid "compatibility"
+msgstr "kompatibilitas"
+
+msgid "compatible"
+msgstr "kompatibel"
+
+#تحويل الشفرة المصرية إلى ملفات ثنائية (برمجة
+# حويل الشفرة المصرية إلى ملفات ثنائية (برمجة
+msgid "compilation"
+msgstr "kompilasi"
+
+msgid "compile"
+msgstr "mengkompilasi"
+
+msgid "compiler"
+msgstr "kompiler"
+
+msgid "complete"
+msgstr "lengkap"
+
+msgid "component"
+msgstr "komponen"
+
+msgid "compose"
+msgstr ""
+
+msgid "composition"
+msgstr "komposisi"
+
+msgid "compress"
+msgstr "kompres"
+
+msgid "compression"
+msgstr "kompresi"
+
+msgid "computer"
+msgstr "komputer"
+
+msgid "computing"
+msgstr "komputasi"
+
+msgid "concatenate"
+msgstr ""
+
+msgid "concurrent"
+msgstr ""
+
+msgid "condense"
+msgstr ""
+
+msgid "condition"
+msgstr "kondisi"
+
+msgid "configuration"
+msgstr "konfigurasi"
+
+msgid "configure"
+msgstr "mengkonfigurasi"
+
+msgid "confirm"
+msgstr "mengkonfirmasi"
+
+msgid "confirmation"
+msgstr "konfirmasi"
+
+msgid "conflict"
+msgstr "konflik"
+
+msgid "connect"
+msgstr "menghubungkan"
+
+msgid "connection"
+msgstr "hubungan"
+
+msgid "console"
+msgstr "konsol"
+
+msgid "contact (noun)"
+msgstr "kontak (kata benda)"
+
+msgid "contact (verb)"
+msgstr "menghubungi (kata kerja)"
+
+msgid "content"
+msgstr "konten"
+
+msgid "context"
+msgstr "konteks"
+
+msgid "continue"
+msgstr "melanjutkan"
+
+msgid "contrast"
+msgstr "kontras"
+
+msgid "contributor"
+msgstr "kontributor"
+
+msgid "control"
+msgstr "kontrol"
+
+msgid "conversion"
+msgstr "konversi"
+
+msgid "convert"
+msgstr "mengkonversi"
+
+msgid "cookie"
+msgstr ""
+
+msgid "cooperative"
+msgstr "kooperatif"
+
+msgid "coordinate"
+msgstr "mengkoordinasi"
+
+msgid "copy (noun)"
+msgstr "salin (kata benda)"
+
+msgid "copy (verb)"
+msgstr "menyalin (kata kerja)"
+
+msgid "copy left"
+msgstr ""
+
+msgid "copy right"
+msgstr "hak cipta"
+
+msgid "correct"
+msgstr "benar"
+
+msgid "correspondence"
+msgstr "korespondensi"
+
+msgid "correspondent"
+msgstr "koresponden"
+
+msgid "corrupt"
+msgstr ""
+
+msgid "count"
+msgstr "menghitung"
+
+msgid "countable"
+msgstr "dapat dihitung"
+
+msgid "crash"
+msgstr ""
+
+msgid "create"
+msgstr "membuat"
+
+msgid "creation"
+msgstr "buatan"
+
+msgid "criteria"
+msgstr "kriteria"
+
+msgid "crop"
+msgstr ""
+
+msgid "cross-platform"
+msgstr "lintas platform"
+
+msgid "crypt"
+msgstr ""
+
+msgid "cryptology"
+msgstr "kriptologi"
+
+msgid "current"
+msgstr "sekarang"
+
+msgid "cursor"
+msgstr "kursor"
+
+msgid "curve"
+msgstr "kurva"
+
+msgid "custom"
+msgstr "kustom"
+
+msgid "customization"
+msgstr "kustomisasi"
+
+msgid "customize"
+msgstr "mengkostumisasi"
+
+msgid "cut"
+msgstr "potong"
+
+msgid "cycle"
+msgstr "putaran"
+
+msgid "daemon"
+msgstr "daemon"
+
+msgid "damage"
+msgstr "kerusakan"
+
+msgid "data"
+msgstr "data"
+
+msgid "database"
+msgstr "basis data"
+
+msgid "debug"
+msgstr ""
+
+msgid "debugger"
+msgstr ""
+
+msgid "decimal"
+msgstr "desimal"
+
+msgid "decode"
+msgstr "dekode"
+
+#, fuzzy
+msgid "decompress"
+msgstr "kompres"
+
+msgid "decrease"
+msgstr ""
+
+msgid "decrypt"
+msgstr ""
+
+#, fuzzy
+msgid "decryption"
+msgstr "gambaran"
+
+msgid "default"
+msgstr ""
+
+#, fuzzy
+msgid "defect"
+msgstr "deteksi"
+
+msgid "define"
+msgstr "mendefinisikan"
+
+msgid "definition"
+msgstr "definisi"
+
+msgid "degree"
+msgstr "tingkat"
+
+msgid "delay"
+msgstr ""
+
+msgid "delete"
+msgstr "menghapus"
+
+msgid "deletion"
+msgstr "penghapusan"
+
+msgid "delimiter"
+msgstr ""
+
+msgid "demo"
+msgstr "demo"
+
+msgid "deny"
+msgstr "tolak"
+
+msgid "dependence"
+msgstr "tergantung"
+
+msgid "dependency"
+msgstr "ketergantungan"
+
+msgid "depth"
+msgstr "kedalaman"
+
+msgid "derived"
+msgstr "diturunkan"
+
+# dari kecil ke besar
+#, fuzzy
+msgid "descending"
+msgstr "naik"
+
+msgid "description"
+msgstr "gambaran"
+
+msgid "deselect"
+msgstr ""
+
+msgid "design"
+msgstr "desain"
+
+msgid "desktop"
+msgstr "desktop"
+
+msgid "destination"
+msgstr "tujuan"
+
+msgid "destroy"
+msgstr "hancurkan"
+
+msgid "detach"
+msgstr ""
+
+msgid "detect"
+msgstr "deteksi"
+
+msgid "develop"
+msgstr "mengembangkan"
+
+msgid "development"
+msgstr "pengembangan"
+
+msgid "developer"
+msgstr "pengembang"
+
+msgid "device"
+msgstr "perangkat"
+
+msgid "diagram"
+msgstr "diagram"
+
+msgid "dial"
+msgstr ""
+
+msgid "dialog"
+msgstr "dialog"
+
+msgid "dialup"
+msgstr ""
+
+msgid "difference"
+msgstr "perbedaan"
+
+msgid "digit"
+msgstr "digit"
+
+msgid "digital"
+msgstr "digital"
+
+msgid "dimension"
+msgstr "dimensi"
+
+msgid "directory"
+msgstr "direktori"
+
+msgid "disable"
+msgstr ""
+
+msgid "disc"
+msgstr "cakram"
+
+msgid "discard"
+msgstr "batal"
+
+msgid "disconnect"
+msgstr "memutuskan"
+
+msgid "discussion"
+msgstr "diskusi"
+
+#, fuzzy
+msgid "disk"
+msgstr "cakram"
+
+msgid "dispatch"
+msgstr ""
+
+msgid "display"
+msgstr "tampilan"
+
+msgid "distort"
+msgstr ""
+
+msgid "distribute"
+msgstr "mendistribusikan"
+
+msgid "distribution"
+msgstr "distribusi"
+
+msgid "distributor"
+msgstr "distributor"
+
+msgid "dock"
+msgstr ""
+
+msgid "document"
+msgstr "dokumen"
+
+msgid "documentation"
+msgstr "dokumentasi"
+
+msgid "domain"
+msgstr "domain"
+
+msgid "double click"
+msgstr "klik dua kali"
+
+msgid "download"
+msgstr "unduh"
+
+msgid "drag"
+msgstr "seret"
+
+msgid "draw"
+msgstr "gambar"
+
+msgid "driver"
+msgstr "driver"
+
+msgid "dual"
+msgstr ""
+
+msgid "dump"
+msgstr ""
+
+msgid "duplicate"
+msgstr "menggandakan"
+
+msgid "dynamic"
+msgstr "dinamis"
+
+msgid "echo"
+msgstr ""
+
+#, fuzzy
+msgid "edit"
+msgstr "keluar"
+
+msgid "edition"
+msgstr "edisi"
+
+msgid "editor"
+msgstr "editor"
+
+msgid "effect"
+msgstr "efek"
+
+msgid "eject"
+msgstr ""
+
+msgid "electronic"
+msgstr "elektronik"
+
+msgid "element"
+msgstr "elemen"
+
+msgid "email"
+msgstr "email"
+
+msgid "embed"
+msgstr ""
+
+msgid "emoticon"
+msgstr ""
+
+msgid "empty"
+msgstr "kosong"
+
+#, fuzzy
+msgid "emulate"
+msgstr "emulator"
+
+msgid "emulation"
+msgstr "emulasi"
+
+msgid "emulator"
+msgstr "emulator"
+
+msgid "enable"
+msgstr ""
+
+msgid "enabled"
+msgstr ""
+
+msgid "encode"
+msgstr ""
+
+msgid "encoding"
+msgstr ""
+
+msgid "encrypt"
+msgstr ""
+
+msgid "encrypted"
+msgstr ""
+
+msgid "encryption"
+msgstr ""
+
+msgid "engine"
+msgstr ""
+
+msgid "enhancement"
+msgstr "peningkatan"
+
+msgid "enlarge"
+msgstr ""
+
+msgid "enlargement"
+msgstr ""
+
+msgid "enter"
+msgstr "masuk"
+
+msgid "entertainment"
+msgstr "hiburan"
+
+msgid "entry"
+msgstr "entri"
+
+msgid "environment"
+msgstr "lingkungan"
+
+msgid "equalizer"
+msgstr ""
+
+msgid "erase"
+msgstr "hapus"
+
+msgid "error"
+msgstr "kesalahan"
+
+msgid "escape"
+msgstr ""
+
+msgid "evaluation"
+msgstr "evaluasi"
+
+msgid "event"
+msgstr ""
+
+msgid "exception"
+msgstr ""
+
+msgid "executable"
+msgstr ""
+
+msgid "execute"
+msgstr "menjalankan"
+
+msgid "existing"
+msgstr ""
+
+msgid "exit"
+msgstr "keluar"
+
+msgid "expand"
+msgstr ""
+
+#, fuzzy
+msgid "expansion"
+msgstr "ekstensi"
+
+msgid "explore"
+msgstr ""
+
+msgid "export"
+msgstr "ekspor"
+
+msgid "expression"
+msgstr "ekspresi"
+
+msgid "extend"
+msgstr ""
+
+msgid "extensible"
+msgstr ""
+
+msgid "extension"
+msgstr "ekstensi"
+
+msgid "external"
+msgstr "eksternal"
+
+msgid "extra"
+msgstr "ekstra"
+
+msgid "extract"
+msgstr "ekstrak"
+
+msgid "fail"
+msgstr "gagal"
+
+# فادح: مثل خطأ فادح
+msgid "fatal"
+msgstr ""
+
+msgid "fault"
+msgstr ""
+
+msgid "favorite"
+msgstr "favorit"
+
+msgid "feature"
+msgstr "fitur"
+
+msgid "feed"
+msgstr ""
+
+msgid "feedback"
+msgstr ""
+
+msgid "fetch"
+msgstr ""
+
+msgid "field"
+msgstr ""
+
+msgid "figure"
+msgstr ""
+
+msgid "file"
+msgstr "berkas"
+
+#, fuzzy
+msgid "fill"
+msgstr "berkas"
+
+msgid "filter"
+msgstr ""
+
+#, fuzzy
+msgid "find"
+msgstr "mengaitkan"
+
+msgid "firewall"
+msgstr ""
+
+msgid "firmware"
+msgstr ""
+
+msgid "fit"
+msgstr ""
+
+msgid "fix"
+msgstr ""
+
+msgid "flag"
+msgstr ""
+
+msgid "flash"
+msgstr ""
+
+msgid "flat"
+msgstr ""
+
+msgid "flip"
+msgstr ""
+
+#, fuzzy
+msgid "float (verb)"
+msgstr "cegah"
+
+msgid "flood"
+msgstr ""
+
+msgid "floppy"
+msgstr ""
+
+msgid "folder"
+msgstr ""
+
+msgid "font"
+msgstr ""
+
+msgid "footer"
+msgstr ""
+
+msgid "form"
+msgstr ""
+
+msgid "format (noun)"
+msgstr ""
+
+msgid "format (verb)"
+msgstr ""
+
+msgid "formatted"
+msgstr ""
+
+msgid "formula"
+msgstr ""
+
+msgid "forum"
+msgstr ""
+
+msgid "fragment"
+msgstr ""
+
+msgid "frame"
+msgstr ""
+
+msgid "frame set"
+msgstr ""
+
+msgid "framework"
+msgstr ""
+
+msgid "free software"
+msgstr ""
+
+msgid "freeze"
+msgstr ""
+
+msgid "frequency"
+msgstr ""
+
+msgid "front end"
+msgstr ""
+
+msgid "function"
+msgstr ""
+
+msgid "gallery"
+msgstr ""
+
+#, fuzzy
+msgid "game"
+msgstr "nama"
+
+msgid "gateway"
+msgstr ""
+
+msgid "generate"
+msgstr ""
+
+msgid "generation"
+msgstr ""
+
+msgid "generator"
+msgstr ""
+
+msgid "generic"
+msgstr ""
+
+msgid "geometric"
+msgstr ""
+
+msgid "geometry"
+msgstr ""
+
+msgid "grab"
+msgstr ""
+
+msgid "gradient"
+msgstr ""
+
+msgid "grain"
+msgstr ""
+
+msgid "graph"
+msgstr ""
+
+msgid "graphic"
+msgstr ""
+
+msgid "graphical"
+msgstr ""
+
+msgid "graphics"
+msgstr ""
+
+msgid "gray-scale"
+msgstr ""
+
+msgid "grid"
+msgstr ""
+
+msgid "group"
+msgstr ""
+
+msgid "guess"
+msgstr ""
+
+msgid "guest"
+msgstr ""
+
+msgid "handle (noun)"
+msgstr ""
+
+msgid "handle (verb)"
+msgstr ""
+
+msgid "handler"
+msgstr ""
+
+msgid "hardware"
+msgstr ""
+
+msgid "hash"
+msgstr ""
+
+msgid "head"
+msgstr ""
+
+msgid "header"
+msgstr ""
+
+msgid "height"
+msgstr ""
+
+msgid "help"
+msgstr ""
+
+msgid "hide"
+msgstr ""
+
+msgid "hierarchy"
+msgstr ""
+
+msgid "high light"
+msgstr ""
+
+msgid "history"
+msgstr ""
+
+msgid "host"
+msgstr ""
+
+msgid "hostname"
+msgstr ""
+
+msgid "hyperlink"
+msgstr ""
+
+msgid "hypertext"
+msgstr ""
+
+msgid "icon"
+msgstr ""
+
+msgid "identify"
+msgstr ""
+
+msgid "idle"
+msgstr ""
+
+msgid "ignore"
+msgstr ""
+
+msgid "image"
+msgstr ""
+
+msgid "implement"
+msgstr ""
+
+msgid "import"
+msgstr ""
+
+#, fuzzy
+msgid "inactive"
+msgstr "aktif"
+
+msgid "inbox"
+msgstr ""
+
+msgid "inch"
+msgstr ""
+
+msgid "include"
+msgstr ""
+
+msgid "incoming"
+msgstr ""
+
+#, fuzzy
+msgid "incompatible"
+msgstr "kompatibel"
+
+msgid "increase"
+msgstr ""
+
+msgid "increment"
+msgstr ""
+
+msgid "indent"
+msgstr ""
+
+msgid "index"
+msgstr ""
+
+msgid "indice"
+msgstr ""
+
+msgid "infect"
+msgstr ""
+
+msgid "infinite"
+msgstr ""
+
+#, fuzzy
+msgid "information"
+msgstr "konfirmasi"
+
+msgid "infrared"
+msgstr ""
+
+msgid "initial"
+msgstr ""
+
+msgid "initialize"
+msgstr ""
+
+msgid "input"
+msgstr ""
+
+msgid "insert"
+msgstr ""
+
+msgid "install"
+msgstr ""
+
+msgid "installer"
+msgstr ""
+
+msgid "instance"
+msgstr ""
+
+msgid "instruction"
+msgstr ""
+
+msgid "integer"
+msgstr ""
+
+msgid "integral"
+msgstr ""
+
+msgid "integrate"
+msgstr ""
+
+msgid "integration"
+msgstr ""
+
+msgid "integrity"
+msgstr ""
+
+msgid "intensity"
+msgstr ""
+
+msgid "interactivity"
+msgstr ""
+
+msgid "interface"
+msgstr ""
+
+#, fuzzy
+msgid "internal"
+msgstr "eksternal"
+
+msgid "internet"
+msgstr ""
+
+msgid "interrupt"
+msgstr ""
+
+msgid "invalid"
+msgstr ""
+
+msgid "inverse"
+msgstr ""
+
+msgid "invert"
+msgstr ""
+
+msgid "invoke"
+msgstr ""
+
+msgid "italic"
+msgstr ""
+
+msgid "item"
+msgstr ""
+
+msgid "iteration"
+msgstr ""
+
+msgid "jag"
+msgstr ""
+
+msgid "jam"
+msgstr ""
+
+msgid "job"
+msgstr ""
+
+msgid "join"
+msgstr ""
+
+msgid "joy stick"
+msgstr ""
+
+msgid "jump"
+msgstr ""
+
+msgid "junk"
+msgstr ""
+
+msgid "justify"
+msgstr ""
+
+#, fuzzy
+msgid "keep"
+msgstr "bip"
+
+msgid "kernel"
+msgstr ""
+
+msgid "key"
+msgstr ""
+
+msgid "keyboard"
+msgstr ""
+
+msgid "key stroke"
+msgstr ""
+
+msgid "key word"
+msgstr ""
+
+msgid "label"
+msgstr ""
+
+msgid "landscape"
+msgstr ""
+
+msgid "language"
+msgstr ""
+
+msgid "laptop"
+msgstr ""
+
+msgid "launch"
+msgstr ""
+
+msgid "layer"
+msgstr ""
+
+msgid "layout"
+msgstr ""
+
+msgid "length"
+msgstr ""
+
+msgid "license"
+msgstr ""
+
+#, fuzzy
+msgid "line"
+msgstr "taut"
+
+msgid "link"
+msgstr "taut"
+
+msgid "list"
+msgstr ""
+
+msgid "load"
+msgstr ""
+
+msgid "local"
+msgstr ""
+
+msgid "localization"
+msgstr ""
+
+msgid "location"
+msgstr ""
+
+#, fuzzy
+msgid "log"
+msgstr "blog"
+
+msgid "lookup"
+msgstr ""
+
+msgid "lower-case"
+msgstr ""
+
+msgid "machine"
+msgstr ""
+
+msgid "main board"
+msgstr ""
+
+msgid "maintainer"
+msgstr ""
+
+msgid "maintenance"
+msgstr ""
+
+msgid "manage"
+msgstr ""
+
+msgid "management"
+msgstr ""
+
+msgid "manager"
+msgstr ""
+
+msgid "manual"
+msgstr ""
+
+msgid "margin"
+msgstr ""
+
+msgid "mark"
+msgstr ""
+
+msgid "master"
+msgstr ""
+
+msgid "match"
+msgstr ""
+
+msgid "maximize"
+msgstr ""
+
+msgid "memory"
+msgstr ""
+
+msgid "menu"
+msgstr ""
+
+msgid "merge"
+msgstr ""
+
+msgid "message"
+msgstr ""
+
+msgid "method"
+msgstr ""
+
+msgid "minimize"
+msgstr ""
+
+msgid "mode"
+msgstr ""
+
+msgid "modem"
+msgstr ""
+
+msgid "moderator"
+msgstr ""
+
+msgid "modify"
+msgstr ""
+
+msgid "module"
+msgstr ""
+
+msgid "monitor"
+msgstr ""
+
+msgid "mosaic"
+msgstr ""
+
+msgid "motion"
+msgstr ""
+
+msgid "mouse"
+msgstr "tetikus"
+
+msgid "move"
+msgstr ""
+
+msgid "multimedia"
+msgstr ""
+
+msgid "multitasking"
+msgstr ""
+
+msgid "name"
+msgstr "nama"
+
+msgid "navigation"
+msgstr ""
+
+msgid "navigator"
+msgstr ""
+
+msgid "network"
+msgstr "jaringan"
+
+msgid "news group"
+msgstr ""
+
+#, fuzzy
+msgid "next"
+msgstr "teks"
+
+msgid "nick name"
+msgstr ""
+
+msgid "no"
+msgstr ""
+
+msgid "node"
+msgstr ""
+
+msgid "notation"
+msgstr ""
+
+msgid "note"
+msgstr ""
+
+msgid "notebook"
+msgstr ""
+
+msgid "notification"
+msgstr ""
+
+msgid "notify"
+msgstr ""
+
+# في الرياضيات "صفر"
+# الصفة "منعدم"
+msgid "null"
+msgstr ""
+
+msgid "number"
+msgstr ""
+
+msgid "numbering"
+msgstr ""
+
+msgid "object"
+msgstr ""
+
+msgid "occurrence"
+msgstr ""
+
+msgid "octet"
+msgstr ""
+
+msgid "offline"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "online"
+msgstr ""
+
+msgid "ongoing"
+msgstr ""
+
+#, fuzzy
+msgid "opacity"
+msgstr "kapasitas"
+
+msgid "opaque"
+msgstr ""
+
+msgid "open"
+msgstr ""
+
+msgid "operation"
+msgstr ""
+
+msgid "option"
+msgstr ""
+
+msgid "optional"
+msgstr ""
+
+#, fuzzy
+msgid "order"
+msgstr "tepi"
+
+msgid "organize"
+msgstr ""
+
+msgid "orientation"
+msgstr ""
+
+msgid "original"
+msgstr ""
+
+msgid "outgoing"
+msgstr ""
+
+msgid "output"
+msgstr ""
+
+msgid "overflow"
+msgstr ""
+
+msgid "override"
+msgstr ""
+
+msgid "overwrite"
+msgstr ""
+
+msgid "owner"
+msgstr ""
+
+msgid "pack"
+msgstr ""
+
+msgid "package"
+msgstr ""
+
+msgid "packet"
+msgstr ""
+
+msgid "padding"
+msgstr ""
+
+msgid "page"
+msgstr ""
+
+msgid "paint"
+msgstr ""
+
+msgid "pair"
+msgstr ""
+
+msgid "palette"
+msgstr ""
+
+msgid "panel"
+msgstr ""
+
+msgid "parallel"
+msgstr ""
+
+msgid "parameter"
+msgstr ""
+
+msgid "parcel"
+msgstr ""
+
+msgid "parent"
+msgstr ""
+
+msgid "parity"
+msgstr ""
+
+msgid "parse"
+msgstr ""
+
+msgid "partition"
+msgstr ""
+
+msgid "pass"
+msgstr ""
+
+msgid "password"
+msgstr ""
+
+msgid "paste"
+msgstr ""
+
+msgid "patch (noun)"
+msgstr ""
+
+msgid "patch (verb)"
+msgstr ""
+
+msgid "path"
+msgstr ""
+
+msgid "pattern"
+msgstr ""
+
+msgid "pause"
+msgstr ""
+
+msgid "peripheral"
+msgstr ""
+
+msgid "permanent"
+msgstr ""
+
+msgid "permission"
+msgstr ""
+
+msgid "permutation"
+msgstr ""
+
+msgid "physical"
+msgstr ""
+
+msgid "picture"
+msgstr ""
+
+msgid "pipe"
+msgstr ""
+
+msgid "pixel"
+msgstr ""
+
+msgid "placement"
+msgstr ""
+
+msgid "plain"
+msgstr ""
+
+#, fuzzy
+msgid "plot (verb)"
+msgstr "cegah"
+
+msgid "plotter"
+msgstr ""
+
+msgid "plugin"
+msgstr ""
+
+msgid "pop up"
+msgstr ""
+
+msgid "port"
+msgstr ""
+
+msgid "position"
+msgstr ""
+
+msgid "post"
+msgstr ""
+
+msgid "preferences"
+msgstr ""
+
+msgid "prepare"
+msgstr ""
+
+msgid "presentation"
+msgstr ""
+
+msgid "press"
+msgstr ""
+
+msgid "prevent"
+msgstr ""
+
+msgid "preview"
+msgstr ""
+
+msgid "primary"
+msgstr ""
+
+msgid "principal"
+msgstr ""
+
+msgid "print"
+msgstr ""
+
+msgid "printer"
+msgstr ""
+
+msgid "priority"
+msgstr ""
+
+msgid "privacy"
+msgstr ""
+
+msgid "private"
+msgstr ""
+
+msgid "privilege"
+msgstr ""
+
+msgid "procedure"
+msgstr ""
+
+msgid "process"
+msgstr ""
+
+msgid "processor"
+msgstr ""
+
+msgid "product"
+msgstr ""
+
+msgid "profile"
+msgstr ""
+
+msgid "program"
+msgstr ""
+
+msgid "programmer"
+msgstr ""
+
+msgid "project"
+msgstr ""
+
+msgid "prompt"
+msgstr ""
+
+msgid "property"
+msgstr ""
+
+msgid "proprietary"
+msgstr ""
+
+msgid "protect"
+msgstr ""
+
+msgid "protection"
+msgstr ""
+
+#, !!!
+msgid "protocol"
+msgstr ""
+
+msgid "provide"
+msgstr ""
+
+msgid "provider"
+msgstr ""
+
+msgid "proxy"
+msgstr ""
+
+msgid "public"
+msgstr ""
+
+msgid "publish"
+msgstr ""
+
+msgid "pull"
+msgstr ""
+
+msgid "push"
+msgstr ""
+
+msgid "quality"
+msgstr ""
+
+msgid "quantity"
+msgstr ""
+
+msgid "quarantine"
+msgstr ""
+
+msgid "query"
+msgstr ""
+
+msgid "queue"
+msgstr ""
+
+msgid "quit"
+msgstr ""
+
+msgid "quota"
+msgstr ""
+
+msgid "quotation"
+msgstr ""
+
+msgid "quote"
+msgstr ""
+
+msgid "raise"
+msgstr ""
+
+msgid "random"
+msgstr ""
+
+msgid "range"
+msgstr ""
+
+msgid "rate"
+msgstr ""
+
+msgid "ratio"
+msgstr ""
+
+#, fuzzy
+msgid "raw"
+msgstr "gambar"
+
+msgid "ray"
+msgstr ""
+
+msgid "read"
+msgstr ""
+
+msgid "read only"
+msgstr ""
+
+msgid "ready"
+msgstr ""
+
+msgid "real"
+msgstr ""
+
+msgid "reboot"
+msgstr ""
+
+msgid "receipt"
+msgstr ""
+
+msgid "receive"
+msgstr ""
+
+msgid "recognition"
+msgstr ""
+
+#, fuzzy
+msgid "reconnect"
+msgstr "menghubungkan"
+
+msgid "record"
+msgstr ""
+
+msgid "record (verb)"
+msgstr ""
+
+msgid "recover"
+msgstr ""
+
+msgid "recovery"
+msgstr ""
+
+#
+msgid "recursion"
+msgstr ""
+
+msgid "recursive"
+msgstr ""
+
+msgid "redirect"
+msgstr ""
+
+msgid "redo"
+msgstr ""
+
+msgid "reduce"
+msgstr ""
+
+msgid "reduction"
+msgstr ""
+
+msgid "redundant"
+msgstr ""
+
+msgid "reference"
+msgstr ""
+
+msgid "referer"
+msgstr ""
+
+msgid "referral"
+msgstr ""
+
+msgid "reflexive"
+msgstr ""
+
+msgid "refresh"
+msgstr ""
+
+msgid "refuse"
+msgstr ""
+
+msgid "regenerate"
+msgstr ""
+
+msgid "register"
+msgstr ""
+
+msgid "registration"
+msgstr ""
+
+msgid "registry"
+msgstr ""
+
+msgid "regular"
+msgstr ""
+
+msgid "regulate"
+msgstr ""
+
+msgid "relay"
+msgstr ""
+
+msgid "release"
+msgstr ""
+
+msgid "remaining"
+msgstr ""
+
+msgid "remind"
+msgstr ""
+
+msgid "remote"
+msgstr ""
+
+msgid "removable"
+msgstr ""
+
+msgid "remove"
+msgstr ""
+
+msgid "rename"
+msgstr ""
+
+msgid "render"
+msgstr ""
+
+msgid "renew"
+msgstr ""
+
+msgid "repair"
+msgstr ""
+
+msgid "repeat"
+msgstr ""
+
+msgid "replace"
+msgstr ""
+
+#, fuzzy
+msgid "replicate"
+msgstr "menggandakan"
+
+#, fuzzy
+msgid "replication"
+msgstr "aplikasi"
+
+msgid "reply"
+msgstr ""
+
+msgid "report"
+msgstr ""
+
+msgid "repository"
+msgstr ""
+
+msgid "request"
+msgstr ""
+
+msgid "require"
+msgstr ""
+
+msgid "requirement"
+msgstr ""
+
+msgid "reset"
+msgstr ""
+
+msgid "resize"
+msgstr ""
+
+msgid "resolution"
+msgstr ""
+
+msgid "resolver"
+msgstr ""
+
+#, fuzzy
+msgid "resource"
+msgstr "sumber"
+
+msgid "response"
+msgstr ""
+
+msgid "restart"
+msgstr ""
+
+msgid "restore"
+msgstr ""
+
+msgid "restrict"
+msgstr ""
+
+msgid "restriction"
+msgstr ""
+
+msgid "result"
+msgstr ""
+
+msgid "resume"
+msgstr ""
+
+msgid "retrieve"
+msgstr ""
+
+msgid "retry"
+msgstr ""
+
+msgid "return"
+msgstr ""
+
+msgid "reverse"
+msgstr ""
+
+msgid "revert"
+msgstr ""
+
+msgid "revocation"
+msgstr ""
+
+msgid "revoke"
+msgstr ""
+
+#, fuzzy
+msgid "root"
+msgstr "boot"
+
+msgid "rotate"
+msgstr ""
+
+msgid "route"
+msgstr ""
+
+msgid "router"
+msgstr ""
+
+msgid "routine"
+msgstr ""
+
+msgid "row"
+msgstr ""
+
+msgid "rule"
+msgstr ""
+
+msgid "run"
+msgstr ""
+
+msgid "runtime"
+msgstr ""
+
+msgid "safe"
+msgstr ""
+
+msgid "sample"
+msgstr ""
+
+msgid "sans"
+msgstr ""
+
+msgid "save"
+msgstr ""
+
+msgid "scalable"
+msgstr ""
+
+msgid "scale"
+msgstr ""
+
+msgid "scan"
+msgstr ""
+
+msgid "scanner"
+msgstr ""
+
+msgid "schedule"
+msgstr ""
+
+msgid "scheme"
+msgstr ""
+
+msgid "scratch"
+msgstr ""
+
+msgid "screen"
+msgstr ""
+
+msgid "screw"
+msgstr ""
+
+msgid "script"
+msgstr ""
+
+# من لف الشئ يلفه
+# فتقول:
+# لف ﻷعلى=scroll up ، وهكذا
+msgid "scroll"
+msgstr ""
+
+msgid "search"
+msgstr ""
+
+msgid "section"
+msgstr ""
+
+#, fuzzy
+msgid "sector"
+msgstr "vektor"
+
+msgid "secure"
+msgstr ""
+
+msgid "security"
+msgstr ""
+
+msgid "seek"
+msgstr ""
+
+msgid "segment"
+msgstr ""
+
+msgid "segmentation"
+msgstr ""
+
+msgid "select"
+msgstr ""
+
+#, fuzzy
+msgid "selection"
+msgstr "penghapusan"
+
+msgid "semantic"
+msgstr ""
+
+msgid "send"
+msgstr ""
+
+msgid "sender"
+msgstr ""
+
+msgid "sensitive"
+msgstr ""
+
+msgid "sensor"
+msgstr ""
+
+msgid "serif"
+msgstr ""
+
+msgid "server"
+msgstr ""
+
+msgid "session"
+msgstr ""
+
+msgid "set"
+msgstr ""
+
+msgid "settings"
+msgstr ""
+
+msgid "setup"
+msgstr ""
+
+msgid "shading"
+msgstr ""
+
+msgid "shadow"
+msgstr ""
+
+msgid "shape"
+msgstr ""
+
+msgid "share"
+msgstr ""
+
+msgid "sharp"
+msgstr ""
+
+msgid "sheet"
+msgstr ""
+
+msgid "shell"
+msgstr ""
+
+msgid "shift"
+msgstr ""
+
+msgid "shortcut"
+msgstr ""
+
+msgid "show"
+msgstr "memperlihatkan"
+
+msgid "shrink"
+msgstr "mengecilkan"
+
+msgid "shut down"
+msgstr "mematikan"
+
+msgid "side bar"
+msgstr ""
+
+msgid "sign"
+msgstr ""
+
+msgid "signal"
+msgstr "sinyal"
+
+msgid "signature"
+msgstr ""
+
+#, fuzzy
+msgid "site"
+msgstr "ukuran"
+
+msgid "size"
+msgstr "ukuran"
+
+msgid "skew"
+msgstr ""
+
+msgid "skip"
+msgstr "lewati"
+
+msgid "slave"
+msgstr ""
+
+msgid "sleep"
+msgstr ""
+
+msgid "slide"
+msgstr ""
+
+msgid "slot"
+msgstr ""
+
+#, fuzzy
+msgid "smart"
+msgstr "mulai"
+
+msgid "smiley"
+msgstr ""
+
+msgid "smooth"
+msgstr ""
+
+msgid "socket"
+msgstr ""
+
+msgid "software"
+msgstr "perangkat lunak"
+
+msgid "solid"
+msgstr ""
+
+msgid "sort"
+msgstr ""
+
+msgid "source"
+msgstr "sumber"
+
+msgid "space"
+msgstr ""
+
+msgid "spacing"
+msgstr ""
+
+msgid "spam"
+msgstr ""
+
+msgid "span"
+msgstr ""
+
+msgid "spawn"
+msgstr ""
+
+msgid "specify"
+msgstr ""
+
+msgid "speed"
+msgstr "kecepatan"
+
+msgid "spelling"
+msgstr ""
+
+msgid "splash"
+msgstr ""
+
+msgid "split"
+msgstr ""
+
+msgid "spool"
+msgstr ""
+
+msgid "spread sheet"
+msgstr ""
+
+msgid "stack"
+msgstr ""
+
+msgid "stand alone"
+msgstr ""
+
+msgid "standard"
+msgstr ""
+
+msgid "start"
+msgstr "mulai"
+
+msgid "state"
+msgstr ""
+
+msgid "static"
+msgstr "statik"
+
+msgid "statistics"
+msgstr "statistik"
+
+msgid "step"
+msgstr "langkah"
+
+msgid "stop"
+msgstr "berhenti"
+
+msgid "storage"
+msgstr ""
+
+msgid "store"
+msgstr ""
+
+msgid "stream"
+msgstr ""
+
+msgid "stretch"
+msgstr ""
+
+msgid "strict"
+msgstr ""
+
+msgid "string"
+msgstr ""
+
+msgid "strip"
+msgstr ""
+
+msgid "stroke"
+msgstr ""
+
+msgid "structure"
+msgstr "struktur"
+
+msgid "stub"
+msgstr ""
+
+msgid "style"
+msgstr "gaya"
+
+msgid "sub directory"
+msgstr "sub direktori"
+
+msgid "sub folder"
+msgstr ""
+
+msgid "submission"
+msgstr ""
+
+msgid "submit"
+msgstr ""
+
+msgid "subscribe"
+msgstr ""
+
+#, fuzzy
+msgid "subscription"
+msgstr "gambaran"
+
+msgid "subtract"
+msgstr ""
+
+msgid "succeed"
+msgstr ""
+
+msgid "suggest"
+msgstr "menyarankan"
+
+msgid "suggestion"
+msgstr "saran"
+
+msgid "sum (noun)"
+msgstr ""
+
+msgid "sum (verb)"
+msgstr ""
+
+msgid "summary"
+msgstr "simpulan"
+
+msgid "support"
+msgstr "dukungan"
+
+msgid "surface"
+msgstr ""
+
+msgid "suspend"
+msgstr ""
+
+msgid "suspicious"
+msgstr ""
+
+msgid "swap"
+msgstr ""
+
+msgid "switch"
+msgstr ""
+
+msgid "symbol"
+msgstr ""
+
+msgid "synchronize"
+msgstr ""
+
+msgid "syntax"
+msgstr "sintaks"
+
+msgid "system"
+msgstr "sistem"
+
+msgid "tab"
+msgstr ""
+
+msgid "table"
+msgstr "tabel"
+
+msgid "tag"
+msgstr ""
+
+msgid "target"
+msgstr "target"
+
+msgid "template"
+msgstr ""
+
+msgid "temporary"
+msgstr ""
+
+msgid "terminal"
+msgstr "terminal"
+
+msgid "test"
+msgstr "tes"
+
+msgid "text"
+msgstr "teks"
+
+msgid "texture"
+msgstr "tekstur"
+
+msgid "theme"
+msgstr "tema"
+
+msgid "thread"
+msgstr ""
+
+msgid "thumbnail"
+msgstr ""
+
+msgid "tick"
+msgstr ""
+
+#, fuzzy
+msgid "tile"
+msgstr "judul"
+
+msgid "time"
+msgstr "waktu"
+
+msgid "time out"
+msgstr "waktu habis"
+
+msgid "tip"
+msgstr ""
+
+msgid "title"
+msgstr "judul"
+
+msgid "toggle"
+msgstr ""
+
+msgid "token"
+msgstr ""
+
+msgid "tool"
+msgstr ""
+
+msgid "tool bar"
+msgstr ""
+
+msgid "tool box"
+msgstr ""
+
+msgid "topic"
+msgstr ""
+
+msgid "trace"
+msgstr ""
+
+msgid "track"
+msgstr ""
+
+msgid "traffic"
+msgstr ""
+
+msgid "transfer"
+msgstr ""
+
+msgid "transform"
+msgstr ""
+
+msgid "transformation"
+msgstr ""
+
+msgid "trap"
+msgstr ""
+
+msgid "trash"
+msgstr ""
+
+msgid "trigger"
+msgstr ""
+
+msgid "trouble shoot"
+msgstr ""
+
+msgid "tune"
+msgstr ""
+
+msgid "tweak"
+msgstr ""
+
+msgid "type (noun)"
+msgstr ""
+
+msgid "type (verb)"
+msgstr ""
+
+msgid "type face"
+msgstr ""
+
+msgid "unavailable"
+msgstr "tidak tersedia"
+
+#, fuzzy
+msgid "undelete"
+msgstr "menghapus"
+
+msgid "under line"
+msgstr ""
+
+msgid "undo"
+msgstr ""
+
+msgid "uninstall"
+msgstr ""
+
+msgid "unit"
+msgstr ""
+
+msgid "unknown"
+msgstr "tidak diketahui"
+
+msgid "unload"
+msgstr ""
+
+msgid "named"
+msgstr "dinamakan"
+
+msgid "reachable"
+msgstr ""
+
+msgid "readable"
+msgstr ""
+
+msgid "unspecified"
+msgstr ""
+
+msgid "unsubscribe"
+msgstr ""
+
+msgid "unsupported"
+msgstr ""
+
+msgid "update"
+msgstr ""
+
+msgid "upgrade"
+msgstr ""
+
+msgid "upload"
+msgstr ""
+
+msgid "upper case"
+msgstr ""
+
+msgid "usage"
+msgstr "penggunaan"
+
+msgid "user"
+msgstr "pengguna"
+
+msgid "user name"
+msgstr "nama pengguna"
+
+msgid "utility"
+msgstr "perkakas"
+
+msgid "valid"
+msgstr "valid"
+
+msgid "validation"
+msgstr "validasi"
+
+msgid "validity"
+msgstr "validitas"
+
+msgid "value"
+msgstr "nilai"
+
+msgid "variable"
+msgstr "variabel"
+
+msgid "vector"
+msgstr "vektor"
+
+msgid "verbose"
+msgstr ""
+
+msgid "verify"
+msgstr "verifikasi"
+
+msgid "version"
+msgstr "versi"
+
+msgid "video"
+msgstr "video"
+
+msgid "view"
+msgstr "lihat"
+
+msgid "viewer"
+msgstr ""
+
+msgid "virtual"
+msgstr "semu"
+
+msgid "virus"
+msgstr "virus"
+
+msgid "visual"
+msgstr "visual"
+
+msgid "volume"
+msgstr ""
+
+msgid "wallpaper"
+msgstr ""
+
+msgid "warn"
+msgstr ""
+
+msgid "web"
+msgstr "jejaring"
+
+msgid "web cam"
+msgstr ""
+
+msgid "web master"
+msgstr ""
+
+msgid "web page"
+msgstr "halaman web"
+
+msgid "widget"
+msgstr ""
+
+msgid "width"
+msgstr "lebar"
+
+msgid "wi fi"
+msgstr ""
+
+msgid "wild card"
+msgstr ""
+
+msgid "window"
+msgstr "jendela"
+
+msgid "wizard"
+msgstr ""
+
+msgid "word processor"
+msgstr "pemroses kata"
+
+msgid "work around"
+msgstr ""
+
+msgid "work group"
+msgstr ""
+
+msgid "work station"
+msgstr ""
+
+msgid "wrap"
+msgstr ""
+
+msgid "yes"
+msgstr ""
+
+msgid "zone"
+msgstr ""
+
+msgid "zoom"
+msgstr ""

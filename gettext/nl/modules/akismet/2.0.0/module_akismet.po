@@ -1,0 +1,99 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Dutch Translation for akismet 2.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-21 21:05+0000\n"
+"PO-Revision-Date: 2011-07-25 00:30+0200\n"
+"Last-Translator: Erik <erik.spaan@gmail.com>\n"
+"Language-Team: Dutch Zikula Community\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: lib/Akismet/Controller/Admin.php:50
+msgid ""
+"Error! Sorry! Invalid API key. Please obtain one from http://wordpress.com/"
+"api-keys/."
+msgstr ""
+"Foutmelding! Ongeldige API sleutel. Er kan er één gratis opgehaald worden "
+"via http://wordpress.com/api-keys/."
+
+#: lib/Akismet/Controller/Admin.php:62
+msgid "Done! Module configuration updated."
+msgstr "Module configuratie bijgewerkt."
+
+#: lib/Akismet/Version.php:15
+msgid "Akismet"
+msgstr "Akismet"
+
+#. ! module url in lowercase and different from displayname
+#: lib/Akismet/Version.php:17
+msgid "akismet"
+msgstr "akismet"
+
+#: lib/Akismet/Version.php:19
+msgid "Akismet spam detection service"
+msgstr "Akismet SPAM detectie"
+
+#: templates/akismet_admin_modifyconfig.tpl:4
+msgid "Akismet settings"
+msgstr "Akismet instellingen"
+
+#: templates/akismet_admin_modifyconfig.tpl:7
+#, php-format
+msgid ""
+"%s is a spam detection service that can, in many cases, eliminate comment "
+"and trackback spam. To use akismet you need an %s. Simply signup for an "
+"account at wordpress.com but don't create a blog - your API key will be in "
+"your profile."
+msgstr ""
+"%s is een spam detectie service dat meestal spam in reactie-formulieren kan "
+"herkennen en uitfilteren. Om Akismet te gebruiken is er een %s nodig. Een "
+"account registreren op wordpress.com is voldoende, er hoeft dus geen blog "
+"aangemaakt te worden - de API sleutel is te vinden in het profiel."
+
+#: templates/akismet_admin_modifyconfig.tpl:8
+#, php-format
+msgid "Akismet has caught <strong>%s spam</strong> for you so far."
+msgstr "Akismet heeft tot nu toe <strong>%s spamberichten</strong> onderschept."
+
+#: templates/akismet_admin_modifyconfig.tpl:9
+msgid ""
+"To test akismet is functioning submit some content with the author name of "
+"\"viagra-test-123\". This is automatically treated as spam by akismet."
+msgstr ""
+"Om de functionaliteit van akismet te testen, kan er simpelweg een reactie "
+"ingestuurd worden met als naam van de auteur \"viagra-test-123\". Dit wordt "
+"direct als spam herkend door Akismet."
+
+#: templates/akismet_admin_modifyconfig.tpl:15
+msgid "Enable akismet"
+msgstr "Akismet inschakelen"
+
+#: templates/akismet_admin_modifyconfig.tpl:19
+msgid "Wordpress.com API key"
+msgstr "Wordpress.com API sleutel"
+
+#: templates/akismet_admin_modifyconfig.tpl:22
+msgid ""
+"Your API key is invalid. Please obtain one from <a href=\"http://wordpress."
+"com/api-keys/\">http://wordpress.com/api-keys/</a>."
+msgstr ""
+"De API sleutel is ongeldig. Er kan er één gratis opgehaald worden via <a "
+"href=\"http://wordpress.com/api-keys/\">http://wordpress.com/api-keys/</a>."
+
+#: templates/akismet_admin_modifyconfig.tpl:27
+msgid "Save"
+msgstr "Opslaan"
+
+#: templates/akismet_admin_modifyconfig.tpl:28
+msgid "Cancel"
+msgstr "Annuleren"

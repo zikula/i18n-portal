@@ -1,0 +1,193 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-26 09:53+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.5.1\n"
+
+#: pnadmin.php:100
+msgid "Done! Module configuration updated."
+msgstr ""
+
+#: pnversion.php:16
+msgid "Bad Behaviour"
+msgstr ""
+
+#. ! module url in lowercase and different to displayname
+#: pnversion.php:18
+msgid "bad_behaviour"
+msgstr ""
+
+#: pnversion.php:20 pntemplates/bad_behaviour_admin_menu.htm:4
+msgid "Bad Behaviour spam detection"
+msgstr ""
+
+#: pnincludes/bad-behavior/admin.inc.php:19
+msgid "Bad Behavior"
+msgstr ""
+
+#: pnincludes/bad-behavior-zikula.php:122
+#: pnincludes/bad-behavior-zikula.php:124
+#, php-format
+msgid ""
+"<a href=\"http://www.bad-behavior.ioerror.us/\">Bad Behavior</a> has blocked "
+"<strong>%s</strong> access attempts in the last 7 days."
+msgstr ""
+
+#: pnadminapi.php:25 pntemplates/bad_behaviour_admin_view.htm:3
+#: pntemplates/bad_behaviour_admin_display.htm:4
+msgid "View blocked Accesses"
+msgstr ""
+
+#: pnadminapi.php:28 pntemplates/bad_behaviour_admin_modifyconfig.htm:4
+#: pntemplates/bad_behaviour_admin_modifyconfig.htm:5
+msgid "Settings"
+msgstr ""
+
+#: pninit.php:31
+msgid "Error! Sorry! Table creation failed."
+msgstr ""
+
+#: pninit.php:37 pninit.php:62
+msgid "Error! Unable to create system init hook"
+msgstr ""
+
+#: pninit.php:40 pninit.php:66
+msgid ""
+"BadBehaviour have been enabled, you can change this in the hook settings "
+"(Administration -> Modules -> System hooks) by deactivating the BadBehaviour "
+"systeminit hook for Zikula itself"
+msgstr ""
+
+#: pninit.php:84
+msgid "Unable to delete system init hook"
+msgstr ""
+
+#: pntemplates/bad_behaviour_admin_intro.htm:3
+msgid "financial contribution"
+msgstr ""
+
+#: pntemplates/bad_behaviour_admin_intro.htm:5
+msgid ""
+"For more information please visit the <a href=\"http://www.bad-behavior."
+"ioerror.us/\">Bad Behavior</a> homepage."
+msgstr ""
+
+#: pntemplates/bad_behaviour_admin_intro.htm:6
+#, php-format
+msgid ""
+"If you find Bad Behavior valuable, please consider making a <a href=\"%1$s\">"
+"%2$s</a> to further development of Bad Behavior."
+msgstr ""
+
+#: pntemplates/bad_behaviour_admin_intro.htm:8
+msgid ""
+"To test Bad Behaviour is functioning correctly add the sting \"Bad Behavior "
+"Test\" as the USER_AGENT of an HTTP request. Sound complicated? Under IE "
+"this probably is.... However if using FireFox install the <a href=\"https://"
+"addons.mozilla.org/firefox/967/\">\"Modify Headers\"</a> add-on and this can "
+"be done from the GUI."
+msgstr ""
+
+#: pntemplates/bad_behaviour_admin_view.htm:11
+#: pntemplates/bad_behaviour_admin_display.htm:9
+msgid "IP address"
+msgstr ""
+
+#: pntemplates/bad_behaviour_admin_view.htm:12
+#: pntemplates/bad_behaviour_admin_display.htm:13
+msgid "Date"
+msgstr ""
+
+#: pntemplates/bad_behaviour_admin_view.htm:13
+#: pntemplates/bad_behaviour_admin_display.htm:49
+msgid "Message returned"
+msgstr ""
+
+#: pntemplates/bad_behaviour_admin_view.htm:14
+msgid "Options"
+msgstr ""
+
+#: pntemplates/bad_behaviour_admin_view.htm:23
+msgid "View"
+msgstr ""
+
+#: pntemplates/bad_behaviour_admin_view.htm:26
+msgid "No items found."
+msgstr ""
+
+#: pntemplates/bad_behaviour_admin_modifyconfig.htm:12
+msgid "Enable Bad Behaviour"
+msgstr ""
+
+#: pntemplates/bad_behaviour_admin_modifyconfig.htm:20
+msgid "Enable logging"
+msgstr ""
+
+#: pntemplates/bad_behaviour_admin_modifyconfig.htm:28
+msgid "Verbose HTTP request logging"
+msgstr ""
+
+#: pntemplates/bad_behaviour_admin_modifyconfig.htm:34
+msgid "Logs all requests not just those blocked"
+msgstr ""
+
+#: pntemplates/bad_behaviour_admin_modifyconfig.htm:37
+msgid "Strict checking"
+msgstr ""
+
+#: pntemplates/bad_behaviour_admin_modifyconfig.htm:43
+msgid "Blocks more spam but may block some people"
+msgstr ""
+
+#: pntemplates/bad_behaviour_admin_modifyconfig.htm:46
+msgid "Items per page"
+msgstr ""
+
+#: pntemplates/bad_behaviour_admin_modifyconfig.htm:52
+msgid "Update Configuration"
+msgstr ""
+
+#: pntemplates/bad_behaviour_admin_display.htm:17
+msgid "Request Method"
+msgstr ""
+
+#: pntemplates/bad_behaviour_admin_display.htm:21
+msgid "Request URI"
+msgstr ""
+
+#: pntemplates/bad_behaviour_admin_display.htm:25
+msgid "Server Protocol"
+msgstr ""
+
+#: pntemplates/bad_behaviour_admin_display.htm:29
+msgid "HTTP Headers"
+msgstr ""
+
+#: pntemplates/bad_behaviour_admin_display.htm:33
+msgid "User Agent"
+msgstr ""
+
+#: pntemplates/bad_behaviour_admin_display.htm:37
+msgid "Request Entity"
+msgstr ""
+
+#: pntemplates/bad_behaviour_admin_display.htm:41
+msgid "HTTP Response"
+msgstr ""
+
+#: pntemplates/bad_behaviour_admin_display.htm:45
+msgid "Explanation"
+msgstr ""

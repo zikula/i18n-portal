@@ -1,0 +1,250 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Dutch translation for Ratings 2.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-06 17:12+0000\n"
+"PO-Revision-Date: 2010-04-07 00:28+0200\n"
+"Last-Translator: Arjen <teb@zikula.nl>\n"
+"Language-Team: Dutch Zikula Community\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnadmin.php:61
+msgid "View"
+msgstr "Weergeven"
+
+#: pnadmin.php:66
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: pnadmin.php:107 pnadminapi.php:27
+msgid "No such item found."
+msgstr "Dit item werd niet gevonden."
+
+#: pnadmin.php:138
+msgid "Done! Item deleted."
+msgstr "Item verwijderd."
+
+#: pnadmin.php:161
+msgid "Percentage"
+msgstr "Percentage"
+
+#: pnadmin.php:162
+msgid "Number out of five"
+msgstr "Getal van 1 tot 5"
+
+#: pnadmin.php:163
+msgid "Number out of ten"
+msgstr "Getal van 1 tot 10"
+
+#: pnadmin.php:164
+msgid "Stars out of five"
+msgstr "Sterren van 1 tot 5"
+
+#: pnadmin.php:165
+msgid "Stars out of ten"
+msgstr "Sterren van 1 tot 10"
+
+#: pnadmin.php:166
+msgid "Low (user can vote multiple times)"
+msgstr "Laag (gebruiker kan meerdere malen stemmen)"
+
+#: pnadmin.php:167
+msgid "Medium (user can vote once per session)"
+msgstr "Midden (gebruiker kan slechts één maal stemmen per sessie)"
+
+#: pnadmin.php:168
+msgid "High (user can only vote once)"
+msgstr "Hoog (gebruiker kan slechts één maal stemmen)"
+
+#: pnadmin.php:224
+msgid "Done! Module configuration updated."
+msgstr "Module configuratie bijgewerkt."
+
+#: pnajax.php:29
+msgid "Sorry! No authorization to access this module."
+msgstr "U heeft geen toegangsrechten voor deze module."
+
+#: pnversion.php:13 pntemplates/ratings_admin_menu.htm:4
+msgid "Ratings"
+msgstr "Beoordelingen"
+
+#: pnversion.php:14
+msgid "Rate Zikula items."
+msgstr "Beoordeel Zikula items."
+
+#. !module name that appears in URL
+#: pnversion.php:15
+msgid "ratings"
+msgstr "beoordelingen"
+
+#: pnuserapi.php:136 pnuserapi.php:219
+msgid "Error! Could not load items."
+msgstr "Foutmelding: Items konden niet geladen worden."
+
+#: pnuserapi.php:229
+msgid "Error! Update attempt failed."
+msgstr "Foutmelding: Poging tot bijwerken mislukt."
+
+#: pnuserapi.php:241 pnuserapi.php:259
+msgid "Error! Save failed."
+msgstr "Foutmelding: Poging tot opslaan mislukt."
+
+#: pnuser.php:22
+msgid "Sorry! This module cannot be accessed directly."
+msgstr "Deze module kan niet rechtstreeks worden benaderd."
+
+#: pnuser.php:244
+msgid "Done! Thank you for rating this item."
+msgstr "Bedankt voor het beoordelen van dit item."
+
+#: pnadminapi.php:40 pnadminapi.php:43
+msgid "Error! Deletion attempt failed."
+msgstr "Foutmelding: Poging tot verwijderen mislukt."
+
+#: pnadminapi.php:125 pntemplates/ratings_admin_view.htm:4
+#: pntemplates/ratings_admin_view.htm:5
+msgid "View all ratings"
+msgstr "Alle beoordelingen tonen"
+
+#: pnadminapi.php:128 pntemplates/ratings_admin_modifyconfig.htm:2
+msgid "Settings"
+msgstr "Instellingen"
+
+#: pninit.php:23
+msgid "Error: Creation of the tables into the database attempt failed."
+msgstr "Foutmelding: Database tabellen konden niet aangemaakt worden."
+
+#: pninit.php:33
+msgid "Error: Set up module variables attempt failed."
+msgstr "Foutmelding: Instellen van module variabelen mislukt."
+
+#: pninit.php:40
+msgid "Error: Set up module hooks attempt failed."
+msgstr "Foutmelding: Instellen van module hooks mislukt."
+
+#: pninit.php:115
+msgid "Error: Could not deregister hook."
+msgstr "Foutmelding: Kon hook niet deregistreren."
+
+#: pninit.php:121
+msgid "Error: Could not drop database tables."
+msgstr "Foutmelding: Database tabellen konden niet verwijderd worden."
+
+#: pntemplates/ratings_admin_delete.htm:3
+msgid "Delete item's rating"
+msgstr "Beoordeling van dit item verwijderen"
+
+#: pntemplates/ratings_admin_delete.htm:7
+msgid "Do you really want to delete the rating of this item?"
+msgstr "Dient de beoordeling van dit item werkelijk verwijderd te worden?"
+
+#: pntemplates/ratings_admin_delete.htm:14
+msgid "Confirmation prompt"
+msgstr "Bevestiging gevraagd"
+
+#: pntemplates/ratings_admin_delete.htm:16
+msgid "Confirm deletion?"
+msgstr "Bevestig verwijdering?"
+
+#: pntemplates/ratings_admin_delete.htm:17
+#: pntemplates/ratings_admin_modifyconfig.htm:47
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: pntemplates/ratings_admin_view.htm:9
+msgid "Module"
+msgstr "Module"
+
+#: pntemplates/ratings_admin_view.htm:10
+msgid "Item ID"
+msgstr "Item ID"
+
+#: pntemplates/ratings_admin_view.htm:11
+msgid "Number of votes"
+msgstr "Aantal stemmen"
+
+#: pntemplates/ratings_admin_view.htm:12
+#: pntemplates/ratings_user_display.htm:10
+msgid "Rating"
+msgstr "Beoordeling"
+
+#: pntemplates/ratings_admin_view.htm:13
+msgid "Options"
+msgstr "Opties"
+
+#: pntemplates/ratings_admin_view.htm:31
+msgid "No items found."
+msgstr "Geen items gevonden."
+
+#: pntemplates/ratings_admin_modifyconfig.htm:13
+msgid "Items per page"
+msgstr "Items per pagina"
+
+#: pntemplates/ratings_admin_modifyconfig.htm:17
+msgid "Default ratings style"
+msgstr "Standaard beoordelings stijl"
+
+#: pntemplates/ratings_admin_modifyconfig.htm:23
+msgid "Use ajax for saving rate"
+msgstr "Gebruik AJAX voor het inzenden van een beoordeling"
+
+#: pntemplates/ratings_admin_modifyconfig.htm:25
+msgid "If disabled the standard redirection will be used."
+msgstr "Indien uitgeschakeld zal de standaard doorverwijzing gebruikt worden."
+
+#: pntemplates/ratings_admin_modifyconfig.htm:28
+msgid "Display stars dynamically using ajax"
+msgstr "Toon de sterren dynamisch met gebruik van javascript"
+
+#: pntemplates/ratings_admin_modifyconfig.htm:30
+msgid "Only works if stars is set as default ratings style."
+msgstr ""
+"Dit werkt alleen als de beoordelings stijl ingesteld staat op 'sterren'."
+
+#: pntemplates/ratings_admin_modifyconfig.htm:33
+msgid "Display an informative message about the score"
+msgstr "Toon een informatief bericht met betrekking tot de score"
+
+#: pntemplates/ratings_admin_modifyconfig.htm:35
+msgid "It tells to the user which is the lowest/higher value."
+msgstr "Dit zal de gebruiker uitleggen wat een lage of hoge beoordeling is."
+
+#: pntemplates/ratings_admin_modifyconfig.htm:38
+msgid "Security against rate rigging"
+msgstr "Beveiliging tegen vervalsen van de uitslag"
+
+#: pntemplates/ratings_admin_modifyconfig.htm:46
+msgid "Update Configuration"
+msgstr "Configuratie bijwerken"
+
+#: pntemplates/ratings_user_display.htm:13
+msgid "No one has rated this item yet - be the first!"
+msgstr "Dit item is nog niet beoordeeld - wees de eerste!"
+
+#: pntemplates/ratings_user_display.htm:87
+msgid "Rate this item"
+msgstr "Beoordeel dit item"
+
+#: pntemplates/ratings_user_display.htm:113
+#: pntemplates/ratings_user_display.htm:116
+msgid "Submit"
+msgstr "Versturen"
+
+#: pntemplates/ratings_user_display.htm:123
+#, php-format
+msgid "%1$s%3$s is the lowest and %2$s%3$s the higher score."
+msgstr ""
+"%1$s%3$s is de laagste beoordeling en %2$s%3$s is de hoogste beoordeling."
+
+#: pntemplates/ratings_user_display.htm:130
+msgid "Recording rating"
+msgstr "Beoordeling wordt opgeslagen"

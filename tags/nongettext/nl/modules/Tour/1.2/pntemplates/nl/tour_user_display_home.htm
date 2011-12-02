@@ -1,0 +1,52 @@
+<!--[*
+ * Zikula Application Framework
+ *
+ * @copyright (c) 2008, Zikula Development Team
+ * @link http://www.zikula.org
+ * @version $Id: tour_user_display_home.htm 713 2010-01-02 15:02:15Z teb $
+ * @license GNU/GPL - http://www.gnu.org/copyleft/gpl.html
+ * @package Zikula_Docs
+ * @subpackage Tour
+ * @author espaan (Erik Spaan)
+ * @link http://zikula.nl Dutch Zikula Community
+*]-->
+<!--[include file="tour_user_menu.htm"]-->
+
+<h1>Welkom bij Zikula</h1>
+<p>Dank u voor het installeren van het Zikula Applicatie Framework. Zikula is gratis, open source software dat u kunt
+gebruiken onder de voorwaarden van de GPL licentie.</p>
+<p>Deze pagina's zijn gemaakt om u te helpen bekend te worden met het systeem. Met de verwijzingen hieronder zouden u aan de
+slag moeten kunnen gaan. Kies een onderwerp dat u interesseert.</p>
+
+<h2>Wat komt hierna?</h2>
+<p><em>Inhoud in ontwikkeling</em></p>
+
+<h2>Andere plekken om te bezoeken</h2>
+<ul>
+	<li><a href="http://zikula.nl" title="Dutch Zikula Community">Nederlandse Zikula Community</a></li>
+    <li><a href="http://community.zikula.org" title="Zikula Community">Zikula Community</a></li>
+	<li><a href="http://community.zikula.org/Wiki.htm" title="Zikula Documentation Wiki">Zikula Documentatie Wiki</a></li>
+	<li><a href="http://community.zikula.org/module-Forum.htm" title="Zikula Support Forums">Zikula Ondersteuning Forums</a></li>
+	<li><a href="http://community.zikula.org/module-Database-main-tid-3.htm" title="Extensions Database">Extensies Database</a></li>
+	<li><a href="http://community.zikula.org/module-Database-main-tid-4.htm" title="Themes database">Thema's database</a></li>
+</ul>
+
+<h2>Gelijk aan de slag</h2>
+<!--[pnsecauthaction comp="::" inst="::" level=ACCESS_ADMIN assign="perm"]-->
+<!--[if $perm]-->
+<p>U gaat naar het beheerderscherm door te klikken op de <a href="<!--[pnmodurl modname=Admin type=admin func=adminpanel]-->">Beheer</a>
+link (normaliter links boven te vinden). Als u uitlogt zal deze link onzichtbaar worden en u kunt weer inloggen middels
+het gebruikers login blok (meestal aan de rechterkant) of door naar het <a href="<!--[pnmodurl modname=Users func=loginscreen]-->">login scherm</a>
+te gaan.</p>
+<!--[else]-->
+<p>U bent momenteel niet ingelogd. U kunt inloggen middels het gebruikers login blok (meestal aan de rechterkant) of door
+naar het <a href="<!--[pnmodurl modname=Users func=loginscreen]-->">login scherm</a> te gaan. U moet hierbij gebruik maken
+van de beheerder gebruikersgegevens zoals u deze hebt ingesteld tijdens het installatieproces. Als u ingelogd bent, zult
+u een Beheer link in het hoofdmenu aantreffen (normaliter links boven te vinden), waarmee u toegang krijgt tot het
+Beheerderscherm.</p>
+<!--[/if]-->
+<p><strong>Tenslotte, om deze module te verwijderen en aan de slag te gaan met uw site... </strong></p>
+<p>Ga eenvoudigweg naar het Beheerderscherm, klik op de Systeem tab, en ga naar de Instellingen.
+Om een andere module weer te geven op de startpagina moet u de start pagina module instellingen veranderen.
+U kunt deze module verwijderen middels het 'Modules' beheer scherm wanneer u dat wilt. Zolang de module
+nog beschikbaar is kunt u deze bekijken middels de <a href="<!--[pnmodurl modname=Tour]-->"><!--[pnmodurl modname=Tour]--></a> link.</p>

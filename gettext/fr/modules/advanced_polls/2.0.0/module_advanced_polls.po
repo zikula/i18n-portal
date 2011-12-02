@@ -1,0 +1,896 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-25 18:13+0000\n"
+"PO-Revision-Date: 2010-08-24 00:11+0200\n"
+"Last-Translator: MagicVince <vincent.mabillot@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnadmin.php:50 pnadmin.php:136 pnadmin.php:273 pnuserapi.php:95
+#: pnuser.php:70
+#, php-format
+msgid "Error! Unable to load class [%s]"
+msgstr "Erreur ! Impossible de charger la classe [%s]"
+
+#: pnadmin.php:94
+msgid "Done! Poll created."
+msgstr "Fait ! Sondage créé."
+
+#: pnadmin.php:116 pnadmin.php:207 pnadmin.php:579 pnuserapi.php:216
+#: pnuserapi.php:258 pnuserapi.php:345 pnuserapi.php:404 pnuser.php:235
+#: pnadminapi.php:93 pnadminapi.php:144 pnadminapi.php:229 pnadminapi.php:284
+#: pnadminapi.php:357
+msgid "Error! No such poll found."
+msgstr "Erreur ! Aucun sondage correspondant trouvé/"
+
+#: pnadmin.php:179
+msgid "Done! Poll updated."
+msgstr "Fait ! Sondage mis à jour."
+
+#: pnadmin.php:239
+msgid "Done! Poll deleted."
+msgstr "Fait ! Sondage supprimé."
+
+#: pnadmin.php:312 pnuser.php:155 pnuser.php:169 pnuser.php:183
+msgid "Edit"
+msgstr "Éditer"
+
+#: pnadmin.php:316 pntemplates/advancedpolls_admin_delete.htm:16
+msgid "Delete"
+msgstr "Supprimer"
+
+#: pnadmin.php:320 pntemplates/advancedpolls_admin_resetvotes.htm:3
+msgid "Reset votes"
+msgstr "Réinitialiser les votes"
+
+#: pnadmin.php:323 pntemplates/advancedpolls_admin_duplicate.htm:3
+#: pntemplates/advancedpolls_admin_duplicate.htm:16
+msgid "Duplicate poll"
+msgstr "Dupliquer le sondage"
+
+#: pnadmin.php:326
+msgid "Voting statistics"
+msgstr "Statistiques de vote"
+
+#: pnadmin.php:441
+msgid "Done! Module configuration updated."
+msgstr "Fait ! Mise à jour de la configuration du module effectuée."
+
+#: pnadmin.php:486
+msgid "Done! Votes reset."
+msgstr "Fait ! Votes réinitialisés."
+
+#: pnadmin.php:611
+msgid "Done! Poll duplicated."
+msgstr "Fait ! Sondage dupliqué."
+
+#: pnajax.php:31
+msgid "Error! No authorization to access this module."
+msgstr "Erreur ! Vous n'avez pas les droits d'accès à ce module."
+
+#: pnajax.php:35
+msgid ""
+"Invalid 'Authkey': This probably means that you pressed the 'Back' button, "
+"or that the page 'Authkey' expired. Please refresh the page and try again."
+msgstr ""
+"Invalid 'Authkey': Vous avez probablement utilisé le bouton \"Page Précédente"
+"\" ou vous dépassé le temps d'utilisation de la page (délai expiré). Merci "
+"de rafraîchir la page et d'essayer à nouveau."
+
+#: pnversion.php:14 pninit.php:175 pntemplates/advancedpolls_user_menu.htm:3
+msgid "Advanced Polls"
+msgstr "Sondages avancés"
+
+#: pnversion.php:15
+msgid "A comprehensive single question polling module"
+msgstr "Un module de sondage avancé pour question simple"
+
+#: pnversion.php:16
+msgid "advancedpolls"
+msgstr "sondages_avances"
+
+#: pntemplates/plugins/function.sortbytypes.php:23
+#: pntemplates/advancedpolls_admin_adminstats.htm:34
+msgid "Vote ID"
+msgstr "ID du vote"
+
+#: pntemplates/plugins/function.sortbytypes.php:24
+#: pntemplates/advancedpolls_admin_adminstats.htm:35
+msgid "IP address"
+msgstr "Adresse IUP"
+
+#: pntemplates/plugins/function.sortbytypes.php:25
+#: pntemplates/advancedpolls_admin_adminstats.htm:36
+msgid "Time"
+msgstr "Heure"
+
+#: pntemplates/plugins/function.sortbytypes.php:26
+#: pntemplates/advancedpolls_admin_adminstats.htm:37
+msgid "Username"
+msgstr "Pseudo"
+
+#: pntemplates/plugins/function.sortbytypes.php:27
+#: pntemplates/advancedpolls_admin_adminstats.htm:38
+msgid "Vote rank"
+msgstr "Rang du vote"
+
+#: pntemplates/plugins/function.sortbytypes.php:28
+#: pntemplates/advancedpolls_admin_adminstats.htm:39
+msgid "Option"
+msgstr "Option"
+
+#: pntemplates/plugins/function.multipleselecttypes.php:23
+msgid "Single"
+msgstr "Unique"
+
+#: pntemplates/plugins/function.multipleselecttypes.php:24
+msgid "Multiple"
+msgstr "Multiple"
+
+#: pntemplates/plugins/function.multipleselecttypes.php:25
+msgid "Ranked"
+msgstr "Ordonné"
+
+#: pntemplates/plugins/function.votingtypes.php:23
+msgid "Free"
+msgstr "Libre"
+
+#: pntemplates/plugins/function.votingtypes.php:24
+msgid "User ID"
+msgstr "ID Utilisateur"
+
+#: pntemplates/plugins/function.votingtypes.php:25
+msgid "Cookie"
+msgstr "Cookie"
+
+#: pntemplates/plugins/function.votingtypes.php:26
+msgid "IP Address"
+msgstr "Adresse IP"
+
+#: pntemplates/plugins/function.sortordertypes.php:23
+msgid "Ascending"
+msgstr "Ascendant"
+
+#: pntemplates/plugins/function.sortordertypes.php:24
+msgid "Descending"
+msgstr "Descendant"
+
+#: pntemplates/plugins/function.tiebreaktypes.php:23
+msgid "None"
+msgstr "Aucun"
+
+#: pntemplates/plugins/function.tiebreaktypes.php:24
+msgid "Vote time count back"
+msgstr "Décompte décroissant par heure de vote"
+
+#: pntemplates/plugins/function.tiebreaktypes.php:25
+msgid "Alphabetical"
+msgstr "Alphabétique"
+
+#: pnuserapi.php:88
+msgid "Error! Could not load polls."
+msgstr "Erreur ! Impossible de charger des sondages."
+
+#: pnuserapi.php:321
+msgid "Error! No poll authorisation method."
+msgstr "Erreur ! Méthode de sondage non autorisée."
+
+#: pnuserapi.php:365
+msgid "Error! Reseting the votes of a recurring poll failed."
+msgstr ""
+"Erreur ! Échec de la réinitialisation des votes d'un sondage récurrent."
+
+#: pnuserapi.php:382
+msgid "Error! Reseting the dates of a recurring poll failed."
+msgstr ""
+"Erreur ! Échec de la réinitialisation des dates d'un sondage récurrent."
+
+#: pnuserapi.php:495
+msgid "Error! Failed to register vote."
+msgstr "Erreur ! Échec lors de l'enregistrement du vote."
+
+#: pnblocks/polllist.php:31
+msgid "Poll list"
+msgstr "Liste des sondages"
+
+#: pnblocks/polllist.php:32
+msgid "Display list of open polls"
+msgstr "Afficher la liste des sondages ouverts"
+
+#: pnblocks/pollwarn.php:30
+msgid "Poll warn"
+msgstr "Prévenir du sondage"
+
+#: pnblocks/pollwarn.php:31
+msgid "Warns if poll is unanswered"
+msgstr "Prévenir en l'absence de réponse au sondage"
+
+#: pnblocks/pollwarn.php:129 pnblocks/pollwarn.php:185 pnblocks/poll.php:223
+msgid "Individual Selection"
+msgstr "Sélection individuelle"
+
+#: pnblocks/pollwarn.php:130 pnblocks/pollwarn.php:186 pnblocks/poll.php:224
+msgid "Latest"
+msgstr "Dernier"
+
+#: pnblocks/pollwarn.php:131 pnblocks/pollwarn.php:187 pnblocks/poll.php:225
+msgid "Random"
+msgstr "Aléatoire"
+
+#: pnblocks/pollwarn.php:190 pnblocks/poll.php:228
+#: pntemplates/advancedpolls_admin_modify.htm:75
+#: pntemplates/advancedpolls_admin_modify.htm:78
+#: pntemplates/advancedpolls_admin_new.htm:63
+msgid "No"
+msgstr "Non"
+
+#: pnblocks/pollwarn.php:191 pnblocks/poll.php:229
+#: pntemplates/advancedpolls_admin_modify.htm:76
+#: pntemplates/advancedpolls_admin_modify.htm:79
+#: pntemplates/advancedpolls_admin_new.htm:64
+msgid "Yes"
+msgstr "Oui"
+
+#: pnblocks/pollresults.php:31
+msgid "Poll results"
+msgstr "Résultats du sondage"
+
+#: pnblocks/pollresults.php:32
+msgid "Show results of the most recently closed poll"
+msgstr "Afficher les résultats des sondages fermés récemment"
+
+#: pnblocks/poll.php:35 pncontenttypesapi/poll.php:21
+msgid "Poll"
+msgstr "Sondage"
+
+#: pnblocks/poll.php:36
+msgid "Show a poll"
+msgstr "Afficher un sondage"
+
+#: pnneedleapi/poll.php:43
+#, php-format
+msgid "Error! Poll ID '%s' not found."
+msgstr "Erreur ! Le sondage ID %s est introuvable."
+
+#: pnneedleapi/poll.php:48
+msgid "Error! No needle ID provided."
+msgstr "Erreur ! Pas d'ID d'interconnexion fournie."
+
+#: pncontenttypesapi/poll.php:26
+msgid "Display a single poll from the advanced polls module."
+msgstr "Afficher un sondage simple à partir du module de sondages avancés."
+
+#: pncontenttypesapi/poll.php:48
+msgid "No poll selected"
+msgstr "Aucun sondage sélectionné"
+
+#: pnuser.php:114
+msgid "Error! No polls found."
+msgstr "Erreur ! Pas de sondages trouvés."
+
+#: pnuser.php:146 pntemplates/advancedpolls_user_votingform.htm:35
+#: pntemplates/advancedpolls_user_votingform_short.htm:30
+#: pntemplates/advancedpolls_block_poll.htm:39
+#: pntemplates/advancedpolls_block_poll.htm:41
+msgid "Vote"
+msgstr "Voter"
+
+#: pnuser.php:150 pnuser.php:178
+msgid "Results"
+msgstr "Résultats"
+
+#: pnuser.php:165
+msgid "Preview"
+msgstr "Aperçu"
+
+#: pnuser.php:310
+msgid "Error! No template selected."
+msgstr "Erreur ! Aucun modèle sélectionné."
+
+#: pnuser.php:414
+msgid "Done! Vote added."
+msgstr "Fait ! Vote ajouté."
+
+#: pnadminapi.php:60 pnadminapi.php:407 pninit.php:33
+msgid "Error! Creation attempt failed."
+msgstr "Erreur ! Échec de la tentative de création."
+
+#: pnadminapi.php:103 pnadminapi.php:106 pnadminapi.php:109 pnadminapi.php:193
+msgid "Error! Deletion attempt failed."
+msgstr "Erreur ! Échec de la tentative de suppression."
+
+#: pnadminapi.php:188 pnadminapi.php:202
+msgid "Error! Update attempt failed."
+msgstr "Erreur ! Échec de la tentative de mise à jour."
+
+#: pnadminapi.php:237
+msgid "Error! Vote reset failed."
+msgstr "Erreur ! Échec de la réinitialisation du vote."
+
+#: pnadminapi.php:330
+msgid "Error! Could not load votes."
+msgstr "Erreur ! Impossible de charger les votes."
+
+#: pnadminapi.php:425 pntemplates/advancedpolls_user_menu.htm:6
+#: pntemplates/advancedpolls_user_view.htm:2
+msgid "View polls"
+msgstr "Voir les sondages"
+
+#: pnadminapi.php:428
+msgid "Create new poll"
+msgstr "Créer un nouveau sondage"
+
+#: pnadminapi.php:431 pntemplates/advancedpolls_admin_modifyconfig.htm:3
+msgid "Settings"
+msgstr "Paramètres"
+
+#: pninit.php:97
+msgid "Error! Could not change the advanced polls tables."
+msgstr "Erreur ! Impossible de modifier les tables des sondages avancés."
+
+#: pninit.php:102
+msgid "Error! Could not populate permalinks for existing content."
+msgstr ""
+"Erreur ! Impossible de diffuser les liens permanents pour les les contenus "
+"existants."
+
+#: pninit.php:107
+msgid "Error! Could not create the default category."
+msgstr "Erreur ! Impossible de créer la catégorie par défaut."
+
+#: pninit.php:112
+msgid "Error! Could not convert language codes."
+msgstr "Erreur ! Impossible de convertir les codes de langue."
+
+#: pninit.php:176
+msgid "Polls"
+msgstr "Sondages"
+
+#: pntemplates/advancedpolls_admin_delete.htm:3
+msgid "Delete poll"
+msgstr "Supprimer un sondage"
+
+#: pntemplates/advancedpolls_admin_delete.htm:7
+msgid "Do you really want to delete this poll?"
+msgstr "Voulez-vous vraiment supprimer ce sondage ?"
+
+#: pntemplates/advancedpolls_admin_delete.htm:14
+#: pntemplates/advancedpolls_admin_duplicate.htm:14
+#: pntemplates/advancedpolls_admin_resetvotes.htm:14
+msgid "Confirmation prompt"
+msgstr "Invite de confirmation"
+
+#: pntemplates/advancedpolls_admin_delete.htm:17
+#: pntemplates/advancedpolls_admin_modifyconfig.htm:56
+#: pntemplates/advancedpolls_admin_duplicate.htm:17
+#: pntemplates/advancedpolls_admin_modify.htm:160
+#: pntemplates/advancedpolls_admin_new.htm:120
+#: pntemplates/advancedpolls_admin_resetvotes.htm:17
+msgid "Cancel"
+msgstr "Annuler"
+
+#: pntemplates/advancedpolls_admin_view.htm:3
+msgid "View Polls"
+msgstr "Voir les sondages"
+
+#: pntemplates/advancedpolls_admin_view.htm:10
+#: pntemplates/advancedpolls_admin_view.htm:41
+#: pntemplates/advancedpolls_user_view.htm:9
+#: pntemplates/advancedpolls_user_view.htm:42
+#: pntemplates/advancedpolls_user_view.htm:89
+#: pntemplates/advancedpolls_user_view.htm:130
+#: pntemplates/advancedpolls_admin_modify.htm:26
+#: pntemplates/advancedpolls_admin_new.htm:25
+msgid "Category"
+msgstr "Catégorie"
+
+#: pntemplates/advancedpolls_admin_view.htm:27
+#: pntemplates/advancedpolls_user_view.htm:26
+msgid "Choose One"
+msgstr "Choisissez en une"
+
+#: pntemplates/advancedpolls_admin_view.htm:30
+#: pntemplates/advancedpolls_user_view.htm:29
+msgid "Filter"
+msgstr "Filtrer"
+
+#: pntemplates/advancedpolls_admin_view.htm:31
+#: pntemplates/advancedpolls_user_view.htm:30
+#: pntemplates/advancedpolls_admin_resetvotes.htm:16
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: pntemplates/advancedpolls_admin_view.htm:38
+msgid "Poll ID"
+msgstr "ID Sondage"
+
+#: pntemplates/advancedpolls_admin_view.htm:39
+#: pntemplates/advancedpolls_admin_adminstats.htm:7
+#: pntemplates/advancedpolls_admin_modify.htm:16
+#: pntemplates/advancedpolls_admin_new.htm:15
+msgid "Name of poll"
+msgstr "Nom du sondage"
+
+#: pntemplates/advancedpolls_admin_view.htm:43
+#: pntemplates/advancedpolls_user_view.htm:87
+msgid "Poll open date"
+msgstr "Date d'ouverture du sondage"
+
+#: pntemplates/advancedpolls_admin_view.htm:44
+msgid "Is poll open?"
+msgstr "Est-c que le sondage est ouvert ?"
+
+#: pntemplates/advancedpolls_admin_view.htm:45
+#: pntemplates/advancedpolls_user_view.htm:44
+#: pntemplates/advancedpolls_user_view.htm:91
+#: pntemplates/advancedpolls_user_view.htm:132
+#: pntemplates/advancedpolls_admin_modify.htm:128
+#: pntemplates/advancedpolls_admin_new.htm:111
+msgid "Options"
+msgstr "Options"
+
+#: pntemplates/advancedpolls_admin_view.htm:75
+#: pntemplates/advancedpolls_user_view.htm:76
+#: pntemplates/advancedpolls_user_view.htm:117
+#: pntemplates/advancedpolls_user_view.htm:158
+msgid "No polls found."
+msgstr "Aucun sondage trouvé."
+
+#: pntemplates/advancedpolls_user_results_short.htm:4
+msgid "Current poll"
+msgstr "Sondage courant"
+
+#: pntemplates/advancedpolls_user_results_short.htm:6
+msgid "Previous poll"
+msgstr "Sondage précédent"
+
+#: pntemplates/advancedpolls_user_results_short.htm:25
+#: pntemplates/advancedpolls_user_results.htm:28
+#, php-format
+msgid "%s vote"
+msgid_plural "%s votes"
+msgstr[0] "%s vote"
+msgstr[1] "%s votes"
+
+#: pntemplates/advancedpolls_user_results_short.htm:33
+#: pntemplates/advancedpolls_user_results.htm:36
+#: pntemplates/advancedpolls_block_pollresults.htm:7
+#: pntemplates/advancedpolls_block_poll.htm:74
+#, php-format
+msgid "Total number of votes: %s"
+msgstr "Nombre total de votes : %s"
+
+#: pntemplates/advancedpolls_user_votingform-rankedmultipleselect.htm:2
+msgid "This is a ranked multiple selection poll."
+msgstr "C'est un sondage à choix multiples ordonnés."
+
+#: pntemplates/advancedpolls_user_votingform-rankedmultipleselect.htm:3
+#, php-format
+msgid "You may select %s option ranked in order."
+msgid_plural "You may select %s options ranked in order."
+msgstr[0] "Vous devez sélectionner %s option classée par ordre de choix."
+msgstr[1] "Vous devez sélectionner %s options classées par ordre de choix."
+
+#: pntemplates/advancedpolls_user_votingform-rankedmultipleselect.htm:9
+#: pntemplates/advancedpolls_user_futurepoll.htm:10
+#: pntemplates/advancedpolls_user_votingform-multipleselect.htm:9
+#, php-format
+msgid "Choice %s"
+msgstr "Choix %s"
+
+#: pntemplates/advancedpolls_block_pollwarn.htm:2
+msgid "You have not voted in the poll"
+msgstr "Vous n'avez pas voté dans ce sondage"
+
+#: pntemplates/advancedpolls_admin_modifyconfig.htm:12
+msgid "General settings"
+msgstr "Paramètres généraux"
+
+#: pntemplates/advancedpolls_admin_modifyconfig.htm:14
+msgid "Enable categorization"
+msgstr "Activer la catégorisation"
+
+#: pntemplates/advancedpolls_admin_modifyconfig.htm:18
+msgid "Use Reverse DNS for IP Addresses"
+msgstr "Utiliser le Reverse DNS pour les adresses IP"
+
+#: pntemplates/advancedpolls_admin_modifyconfig.htm:26
+msgid "Items per page in admin interface"
+msgstr "Éléments par page dans l'interface d'administration"
+
+#: pntemplates/advancedpolls_admin_modifyconfig.htm:31
+msgid "Poll settings"
+msgstr "Paramètres de sondage"
+
+#: pntemplates/advancedpolls_admin_modifyconfig.htm:33
+msgid "Use css poll results bars"
+msgstr "Utiliser l'affichage css pour les barres de résultats"
+
+#: pntemplates/advancedpolls_admin_modifyconfig.htm:37
+msgid "Scaling factor for poll results bars"
+msgstr "Facteur d'échelle pour les barres de résultats du sondage"
+
+#: pntemplates/advancedpolls_admin_modifyconfig.htm:41
+msgid "Default number of options in a poll"
+msgstr "Nombre d'options par défaut dans un sondage"
+
+#: pntemplates/advancedpolls_admin_modifyconfig.htm:45
+msgid "Default colour"
+msgstr "Couleur par défaut"
+
+#: pntemplates/advancedpolls_admin_modifyconfig.htm:55
+msgid "Update Configuration"
+msgstr "Mettre à jour la configuration"
+
+#: pntemplates/advancedpolls_user_votingform.htm:2
+#, php-format
+msgid "Voting booth: %s"
+msgstr "Isoloir : %s"
+
+#: pntemplates/advancedpolls_user_votingform.htm:7
+#: pntemplates/advancedpolls_user_results.htm:10
+#, php-format
+msgid "Category: %s"
+msgstr "Catégorie : %s"
+
+#: pntemplates/advancedpolls_user_votingform.htm:17
+#: pntemplates/advancedpolls_user_votingform_short.htm:12
+#: pntemplates/advancedpolls_block_poll.htm:20
+msgid "Poll options"
+msgstr "Options de sondage"
+
+#: pntemplates/contenttype/poll_edit.html:3
+msgid "Please enter the poll id"
+msgstr "Merci d'entrer l'ID du sondage"
+
+#: pntemplates/advancedpolls_user_results.htm:3
+#, php-format
+msgid "Current poll: %s"
+msgstr "Sondage courant : %s"
+
+#: pntemplates/advancedpolls_user_results.htm:5
+#, php-format
+msgid "Previous poll: %s"
+msgstr "Sondage précédent : %s"
+
+#: pntemplates/advancedpolls_user_futurepoll.htm:3
+#, php-format
+msgid "This poll opens on %s"
+msgstr "Ce sondage démarre le %s"
+
+#: pntemplates/advancedpolls_user_futurepoll.htm:4
+#, php-format
+msgid "Future poll: %s"
+msgstr "Sondage à venir : %s"
+
+#: pntemplates/advancedpolls_user_view.htm:35
+msgid "Currently open polls"
+msgstr "Sondages actuellement ouverts"
+
+#: pntemplates/advancedpolls_user_view.htm:39
+#: pntemplates/advancedpolls_user_view.htm:86
+#: pntemplates/advancedpolls_user_view.htm:127
+msgid "Poll title"
+msgstr "Titre du sondage"
+
+#: pntemplates/advancedpolls_user_view.htm:40
+#: pntemplates/advancedpolls_user_view.htm:128
+msgid "Poll close date"
+msgstr "Date de clôture du sondage"
+
+#: pntemplates/advancedpolls_user_view.htm:55
+#: pntemplates/advancedpolls_admin_modify.htm:58
+#: pntemplates/advancedpolls_admin_new.htm:51
+msgid "No close date"
+msgstr "Pas de date de clôture"
+
+#: pntemplates/advancedpolls_user_view.htm:82
+msgid "Upcoming polls"
+msgstr "Sondages à venir"
+
+#: pntemplates/advancedpolls_user_view.htm:123
+msgid "Previous polls"
+msgstr "Sondages précédents"
+
+#: pntemplates/advancedpolls_admin_adminstats.htm:3
+msgid "Voting Statistics"
+msgstr "Statistiques de votes"
+
+#: pntemplates/advancedpolls_admin_adminstats.htm:8
+#: pntemplates/advancedpolls_admin_modify.htm:52
+#: pntemplates/advancedpolls_admin_new.htm:45
+msgid "Date and time poll opens"
+msgstr "Date et horaire d'ouverture du sondage"
+
+#: pntemplates/advancedpolls_admin_adminstats.htm:9
+#: pntemplates/advancedpolls_admin_modify.htm:66
+#: pntemplates/advancedpolls_admin_new.htm:55
+msgid "Date and time poll closes"
+msgstr "Date et horaire de fermeture du sondage"
+
+#: pntemplates/advancedpolls_admin_adminstats.htm:10
+msgid "Total number of votes"
+msgstr "Nombre totale de votes"
+
+#: pntemplates/advancedpolls_admin_adminstats.htm:17
+msgid "Sort votes by"
+msgstr "Votes triés par"
+
+#: pntemplates/advancedpolls_admin_adminstats.htm:21
+msgid "Sort order"
+msgstr "Ordre de tri"
+
+#: pntemplates/advancedpolls_admin_adminstats.htm:25
+msgid "Sort votes"
+msgstr "Trier par votes"
+
+#: pntemplates/advancedpolls_admin_adminstats.htm:30
+msgid "Vote history"
+msgstr "Historique du vote"
+
+#: pntemplates/advancedpolls_admin_adminstats.htm:53
+msgid "No votes found."
+msgstr "Aucun vote trouvé."
+
+#: pntemplates/advancedpolls_user_votingform-unlimitedmultipleselect.htm:2
+msgid "This is an unlimited multiple selection poll."
+msgstr "C'est un sondage à sélections multiples non limitées."
+
+#: pntemplates/advancedpolls_user_votingform-unlimitedmultipleselect.htm:3
+#, fuzzy
+msgid "You may select any number of options."
+msgstr "Vous devez sélectionner un nombre d'options"
+
+#: pntemplates/advancedpolls_admin_duplicate.htm:7
+msgid "Please confirm duplication of poll."
+msgstr "Merci de confirmer la duplication du sondage."
+
+#: pntemplates/advancedpolls_block_pollresults.htm:5
+#: pntemplates/advancedpolls_block_poll.htm:70
+#, php-format
+msgid "Winner: %s"
+msgstr "Gagnant : %s"
+
+#: pntemplates/advancedpolls_block_pollresults.htm:8
+#: pntemplates/advancedpolls_block_poll.htm:75
+msgid "Detailed results"
+msgstr "Résultats détaillés"
+
+#: pntemplates/advancedpolls_admin_modify.htm:5
+msgid "Edit Poll"
+msgstr "Éditer un sondage"
+
+#: pntemplates/advancedpolls_admin_modify.htm:14
+#: pntemplates/advancedpolls_admin_new.htm:13
+msgid "Basic Information"
+msgstr "Information de base"
+
+#: pntemplates/advancedpolls_admin_modify.htm:20
+#: pntemplates/advancedpolls_admin_new.htm:19
+#, fuzzy
+msgid "PermaLink URL title"
+msgstr "Lien permanent URL Titre"
+
+#: pntemplates/advancedpolls_admin_modify.htm:22
+#: pntemplates/advancedpolls_admin_new.htm:21
+msgid "(Blank = auto-generate)"
+msgstr "(Vide = généré automatiquement)"
+
+#: pntemplates/advancedpolls_admin_modify.htm:35
+#: pntemplates/advancedpolls_admin_new.htm:28
+msgid "Choose Category"
+msgstr "Choisir une catégorie"
+
+#: pntemplates/advancedpolls_admin_modify.htm:41
+#: pntemplates/advancedpolls_admin_new.htm:34
+msgid "Description"
+msgstr "Description"
+
+#: pntemplates/advancedpolls_admin_modify.htm:45
+#: pntemplates/advancedpolls_admin_new.htm:38
+msgid "Language"
+msgstr "Langue"
+
+#: pntemplates/advancedpolls_admin_modify.htm:50
+#: pntemplates/advancedpolls_admin_new.htm:43
+msgid "Timing"
+msgstr "Durée"
+
+#: pntemplates/advancedpolls_admin_modify.htm:72
+#: pntemplates/advancedpolls_admin_new.htm:61
+msgid "Recurring poll?"
+msgstr "Sondage récurrent ?"
+
+#: pntemplates/advancedpolls_admin_modify.htm:84
+#: pntemplates/advancedpolls_admin_new.htm:68
+msgid ""
+"The following options are only relevant if a recurring poll is selected."
+msgstr ""
+"Les options suivantes ne sont utiles que si l'option sondage récurrent est "
+"activée."
+
+#: pntemplates/advancedpolls_admin_modify.htm:86
+#: pntemplates/advancedpolls_admin_new.htm:70
+#, fuzzy
+msgid "Recurring offset"
+msgstr "Paramètres de récurrence"
+
+#: pntemplates/advancedpolls_admin_modify.htm:88
+#: pntemplates/advancedpolls_admin_new.htm:72
+#, fuzzy
+msgid "Number of hours after the close date the poll reopens."
+msgstr ""
+"Nombre d'heures pour la réouverture du sondage après la date de clôture."
+
+#: pntemplates/advancedpolls_admin_modify.htm:91
+#: pntemplates/advancedpolls_admin_new.htm:75
+msgid "Recurrence interval"
+msgstr "Intervalle de récurrence"
+
+#: pntemplates/advancedpolls_admin_modify.htm:93
+#: pntemplates/advancedpolls_admin_new.htm:77
+msgid "Number of days the poll will recur."
+msgstr "Nombre de jours où le sondage sera récurrent."
+
+#: pntemplates/advancedpolls_admin_modify.htm:98
+#: pntemplates/advancedpolls_admin_new.htm:82
+msgid "Voting regulations"
+msgstr "Régulations du vote"
+
+#: pntemplates/advancedpolls_admin_modify.htm:100
+#: pntemplates/advancedpolls_admin_new.htm:84
+msgid "Poll authorisation method"
+msgstr "Méthode d'autorisation du sondage"
+
+#: pntemplates/advancedpolls_admin_modify.htm:106
+#: pntemplates/advancedpolls_admin_new.htm:90
+msgid "Tiebreak method"
+msgstr "Méthode \"Jeu décisif\" (bris d'égalité)"
+
+#: pntemplates/advancedpolls_admin_modify.htm:112
+#: pntemplates/advancedpolls_admin_new.htm:96
+msgid "Selection method"
+msgstr "Méthode de choix"
+
+#: pntemplates/advancedpolls_admin_modify.htm:118
+#: pntemplates/advancedpolls_admin_new.htm:102
+msgid ""
+"The following option only relevant if a multiple selection poll is selected."
+msgstr ""
+"les options suivantes sont utilisables pour les sondages à choix multiples"
+
+#: pntemplates/advancedpolls_admin_modify.htm:120
+#: pntemplates/advancedpolls_admin_new.htm:104
+msgid "You may select "
+msgstr "Vous devez sélectionner "
+
+#: pntemplates/advancedpolls_admin_modify.htm:122
+#: pntemplates/advancedpolls_admin_new.htm:106
+msgid "(-1 for Unlimited selections)"
+msgstr "(-1 pour un nombre illimités de choix)"
+
+#: pntemplates/advancedpolls_admin_modify.htm:133
+msgid "Poll option"
+msgstr "Option de sondage"
+
+#: pntemplates/advancedpolls_admin_modify.htm:142
+#: pntemplates/advancedpolls_admin_new.htm:113
+msgid "Number of options in this poll"
+msgstr "Nombre d'option pour ce sondage"
+
+#: pntemplates/advancedpolls_admin_modify.htm:147
+msgid "Meta data"
+msgstr "Métadonnées"
+
+#: pntemplates/advancedpolls_admin_modify.htm:150
+#, php-format
+msgid "Created by %s"
+msgstr "Créé par %s"
+
+#: pntemplates/advancedpolls_admin_modify.htm:151
+#, php-format
+msgid "Created on %s"
+msgstr "Crée le %s"
+
+#: pntemplates/advancedpolls_admin_modify.htm:153
+#, php-format
+msgid "Last updated by %s"
+msgstr "Dernière mise à jour par %s"
+
+#: pntemplates/advancedpolls_admin_modify.htm:154
+#, php-format
+msgid "Updated on %s"
+msgstr "Actualisé le %s"
+
+#: pntemplates/advancedpolls_admin_modify.htm:159
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: pntemplates/advancedpolls_admin_new.htm:5
+msgid "Create poll"
+msgstr "Créer un sondage"
+
+#: pntemplates/advancedpolls_admin_new.htm:119
+msgid "Create"
+msgstr "Créer"
+
+#: pntemplates/advancedpolls_admin_menu.htm:4
+msgid "Advanced Polls Administration"
+msgstr "Administration des Sondages avancés"
+
+#: pntemplates/advancedpolls_user_votingform-multipleselect.htm:2
+msgid "This is a multiple selection poll."
+msgstr "C'est un sondage à choix multiples."
+
+#: pntemplates/advancedpolls_user_votingform-multipleselect.htm:3
+#, php-format
+msgid "You may select %s option."
+msgid_plural "You may select %s options."
+msgstr[0] "Vous devez sélectionner % option."
+msgstr[1] "Vous devez sélectionner % options."
+
+#: pntemplates/advancedpolls_block_poll.htm:50
+msgid "Recording vote"
+msgstr "Enregistrement du vote"
+
+#: pntemplates/advancedpolls_block_poll.htm:63
+#, php-format
+msgid "The current leader in this poll is %s"
+msgstr "Le meilleur score actuel de ce sondage est pour : %s"
+
+#: pntemplates/advancedpolls_block_poll.htm:65
+#, php-format
+msgid "Poll close date: %s"
+msgstr "Clôture du sondage : %s"
+
+#: pntemplates/advancedpolls_block_poll_modify.htm:2
+#: pntemplates/advancedpolls_block_pollwarn_modify.htm:2
+msgid "Individual selection"
+msgstr "Sélection individuelle"
+
+#: pntemplates/advancedpolls_block_poll_modify.htm:4
+#: pntemplates/advancedpolls_block_pollwarn_modify.htm:4
+#, fuzzy
+msgid ""
+"The selection method 'Latest' and 'Random' override this individual poll "
+"selection"
+msgstr ""
+"Les méthodes de sélection \"Dernier\" et \"Aléatoire\" sont prioritaires sur "
+"la sélection individuelle."
+
+#: pntemplates/advancedpolls_block_poll_modify.htm:7
+#: pntemplates/advancedpolls_block_pollwarn_modify.htm:7
+msgid "Poll to use"
+msgstr "Sondage à utiliser"
+
+#: pntemplates/advancedpolls_block_poll_modify.htm:11
+msgid "Use ajax for voting form"
+msgstr "Utiliser Ajax pour les formulaires de vote"
+
+#: pntemplates/advancedpolls_block_poll_modify.htm:15
+#: pntemplates/advancedpolls_block_pollwarn_modify.htm:11
+msgid "Display block based on open/close dates"
+msgstr "Afficher un bloc basé sur les dates d'ouverture et de clôture"
+
+#: pntemplates/advancedpolls_block_poll_modify.htm:19
+msgid "Display results page after vote"
+msgstr "Afficher la page de résultat après le vote"
+
+#: pntemplates/advancedpolls_block_pollwarn_modify.htm:15
+msgid "Background color"
+msgstr "Couleur de fond"
+
+#: pntemplates/advancedpolls_admin_resetvotes.htm:7
+msgid "Do you really want to reset the votes?"
+msgstr "Voulez-vous vraiment réinitialiser les votes ?"

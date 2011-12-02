@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: theme960\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-13 17:23+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Michael Halbrook <michael@halbrooktech.com>\n"
+"Language-Team: Halbrook Technologies <michael@halbrooktech.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: version.php:3
+msgid "theme960"
+msgstr ""
+
+#: version.php:5
+msgid "A Simple theme based on the 960.gs CSS Framework"
+msgstr "A Simple theme based on the 960.gs Framework by Nathan Smith."
+

@@ -1,0 +1,22 @@
+<!--[include file="tour_user_menu.htm"]-->
+
+<h1>Modules</h1>
+
+<p>Les modules sont au coeur de votre site Zikula, presque tout ce que vous voyez ici est généré et géré par un module. Représentez-vous votre site Zikula comme le bureau de votre ordinateur. Zikula est votre système d'exploitation. Les modules sont des applications individuelles, comme un traitement de texte ou votre navigateur Internet, tandis que les blocs ajoutent des fonctionnalités secondaires, par exemple une messagerie instantanée ou un gadget pour une alerte météorologique.</p>
+<p>Il existe essentiellement deux types de modules : les modules du système et les modules complémentaires. Les modules du système sont essentiels pour le bon fonctionnement de Zikula et sont placés dans le répertoire système. Tous les autres modules sont placés dans le répertoire modules et vous offrent des services supplémentaires selon les besoins spécifiques de votre site.</p>
+<p>Du côté utilisateur, les modules présentent et organisent votre contenu. Par exemple, le module Nouvelles prend les articles que vous ajoutez, les organise et les affiche sur votre site sous différentes manières - périodiquement, sous forme d'archives ou même à travers un flux RSS. Tout cela est généré pour vous par le module.</p>
+<p>Il existe des modules pour pratiquement n'importe quel besoin. De la gestion de simples pages HTML, à un forum, un formulaire de contact, une galerie, la gestion de téléchargements, ... - tout est là. Vous avez juste à trouver et installer un module qui correspond à ce que vous souhaitez faire. La page que vous lisez maintenant est générée par le module 'Présentation' (que vous pouvez désinstaller à tout moment).</p>
+
+
+<h2>Obtenir de nouveaux modules</h2>
+ 
+<p>Espace dédié aux notes concernant les nouvelles extensions de la base de données et EasyDist (documentation à venir...).</p>
+
+
+<h2>Installer et supprimer des modules</h2>
+
+<p>Zikula est livré avec un moyen facile de gérer les modules que vous avez installé. Il est accessible dans la section <a href="<!--[pnmodurl modname="modules" type="admin" func="main"]-->">gestion des Modules</a> du panneau d'administration. Vous pouvez y voir la liste des modules installés, leur statut actuel, et à droite des boutons pour activer (utilisable par vous et vos visiteurs), désactiver (les données sont sauvegardées, mais le module est 'éteint') ou supprimer (supprime toutes les données stockées et prépare la suppression des fichiers du module).</p>
+<p>Supprimer un module est très simple - naviguez jusqu'à la <a href="<!--[pnmodurl modname="modules" type="admin" func="main"]-->">gestion des Modules</a> du panneau d'administration, trouvez le module que vous souhaitez supprimer et cliquez sur l'image 'corbeille'. Une fois que vous avez fait cela, il suffit de vous connecter à votre FTP et supprimer les fichiers du module. Vous devez supprimer le module dans Zikula avant de supprimer les fichiers présents sur votre FTP pour éviter que des incohérences se posent (pour des raisons de sécurité Zikula ne permet pas de supprimer les fichiers pour vous).
+<p>En règle générale, pour ajouter un module, vous devez l'extraire sur votre ordinateur, puis transférer le dossier du module par FTP dans le répertoire 'modules' de votre site Zikula, puis aller dans la section <a href="<!--[pnmodurl modname="modules" type="admin" func="main"]-->">gestion des Modules</a> du panneau d'administration et enfin cliquer sur le lien 'Régénérer' en haut de la page. Ceci permet à Zikula de détecter les nouveaux modules que vous avez chargés. Une fois que vous avez fait cela, trouvez le module que vous avez ajouté dans le tableau situé en-dessous, puis cliquez sur l'image 'initialiser'. Ceci installe le module et le prépare à être activé. Enfin, activez le module, en utilisant l'image 'activer'. Cela a créé le lien pour administrer votre nouveau module. Les modules sont livrés avec une documentation, que vous devez lire en premier lieu car l'installation de certain modules peut varier.</p>
+<!--<p><strong><a href="<!--[pnmodurl modname="Tour" func="display" page="firsttimeblocks"]-->">C'est cool, mais comment je peux ajouter un lien au menu pour permettre aux visiteurs de voir ce module ?</a></strong></p>-->
+<p><em>Plus d'aide à venir dans ce tutoriel...  Si vous pouvez nous aider à le compléter, merci de poster dans le forum <a href="http://communaute.zikula.fr">communaute.zikula.fr</a></em></p>

@@ -1,0 +1,315 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: FAQ 2.3.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-20 02:30-0500\n"
+"PO-Revision-Date: 2010-02-04 23:00+0100\n"
+"Last-Translator: Arjen Tebbenhof <teb (at) zikula (dot) nl>\n"
+"Language-Team: Dutch Zikula Community <LL@li.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnuserapi.php:73 pnsearchapi.php:67 pnsearchapi.php:98
+msgid "Error! Could not load items."
+msgstr "Foutmelding: Kon items niet laden."
+
+#: pnuserapi.php:80 pnadmin.php:57 pnadmin.php:136 pnadmin.php:282
+#: pnuser.php:39 pnuser.php:97
+msgid "Error! Unable to load class [%s%]"
+msgstr "Foutmelding: Kon class [%s] niet laden"
+
+#: pnadmin.php:95
+msgid "Done! Item created."
+msgstr "Item aangemaakt."
+
+#: pnadmin.php:125 pnadmin.php:201 pnadminapi.php:88 pnadminapi.php:150
+msgid "No such item found."
+msgstr "Item kon niet gevonden worden."
+
+#: pnadmin.php:173
+msgid "Done! Item updated."
+msgstr "Item bijgewerkt."
+
+#: pnadmin.php:233
+msgid "Done! Item deleted."
+msgstr "Item verwijderd."
+
+#: pnadmin.php:265
+msgid "Purging of the pemalinks was successful"
+msgstr "Opschonen van de permalinks voltooid"
+
+#: pnadmin.php:267
+msgid "Purging of the pemalinks has failed"
+msgstr "Opschonen van de permalinks mislukt"
+
+#: pnadmin.php:316
+msgid "Edit"
+msgstr "Bewerken"
+
+#: pnadmin.php:320
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: pnadmin.php:423
+msgid "Done! Module configuration updated."
+msgstr "Module configuratie bijgewerkt."
+
+#: pnversion.php:16 pninit.php:213
+msgid "FAQ"
+msgstr "FAQ"
+
+#: pnversion.php:17 pninit.php:214
+msgid "Frequently Asked Questions"
+msgstr "Veel Gestelde Vragen"
+
+#. ! this defines the module's url
+#: pnversion.php:20
+msgid "faq"
+msgstr "faq"
+
+#: pninit.php:34
+msgid ""
+"Warning! Could not create the default FAQ category tree. If you want to use "
+"categorisation with FAQ, register at least one property for the module in "
+"the Category Registry."
+msgstr ""
+"Waarschuwing: De standaard FAQ categorie-items konden niet aangemaakt "
+"worden. Indien categorisering bij de FAQ-module gebruikt moet worden, dient "
+"ten minste 1 nieuwe regel aangemaakt te worden in het Categorie Register."
+
+#: pninit.php:61 pninit.php:176 pnadminapi.php:159
+msgid "Error! Update attempt failed."
+msgstr "Foutmelding: Bijwerken mislukt."
+
+#: pnadminapi.php:59
+msgid "Error! Creation attempt failed."
+msgstr "Foutmelding: Aanmaken mislukt."
+
+#: pnadminapi.php:97
+msgid "Error! Deletion attempt failed."
+msgstr "Foutmelding: Verwijderen mislukt."
+
+#: pnadminapi.php:235 pntemplates/faq_admin_view.htm:4
+#: pntemplates/faq_user_menu.htm:7
+msgid "View FAQ list"
+msgstr "Bekijk lijst van de veel gestelde vragen"
+
+#: pnadminapi.php:239 pntemplates/faq_admin_new.htm:3
+msgid "Create a FAQ"
+msgstr "Nieuwe vraag stellen"
+
+#: pnadminapi.php:243
+msgid "Purge PermaLinks"
+msgstr "Permalinks opschonen"
+
+#: pnadminapi.php:246 pntemplates/faq_admin_modifyconfig.htm:4
+#: pntemplates/faq_admin_modifyconfig.htm:5
+msgid "Settings"
+msgstr "Instellingen"
+
+#: pnuser.php:121
+msgid "Invalid category passed."
+msgstr "Ongeldige categorie doorgegeven."
+
+#: pnuser.php:226
+msgid "Failed to get any items"
+msgstr "Kon geen items ophalen"
+
+#: pnuser.php:293
+msgid "Thank you for your question"
+msgstr "Bedankt voor deze vraag"
+
+#: pntemplates/faq_user_view.htm:13
+msgid "Recent FAQs"
+msgstr "Recent toegevoegde vragen"
+
+#: pntemplates/faq_user_view.htm:19 pntemplates/faq_admin_new.htm:13
+#: pntemplates/faq_admin_modify.htm:15 pntemplates/faq_admin_view.htm:43
+#: pntemplates/faq_user_display.htm:5
+msgid "Question"
+msgstr "Vraag"
+
+#: pntemplates/faq_user_view.htm:26 pntemplates/faq_admin_new.htm:22
+#: pntemplates/faq_admin_modify.htm:24 pntemplates/faq_user_display.htm:8
+msgid "Answer"
+msgstr "Antwoord"
+
+#: pntemplates/faq_admin_new.htm:17 pntemplates/faq_admin_modify.htm:19
+msgid "PermaLink URL title"
+msgstr "Permalink URL titel"
+
+#: pntemplates/faq_admin_new.htm:19 pntemplates/faq_admin_modify.htm:21
+msgid "(Blank = auto-generate)"
+msgstr "(Leeg laten = automatisch laten genereren)"
+
+#: pntemplates/faq_admin_new.htm:27 pntemplates/faq_admin_modify.htm:29
+#: pntemplates/faq_admin_view.htm:11 pntemplates/faq_admin_view.htm:46
+msgid "Category"
+msgstr "Categorie"
+
+#: pntemplates/faq_admin_new.htm:28 pntemplates/faq_admin_modify.htm:30
+#: pntemplates/faq_admin_view.htm:12
+msgid "Choose a category"
+msgstr "Kies een categorie"
+
+#: pntemplates/faq_admin_new.htm:39
+msgid "Create"
+msgstr "Aanmaken"
+
+#: pntemplates/faq_admin_new.htm:40 pntemplates/faq_admin_modifyconfig.htm:30
+#: pntemplates/faq_admin_delete.htm:17 pntemplates/faq_admin_modify.htm:70
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: pntemplates/faq_admin_modifyconfig.htm:10
+msgid "General settings"
+msgstr "Algemene instellingen"
+
+#: pntemplates/faq_admin_modifyconfig.htm:12
+msgid "Enable categorization"
+msgstr "Categorisering inschakelen"
+
+#: pntemplates/faq_admin_modifyconfig.htm:16
+msgid "Items per page"
+msgstr "Items per pagina"
+
+#: pntemplates/faq_admin_modifyconfig.htm:21
+msgid "PermaLinks"
+msgstr "Permalinks"
+
+#: pntemplates/faq_admin_modifyconfig.htm:23
+msgid "Add category title to PermaLink"
+msgstr "Categorie titel aan Permalink toevoegen"
+
+#: pntemplates/faq_admin_modifyconfig.htm:29
+msgid "Update Configuration"
+msgstr "Configuratie bijwerken"
+
+#: pntemplates/faq_admin_delete.htm:2
+msgid "Delete FAQ"
+msgstr "Verwijder de vraag"
+
+#: pntemplates/faq_admin_delete.htm:7
+msgid "Do you really want to delete this FAQ?"
+msgstr "Dient deze vraag echt verwijderd te worden?"
+
+#: pntemplates/faq_admin_delete.htm:14
+msgid "Confirmation prompt"
+msgstr "Bevestiging gevraagd"
+
+#: pntemplates/faq_admin_delete.htm:16
+msgid "Confirm deletion?"
+msgstr "Verwijderen bevestigen?"
+
+#: pntemplates/faq_admin_modify.htm:3
+msgid "Update FAQ"
+msgstr "FAQ bijwerken"
+
+#: pntemplates/faq_admin_modify.htm:46
+msgid "Meta data"
+msgstr "Meta gegevens"
+
+#: pntemplates/faq_admin_modify.htm:52 pntemplates/faq_user_display.htm:13
+#: pntemplates/faq_user_display.htm:17
+#, php-format
+msgid "Submitted by %s"
+msgstr "Ingezonden door %s"
+
+#: pntemplates/faq_admin_modify.htm:56 pntemplates/faq_user_display.htm:22
+#, php-format
+msgid "Answered by %s"
+msgstr "Beantwoord door %s"
+
+#: pntemplates/faq_admin_modify.htm:60
+#, php-format
+msgid "Created by %1$s on %2$s"
+msgstr "Aangemaakt door %1$s op %2$s"
+
+#: pntemplates/faq_admin_modify.htm:64
+#, php-format
+msgid "Updated by %1$s on %2$s"
+msgstr "Bijgewerkt door %1$s op %2$s"
+
+#: pntemplates/faq_admin_modify.htm:69
+msgid "Update"
+msgstr "Bijwerken"
+
+#: pntemplates/faq_search_options.htm:4 pntemplates/faq_user_menu.htm:3
+#: pntemplates/faq_admin_menu.htm:4
+msgid "FAQs"
+msgstr "Veel gestelde vragen"
+
+#: pntemplates/faq_user_main.htm:4
+msgid "Categories"
+msgstr "Categorieën"
+
+#: pntemplates/faq_admin_view.htm:34
+msgid "Filter"
+msgstr "Filteren"
+
+#: pntemplates/faq_admin_view.htm:35
+msgid "Reset"
+msgstr "Herstellen"
+
+#: pntemplates/faq_admin_view.htm:42
+msgid "Internal ID"
+msgstr "Interne ID"
+
+#: pntemplates/faq_admin_view.htm:44
+msgid "Answered"
+msgstr "Beantwoord"
+
+#: pntemplates/faq_admin_view.htm:48
+msgid "Options"
+msgstr "Opties"
+
+#: pntemplates/faq_admin_view.htm:58
+msgid "Yes"
+msgstr "Ja"
+
+#: pntemplates/faq_admin_view.htm:60
+msgid "No"
+msgstr "Nee"
+
+#: pntemplates/faq_admin_view.htm:75
+msgid "No items found."
+msgstr "Geen items gevonden."
+
+#: pntemplates/faq_user_menu.htm:8 pntemplates/faq_user_ask.htm:3
+#: pntemplates/faq_user_ask.htm:9
+msgid "Submit a question"
+msgstr "Een vraag inzenden"
+
+#: pntemplates/faq_user_ask.htm:4
+msgid ""
+"Before submitting a question please check existing FAQ's as your question "
+"may have already been answered. If not then please submit your question via "
+"the form and below. Please use clear and precise language when submitting a "
+"question. After submission your question will be reviewed by the site editor"
+"(s)."
+msgstr ""
+"Alvorens een nieuwe vraag in te zenden, vragen we om de bestaande vragen "
+"door te lezen. Wellicht is de vraag al eerder beantwoord. Indien dit niet "
+"het geval is, kan onderstaand formulier worden gebruikt om de vraag in te "
+"zenden. Probeer de vraag zo helder en precies mogelijk te stellen. Na het "
+"inzenden wordt de vraag eerst gekeurd, alvorens deze geplaatst wordt."
+
+#: pntemplates/faq_user_ask.htm:12
+msgid "Your name"
+msgstr "Naam"
+
+#: pntemplates/faq_user_ask.htm:17
+msgid "Content"
+msgstr "Inhoud"
+
+#: pntemplates/faq_user_ask.htm:22
+msgid "Submit"
+msgstr "Inzenden"

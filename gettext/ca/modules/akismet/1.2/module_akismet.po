@@ -1,0 +1,97 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-24 10:14+0000\n"
+"PO-Revision-Date: 2010-11-24 17:14+0200\n"
+"Last-Translator: Albert Pérez Monfort <aperezm@xtec.cat>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.2\n"
+
+#: pnadmin.php:82
+msgid ""
+"Error! Sorry! Invalid API key. Please obtain one from http://wordpress.com/"
+"api-keys/."
+msgstr ""
+"Ho sentim! La clau API no és vàlida. Si us plau, aconseguiu-ne una de "
+"http://wordpress.com/api-keys/."
+
+#: pnadmin.php:94
+msgid "Done! Module configuration updated."
+msgstr "S'ha actualitzat la configuració del mòdul."
+
+#: pnversion.php:16
+msgid "Akismet"
+msgstr "Akismet"
+
+#. ! module url in lowercase and different from displayname
+#: pnversion.php:18
+msgid "akismet"
+msgstr "akismet"
+
+#: pnversion.php:20 pntemplates/akismet_admin_modifyconfig.htm:4
+msgid "Akismet spam detection service"
+msgstr "Servei de detecció de spam Akismet"
+
+#: pntemplates/akismet_admin_modifyconfig.htm:7
+#: pntemplates/akismet_admin_modifyconfig.htm:8
+msgid "Settings"
+msgstr "Configuració"
+
+#: pntemplates/akismet_admin_modifyconfig.htm:9
+msgid ""
+"<a href=\"http://akismet.com/\">Akismet</a> is a spam detection service that "
+"can, in many cases, eliminate comment and trackback spam. To use akismet you "
+"need an <a href=\"http://wordpress.com/api-keys/\">API key</a>. Simply "
+"signup for an account at wordpress.com but don't create a blog - your API "
+"key will be in your profile."
+msgstr ""
+"<a href=\"http://akismet.com/\">Akismet</a> és un servei de detecció de spam "
+"que en molts casos pot eliminar el correu brossa de comentaris i trackbacks. "
+"Per utilitzar Akismet necessiteu una <a href=\"http://wordpress.com/api-"
+"keys/\">clau API</a>. Només cal obrir un compte a wordpress.com, però no cal "
+"crear cap bloc - la clau API estarà en el vostre perfil."
+
+#: pntemplates/akismet_admin_modifyconfig.htm:10
+#, php-format
+msgid "Akismet has caught <strong>%s spam</strong> for you so far."
+msgstr ""
+"Akismet ha <strong>capturat %s correu no desitjat</strong> fins al moment."
+
+#: pntemplates/akismet_admin_modifyconfig.htm:11
+msgid ""
+"To test akismet is functioning submit some content with the author name of "
+"\"viagra-test-123\". This is automatically treated as spam by akismet."
+msgstr ""
+"Per provar com funciona Akismet envieu algun contingut amb el nom d'autor "
+"\"viagra-test-123\". Això es considera automàticament com a correu brossa per "
+"Akismet."
+
+#: pntemplates/akismet_admin_modifyconfig.htm:17
+msgid "Enable akismet"
+msgstr "Habilita Akismet"
+
+#: pntemplates/akismet_admin_modifyconfig.htm:25
+msgid "Wordpress.com API key"
+msgstr "Clau API Wordpress.com"
+
+#: pntemplates/akismet_admin_modifyconfig.htm:28
+msgid ""
+"Your API key is invalid. Please obtain one from <a href=\"http://wordpress."
+"com/api-keys/\">http://wordpress.com/api-keys/</a>."
+msgstr ""
+"La teva clau API no és vàlida. Si us plau, aconseguiu-ne una a <a "
+"href=\"http://wordpress.com/api-keys/\">http://wordpress.com/api-keys/</a>."
+
+#: pntemplates/akismet_admin_modifyconfig.htm:34
+msgid "Update Configuration"
+msgstr "Actualitza Configuració"

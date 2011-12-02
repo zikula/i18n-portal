@@ -1,0 +1,3083 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-27 16:16+0200\n"
+"PO-Revision-Date: 2010-05-07 12:39+0200\n"
+"Last-Translator: Behrooz <b.kashaf@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.1\n"
+
+# Essential terminology list for general software localisation
+# License: GPL
+# Copyright Youssef Chahibi, Friedel Wolff 2006
+# پیش‌نهاد می‌شود در جای فعل امری (مثلاً روی دکمه‌ها) به صورت خلاصه‌تر «قطع» نوشته شود
+msgid "abort"
+msgstr "قطع کردن"
+
+msgid "absolute"
+msgstr "مطلق"
+
+msgid "abstract"
+msgstr "انتزاعی"
+
+msgid "accelerator"
+msgstr "شتاب‌ده"
+
+msgid "accent"
+msgstr "لهجه"
+
+msgid "accept"
+msgstr "قبول"
+
+msgid "access"
+msgstr "دست‌یابی"
+
+msgid "accessibility"
+msgstr "دست‌یابی‌پذیری"
+
+msgid "accessory"
+msgstr ""
+
+msgid "account"
+msgstr "حساب"
+
+msgid "accuracy"
+msgstr "دقت"
+
+msgid "acquire"
+msgstr "اندوختن"
+
+msgid "acronym"
+msgstr "مخفف"
+
+msgid "action"
+msgstr "عمل"
+
+# پیش‌نهاد می‌شود در جای فعل امری (مثلاً روی دکمه‌ها) به صورت اسم مصدر، مثلاً «فعال‌سازی»، به کار رود
+msgid "activate"
+msgstr "فعال کردن"
+
+msgid "active"
+msgstr "فعال"
+
+msgid "activity"
+msgstr "فعالیت"
+
+msgid "adapter"
+msgstr "سازوارگر"
+
+# به عنوان فعل امری به‌تر است به صورت «بیفزا» به کار رود
+msgid "add"
+msgstr "افزودن"
+
+msgid "address"
+msgstr "نشانی"
+
+msgid "adjust"
+msgstr "تنظیم"
+
+msgid "administration"
+msgstr "راه‌بری"
+
+msgid "administrator"
+msgstr "راه‌بر"
+
+msgid "advanced"
+msgstr "پیش‌رفته"
+
+msgid "agent"
+msgstr "عامل"
+
+msgid "agree"
+msgstr "توافق کردن"
+
+msgid "agreement"
+msgstr "توافق"
+
+msgid "alarm"
+msgstr "هش‌دار"
+
+msgid "alert"
+msgstr "اعلام خطر"
+
+msgid "algorithm"
+msgstr "الگوریتم"
+
+msgid "alias"
+msgstr "مستعار"
+
+# دندانه‌دندانه‌شدگی تصاویر برداری به علت نمایش نامناسب
+# مثلاً زبر شدن قلم متن‌های روی صفحهٔ نمایش
+msgid "aliasing"
+msgstr "زبری"
+
+msgid "align"
+msgstr "تراز"
+
+msgid "alignment"
+msgstr "ترازبندی"
+
+msgid "allow"
+msgstr "اجازه دادن"
+
+msgid "alphanumeric"
+msgstr "حرفی‌عددی"
+
+msgid "alternative"
+msgstr "بدیل"
+
+msgid "amount"
+msgstr "مقدار"
+
+msgid "analysis"
+msgstr "تحلیل"
+
+msgid "anchor"
+msgstr "لنگر"
+
+msgid "angle"
+msgstr "زاویه"
+
+# فعل برای «پویانمایی» که ترجمهٔ animation است
+msgid "animate"
+msgstr "پویانمایاندن"
+
+msgid "animation"
+msgstr "پویانمایی"
+
+msgid "announce"
+msgstr "اعلان کردن"
+
+msgid "announcement"
+msgstr "اعلان"
+
+msgid "anonymous"
+msgstr "گم‌نام"
+
+msgid "anti-aliasing"
+msgstr "زبری‌زدایی"
+
+msgid "anti virus"
+msgstr "ضدویروس"
+
+msgid "appear"
+msgstr "ظاهر شدن"
+
+msgid "append"
+msgstr "الحاق"
+
+msgid "applet"
+msgstr "برنامک"
+
+msgid "application"
+msgstr "کاربردنامه"
+
+msgid "apply"
+msgstr "اعمال"
+
+msgid "approval"
+msgstr "موافقت"
+
+# شایسته است روی دکمه‌ها (یا جاهای مشابه)، از عبارات خلاصه‌تری مانند «موافق» استفاده شود
+msgid "approve"
+msgstr "موافقت کردن"
+
+msgid "approximate"
+msgstr "تقریب زدن"
+
+msgid "arbitrary"
+msgstr "دل‌خواه"
+
+msgid "archive"
+msgstr "بایگانی"
+
+msgid "area"
+msgstr "ناحیه"
+
+msgid "argument"
+msgstr "نشان‌وند"
+
+msgid "arrangement"
+msgstr "چینش"
+
+msgid "arrow"
+msgstr "پیکان"
+
+msgid "article"
+msgstr "مقاله"
+
+msgid "ascending"
+msgstr "صعودی"
+
+# پیش‌نهاد می‌شود aspect ratio به «ضریب نسبت» ترجمه شود
+msgid "aspect"
+msgstr "جنبه"
+
+msgid "assign"
+msgstr "تخصیص دادن"
+
+msgid "assignment"
+msgstr "تخصیص"
+
+msgid "asynchronous"
+msgstr "ناهمگام"
+
+msgid "attach"
+msgstr "پیوست کردن"
+
+msgid "attachment"
+msgstr "پیوست"
+
+msgid "attempt"
+msgstr "کوشش"
+
+msgid "attribute"
+msgstr "مشخصه"
+
+msgid "audio"
+msgstr "صوت"
+
+msgid "authenticate"
+msgstr "تأیید هویت کردن"
+
+msgid "authentication"
+msgstr "تأیید هویت"
+
+msgid "authorization"
+msgstr "اجازه‌دهی"
+
+msgid "authorize"
+msgstr "اجازه دادن"
+
+# معمولاً پیش‌وند است، که در فارسی پیش‌وند «خود-» می‌شود (مانند «خودرو» برای "Automobile")
+msgid "auto"
+msgstr "خودکار"
+
+msgid "automatic"
+msgstr "خودکار"
+
+msgid "availability"
+msgstr "دست‌رسی‌پذیری"
+
+# بسته به متن می‌توان از ترجمه‌های روان‌تر مانند «فراهم» یا «موجود» استفاده کرد
+msgid "available"
+msgstr "دست‌رسی‌پذیر"
+
+msgid "average"
+msgstr "میانگین"
+
+msgid "axis"
+msgstr "محور"
+
+# پیش‌نهاد فرهنگستان
+msgid "backbone"
+msgstr "مازه"
+
+msgid "back-end"
+msgstr "توساخت"
+
+msgid "background"
+msgstr "پس‌زمینه"
+
+msgid "backup"
+msgstr "پشتیبان"
+
+msgid "bandwidth"
+msgstr "پهنای باند"
+
+# پیش‌نهاد فرهنگستان
+msgid "banner"
+msgstr "برنما"
+
+msgid "bar"
+msgstr "نوار"
+
+msgid "base"
+msgstr "مبنا"
+
+msgid "beep"
+msgstr "بوق"
+
+msgid "begin"
+msgstr "آغاز"
+
+msgid "behavior"
+msgstr "رفتار"
+
+# پیش‌نهاد فرهنگستان
+msgid "binary"
+msgstr "دوگانی"
+
+# پیش‌نهاد می‌شود عبارت "binding" به «شیرازه» ترجمه شود
+msgid "bind"
+msgstr "گره زدن"
+
+msgid "bit"
+msgstr "بیت"
+
+msgid "bitmap"
+msgstr "بیت‌نگاشت"
+
+msgid "blank"
+msgstr "خالی"
+
+msgid "blink"
+msgstr "چشمک"
+
+msgid "block (unit)"
+msgstr "قطعه (واحد)"
+
+msgid "block (verb)"
+msgstr "مسدود کردن (فعل)"
+
+msgid "blog"
+msgstr "تارنوشت"
+
+msgid "blur"
+msgstr "محو"
+
+# صفحه‌کلید، صفحهٔ شطرنج، ...
+msgid "board"
+msgstr "صفحه"
+
+msgid "body"
+msgstr "بدنه"
+
+msgid "bold"
+msgstr "ضخیم"
+
+# پیش‌نهاد فرهنگستان
+msgid "bookmarks"
+msgstr "نشانک‌ها"
+
+msgid "boot"
+msgstr "راه‌اندازی"
+
+# بسته به متن می‌توان «مرز» هم ترجمه کرد
+msgid "border"
+msgstr "حاشیه"
+
+msgid "box"
+msgstr "جعبه"
+
+msgid "bracket"
+msgstr "قلاب"
+
+msgid "branch"
+msgstr "شاخه"
+
+msgid "break"
+msgstr "شکستن"
+
+msgid "break (program)"
+msgstr "شکست (برنامه)"
+
+msgid "break point"
+msgstr "نقطهٔ وقفه"
+
+msgid "bridge (verb)"
+msgstr "پل زدن (فعل)"
+
+msgid "bridge (noun)"
+msgstr "پل (اسم)"
+
+msgid "broken"
+msgstr "خراب"
+
+msgid "browse"
+msgstr "مرور"
+
+msgid "browser"
+msgstr "مرورگر"
+
+msgid "buffer"
+msgstr "میان‌گیر"
+
+msgid "bug"
+msgstr "اشکال"
+
+msgid "build"
+msgstr "ساخت"
+
+msgid "built-in"
+msgstr "توکار"
+
+msgid "bullet"
+msgstr "گِردک"
+
+msgid "bus"
+msgstr "گذرگاه"
+
+msgid "button"
+msgstr "دکمه"
+
+msgid "byte"
+msgstr "بایت"
+
+msgid "cable"
+msgstr "شاه‌سیم"
+
+msgid "cache"
+msgstr "نهان‌گاه"
+
+msgid "calculate"
+msgstr "حساب کردن"
+
+msgid "calculator"
+msgstr "ماشین حساب"
+
+msgid "calendar"
+msgstr "تقویم"
+
+# بسته به متن ممکن است «فراخوانی» ترجمه شود
+msgid "call"
+msgstr "تماس"
+
+msgid "camera"
+msgstr "دوربین"
+
+msgid "cancel"
+msgstr "لغو"
+
+msgid "capability"
+msgstr "قابلیت"
+
+msgid "capacity"
+msgstr "گنجایش"
+
+msgid "caption"
+msgstr "عنوان"
+
+# پیش‌نهاد فرهنگستان
+msgid "capture"
+msgstr "گیراندازی"
+
+msgid "card"
+msgstr "کارت"
+
+# پیش‌نهاد فرهنگستان برای جعبهٔ رایانه
+msgid "case"
+msgstr "کازه"
+
+msgid "case (font)"
+msgstr "حالت (قلم)"
+
+# پیش‌نهاد فرهنگستان
+msgid "catalog"
+msgstr "کارنما"
+
+msgid "category"
+msgstr "دسته"
+
+# پیش‌نهاد فرهنگستان
+# بسته به متن می‌توان «یاخته» هم ترجمه کرد
+msgid "cell"
+msgstr "خانک"
+
+msgid "certificate"
+msgstr "گواهی‌نامه"
+
+msgid "certify"
+msgstr "گواهی کردن"
+
+msgid "change"
+msgstr "تغییر"
+
+msgid "channel"
+msgstr "مجرا"
+
+msgid "character"
+msgstr "نویسه"
+
+msgid "charset"
+msgstr "مجموعه‌نویسه"
+
+msgid "chart"
+msgstr "نمودار"
+
+msgid "chat"
+msgstr "گپ"
+
+# در کنار checkbox به «نشان‌گذاری» ترجمه می‌شود
+msgid "check"
+msgstr "بررسی"
+
+msgid "check box"
+msgstr "قاب نشان‌گذاری"
+
+msgid "child"
+msgstr "فرزند"
+
+msgid "choice"
+msgstr "انتخاب"
+
+msgid "choose"
+msgstr "انتخاب کردن"
+
+msgid "class"
+msgstr "رده"
+
+msgid "classic"
+msgstr "سنتی"
+
+msgid "classify"
+msgstr "رده‌بندی کردن"
+
+msgid "clean"
+msgstr "تمیز"
+
+msgid "clear"
+msgstr "پاک کردن"
+
+# پیش‌نهاد باحال فرهنگستان!
+msgid "click (noun)"
+msgstr "تلیک (اسم)"
+
+# پیش‌نهاد باحال فرهنگستان!
+msgid "click (verb)"
+msgstr "تلیک کردن (فعل)"
+
+msgid "client"
+msgstr "مخدوم"
+
+msgid "clip art"
+msgstr "قطعه هنر"
+
+# پیش‌نهاد فرهنگستان
+msgid "clip board"
+msgstr "بریده‌دان"
+
+msgid "clock"
+msgstr "ساعت"
+
+msgid "close"
+msgstr "بستن"
+
+msgid "code (program)"
+msgstr "کد (برنامه)"
+
+msgid "code (symbol)"
+msgstr "کد (نماد)"
+
+msgid "codec"
+msgstr "کدگذاروگشا"
+
+msgid "collapse"
+msgstr "جمع شدن"
+
+msgid "collect"
+msgstr "جمع‌آوری کردن"
+
+msgid "column"
+msgstr "ستون"
+
+msgid "combination"
+msgstr "ترکیب"
+
+# همان ویرگول
+msgid "comma"
+msgstr "واوک"
+
+msgid "command"
+msgstr "فرمان"
+
+# بسته به متن می‌توان «توضیح» هم ترجمه کرد
+msgid "comment"
+msgstr "نظر"
+
+msgid "common"
+msgstr "عمومی"
+
+msgid "communication"
+msgstr "ارتباط"
+
+msgid "compact"
+msgstr "فشرده"
+
+msgid "compare"
+msgstr "مقایسه کردن"
+
+msgid "compatibility"
+msgstr "سازگاری"
+
+msgid "compatible"
+msgstr "سازگار"
+
+# حويل الشفرة المصرية إلى ملفات ثنائية (برمجة
+msgid "compilation"
+msgstr "هم‌گردانی"
+
+msgid "compile"
+msgstr "هم‌گرداندن"
+
+msgid "compiler"
+msgstr "هم‌گردان"
+
+msgid "complete"
+msgstr "کامل"
+
+msgid "component"
+msgstr "مؤلفه"
+
+msgid "compose"
+msgstr "ساختن"
+
+msgid "composition"
+msgstr "ترکیب"
+
+msgid "compress"
+msgstr "فشردن"
+
+msgid "compression"
+msgstr "فشرده‌سازی"
+
+msgid "computer"
+msgstr "رایانه"
+
+msgid "computing"
+msgstr "رایانیدن"
+
+msgid "concatenate"
+msgstr "الحاق"
+
+msgid "concurrent"
+msgstr "هم‌روند"
+
+msgid "condense"
+msgstr "هم‌چگال"
+
+msgid "condition"
+msgstr "شرط"
+
+msgid "configuration"
+msgstr "پیکربندی"
+
+msgid "configure"
+msgstr "پیکربندی کردن"
+
+msgid "confirm"
+msgstr "تصدیق کردن"
+
+msgid "confirmation"
+msgstr "تصدیق"
+
+msgid "conflict"
+msgstr "تعارض"
+
+msgid "connect"
+msgstr "وصل کردن"
+
+msgid "connection"
+msgstr "اتصال"
+
+msgid "console"
+msgstr "پیشانه"
+
+msgid "contact (noun)"
+msgstr "تماس (اسم)"
+
+msgid "contact (verb)"
+msgstr "تماس گرفتن (فعل)"
+
+msgid "content"
+msgstr "محتوا"
+
+msgid "context"
+msgstr "متن"
+
+msgid "continue"
+msgstr "ادامه"
+
+msgid "contrast"
+msgstr "تباین"
+
+msgid "contributor"
+msgstr "کمک‌کننده"
+
+# پیش‌نهاد فرهنگستان
+msgid "control"
+msgstr "مهار"
+
+msgid "conversion"
+msgstr "تبدیل"
+
+msgid "convert"
+msgstr "تبدیل کردن"
+
+msgid "cookie"
+msgstr "کلوچه"
+
+msgid "cooperative"
+msgstr "تعاونی"
+
+msgid "coordinate"
+msgstr "هم‌آهنگ کردن"
+
+msgid "copy (noun)"
+msgstr "رونوشت (اسم)"
+
+# اسم مصدر برای اختصار: رونوشت‌برداری
+msgid "copy (verb)"
+msgstr "رونوشت برداشتن (فعل)"
+
+msgid "copy left"
+msgstr ""
+
+msgid "copy right"
+msgstr "حق نشر"
+
+# به عنوان فعل: تصحیح کردن
+msgid "correct"
+msgstr "صحیح"
+
+msgid "correspondence"
+msgstr "تناظر"
+
+msgid "correspondent"
+msgstr "متناظر"
+
+msgid "corrupt"
+msgstr "فاسد"
+
+msgid "count"
+msgstr "شمارش"
+
+msgid "countable"
+msgstr "قابل شمارش"
+
+msgid "crash"
+msgstr "سانحه"
+
+msgid "create"
+msgstr "ایجاد کردن"
+
+msgid "creation"
+msgstr "ایجاد"
+
+msgid "criteria"
+msgstr "معیارها"
+
+msgid "crop"
+msgstr "چیدن"
+
+msgid "cross-platform"
+msgstr ""
+
+msgid "crypt"
+msgstr "رمز"
+
+msgid "cryptology"
+msgstr "رمزشناسی"
+
+# بسته به متن ممکن است «جریان» ترجمه شود
+msgid "current"
+msgstr "جاری"
+
+msgid "cursor"
+msgstr "مکان‌نما"
+
+msgid "curve"
+msgstr "منحنی"
+
+msgid "custom"
+msgstr "سفارشی"
+
+msgid "customization"
+msgstr "سفارشی‌سازی"
+
+msgid "customize"
+msgstr "سفارشی کردن"
+
+# بسته به متن ممکن است «برش» ترجمه شود
+msgid "cut"
+msgstr "بریدن"
+
+msgid "cycle"
+msgstr "چرخه"
+
+msgid "daemon"
+msgstr "شبح"
+
+# یا «خرابی»
+msgid "damage"
+msgstr "خراب کردن"
+
+msgid "data"
+msgstr "داده"
+
+msgid "database"
+msgstr "پایگاه‌داده"
+
+msgid "debug"
+msgstr "اشکال‌زدایی"
+
+msgid "debugger"
+msgstr "اشکال‌زدا"
+
+msgid "decimal"
+msgstr "ده‌دهی"
+
+msgid "decode"
+msgstr "کدگشایی"
+
+msgid "decompress"
+msgstr "فشرده‌گشودن"
+
+msgid "decrease"
+msgstr "کاستن"
+
+msgid "decrypt"
+msgstr "رمزگشودن"
+
+msgid "decryption"
+msgstr "رمزگشایی"
+
+msgid "default"
+msgstr "پیش‌گزیده"
+
+msgid "defect"
+msgstr "عیب"
+
+msgid "define"
+msgstr "تعریف کردن"
+
+msgid "definition"
+msgstr "تعریف"
+
+msgid "degree"
+msgstr "درجه"
+
+msgid "delay"
+msgstr "تأخیر"
+
+msgid "delete"
+msgstr "حذف کردن"
+
+msgid "deletion"
+msgstr "حذف"
+
+msgid "delimiter"
+msgstr "حائل"
+
+msgid "demo"
+msgstr "نمایش"
+
+msgid "deny"
+msgstr "رد کردن"
+
+msgid "dependence"
+msgstr "وابستگی"
+
+msgid "dependency"
+msgstr "وابستگی"
+
+msgid "depth"
+msgstr "عمق"
+
+msgid "derived"
+msgstr "مشتق‌شده"
+
+msgid "descending"
+msgstr "نزولی"
+
+msgid "description"
+msgstr "توضیح"
+
+msgid "deselect"
+msgstr "نامنتخب کردن"
+
+msgid "design"
+msgstr "طراحی"
+
+msgid "desktop"
+msgstr "رومیزی"
+
+msgid "destination"
+msgstr "مقصد"
+
+msgid "destroy"
+msgstr "تخریب کردن"
+
+msgid "detach"
+msgstr "جدا کردن"
+
+msgid "detect"
+msgstr "تشخیص دادن"
+
+msgid "develop"
+msgstr "توسعه دادن"
+
+msgid "development"
+msgstr "توسعه"
+
+msgid "developer"
+msgstr "توسعه‌گر"
+
+msgid "device"
+msgstr "دستگاه"
+
+msgid "diagram"
+msgstr "نمودار"
+
+msgid "dial"
+msgstr "شماره گرفتن"
+
+msgid "dialog"
+msgstr "محاوره"
+
+msgid "dialup"
+msgstr "شماره‌گیری"
+
+msgid "difference"
+msgstr "تفاوت"
+
+msgid "digit"
+msgstr "رقم"
+
+# پیش‌نهاد فرهنگستان
+msgid "digital"
+msgstr "رقمی"
+
+msgid "dimension"
+msgstr "بعد"
+
+msgid "directory"
+msgstr "شاخه"
+
+msgid "disable"
+msgstr "از کار انداختن"
+
+msgid "disc"
+msgstr "لوح"
+
+msgid "discard"
+msgstr "دور ریختن"
+
+msgid "disconnect"
+msgstr "قطع کردن"
+
+msgid "discussion"
+msgstr "بحث"
+
+msgid "disk"
+msgstr "لوح"
+
+# یا بسته به متن: «گسیل»
+msgid "dispatch"
+msgstr "گسیل داشتن"
+
+msgid "display"
+msgstr "نمایش"
+
+msgid "distort"
+msgstr "واپیچاندن"
+
+msgid "distribute"
+msgstr "توزیع کردن"
+
+msgid "distribution"
+msgstr "توزیع"
+
+msgid "distributor"
+msgstr "توزیع‌کننده"
+
+# یا بسته به نقش: لنگر انداختن
+msgid "dock"
+msgstr "لنگرگاه"
+
+msgid "document"
+msgstr "سند"
+
+msgid "documentation"
+msgstr "مستندات"
+
+msgid "domain"
+msgstr "دامنه"
+
+msgid "double click"
+msgstr "دوتلیک"
+
+msgid "download"
+msgstr "پایین‌گذاری"
+
+msgid "drag"
+msgstr "کشیدن"
+
+msgid "draw"
+msgstr "رسم کردن"
+
+msgid "driver"
+msgstr "راه‌انداز"
+
+# بسته به متن، اگر «دوگانه» مناسب نبود: دوگان
+msgid "dual"
+msgstr "دوگانه"
+
+msgid "dump"
+msgstr "ریختن"
+
+# به عنوان اسم: تکراری
+msgid "duplicate"
+msgstr "تکثیر کردن"
+
+msgid "dynamic"
+msgstr "پویا"
+
+msgid "echo"
+msgstr "پژواک"
+
+# اسم مصدر: ویرایش
+msgid "edit"
+msgstr "ویراستن"
+
+msgid "edition"
+msgstr "ویراست"
+
+msgid "editor"
+msgstr "ویراستار"
+
+msgid "effect"
+msgstr "جلوه"
+
+msgid "eject"
+msgstr "بیرون دادن"
+
+# در متون تخصصی: الکترونیکی
+# به عنوان توضیح دهندهٔ فن‌آوری‌های رایانه‌ای: «رایا» -> مثلاً electronic mail = رایانامه
+msgid "electronic"
+msgstr "برقی"
+
+msgid "element"
+msgstr "عنصر"
+
+msgid "email"
+msgstr "رایانامه"
+
+msgid "embed"
+msgstr "تعبیه کردن"
+
+msgid "emoticon"
+msgstr ""
+
+msgid "empty"
+msgstr "خالی"
+
+msgid "emulate"
+msgstr "تقلید کردن"
+
+msgid "emulation"
+msgstr "تقلید"
+
+msgid "emulator"
+msgstr "مقلد"
+
+msgid "enable"
+msgstr "به کار انداختن"
+
+msgid "enabled"
+msgstr "به‌کارافتاده"
+
+msgid "encode"
+msgstr "کد گذاشتن"
+
+msgid "encoding"
+msgstr "کدبندی"
+
+msgid "encrypt"
+msgstr "رمزی کردن"
+
+msgid "encrypted"
+msgstr "رمزی‌شده"
+
+msgid "encryption"
+msgstr "رمزبندی"
+
+msgid "engine"
+msgstr "موتور"
+
+msgid "enhancement"
+msgstr "به‌بود"
+
+msgid "enlarge"
+msgstr "بزرگ کردن"
+
+msgid "enlargement"
+msgstr "بزرگی"
+
+msgid "enter"
+msgstr "ورود"
+
+msgid "entertainment"
+msgstr "سرگرمی"
+
+msgid "entry"
+msgstr "مدخل"
+
+msgid "environment"
+msgstr "محیط"
+
+msgid "equalizer"
+msgstr "هم‌سان‌گر"
+
+msgid "erase"
+msgstr "پاک کردن"
+
+msgid "error"
+msgstr "خطا"
+
+# به عنوان اسم: گریز
+msgid "escape"
+msgstr "گریختن"
+
+msgid "evaluation"
+msgstr "ارزیابی"
+
+msgid "event"
+msgstr "روی‌داد"
+
+msgid "exception"
+msgstr "استثنا"
+
+msgid "executable"
+msgstr "اجرایی"
+
+msgid "execute"
+msgstr "اجرا کردن"
+
+msgid "existing"
+msgstr "موجود"
+
+msgid "exit"
+msgstr "خروج"
+
+msgid "expand"
+msgstr "بسط دادن"
+
+msgid "expansion"
+msgstr "بسط"
+
+msgid "explore"
+msgstr "کاویدن"
+
+# اسم مصدر: صدور
+msgid "export"
+msgstr "صادر کردن"
+
+msgid "expression"
+msgstr "عبارت"
+
+msgid "extend"
+msgstr "گستردن"
+
+msgid "extensible"
+msgstr "قابل گسترش"
+
+# یا بسته به متن، «پس‌وند»
+# مثلاً: file extension -> پس‌وند پرونده
+msgid "extension"
+msgstr "گسترش"
+
+msgid "external"
+msgstr "بیرونی"
+
+msgid "extra"
+msgstr "اضافی"
+
+# اسم مصدر: استخراج
+msgid "extract"
+msgstr "استخراج کردن"
+
+msgid "fail"
+msgstr ""
+
+# فادح: مثل خطأ فادح
+msgid "fatal"
+msgstr ""
+
+msgid "fault"
+msgstr ""
+
+msgid "favorite"
+msgstr ""
+
+msgid "feature"
+msgstr ""
+
+msgid "feed"
+msgstr ""
+
+msgid "feedback"
+msgstr ""
+
+msgid "fetch"
+msgstr ""
+
+msgid "field"
+msgstr ""
+
+msgid "figure"
+msgstr ""
+
+msgid "file"
+msgstr ""
+
+msgid "fill"
+msgstr ""
+
+msgid "filter"
+msgstr ""
+
+msgid "find"
+msgstr ""
+
+msgid "firewall"
+msgstr ""
+
+msgid "firmware"
+msgstr ""
+
+msgid "fit"
+msgstr ""
+
+msgid "fix"
+msgstr ""
+
+msgid "flag"
+msgstr ""
+
+msgid "flash"
+msgstr ""
+
+msgid "flat"
+msgstr ""
+
+msgid "flip"
+msgstr ""
+
+msgid "float (verb)"
+msgstr ""
+
+msgid "flood"
+msgstr ""
+
+msgid "floppy"
+msgstr ""
+
+msgid "folder"
+msgstr ""
+
+msgid "font"
+msgstr ""
+
+msgid "footer"
+msgstr ""
+
+msgid "form"
+msgstr ""
+
+msgid "format (noun)"
+msgstr ""
+
+msgid "format (verb)"
+msgstr ""
+
+msgid "formatted"
+msgstr ""
+
+msgid "formula"
+msgstr ""
+
+msgid "forum"
+msgstr ""
+
+msgid "fragment"
+msgstr ""
+
+msgid "frame"
+msgstr ""
+
+msgid "frame set"
+msgstr ""
+
+msgid "framework"
+msgstr ""
+
+msgid "free software"
+msgstr ""
+
+msgid "freeze"
+msgstr ""
+
+msgid "frequency"
+msgstr ""
+
+msgid "front end"
+msgstr ""
+
+msgid "function"
+msgstr ""
+
+msgid "gallery"
+msgstr ""
+
+msgid "game"
+msgstr ""
+
+msgid "gateway"
+msgstr ""
+
+msgid "generate"
+msgstr ""
+
+msgid "generation"
+msgstr ""
+
+msgid "generator"
+msgstr ""
+
+msgid "generic"
+msgstr ""
+
+msgid "geometric"
+msgstr ""
+
+msgid "geometry"
+msgstr ""
+
+msgid "grab"
+msgstr ""
+
+msgid "gradient"
+msgstr ""
+
+msgid "grain"
+msgstr ""
+
+msgid "graph"
+msgstr ""
+
+msgid "graphic"
+msgstr ""
+
+msgid "graphical"
+msgstr ""
+
+msgid "graphics"
+msgstr ""
+
+msgid "gray-scale"
+msgstr ""
+
+msgid "grid"
+msgstr ""
+
+msgid "group"
+msgstr ""
+
+msgid "guess"
+msgstr ""
+
+msgid "guest"
+msgstr ""
+
+msgid "handle (noun)"
+msgstr ""
+
+msgid "handle (verb)"
+msgstr ""
+
+msgid "handler"
+msgstr ""
+
+msgid "hardware"
+msgstr ""
+
+msgid "hash"
+msgstr ""
+
+msgid "head"
+msgstr ""
+
+msgid "header"
+msgstr ""
+
+msgid "height"
+msgstr ""
+
+msgid "help"
+msgstr ""
+
+msgid "hide"
+msgstr ""
+
+msgid "hierarchy"
+msgstr ""
+
+msgid "high light"
+msgstr ""
+
+msgid "history"
+msgstr ""
+
+msgid "host"
+msgstr ""
+
+msgid "hostname"
+msgstr ""
+
+msgid "hyperlink"
+msgstr ""
+
+msgid "hypertext"
+msgstr ""
+
+msgid "icon"
+msgstr ""
+
+msgid "identify"
+msgstr ""
+
+msgid "idle"
+msgstr ""
+
+msgid "ignore"
+msgstr ""
+
+msgid "image"
+msgstr ""
+
+msgid "implement"
+msgstr ""
+
+msgid "import"
+msgstr ""
+
+msgid "inactive"
+msgstr ""
+
+msgid "inbox"
+msgstr ""
+
+msgid "inch"
+msgstr ""
+
+msgid "include"
+msgstr ""
+
+msgid "incoming"
+msgstr ""
+
+msgid "incompatible"
+msgstr ""
+
+msgid "increase"
+msgstr ""
+
+msgid "increment"
+msgstr ""
+
+msgid "indent"
+msgstr ""
+
+msgid "index"
+msgstr ""
+
+msgid "indice"
+msgstr ""
+
+msgid "infect"
+msgstr ""
+
+msgid "infinite"
+msgstr ""
+
+msgid "information"
+msgstr ""
+
+msgid "infrared"
+msgstr ""
+
+msgid "initial"
+msgstr ""
+
+msgid "initialize"
+msgstr ""
+
+msgid "input"
+msgstr ""
+
+msgid "insert"
+msgstr ""
+
+msgid "install"
+msgstr ""
+
+msgid "installer"
+msgstr ""
+
+msgid "instance"
+msgstr ""
+
+msgid "instruction"
+msgstr ""
+
+msgid "integer"
+msgstr ""
+
+msgid "integral"
+msgstr ""
+
+msgid "integrate"
+msgstr ""
+
+msgid "integration"
+msgstr ""
+
+msgid "integrity"
+msgstr ""
+
+msgid "intensity"
+msgstr ""
+
+msgid "interactivity"
+msgstr ""
+
+msgid "interface"
+msgstr ""
+
+msgid "internal"
+msgstr ""
+
+msgid "internet"
+msgstr ""
+
+msgid "interrupt"
+msgstr ""
+
+msgid "invalid"
+msgstr ""
+
+msgid "inverse"
+msgstr ""
+
+msgid "invert"
+msgstr ""
+
+msgid "invoke"
+msgstr ""
+
+msgid "italic"
+msgstr ""
+
+msgid "item"
+msgstr ""
+
+msgid "iteration"
+msgstr ""
+
+msgid "jag"
+msgstr ""
+
+msgid "jam"
+msgstr ""
+
+msgid "job"
+msgstr ""
+
+msgid "join"
+msgstr ""
+
+msgid "joy stick"
+msgstr ""
+
+msgid "jump"
+msgstr ""
+
+msgid "junk"
+msgstr ""
+
+msgid "justify"
+msgstr ""
+
+msgid "keep"
+msgstr ""
+
+msgid "kernel"
+msgstr ""
+
+msgid "key"
+msgstr ""
+
+msgid "keyboard"
+msgstr ""
+
+msgid "key stroke"
+msgstr ""
+
+msgid "key word"
+msgstr ""
+
+msgid "label"
+msgstr ""
+
+msgid "landscape"
+msgstr ""
+
+msgid "language"
+msgstr ""
+
+msgid "laptop"
+msgstr ""
+
+msgid "launch"
+msgstr ""
+
+msgid "layer"
+msgstr ""
+
+msgid "layout"
+msgstr ""
+
+msgid "length"
+msgstr ""
+
+msgid "license"
+msgstr ""
+
+msgid "line"
+msgstr ""
+
+msgid "link"
+msgstr ""
+
+msgid "list"
+msgstr ""
+
+msgid "load"
+msgstr ""
+
+msgid "local"
+msgstr ""
+
+msgid "localization"
+msgstr ""
+
+msgid "location"
+msgstr ""
+
+msgid "log"
+msgstr ""
+
+msgid "lookup"
+msgstr ""
+
+msgid "lower-case"
+msgstr ""
+
+msgid "machine"
+msgstr ""
+
+msgid "main board"
+msgstr ""
+
+msgid "maintainer"
+msgstr ""
+
+msgid "maintenance"
+msgstr ""
+
+msgid "manage"
+msgstr ""
+
+msgid "management"
+msgstr ""
+
+msgid "manager"
+msgstr ""
+
+msgid "manual"
+msgstr ""
+
+msgid "margin"
+msgstr ""
+
+msgid "mark"
+msgstr ""
+
+msgid "master"
+msgstr ""
+
+msgid "match"
+msgstr ""
+
+msgid "maximize"
+msgstr ""
+
+msgid "memory"
+msgstr ""
+
+msgid "menu"
+msgstr ""
+
+msgid "merge"
+msgstr ""
+
+msgid "message"
+msgstr ""
+
+msgid "method"
+msgstr ""
+
+msgid "minimize"
+msgstr ""
+
+msgid "mode"
+msgstr ""
+
+msgid "modem"
+msgstr ""
+
+msgid "moderator"
+msgstr ""
+
+msgid "modify"
+msgstr ""
+
+msgid "module"
+msgstr ""
+
+msgid "monitor"
+msgstr ""
+
+msgid "mosaic"
+msgstr ""
+
+msgid "motion"
+msgstr ""
+
+msgid "mouse"
+msgstr ""
+
+msgid "move"
+msgstr ""
+
+msgid "multimedia"
+msgstr ""
+
+msgid "multitasking"
+msgstr ""
+
+msgid "name"
+msgstr ""
+
+msgid "navigation"
+msgstr ""
+
+msgid "navigator"
+msgstr ""
+
+msgid "network"
+msgstr ""
+
+msgid "news group"
+msgstr ""
+
+msgid "next"
+msgstr ""
+
+msgid "nick name"
+msgstr ""
+
+msgid "no"
+msgstr ""
+
+msgid "node"
+msgstr ""
+
+msgid "notation"
+msgstr ""
+
+msgid "note"
+msgstr ""
+
+msgid "notebook"
+msgstr ""
+
+msgid "notification"
+msgstr ""
+
+msgid "notify"
+msgstr ""
+
+# في الرياضيات "صفر"
+# الصفة "منعدم"
+msgid "null"
+msgstr ""
+
+msgid "number"
+msgstr ""
+
+msgid "numbering"
+msgstr ""
+
+msgid "object"
+msgstr ""
+
+msgid "occurrence"
+msgstr ""
+
+msgid "octet"
+msgstr ""
+
+msgid "offline"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "online"
+msgstr ""
+
+msgid "ongoing"
+msgstr ""
+
+msgid "opacity"
+msgstr ""
+
+msgid "opaque"
+msgstr ""
+
+msgid "open"
+msgstr ""
+
+msgid "operation"
+msgstr ""
+
+msgid "option"
+msgstr ""
+
+msgid "optional"
+msgstr ""
+
+msgid "order"
+msgstr ""
+
+msgid "organize"
+msgstr ""
+
+msgid "orientation"
+msgstr ""
+
+msgid "original"
+msgstr ""
+
+msgid "outgoing"
+msgstr ""
+
+msgid "output"
+msgstr ""
+
+msgid "overflow"
+msgstr ""
+
+msgid "override"
+msgstr ""
+
+msgid "overwrite"
+msgstr ""
+
+msgid "owner"
+msgstr ""
+
+msgid "pack"
+msgstr ""
+
+msgid "package"
+msgstr ""
+
+msgid "packet"
+msgstr ""
+
+msgid "padding"
+msgstr ""
+
+msgid "page"
+msgstr ""
+
+msgid "paint"
+msgstr ""
+
+msgid "pair"
+msgstr ""
+
+msgid "palette"
+msgstr ""
+
+msgid "panel"
+msgstr ""
+
+msgid "parallel"
+msgstr ""
+
+msgid "parameter"
+msgstr ""
+
+msgid "parcel"
+msgstr ""
+
+msgid "parent"
+msgstr ""
+
+msgid "parity"
+msgstr ""
+
+msgid "parse"
+msgstr ""
+
+msgid "partition"
+msgstr ""
+
+msgid "pass"
+msgstr ""
+
+msgid "password"
+msgstr ""
+
+msgid "paste"
+msgstr ""
+
+msgid "patch (noun)"
+msgstr ""
+
+msgid "patch (verb)"
+msgstr ""
+
+msgid "path"
+msgstr ""
+
+msgid "pattern"
+msgstr ""
+
+msgid "pause"
+msgstr ""
+
+msgid "peripheral"
+msgstr ""
+
+msgid "permanent"
+msgstr ""
+
+msgid "permission"
+msgstr ""
+
+msgid "permutation"
+msgstr ""
+
+msgid "physical"
+msgstr ""
+
+msgid "picture"
+msgstr ""
+
+msgid "pipe"
+msgstr ""
+
+msgid "pixel"
+msgstr ""
+
+msgid "placement"
+msgstr ""
+
+msgid "plain"
+msgstr ""
+
+msgid "plot (verb)"
+msgstr ""
+
+msgid "plotter"
+msgstr ""
+
+msgid "plugin"
+msgstr ""
+
+msgid "pop up"
+msgstr ""
+
+msgid "port"
+msgstr ""
+
+msgid "position"
+msgstr ""
+
+msgid "post"
+msgstr ""
+
+msgid "preferences"
+msgstr ""
+
+msgid "prepare"
+msgstr ""
+
+msgid "presentation"
+msgstr ""
+
+msgid "press"
+msgstr ""
+
+msgid "prevent"
+msgstr ""
+
+msgid "preview"
+msgstr ""
+
+msgid "primary"
+msgstr ""
+
+msgid "principal"
+msgstr ""
+
+msgid "print"
+msgstr ""
+
+msgid "printer"
+msgstr ""
+
+msgid "priority"
+msgstr ""
+
+msgid "privacy"
+msgstr ""
+
+msgid "private"
+msgstr ""
+
+msgid "privilege"
+msgstr ""
+
+msgid "procedure"
+msgstr ""
+
+msgid "process"
+msgstr ""
+
+msgid "processor"
+msgstr ""
+
+msgid "product"
+msgstr ""
+
+msgid "profile"
+msgstr ""
+
+msgid "program"
+msgstr ""
+
+msgid "programmer"
+msgstr ""
+
+msgid "project"
+msgstr ""
+
+msgid "prompt"
+msgstr ""
+
+msgid "property"
+msgstr ""
+
+msgid "proprietary"
+msgstr ""
+
+msgid "protect"
+msgstr ""
+
+msgid "protection"
+msgstr ""
+
+#, !!!
+msgid "protocol"
+msgstr ""
+
+msgid "provide"
+msgstr ""
+
+msgid "provider"
+msgstr ""
+
+msgid "proxy"
+msgstr ""
+
+msgid "public"
+msgstr ""
+
+msgid "publish"
+msgstr ""
+
+msgid "pull"
+msgstr ""
+
+msgid "push"
+msgstr ""
+
+msgid "quality"
+msgstr ""
+
+msgid "quantity"
+msgstr ""
+
+msgid "quarantine"
+msgstr ""
+
+msgid "query"
+msgstr ""
+
+msgid "queue"
+msgstr ""
+
+msgid "quit"
+msgstr ""
+
+msgid "quota"
+msgstr ""
+
+msgid "quotation"
+msgstr ""
+
+msgid "quote"
+msgstr ""
+
+msgid "raise"
+msgstr ""
+
+msgid "random"
+msgstr ""
+
+msgid "range"
+msgstr ""
+
+msgid "rate"
+msgstr ""
+
+msgid "ratio"
+msgstr ""
+
+msgid "raw"
+msgstr ""
+
+msgid "ray"
+msgstr ""
+
+msgid "read"
+msgstr ""
+
+msgid "read only"
+msgstr ""
+
+msgid "ready"
+msgstr ""
+
+msgid "real"
+msgstr ""
+
+msgid "reboot"
+msgstr ""
+
+msgid "receipt"
+msgstr ""
+
+msgid "receive"
+msgstr ""
+
+msgid "recognition"
+msgstr ""
+
+msgid "reconnect"
+msgstr ""
+
+msgid "record"
+msgstr ""
+
+msgid "record (verb)"
+msgstr ""
+
+msgid "recover"
+msgstr ""
+
+msgid "recovery"
+msgstr ""
+
+#
+msgid "recursion"
+msgstr ""
+
+msgid "recursive"
+msgstr ""
+
+msgid "redirect"
+msgstr ""
+
+msgid "redo"
+msgstr ""
+
+msgid "reduce"
+msgstr ""
+
+msgid "reduction"
+msgstr ""
+
+msgid "redundant"
+msgstr ""
+
+msgid "reference"
+msgstr ""
+
+msgid "referer"
+msgstr ""
+
+msgid "referral"
+msgstr ""
+
+msgid "reflexive"
+msgstr ""
+
+msgid "refresh"
+msgstr ""
+
+msgid "refuse"
+msgstr ""
+
+msgid "regenerate"
+msgstr ""
+
+msgid "register"
+msgstr ""
+
+msgid "registration"
+msgstr ""
+
+msgid "registry"
+msgstr ""
+
+msgid "regular"
+msgstr ""
+
+msgid "regulate"
+msgstr ""
+
+msgid "relay"
+msgstr ""
+
+msgid "release"
+msgstr ""
+
+msgid "remaining"
+msgstr ""
+
+msgid "remind"
+msgstr ""
+
+msgid "remote"
+msgstr ""
+
+msgid "removable"
+msgstr ""
+
+msgid "remove"
+msgstr ""
+
+msgid "rename"
+msgstr ""
+
+msgid "render"
+msgstr ""
+
+msgid "renew"
+msgstr ""
+
+msgid "repair"
+msgstr ""
+
+msgid "repeat"
+msgstr ""
+
+msgid "replace"
+msgstr ""
+
+msgid "replicate"
+msgstr ""
+
+msgid "replication"
+msgstr ""
+
+msgid "reply"
+msgstr ""
+
+msgid "report"
+msgstr ""
+
+msgid "repository"
+msgstr ""
+
+msgid "request"
+msgstr ""
+
+msgid "require"
+msgstr ""
+
+msgid "requirement"
+msgstr ""
+
+msgid "reset"
+msgstr ""
+
+msgid "resize"
+msgstr ""
+
+msgid "resolution"
+msgstr ""
+
+msgid "resolver"
+msgstr ""
+
+msgid "resource"
+msgstr ""
+
+msgid "response"
+msgstr ""
+
+msgid "restart"
+msgstr ""
+
+msgid "restore"
+msgstr ""
+
+msgid "restrict"
+msgstr ""
+
+msgid "restriction"
+msgstr ""
+
+msgid "result"
+msgstr ""
+
+msgid "resume"
+msgstr ""
+
+msgid "retrieve"
+msgstr ""
+
+msgid "retry"
+msgstr ""
+
+msgid "return"
+msgstr ""
+
+msgid "reverse"
+msgstr ""
+
+msgid "revert"
+msgstr ""
+
+msgid "revocation"
+msgstr ""
+
+msgid "revoke"
+msgstr ""
+
+msgid "root"
+msgstr ""
+
+msgid "rotate"
+msgstr ""
+
+msgid "route"
+msgstr ""
+
+msgid "router"
+msgstr ""
+
+msgid "routine"
+msgstr ""
+
+msgid "row"
+msgstr ""
+
+msgid "rule"
+msgstr ""
+
+msgid "run"
+msgstr ""
+
+msgid "runtime"
+msgstr ""
+
+msgid "safe"
+msgstr ""
+
+msgid "sample"
+msgstr ""
+
+msgid "sans"
+msgstr ""
+
+msgid "save"
+msgstr ""
+
+msgid "scalable"
+msgstr ""
+
+msgid "scale"
+msgstr ""
+
+msgid "scan"
+msgstr ""
+
+msgid "scanner"
+msgstr ""
+
+msgid "schedule"
+msgstr ""
+
+msgid "scheme"
+msgstr ""
+
+msgid "scratch"
+msgstr ""
+
+msgid "screen"
+msgstr ""
+
+msgid "screw"
+msgstr ""
+
+msgid "script"
+msgstr ""
+
+# من لف الشئ يلفه
+# فتقول:
+# لف ﻷعلى=scroll up ، وهكذا
+msgid "scroll"
+msgstr ""
+
+msgid "search"
+msgstr ""
+
+msgid "section"
+msgstr ""
+
+msgid "sector"
+msgstr ""
+
+msgid "secure"
+msgstr ""
+
+msgid "security"
+msgstr ""
+
+msgid "seek"
+msgstr ""
+
+msgid "segment"
+msgstr ""
+
+msgid "segmentation"
+msgstr ""
+
+msgid "select"
+msgstr ""
+
+msgid "selection"
+msgstr ""
+
+msgid "semantic"
+msgstr ""
+
+msgid "send"
+msgstr ""
+
+msgid "sender"
+msgstr ""
+
+msgid "sensitive"
+msgstr ""
+
+msgid "sensor"
+msgstr ""
+
+msgid "serif"
+msgstr ""
+
+msgid "server"
+msgstr ""
+
+msgid "session"
+msgstr ""
+
+msgid "set"
+msgstr ""
+
+msgid "settings"
+msgstr ""
+
+msgid "setup"
+msgstr ""
+
+msgid "shading"
+msgstr ""
+
+msgid "shadow"
+msgstr ""
+
+msgid "shape"
+msgstr ""
+
+msgid "share"
+msgstr ""
+
+msgid "sharp"
+msgstr ""
+
+msgid "sheet"
+msgstr ""
+
+msgid "shell"
+msgstr ""
+
+msgid "shift"
+msgstr ""
+
+msgid "shortcut"
+msgstr ""
+
+msgid "show"
+msgstr ""
+
+msgid "shrink"
+msgstr ""
+
+msgid "shut down"
+msgstr ""
+
+msgid "side bar"
+msgstr ""
+
+msgid "sign"
+msgstr ""
+
+msgid "signal"
+msgstr ""
+
+msgid "signature"
+msgstr ""
+
+msgid "site"
+msgstr ""
+
+msgid "size"
+msgstr ""
+
+msgid "skew"
+msgstr ""
+
+msgid "skip"
+msgstr ""
+
+msgid "slave"
+msgstr ""
+
+msgid "sleep"
+msgstr ""
+
+msgid "slide"
+msgstr ""
+
+msgid "slot"
+msgstr ""
+
+msgid "smart"
+msgstr ""
+
+msgid "smiley"
+msgstr ""
+
+msgid "smooth"
+msgstr ""
+
+msgid "socket"
+msgstr ""
+
+msgid "software"
+msgstr ""
+
+msgid "solid"
+msgstr ""
+
+msgid "sort"
+msgstr ""
+
+msgid "source"
+msgstr ""
+
+msgid "space"
+msgstr ""
+
+msgid "spacing"
+msgstr ""
+
+msgid "spam"
+msgstr ""
+
+msgid "span"
+msgstr ""
+
+msgid "spawn"
+msgstr ""
+
+msgid "specify"
+msgstr ""
+
+msgid "speed"
+msgstr ""
+
+msgid "spelling"
+msgstr ""
+
+msgid "splash"
+msgstr ""
+
+msgid "split"
+msgstr ""
+
+msgid "spool"
+msgstr ""
+
+msgid "spread sheet"
+msgstr ""
+
+msgid "stack"
+msgstr ""
+
+msgid "stand alone"
+msgstr ""
+
+msgid "standard"
+msgstr ""
+
+msgid "start"
+msgstr ""
+
+msgid "state"
+msgstr ""
+
+msgid "static"
+msgstr ""
+
+msgid "statistics"
+msgstr ""
+
+msgid "step"
+msgstr ""
+
+msgid "stop"
+msgstr ""
+
+msgid "storage"
+msgstr ""
+
+msgid "store"
+msgstr ""
+
+msgid "stream"
+msgstr ""
+
+msgid "stretch"
+msgstr ""
+
+msgid "strict"
+msgstr ""
+
+msgid "string"
+msgstr ""
+
+msgid "strip"
+msgstr ""
+
+msgid "stroke"
+msgstr ""
+
+msgid "structure"
+msgstr ""
+
+msgid "stub"
+msgstr ""
+
+msgid "style"
+msgstr ""
+
+msgid "sub directory"
+msgstr ""
+
+msgid "sub folder"
+msgstr ""
+
+msgid "submission"
+msgstr ""
+
+msgid "submit"
+msgstr ""
+
+msgid "subscribe"
+msgstr ""
+
+msgid "subscription"
+msgstr ""
+
+msgid "subtract"
+msgstr ""
+
+msgid "succeed"
+msgstr ""
+
+msgid "suggest"
+msgstr ""
+
+msgid "suggestion"
+msgstr ""
+
+msgid "sum (noun)"
+msgstr ""
+
+msgid "sum (verb)"
+msgstr ""
+
+msgid "summary"
+msgstr ""
+
+msgid "support"
+msgstr ""
+
+msgid "surface"
+msgstr ""
+
+msgid "suspend"
+msgstr ""
+
+msgid "suspicious"
+msgstr ""
+
+msgid "swap"
+msgstr ""
+
+msgid "switch"
+msgstr ""
+
+msgid "symbol"
+msgstr ""
+
+msgid "synchronize"
+msgstr ""
+
+msgid "syntax"
+msgstr ""
+
+msgid "system"
+msgstr ""
+
+msgid "tab"
+msgstr ""
+
+msgid "table"
+msgstr ""
+
+msgid "tag"
+msgstr ""
+
+msgid "target"
+msgstr ""
+
+msgid "template"
+msgstr ""
+
+msgid "temporary"
+msgstr ""
+
+msgid "terminal"
+msgstr ""
+
+msgid "test"
+msgstr ""
+
+msgid "text"
+msgstr ""
+
+msgid "texture"
+msgstr ""
+
+msgid "theme"
+msgstr ""
+
+msgid "thread"
+msgstr ""
+
+msgid "thumbnail"
+msgstr ""
+
+msgid "tick"
+msgstr ""
+
+msgid "tile"
+msgstr ""
+
+msgid "time"
+msgstr ""
+
+msgid "time out"
+msgstr ""
+
+msgid "tip"
+msgstr ""
+
+msgid "title"
+msgstr ""
+
+msgid "toggle"
+msgstr ""
+
+msgid "token"
+msgstr ""
+
+msgid "tool"
+msgstr ""
+
+msgid "tool bar"
+msgstr ""
+
+msgid "tool box"
+msgstr ""
+
+msgid "topic"
+msgstr ""
+
+msgid "trace"
+msgstr ""
+
+msgid "track"
+msgstr ""
+
+msgid "traffic"
+msgstr ""
+
+msgid "transfer"
+msgstr ""
+
+msgid "transform"
+msgstr ""
+
+msgid "transformation"
+msgstr ""
+
+msgid "trap"
+msgstr ""
+
+msgid "trash"
+msgstr ""
+
+msgid "trigger"
+msgstr ""
+
+msgid "trouble shoot"
+msgstr ""
+
+msgid "tune"
+msgstr ""
+
+msgid "tweak"
+msgstr ""
+
+msgid "type (noun)"
+msgstr ""
+
+msgid "type (verb)"
+msgstr ""
+
+msgid "type face"
+msgstr ""
+
+msgid "unavailable"
+msgstr ""
+
+msgid "undelete"
+msgstr ""
+
+msgid "under line"
+msgstr ""
+
+msgid "undo"
+msgstr ""
+
+msgid "uninstall"
+msgstr ""
+
+msgid "unit"
+msgstr ""
+
+msgid "unknown"
+msgstr ""
+
+msgid "unload"
+msgstr ""
+
+msgid "named"
+msgstr ""
+
+msgid "reachable"
+msgstr ""
+
+msgid "readable"
+msgstr ""
+
+msgid "unspecified"
+msgstr ""
+
+msgid "unsubscribe"
+msgstr ""
+
+msgid "unsupported"
+msgstr "ساپورت نشده"
+
+msgid "update"
+msgstr "به روز"
+
+msgid "upgrade"
+msgstr "به روز رسانی"
+
+msgid "upload"
+msgstr "بارگذاری"
+
+msgid "upper case"
+msgstr ""
+
+msgid "usage"
+msgstr "کاربرد"
+
+msgid "user"
+msgstr "کاربر"
+
+msgid "user name"
+msgstr "نام کاربری"
+
+msgid "utility"
+msgstr "ابزار"
+
+msgid "valid"
+msgstr "درست"
+
+msgid "validation"
+msgstr "معتبر سازی"
+
+msgid "validity"
+msgstr "درستی"
+
+msgid "value"
+msgstr "مقدار"
+
+msgid "variable"
+msgstr "متغییر"
+
+msgid "vector"
+msgstr "برداری"
+
+msgid "verbose"
+msgstr ""
+
+msgid "verify"
+msgstr ""
+
+msgid "version"
+msgstr "نسخه"
+
+msgid "video"
+msgstr "ویدئو"
+
+msgid "view"
+msgstr "نما"
+
+msgid "viewer"
+msgstr "بیننده"
+
+msgid "virtual"
+msgstr "مجازی"
+
+msgid "virus"
+msgstr "ویروس"
+
+msgid "visual"
+msgstr ""
+
+msgid "volume"
+msgstr ""
+
+msgid "wallpaper"
+msgstr "کاغذ دیواری"
+
+msgid "warn"
+msgstr ""
+
+msgid "web"
+msgstr "وب"
+
+msgid "web cam"
+msgstr "وب کم"
+
+msgid "web master"
+msgstr "مدیر وب"
+
+msgid "web page"
+msgstr "صفحه وب"
+
+msgid "widget"
+msgstr ""
+
+msgid "width"
+msgstr "پهنا"
+
+msgid "wi fi"
+msgstr ""
+
+msgid "wild card"
+msgstr ""
+
+msgid "window"
+msgstr "پنجره"
+
+msgid "wizard"
+msgstr "ویزارد"
+
+msgid "word processor"
+msgstr "واژه پرداز"
+
+msgid "work around"
+msgstr ""
+
+msgid "work group"
+msgstr "گروه کاری"
+
+msgid "work station"
+msgstr "ایستگاه کاری"
+
+msgid "wrap"
+msgstr ""
+
+msgid "yes"
+msgstr "تایید"
+
+msgid "zone"
+msgstr ""
+
+msgid "zoom"
+msgstr "بزرگ نمایی"

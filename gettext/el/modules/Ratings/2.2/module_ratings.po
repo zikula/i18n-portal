@@ -1,0 +1,261 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zikula - Ratings module\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-06 17:12+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Thanasis Fotis <tfotis@tessera.gr>\n"
+"Language-Team: Tessera <info@tessera.gr>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: GREECE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: pnadmin.php:61
+msgid "View"
+msgstr "Προβολή αντικειμένου"
+
+#: pnadmin.php:66
+msgid "Delete"
+msgstr "Διαγραφή αξιολογήσεων για αυτό το αντικείμενο"
+
+#: pnadmin.php:107 pnadminapi.php:27
+msgid "No such item found."
+msgstr "Το αντικείμενο δεν βρέθηκε."
+
+#: pnadmin.php:138
+msgid "Done! Item deleted."
+msgstr "Το αντικείμενο διαγράφηκε."
+
+#: pnadmin.php:161
+msgid "Percentage"
+msgstr "Ποσοστό"
+
+#: pnadmin.php:162
+msgid "Number out of five"
+msgstr "Αριθμός 1 εώς 5"
+
+#: pnadmin.php:163
+msgid "Number out of ten"
+msgstr "Αριθμός 1 εώς 10"
+
+#: pnadmin.php:164
+msgid "Stars out of five"
+msgstr "Αστέρια 1 εώς 5"
+
+#: pnadmin.php:165
+msgid "Stars out of ten"
+msgstr "Αστέρια 1 εώς 10"
+
+#: pnadmin.php:166
+msgid "Low (user can vote multiple times)"
+msgstr "Χαμηλή (ο χρήστης μπορεί να αξιολογήσει πολλαπλές φορές)"
+
+#: pnadmin.php:167
+msgid "Medium (user can vote once per session)"
+msgstr "Μεσαία (ο χρήστης μπορεί να αξιολογήσει μία φορά σε κάθε συνεδρία)"
+
+#: pnadmin.php:168
+msgid "High (user can only vote once)"
+msgstr "Υψηλή (ο χρήστης μπορεί να αξιολογήσει μία μόνο φορά)"
+
+#: pnadmin.php:224
+msgid "Done! Module configuration updated."
+msgstr "Οι ρυθμίσεις του υποσυστήματος αποθηκεύτηκαν."
+
+#: pnajax.php:29
+msgid "Sorry! No authorization to access this module."
+msgstr "Δεν έχετε δικαίωμα πρόσβασης σε αυτό το υποσύστημα."
+
+#: pnversion.php:13 pntemplates/ratings_admin_menu.htm:4
+msgid "Ratings"
+msgstr "Αξιολογήσεις"
+
+#: pnversion.php:14
+msgid "Rate Zikula items."
+msgstr "Αξιολογήστε αντικείμενα στην ιστοσελίδα σας."
+
+#. !module name that appears in URL
+#: pnversion.php:15
+msgid "ratings"
+msgstr "ratings"
+
+#: pnuserapi.php:136 pnuserapi.php:219
+msgid "Error! Could not load items."
+msgstr "Δεν ήταν δυνατή η φόρτωση των εγγραφών."
+
+#: pnuserapi.php:229
+msgid "Error! Update attempt failed."
+msgstr "Η ενημέρωση απέτυχε."
+
+#: pnuserapi.php:241 pnuserapi.php:259
+msgid "Error! Save failed."
+msgstr "Η αποθήκευση απέτυχε."
+
+#: pnuser.php:22
+msgid "Sorry! This module cannot be accessed directly."
+msgstr ""
+"Η πρόσβαση στο υποσύστημα των αξιολογήσεων δεν μπορεί να γίνει με απευθείας "
+"κλήση."
+
+#: pnuser.php:244
+msgid "Done! Thank you for rating this item."
+msgstr "Σας ευχαριστούμε για την αξιολόγηση."
+
+#: pnadminapi.php:40 pnadminapi.php:43
+msgid "Error! Deletion attempt failed."
+msgstr "Η διαγραφή απέτυχε."
+
+#: pnadminapi.php:125 pntemplates/ratings_admin_view.htm:4
+#: pntemplates/ratings_admin_view.htm:5
+msgid "View all ratings"
+msgstr "Προβολή Αξιολογήσεων"
+
+#: pnadminapi.php:128 pntemplates/ratings_admin_modifyconfig.htm:2
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: pninit.php:23
+msgid "Error: Creation of the tables into the database attempt failed."
+msgstr ""
+"Δεν ήταν δυνατή η δημιουργία των πινάκων βάσης δεδομένων για το υποσύστημα "
+"των αξιολογήσεων."
+
+#: pninit.php:33
+msgid "Error: Set up module variables attempt failed."
+msgstr ""
+"Η αρχικοποίηση των μεταβλητών για το υποσύστημα των αξιολογήσεων απέτυχε."
+
+#: pninit.php:40
+msgid "Error: Set up module hooks attempt failed."
+msgstr ""
+"Η προσπάθεια ρύθμισης των hooks για το υποσύστημα των αξιολογήσεων απέτυχε."
+
+#: pninit.php:115
+msgid "Error: Could not deregister hook."
+msgstr ""
+"Η προσπάθεια αφαίρεσης των hooks του υποσυστήματος των αξιολογήσεων απέτυχε."
+
+#: pninit.php:121
+msgid "Error: Could not drop database tables."
+msgstr ""
+"Δεν ήταν δυνατή η διαγραφή των πινάκων βάσης δεδομένων για το υποσύστημα των "
+"αξιολογήσεων."
+
+#: pntemplates/ratings_admin_delete.htm:3
+msgid "Delete item's rating"
+msgstr "Διαγραφή όλων των αξιολογήσεων για αυτό το αντικείμενο"
+
+#: pntemplates/ratings_admin_delete.htm:7
+msgid "Do you really want to delete the rating of this item?"
+msgstr "Θέλετε σίγουρα να διαγράψετε τις αξιολογήσεις αυτού του αντικειμένου;"
+
+#: pntemplates/ratings_admin_delete.htm:14
+msgid "Confirmation prompt"
+msgstr "Επιβεβαίωση Εντολής"
+
+#: pntemplates/ratings_admin_delete.htm:16
+msgid "Confirm deletion?"
+msgstr "Διαγραφή"
+
+#: pntemplates/ratings_admin_delete.htm:17
+#: pntemplates/ratings_admin_modifyconfig.htm:47
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+#: pntemplates/ratings_admin_view.htm:9
+msgid "Module"
+msgstr "Υποσύστημα"
+
+#: pntemplates/ratings_admin_view.htm:10
+msgid "Item ID"
+msgstr "ID αντικειμένου"
+
+#: pntemplates/ratings_admin_view.htm:11
+msgid "Number of votes"
+msgstr "Αριθμός ψήφων"
+
+#: pntemplates/ratings_admin_view.htm:12
+#: pntemplates/ratings_user_display.htm:10
+msgid "Rating"
+msgstr "Αξιολόγηση"
+
+#: pntemplates/ratings_admin_view.htm:13
+msgid "Options"
+msgstr "Ενέργειες"
+
+#: pntemplates/ratings_admin_view.htm:31
+msgid "No items found."
+msgstr "Δεν βρέθηκαν εγγραφές."
+
+#: pntemplates/ratings_admin_modifyconfig.htm:13
+msgid "Items per page"
+msgstr "Στοιχεία ανα σελίδα"
+
+#: pntemplates/ratings_admin_modifyconfig.htm:17
+msgid "Default ratings style"
+msgstr "Προεπιλεγμένο στυλ αξιολόγησης"
+
+#: pntemplates/ratings_admin_modifyconfig.htm:23
+msgid "Use ajax for saving rate"
+msgstr "Χρήση ajax για την αποθήκευση της αξιολόγησης"
+
+#: pntemplates/ratings_admin_modifyconfig.htm:25
+msgid "If disabled the standard redirection will be used."
+msgstr ""
+"Αν απενεργοποιηθεί, τότε θα χρησιμοποιηθεί ο κλασικός τρόπος φόρτωσης της "
+"σελίδας (redirection)."
+
+#: pntemplates/ratings_admin_modifyconfig.htm:28
+msgid "Display stars dynamically using ajax"
+msgstr "Εμφάνιση των αστεριών δυναμικά με τη χρήση ajax"
+
+#: pntemplates/ratings_admin_modifyconfig.htm:30
+msgid "Only works if stars is set as default ratings style."
+msgstr ""
+"Για να χρησιμοποιήσετε αυτή τη δυνατότητα, θα πρέπει να έχετε επιλέξει "
+"'αστέρια' σαν στυλ αξιολόγησης."
+
+#: pntemplates/ratings_admin_modifyconfig.htm:33
+msgid "Display an informative message about the score"
+msgstr "Εμφάνιση πληροφοριακού μηνύματος σχετικά με την βαθμολογία"
+
+#: pntemplates/ratings_admin_modifyconfig.htm:35
+msgid "It tells to the user which is the lowest/higher value."
+msgstr "Ενημερώνει τους χρήστες για το ποια είναι η χαμηλότερη/υψηλότερη τιμή."
+
+#: pntemplates/ratings_admin_modifyconfig.htm:38
+msgid "Security against rate rigging"
+msgstr "Ασφάλεια κατά της νοθείας του αποτελέσματος της αξιολόγησης"
+
+#: pntemplates/ratings_admin_modifyconfig.htm:46
+msgid "Update Configuration"
+msgstr "Αποθήκευση Ρυθμίσεων"
+
+#: pntemplates/ratings_user_display.htm:13
+msgid "No one has rated this item yet - be the first!"
+msgstr "Δεν υπάρχει αξιολόγηση ακόμα - γίνετε ο πρώτος!"
+
+#: pntemplates/ratings_user_display.htm:87
+msgid "Rate this item"
+msgstr "η αξιολόγησή μου είναι"
+
+#: pntemplates/ratings_user_display.htm:113
+#: pntemplates/ratings_user_display.htm:116
+msgid "Submit"
+msgstr "Αξιολόγηση"
+
+#: pntemplates/ratings_user_display.htm:123
+#, php-format
+msgid "%1$s%3$s is the lowest and %2$s%3$s the higher score."
+msgstr ""
+"%1$s%3$s είναι η χαμηλότερη και %2$s%3$s είναι η υψηλότερη τιμή που μπορείτε "
+"να δώσετε."
+
+#: pntemplates/ratings_user_display.htm:130
+msgid "Recording rating"
+msgstr "Αποθήκευση αξιολόγησης"

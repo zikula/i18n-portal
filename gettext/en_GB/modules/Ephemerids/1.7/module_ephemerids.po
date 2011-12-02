@@ -1,0 +1,249 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-03 11:42-0500\n"
+"PO-Revision-Date: 2009-10-22 08:01+0000\n"
+"Last-Translator: David Nelson <commerce@traduction.biz>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 1.2.1\n"
+
+#: pnadmin.php:99
+#, fuzzy
+msgid "Done! Ephemerid created."
+msgstr "Done! Created the new ephemerid."
+
+#: pnadmin.php:128 pnadmin.php:228
+#, fuzzy
+msgid "No such ephemerid found."
+msgstr "Sorry! No such ephemerid found."
+
+#: pnadmin.php:190
+#, fuzzy
+msgid "Done! Ephemerid updated."
+msgstr "Done! Saved your changes."
+
+#: pnadmin.php:261
+#, fuzzy
+msgid "Done! Ephemerid deleted."
+msgstr "Done! Deleted it."
+
+#: pnadmin.php:306
+msgid "Edit"
+msgstr "Edit"
+
+#: pnadmin.php:310 pntemplates/ephemerids_admin_delete.htm:16
+msgid "Delete"
+msgstr "Delete"
+
+#: pnadmin.php:382
+#, fuzzy
+msgid "Done! Saved module configuration."
+msgstr "Done! Saved module configuration."
+
+#: pnuserapi.php:63 pnuserapi.php:150
+#, fuzzy
+msgid "Error! Could not load any ephemerids."
+msgstr "Error! Could not load items."
+
+#: pnblocks/ephem.php:31 pntemplates/ephemerids_admin_menu.htm:4
+msgid "Ephemerids"
+msgstr "Ephemerids"
+
+#: pnblocks/ephem.php:32
+#, fuzzy
+msgid "Ephemerid"
+msgstr "Ephemerids"
+
+#: pnversion.php:17
+msgid "Ephemerids "
+msgstr "Ephemerids"
+
+#: pnversion.php:18
+msgid ""
+"Provides a block displaying an information byte (historical event, thought "
+"for the day, etc.) linked to the day's date, with daily roll-over, and "
+"incorporates an interface for adding, editing and maintaining ephemerids."
+msgstr ""
+
+#. ! module name that appears in URL
+#: pnversion.php:20
+#, fuzzy
+msgid "ephemerids"
+msgstr "Ephemerids"
+
+#: pnadminapi.php:49
+#, fuzzy
+msgid "Error! Could not create the new ephemerid."
+msgstr "Error! Could not load items."
+
+#: pnadminapi.php:79
+msgid "No such ephemerid found"
+msgstr "Sorry! No such ephemerid found."
+
+#: pnadminapi.php:88
+#, fuzzy
+msgid "Error! Could not delete the ephemerid."
+msgstr "Error! Could not load items."
+
+#: pnadminapi.php:128
+#, fuzzy
+msgid "Error! No such ephemerid found"
+msgstr "Sorry! No such ephemerid found."
+
+#: pnadminapi.php:146
+#, fuzzy
+msgid "Error! Could not save your changes."
+msgstr "Error! Could not load items."
+
+#: pnadminapi.php:170 pntemplates/ephemerids_admin_view.htm:3
+#, fuzzy
+msgid "Ephemerids list"
+msgstr "Ephemerids"
+
+#: pnadminapi.php:173 pntemplates/ephemerids_admin_new.htm:3
+#, fuzzy
+msgid "Create new ephemerid"
+msgstr "Create new ephemerid"
+
+#: pnadminapi.php:176 pntemplates/ephemerids_admin_modifyconfig.htm:4
+#: pntemplates/ephemerids_admin_modifyconfig.htm:5
+msgid "Settings"
+msgstr "Settings"
+
+#: pntemplates/ephemerids_admin_modifyconfig.htm:10
+msgid "General settings"
+msgstr ""
+
+#: pntemplates/ephemerids_admin_modifyconfig.htm:12
+msgid "Items per page in admin panel list view"
+msgstr ""
+
+#: pntemplates/ephemerids_admin_modifyconfig.htm:18
+#: pntemplates/ephemerids_admin_modify.htm:32
+#: pntemplates/ephemerids_admin_new.htm:31
+msgid "Save"
+msgstr ""
+
+#: pntemplates/ephemerids_admin_modifyconfig.htm:19
+#: pntemplates/ephemerids_admin_modify.htm:33
+#: pntemplates/ephemerids_admin_new.htm:32
+#: pntemplates/ephemerids_admin_delete.htm:17
+msgid "Cancel"
+msgstr "Cancel"
+
+#: pntemplates/ephemerids_admin_modify.htm:3
+#, fuzzy
+msgid "Edit ephemerid"
+msgstr "Edit ephemerid"
+
+#: pntemplates/ephemerids_admin_modify.htm:14
+#: pntemplates/ephemerids_admin_new.htm:13
+#: pntemplates/ephemerids_admin_view.htm:10
+msgid "Date"
+msgstr "Date"
+
+#: pntemplates/ephemerids_admin_modify.htm:16
+#: pntemplates/ephemerids_admin_new.htm:15
+msgid ""
+"The year can't be lower than the unix epoch one (1970) or will be reseted to "
+"1970 for formatting purposes."
+msgstr ""
+
+#: pntemplates/ephemerids_admin_modify.htm:21
+#: pntemplates/ephemerids_admin_new.htm:20
+msgid "Language"
+msgstr "Language"
+
+#: pntemplates/ephemerids_admin_modify.htm:26
+#: pntemplates/ephemerids_admin_new.htm:25
+#: pntemplates/ephemerids_admin_view.htm:11
+msgid "Content"
+msgstr ""
+
+#: pntemplates/ephemerids_admin_new.htm:11
+#, fuzzy
+msgid "New ephemerid"
+msgstr "Edit ephemerid"
+
+#: pntemplates/ephemerids_admin_view.htm:12
+msgid "Internal ID"
+msgstr "Internal ID"
+
+#: pntemplates/ephemerids_admin_view.htm:13
+#, fuzzy
+msgid "Actions"
+msgstr "Actions"
+
+#: pntemplates/ephemerids_admin_view.htm:30
+msgid "No items found."
+msgstr "No items found."
+
+#: pntemplates/ephemerids_admin_delete.htm:3
+msgid "Delete ephemerid"
+msgstr "Delete ephemerid"
+
+#: pntemplates/ephemerids_admin_delete.htm:7
+msgid "Do you really want to delete this ephemerid?"
+msgstr "Do you really want to delete this ephemerid?"
+
+#~ msgid "No such item found."
+#~ msgstr "Sorry! No such item found."
+
+#~ msgid "%A, %B %d, %Y"
+#~ msgstr "%A, %B %d, %Y"
+
+#~ msgid "Error! Could not do what you wanted. Please check your input."
+#~ msgstr ""
+#~ "Error! The action you wanted to perform was not successful for some "
+#~ "reason, maybe because of a problem with what you input. Please check and "
+#~ "try again."
+
+#~ msgid "This is a day in history module"
+#~ msgstr ""
+#~ "Provides an 'About today' block showing an information byte (historical "
+#~ "event, thought for the day, etc.) linked to the day's date, with daily "
+#~ "roll-over, and incorporates an interface for adding, editing and "
+#~ "maintaining ephemerids."
+
+#~ msgid "Error! Creation attempt failed."
+#~ msgstr "Error! Could not create the new ephemerid."
+
+#~ msgid "Error! Deletion attempt failed."
+#~ msgstr "Error! Could not delete ephemerid."
+
+#~ msgid "Error! Update attempt failed."
+#~ msgstr "Error! Could not save your changes."
+
+#~ msgid "View ephemerids list"
+#~ msgstr "Ephemerids list"
+
+#~ msgid "One Day"
+#~ msgstr "About today"
+
+#~ msgid "Items per page"
+#~ msgstr "Items per page in admin panel list view"
+
+#~ msgid "Update Configuration"
+#~ msgstr "Save"
+
+#~ msgid "Event Name"
+#~ msgstr "Content"
+
+#~ msgid "Update"
+#~ msgstr "Save"
+
+#~ msgid "Create"
+#~ msgstr "Save"
+
+#~ msgid "Confirm deletion?"
+#~ msgstr "Delete"

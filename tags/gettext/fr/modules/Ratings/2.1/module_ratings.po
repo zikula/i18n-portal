@@ -1,0 +1,224 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Traduction du module Ratings 2.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-09 09:14+0000\n"
+"PO-Revision-Date: 2010-04-01 22:13+0200\n"
+"Last-Translator: Gilles <gilles@pilloud.fr>\n"
+"Language-Team: Zikula-France <zkfrance@zikula.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Country: FRANCE\n"
+
+#: pnadmin.php:73
+msgid "View"
+msgstr "Afficher"
+
+#: pnadmin.php:78
+msgid "Delete"
+msgstr "Supprimer"
+
+#: pnadmin.php:119 pnadminapi.php:29
+msgid "No such item found."
+msgstr "Aucun élément de ce type n'a été trouvé."
+
+#: pnadmin.php:150
+msgid "Done! Item deleted."
+msgstr "Terminé ! Élément supprimé."
+
+#: pnadmin.php:173
+msgid "Percentage"
+msgstr "Pourcentage"
+
+#: pnadmin.php:174
+msgid "Number out of five"
+msgstr "Numéros allant jusqu'à cinq"
+
+#: pnadmin.php:175
+msgid "Stars out of five"
+msgstr "Étoiles allant jusqu'à cinq"
+
+#: pnadmin.php:176
+msgid "Number out of ten"
+msgstr "Numéros allant jusqu'à dix"
+
+#: pnadmin.php:177
+msgid "Stars out of ten"
+msgstr "Étoiles allant jusqu'à dix"
+
+#: pnadmin.php:178
+msgid "Low (user can vote multiple times)"
+msgstr "Bas (les utilisateurs peuvent évaluer plusieurs fois un même élément)"
+
+#: pnadmin.php:179
+msgid "Medium (user can vote once per session)"
+msgstr ""
+"Moyen (les utilisateurs peuvent évaluer une fois par session un même élément)"
+
+#: pnadmin.php:180
+msgid "High (user can only vote once)"
+msgstr ""
+"Haut (les utilisateurs ne peuvent évaluer qu'une seule fois un même élément)"
+
+#: pnadmin.php:232
+msgid "Done! Module configuration updated."
+msgstr "Terminé ! Configuration du module mise à jour."
+
+#: pnajax.php:31
+msgid "Sorry! No authorization to access this module."
+msgstr "Désolé ! Vous n'avez pas l'autorisation d'accéder à ce module."
+
+#: pnversion.php:15 pntemplates/ratings_admin_menu.htm:4
+msgid "Ratings"
+msgstr "Évaluations"
+
+#: pnversion.php:16
+msgid "Rate Zikula items."
+msgstr ""
+"Extension permettant d'intégrer un système d'évaluation aux divers modules "
+"de Zikula."
+
+# ! nom du module affiché dans l'url - doit être en minuscule, sans caractères spéciaux, espaces, etc.
+#: pnversion.php:17
+msgid "ratings"
+msgstr "evaluations"
+
+#: pnuserapi.php:31 pnuserapi.php:176 pnuserapi.php:217 pnadminapi.php:23
+msgid "Error! Could not do what you wanted. Please check your input."
+msgstr ""
+"Erreur ! Impossible de faire ce que vous désirez. Veuillez vérifier ce que "
+"vous avez indiqué."
+
+#: pnuserapi.php:138 pnuserapi.php:226
+msgid "Error! Could not load items."
+msgstr "Erreur ! Impossible de charger les éléments."
+
+#: pnuserapi.php:236
+msgid "Error! Update attempt failed."
+msgstr "Erreur ! La tentative de mise à jour a échoué."
+
+#: pnuser.php:22
+msgid "Sorry! This module cannot be accessed directly."
+msgstr "Erreur ! Il n'est pas possible d'accéder directement à ce module."
+
+#: pnuser.php:206
+msgid "Done! Thank you for rating this item"
+msgstr "Terminé ! Merci d'avoir évalué cet élément"
+
+#: pnadminapi.php:42 pnadminapi.php:45
+msgid "Error! Deletion attempt failed."
+msgstr "Erreur ! La tentative de suppression a échoué."
+
+#: pnadminapi.php:127 pntemplates/ratings_admin_view.htm:4
+#: pntemplates/ratings_admin_view.htm:5
+msgid "View all ratings"
+msgstr "Afficher toutes les évaluations"
+
+#: pnadminapi.php:130 pntemplates/ratings_admin_modifyconfig.htm:2
+msgid "Settings"
+msgstr "Paramètres"
+
+#: pninit.php:107 pninit.php:111 pninit.php:115
+msgid "Error! Could not deregister hook."
+msgstr "Erreur ! Impossible de retirer l'extension."
+
+#: pntemplates/ratings_admin_delete.htm:3
+msgid " Delete item's rating"
+msgstr " Supprimer les évaluations de cet élément"
+
+#: pntemplates/ratings_admin_delete.htm:7
+msgid "Do you really want to delete the rating of this item?"
+msgstr "Confirmez-vous la suppression des évaluations de cet élément ?"
+
+#: pntemplates/ratings_admin_delete.htm:14
+msgid "Confirmation prompt"
+msgstr "Demande de confirmation"
+
+#: pntemplates/ratings_admin_delete.htm:16
+msgid "Confirm deletion?"
+msgstr "Confirmez-vous la suppression ?"
+
+#: pntemplates/ratings_admin_delete.htm:17
+#: pntemplates/ratings_admin_modifyconfig.htm:40
+msgid "Cancel"
+msgstr "Annuler"
+
+#: pntemplates/ratings_admin_view.htm:9
+msgid "Module"
+msgstr "Module"
+
+#: pntemplates/ratings_admin_view.htm:10
+msgid "Item ID"
+msgstr "ID de l'élément"
+
+#: pntemplates/ratings_admin_view.htm:11
+msgid "Number of votes"
+msgstr "Nombre d'évaluations"
+
+#: pntemplates/ratings_admin_view.htm:12
+#: pntemplates/ratings_user_display.htm:10
+msgid "Rating"
+msgstr "Évaluation"
+
+#: pntemplates/ratings_admin_view.htm:13
+msgid "Score"
+msgstr "Score"
+
+#: pntemplates/ratings_admin_view.htm:14
+msgid "Options"
+msgstr "Options"
+
+#: pntemplates/ratings_admin_view.htm:33
+msgid "No items found."
+msgstr "Aucun élément trouvé."
+
+#: pntemplates/ratings_admin_modifyconfig.htm:13
+msgid "Items per page"
+msgstr "Éléments par page"
+
+#: pntemplates/ratings_admin_modifyconfig.htm:17
+msgid "Default ratings style"
+msgstr "Style par défaut pour les évaluations"
+
+#: pntemplates/ratings_admin_modifyconfig.htm:23
+msgid "Use ajax based rating"
+msgstr "Utiliser un système d'évaluation basé sur ajax"
+
+#: pntemplates/ratings_admin_modifyconfig.htm:27
+msgid "Use fancy voting controls (stars only)"
+msgstr "Utiliser un système d'évaluation simple (des étoiles)"
+
+#: pntemplates/ratings_admin_modifyconfig.htm:31
+msgid "Security against rate rigging"
+msgstr "Sécuriser les évaluations contre la triche"
+
+#: pntemplates/ratings_admin_modifyconfig.htm:39
+msgid "Update Configuration"
+msgstr "Mettre à jour la configuration"
+
+#: pntemplates/ratings_user_display.htm:13
+msgid "No one has rated this item yet - be the first!"
+msgstr "Personne n'a encore évalué cet élément - soyez le premier !"
+
+#: pntemplates/ratings_user_display.htm:81
+msgid "Rate this item"
+msgstr "Évaluez cet élément"
+
+#: pntemplates/ratings_user_display.htm:108
+#: pntemplates/ratings_user_display.htm:111
+msgid "Submit"
+msgstr "Envoyer"
+
+#: pntemplates/ratings_user_display.htm:121
+msgid "Recording rating"
+msgstr "Enregistrement de l'évaluation"

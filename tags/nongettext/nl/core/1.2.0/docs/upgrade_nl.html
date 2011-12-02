@@ -1,0 +1,112 @@
+<!DOCTYPE html 
+     PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<title>Zikula Upgrade Instructions</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="style.css" type="text/css" media="screen"  />
+</head>
+
+<body>
+
+<h2>NOTE:  THIS DOCUMENT CONTAINS IMPORTANT INFORMATION ABOUT ZIKULA.  PLEASE READ ALL
+       OF IT BEFORE CONTINUING.</h2>
+
+<!--
+<div style="border: 1px dotted black; margin: 10px; padding: 5px; text-align: center;">
+This release of Zikula is a Release Candidate (RC) and is not intended for use on 
+live websites.  It is intended for development and testing purposes.<br />
+Please test this release and submit bugs to the <a href="http://code.zikula.org/core/">tracker</a>. 
+The earlier bugs are fixed, the quicker a final release can be built.<br />
+Although now considered complete, the upgrade process has not been fully tested.
+</div>
+-->
+<div style="border: 1px dotted black; margin: 10px; padding: 5px; text-align: center;">
+<p><strong>Helaas is deze documentatie nog niet volledig vertaald naar het nederlands. Wij hopen dit zo snel mogelijk te kunnen voltooien. Excuses voor het ongemak.</strong></p>
+</div>
+
+<h1>Zikula Upgrade Instructions</h1>
+<p>More detailed documentation is available in the 
+<a href="http://community.zikula.org/Wiki-tag-UserDocs.htm" title="Documentation Wiki">Documentation
+Wiki</a> at 
+<a href="http://community.zikula.org" title="The Zikula Community">http://community.zikula.org</a>.
+ Support and help with upgrading to Zikula v1.2.0 can be obtained from the <a href="http://community.zikula.org/module-Forum.htm">forums</a>.</p>
+
+<h2>Contents</h2>
+<ul>
+    <li><a href="#Server">1 Server Considerations</a></li>
+	<li><a href="#Upgrade120">2 Upgrading to Zikula 1.2.0</a></li>
+	<li><a href="#Caution">3 Caution</a></li>
+	<li><a href="#FinalNote">4 Final Note</a></li>
+</ul>
+
+<h2 id="Warning">1 Server Consideration</h2>
+<p><strong>Zikula can be upgraded to version 1.2.0 from any of the following versions: 1.1.0, 1.1.1 or 1.1.2.  If your installation is less than that, please upgrade to one of these versions before proceeding with these instructions.</strong></p>
+<p>Before you begin your upgrade, there are some requirements and guidelines you should consider to make upgrading, installing, running, and securing Zikula easier. Please read the <a href="softwarerecommendations_nl.html">Zikula software condsiderations document</a>.</p>
+
+<h2 id="Upgrade120">2 Upgrading to Zikula 1.2.0</h2> 
+<p>Please follow the steps below in order, and read each in detail before 
+    proceeding.  Providing the instructions are followed exactly, the upgrade 
+should proceed with no problems.</p>
+<ul>
+	<li><a href="#Backup120">2.1 Backup your database and files</a></li>
+	<li><a href="#Prepare120">2.2 Prepare your existing installation</a></li>
+	<li><a href="#Run120">2.3 Run the upgrade</a></li>
+	<li><a href="#Clean120">2.4 Clean up and additional configuration</a></li>
+</ul>
+
+<h3 id="Backup120">2.1 Backup your database and files</h3>
+<p>It is <strong>vital</strong> to backup your database and file system before proceeding
+     with the upgrade. Upgrades cannot be rolled back, therefore the only solution
+     is to restore from backup if problems occur. To backup your database, try
+    using  a tool such as <a href="http://www.mysqldumper.de/en/">mysqldumper</a>, <a href="http://www.phpmyadmin.org">phpMyAdmin</a> or
+     alternately use SSH or your hosting control panel. Full instructions and
+    tutorials on database backups can be found by searching the web and the documentation
+    of your tool set.</p>
+    <p style="color: red;">---&gt;You will need your <strong>original config/config.php</strong> later, so do NOT overwrite it or delete it, and keep it in a safe place.&lt;---</p>
+
+<h3 id="Prepare120">2.2 Prepare your existing 1.1.1 installation</h3>
+<ol>
+<li>Login to your Zikula site with an administrator account. If you want, you
+    can disable your site during the upgrade by changing the configuration in
+    index.php?module=Settings&amp;type=admin.</li>
+<li>Move the module system/legal to modules/legal.  If you have not customised the legal module you can
+just delete it from the system/ folder.</li>
+<li>If you have the Profile in the system/ directory, move the system/Profile to modules/Profile.  If you have not customised the Profile module you can
+just delete it from the system/ folder.  If Profile is already in modules/ then ignore this step</li>
+
+<li>Upload all files from the package you downloaded, copying over your files.</li>
+<li>Replace config/config.php with the backup you made in step 2.1.</li>
+</ol>
+<h3 id="Run120">2.3 Run the upgrade</h3>
+<p>Run the upgrade script upgrade.php and follow the steps as described. There
+    is no real interaction needed other than clicking on 'next'. All database
+    changes that are necessary will be done automatically. At the end you will
+be redirected to your admin panel.</p>
+
+<h3 id="Clean120">2.4 Clean up and additional configuration</h3>
+<p>After a successful upgrade you can remove</p>
+<ol>
+    <li>the install folder and the files install.php and upgrade.php  from the root folder of your site.</li>
+    <li>If you use your own themes, please note that themes now require specific header information which you must update to use the <em>lang</em>, <em>langdirection</em> and <em>charset</em> plugin tags.  Please refer to both andreas08's and voodoodolly's <em>master.htm</em> templates which have variations for XHTML 1.0 STRICT and HTML 1.1.</li>
+</ol>
+<p>If you disabled your site before starting the upgrade (see 2.2) you should
+    re-enable it now.</p>
+<h2 id="Caution">3 Caution</h2>
+<p> It should be noted that Zikula does not support any modification of the core
+    code or data structure. Zikula v1.2.0 has been designed to be flexible enough
+    to avoid any need to modify the core, but if you find something missing that
+    you believe could be of widespread use, please submit a feature request to
+the feature request tracker at <a href="http://code.zikula.org/core">code.zikula.org/core</a>.</p>
+
+<h2 id="FinalNote">4 Final Note</h2>
+<p>Congratulations!  Your upgrade is complete.  We hope you enjoy using this 
+new Zikula version.  If you have any comments, please use the feedback forum on <a href="http://community.zikula.org" title="The Zikula Community">http://community.zikula.org</a>.</p>
+
+<p>Regards,<br />
+
+The Zikula Team</p>
+
+</body>
+</html>

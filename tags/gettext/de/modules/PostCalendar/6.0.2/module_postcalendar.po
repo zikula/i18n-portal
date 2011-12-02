@@ -1,0 +1,1910 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PostCalendar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-02-15 23:26+0000\n"
+"PO-Revision-Date: 2010-02-18 12:24+0200\n"
+"Last-Translator:  <hiltschi@web.de>\n"
+"Language-Team: Carsten Volmer <carsten@zikula.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: Germany\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: pnadmin.php:71 pnadmin.php:384 pnadmin.php:425 pnadmin.php:464
+msgid "Approved events administration"
+msgstr "Verwaltung von freigegebenen Terminen"
+
+#: pnadmin.php:86
+msgid "Hidden events administration"
+msgstr "Verwaltung von verborgenen Terminen"
+
+#: pnadmin.php:101
+msgid "Queued events administration"
+msgstr "Verwaltung von wartenden Terminen"
+
+#: pnadmin.php:156 pntemplates/plugins/function.pc_url.php:153
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:103
+msgid "List"
+msgstr "Auflisten"
+
+#: pnadmin.php:157
+msgid "Approve"
+msgstr "Freigeben"
+
+#: pnadmin.php:158
+msgid "Hide"
+msgstr "Verbergen"
+
+#: pnadmin.php:159
+#: pntemplates/event/postcalendar_event_deleteeventconfirm.htm:11
+msgid "Delete"
+msgstr "Löschen"
+
+#: pnadmin.php:201
+msgid "Please select an event."
+msgstr "Bitte einen Termin auswählen."
+
+#: pnadmin.php:237
+msgid "Do you really want to approve this event?"
+msgid_plural "Do you really want to approve these events?"
+msgstr[0] "Diesen Termin wirklich freigeben?"
+msgstr[1] "Diese Termine wirklich freigeben?"
+
+#: pnadmin.php:241
+msgid "Do you really want to hide this event?"
+msgid_plural "Do you really want to hide these events?"
+msgstr[0] "Diesen Termin wirklich verbergen?"
+msgstr[1] "Diese Termine wirklich verbergen?"
+
+#: pnadmin.php:245
+#: pntemplates/event/postcalendar_event_deleteeventconfirm.htm:10
+msgid "Do you really want to delete this event?"
+msgid_plural "Do you really want to delete these events?"
+msgstr[0] "Diesen Termin wirklich löschen?"
+msgstr[1] "Diese Termine wirklich löschen?"
+
+#: pnadmin.php:273 pnadmin.php:303
+msgid "Error! Could not load default values."
+msgstr "Fehler! Die Standardwerte konnten nicht geladen werden."
+
+#: pnadmin.php:285
+msgid "Done! PostCalendar configuration reset to use default values."
+msgstr ""
+"Erledigt! Die Konfiguration von PostCalendar wurde auf die Standardwerte "
+"zurückgesetzt."
+
+#: pnadmin.php:342
+msgid "Done! Updated the PostCalendar configuration."
+msgstr "Erledigt! Die PostCalendar Konfiguration wurde aktualisiert."
+
+#: pnadmin.php:360 pnadmin.php:377 pnadmin.php:401 pnadmin.php:418
+#: pnadmin.php:442 pnadmin.php:457 pnevent.php:50
+msgid "Error! An 'unidentified error' occurred."
+msgstr "Fehler! Es ist ein unbekannter Fehler aufgetreten."
+
+#: pnadmin.php:375
+#, php-format
+msgid "Done! %s event approved."
+msgid_plural "Done! %s events approved."
+msgstr[0] "Erledigt! %s Termin freigegeben."
+msgstr[1] "Erledigt! %s Termine freigegeben."
+
+#: pnadmin.php:416
+#, php-format
+msgid "Done! %s event was hidden."
+msgid_plural "Done! %s events were hidden."
+msgstr[0] "Erledigt! %s Termin verborgen."
+msgstr[1] "Erledigt! %s Termine verborgen."
+
+#: pnadmin.php:455
+#, php-format
+msgid "Done! %s event deleted."
+msgid_plural "Done! %s events deleted."
+msgstr[0] "Erledigt! %s Termin gelöscht."
+msgstr[1] "Erledigt! %s Termine gelöscht."
+
+#: pnversion.php:14 pnblocks/featuredevent.php:27 pninit.php:481
+#: pntemplates/user/postcalendar_user_footer.htm:3
+#: pntemplates/user/postcalendar_user_footer.htm:4
+msgid "PostCalendar"
+msgstr "PostCalendar"
+
+#. !used in URL - nospaces, no special chars, lcase
+#: pnversion.php:15
+msgid "postcalendar"
+msgstr "postcalendar"
+
+#: pnversion.php:16 pninit.php:482
+msgid "Calendar for Zikula"
+msgstr "Kalender für Zikula"
+
+#: pntemplates/plugins/function.pc_filter.php:33
+msgid "change"
+msgstr "ändern"
+
+#: pntemplates/plugins/function.pc_filter.php:75
+#: pntemplates/plugins/function.pc_filter.php:77
+msgid "Global Events"
+msgstr "Allgemeine Termine"
+
+#: pntemplates/plugins/function.pc_filter.php:75
+#: pntemplates/plugins/function.pc_filter.php:76
+msgid "Only"
+msgstr "Nur"
+
+#: pntemplates/plugins/function.pc_filter.php:76
+#: pntemplates/plugins/function.pc_filter.php:77
+msgid "My Events"
+msgstr "Meine Termine"
+
+#: pntemplates/plugins/function.pc_filter.php:110 pnsearchapi.php:38
+#: pneventapi.php:412
+#, php-format
+msgid "Error! Unable to load class [%s]"
+msgstr "Fehler! Klasse [%s] konnte nicht geladen werden"
+
+#: pntemplates/plugins/function.pc_url.php:114
+msgid "Jump to Today"
+msgstr "Zum heutigen Tag wechseln"
+
+#: pntemplates/plugins/function.pc_url.php:115
+msgid "Day View"
+msgstr "Tagesansicht"
+
+#: pntemplates/plugins/function.pc_url.php:116
+msgid "Week View"
+msgstr "Wochenansicht"
+
+#: pntemplates/plugins/function.pc_url.php:117
+msgid "Month View"
+msgstr "Monatsansicht"
+
+#: pntemplates/plugins/function.pc_url.php:118
+msgid "Year View"
+msgstr "Jahresansicht"
+
+#: pntemplates/plugins/function.pc_url.php:119
+#: pntemplates/plugins/function.pc_date_select.php:38
+msgid "List View"
+msgstr "Listenansicht"
+
+#: pntemplates/plugins/function.pc_url.php:120
+msgid "Submit New Event"
+msgstr "Neuen Termin einreichen"
+
+#: pntemplates/plugins/function.pc_url.php:121
+#: pntemplates/plugins/function.pc_url.php:155
+#: pntemplates/blocks/postcalendar_block_calendarlinks.htm:8
+msgid "Search"
+msgstr "Suche"
+
+#: pntemplates/plugins/function.pc_url.php:122
+msgid "Print View"
+msgstr "Druckansicht"
+
+#: pntemplates/plugins/function.pc_url.php:123
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: pntemplates/plugins/function.pc_url.php:148
+msgid "Today"
+msgstr "Heute"
+
+#: pntemplates/plugins/function.pc_url.php:149
+#: pntemplates/plugins/function.pc_date_select.php:34
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:99
+msgid "Day"
+msgstr "Tag"
+
+#: pntemplates/plugins/function.pc_url.php:150
+#: pntemplates/plugins/function.pc_date_select.php:35
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:100
+msgid "Week"
+msgstr "Woche"
+
+#: pntemplates/plugins/function.pc_url.php:151
+#: pntemplates/plugins/function.pc_date_select.php:36
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:101
+msgid "Month"
+msgstr "Monat"
+
+#: pntemplates/plugins/function.pc_url.php:152
+#: pntemplates/plugins/function.pc_date_select.php:37
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:102
+msgid "Year"
+msgstr "Jahr"
+
+#: pntemplates/plugins/function.pc_url.php:154
+msgid "Add"
+msgstr "Hinzufügen"
+
+#: pntemplates/plugins/function.pc_url.php:156
+msgid "Print"
+msgstr "Drucken"
+
+#: pntemplates/plugins/function.pc_url.php:157
+msgid "RSS"
+msgstr "RSS"
+
+#: pntemplates/plugins/function.pc_queued_events_notify.php:32
+#, php-format
+msgid "There is %s queued calendar event awaiting your review."
+msgid_plural "There are %s queued calendar events awaiting your review."
+msgstr[0] "Es muss %s wartender Termin geprüft werden."
+msgstr[1] "Es müssen %s wartende Termine geprüft werden."
+
+#. !This is link text
+#: pntemplates/plugins/function.pc_queued_events_notify.php:33
+msgid "Review queued events"
+msgstr "Wartende Termine prüfen"
+
+#: pntemplates/plugins/function.pc_popup.php:34
+msgid "overlib: attribute 'text' or 'inarray' or 'function' not present"
+msgstr ""
+"overlib: Es ist keines der Attribute 'text', 'inarray' oder 'function' "
+"vorhanden"
+
+#: pnsearchapi.php:126
+msgid "Error! Could not load items."
+msgstr "Fehler! Einträge konnten nicht geladen werden."
+
+#: pnuserapi.php:45 pnblocks/calendar.php:126
+msgid ""
+"January February March April May June July August September October November "
+"December"
+msgstr ""
+"Januar Februar März April Mai Juni Juli August September Oktober November "
+"Dezember"
+
+#. !First Letter of each Day of week
+#: pnuserapi.php:46 pnblocks/calendar.php:127
+msgid "S M T W T F S"
+msgstr "S M D M D F S"
+
+#: pnuserapi.php:47 pnblocks/calendar.php:128
+msgid "Sunday Monday Tuesday Wednesday Thursday Friday Saturday"
+msgstr "Sonntag Montag Dienstag Mittwoch Donnerstag Freitag Samstag"
+
+#: pnuserapi.php:314 pnuser.php:76
+msgid "Error! Required arguments not present."
+msgstr "Fehler! Die benötigten Argumente sind nicht vorhanden."
+
+#: pnuserapi.php:317
+msgid "January"
+msgstr "Januar"
+
+#: pnuserapi.php:318
+msgid "February"
+msgstr "Februar"
+
+#: pnuserapi.php:319
+msgid "March"
+msgstr "März"
+
+#: pnuserapi.php:320
+msgid "April"
+msgstr "April"
+
+#: pnuserapi.php:321
+msgid "May"
+msgstr "Mai"
+
+#: pnuserapi.php:322
+msgid "June"
+msgstr "Juni"
+
+#: pnuserapi.php:323
+msgid "July"
+msgstr "Juli"
+
+#: pnuserapi.php:324
+msgid "August"
+msgstr "August"
+
+#: pnuserapi.php:325
+msgid "September"
+msgstr "September"
+
+#: pnuserapi.php:326
+msgid "October"
+msgstr "Oktober"
+
+#: pnuserapi.php:327
+msgid "November"
+msgstr "November"
+
+#: pnuserapi.php:328
+msgid "December"
+msgstr "Dezember"
+
+#: pnblocks/featuredevent.php:28
+msgid "Featured Event Calendar Block"
+msgstr "Vielfältiger Terminkalendar-Block"
+
+#: pnneedleapi/postcalevent.php:31
+#, php-format
+msgid "No event with eid %s"
+msgstr "Kein Termin mit eid %s"
+
+#: pnneedleapi/postcalevent.php:41 pnneedleapi/postcaldate.php:36
+msgid "cal icon"
+msgstr "Kalendersymbol"
+
+#: pnneedleapi/postcalevent.php:41
+msgid "PostCalendar Event"
+msgstr "PostCalendar-Termin"
+
+#: pnneedleapi/postcalevent.php:66 pnneedleapi/postcaldate.php:56
+msgid "No needle ID"
+msgstr "Keine Needle-ID"
+
+#: pnneedleapi/postcalevent.php:93
+#, php-format
+msgid "recurring event beginning %s"
+msgstr "wiederholender Termin beginnt %s"
+
+#: pnneedleapi/postcaldate.php:36
+msgid "PostCalendar Date"
+msgstr "PostCalendar-Datum"
+
+#: pnuser.php:103
+msgid "You do not have permission to view this event."
+msgstr "Keine Berechtigung um diesen Termin anzuzeigen."
+
+#: pnevent.php:25
+msgid "Sorry! Authorization has not been granted."
+msgstr "Entschuldigung! Dafür fehlt die Berechtigung."
+
+#: pnevent.php:41
+#, php-format
+msgid "Error! There are no events with ID %s."
+msgstr "Fehler! Es gibt keine Termine mit ID %s."
+
+#: pnevent.php:46
+msgid "Sorry! You do not have authorization to delete this event."
+msgstr "Entschuldigung! Keine Berechtigung diesen Termin zu löschen."
+
+#: pnevent.php:52
+msgid "Done! The event was deleted."
+msgstr "Erledigt! Der Termin wurde gelöscht."
+
+#: pnevent.php:157 pntemplates/admin/postcalendar_admin_modifyconfig.htm:145
+#: pntemplates/event/postcalendar_event_submit.htm:173
+msgid "Save"
+msgstr "Speichern"
+
+#: pnevent.php:158 pntemplates/event/postcalendar_event_submit.htm:174
+msgid "Save and Add"
+msgstr "Speichern und hinzufügen"
+
+#: pnevent.php:159 pntemplates/event/postcalendar_event_submit.htm:172
+msgid "Preview"
+msgstr "Vorschau"
+
+#: pnevent.php:243
+msgid "Error! Submission failed."
+msgstr "Fehler! Die Einreichung ist fehlgeschlagen."
+
+#: pnevent.php:248
+#, php-format
+msgid "Done! Updated the event. (event date: %s)"
+msgstr "Erledigt! Der Termin wurde aktualisiert (Datum: %s)."
+
+#: pnevent.php:250
+#, php-format
+msgid "Done! Submitted the event. (event date: %s)"
+msgstr "Erledigt! Der Termin wurde eingereicht (Datum: %s)."
+
+#: pnevent.php:253
+msgid "The event has been queued for administrator approval."
+msgstr "Dieser Termin wartet auf die Freigabe eines Administrators."
+
+#: pneventapi.php:378 pneventapi.php:385 pneventapi.php:393 pneventapi.php:400
+msgid "%Y-%m-%d"
+msgstr "%Y-%m-%d"
+
+#: pneventapi.php:441
+msgid "Plain text"
+msgstr "Nur Text"
+
+#: pneventapi.php:442
+msgid "HTML-formatted"
+msgstr "Mit HTML formatiert"
+
+#: pneventapi.php:447
+msgid "Private"
+msgstr "Privat"
+
+#: pneventapi.php:450 pntemplates/event/postcalendar_event_submit.htm:46
+msgid "Global"
+msgstr "Allgemein"
+
+#: pneventapi.php:464 pneventapi.php:578
+msgid "Day(s)/Week(s)/Month(s)/Year(s)"
+msgstr "Tag(e)/Woche(n)/Monat(e)/Jahr(e)"
+
+#: pneventapi.php:473
+msgid "First/Second/Third/Fourth/Last"
+msgstr "ersten/zweiten/dritten/vierten/letzten"
+
+# besser: So Mo Di Mi Do Fr Sa
+#: pneventapi.php:483 pneventapi.php:580
+msgid "Sun Mon Tue Wed Thu Fri Sat"
+msgstr "So Mo Di Mi Do Fr Sa"
+
+#: pneventapi.php:551
+msgid "Required argument not present."
+msgstr "Es fehlt ein erforderliches Argument."
+
+#: pneventapi.php:579
+msgid "err/First/Second/Third/Fourth/Last"
+msgstr "fehlt/ersten/zweiten/dritten/vierten/letzten"
+
+#: pneventapi.php:582
+#, php-format
+msgid "Event recurs every %s"
+msgstr "Termin wiederholt sich jeden %s"
+
+#: pneventapi.php:584 pneventapi.php:589
+msgid "until"
+msgstr "bis"
+
+#: pneventapi.php:586
+msgid "Event recurs on"
+msgstr "Termin wiederholt sich am"
+
+#: pneventapi.php:588
+#, php-format
+msgid "of the month, every %s months"
+msgstr "des Monats, alle %s Monate"
+
+#: pneventapi.php:591
+msgid "This event does not recur."
+msgstr "Dieser Termin wiederholt sich nicht."
+
+#: pneventapi.php:595
+msgid "This is a private event."
+msgstr "Dies ist ein privater Termin."
+
+#: pneventapi.php:595
+msgid "This is a public event. "
+msgstr "Dies ist ein öffentlicher Termin."
+
+#. !(abbr) not applicable or not available
+#: pneventapi.php:695
+msgid "n/a"
+msgstr "keine Angabe"
+
+#. !This is the field name from pntemplates/event/postcalendar_event_submit.htm:22
+#: pneventapi.php:725
+msgid "'Title' is a required field."
+msgstr "Es muss ein Titel eingegeben werden."
+
+#: pneventapi.php:732 pneventapi.php:741
+msgid "Error! The repetition frequency must be an integer."
+msgstr "Fehler! Die Anzahl der Wiederholungen muss eine Ganzzahl sein."
+
+#: pneventapi.php:736 pneventapi.php:745
+msgid "Error! The repetition frequency must be at least 1."
+msgstr "Fehler! Die Anzahl der Wiederholungen muss mindestens 1 sein."
+
+#: pneventapi.php:756
+msgid "Error! The selected start date falls after the selected end date."
+msgstr "Fehler! Das Anfangsdatum liegt hinter dem Enddatum."
+
+#: pnaccountapi.php:30
+msgid "Submit Event"
+msgstr "Termin einreichen"
+
+#: pnadminapi.php:29
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: pnadminapi.php:34
+msgid "Create new event"
+msgstr "Neuen Termin anlegen"
+
+#: pnadminapi.php:39
+msgid "Approved events"
+msgstr "Freigegebene Termine"
+
+#: pnadminapi.php:44
+msgid "Hidden events"
+msgstr "Verborgene Termine"
+
+#: pnadminapi.php:49
+msgid "Queued events"
+msgstr "Wartende Termine"
+
+#: pnadminapi.php:83
+#, php-format
+msgid "Error! %1$s required in %2$s."
+msgstr "Fehler! %1s wird in %2s benötigt."
+
+#: pnadminapi.php:110 pntemplates/email/postcalendar_email_adminnotify.htm:2
+msgid "Notice: PostCalendar submission/change"
+msgstr "Hinweis: Neueintrag / Änderung für PostCalendar"
+
+#: pnadminapi.php:115
+msgid "Done! Sent administrator notification e-mail message."
+msgstr "Erledigt! Es wurde eine E-Mail an den Administrator gesendet."
+
+#: pnadminapi.php:118
+msgid "Error! Could not send administrator notification e-mail message."
+msgstr "Fehler! Die E-Mail konnte nicht an den Administrator gesendet werden."
+
+#: pninit.php:29
+#, php-format
+msgid ""
+"Error! Zikula %1$s is required. No installation started. You are advised to "
+"upgrade to Zikula %1$s first."
+msgstr ""
+"Fehler! Die Installation wurde nicht gestartet, da Zikula %1$s benötigt "
+"wird. Es muss zuerst ein Upgrade zu Zikula %1$s erfolgen."
+
+#: pninit.php:34
+msgid "Error! Could not create the table."
+msgstr "Fehler! Die Tabelle konnte nicht erstellt werden."
+
+#: pninit.php:39
+msgid "Error! Could not create default category."
+msgstr "Fehler! Die Standardkategorie konnte nicht angelegt werden."
+
+#: pninit.php:46
+msgid "Error! Could not set the default settings for PostCalendar."
+msgstr ""
+"Fehler! Die Standardeinstellungen für PostCalendar konnten nicht gesetzt "
+"werden."
+
+#: pninit.php:79
+#, php-format
+msgid ""
+"Error! Zikula %1$s is required. No upgrade started. You are advised to "
+"restore the previous PostCalendar version, or upgrade to Zikula %1$s first."
+msgstr ""
+"Fehler! Das Upgrade wurde nicht gestartet, da Zikula %1$s benötigt wird. "
+"Entweder muss die vorherige PostCalendar-Version wieder hergestellt oder ein "
+"Upgrade zu Zikula %1$s durchgeführt werden."
+
+#: pninit.php:90
+#, php-format
+msgid ""
+"Notice: This version does not support upgrades from PostCalendar 3.x and "
+"earlier. Please download and install version 4.0.3 (available from <a href="
+"\"http://code.zikula.org/soundwebdevelopment/downloads\">code.zikula.org/"
+"soundwebdevelopment</a>). After upgrading, you can install PostCalendar %s "
+"and perform this upgrade."
+msgstr ""
+"Hinweis: Diese Version unterstützt Upgrades von PostCalendar 3.x (und "
+"früheren Versionen) nicht. Bitte Version 4.0.3 installieren (verfügbar auf "
+"<a href=\"http://code.zikula.org/soundwebdevelopment/downloads\">code.zikula."
+"org/soundwebdevelopment</a>). Nach dem Upgrade kann PostCalendar %s "
+"installiert und dieses Upgrade durchgeführt werden."
+
+#: pninit.php:124
+msgid "Error: Could not correct multi-byte serialization."
+msgstr "Fehler! Multi-Byte-Serialisierung konnte nicht korrigiert werden."
+
+#: pninit.php:133
+msgid "Error: Could not cull meetings."
+msgstr "Fehler! Termine konnten nicht ausgelesen werden."
+
+#: pninit.php:138
+msgid "Error: Could not migrate categories."
+msgstr "Fehler! Kategorien konnten nicht übernommen werden."
+
+#: pninit.php:144
+msgid "Error: Could not migrate topics."
+msgstr "Fehler! Themen konnten nicht übernommen werden."
+
+#: pninit.php:148
+msgid "PostCalendar: Topics ignored in upgrade."
+msgstr "PostCalendar: Die Themen wurden beim Upgrade nicht berücksichtigt."
+
+#: pninit.php:153
+msgid "Error: Could not transcode category and/or topic IDs."
+msgstr ""
+"Fehler! Kategorie-IDs und/oder Themen-IDs konnten nicht umgeschlüsselt "
+"werden."
+
+#: pninit.php:157
+msgid "Error: Could not convert informant field to uid."
+msgstr ""
+"Fehler! Das Feld des Informanten konnte nicht zur uid konvertiert werden."
+
+#: pninit.php:289
+msgid "Error! Could not update the scribite configuration."
+msgstr ""
+"Fehler! Die Konfiguration von scribite konnte nicht aktualisiert werden."
+
+#: pninit.php:291
+msgid "PostCalendar: Scribite! associations reset for PostCalendar."
+msgstr "PostCalendar: Scribite!-Verbindungen für PostCalendar zurück gesetzt."
+
+#: pninit.php:317
+msgid "PostCalendar: Serialized fields corrected."
+msgstr "PostCalendar: Serialisierte Felder korrigiert."
+
+#: pninit.php:351 pninit.php:404
+#, php-format
+msgid "Error! Could not create sub-category (%s)."
+msgstr "Fehler! Unterkategorie %s konnte nicht erstellt werden."
+
+#: pninit.php:359
+msgid "PostCalendar: Categories successfully migrated."
+msgstr "PostCalendar: Kategorien erfolgreich übernommen."
+
+#: pninit.php:417
+msgid "PostCalendar: Topics successfully migrated."
+msgstr "PostCalendar: Themen erfolgreich übernommen."
+
+#: pninit.php:442
+msgid "Error! Could not upgrade the tables."
+msgstr "Fehler! Die Tabellen konnten nicht aktualisiert werden."
+
+#: pninit.php:460
+msgid "PostCalendar: Category and/or Topic IDs converted."
+msgstr "PostCalendar: Kategorie-IDs und/oder Themen-IDs konvertiert."
+
+#: pninit.php:498
+msgid "PostCalendar: 'Main' category created."
+msgstr "PostCalendar: Kategorie 'Standard' angelegt."
+
+#: pninit.php:546
+msgid "PostCalendar: Topics category created."
+msgstr "PostCalendar: Themenkategorie erstellt."
+
+#: pninit.php:626
+#, php-format
+msgid "PostCalendar: Meetings culled. %s column dropped"
+msgstr "PostCalendar: Termine ausgelesen. Spalte %s entfernt"
+
+#: pninit.php:657
+#, php-format
+msgid "PostCalendar: '%s' field converted."
+msgstr "PostCalendar: Feld '%s' konvertiert."
+
+#: pninit.php:673
+msgid "PostCalendar Installed"
+msgstr "PostCalendar wurde installiert"
+
+#: pninit.php:674
+msgid ""
+":text:On this date, the PostCalendar module was installed. Thank you for "
+"trying PostCalendar! This event can be safely deleted if you wish."
+msgstr ""
+":text:An diesem Tag wurde das PostCalendar-Modul installiert. Danke für das "
+"Testen von PostCalendar! Dieser Termin kann falls gewünscht gelöscht werden."
+
+#: pninit.php:694
+msgid "PostCalendar: Installation event created."
+msgstr "PostCalendar: Termin für die Installation erstellt."
+
+#: pninit.php:698
+msgid "Error! Could not create an installation event."
+msgstr "Fehler! Der Termin für die Installation konnte nicht erstellt werden."
+
+#: pninit.php:713 pntemplates/admin/postcalendar_admin_showlist.htm:37
+#: pntemplates/admin/postcalendar_admin_showlist.htm:43
+msgid "Events"
+msgstr "Termine"
+
+#: pninit.php:714
+msgid "Initial sub-category created on install"
+msgstr "Eine initiale Unterkategorie wurde bei der Installation angelegt"
+
+#: pninit.php:717
+msgid "Error! Could not create an initial sub-category."
+msgstr "Fehler! Die initiale Unterkategorie konnte nicht angelegt werden."
+
+#: pninit.php:721
+msgid "PostCalendar: Initial sub-category created (Events)."
+msgstr "PostCalendar: Initiale Unterkategorie 'Termine' angelegt."
+
+#: pninit.php:806
+msgid "PostCalendar: Unable to determine Zikula Core Version."
+msgstr "PostCalendar: Die Zikula Core-Version konnte nicht bestimmt werden."
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:6
+msgid "PostCalendar settings"
+msgstr "Einstellungen für PostCalendar"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:6
+msgid "version"
+msgstr "Version"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:11
+msgid "General settings"
+msgstr "Allgemeine Einstellungen"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:13
+msgid "Reset ALL Settings to Defaults"
+msgstr "ALLE Einstellungen auf die Standardeinstellungen zurücksetzen"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:16
+msgid "Allow submitted events to be activated without review"
+msgstr "Eingereichte Termine dürfen ungeprüft aktiviert werden"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:21
+msgid "Enable categorization of events"
+msgstr "Kategorisierung von Terminen aktivieren"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:26
+msgid "Group allowed to publish personal calendars"
+msgstr "Gruppe, die persönlichen Kalender veröffentlichen darf"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:28
+msgid "No group"
+msgstr "Keine Gruppe"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:30
+msgid "Edit groups"
+msgstr "Gruppen bearbeiten"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:34
+msgid "Display settings"
+msgstr "Anzeigeoptionen"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:36
+msgid "Number of events to list on administration pages"
+msgstr "Anzahl angezeigter Termine auf Admin-Seiten"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:40
+msgid "Use 24-hour time format"
+msgstr "24h-Format verwenden"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:45
+msgid "Time increment for new event creation (1-60 minutes)"
+msgstr "Zeitinkrement für neue Termine (1-60 Minuten)"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:49
+msgid "Default categories in new event creation."
+msgstr "Standardkategorie bei Anlage neuer Termine"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:50
+msgid "No Default Category"
+msgstr "Keine Standardkategorie"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:68
+msgid "View event details in a pop-up window"
+msgstr "Termine in Popup-Fenster anzeigen"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:73
+msgid "Show event details in 'hover' window on 'mouseover'"
+msgstr "Termin anzeigen, falls Mauszeiger darüber"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:73
+msgid "overrides pop-up setting"
+msgstr "hebt Popup-Einstellungen auf"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:78
+msgid "Date Display Format"
+msgstr "Format der Datumsanzeige"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:78
+#, php-format
+msgid "uses %s format"
+msgstr "verwendet Format %s"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:80
+msgid "Or choose a preset:"
+msgstr "oder Voreinstellung verwenden:"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:81
+msgid "Month Day, Year"
+msgstr "Monat Tag, Jahr"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:82
+msgid "Day Month Year"
+msgstr "Tag Monat Jahr"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:83
+msgid "YYYY-MM-DD"
+msgstr "JJJJ-MM-TT"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:86
+msgid "First day of the week"
+msgstr "Erster Tag der Woche"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:89
+msgid "Sunday"
+msgstr "Sonntag"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:90
+msgid "Monday"
+msgstr "Montag"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:91
+msgid "Saturday"
+msgstr "Samstag"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:96
+msgid "Default calendar view"
+msgstr "Voreingestellte Kalenderansicht"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:107
+msgid "Allow users to filter event display by category"
+msgstr "Benutzer dürfen Termine nach Kategorie filtern"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:112
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:117
+msgid "In jump date selector, display"
+msgstr "In Datumsauswahl, zeige"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:114
+msgid "year(s) before current year."
+msgstr "Jahr(e) vor diesem Jahr."
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:119
+msgid "year(s) after current year."
+msgstr "Jahr(e) nach diesem Jahr."
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:122
+msgid "Enable images in navigation header"
+msgstr "Symbole in Navigationsleiste aktivieren"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:128
+msgid "Notification settings"
+msgstr "Einstellungen für Benachrichtigungen"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:130
+msgid "Notify administrator about user event submission/change"
+msgstr ""
+"Administrator bei neuen oder geänderten Benutzerterminen benachrichtigen"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:135
+msgid "Notify administrator about administrator event submission/change"
+msgstr "Administrator bei neuen oder geänderten Admin-Terminen benachrichtigen"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:140
+msgid "E-mail address to send notifications"
+msgstr "E-Mail-Adresse für Benachrichtigungen"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:146
+#: pntemplates/admin/postcalendar_admin_eventrevue.htm:20
+#: pntemplates/event/postcalendar_event_submit.htm:175
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: pntemplates/admin/postcalendar_admin_eventrevue.htm:8
+msgid "Event review"
+msgstr "Terminprüfung"
+
+#: pntemplates/admin/postcalendar_admin_eventrevue.htm:19
+msgid "Yes"
+msgstr "Ja"
+
+#: pntemplates/admin/postcalendar_admin_menu.htm:4
+#: pntemplates/search/postcalendar_search_options.htm:4
+msgid "Calendar"
+msgstr "Kalender"
+
+#: pntemplates/admin/postcalendar_admin_showlist.htm:7
+#, php-format
+msgid "There are no %s events."
+msgstr "Es gibt keine %s Termine."
+
+#: pntemplates/admin/postcalendar_admin_showlist.htm:15
+msgid "Select"
+msgstr "Auswählen"
+
+#: pntemplates/admin/postcalendar_admin_showlist.htm:16
+#: pntemplates/event/postcalendar_event_submit.htm:32
+msgid "Title"
+msgstr "Titel"
+
+#: pntemplates/admin/postcalendar_admin_showlist.htm:17
+msgid "Time stamp"
+msgstr "Zeitstempel"
+
+#: pntemplates/admin/postcalendar_admin_showlist.htm:33
+msgid "Perform this action"
+msgstr "Diese Aktion ausführen"
+
+#: pntemplates/admin/postcalendar_admin_showlist.htm:37
+#: pntemplates/admin/postcalendar_admin_showlist.htm:39
+msgid "Previous"
+msgstr "Vorherige"
+
+#: pntemplates/admin/postcalendar_admin_showlist.htm:43
+#: pntemplates/admin/postcalendar_admin_showlist.htm:45
+msgid "Next"
+msgstr "Nächste"
+
+#: pntemplates/event/postcalendar_event_deleteeventconfirm.htm:2
+#: pntemplates/user/postcalendar_user_view_event_details.htm:20
+msgid "Delete event"
+msgstr "Termin löschen"
+
+#: pntemplates/event/postcalendar_event_deleteeventconfirm.htm:12
+msgid "CANCEL"
+msgstr "Abbrechen"
+
+#: pntemplates/event/postcalendar_event_filtercats.htm:2
+#: pntemplates/search/postcalendar_search_options.htm:6
+msgid "All These Categories"
+msgstr "Alle Kategorien"
+
+#: pntemplates/event/postcalendar_event_view.htm:12
+#: pntemplates/event/postcalendar_event_submit.htm:60
+#: pntemplates/blocks/postcalendar_block_featuredevent.htm:30
+msgid "Duration"
+msgstr "Dauer"
+
+#: pntemplates/event/postcalendar_event_view.htm:12
+#: pntemplates/user/postcalendar_user_view_xml.htm:10
+#: pntemplates/blocks/postcalendar_block_featuredevent.htm:30
+msgid "hours"
+msgstr "Stunden"
+
+#: pntemplates/event/postcalendar_event_view.htm:14
+#: pntemplates/blocks/postcalendar_block_featuredevent.htm:32
+msgid "All day event"
+msgstr "Ganztägiger Termin"
+
+#: pntemplates/event/postcalendar_event_view.htm:19
+#: pntemplates/event/postcalendar_event_submit.htm:82
+#: pntemplates/blocks/postcalendar_block_featuredevent.htm:38
+msgid "Description"
+msgstr "Beschreibung"
+
+#: pntemplates/event/postcalendar_event_view.htm:24
+#: pntemplates/event/postcalendar_event_submit.htm:126
+#: pntemplates/blocks/postcalendar_block_featuredevent.htm:44
+msgid "Location"
+msgstr "Adresse"
+
+#: pntemplates/event/postcalendar_event_view.htm:33
+#: pntemplates/blocks/postcalendar_block_featuredevent.htm:53
+msgid "Contact information"
+msgstr "Kontaktinformationen"
+
+#: pntemplates/event/postcalendar_event_view.htm:41
+#: pntemplates/event/postcalendar_event_submit.htm:156
+#: pntemplates/blocks/postcalendar_block_featuredevent.htm:61
+msgid "Fee"
+msgstr "Gebühr"
+
+#: pntemplates/event/postcalendar_event_view.htm:47
+msgid "Categorized in"
+msgstr "Kategorisiert in"
+
+#: pntemplates/event/postcalendar_event_view.htm:61
+msgid "Event recurrance information"
+msgstr "Informationen zu Wiederholungen"
+
+#: pntemplates/event/postcalendar_event_view.htm:65
+msgid "Event sharing information"
+msgstr "Teilnahmeinformationen"
+
+#: pntemplates/event/postcalendar_event_submit.htm:9
+msgid "Edit"
+msgstr "Bearbeiten:"
+
+#: pntemplates/event/postcalendar_event_submit.htm:10
+msgid "Update event"
+msgstr "Termin aktualisieren"
+
+#: pntemplates/event/postcalendar_event_submit.htm:12
+msgid "Create new"
+msgstr "Neu:"
+
+#: pntemplates/event/postcalendar_event_submit.htm:13
+msgid "Submit event"
+msgstr "Termin einreichen"
+
+#: pntemplates/event/postcalendar_event_submit.htm:20
+msgid "Event preview"
+msgstr "Terminvorschau"
+
+#: pntemplates/event/postcalendar_event_submit.htm:28
+msgid "PostCalendar Rocks!"
+msgstr "PostCalendar ist super!"
+
+#: pntemplates/event/postcalendar_event_submit.htm:29
+msgid "calendar event"
+msgstr "Termin"
+
+#: pntemplates/event/postcalendar_event_submit.htm:32
+#: pntemplates/event/postcalendar_event_submit.htm:36
+msgid "Required"
+msgstr "erforderlich"
+
+#: pntemplates/event/postcalendar_event_submit.htm:36
+msgid "For user"
+msgstr "Für Benutzer"
+
+#: pntemplates/event/postcalendar_event_submit.htm:42
+msgid "Sharing"
+msgstr "Geltungsbereich"
+
+#: pntemplates/event/postcalendar_event_submit.htm:50
+msgid "Start date"
+msgstr "Anfangsdatum"
+
+#: pntemplates/event/postcalendar_event_submit.htm:53
+msgid "Time"
+msgstr "Zeit"
+
+#: pntemplates/event/postcalendar_event_submit.htm:54
+#: pntemplates/user/postcalendar_user_view_day.htm:35
+#: pntemplates/user/postcalendar_user_view_xml.htm:10
+#: pntemplates/user/postcalendar_user_view_list.htm:42
+#: pntemplates/user/postcalendar_user_view_week.htm:44
+msgid "All-day event"
+msgstr "Ganztägiger Termin"
+
+#: pntemplates/event/postcalendar_event_submit.htm:56
+msgid "Timed event"
+msgstr "Uhrzeit"
+
+#: pntemplates/event/postcalendar_event_submit.htm:62
+msgid "Hours"
+msgstr "Stunden"
+
+#: pntemplates/event/postcalendar_event_submit.htm:64
+msgid "Minutes"
+msgstr "Minuten"
+
+#: pntemplates/event/postcalendar_event_submit.htm:70
+msgid "Category"
+msgid_plural "Categories"
+msgstr[0] "Kategorie"
+msgstr[1] "Kategorien"
+
+#: pntemplates/event/postcalendar_event_submit.htm:87
+msgid "Permitted HTML tags"
+msgstr "Erlaubte HTML-Tags"
+
+#: pntemplates/event/postcalendar_event_submit.htm:95
+msgid "Repetition settings"
+msgstr "Wiederholungen"
+
+#: pntemplates/event/postcalendar_event_submit.htm:97
+msgid "One-time event"
+msgstr "Einmaliger Termin"
+
+#: pntemplates/event/postcalendar_event_submit.htm:100
+msgid "Repeats every"
+msgstr "Termin wiederholt sich alle"
+
+#: pntemplates/event/postcalendar_event_submit.htm:105
+msgid "Repeats on"
+msgstr "Termin wiederholt sich am"
+
+#: pntemplates/event/postcalendar_event_submit.htm:108
+msgid "of the month, every"
+msgstr "des Monats, alle"
+
+#: pntemplates/event/postcalendar_event_submit.htm:110
+msgid "month(s)"
+msgstr "Monat(e)"
+
+#: pntemplates/event/postcalendar_event_submit.htm:113
+msgid "End date"
+msgstr "Enddatum"
+
+#: pntemplates/event/postcalendar_event_submit.htm:123
+msgid "No end date"
+msgstr "Kein Enddatum"
+
+#: pntemplates/event/postcalendar_event_submit.htm:127
+#: pntemplates/event/postcalendar_event_submit.htm:147
+msgid "Name"
+msgstr "Name"
+
+#: pntemplates/event/postcalendar_event_submit.htm:129
+msgid "Street"
+msgstr "Straße"
+
+#: pntemplates/event/postcalendar_event_submit.htm:134
+msgid "City"
+msgstr "Stadt"
+
+#: pntemplates/event/postcalendar_event_submit.htm:135
+msgid "State"
+msgstr "Land"
+
+#: pntemplates/event/postcalendar_event_submit.htm:136
+msgid "Zipcode"
+msgstr "Postleitzahl"
+
+#: pntemplates/event/postcalendar_event_submit.htm:146
+msgid "Contact"
+msgstr "Kontakt"
+
+#: pntemplates/event/postcalendar_event_submit.htm:149
+msgid "Phone number"
+msgstr "Telefonnummer"
+
+#: pntemplates/event/postcalendar_event_submit.htm:151
+msgid "E-mail address"
+msgstr "E-Mail-Adresse"
+
+#: pntemplates/event/postcalendar_event_submit.htm:153
+msgid "Web site"
+msgstr "Website"
+
+#: pntemplates/email/postcalendar_email_adminnotify.htm:5
+msgid "The following calendar event has been changed:"
+msgstr "Der folgende Termin wurde im Kalender geändert:"
+
+#: pntemplates/email/postcalendar_email_adminnotify.htm:7
+msgid "The following calendar event has been added:"
+msgstr "Der folgende Termin wurde dem Kalender hinzugefügt:"
+
+#: pntemplates/email/postcalendar_email_adminnotify.htm:10
+msgid "Event"
+msgstr "Termin"
+
+#: pntemplates/email/postcalendar_email_adminnotify.htm:12
+msgid "A Message from your PostCalendar"
+msgstr "Eine Nachricht aus dem PostCalendar"
+
+#: pntemplates/email/postcalendar_email_adminnotify.htm:14
+#: pntemplates/search/postcalendar_search_options.htm:21
+msgid "from"
+msgstr "von"
+
+#: pntemplates/user/postcalendar_user_view_event_details.htm:18
+msgid "Edit event"
+msgstr "Termin bearbeiten"
+
+#: pntemplates/user/postcalendar_user_view_event_details.htm:19
+msgid "Copy event"
+msgstr "Termin kopieren"
+
+#: pntemplates/user/postcalendar_user_view_event_details.htm:30
+#: pntemplates/user/postcalendar_user_view_day.htm:57
+#: pntemplates/user/postcalendar_user_view_year.htm:96
+#: pntemplates/user/postcalendar_user_view_list.htm:63
+#: pntemplates/user/postcalendar_user_view_week.htm:65
+#: pntemplates/user/postcalendar_user_view_month.htm:105
+msgid "Return"
+msgstr "Zurück"
+
+#: pntemplates/user/postcalendar_user_view_day.htm:38
+#: pntemplates/user/postcalendar_user_view_list.htm:45
+#: pntemplates/user/postcalendar_user_view_week.htm:47
+#: pntemplates/user/postcalendar_user_view_month.htm:80
+#: pntemplates/blocks/postcalendar_block_featuredevent.htm:20
+#: pntemplates/blocks/postcalendar_block_view_day.htm:30
+#: pntemplates/blocks/postcalendar_block_view_upcoming.htm:31
+#, php-format
+msgid "%s comment left"
+msgid_plural "%s comments left."
+msgstr[0] "%s Kommentar übrig"
+msgstr[1] "%s Kommentare übrig."
+
+#: pntemplates/user/postcalendar_user_view_day.htm:40
+#: pntemplates/user/postcalendar_user_view_list.htm:47
+#: pntemplates/user/postcalendar_user_view_week.htm:49
+#: pntemplates/user/postcalendar_user_view_month.htm:82
+#: pntemplates/blocks/postcalendar_block_featuredevent.htm:21
+#: pntemplates/blocks/postcalendar_block_view_day.htm:32
+#: pntemplates/blocks/postcalendar_block_view_upcoming.htm:33
+msgid "Comment"
+msgstr "Kommentar"
+
+#: pntemplates/user/postcalendar_user_view_day.htm:44
+#: pntemplates/blocks/postcalendar_block_view_day.htm:39
+msgid "No events scheduled."
+msgstr "Keine geplanten Termine."
+
+#: pntemplates/user/postcalendar_user_navigation.htm:28
+msgid "Filter"
+msgstr "Filter"
+
+#: pntemplates/user/postcalendar_user_navigation.htm:36
+#: pntemplates/user/postcalendar_user_navigation_small.htm:22
+msgid "Jump"
+msgstr "Wechseln"
+
+#: pntemplates/user/postcalendar_user_view_list.htm:16
+msgid "Month list view"
+msgstr "Listenansicht Monat"
+
+#: pntemplates/user/postcalendar_user_view_month.htm:45
+msgid "week"
+msgstr "Woche"
+
+#: pntemplates/blocks/postcalendar_block_calendarlinks.htm:5
+msgid "Create New"
+msgstr "Neuen anlegen"
+
+#: pntemplates/blocks/postcalendar_block_calendar_modify.htm:3
+msgid "Display the calendar in the block"
+msgstr "Kalender im Block anzeigen"
+
+#: pntemplates/blocks/postcalendar_block_calendar_modify.htm:7
+msgid "Display today's events in the block"
+msgstr "Heutige Termine im Block anzeigen"
+
+#: pntemplates/blocks/postcalendar_block_calendar_modify.htm:11
+msgid "Display upcoming events in the block"
+msgstr "Nächste Termine im Block anzeigen"
+
+#: pntemplates/blocks/postcalendar_block_calendar_modify.htm:15
+msgid "Only display events in category(s)"
+msgstr "Anzeige von Terminen der Kategorie(n)"
+
+#: pntemplates/blocks/postcalendar_block_calendar_modify.htm:16
+msgid "All Categories"
+msgstr "Alle Kategorien"
+
+#: pntemplates/blocks/postcalendar_block_calendar_modify.htm:36
+msgid "Display search/submit links in the block"
+msgstr "Links für Suche / neue Termine in Block anzeigen"
+
+#: pntemplates/blocks/postcalendar_block_calendar_modify.htm:40
+msgid "Number of events to display"
+msgstr "Anzahl der angezeigten Termine"
+
+#: pntemplates/blocks/postcalendar_block_calendar_modify.htm:44
+msgid "Number of months ahead to query for upcoming events"
+msgstr "Anzahl der Monate für zukünftige Termine"
+
+#: pntemplates/blocks/postcalendar_block_featuredevent.htm:6
+#, php-format
+msgid "This event will occur in %s day."
+msgid_plural "This event will occur in %s days."
+msgstr[0] "Dieser Termin findet in %s Tag statt."
+msgstr[1] "Dieser Termin findet in %s Tagen statt."
+
+#: pntemplates/blocks/postcalendar_block_featuredevent.htm:8
+msgid "This event occurs today."
+msgstr "Dieser Termin findet heute statt."
+
+#: pntemplates/blocks/postcalendar_block_featuredevent.htm:10
+msgid "This event has already occured."
+msgstr "Dieser Termin hat bereits statt gefunden."
+
+#: pntemplates/blocks/postcalendar_block_featuredevent.htm:16
+#: pntemplates/blocks/postcalendar_block_featuredevent.htm:17
+msgid "Full event information"
+msgstr "Alle Informationen zu diesem Termin"
+
+#: pntemplates/blocks/postcalendar_block_featuredevent.htm:17
+msgid "Info"
+msgstr "Info"
+
+#: pntemplates/blocks/postcalendar_block_featuredevent_modify.htm:3
+msgid "Event ID (eid)"
+msgstr "Event-ID (eid)"
+
+#: pntemplates/blocks/postcalendar_block_featuredevent_modify.htm:7
+msgid "Show countdown (days)"
+msgstr "Countdown anzeigen (in Tagen)"
+
+#: pntemplates/blocks/postcalendar_block_featuredevent_modify.htm:11
+msgid "Hide block when countdown expires"
+msgstr "Block verbergen wenn Countdown abläuft"
+
+#: pntemplates/blocks/postcalendar_block_view_day.htm:5
+msgid "Today's events"
+msgstr "Heutige Termine"
+
+#: pntemplates/blocks/postcalendar_block_view_day.htm:28
+#: pntemplates/blocks/postcalendar_block_view_upcoming.htm:29
+msgid "Long"
+msgstr "lang"
+
+#: pntemplates/blocks/postcalendar_block_view_upcoming.htm:6
+msgid "Upcoming events"
+msgstr "Nächste Termine"
+
+#: pntemplates/blocks/postcalendar_block_view_upcoming.htm:45
+msgid "No upcoming events."
+msgstr "Demnächst keine Termine."
+
+#: pntemplates/search/postcalendar_search_options.htm:5
+msgid "in Categories"
+msgstr "in den Kategorien"
+
+#: pntemplates/search/postcalendar_search_options.htm:20
+msgid "date range:"
+msgstr "Datumsbereich:"
+
+#: pntemplates/search/postcalendar_search_options.htm:23
+#: pntemplates/search/postcalendar_search_options.htm:24
+#: pntemplates/search/postcalendar_search_options.htm:25
+#, php-format
+msgid "last %s years"
+msgstr "vergangene %s Jahre"
+
+#: pntemplates/search/postcalendar_search_options.htm:26
+msgid "last year"
+msgstr "letztes Jahr"
+
+#: pntemplates/search/postcalendar_search_options.htm:27
+#: pntemplates/search/postcalendar_search_options.htm:31
+msgid "now"
+msgstr "jetzt"
+
+#: pntemplates/search/postcalendar_search_options.htm:29
+msgid "to"
+msgstr "bis"
+
+#: pntemplates/search/postcalendar_search_options.htm:32
+msgid "next year"
+msgstr "nächstes Jahr"
+
+#: pntemplates/search/postcalendar_search_options.htm:33
+#: pntemplates/search/postcalendar_search_options.htm:34
+#: pntemplates/search/postcalendar_search_options.htm:35
+#, php-format
+msgid "next %s years"
+msgstr "nächste %s Jahre"
+
+#~ msgid "%s: missing '%s' parameter"
+#~ msgstr "%s: Parameter '%s' fehlt"
+
+#~ msgid "pc_sort_events: missing or empty 'var' parameter"
+#~ msgstr "pc_sort_events: Fehlender oder leerer Parameter 'var'"
+
+#~ msgid "pc_sort_events: missing or invalid 'value' parameter"
+#~ msgstr "pc_sort_events: Fehlender oder ungültiger Parameter 'var'"
+
+#~ msgid "pc_sort_events: missing 'sort' parameter"
+#~ msgstr "pc_sort_events: Fehlender Parameter 'sort'"
+
+#~ msgid "Main"
+#~ msgstr "Standard"
+
+#~ msgid "Your submission failed."
+#~ msgstr "Die Einreichung ist fehlgeschlagen."
+
+#~ msgid "Required arguments not present in "
+#~ msgstr "Benötigte Argumente sind nicht vorhanden in "
+
+#~ msgid "Your event has been modified."
+#~ msgstr "Der Termin wurde bearbeitet."
+
+#~ msgid "For User"
+#~ msgstr "Für Benutzer"
+
+#~ msgid "Timestamp (entered on)"
+#~ msgstr "Zeitstempel (Anlagedatum)"
+
+#~ msgid "Sitename"
+#~ msgstr "Name der Website"
+
+#~ msgid "Your event has been deleted."
+#~ msgstr "Der Termin wurde gelöscht."
+
+#~ msgid "Event Fee"
+#~ msgstr "Gebühren"
+
+#~ msgid "Display the calendar?"
+#~ msgstr "Den Kalender anzeigen?"
+
+#~ msgid "Zikula Version"
+#~ msgstr "Zikula Version"
+
+#~ msgid "New version %s installed but not updated!"
+#~ msgstr "Die neue Version %s wurden installiert aber nicht aktualisiert!"
+
+#~ msgid "go"
+#~ msgstr "los"
+
+#~ msgid "You are not allowed to edit this event"
+#~ msgstr "Keine Berechtigung diesen Termin zu bearbeiten"
+
+#~ msgid "There are no events with id "
+#~ msgstr "Es stehen keine Termine mit dieser ID zur Verfügung: "
+
+#~ msgid "Cache Lifetime (in seconds)"
+#~ msgstr "Gültigkeit im Cache (Angabe in Sekunden)?"
+
+#~ msgid "Month List View"
+#~ msgstr "Listenansicht Monat"
+
+#~ msgid "All Day"
+#~ msgstr "Ganztägig"
+
+#~ msgid "Categories update failed."
+#~ msgstr "Aktualisierung der Kategorien fehlgeschlagen."
+
+#~ msgid "Cache template output?"
+#~ msgstr "Caching der Templates aktivieren?"
+
+#~ msgid "Approved"
+#~ msgstr "Freigegeben"
+
+#~ msgid "YES!"
+#~ msgstr "Ja!"
+
+#~ msgid "OFF"
+#~ msgstr "AUS"
+
+#~ msgid "Notification Settings"
+#~ msgstr "Einstellungen für Benachrichtigungen"
+
+#~ msgid "Event Duration"
+#~ msgstr "Dauer des Termins"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Reset ALL Settings to Defaults (for language \"%s\")"
+#~ msgstr "ALLE Einstellungen zurücksetzen (für Sprache \"%s\")"
+
+#~ msgid "Smarty Cache was not cleared"
+#~ msgstr "Der Smarty Cache wurde nicht geleert"
+
+#~ msgid "Repeating Options"
+#~ msgstr "Wiederholungsoptionen"
+
+#~ msgid "Delete Event"
+#~ msgstr "Termin löschen"
+
+#~ msgid "Upcoming Events"
+#~ msgstr "Nächste Termine"
+
+#~ msgid "Your repeating frequency must be an integer."
+#~ msgstr "Die Anzahl der Wiederholungen muss eine Ganzzahl sein."
+
+#~ msgid "Contact Phone"
+#~ msgstr "Telefonnummer"
+
+#~ msgid "ON"
+#~ msgstr "AN"
+
+#~ msgid "Module version"
+#~ msgstr "Modulversion"
+
+#~ msgid "Date         : %s"
+#~ msgstr "Datum         : %s"
+
+#~ msgid "Error! Creation attempt failed."
+#~ msgstr "Fehler! Das Anlegen ist fehlgeschlagen."
+
+#~ msgid "PostCalendar Global Settings"
+#~ msgstr "PostCalendar Allgemeine Einstellungen"
+
+#~ msgid "Category Color"
+#~ msgstr "Farbe der Kategorie"
+
+#~ msgid "WebServer"
+#~ msgstr "Webserver"
+
+#~ msgid "Smarty compile dir"
+#~ msgstr "Smarty Kompilierungsverzeichnis"
+
+#~ msgid "Month(s)"
+#~ msgstr "Monat(e)"
+
+#~ msgid "PHP Version"
+#~ msgstr "PHP Version"
+
+#~ msgid "Approved Events Administration"
+#~ msgstr "Administration freigegebener Termine"
+
+#~ msgid "Time Increment for Add (minutes 1-60)"
+#~ msgstr "Zeit-Inkrement beim Hinzufügen (Minuten von 1-60)"
+
+#~ msgid "Configuration not updated"
+#~ msgstr "Die Konfiguration wurde nicht aktualisiert"
+
+#~ msgid "Allow submitted events to be made active instantly"
+#~ msgstr "Eingereichte Termine dürfen sofort aktiviert werden"
+
+#~ msgid "of the month every"
+#~ msgstr "im Monat jeder"
+
+#~ msgid "Smarty template dir"
+#~ msgstr "Smarty template Verzeichnis"
+
+#~ msgid "Hidden Events Administration"
+#~ msgstr "Administration versteckter Termine"
+
+#~ msgid "Compile dir doesn't exist! [%s]"
+#~ msgstr "Kompilierungsverzeichnis existiert nicht! [%s]"
+
+#~ msgid "Notify Admin About <b>USER</b> Event Submission/Modification"
+#~ msgstr ""
+#~ "Administrator bei <b>Benutzer</b>-Änderungen von neuen oder geänderten "
+#~ "Terminen benachrichtigen"
+
+#~ msgid "New =>"
+#~ msgstr "Neu =>"
+
+#~ msgid "Topic"
+#~ msgstr "Thema"
+
+#~ msgid "Upgrading tables failed"
+#~ msgstr "Upgrade der Tabellen fehlgeschlagen"
+
+#~ msgid "Your PostCalendar configuration has been reset to use defaults."
+#~ msgstr ""
+#~ "Die PostCalendar-Konfiguration wurde auf die Standardwerte zurückgesetzt."
+
+#~ msgid "no end date"
+#~ msgstr "kein Enddatum"
+
+#~ msgid "Admin notify email not sent"
+#~ msgstr "Benachrichtigung an Admin wurde nicht gesendet"
+
+#~ msgid "HTML"
+#~ msgstr "HTML"
+
+#~ msgid "Permitted tags if using HTML"
+#~ msgstr "Erlaubte HTML-Tags"
+
+#~ msgid "PHP open_basedir"
+#~ msgstr "PHP open_basedir"
+
+#~ msgid "Categories"
+#~ msgstr "Kategorien"
+
+#~ msgid "PM"
+#~ msgstr "PM"
+
+#~ msgid "Smarty Cache has been cleared"
+#~ msgstr "Der Smarty Cache wurde geleert"
+
+#~ msgid "Notify Admin About <b>ADMIN</b> Event Submission/Modification"
+#~ msgstr ""
+#~ "Administrator bei <b>Admin</b>-Änderungen von neuen oder geänderten "
+#~ "Terminen benachrichtigen"
+
+#~ msgid "Your end date is invalid"
+#~ msgstr "Das Enddatum ist ungültig"
+
+#~ msgid "Please select an event"
+#~ msgstr "Bitte einen Termin auswählen"
+
+#~ msgid "Duration     : %1$s:%2$s"
+#~ msgstr "Dauer     : %1$s:%2$s"
+
+#~ msgid "Your PostCalendar configuration has been updated."
+#~ msgstr "Die PostCalendar-Konfiguration wurde aktualisiert."
+
+#~ msgid "month/other month/3 months/4 months/6 months/year"
+#~ msgstr "Monat / 2 Monate / 3 Monate / 4 Monate / 6 Monate / Jahr"
+
+#~ msgid "Event Category"
+#~ msgstr "Kategorie"
+
+#~ msgid "Smarty version"
+#~ msgstr "Smarty-Version"
+
+#~ msgid "All day Event"
+#~ msgstr "Ganztägiger Termin"
+
+#~ msgid "New category creation failed."
+#~ msgstr "Anlegen einer neuen Kategorie fehlgeschlagen."
+
+#~ msgid "Category modified as requested."
+#~ msgstr "Die Kategorie wurde wie gewünscht geändert."
+
+#~ msgid "No Events"
+#~ msgstr "Keine Termine"
+
+#~ msgid "Error! Sorry! Table creation failed."
+#~ msgstr "Fehler! Leider konnte die Tabelle nicht angelegt werden."
+
+#~ msgid "Make modifications to current categories."
+#~ msgstr "Aktuelle Kategorien ändern."
+
+#~ msgid "The following calendar event has been modifed"
+#~ msgstr "Folgender Termin wurde im Kalender geändert"
+
+#~ msgid ""
+#~ "Date Display Format <i>uses php <a href=\"http://php.net/strftime"
+#~ "\">strftime</a> format</i>"
+#~ msgstr ""
+#~ "Datumsformat für Anzeige <i>(verwendet PHP-Funktion <a href=\"http://php."
+#~ "net/strftime\">strftime</a>)</i>"
+
+#~ msgid "Event Description"
+#~ msgstr "Beschreibung des Termins"
+
+#~ msgid "Add new category : "
+#~ msgstr "Neue Kategorie hinzufügen: "
+
+#~ msgid "Add New Calendar Event"
+#~ msgstr "Neuen Termin hinzufügen"
+
+#~ msgid "Information"
+#~ msgstr "Information"
+
+#~ msgid "PostCalendar Meeting Notification"
+#~ msgstr "Benachrichtigung: Termin im PostCalendar"
+
+#~ msgid "You are not authorized."
+#~ msgstr "Keine Berechtigung."
+
+#~ msgid "Use 24 hour time format"
+#~ msgstr "Verwendung der 24h-Formats"
+
+#~ msgid "Plain Text"
+#~ msgstr "Nur Text"
+
+#~ msgid "Category Name"
+#~ msgstr "Name der Kategorie"
+
+#~ msgid "Contact Information"
+#~ msgstr "Kontaktinformationen"
+
+#~ msgid "The user %pc_author% has created a new meeting event for you:"
+#~ msgstr "Benutzer %pc_author% hat einen neuen Termin angelegt::"
+
+#~ msgid "General Settings"
+#~ msgstr "Allgemeine Einstellungen"
+
+#~ msgid "How many months ahead to query for upcoming events?"
+#~ msgstr "Anzahl der Monate für zukünftige Termine"
+
+#~ msgid "Display how many events?"
+#~ msgstr "Anzahl der angezeigten Termine"
+
+#~ msgid "Add Event"
+#~ msgstr "Termin hinzufügen"
+
+#~ msgid "Admin notify email sent"
+#~ msgstr "Benachrichtigung an Admin per E-Mail gesendet"
+
+#~ msgid "Display repeating options"
+#~ msgstr "Wiederholungsoptionen anzeigen"
+
+#~ msgid "Are you sure you want to delete this event?"
+#~ msgstr "Diesen Termin wirklich löschen?"
+
+#~ msgid "Hello"
+#~ msgstr "Hallo"
+
+#~ msgid "There was an error while processing your request."
+#~ msgstr "Während der Bearbeitung der Anfrage trat ein Fehler auf."
+
+#~ msgid "Smarty cache dir"
+#~ msgstr "Smarty Cacheverzeichnis"
+
+#~ msgid "Display today's events in the block?"
+#~ msgstr "Heutige Termine im Block anzeigen?"
+
+#~ msgid "Show search/submit links in block?"
+#~ msgstr "Links für Suche / neue Termine in Block anzeigen?"
+
+#~ msgid "Use topics from Topics module (deprecated)"
+#~ msgstr "Themen des \"Topics\"-Module verwenden (veraltet)"
+
+#~ msgid "Event Website"
+#~ msgstr "Website"
+
+#~ msgid "Return'"
+#~ msgstr "Zurück"
+
+#~ msgid "Default"
+#~ msgstr "Standard"
+
+#~ msgid "View events in a popup window"
+#~ msgstr "Termine in Popup-Fenster anzeigen"
+
+#~ msgid "Event Title"
+#~ msgstr "Titel des Termins"
+
+#~ msgid "Display Settings"
+#~ msgstr "Einstellungen anzeigen"
+
+#~ msgid "event repeats on"
+#~ msgstr "Termin wiederholt sich am"
+
+#~ msgid "Are you sure you want to approve these events?"
+#~ msgstr "Diese Termine wirklich freigeben?"
+
+#~ msgid "Are you sure you want to hide these events?"
+#~ msgstr "Diese Termine wirklich verstecken?"
+
+#~ msgid "The following calendar event has been added"
+#~ msgstr "Folgender Termin wurde im Kalender hinzugefügt"
+
+#~ msgid "This event and further details can be viewed under"
+#~ msgstr "Diesen Termin sowie weitere Informationen gibt es auf"
+
+#~ msgid "Category Description"
+#~ msgstr "Beschreibung der Kategorie"
+
+#~ msgid "The event(s) have been hidden."
+#~ msgstr "Die Termine wurden versteckt."
+
+#~ msgid "Event Preview"
+#~ msgstr "Terminvorschau"
+
+#~ msgid "NOTICE:: PostCalendar Submission/Modification"
+#~ msgstr "Hinweis: PostCalendar Neueinträge / Änderungen"
+
+#~ msgid "Confirm Category change"
+#~ msgstr "Änderung der Kategorie bestätigen"
+
+#~ msgid "Test System"
+#~ msgstr "Systemtest"
+
+#~ msgid "event repeats every"
+#~ msgstr "Termin wiederholt sich jede/n/s"
+
+#~ msgid ""
+#~ "This version does not support upgrades from PostCalendar 3.x and lower. "
+#~ "Please download and install at least version 4.0.3 (available from <a "
+#~ "href=\"http://code.zikula.org/soundwebdevelopment/downloads\">code.zikula."
+#~ "org/soundwebdevelopment</a>). Upgrading to PostCalendar %version% is "
+#~ "possible from that version."
+#~ msgstr ""
+#~ "Diese Version unterstützt Upgrades von PostCalendar 3.x (und frühere "
+#~ "Versionen) nicht. Bitte mindestens Version 4.0.3 installieren (verfügbar "
+#~ "auf <a href=\"http://code.zikula.org/soundwebdevelopment/downloads\">code."
+#~ "zikula.org/soundwebdevelopment</a>). Ein Upgrade zu PostCalendar %version"
+#~ "% ist von dieser Version möglich."
+
+#~ msgid "I am busy during this time."
+#~ msgstr "Ich bin zu dieser Zeit nicht verfügbar."
+
+#~ msgid "Busy"
+#~ msgstr "Nicht verfügbar"
+
+#~ msgid "Event Review"
+#~ msgstr "Terminprüfung"
+
+#~ msgid "The event(s) have been approved."
+#~ msgstr "Die Termine wurden überprüft."
+
+#~ msgid "Delete Categories?"
+#~ msgstr "Kategorien löschen?"
+
+#~ msgid "Submit"
+#~ msgstr "Absenden"
+
+#~ msgid "Your start date is greater than your end date"
+#~ msgstr "Das Anfangsdatum ist größer als das Enddatum"
+
+#~ msgid "Meeting notify email not sent"
+#~ msgstr "Benachrichtigung für diesen Termin wurde nicht gesendet"
+
+#~ msgid "Clear Smarty Cache"
+#~ msgstr "Smarty Cache löschen"
+
+#~ msgid "Default Category"
+#~ msgstr "Standardkategorie"
+
+#~ msgid "Hidden"
+#~ msgstr "Versteckt"
+
+#~ msgid "Prev"
+#~ msgstr "Vorherige"
+
+#~ msgid "Commit Changes"
+#~ msgstr "Änderungen bestätigen"
+
+#~ msgid "Show hovering event text on mouseover"
+#~ msgstr "Termin anzeigen, falls Mauszeiger darüber"
+
+#~ msgid "Cache dir doesn't exist! [%s]"
+#~ msgstr "Cacheverzeichnis existiert nicht! [%s]"
+
+#~ msgid "Postal/Zip Code"
+#~ msgstr "Postleitzahl"
+
+#~ msgid "Smarty location"
+#~ msgstr "Speicherort von Smarty"
+
+#~ msgid "Component"
+#~ msgstr "Komponente"
+
+#~ msgid "Are you sure you'd like to continue with these actions?"
+#~ msgstr "Mit diesen Aktionen wirklich fortfahren?"
+
+#~ msgid "Category delete failed."
+#~ msgstr "Löschen der Kategorien fehlgeschlagen."
+
+#~ msgid "is a required field."
+#~ msgstr "ist ein notwendiges Feld."
+
+#~ msgid "Cache dir not writeable! [%s]"
+#~ msgstr "Cacheverzeichnis nicht beschreibbar! [%s]"
+
+#~ msgid "Today's Events"
+#~ msgstr "Heutige Termine"
+
+#~ msgid "Queued Events Administration"
+#~ msgstr "Administration wartender Termine"
+
+#~ msgid "does not repeat"
+#~ msgstr "keine Wiederholung"
+
+#~ msgid "Copy"
+#~ msgstr "Kopieren"
+
+#~ msgid "End Date"
+#~ msgstr "Enddatum"
+
+#~ msgid "No Events Today"
+#~ msgstr "Heute keine Termine"
+
+#~ msgid "AM"
+#~ msgstr "AM"
+
+#~ msgid "Compile dir not writeable! [%s]"
+#~ msgstr "Kompilierungsverzeichnis ist nicht beschreibbar! [%s]"
+
+#~ msgid "Description  : "
+#~ msgstr "Beschreibung  : "
+
+#~ msgid "Notification Email Address"
+#~ msgstr "E-Mail-Adresse für Benachrichtigungen"
+
+#~ msgid "Your start date is invalid"
+#~ msgstr "Das Anfangsdatum ist ungültig"
+
+#~ msgid "Event        : %s"
+#~ msgstr "Termin        : %s"
+
+#~ msgid "Allow users to publish Personal Calendars"
+#~ msgstr "Benutzer dürfen eigenen Kalender veröffentlichen"
+
+#~ msgid "pc_filter: missing 'type' parameter"
+#~ msgstr "pc_filter: missing 'type' parameter"
+
+#~ msgid "Event Location"
+#~ msgstr "Ort"
+
+#~ msgid "Queued"
+#~ msgstr "Wartend"
+
+#~ msgid "Your event has been submitted."
+#~ msgstr "Der Termin wurde eingereicht."
+
+#~ msgid "View"
+#~ msgstr "Ansicht"
+
+#~ msgid "Display upcoming events in block?"
+#~ msgstr "Nächste Termine im Block anzeigen?"
+
+#~ msgid "Zikula & PostCalendar Current System Information"
+#~ msgstr "Aktuelle Zikula & PostCalendar Systeminformationen"
+
+#~ msgid "Number of events to list on admin pages"
+#~ msgstr "Anzahl der angezeigten Termine auf den Admin-Seiten"
+
+#~ msgid "Every/Every Other/Every Third/Every Fourth"
+#~ msgstr "Alle / Jeder Zweite / Jeder Dritte / Jeder Vierte"
+
+#~ msgid "Your repeating frequency must be at least 1."
+#~ msgstr "Die Anzahl der Wiederholungen muss mindestend 1 sein."
+
+#~ msgid "Event Start Date"
+#~ msgstr "Anfangsdatum"
+
+#~ msgid "Contact Email"
+#~ msgstr "E-Mail-Adresse"
+
+#~ msgid "Allow Users to filter event display by Category/Topic"
+#~ msgstr "Benutzer dürfen Termine nach Kategorie/Thema filtern"
+
+#~ msgid "Meeting notify email sent"
+#~ msgstr "Benachrichtigung für diesen Termin per E-Mail gesendet"
+
+#~ msgid "Time         : %s"
+#~ msgstr "Uhrzeit         : %s"
+
+#~ msgid "You are not allowed to delete this event"
+#~ msgstr "Keine Berechtigung diesen Termin zu löschen"
+
+#~ msgid "All Topics"
+#~ msgstr "Alle Themen"
+
+#~ msgid "Default Calendar View"
+#~ msgstr "Standardansicht für Kalender"
+
+#~ msgid "Module dir"
+#~ msgstr "Modulverzeichnis"

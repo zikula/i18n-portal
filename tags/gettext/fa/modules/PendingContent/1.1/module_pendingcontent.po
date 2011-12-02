@@ -1,0 +1,177 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-08 12:52+0000\n"
+"PO-Revision-Date: 2010-04-28 18:35+0200\n"
+"Last-Translator:  <ms.shams@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnadmin.php:86
+msgid "Element created"
+msgstr "عنصرایجاد شد"
+
+#: pnadmin.php:116
+msgid "No such item found."
+msgstr "چنین آیتمی پیدا نشد"
+
+#: pnadmin.php:164
+msgid "Element updated"
+msgstr "عنصر به روز رسانی شد"
+
+#: pnadmin.php:191 pnadminapi.php:68 pnadminapi.php:109
+msgid "Element not found"
+msgstr "عنصر پیدا نشد"
+
+#: pnadmin.php:225
+msgid "Element deleted"
+msgstr "عنصر حذف شد"
+
+#: pnadmin.php:264
+msgid "Edit"
+msgstr "ویرایش"
+
+#: pnadmin.php:268
+msgid "Delete"
+msgstr "حذف کردن"
+
+#: pnadmin.php:336
+msgid "Done! Module configuration updated."
+msgstr "انجام شد! پیکربندی ماژول به روز رسانی شد."
+
+#: pnversion.php:17 pnblocks/pending.php:29
+#: pntemplates/pendingcontent_admin_menu.htm:4
+msgid "Pending Content"
+msgstr "محتوای در حال انتظار"
+
+#: pnversion.php:18
+msgid "pendingcontent"
+msgstr "محتوای در حال انتظار"
+
+#: pnversion.php:19
+msgid "Display any unapproved content items."
+msgstr "نمایش همه محتوای تایید نشده"
+
+#: pnuserapi.php:47
+msgid "Error! Could not load items."
+msgstr "خطا! نمی توانم آیتم ها را بارگزاری کنم."
+
+#: pnuserapi.php:66 pnadminapi.php:29 pnadminapi.php:62 pnadminapi.php:103
+msgid "Error! Could not do what you wanted. Please check your input."
+msgstr ""
+"خطا! نمی توانم آنچه خواسته اید انجام دهم. لطفا ورودی خود را بررسی کنید."
+
+#: pnblocks/pending.php:30
+msgid "Pending Block"
+msgstr "بلاک محتوای در حال انتظار"
+
+#: pnadminapi.php:34 pnadminapi.php:73 pnadminapi.php:114 pnadminapi.php:117
+msgid "Sorry! No authorization to access this module."
+msgstr "متاسفیم! هیچ احراز هویتی برای دسترسی به این ماژول صورت نگرفته است."
+
+#: pnadminapi.php:40 pnadminapi.php:123
+msgid "Error! Creation attempt failed."
+msgstr "Error! Creation attempt failed."
+
+#: pnadminapi.php:77
+msgid "Error! Deletion attempt failed."
+msgstr "Error! Deletion attempt failed."
+
+#: pnadminapi.php:142 pntemplates/pendingcontent_admin_view.htm:2
+msgid "Show all elements"
+msgstr "نمایش همه عنصرها"
+
+#: pnadminapi.php:145
+msgid "Create element"
+msgstr "ایجاد عنصر"
+
+#: pnadminapi.php:148 pntemplates/pendingcontent_admin_modifyconfig.htm:2
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: pntemplates/pendingcontent_admin_modifyconfig.htm:13
+msgid "Items per page"
+msgstr "آیتم به ازای هر صفحه"
+
+#: pntemplates/pendingcontent_admin_modifyconfig.htm:19
+msgid "Update Configuration"
+msgstr "به روز رسانی پیکربندی"
+
+#: pntemplates/pendingcontent_admin_modifyconfig.htm:20
+#: pntemplates/pendingcontent_admin_modify.htm:29
+#: pntemplates/pendingcontent_admin_new.htm:28
+#: pntemplates/pendingcontent_admin_delete.htm:17
+msgid "Cancel"
+msgstr "انصراف"
+
+#: pntemplates/pendingcontent_admin_modify.htm:2
+msgid "Edit element"
+msgstr "ویرایش عنصر"
+
+#: pntemplates/pendingcontent_admin_modify.htm:14
+#: pntemplates/pendingcontent_admin_new.htm:13
+#: pntemplates/pendingcontent_admin_view.htm:10
+msgid "Name"
+msgstr "نام"
+
+#: pntemplates/pendingcontent_admin_modify.htm:18
+#: pntemplates/pendingcontent_admin_new.htm:17
+#: pntemplates/pendingcontent_admin_view.htm:11
+msgid "URL"
+msgstr "URL"
+
+#: pntemplates/pendingcontent_admin_modify.htm:22
+#: pntemplates/pendingcontent_admin_new.htm:21
+#: pntemplates/pendingcontent_admin_view.htm:12
+msgid "SQL Command"
+msgstr "فرمان SQL"
+
+#: pntemplates/pendingcontent_admin_modify.htm:28
+msgid "Update element"
+msgstr "عنصر به روز رسانی شد"
+
+#: pntemplates/pendingcontent_admin_new.htm:2
+msgid "Add element"
+msgstr "عنصر افزوده شد"
+
+#: pntemplates/pendingcontent_admin_new.htm:27
+msgid "Save"
+msgstr "ذخیره"
+
+#: pntemplates/pendingcontent_admin_delete.htm:2
+msgid "Delete element"
+msgstr "حذف عنصر"
+
+#: pntemplates/pendingcontent_admin_delete.htm:7
+msgid "Do you really want to delete this element?"
+msgstr "آیا شما مطمئنید که می خواهید این عنصر را حذف کنید؟"
+
+#: pntemplates/pendingcontent_admin_delete.htm:14
+msgid "Confirmation prompt"
+msgstr "متن تایید"
+
+#: pntemplates/pendingcontent_admin_delete.htm:16
+msgid "Confirm deletion?"
+msgstr "حذف کردن تایید شود؟"
+
+#: pntemplates/pendingcontent_admin_view.htm:13
+msgid "Options"
+msgstr "انتخاب‌ها"
+
+#: pntemplates/pendingcontent_admin_view.htm:30
+msgid "No items found."
+msgstr "هیچ آیتمی پیدا نشد."
+
+#: pntemplates/pendingcontent_block_pending.htm:12
+msgid "admin"
+msgstr "مدیر"

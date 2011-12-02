@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Dutch Translation for sunrise 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-07 06:24-0500\n"
+"PO-Revision-Date: 2010-06-12 22:23+0200\n"
+"Last-Translator: Arjen <teb@zikula.nl>\n"
+"Language-Team: Dutch Zikula Community\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: version.php:4
+msgid "sunrise"
+msgstr "sunrise"
+
+#: version.php:8
+msgid "sunrise template"
+msgstr "sunrise template"
+
+#: templates/includes/footer.htm:4
+msgid "Home Page"
+msgstr "Startpagina"
+
+#: templates/includes/footer.htm:5
+msgid "Contact"
+msgstr "Contact"
+
+#: templates/includes/footer.htm:6
+msgid "SiteMap"
+msgstr "SiteMap"
+
+#: templates/includes/footer.htm:7
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: templates/includes/footer.htm:10
+msgid "Design:"
+msgstr "Ontwerp:"
+
+#: templates/includes/footer.htm:10
+msgid "Free CSS Templates"
+msgstr "Free CSS Templates"
+
+#: templates/includes/footer.htm:10
+msgid "David Herreman"
+msgstr "David Herreman"
+
+#: templates/includes/footer.htm:11
+msgid "Valid"
+msgstr "Geldig"
+
+#: templates/includes/footer.htm:11
+msgid "XHTML"
+msgstr "XHTML"
+
+#: templates/includes/footer.htm:12
+msgid "CSS"
+msgstr "CSS"

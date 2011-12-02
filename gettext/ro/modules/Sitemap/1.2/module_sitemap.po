@@ -1,0 +1,370 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-02-26 11:50+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: pnadmin.php:176 pnadmin.php:204 pnadmin.php:232
+msgid "Done! Module configuration updated."
+msgstr ""
+
+#: pnversion.php:5 pntemplates/sitemap_user_view_slickmap.html:2
+#: pntemplates/sitemap_user_view.html:2
+msgid "Sitemap"
+msgstr ""
+
+#. !module name that appears in URL
+#: pnversion.php:6
+msgid "sitemap"
+msgstr ""
+
+#: pnversion.php:7
+msgid ""
+"Sitemap generate a xml sitemap for the search engines and another one for "
+"the users."
+msgstr ""
+
+#: pnincludes/faq.php:21
+msgid "Submit a question"
+msgstr ""
+
+#: pnincludes/legal.php:8
+msgid "Terms of use"
+msgstr ""
+
+#: pnincludes/legal.php:11
+msgid "Privacy policy"
+msgstr ""
+
+#: pnincludes/legal.php:14
+msgid "Accessibility statement"
+msgstr ""
+
+#: pnincludes/reviews.php:21
+msgid "Submit a review"
+msgstr ""
+
+#: pnincludes/search.php:7
+msgid "New search"
+msgstr ""
+
+#: pnincludes/search.php:8
+msgid "Recent searches list"
+msgstr ""
+
+#: pnincludes/news.php:21
+msgid "Categories"
+msgstr ""
+
+#: pnincludes/news.php:22
+msgid "Archives"
+msgstr ""
+
+#: pnincludes/news.php:24
+msgid "Submit article"
+msgstr ""
+
+#: pnuser.php:84
+msgid "And more..."
+msgstr ""
+
+#: pnadminapi.php:9
+msgid "Start"
+msgstr ""
+
+#: pnadminapi.php:10 pntemplates/sitemap_admin_contentdisplay.html:7
+msgid "Content to display"
+msgstr ""
+
+#: pnadminapi.php:11 pntemplates/sitemap_admin_contentorder.html:7
+msgid "Order the content to display"
+msgstr ""
+
+#: pnadminapi.php:12 pntemplates/sitemap_admin_settings.html:7
+msgid "Settings"
+msgstr ""
+
+#: pnadminapi.php:310
+msgid "Error: the modules per line value should be set between 1 and 10."
+msgstr ""
+
+#: pninit.php:11 pninit.php:18 pninit.php:62
+#, php-format
+msgid "Error: failed to save module configuration [%s]."
+msgstr ""
+
+#: pntemplates/sitemap_user_view_slickmap.html:3
+#: pntemplates/sitemap_user_view.html:3
+#, php-format
+msgid "Sitemap of %s"
+msgstr ""
+
+#: pntemplates/sitemap_user_view_slickmap.html:11
+#: pntemplates/sitemap_user_view.html:13
+msgid "Register"
+msgstr ""
+
+#: pntemplates/sitemap_user_view_slickmap.html:12
+#: pntemplates/sitemap_user_view.html:14
+msgid "Log In"
+msgstr ""
+
+#: pntemplates/sitemap_user_view_slickmap.html:18
+#: pntemplates/sitemap_user_view.html:12
+msgid "Homepage"
+msgstr ""
+
+#: pntemplates/sitemap_user_view_slickmap.html:38
+msgid "Direct links"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:1
+#: pntemplates/sitemap_admin_view.html:1
+#: pntemplates/sitemap_admin_settings.html:1
+#: pntemplates/sitemap_admin_contentorder.html:1
+msgid "Sitemap manager"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:8
+msgid ""
+"Notice: You have to set for each module if you want to display it into the "
+"sitemap and if you want to display links to the sections/content of each "
+"module. You can also set some xml information."
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:15
+msgid "General"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:17
+msgid "Display this module"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:20
+#: pntemplates/sitemap_admin_settings.html:19
+msgid "Yes"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:22
+#: pntemplates/sitemap_admin_settings.html:21
+msgid "No"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:30
+msgid "User sitemap"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:30
+#: pntemplates/sitemap_admin_contentdisplay.html:58
+msgid "Xml sitemap"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:30
+#, php-format
+msgid "%1$s and %2$s"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:34
+msgid "Display links to the sections"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:43
+msgid "Display links to the content"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:47
+msgid "Maximum links to the content to display"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:49
+msgid ""
+"(Blank field = no limit). This maximum value will only affect user sitemap."
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:60
+msgid "Set change frequency for this module"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:62
+msgid "Don't specify change frequency"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:63
+msgid "Always"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:64
+msgid "Hourly"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:65
+msgid "Daily"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:66
+msgid "Weekly"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:67
+msgid "Monthly"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:68
+msgid "Yearly"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:69
+msgid "Never"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:73
+msgid "Set priority for this module"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:75
+msgid "Don't specify priority"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:92
+msgid "Go to bottom"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:97
+#: pntemplates/sitemap_admin_settings.html:52
+#: pntemplates/sitemap_admin_contentorder.html:47
+msgid "OK"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:98
+#: pntemplates/sitemap_admin_settings.html:53
+#: pntemplates/sitemap_admin_contentorder.html:48
+msgid "Cancel"
+msgstr ""
+
+#: pntemplates/sitemap_admin_view.html:6
+msgid "Sitemap overview"
+msgstr ""
+
+#: pntemplates/sitemap_admin_view.html:8
+msgid "Welcome into the administration of the sitemap module."
+msgstr ""
+
+#: pntemplates/sitemap_admin_view.html:10
+msgid "Here is the links to your xml sitemap:"
+msgstr ""
+
+#: pntemplates/sitemap_admin_view.html:17
+msgid "Here is the links to your xml sitemap per module:"
+msgstr ""
+
+#: pntemplates/sitemap_admin_view.html:27
+msgid "Submit xml sitemap"
+msgstr ""
+
+#: pntemplates/sitemap_admin_view.html:28
+msgid ""
+"If you click on the bottom links, it will submit the xml sitemap in the "
+"corresponding language to the search engine."
+msgstr ""
+
+#: pntemplates/sitemap_admin_settings.html:8
+msgid ""
+"By default Sitemap override cache settings then the cache is forced to be "
+"enable. Why? Because this module makes a lot of sql queries to generate the "
+"sitemap, so for better performance the result is cached during 24 hours by "
+"default."
+msgstr ""
+
+#: pntemplates/sitemap_admin_settings.html:14
+msgid "Cache"
+msgstr ""
+
+#: pntemplates/sitemap_admin_settings.html:16
+msgid "Override pnRender cache settings"
+msgstr ""
+
+#: pntemplates/sitemap_admin_settings.html:26
+msgid "Lifetime for cached pages"
+msgstr ""
+
+#: pntemplates/sitemap_admin_settings.html:28
+msgid ""
+"In seconds (e.g. 3600 = 1 hour, 86400 = 24 hours, 604800 = 1 week, 2678400 = "
+"1 month)."
+msgstr ""
+
+#: pntemplates/sitemap_admin_settings.html:33
+msgid "Layout"
+msgstr ""
+
+#: pntemplates/sitemap_admin_settings.html:35
+msgid "Select your favorite layout"
+msgstr ""
+
+#: pntemplates/sitemap_admin_settings.html:38
+msgid "Default"
+msgstr ""
+
+#: pntemplates/sitemap_admin_settings.html:40
+msgid "SlickMap"
+msgstr ""
+
+#: pntemplates/sitemap_admin_settings.html:45
+msgid "Maximum modules per line"
+msgstr ""
+
+#: pntemplates/sitemap_admin_settings.html:47
+msgid "This value must be between 1 and 10 (default = 5)."
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentorder.html:9
+msgid "Notice:"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentorder.html:11
+msgid ""
+"You can't order a module before to have attribute it to the left/right "
+"column."
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentorder.html:13
+msgid "Blank field for order will automaticly set order to 99."
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentorder.html:19
+msgid "Order per module"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentorder.html:21
+msgid "Column and order per module"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentorder.html:29
+msgid "Left"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentorder.html:31
+msgid "Right"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentorder.html:33
+msgid "Alternatively"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentorder.html:34
+#: pntemplates/sitemap_admin_contentorder.html:38
+msgid "Order:"
+msgstr ""

@@ -1,0 +1,44 @@
+<!--[*
+ * Zikula Application Framework
+ *
+ * @copyright (c) 2008, Zikula Development Team
+ * @link http://www.zikula.org
+ * @version $Id: tour_user_display_firsttimeblocks.htm 713 2010-01-02 15:02:15Z teb $
+ * @license GNU/GPL - http://www.gnu.org/copyleft/gpl.html
+ * @package Zikula_Docs
+ * @subpackage Tour
+ * @author espaan (Erik Spaan)
+ * @link http://zikula.nl Dutch Zikula Community
+*]-->
+<!--[include file="tour_user_menu.htm"]-->
+
+<h2>Blokken</h2>
+
+<p>Om een link toe te voegen naar uw zojuist geïnstalleerde module in het navigatie menu, laten we eerst het concept
+van een blok proberen te begrijpen. Voortbordurend op de desktop computer metafoor, blokken zouden kleine desktop widgets
+zijn die de huidige temperatuur, tijd, aantal wachtende berichten, etc weergeven. Blokken bieden secundaire
+informatie en functionaliteit, die de hoofdinhoud (module output) complementeren. Het <em>Hoofd menu</em> en
+het <em>Login scherm</em> aan de zijkanten van het scherm van uw site zijn blokgebruik voorbeelden.</p>
+
+<p>Er zijn blokken voor zaken als <em>weergave van de 5 meest recente nieuws artikelen</em>, <em>nieuwe downloads</em>,
+<em>meest recente forum onderwerpen</em> en <em> gebuikers online</em>. Bijna elke nieuwe module die u installeert beschikt
+over een aantal blokken die u kunt weergeven in uw site.</p>
+
+<p>Om nu een nieuwe link toe te voegen aan uw Hoofd menu blok, moet u naar het
+<a href="<!--[pnmodurl modname="Blocks" type="admin"]-->">Blokken beheerderscherm</a> gaan en het blok bewerken. Klikken
+op het bewerk icoon,  aan de rechterkant van de Hoofd menu rij, geeft een formulier waarin u de links van het Hoofd
+menu kunt bewerken. Daar kunt u een nieuwe link naar uw module toe voegen, links verwijderen die u niet wilt, etcetera.
+Elk blok heeft zijn eigen beheerderscherm waarin u de instellingen kunt configureren afhankelijk van uw eisen en voorkeuren.</p>
+
+<h2>Blok posities</h2>
+<p>U kunt de blokken in elke volgorde zetten die u wilt middels
+<a href="<!--[pnmodurl modname="Blocks" type="admin" func="view"]-->#blockpositions">Blok Posities</a>. Deze distributie
+heeft enkele standaard posities zoals 'links', 'midden' en 'rechts' en u kunt nieuwe of bestaande blokken aan deze
+posities toewijzen. Bijvoorbeeld als u een blok in de header van uw site wilt, kunt u:</p>
+<ol>
+<li>Creëer een blok positie genaamd 'topblok' in het Blokken beheerderscherm.</li>
+<li>Voeg de positie in uw thema templates in.</li>
+<li>Creëer een nieuw blok met de inhoud die u wilt tonen.</li>
+<li>Wijs dit nieuwe blok toe aan de 'topblok' positie.</li>
+</ol>
+<p>U kunt zo veel blok posities maken als u nodig heeft en ze gebruiken in uw thema templates op de manier die u wilt.</p>

@@ -1,0 +1,173 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Dutch Translation for NaturalGloom 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-07 06:32-0500\n"
+"PO-Revision-Date: 2010-06-12 22:23+0200\n"
+"Last-Translator: Arjen <teb@zikula.nl>\n"
+"Language-Team: Dutch Zikula Community\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: version.php:4
+msgid "Natural_Gloom"
+msgstr "Natural_Gloom"
+
+#: version.php:8
+msgid "Natural Gloom open source template"
+msgstr "Natural Gloom open source template"
+
+#: templates/modules/News-Sample/news_user_articlecontent.htm:2
+msgid "Characters Used"
+msgstr "karakters gebruikt"
+
+#: templates/modules/News-Sample/news_user_articlecontent.htm:9
+msgid "Posted By"
+msgstr "Geplaatst door"
+
+#: templates/modules/News-Sample/news_user_articlecontent.htm:9
+msgid "On"
+msgstr "Op"
+
+#: templates/modules/News-Sample/news_user_index.htm:4
+msgid "Contributed"
+msgstr "Bijdrage"
+
+#: templates/modules/News-Sample/news_user_index.htm:4
+#, php-format
+msgid "by %1$s on %2$s"
+msgstr "door %1$s op %2$s"
+
+#: templates/includes/navigation.htm:6
+msgid "Home"
+msgstr "Start"
+
+#: templates/includes/navigation.htm:7
+msgid "Blog Post"
+msgstr "Blog bericht"
+
+#: templates/includes/navigation.htm:8
+msgid "Style Demo"
+msgstr "Stijl demo"
+
+#: templates/includes/navigation.htm:9
+msgid "Archives"
+msgstr "Archieven"
+
+#: templates/includes/navigation.htm:10
+msgid "Empty Page"
+msgstr "Lege pagina"
+
+#: templates/includes/navigation.htm:20
+msgid "First subpage"
+msgstr "Eerste subpagina"
+
+#: templates/includes/navigation.htm:21
+msgid "Second subpage"
+msgstr "Tweede subpagina"
+
+#: templates/includes/navigation.htm:22
+msgid "Third subpage"
+msgstr "Derde subpagina"
+
+#: templates/includes/navigation.htm:23
+msgid "And so on.."
+msgstr "Enzovoorts..."
+
+#: templates/includes/footer.htm~:7 templates/includes/footer.htm:7
+msgid "Contact"
+msgstr "Contact"
+
+#: templates/includes/footer.htm~:8 templates/includes/footer.htm:8
+msgid "Sitemap"
+msgstr "Sitemap"
+
+#: templates/includes/footer.htm~:9 templates/includes/footer.htm:9
+msgid "RSS"
+msgstr "RSS"
+
+#: templates/includes/footer.htm:12
+msgid "Website template"
+msgstr "Website template"
+
+#: templates/includes/footer.htm:12
+msgid "by"
+msgstr "door"
+
+#: templates/includes/footer.htm:12
+msgid "Arcsin"
+msgstr "Arcsin"
+
+#: templates/includes/footer.htm:13
+msgid "Valid"
+msgstr "Geldig"
+
+#: templates/includes/footer.htm:13
+msgid "CSS"
+msgstr "CSS"
+
+#: templates/includes/footer.htm:14
+msgid "XHTML"
+msgstr "XHTML"
+
+#: templates/includes/dashboard.htm:7
+msgid "Tincidunt"
+msgstr "Tincidunt"
+
+#: templates/includes/dashboard.htm:9 templates/includes/dashboard.htm:28
+#: templates/includes/dashboard.htm:40
+msgid "Consequat molestie"
+msgstr "Consequat molestie"
+
+#: templates/includes/dashboard.htm:10 templates/includes/dashboard.htm:25
+msgid "Sem justo"
+msgstr "Sem justo"
+
+#: templates/includes/dashboard.htm:11
+msgid "Semper eros"
+msgstr "Semper eros"
+
+#: templates/includes/dashboard.htm:12 templates/includes/dashboard.htm:26
+#: templates/includes/dashboard.htm:41
+msgid "Magna sed purus"
+msgstr "Magna sed purus"
+
+#: templates/includes/dashboard.htm:13
+msgid "Tincidunt morbi"
+msgstr "Tincidunt morbi"
+
+#: templates/includes/dashboard.htm:22
+msgid "Fermentum"
+msgstr "Fermentum"
+
+#: templates/includes/dashboard.htm:24
+msgid "Semper fermentum"
+msgstr "Semper fermentum"
+
+#: templates/includes/dashboard.htm:27
+msgid "Tincidunt nisl"
+msgstr "Tincidunt nisl"
+
+#: templates/includes/dashboard.htm:37
+msgid "Praesent"
+msgstr "Praesent"
+
+#: templates/includes/dashboard.htm:39
+msgid "Semper lobortis"
+msgstr "Semper lobortis"
+
+#: templates/includes/dashboard.htm:42
+msgid "Sem morbi"
+msgstr "Sem morbi"
+
+#: templates/includes/dashboard.htm:43
+msgid "Tincidunt sed"
+msgstr "Tincidunt sed"

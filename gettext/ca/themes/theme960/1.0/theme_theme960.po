@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-13 17:23+0000\n"
+"PO-Revision-Date: 2010-06-14 12:24+0200\n"
+"Last-Translator: Toni Ginard <toni.ginard@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Country: UNITED STATES\n"
+
+#: version.php:3
+msgid "theme960"
+msgstr "theme960"
+
+#: version.php:5
+msgid "A Simple theme based on the 960.gs CSS Framework"
+msgstr "A Simple theme based on the 960.gs Framework by Nathan Smith."

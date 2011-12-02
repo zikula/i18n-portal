@@ -1,0 +1,1428 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-11 09:05+0000\n"
+"PO-Revision-Date: 2010-06-20 14:16+0200\n"
+"Last-Translator: Arjen <teb@zikula.nl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnpageapi.php:36 pnuser.php:214
+msgid "Error! Unknown page."
+msgstr "Foutmelding! Onbekende pagina."
+
+#: pnpageapi.php:361
+msgid "Error! Cannot create sub-page without parent page ID"
+msgstr "Foutmelding! Kan sub-pagina niet creeën zonder parent pagina ID"
+
+#: pnpageapi.php:388 pnpageapi.php:422 pnpageapi.php:433 pnpageapi.php:787
+#: pnpageapi.php:826
+msgid ""
+"Error! There is already another page registered with the supplied permalink "
+"URL."
+msgstr ""
+"Foutmelding! Er is al een pagina geregistreerd met de ingevoerde permalink "
+"URL."
+
+#: pnpageapi.php:571 pnhistoryapi.php:71
+#: pntemplates/content_include_tocedit.html:39
+msgid "Translated"
+msgstr "Vertaald"
+
+#: pnpageapi.php:603 pnhistoryapi.php:74
+msgid "Translation deleted"
+msgstr "Vertaling verwijderd"
+
+#: pnpageapi.php:772
+msgid ""
+"Error! It is not possible to move a parent page beneath one of its "
+"descendants."
+msgstr ""
+"Foutmelding! Het is niet mogelijk een parent pagina te verplaatsen naar één "
+"van zijn subtakken."
+
+#: pnpageapi.php:1088 pnpageapi.php:1189 pnsearchapi.php:72
+msgid "Error! Could not load items."
+msgstr "Foutmelding! Items konden niet geladen worden."
+
+#: pnadmin.php:51
+msgid "Done! Saved module configuration."
+msgstr "Klaar! Module configuratie opgeslagen."
+
+#: pnajax.php:22
+msgid "OK"
+msgstr "OK"
+
+#: pncontentapi.php:283
+msgid "Error! Unknown content-ID"
+msgstr "Foutmelding! Onbekende inhoud-ID"
+
+#: pncontentapi.php:383 pncontentapi.php:425
+msgid "Error! Can't load content plugin"
+msgstr "Foutmelding! Kan de inhoud plugin niet laden"
+
+#: pncontentapi.php:948
+#, php-format
+msgid ""
+"Error! Unable to load plugin [%1$s] in module [%2$s] since the module is not "
+"available."
+msgstr ""
+"Foutmelding! De plugin [%1$s] kan niet geladen worden in module [%2$s] omdat "
+"de module niet beschikbaar is."
+
+#: pncontentapi.php:949
+#, php-format
+msgid ""
+"Error! Unable to load plugin [%1$s] in module [%2$s] for some unknown reason."
+msgstr ""
+"Foutmelding! De plugin [%1$s] kan niet geladen worden in module [%2$s] met "
+"een onbekende oorzaak."
+
+#: pnversion.php:17
+msgid "Content editing"
+msgstr "Inhoud pagina's"
+
+#: pnversion.php:18
+msgid ""
+"Content is a page editing module. With it you can insert and edit various "
+"content items, such as HTML texts, videos, Google maps and much more."
+msgstr ""
+"Content (Inhoud) is een pagina bewerk module. Het is mogelijk om "
+"verschillende inhoud items toe te voegen en te bewerken zoals HTML teksten, "
+"video's, Google maps en nog veel meer."
+
+#. ! module url should be different to displayname and in lowercase without space
+#: pnversion.php:20
+msgid "content"
+msgstr "content"
+
+#: pntemplates/plugins/function.contenteditthis.php:35
+msgid "Edit this page"
+msgstr "Deze pagina bewerken"
+
+#: pntemplates/plugins/function.contenteditthis.php:37
+msgid "Translate this page"
+msgstr "Deze pagina vertalen"
+
+#: pntemplates/plugins/function.contenteditthis.php:46
+#, php-format
+msgid "Edit this: %1$s [ID%2$s]"
+msgstr "Bewerk: %1$s [ID%2$s]"
+
+#: pntemplates/plugins/function.contenteditthis.php:49
+#: pntemplates/content_edit_editpage.html:27
+#: pntemplates/content_edit_editpage.html:125
+#: pntemplates/content_include_tocedit.html:26
+#: pntemplates/content_edit_editcontent.html:44
+msgid "Translate"
+msgstr "Vertalen"
+
+#: pntemplates/plugins/function.contenthtmleditor.php:40
+msgid "Please install Scribite to get a real HTML editor."
+msgstr "Installeer Scribite! voor een echte HTML WYSIWYG editor."
+
+#: pntemplates/plugins/function.contenthtmleditor.php:52
+msgid "Please install the hook BBCode to enable bbcode filtering."
+msgstr "Installeer de BBCode hook om bbcode filtering in te schakelen."
+
+#: pntemplates/plugins/function.contentinsertlink.php:22
+msgid "Add new content here"
+msgstr "Hier nieuwe inhoud toevoegen"
+
+#: pntemplates/plugins/function.contentpositionselector.php:52
+msgid "No box"
+msgstr "Geen box"
+
+#: pntemplates/plugins/function.contentpositionselector.php:57
+msgid "Above"
+msgstr "Boven"
+
+#: pntemplates/plugins/function.contentpositionselector.php:62
+msgid "Float, left"
+msgstr "Float, links"
+
+#: pntemplates/plugins/function.contentpositionselector.php:67
+msgid "Float, right"
+msgstr "Float, rechts"
+
+#: pntemplates/plugins/function.contentpositionselector.php:72
+msgid "Above, left"
+msgstr "Boven, links"
+
+#: pntemplates/plugins/function.contentpositionselector.php:77
+msgid "Above, right"
+msgstr "Boven, rechts"
+
+#: pnlayouttypesapi/column1.php:18 pnlayouttypesapi/column2header.php:18
+#: pnlayouttypesapi/column3header.php:18
+msgid "Header"
+msgstr "Kopgedeelte"
+
+#: pnlayouttypesapi/column1.php:18 pnlayouttypesapi/column1woheader.php:18
+#: pnlayouttypesapi/column3header.php:18 pnlayouttypesapi/column3header.php:51
+msgid "Centre column"
+msgstr "Middelste kolom"
+
+#: pnlayouttypesapi/column1.php:18 pnlayouttypesapi/column1woheader.php:18
+#: pnlayouttypesapi/column2header.php:18 pnlayouttypesapi/column3header.php:18
+msgid "Footer"
+msgstr "Voetgedeelte"
+
+#: pnlayouttypesapi/column1.php:34
+msgid "1 column"
+msgstr "1 kolom"
+
+#: pnlayouttypesapi/column1.php:40
+msgid "Single 100% wide column"
+msgstr "Enkele kolom, 100% breed."
+
+#: pnlayouttypesapi/column1woheader.php:34
+msgid "1 column w/o header"
+msgstr "Enkele kolom zonder kopgedeelte"
+
+#: pnlayouttypesapi/column1woheader.php:40
+msgid "Single 100% wide column without header"
+msgstr "Enkele kolom, 100% breed, zonder kopgedeelte"
+
+#: pnlayouttypesapi/column2header.php:18 pnlayouttypesapi/column3header.php:18
+msgid "Left column"
+msgstr "Linker kolom"
+
+#: pnlayouttypesapi/column2header.php:18 pnlayouttypesapi/column3header.php:18
+msgid "Right column"
+msgstr "Rechter kolom"
+
+#: pnlayouttypesapi/column2header.php:32
+msgid "2 columns"
+msgstr "2 kolommen"
+
+#: pnlayouttypesapi/column2header.php:37
+msgid "Two columns + header + footer"
+msgstr "Twee kolommen met kop- en voetgedeelte"
+
+#: pnlayouttypesapi/column3header.php:34
+msgid "3 columns"
+msgstr "3 kolommen"
+
+#: pnlayouttypesapi/column3header.php:40
+msgid "Three columns + header + footer"
+msgstr "Drie kolommen met kop- en voetgedeelte"
+
+#: pnblocks/menu.php:23
+msgid "Content menu"
+msgstr "Inhoud menu"
+
+#: pnblocks/menu.php:24
+msgid "Content menu block"
+msgstr "Inhoud menu blok"
+
+#: pnblocks/menu.php:74 pncontenttypesapi/directory.php:129
+msgid "All pages"
+msgstr "Alle pagina's"
+
+#: pnneedleapi/content.php:39
+msgid "Unknown id"
+msgstr "Onbekend id"
+
+#: pnneedleapi/content.php:42
+msgid "Content not available"
+msgstr "Inhoud niet beschikbaar"
+
+#: pnneedleapi/content.php:47
+msgid "No needle id"
+msgstr "Geen naald id"
+
+#: pncontenttypesapi/vimeo.php:24
+msgid "Vimeo video clip"
+msgstr "Vimeo video clip"
+
+#: pncontenttypesapi/vimeo.php:29
+msgid "Display Vimeo video clip."
+msgstr "Vimeo video clip tonen."
+
+#: pncontenttypesapi/vimeo.php:82
+msgid "Error! Unrecognized Vimeo URL"
+msgstr "Foutmelding! Vimeo URL niet herkend"
+
+#: pncontenttypesapi/heading.php:27 pncontenttypesapi/heading.php:68
+#: pntemplates/contenttype/heading_edit.html:4
+#: pntemplates/contenttype/heading_translate_original.html:2
+#: pntemplates/contenttype/heading_translate_new.html:2
+msgid "Heading"
+msgstr "Hoofd"
+
+#: pncontenttypesapi/heading.php:32
+msgid "Section heading for structuring larger amounts of text."
+msgstr "Sectiehoofd voor het structureren van grootte stukken tekst."
+
+#: pncontenttypesapi/quote.php:27
+msgid "Quote"
+msgstr "Citaat"
+
+#: pncontenttypesapi/quote.php:32
+msgid "A highlighted quote with source."
+msgstr "Een uitgelicht citaat met bronvermelding."
+
+#: pncontenttypesapi/quote.php:80
+msgid "Add quote text here..."
+msgstr "Voeg hier een citaat in..."
+
+#: pncontenttypesapi/quote.php:80
+msgid "http://"
+msgstr "http://"
+
+#: pncontenttypesapi/quote.php:80
+msgid "Name of the Source"
+msgstr "Naam van de bron"
+
+#: pncontenttypesapi/pagesetter_publist.php:32
+msgid "Pagesetter publication list"
+msgstr "Pagesetter publicatie lijst"
+
+#: pncontenttypesapi/pagesetter_publist.php:37
+msgid "Pagesetter list of filtered, ordered, and/or formatted publications."
+msgstr ""
+"Pagesetter lijst van gefilterde, gesorteerde en/of geformatteerde "
+"publicaties."
+
+#: pncontenttypesapi/slideshare.php:28
+msgid "Slideshare"
+msgstr "Slideshare"
+
+#: pncontenttypesapi/slideshare.php:33
+msgid "Display slides from slideshare.com"
+msgstr "Slides van slideshare.com tonen"
+
+#: pncontenttypesapi/slideshare.php:78
+msgid "Not valid Slideshare Wordpress embed code"
+msgstr "Ongeldige Slideshare Wordpress invoeg code"
+
+#: pncontenttypesapi/googlemap.php:29
+msgid "Google map"
+msgstr "Google map"
+
+#: pncontenttypesapi/googlemap.php:34
+msgid "Display Google map position."
+msgstr "Google map positie tonen."
+
+#: pncontenttypesapi/googlemap.php:39
+#: pntemplates/content_admin_settings.html:33
+msgid ""
+"If you want to add Google maps to your content then you need a Google maps "
+"API key. You can get this from <a href=\"http://www.google.com/apis/maps/"
+"signup.html\">google.com</a>."
+msgstr ""
+"Om Google maps toe te voegen als inhoud is een Google maps API key nodig. "
+"Verkrijgbaar op <a href=\"http://www.google.com/apis/maps/signup.html"
+"\">google.com</a>."
+
+#: pncontenttypesapi/author.php:26
+msgid "Author Infobox"
+msgstr "Auteur infobox"
+
+#: pncontenttypesapi/author.php:31
+msgid "Various information about the author of the page."
+msgstr "Informatie over de auteur van de pagina."
+
+#: pncontenttypesapi/flickr.php:30
+msgid "Photos from Flickr.com"
+msgstr "Foto's van Flickr.com"
+
+#: pncontenttypesapi/flickr.php:35
+msgid "Display thumbnails from specific Flickr user or tags."
+msgstr "Toon thumbnails van een bepaalde Flickr user of van tags."
+
+#: pncontenttypesapi/flickr.php:40 pntemplates/content_admin_settings.html:38
+msgid ""
+"If your want to add Flickr photos to your content then you need a Flickr API "
+"key. You can get this from <a href=\"http://www.flickr.com/api\">flickr.com</"
+"a>."
+msgstr ""
+"Om Flickr foto's toe te voegen als inhoud is een Flickr API key nodig. "
+"Verkrijgbaar op <a href=\"http://www.flickr.com/api\">flickr.com</a>."
+
+#: pncontenttypesapi/flickr.php:85
+#, php-format
+msgid "Flickr photos from user %1$s associated with tags %2$s"
+msgstr "Flickr foto's van gebruiker %1$s zijn geassocieerd met tags %2$s"
+
+#: pncontenttypesapi/pagesetter_pub.php:20
+msgid "Pagesetter publication"
+msgstr "Pagesetter publicatie"
+
+#: pncontenttypesapi/pagesetter_pub.php:25
+msgid "Display a Pagesetter publication."
+msgstr "Toon een Pagesetter publicatie."
+
+#: pncontenttypesapi/html.php:27
+msgid "HTML text"
+msgstr "HTML tekst"
+
+#: pncontenttypesapi/html.php:32
+msgid "A rich HTML editor for adding text to your page."
+msgstr "Een rich HTML editor voor het toevoegen van tekst op de pagina."
+
+#: pncontenttypesapi/html.php:69
+msgid "Add text here ..."
+msgstr "Voeg hier tekst toe..."
+
+#: pncontenttypesapi/block.php:25
+msgid "Blocks"
+msgstr "Blokken"
+
+#: pncontenttypesapi/block.php:30
+msgid "Display Zikula blocks."
+msgstr "Toon Zikula blokken."
+
+#: pncontenttypesapi/modulefunc.php:29
+msgid "Module display"
+msgstr "Module weergave"
+
+#: pncontenttypesapi/modulefunc.php:34
+msgid "Display output from any installed module."
+msgstr "Toon output van een geïnstalleerde module."
+
+#: pncontenttypesapi/modulefunc.php:55
+msgid ""
+"Maximum number of pages-in-pages reached! You probably included this page in "
+"itself."
+msgstr ""
+"Maximum aantal pagina-in-pagina's bereikt! Waarschijnlijk is deze pagina in "
+"zichzelf ingevoegd."
+
+#: pncontenttypesapi/directory.php:28
+msgid "Table of contents"
+msgstr "Inhoudsopgave"
+
+#: pncontenttypesapi/directory.php:33
+msgid ""
+"A table of contents of headings and subpages (build from this module's "
+"pages)."
+msgstr ""
+"Inhoudsopgave van koppen en subpagina's (opgebouwd uit pagina's van deze "
+"module)."
+
+#: pncontenttypesapi/directory.php:114
+#, php-format
+msgid "Table of contents of %1$s"
+msgstr "Inhoudsopgave van %1$s"
+
+#: pncontenttypesapi/computercode.php:26
+msgid "Computer Code"
+msgstr "Computer Code"
+
+#: pncontenttypesapi/computercode.php:31
+msgid ""
+"A text editor for computer code. Line numbers are added to the text and it "
+"is displayed in a monospaced font."
+msgstr ""
+"Een text editor voor computer code. Regelnummers worden aan de tekst "
+"toegevoegd en weergegeven in een niet uitgevuld lettertype."
+
+#: pncontenttypesapi/youtube.php:29
+msgid "YouTube video clip"
+msgstr "YouTube video clip"
+
+#: pncontenttypesapi/youtube.php:34
+msgid "Display YouTube video clip."
+msgstr "Toon YouTube video clip."
+
+#: pncontenttypesapi/youtube.php:79
+msgid "Unrecognized YouTube URL"
+msgstr "Niet herkende YouTube URL"
+
+#: pncontenttypesapi/rss.php:35
+msgid "RSS feed"
+msgstr "RSS feed"
+
+#: pncontenttypesapi/rss.php:40
+msgid "Display list of items in an RSS feed."
+msgstr "Toon lijst van de RSS feed."
+
+#: pnuser.php:87
+#, php-format
+msgid "Version #%1$s - %2$s - %3$s by %4$s from %5$s"
+msgstr "Versie #%1$s - %2$s - %3$s door %4$s van %5$s"
+
+#: pnuser.php:109 pntemplates/content_edit_editpage.html:122
+#: pntemplates/content_include_tocedit.html:20
+msgid "Preview"
+msgstr "Voorbeeld"
+
+#: pnuser.php:243 pntemplates/content_admin_main.html:19
+msgid "Sitemap"
+msgstr "Sitemap"
+
+#: pnhistoryapi.php:39 pnhistoryapi.php:183
+msgid "Unknown user"
+msgstr "Onbekende gebruiker"
+
+#: pnhistoryapi.php:65
+msgid "Content updated"
+msgstr "Inhoud bijgewerkt"
+
+#: pnhistoryapi.php:68
+msgid "Content deleted"
+msgstr "Inhoud verwijderd"
+
+#: pnhistoryapi.php:77
+msgid "Content moved"
+msgstr "Inhoud verplaatst"
+
+#: pnhistoryapi.php:80
+msgid "Content added"
+msgstr "Inhoud toegevoegd"
+
+#: pnhistoryapi.php:83
+msgid "Page added"
+msgstr "Pagina toegevoegd"
+
+#: pnhistoryapi.php:86
+msgid "Page updated"
+msgstr "Pagina bijgewerkt"
+
+#: pnhistoryapi.php:89
+#, php-format
+msgid "Page restored from version [%s]"
+msgstr "Pagina hersteld vanuit versie [%s]"
+
+#: pnhistoryapi.php:178 pnhistoryapi.php:275
+#, php-format
+msgid "Error! Unknown version ID [%s]"
+msgstr "Foutmelding! Onbekend versie ID [%s]"
+
+#: pnhistoryapi.php:363
+msgid "Error! Re-created old content item but did not restore old ID."
+msgstr ""
+"Foutmelding! Oude inhoud werd opnieuw aangemaakt, maar niet met het oude ID."
+
+#: pnadminapi.php:22
+msgid "Administration"
+msgstr "Beheer"
+
+#: pnadminapi.php:23 pntemplates/content_admin_main.html:17
+msgid "Edit contents"
+msgstr "Inhoud bewerken"
+
+#: pnadminapi.php:24 pntemplates/content_admin_main.html:18
+#: pntemplates/content_admin_settings.html:22
+#: pntemplates/content_admin_settings.html:24
+#: pntemplates/content_edit_main.html:11
+msgid "Settings"
+msgstr "Instellingen"
+
+#: pninit.php:42
+msgid "Error! Failed to set shorturlsuffix."
+msgstr "Foutmelding! shorturlsuffix kon niet ingesteld worden."
+
+#: pninit.php:46
+msgid "Error! Failed to set style classes."
+msgstr "Foutmelding! Stijl classes konden niet ingesteld worden."
+
+#: pnedit.php:34 pntemplates/content_edit_main.html:4
+msgid "Page list and content structure"
+msgstr "Pagina lijst en inhoud structuur"
+
+#: pnedit.php:149 pntemplates/content_edit_newpage.html:1
+#: pntemplates/content_include_pageinfo.html:21
+#: pntemplates/content_edit_main.html:9
+msgid "Add new page"
+msgstr "Voeg nieuwe pagina toe"
+
+#: pnedit.php:155
+msgid "Located below:"
+msgstr "Hieronder:"
+
+#: pnedit.php:157
+msgid "Located after:"
+msgstr "Na:"
+
+#: pnedit.php:166
+msgid "Error! You have not been granted access to this page."
+msgstr "Foutmelding! Geen toegangsrechten voor deze pagina."
+
+#: pnedit.php:228 pntemplates/content_edit_editpage.html:3
+#: pntemplates/content_include_pageinfo.html:16
+msgid "Edit page"
+msgstr "Pagina bewerken"
+
+#: pnedit.php:275
+msgid "Layout changed"
+msgstr "Opmaak gewijzigd"
+
+#: pnedit.php:360 pntemplates/content_edit_newcontent.html:2
+msgid "Add new content to page"
+msgstr "Voeg nieuwe inhoud aan de pagina toe"
+
+#: pnedit.php:445 pntemplates/content_edit_editcontent.html:1
+msgid "Edit content item"
+msgstr "Inhoud bewerken"
+
+#: pnedit.php:544 pnedit.php:677
+msgid ""
+"You should not translate item to same language as it's default language."
+msgstr "Item niet vertalen naar dezelfde taal als zijn standaardtaal."
+
+#: pnedit.php:546 pntemplates/content_include_pageinfo.html:18
+#: pntemplates/content_edit_translatepage.html:1
+msgid "Translate page"
+msgstr "Vertaal pagina"
+
+#: pnedit.php:684 pntemplates/content_edit_translatecontent.html:1
+msgid "Translate content item"
+msgstr "Vertaal inhoud item"
+
+#: pnedit.php:800 pntemplates/content_edit_history.html:2
+msgid "Page history"
+msgstr "Pagina geschiedenis"
+
+#: pntemplates/content_edit_newpage.html:1
+msgid "Select layout"
+msgstr "Kies opmaak"
+
+#: pntemplates/content_edit_newpage.html:12
+#: pntemplates/content_edit_editpage.html:55
+#: pntemplates/content_edit_translatepage.html:13
+#: pntemplates/content_edit_translatepage.html:21
+#: pntemplates/content_include_tocedit.html:35
+msgid "Page title"
+msgstr "Pagina titel"
+
+#: pntemplates/content_edit_newpage.html:16
+#: pntemplates/content_edit_editpage.html:59
+msgid "Permalink URL name"
+msgstr "Permalink URL naam"
+
+#: pntemplates/content_edit_newpage.html:18
+#: pntemplates/content_edit_editpage.html:61
+msgid ""
+"Used to refer this page in short URLs mode. Leave as blank for default value."
+msgstr ""
+"In korte URL stand wordt hiermee aan de pagina gerefereerd. Laat leeg voor "
+"standaardwaarde."
+
+#: pntemplates/content_edit_newpage.html:23
+msgid "Please select a specific layout for your page"
+msgstr "Kies een bepaalde opmaak voor de pagina"
+
+#: pntemplates/content_edit_newpage.html:28
+#: pntemplates/content_edit_newcontent.html:19
+msgid "Create"
+msgstr "Aanmaken"
+
+#: pntemplates/content_edit_newpage.html:29
+#: pntemplates/content_edit_editpage.html:127
+#: pntemplates/content_edit_translatepage.html:31
+#: pntemplates/content_admin_settings.html:143
+#: pntemplates/content_edit_editcontent.html:46
+#: pntemplates/content_edit_translatecontent.html:26
+#: pntemplates/content_edit_newcontent.html:20
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: pntemplates/content_edit_editpage.html:22
+#: pntemplates/content_include_tocedit.html:19
+msgid "Edit"
+msgstr "Bewerken"
+
+#: pntemplates/content_edit_editpage.html:23
+msgid "Add new content above"
+msgstr "Nieuwe inhoud hierboven toevoegen"
+
+#: pntemplates/content_edit_editpage.html:24
+msgid "Add new content below"
+msgstr "Nieuwe inhoud hieronder toevoegen"
+
+#: pntemplates/content_edit_editpage.html:25
+#: pntemplates/content_edit_editpage.html:121
+#: pntemplates/content_edit_translatepage.html:30
+#: pntemplates/content_include_tocedit.html:27
+#: pntemplates/content_edit_editcontent.html:42
+#: pntemplates/content_edit_translatecontent.html:25
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: pntemplates/content_edit_editpage.html:43
+#: pntemplates/content_include_tocedit.html:28
+msgid "History"
+msgstr "Geschiedenis"
+
+#: pntemplates/content_edit_editpage.html:47
+#: pntemplates/content_edit_editcontent.html:12
+#: pntemplates/content_search_options.html:3
+msgid "Content"
+msgstr "Inhoud"
+
+#: pntemplates/content_edit_editpage.html:51
+msgid "Options"
+msgstr "Mogelijkheden"
+
+#: pntemplates/content_edit_editpage.html:53
+msgid "Page settings"
+msgstr "Pagina instellingen"
+
+#: pntemplates/content_edit_editpage.html:64
+msgid "Page language"
+msgstr "Pagina taal"
+
+#: pntemplates/content_edit_editpage.html:68
+msgid "Include page in menu"
+msgstr "Gebruik pagina in menu"
+
+#: pntemplates/content_edit_editpage.html:73
+msgid "Page state"
+msgstr "Pagina toestand"
+
+#: pntemplates/content_edit_editpage.html:75
+msgid "Online"
+msgstr "Online"
+
+#: pntemplates/content_edit_editpage.html:77
+msgid ""
+"You can set the page online/offline as well as supply a date interval for "
+"the page to be online. The checkbox overrides the dates."
+msgstr ""
+"Het is mogelijk om de pagina online/offline te zetten of om een datum op te "
+"geven wanneer deze pagina online moet zijn. De checkbox gaat boven de data "
+"instellingen."
+
+#: pntemplates/content_edit_editpage.html:80
+msgid "Start date"
+msgstr "Start datum"
+
+#: pntemplates/content_edit_editpage.html:84
+msgid "End date"
+msgstr "Eind datum"
+
+#: pntemplates/content_edit_editpage.html:90
+msgid "Categories"
+msgstr "Categorieën"
+
+#: pntemplates/content_edit_editpage.html:92
+msgid "Primary category"
+msgstr "Hoofd categorie"
+
+#: pntemplates/content_edit_editpage.html:98
+msgid "Secondary categories"
+msgstr "Secundaire categorieën"
+
+#: pntemplates/content_edit_editpage.html:106
+#: pntemplates/content_edit_editcontent.html:19
+#: pntemplates/content_edit_editcontent.html:21
+msgid "Layout"
+msgstr "Opmaak"
+
+#: pntemplates/content_edit_editpage.html:108
+#: pntemplates/content_edit_editpage.html:110
+msgid "Page layout"
+msgstr "Pagina opmaak"
+
+#: pntemplates/content_edit_editpage.html:120
+#: pntemplates/content_edit_translatepage.html:29
+#: pntemplates/content_admin_settings.html:142
+#: pntemplates/content_edit_editcontent.html:41
+#: pntemplates/content_edit_translatecontent.html:24
+msgid "Save"
+msgstr "Opslaan"
+
+#: pntemplates/content_edit_editpage.html:123
+msgid "Save & View"
+msgstr "Opslaan & Tonen"
+
+#: pntemplates/content_include_pageinfo.html:12
+msgid "Edit-mode off"
+msgstr "Bewerk modus uit"
+
+#: pntemplates/content_include_pageinfo.html:14
+msgid "Edit-mode on"
+msgstr "Bewerk modus aan"
+
+#: pntemplates/content_include_pageinfo.html:20
+#: pntemplates/content_include_tocedit.html:23
+msgid "New sub-page"
+msgstr "Nieuwe sub-pagina"
+
+#: pntemplates/content_include_pageinfo.html:22
+#: pntemplates/content_user_list.html:1
+#: pntemplates/content_edit_history.html:6
+msgid "Page list"
+msgstr "Pagina lijst"
+
+#: pntemplates/content_include_pageinfo.html:25
+#, php-format
+msgid "Created by %1$s on %2$s"
+msgstr "Aangemaakt door %1$s op %2$s"
+
+#: pntemplates/content_include_pageinfo.html:26
+#, php-format
+msgid "Last updated by %1$s on %2$s"
+msgstr "Meest recent bijgewerkt door %1$s op %2$s"
+
+#: pntemplates/content_include_pageinfo.html:27
+msgid "Version"
+msgstr "Versie"
+
+#: pntemplates/content_include_pageinfo.html:27
+#: pntemplates/content_include_tocedit.html:38
+msgid "Language"
+msgstr "Taal"
+
+#: pntemplates/content_user_list.html:11
+#: pntemplates/content_user_extlist.html:16
+#: pntemplates/content_user_pagelist.html:12
+#: pntemplates/content_user_main.htm:18
+msgid "There are no pages to display."
+msgstr "Er zijn geen pagina's om weer te geven."
+
+#: pntemplates/content_edit_translatepage.html:3
+msgid ""
+"You can only translate the actual page data here. The content items must be "
+"translated one by one."
+msgstr ""
+"Het is hier alleen mogelijk om de echte pagina gegevens te veranderen. De "
+"inhoud items moeten één voor één vertaald worden."
+
+#: pntemplates/content_edit_translatepage.html:11
+#: pntemplates/content_edit_translatecontent.html:9
+msgid "Original content"
+msgstr "Originele inhoud"
+
+#: pntemplates/content_edit_translatepage.html:19
+#: pntemplates/content_edit_translatecontent.html:16
+msgid "Translated content"
+msgstr "Vertaalde inhoud"
+
+#: pntemplates/content_edit_translatepage.html:27
+#: pntemplates/content_edit_translatecontent.html:22
+msgid "Next"
+msgstr "Volgende"
+
+#: pntemplates/content_edit_translatepage.html:28
+#: pntemplates/content_edit_translatecontent.html:23
+msgid "Skip"
+msgstr "Overslaan"
+
+#: pntemplates/content_edit_translatepage.html:30
+msgid "Delete page translation AND all content translations"
+msgstr "Wissen pagina vertaling EN alle inhoud vertalingen"
+
+#: pntemplates/content_admin_main.html:1
+msgid "Module administration"
+msgstr "Module beheer"
+
+#: pntemplates/content_admin_main.html:14
+msgid ""
+"Welcome to your content administration. We have split the editing and "
+"administrative setup into separate systems. So please select from the list "
+"below or the menu above."
+msgstr ""
+"Welkom bij inhoud (content) beheer. Bewerken en instellingenbeheer is "
+"opgedeeld in aparte systemen. Kies daarom uit de lijst hieronder of het menu "
+"hierboven."
+
+#: pntemplates/content_admin_main.html:20
+msgid "Extended page list (showing page headers)"
+msgstr "Uitgebreide pagina lijst (met pagina koppen)"
+
+#: pntemplates/content_admin_main.html:21
+msgid "Complete page list (showing complete pages)"
+msgstr "Complete pagina lijst (toont complete pagina's)"
+
+#: pntemplates/content_admin_main.html:22
+msgid "Show content by category"
+msgstr "Toon inhoud ingedeeld naar categorie"
+
+#: pntemplates/content_include_tocedit.html:22
+msgid "New page"
+msgstr "Nieuwe pagina"
+
+#: pntemplates/content_include_tocedit.html:24
+msgid "Decrease indent"
+msgstr "Verminder inspringing"
+
+#: pntemplates/content_include_tocedit.html:25
+msgid "Increase indent"
+msgstr "Vergroot inspringing"
+
+#: pntemplates/content_include_tocedit.html:36
+msgid "Last updated"
+msgstr "Meest recent bijgewerkt"
+
+#: pntemplates/content_include_tocedit.html:37
+msgid "Created By"
+msgstr "Gemaakt door"
+
+#: pntemplates/content_include_tocedit.html:55
+msgid "Page online and in menu"
+msgstr "Pagina online en in menu"
+
+#: pntemplates/content_include_tocedit.html:57
+msgid "Page offline or not in menu"
+msgstr "Pagina offline en niet in menu"
+
+#: pntemplates/content_include_tocedit.html:70
+msgid "No page available."
+msgstr "Geen pagina beschikbaar."
+
+#: pntemplates/content_user_extlist.html:1
+msgid "Extended page list"
+msgstr "Uitgebreide pagina lijst"
+
+#: pntemplates/content_user_extlist.html:12
+msgid "more"
+msgstr "Meer"
+
+#: pntemplates/content_user_pagelist.html:1
+msgid "Complete page list"
+msgstr "Complete pagina lijst"
+
+#: pntemplates/content_user_pagelist.html:8
+msgid "View full page"
+msgstr "Toon volledige pagina"
+
+#: pntemplates/content_admin_settings.html:1
+msgid "Module settings"
+msgstr "Module instellingen"
+
+#: pntemplates/content_admin_settings.html:14
+msgid "This is where you configure various parts of the content module."
+msgstr ""
+"Hier zijn de verschilende delen van de Inhoud (Content) module in te stellen."
+
+#: pntemplates/content_admin_settings.html:26
+msgid "Short URL suffix"
+msgstr "Korte URL suffix"
+
+#: pntemplates/content_admin_settings.html:28
+msgid ""
+"File suffix of short URLs (including a dot - for instance \".html\"). This "
+"is only used if you enable short URLs in Zikula's admin section."
+msgstr ""
+"Bestands suffix of korte URL's (inclusief een punt - bijvoorbeeld \".html"
+"\"). Wordt alleen gebruikt als korte URL's in Zikula's beheer zijn "
+"ingeschakeld."
+
+#: pntemplates/content_admin_settings.html:31
+msgid "Google maps API key"
+msgstr "Google maps API key"
+
+#: pntemplates/content_admin_settings.html:36
+msgid "Flickr API key"
+msgstr "Flickr API key"
+
+#: pntemplates/content_admin_settings.html:41
+#: pntemplates/content_edit_editcontent.html:32
+msgid "Styling"
+msgstr "Styling"
+
+#: pntemplates/content_admin_settings.html:43
+msgid ""
+"A list of CSS class names available for styling of content elements. The end "
+"user can select one class for each element on a page - for instance \"note\" "
+"for an element styled as a note. Write one class name on each line. Please "
+"separate the CSS classes and displaynames with | - eg. \"note | Memo\"."
+msgstr ""
+"Een lijst van CSS class namen die beschikbaar zijn voor de styling van "
+"inhoud elementen. De eindgebruiker kan een class kiezen voor elk element op "
+"een pagina - bijvoorbeeld \"note\" voor een element gestyled als een "
+"notitie. Gebruik een class naam op elke regel. Onderscheid CSS classes en "
+"weergavenamen met | - voorbeeld \"note | Memo\"."
+
+#: pntemplates/content_admin_settings.html:46
+msgid "Enable version history"
+msgstr "Schakel versie geschiedenis in"
+
+#: pntemplates/content_admin_settings.html:52
+msgid "Module Dependencies"
+msgstr "Module afhankelijkheden"
+
+#: pntemplates/content_admin_settings.html:53
+msgid ""
+"Content includes an API that other modules can use to provide their content. "
+"Moreover some modules introduce extra functions to plugins delivered with "
+"Content."
+msgstr ""
+"Content heeft een API die gebruikt kan worden door andere modules om hun "
+"inhoud aan te leveren. Daarbij verzorgen enkele modules extra functies aan "
+"plugins die worden geleverd door Content."
+
+#: pntemplates/content_admin_settings.html:58
+#: pntemplates/content_admin_settings.html:72
+#: pntemplates/content_admin_settings.html:97
+#: pntemplates/content_admin_settings.html:120
+msgid "Installed"
+msgstr "Geïnstalleerd"
+
+#: pntemplates/content_admin_settings.html:59
+#: pntemplates/content_admin_settings.html:84
+#: pntemplates/content_admin_settings.html:110
+#: pntemplates/content_admin_settings.html:123
+msgid "Active"
+msgstr "Actief"
+
+#: pntemplates/content_admin_settings.html:60
+msgid "Module"
+msgstr "Module"
+
+#: pntemplates/content_admin_settings.html:61
+msgid "Plugin"
+msgstr "Plugin"
+
+#: pntemplates/content_admin_settings.html:62
+#: pntemplates/contenttype/googlemap_translate_original.html:2
+#: pntemplates/contenttype/quote_edit.html:12
+#: pntemplates/contenttype/googlemap_edit.html:36
+#: pntemplates/contenttype/quote_translate_new.html:11
+#: pntemplates/contenttype/googlemap_translate_new.html:2
+msgid "Description"
+msgstr "Beschrijving"
+
+#: pntemplates/content_admin_settings.html:70
+#: pntemplates/content_admin_settings.html:95
+msgid "Not installed"
+msgstr "Niet geïnstalleerd"
+
+#: pntemplates/content_admin_settings.html:79
+#: pntemplates/content_admin_settings.html:81
+#: pntemplates/content_admin_settings.html:104
+#: pntemplates/content_admin_settings.html:107
+#: pntemplates/content_admin_settings.html:125
+msgid "Inactive"
+msgstr "Niet actief"
+
+#: pntemplates/content_admin_settings.html:87
+msgid "Scribite"
+msgstr "Scribite"
+
+#: pntemplates/content_admin_settings.html:88
+msgid "WYSIWYG"
+msgstr "WYSIWYG"
+
+#: pntemplates/content_admin_settings.html:89
+msgid ""
+"Scribite integrated WYSIWYG JavaScript editors like Xinha, TinyMCE, "
+"FCKeditor, openWYSIWYG or NicEdit into Zikula.<br /><a href=\"http://code."
+"zikula.org/scribite\">Download</a>"
+msgstr ""
+"Scribite integreert WYSIWYG JavaScript editors zoals Xinha, TinyMCE, "
+"FCKeditor, openWYSIWYG or NicEdit in Zikula.<br /><a href=\"http://code."
+"zikula.org/scribite\">Download</a>"
+
+#: pntemplates/content_admin_settings.html:113
+msgid "BBCode"
+msgstr "BBCode"
+
+#: pntemplates/content_admin_settings.html:114
+msgid "Buttons"
+msgstr "Knoppen"
+
+#: pntemplates/content_admin_settings.html:115
+msgid ""
+"BBCode is an abbreviation for Bulletin Board Code, the lightweight markup "
+"language used to format posts in many message boards. (<a href=\"http://en."
+"wikipedia.org/wiki/Bbcode\">Wikipedia</a>)<br /><a href=\"http://code.zikula."
+"org/bbcode\">Download</a>"
+msgstr ""
+"BBCode is een afkorting voor Bulletin Board Code, een lichtgewicht markup "
+"taal die gebruikt wordt om berichten in vele message boards te plaatsen. (<a "
+"href=\"http://en.wikipedia.org/wiki/Bbcode\">Wikipedia</a>)<br /><a href="
+"\"http://code.zikula.org/bbcode\">Download</a>"
+
+#: pntemplates/content_edit_main.html:18
+msgid ""
+"This is where you manage all your pages. You can add/edit/delete pages as "
+"well as drag them around to get the content structure right."
+msgstr ""
+"Hier worden alle pagina's beheerd. Hier kunnen pagina's toegevoegd/ bewerkt/"
+"gewist en ook versleept worden om de inhoud structuur goed in te stellen."
+
+#: pntemplates/content_edit_main.html:23
+msgid ""
+"To drag and drop a page you must select the icon left of the title and drop "
+"it on the title of another page."
+msgstr ""
+"Om een pagina te verslepen moet het icoon links van de titel worden "
+"geselecteerd en op de titel van een andere pagina worden los gelaten."
+
+#: pntemplates/contenttype/block_edit.html:4
+msgid "Please enter the Block-ID"
+msgstr "Geef het Blok-ID"
+
+#: pntemplates/contenttype/vimeo_view.html:22
+#: pntemplates/contenttype/youtube_view.html:22
+msgid "Play Video"
+msgstr "Video afspelen"
+
+#: pntemplates/contenttype/directory_edit.html:2
+msgid "Page ID"
+msgstr "Pagina ID"
+
+#: pntemplates/contenttype/directory_edit.html:7
+msgid "Include headings into table"
+msgstr "Voeg koppen toe aan tabel"
+
+#: pntemplates/contenttype/directory_edit.html:12
+msgid "Include subpages into table"
+msgstr "Voeg subpagina's toe aan tabel"
+
+#: pntemplates/contenttype/heading_edit.html:9
+msgid "Header size"
+msgstr "Kop grootte"
+
+#: pntemplates/contenttype/heading_edit.html:12
+msgid "<h2>"
+msgstr "<h2>"
+
+#: pntemplates/contenttype/heading_edit.html:15
+msgid "<h3>"
+msgstr "<h3>"
+
+#: pntemplates/contenttype/heading_edit.html:18
+msgid "<h4>"
+msgstr "<h4>"
+
+#: pntemplates/contenttype/quote_edit.html:2
+#: pntemplates/contenttype/html_edit.html:3
+#: pntemplates/contenttype/html_translate_new.html:2
+msgid "Text"
+msgstr "Tekst"
+
+#: pntemplates/contenttype/quote_edit.html:7
+#: pntemplates/contenttype/quote_translate_new.html:6
+msgid "Source"
+msgstr "Bron"
+
+#: pntemplates/contenttype/rss_edit.html:3
+msgid "URL of RSS feed (include http://)"
+msgstr "URL van de RSS feed (inclusief http://)"
+
+#: pntemplates/contenttype/rss_edit.html:8
+msgid "Include feed text in addition to the title"
+msgstr "Feed tekst samen met de titel invoegen "
+
+#: pntemplates/contenttype/rss_edit.html:13
+msgid "Refresh time (in minutes)"
+msgstr "Ververs tijd (in minuten)"
+
+#: pntemplates/contenttype/rss_edit.html:18
+msgid "Max. no. of items to display"
+msgstr "Max. aantal weer te geven items"
+
+#: pntemplates/contenttype/vimeo_translate_new.html:2
+#: pntemplates/contenttype/youtube_edit.html:9
+#: pntemplates/contenttype/vimeo_edit.html:9
+#: pntemplates/contenttype/youtube_translate_new.html:2
+#: pntemplates/contenttype/youtube_translate_original.html:7
+#: pntemplates/contenttype/vimeo_translate_original.html:7
+msgid "Video description"
+msgstr "Video omschrijving"
+
+#: pntemplates/contenttype/html_edit.html:13
+msgid "HTML"
+msgstr "HTML"
+
+#: pntemplates/contenttype/html_edit.html:16
+msgid "Formatted text"
+msgstr "Opgemaakte tekst"
+
+#: pntemplates/contenttype/html_edit.html:18
+msgid "Unformatted text"
+msgstr "Platte tekst"
+
+#: pntemplates/contenttype/youtube_edit.html:3
+#: pntemplates/contenttype/vimeo_edit.html:3
+#: pntemplates/contenttype/youtube_translate_original.html:2
+#: pntemplates/contenttype/vimeo_translate_original.html:2
+msgid "URL to the video clip"
+msgstr "URL van de video clip"
+
+#: pntemplates/contenttype/youtube_edit.html:5
+msgid ""
+"Something like \"http://www.youtube.com/watch?v=ABcDEFgHij&feature=dir\"."
+msgstr "Zoiets als \"http://www.youtube.com/watch?v=ABcDEFgHij&feature=dir\"."
+
+#: pntemplates/contenttype/youtube_edit.html:16
+#: pntemplates/contenttype/vimeo_edit.html:16
+msgid "Show video inline"
+msgstr "Toon video ingebed"
+
+#: pntemplates/contenttype/youtube_edit.html:19
+#: pntemplates/contenttype/vimeo_edit.html:19
+msgid "Show video in popup window"
+msgstr "Toon video in een popup"
+
+#: pntemplates/contenttype/author_view.html:5
+msgid "By"
+msgstr "Door"
+
+#: pntemplates/contenttype/flickr_edit.html:4
+msgid ""
+"No Flickr API key available! You must specify a Flickr API key to use this "
+"feature. You can get a key from <a href=\"http://www.flickr.com/api\">flickr."
+"com</a>."
+msgstr ""
+"Geen Flickr API key beschikbaar! Er moet een Flickr API key opgegeven worden "
+"om deze mogelijkheid te gebruiken. Het is mogelijk er een te verkrijgen op "
+"<a href=\"http://www.flickr.com/api\">flickr.com</a>."
+
+#: pntemplates/contenttype/flickr_edit.html:8
+msgid "Display photos from this user"
+msgstr "Toon foto's van deze gebruiker"
+
+#: pntemplates/contenttype/flickr_edit.html:13
+msgid "Display photos tagged with these tags (comma separated)"
+msgstr "Toon foto's met deze tags (kommagescheiden)"
+
+#: pntemplates/contenttype/flickr_edit.html:18
+msgid "Number of photos to show"
+msgstr "Aantal foto's om te tonen"
+
+#: pntemplates/contenttype/googlemap_edit.html:14
+msgid ""
+"Select geographic position either by point and click or writing the position "
+"directly. You can drag the map with your mouse, and double-click to zoom and "
+"select position."
+msgstr ""
+"Kies de geografische positie door aanwijzen en klikken of door de positie "
+"direct in te vullen. De kaart kan versleept worden met de muis, "
+"dubbelklikken om te vergroten en de positie te kiezen."
+
+#: pntemplates/contenttype/googlemap_edit.html:17
+msgid ""
+"No Google API key available! You must specify a Google maps API key to use "
+"this feature. Get a key from <a href="
+msgstr ""
+"Geen Google API key beschikbaar! Er moet een Google maps API key opgeven "
+"worden in deze mogelijkheid te kunnen gebruiken. Een key is verkrijgbaar op "
+"<a href=\"http://www.google.com/apis/maps/signup.html\">google.com</a>."
+
+#: pntemplates/contenttype/googlemap_edit.html:21
+msgid "Longitude"
+msgstr "Lengtegraad"
+
+#: pntemplates/contenttype/googlemap_edit.html:26
+msgid "Latitude"
+msgstr "Breedtegraad"
+
+#: pntemplates/contenttype/googlemap_edit.html:31
+msgid "Zoom level"
+msgstr "Vergroting"
+
+#: pntemplates/contenttype/pagesetter_pub_edit.html:2
+#: pntemplates/contenttype/pagesetter_publist_edit.html:2
+msgid "Publication type"
+msgstr "Publicatie type"
+
+#: pntemplates/contenttype/pagesetter_pub_edit.html:7
+msgid "Publication PID"
+msgstr "Publicatie PID"
+
+#: pntemplates/contenttype/pagesetter_pub_edit.html:12
+msgid "Template format for displaying the publication"
+msgstr "Template indeling voor het weergeven van de publicatie"
+
+#: pntemplates/contenttype/modulefunc_edit.html:2
+msgid ""
+"Use this feature carefully! Some modules do not work when displayed together "
+"with other modules. DO NOT create circular module references, e.g., adding a "
+"Content page that displays itself ..."
+msgstr ""
+"Gebruik deze mogelijkheid voorzichtig! Sommige modules werken niet wanneer "
+"ze samen met andere modules getoond worden. Maak GEEN module referenties als "
+"lus, door bijvoorbeeld een Inhoud pagina te maken die zichzelf bevat..."
+
+#: pntemplates/contenttype/modulefunc_edit.html:4
+msgid "Module name"
+msgstr "Module naam"
+
+#: pntemplates/contenttype/modulefunc_edit.html:9
+msgid "Function type"
+msgstr "Functie type"
+
+#: pntemplates/contenttype/modulefunc_edit.html:14
+msgid "Function name"
+msgstr "Functie naam"
+
+#: pntemplates/contenttype/modulefunc_edit.html:19
+msgid "Function parameters"
+msgstr "Functie parameters"
+
+#: pntemplates/contenttype/modulefunc_edit.html:21
+msgid "Separate by commas, e.g., x=5,y=2"
+msgstr "Gescheiden door komma's, bijvoorbeeld x=5,y=2"
+
+#: pntemplates/contenttype/vimeo_edit.html:5
+msgid "Something like \"http://vimeo.com/7504225\"."
+msgstr "Zoiets als \"http://vimeo.com/7504225\"."
+
+#: pntemplates/contenttype/computercode_edit.html:3
+msgid "Computer code lines"
+msgstr "Computer code regels"
+
+#: pntemplates/contenttype/computercode_edit.html:9
+msgid ""
+"If you register the module BBCode as a hook for Content then you can get "
+"your computer code better formatted."
+msgstr ""
+"Als de module BBCode als hook voor de module Content (inhoud) wordt "
+"geregistreerd, dan kan de computer code beter opgemaakt worden."
+
+#: pntemplates/contenttype/pagesetter_publist_edit.html:7
+msgid "Number of publications (leave empty for default)"
+msgstr "Aantal publicaties (leeglaten voor de standaard)"
+
+#: pntemplates/contenttype/pagesetter_publist_edit.html:12
+msgid "First publication number to show (leave empty for first in list)"
+msgstr ""
+"Eerste publicatienummer om te tonen (leeglaten voor de eerste in de lijst)"
+
+#: pntemplates/contenttype/pagesetter_publist_edit.html:17
+msgid ""
+"List filter as used in URL, separated by \"&\", but without \"filter=\" (e."
+"g. \"country:eq:DK\")"
+msgstr ""
+"Geef het filter zoals gebruikt in de URL, gescheiden door \"&\", maar zonder "
+"\"filter=\" (bijv. \"country:eq:DK\")"
+
+#: pntemplates/contenttype/pagesetter_publist_edit.html:22
+msgid ""
+"Orderby clause as used in URL. Should be a comma separated list of field "
+"names without \"orderby=\" (e.g. \"core.lastUpdated:desc,title\")"
+msgstr ""
+"Orderby waarde zoals gebruikt in de URL. Moet een kommagescheiden lijst van "
+"veldnamen zijn zonder \"orderby=\" (bijv. \"core.lastUpdated:desc,title\")"
+
+#: pntemplates/contenttype/pagesetter_publist_edit.html:27
+msgid "Template format for displaying list items"
+msgstr "Template indeling voor het weergeven van lijst"
+
+#: pntemplates/contenttype/slideshare_edit.html:3
+msgid "Slideshare's Wordpress code"
+msgstr "Wordpress code van Slideshare"
+
+#: pntemplates/contenttype/slideshare_edit.html:5
+msgid ""
+"Copy Slideshare's Wordpress embed code here (including brackets and all)"
+msgstr "Kopieer de Slideshare Wordpress embed code hier (met haakjes en al)"
+
+#: pntemplates/contenttype/slideshare_edit.html:9
+msgid "Slide description"
+msgstr "Dia beschrijving"
+
+#: pntemplates/contenttype/author_edit.html:10
+msgid "Author"
+msgstr "Auteur"
+
+#: pntemplates/content_edit_editcontent.html:14
+#: pntemplates/content_include_contentedit.html:10
+msgid "ID"
+msgstr "ID"
+
+#: pntemplates/content_edit_editcontent.html:22
+msgid "Positioning works only with fixed width!"
+msgstr "Positioneren werkt alleen met een vaste breedte!"
+
+#: pntemplates/content_edit_editcontent.html:24
+msgid "Position"
+msgstr "Positie"
+
+#: pntemplates/content_edit_editcontent.html:28
+msgid "Width"
+msgstr "Breedte"
+
+#: pntemplates/content_block_menu_modify.html:2
+msgid "Include the following subpages"
+msgstr "Inclusief de volgende subpagina's"
+
+#: pntemplates/content_edit_translatecontent.html:21
+msgid "Previous"
+msgstr "Vorige"
+
+#: pntemplates/content_edit_translatecontent.html:30
+msgid "Error! There is nothing to translate for this content type."
+msgstr "Foutmelding! Er is niets te vertalen voor dit  inhoudstype."
+
+#: pntemplates/content_edit_translatecontent.html:33
+msgid "Back"
+msgstr "Terug"
+
+#: pntemplates/content_user_main.htm:1
+msgid "Contents"
+msgstr "Inhoud"
+
+#: pntemplates/content_user_main.htm:4
+#, php-format
+msgid "Welcome to the contents for %s"
+msgstr "Welkom bij de inhoud van %s"
+
+#: pntemplates/content_user_main.htm:7
+msgid "The available sections are as follows:"
+msgstr "De beschikbare secties zijn als volgt:"
+
+#: pntemplates/content_edit_newcontent.html:11
+msgid "Please select the type of content you want to add to your page."
+msgstr "Kies het soort inhoud om aan de pagina toe te voegen."
+
+#: pntemplates/content_edit_newcontent.html:14
+msgid "Select content type"
+msgstr "Gekozen inhoudstype"
+
+#: pntemplates/content_user_subpages.html:1
+#, php-format
+msgid "Subpages of %s"
+msgstr "Subpagina's van %s"
+
+#: pntemplates/content_user_subpages.html:6
+msgid "No subpages available"
+msgstr "Geen subpagina's beschikbaar"
+
+#: pntemplates/content_edit_history.html:5
+msgid "Back to page"
+msgstr "Terug naar pagina"
+
+#: pntemplates/content_edit_history.html:12
+msgid ""
+"Version history is currently disabled and no new entries will be recorded."
+msgstr "Versie geschiedenis is uitgeschakeld en zal niet worden bijgehouden"
+
+#: pntemplates/content_edit_history.html:20
+msgid "#"
+msgstr "#"
+
+#: pntemplates/content_edit_history.html:21
+msgid "Date"
+msgstr "Datum"
+
+#: pntemplates/content_edit_history.html:22
+msgid "Event"
+msgstr "Gebeurtenis"
+
+#: pntemplates/content_edit_history.html:23
+msgid "User"
+msgstr "Gebruiker"
+
+#: pntemplates/content_edit_history.html:24
+msgid "IP.No."
+msgstr "IP.Nr."
+
+#: pntemplates/content_edit_history.html:25
+msgid "Action"
+msgstr "Actie"
+
+#: pntemplates/content_edit_history.html:36
+msgid "Restore"
+msgstr "Herstel"
+
+#: pntemplates/content_edit_history.html:39
+msgid "No history data recorded."
+msgstr "Geen geschiedenis data opgeslagen."

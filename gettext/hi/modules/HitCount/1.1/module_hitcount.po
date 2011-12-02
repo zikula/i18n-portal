@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-11 08:15+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.4.0\n"
+
+#: pnversion.php:15
+msgid "Hit counter"
+msgstr ""
+
+#. ! module url in lowercase and different to displayname
+#: pnversion.php:17
+msgid "hitcount"
+msgstr ""
+
+#: pnversion.php:18
+msgid "Count displays of module items."
+msgstr ""
+
+#: pnuserapi.php:92 pnuserapi.php:133
+msgid "Error! Could not load items."
+msgstr ""
+
+#: pnadminapi.php:57 pnadminapi.php:184
+msgid "Error! Creation attempt failed."
+msgstr ""
+
+#: pnadminapi.php:105 pnadminapi.php:221
+msgid "Error! Sorry! Deletion attempt failed."
+msgstr ""
+
+#: pninit.php:28 pninit.php:32 pninit.php:36 pninit.php:42
+msgid "Error! Failed to register hook."
+msgstr ""
+
+#: pninit.php:69 pninit.php:72 pninit.php:75 pninit.php:78
+msgid "Error! Could not deregister hook."
+msgstr ""
+
+#: pntemplates/hitcount_user_menu.htm:3
+msgid "Hit Counter"
+msgstr ""
+
+#: pntemplates/hitcount_user_main.htm:3
+msgid "Modules we're currently counting display hits for"
+msgstr ""
+
+#: pntemplates/hitcount_user_main.htm:8
+msgid "items"
+msgstr ""
+
+#: pntemplates/hitcount_user_main.htm:10
+msgid "hits"
+msgstr ""

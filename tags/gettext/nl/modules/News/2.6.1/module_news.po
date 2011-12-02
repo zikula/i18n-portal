@@ -1,0 +1,2246 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Dutch translation for News 2.6.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-14 11:37+0000\n"
+"PO-Revision-Date: 2010-08-15 21:52+0200\n"
+"Last-Translator: Arjen <teb@zikula.nl>\n"
+"Language-Team: Dutch Zikula Community\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnadmin.php:84 pnadmin.php:241 pnadmin.php:441 pnajax.php:33 pnajax.php:123
+#: pnajax.php:238 pnajax.php:366 pnajax.php:429 pnuser.php:653 pnuser.php:995
+#: pnadminapi.php:35 pnadminapi.php:110
+msgid "Error! No such article found."
+msgstr "Foutmelding! Artikel niet gevonden."
+
+#: pnadmin.php:147 pnadmin.php:529 pnadmin.php:783 pnadmin.php:900
+#: pnajax.php:68 pnuserapi.php:300 pnblocks/slideshow.php:77
+#: pnblocks/slideshow.php:149 pnblocks/stories.php:93 pnblocks/stories.php:166
+#: pnblocks/storiesext.php:224 pnblocks/storiesext.php:524
+#: pncontenttypesapi/newsarticles.php:360 pnuser.php:102 pnuser.php:436
+#: pnuser.php:714 pnuser.php:893
+#, php-format
+msgid "Error! Could not load [%s] class."
+msgstr "Foutmelding! Class [%s] kon niet geladen worden."
+
+#: pnadmin.php:252 pnuser.php:234
+msgid "title"
+msgstr "Titel"
+
+#: pnadmin.php:252 pnuser.php:234
+#, php-format
+msgid "Error! You did not enter a %s."
+msgstr "Foutmelding! %s is niet ingevoerd."
+
+#: pnadmin.php:256 pnuser.php:238
+msgid "article content"
+msgstr "artikel inhoud"
+
+#: pnadmin.php:256 pnuser.php:238
+#, php-format
+msgid "Error! You did not enter the minimum necessary %s."
+msgstr "Foutmelding! De minimaal benodigde %s zijn niet ingevoerd."
+
+#: pnadmin.php:369 pnuser.php:274
+#, php-format
+msgid ""
+"Warning! Picture %s is not uploaded, since the file extension is now allowed "
+"(only %s is allowed)."
+msgstr ""
+"Let op: Uploaden van foto %s is niet gelukt, omdat de bestandsextensie niet "
+"toegestaan is (alleen %s is toegestaan)."
+
+#: pnadmin.php:372 pnadmin.php:375 pnuser.php:279 pnuser.php:282
+#, php-format
+msgid ""
+"Warning! Picture %s is not uploaded, since the filesize was too large (max. "
+"%s kB)."
+msgstr ""
+"Let op: Uploaden van foto %s is niet gelukt, omdat de bestandsgrootte te "
+"groot is (max. %s kB)."
+
+#: pnadmin.php:377
+#, php-format
+msgid ""
+"Warning! Picture %1$s gave an error (code %2$s, explained on this page: "
+"%4$s) during uploading."
+msgstr ""
+"Let op: Uploaden van foto %1$s gaf een foutmelding (code %2$s, uitgelegd op "
+"deze pagina: %4$s) tijdens het uploaden."
+
+#: pnadmin.php:406 pnajax.php:311
+msgid "Done! Saved your changes."
+msgstr "Klaar! Wijzigingen opgeslagen."
+
+#: pnadmin.php:472 pnajax.php:321
+msgid "Done! Deleted article."
+msgstr "Klaar! Artikel verwijderd."
+
+#: pnadmin.php:505
+msgid "Done! Purged permalinks."
+msgstr "Klaar! Permalinks opgeschoond."
+
+#: pnadmin.php:507
+msgid "Error! Could not purge permalinks."
+msgstr "Foutmelding! Permalinks opschonen mislukt."
+
+#: pnadmin.php:584 pnadmin.php:754 pntemplates/news_admin_view.htm:24
+#: pntemplates/news_block_storiesext_modify.htm:22
+msgid "All"
+msgstr "Alle"
+
+#: pnadmin.php:585 pnadmin.php:702
+#: pntemplates/plugins/modifier.news_getstatustext.php:32
+#: pncontenttypesapi/newsarticles.php:375
+#: pntemplates/news_block_storiesext_modify.htm:36
+msgid "Published"
+msgstr "Gepubliceerd"
+
+#: pnadmin.php:586 pnadmin.php:748
+#: pntemplates/plugins/modifier.news_getstatustext.php:36
+#: pncontenttypesapi/newsarticles.php:376
+msgid "Rejected"
+msgstr "Afgewezen"
+
+#: pnadmin.php:587 pnadmin.php:721
+#: pntemplates/plugins/modifier.news_getstatustext.php:40
+#: pncontenttypesapi/newsarticles.php:377 pntemplates/news_admin_view.htm:100
+msgid "Pending Review"
+msgstr "Wachtend op review"
+
+#: pnadmin.php:588 pnadmin.php:739
+#: pntemplates/plugins/modifier.news_getstatustext.php:44
+#: pncontenttypesapi/newsarticles.php:378
+#: pntemplates/news_block_storiesext_modify.htm:37
+msgid "Archived"
+msgstr "Gearchiveerd"
+
+#: pnadmin.php:589 pnadmin.php:730
+#: pntemplates/plugins/modifier.news_getstatustext.php:48
+#: pntemplates/news_admin_view.htm:101
+#: pntemplates/news_block_storiesext_modify.htm:38
+msgid "Draft"
+msgstr "Concept"
+
+#: pnadmin.php:590 pnadmin.php:712
+msgid "Scheduled"
+msgstr "Ingepland"
+
+#: pnadmin.php:614 pnadmin.php:618
+msgid "View"
+msgstr "Bekijken"
+
+#: pnadmin.php:625
+msgid "Review"
+msgstr "Review"
+
+#: pnadmin.php:629 pntemplates/plugins/function.articleadminlinks.php:78
+#: pntemplates/plugins/function.articleadminlinks.php:80
+#: pntemplates/news_user_categorylist.htm:47
+#: pntemplates/news_user_categorylist.htm:90 pntemplates/news_admin_new.htm:83
+msgid "Edit"
+msgstr "Bewerken"
+
+#: pnadmin.php:637 pntemplates/plugins/function.articleadminlinks.php:82
+#: pntemplates/news_admin_new.htm:273 pntemplates/news_admin_new.htm:293
+#: pntemplates/news_user_new.htm:257 pntemplates/news_user_new.htm:277
+#: pntemplates/news_admin_modify.htm:266 pntemplates/news_admin_modify.htm:286
+#: pntemplates/news_admin_modify.htm:343 pntemplates/news_ajax_modify.htm:214
+#: pntemplates/news_ajax_modify.htm:234 pntemplates/news_ajax_modify.htm:254
+#: pntemplates/news_admin_delete.htm:17
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: pnadmin.php:645
+msgid "Unknown"
+msgstr "Onbekend"
+
+#: pnadmin.php:649 pntemplates/news_block_storiesext_modify.htm:122
+#: pntemplates/news_block_storiesext_modify.htm:145
+#: pntemplates/news_admin_modifyconfig.htm:68
+msgid "Yes"
+msgstr "Ja"
+
+#: pnadmin.php:651 pntemplates/news_block_storiesext_modify.htm:123
+#: pntemplates/news_block_storiesext_modify.htm:146
+#: pntemplates/news_admin_modifyconfig.htm:69
+msgid "No"
+msgstr "Nee"
+
+#: pnadmin.php:673 pntemplates/news_admin_modifyconfig.htm:53
+msgid "Article date/time"
+msgstr "Artikel datum/tijd"
+
+#: pnadmin.php:674 pntemplates/news_admin_new.htm:232
+#: pntemplates/news_admin_modifyconfig.htm:52
+#: pntemplates/news_admin_modifyconfig.htm:261
+msgid "Article ID"
+msgstr "Artikel ID"
+
+#: pnadmin.php:675 pncontenttypesapi/newsarticles.php:385
+#: pntemplates/news_block_storiesext_modify.htm:46
+#: pntemplates/news_admin_new.htm:197 pntemplates/news_user_new.htm:187
+#: pntemplates/news_admin_modify.htm:195 pntemplates/news_ajax_modify.htm:143
+#: pntemplates/news_admin_modifyconfig.htm:54
+msgid "Article weight"
+msgstr "Artikel gewicht"
+
+#: pnadmin.php:887
+#, php-format
+msgid ""
+"Warning! The image upload directory at [%s] already exists. Make sure that "
+"this folder is accessible via the web and writable by the webserver."
+msgstr ""
+"Let op: De image upload directory [%s] bestaat al. Zorg ervoor dat deze "
+"directory toegankelijk is vanuit het web en beschrijfbaar voor de webserver."
+
+#: pnadmin.php:891
+#, php-format
+msgid ""
+"News publisher created the image upload directory successfully at [%s]. Make "
+"sure that this folder is accessible via the web and writable by the "
+"webserver."
+msgstr ""
+"Nieuws heeft de image upload folder [%s} succesvol aangemaakt. Zorg ervoor "
+"dat deze folder toegankelijk is vanuit het web en schrijfbaar voor de "
+"webserver."
+
+#: pnadmin.php:893
+#, php-format
+msgid ""
+"Warning! News publisher could not create the specified image upload "
+"directory [%s]. Try to create it yourself and make sure that this folder is "
+"accessible via the web and writable by the webserver."
+msgstr ""
+"Let op: De image upload directory [%s] kon niet aangemaakt worden door de "
+"Nieuws module. Zorg ervoor dat deze directory handmatig aangemaakt wordt, "
+"toegankelijk is vanuit het web en beschrijfbaar voor de webserver."
+
+#: pnadmin.php:919
+msgid "Done! Saved module settings."
+msgstr "Klaar! Module instellingen opgeslagen."
+
+#: pnajax.php:38 pnajax.php:299 pnajax.php:370
+msgid "Sorry! You do not have authorisation for this page."
+msgstr "Sorry! U heeft geen toegangsrechten voor deze pagina."
+
+#: pnajax.php:127
+msgid ""
+"Sorry! Invalid authorisation key ('authkey'). This is probably either "
+"because you pressed the 'Back' button to return to a page which does not "
+"allow that, or else because the page's authorisation key expired due to "
+"prolonged inactivity. Please refresh the page and try again."
+msgstr ""
+"Fout! Ongeldige authorisatiesleutel ('authkey'). Mogelijke oorzaken hiervoor "
+"zijn het gebruik van de 'Terug' knop in de browser (waar het formulier dat "
+"niet ondersteund), of het verlopen van deze authorisatie sleutel door "
+"bijvoorbeeld te lange inactiviteit en openen van nieuwe browser vensters. "
+"Vernieuw de pagina en probeer het opnieuw."
+
+#: pnajax.php:292 pnajax.php:306 pnajax.php:393 pnajax.php:444
+#: pnuserapi.php:942 pnadminapi.php:169
+msgid "Error! Could not save your changes."
+msgstr "Foutmelding! Wijzigingen konden niet worden opgeslagen."
+
+#: pnajax.php:323 pnadminapi.php:44
+msgid "Error! Could not delete article."
+msgstr "Foutmelding! Artikel kon niet verwijderd worden."
+
+#: pnajax.php:395
+#, php-format
+msgid "Draft updated at %s"
+msgstr "Concept bijgewerkt op %s"
+
+#: pnajax.php:432
+#, php-format
+msgid "Draft saved at %s"
+msgstr "Concept opgeslagen op %s"
+
+#: pnajax.php:492
+#, php-format
+msgid "Specified folder [%s] does exist and is writable."
+msgstr "De opgegeven directory [%s] bestaat en is beschrijfbaar."
+
+#: pnajax.php:494
+#, php-format
+msgid ""
+"Specified folder [%s] does exist, but is not writable. Make sure that this "
+"folder is accessible via the web and writable by the webserver."
+msgstr ""
+"De opgegeven directory [%s] bestaat wel, maar is niet beschrijfbaar. Zorg "
+"ervoor dat deze directory toegankelijk is vanuit het web en beschrijfbaar "
+"voor de webserver."
+
+#: pnajax.php:497
+#, php-format
+msgid ""
+"Specified folder [%s] does not exist yet. News pubisher will create this "
+"folder if you check the field below."
+msgstr ""
+"De opgegeven directory [%s] bestaat nog niet. De Nieuws module zal trachten "
+"deze aan te maken als het veld hieronder aangevinkt wordt."
+
+#: pnajax.php:500
+msgid ""
+"Specified folder is an empty string, please fill in a folder (e.g. images/"
+"news_picupload)."
+msgstr ""
+"Er is geen upload directory opgegeven, geef aub een directory op "
+"(bijvoorbeeld images/news_picupload)."
+
+#: pnmailzapi.php:29
+msgid "News publisher articles list"
+msgstr "Nieuws artikelen lijst"
+
+#: pnmailzapi.php:30
+msgid ""
+"Show a list of News publisher articles published since the last newsletter."
+msgstr ""
+"Lijst tonen van Nieuws artikelen gepubliceerd sinds de laatste nieuwsbrief"
+
+#: pnmailzapi.php:66 pntemplates/news_user_articlepdf.htm:3
+#: pntemplates/news_user_article.htm:33 pntemplates/news_user_index.htm:5
+#: pntemplates/news_user_archives.htm:71 pntemplates/news_admin_modify.htm:300
+#: pntemplates/news_admin_modify.htm:302
+#: pntemplates/news_mailz_listarticles.htm:5
+#: pntemplates/news_mailz_listarticles.htm:7
+#: pntemplates/news_user_articlecontent.htm:24
+#, php-format
+msgid "by %1$s on %2$s"
+msgstr "door %1$s op %2$s"
+
+#: pnmailzapi.php:75
+#, php-format
+msgid "No News publisher articles since last newsletter on %s."
+msgstr "Geen Nieuws artikelen sinds laatste nieuwsbrief op %s."
+
+#: pnversion.php:20 pninit.php:518 pntemplates/news_admin_menu.htm:5
+msgid "News publisher"
+msgstr "Nieuws"
+
+#: pnversion.php:21 pninit.php:519
+msgid ""
+"Provides the ability to publish and manage news articles contributed by site "
+"users, with support for news categories and various associated blocks."
+msgstr ""
+"Biedt de mogelijkheid om door gebruikers ingestuurde nieuws artikelen te "
+"publiceren en te beheren, waarbij nieuws categorieën zijn ondersteund en er "
+"verscheidene blokken beschikbaar zijn."
+
+#. ! this defines the module's url
+#: pnversion.php:24
+msgid "news"
+msgstr "nieuws"
+
+#: pntemplates/plugins/modifier.news_getstatustext.php:27
+msgid "Unknown status"
+msgstr "Onbekende status"
+
+#: pntemplates/plugins/block.browserhack.php:34
+msgid "browserhack block: condition param is required, non specified."
+msgstr ""
+"browserhack blok: een conditie parameters is vereist, maar niet "
+"gespecificeerd."
+
+#: pntemplates/plugins/modifier.dateformatHuman.php:53
+#, php-format
+msgid "%s day ago"
+msgid_plural "%s days ago"
+msgstr[0] "%s dag geleden"
+msgstr[1] "%s dagen geleden"
+
+#: pntemplates/plugins/modifier.dateformatHuman.php:55
+msgid "yesterday"
+msgstr "gisteren"
+
+#: pntemplates/plugins/modifier.dateformatHuman.php:63
+msgid "tomorrow"
+msgstr "morgen"
+
+#: pntemplates/plugins/modifier.dateformatHuman.php:65
+#, php-format
+msgid "%s day from now"
+msgid_plural "%s days from now"
+msgstr[0] "%s dag van nu"
+msgstr[1] "%s dagen van nu"
+
+#: pntemplates/plugins/modifier.dateformatHuman.php:70
+#, php-format
+msgid "%s hour ago"
+msgid_plural "%s hours ago"
+msgstr[0] "%s uur geleden"
+msgstr[1] "%s uur geleden"
+
+#: pntemplates/plugins/modifier.dateformatHuman.php:72
+#, php-format
+msgid "%s hour from now"
+msgid_plural "%s hours from now"
+msgstr[0] "over %s uur"
+msgstr[1] "over %s uur"
+
+#: pntemplates/plugins/modifier.dateformatHuman.php:76
+#, php-format
+msgid "%s minute ago"
+msgid_plural "%s minutes ago"
+msgstr[0] "%s minuut geleden"
+msgstr[1] "%s minuten geleden"
+
+#: pntemplates/plugins/modifier.dateformatHuman.php:78
+#, php-format
+msgid "%s minute from now"
+msgid_plural "%s minutes from now"
+msgstr[0] "over %s minuut"
+msgstr[1] "over %s minuten"
+
+#: pntemplates/plugins/modifier.dateformatHuman.php:82
+#, php-format
+msgid "%s second ago"
+msgid_plural "%s seconds ago"
+msgstr[0] "%s seconde geleden"
+msgstr[1] "%s seconden geleden"
+
+#: pntemplates/plugins/modifier.dateformatHuman.php:84
+#, php-format
+msgid "%s second from now"
+msgid_plural "%s seconds from now"
+msgstr[0] "over %s seconde"
+msgstr[1] "over %s seconden"
+
+#: pnsearchapi.php:94 pnuserapi.php:213
+msgid "Error! Could not load any articles."
+msgstr "Foutmelding! Geen artikelen kunnen laden."
+
+#: pnuserapi.php:255
+msgid "Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec"
+msgstr "Jan Feb Mrt Apr Mei Jun Jul Aug Sep Okt Nov Dec"
+
+#: pnuserapi.php:733 pncontenttypesapi/newsarticles.php:333
+msgid "Read more..."
+msgstr "Lees verder..."
+
+#: pnuserapi.php:736
+#, php-format
+msgid "%s bytes more"
+msgstr "%s bytes meer"
+
+#: pnuserapi.php:742
+msgid "Print"
+msgstr "Printen"
+
+#: pnuserapi.php:742 pnuserapi.php:743
+msgid "Printer-friendly page"
+msgstr "Printervriendelijke pagina"
+
+#: pnuserapi.php:755
+msgid "Comments?"
+msgstr "Reageren?"
+
+#: pnuserapi.php:757 pntemplates/contenttype/newsarticles_view.html:24
+#: pntemplates/news_block_storiesext_row.htm:11
+#, php-format
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s reactie"
+msgstr[1] "%s reacties"
+
+#: pnuserapi.php:762
+#, php-format
+msgid "%1$s about %2$s"
+msgstr "%1$s over %2$s"
+
+#: pnuserapi.php:770
+#, php-format
+msgid "Footnote: %s"
+msgstr "Notities: %s"
+
+#: pnuserapi.php:935
+msgid "Error! Could not create new article."
+msgstr "Foutmelding! Nieuw artikel aanmaken mislukt."
+
+#: pnblocks/stories.php:36
+msgid "Article titles"
+msgstr "Artikel titels"
+
+#: pnblocks/stories.php:37
+msgid "Display article titles"
+msgstr "Artikel titels tonen"
+
+#: pnblocks/big.php:36
+msgid "Most-read article"
+msgstr "Meest gelezen artikel"
+
+#: pnblocks/big.php:37 pnblocks/big.php:94
+msgid "Today's most-read article"
+msgstr "Meest gelezen artikel vandaag"
+
+#: pnblocks/storiesext.php:72
+msgid "Extended article titles"
+msgstr "Uitgebreide artikel titels "
+
+#: pnblocks/storiesext.php:73
+msgid "Display article titles with extended options"
+msgstr "Artikel titels tonen met uitgebreide opties"
+
+#: pnblocks/storiesext.php:265
+msgid "No articles."
+msgstr "Geen artikelen."
+
+#. ! default past block title
+#: pnblocks/past.php:36 pnblocks/past.php:127
+msgid "Past articles"
+msgstr "Oudere artikelen"
+
+#: pnblocks/past.php:37
+msgid "Display past articles"
+msgstr "oudere artikelen tonen"
+
+#: pnneedleapi/news.php:53
+#, php-format
+msgid "Error! Database contains no article with the title '%s'."
+msgstr "Foutmelding! Geen artikel met titel '%s' in de database gevonden."
+
+#: pnneedleapi/news.php:58
+msgid "Error! No needle ID provided."
+msgstr "Foutmelding! Geen naald ID gegeven."
+
+#: pncontenttypesapi/newsarticles.php:59
+msgid "Recent news articles"
+msgstr "Recente nieuws artikelen"
+
+#: pncontenttypesapi/newsarticles.php:65
+msgid ""
+"Displays a specific number of news articles from one or all categories "
+"available"
+msgstr ""
+"Geeft een aantal nieuws artikelen weer van één of meer beschikbare "
+"categorieën"
+
+#: pncontenttypesapi/newsarticles.php:308
+#, php-format
+msgid "News articles listed under the '%s' category"
+msgstr "Nieuws artikelen onder categorie '%s' opgeslagen"
+
+#: pncontenttypesapi/newsarticles.php:310
+msgid "News articles listed without a category selection"
+msgstr "Nieuws artikelen zonder een categorie selectie"
+
+#: pncontenttypesapi/newsarticles.php:369
+#: pntemplates/news_block_stories_modify.htm:6
+#: pntemplates/news_block_storiesext_modify.htm:9
+msgid "Show all news articles"
+msgstr "Alle nieuws artikelen tonen"
+
+#: pncontenttypesapi/newsarticles.php:370
+#: pntemplates/news_block_stories_modify.htm:7
+#: pntemplates/news_block_storiesext_modify.htm:10
+msgid "Show only articles set for index page listing"
+msgstr "Alleen artikelen tonen die op de startpagina zichtbaar zijn"
+
+#: pncontenttypesapi/newsarticles.php:371
+#: pntemplates/news_block_stories_modify.htm:8
+#: pntemplates/news_block_storiesext_modify.htm:11
+msgid "Show only articles not set for index page listing"
+msgstr "Alleen artikelen tonen die NIET op de startpagina zichtbaar zijn"
+
+#: pncontenttypesapi/newsarticles.php:383
+#: pntemplates/news_block_storiesext_modify.htm:44
+msgid "News publisher setting"
+msgstr "Nieuws instellingen"
+
+#: pncontenttypesapi/newsarticles.php:384
+#: pntemplates/news_block_storiesext_modify.htm:45
+msgid "Number of pageviews"
+msgstr "Aantal maal gelezen"
+
+#: pncontenttypesapi/newsarticles.php:386
+#: pntemplates/news_block_storiesext_modify.htm:47
+msgid "Random"
+msgstr "Willekeurig"
+
+#: pnuser.php:284
+#, php-format
+msgid ""
+"Warning! Picture %1$s gave an error (code %2$s, explained on this page: "
+"%3$s) during uploading."
+msgstr ""
+"Let op: Het uploaden van foto %1$s was mislukt (code %2$s, uitgelegd op deze "
+"pagina: %3$s)."
+
+#: pnuser.php:303
+msgid "Done! Created new article."
+msgstr "Klaar! Nieuw artikel aangemaakt."
+
+#: pnuser.php:322
+#, php-format
+msgid ""
+"<br />A News Publisher article <strong>%1$s</strong> has been submitted by "
+"%2$s for review on website %3$s.<br />Index page teaser text of the article:"
+"<br /><hr />%4$s<hr /><br /><br />Go to the <a href=\"%5$s\">news publisher "
+"admin</a> pages to review and publish the <em>Pending Review</em> article(s)."
+"<br /><br />Regards,<br />%6$s"
+msgstr ""
+"<br />Er is een Nieuws artikel <strong>%1$s</strong> ter review ingediend "
+"door %2$s op website %3$s.<br />Startpagina introductie tekst:<br /><hr />"
+"%4$s<hr /><br /><br />Ga naar de <a href=\"%5$s\">Nieuws beheerders</a> "
+"pagina voor review en publicatie van de <em>Wachtend op review</em> artikel"
+"(en).<br /><br />Met vriendelijke groet,<br />%6$s"
+
+#: pnuser.php:324
+#, php-format
+msgid ""
+"\n"
+"A News Publisher article '%1$s' has been submitted by %2$s for review on "
+"website %3$s.\n"
+"Index page teaser text of the article:\n"
+"--------\n"
+"%4$s\n"
+"--------\n"
+"\n"
+"Go to the <a href=\"%5$s\">news publisher admin</a> pages to review and "
+"publish the 'Pending Review' article(s).\n"
+"\n"
+"Regards,\n"
+"%6$s"
+msgstr ""
+"\n"
+"Er is een Nieuws artikel '%1$s' ter review ingediend door %2$s op website "
+"%3$s.\\nStartpagina introductie tekst:\n"
+"--------\n"
+"%4$s\n"
+"--------\n"
+"\n"
+"Ga naar de <a href=\"%5$s\">Nieuws beheerders</a> pagina voor review en "
+"publicatie van de 'Wachtend op review' artikel(en).\n"
+"\n"
+"Met vriendelijke groet,\n"
+"%6$s"
+
+#: pnuser.php:344
+msgid "Done! E-mail about new pending article is sent."
+msgstr "Klaar! E-mail over een nieuw wachtend artikel is verstuurd."
+
+#: pnuser.php:346
+msgid "Warning! E-mail about new pending article could not be sent."
+msgstr ""
+"Waarschuwing! E-mail over een nieuw wachtend artikel kon niet verstuurd "
+"worden."
+
+#: pnuser.php:387
+#, php-format
+msgid ""
+"%s out of %s picture was uploaded and resized. Article now has draft status, "
+"since not all pictures were uploaded."
+msgid_plural ""
+"%s out of %s pictures were uploaded and resized. Article now has draft "
+"status, since not all pictures were uploaded."
+msgstr[0] ""
+"%s van de %s afbeeldingen was geupload en geschaald. Artikel heeft nu "
+"'concept' status, omdat niet alle afbeeldingen zijn geupload."
+msgstr[1] ""
+"%s van de %s afbeeldingen was geupload en geschaald. Artikel heeft nu "
+"'concept' status, omdat niet alle afbeeldingen zijn geupload."
+
+#: pnuser.php:389
+#, php-format
+msgid "%s out of %s picture was uploaded and resized."
+msgid_plural "%s out of %s pictures were uploaded and resized."
+msgstr[0] "%s van %s foto uploaded en geschaald."
+msgstr[1] "%s van de %s foto's uploaded en geschaald."
+
+#: pnuser.php:462
+msgid "Error! Invalid category passed."
+msgstr "Foutmelding! Ongeldige categorie ingevoerd."
+
+#: pnuser.php:479
+#, php-format
+msgid "No articles currently published under the '%s' category."
+msgstr "Momenteel geen artikelen gepubliceerd onder category '%s'."
+
+#: pnuser.php:481
+msgid "No articles currently published."
+msgstr "Momenteel geen artikelen gepubliceerd."
+
+#: pnuser.php:689
+#, php-format
+msgid " :: page %s"
+msgstr ":: pagina %s"
+
+#: pnuser.php:775
+msgid ""
+"January February March April May June July August September October November "
+"December"
+msgstr ""
+"Januari Februari Maart April Mei Juni Juli Augustus September Oktober "
+"November December"
+
+#: pnaccountapi.php:37 pntemplates/news_user_menu.htm:47
+#: pntemplates/news_user_new.htm:21
+#: pntemplates/contenttype/newsarticles_view.html:55
+msgid "Submit an article"
+msgstr "Een artikel insturen"
+
+#: pnadminapi.php:247 pntemplates/news_admin_view.htm:3
+msgid "News articles list"
+msgstr "Nieuws artikelen lijst"
+
+#: pnadminapi.php:251 pntemplates/news_admin_new.htm:21
+#: pntemplates/contenttype/newsarticles_view.html:16
+msgid "Create new article"
+msgstr "Nieuw artikel aanmaken"
+
+#: pnadminapi.php:255
+msgid "Purge permalinks"
+msgstr "Permalinks opschonen"
+
+#: pnadminapi.php:258 pntemplates/news_admin_modifyconfig.htm:7
+#: pntemplates/news_admin_modifyconfig.htm:9
+msgid "Settings"
+msgstr "Instellingen"
+
+#: pninit.php:31
+msgid ""
+"Warning! Could not create the default News category tree. If you want to use "
+"categorisation with News, register at least one property for the module in "
+"the Category Registry."
+msgstr ""
+"Waarschuwing! Kon de standaard News categorie boom niet aanmaken. Er moet "
+"minstens één property voor de module geregistreerd zijn in het Categorie "
+"register, als categorisatie in Nieuws gewenst is."
+
+#: pninit.php:54 pninit.php:254
+msgid "A News Publisher article has been submitted for review"
+msgstr "Er is een Nieuws artikel ter review ingediend"
+
+#: pninit.php:120 pninit.php:187 pninit.php:242 pninit.php:646 pninit.php:695
+msgid "Error! Could not update table."
+msgstr "Foutmelding! Tabel bijwerken mislukt."
+
+#: pninit.php:132
+msgid "Error! Could not update articles."
+msgstr "Foutmelding! Artikelen bijwerken mislukt."
+
+#: pninit.php:139
+#, php-format
+msgid "Error! The '%s' module is not installed."
+msgstr "Foutmelding! The '%s' module in niet geïnstalleerd."
+
+#: pninit.php:146 pninit.php:155 pninit.php:159
+msgid "Error! Could not delete table."
+msgstr "Foutmelding! Tabel verwijderen mislukt."
+
+#: pninit.php:171
+msgid "Error! Could not migrate categories."
+msgstr "Foutmelding! Categorieën migratie mislukt."
+
+#: pninit.php:206
+msgid "Error! Could not rename table."
+msgstr "Foutmelding! Database tabel hernoemen mislukt."
+
+#: pninit.php:214 pninit.php:218 pninit.php:222
+msgid "Error! Could not rename column."
+msgstr "Foutmelding! Database kolom hernoemen mislukt."
+
+#: pninit.php:358
+msgid "News introduction article"
+msgstr "Nieuws introductie artikel"
+
+#: pninit.php:359
+msgid "news_introduction_article"
+msgstr "nieuws_introduction_article"
+
+#: pninit.php:360
+msgid ""
+"A news article is divided into an article teaser text (which is the lead-in "
+"text you are reading now) and an article body text (which you can view by "
+"clicking on the article's title or the 'Read more' link). The teaser will "
+"generally be a short introduction to the article, but if you plan to publish "
+"only very short bulletins, the teaser can contain the full draft and the "
+"article body can be left empty. Click on the article title for more "
+"information about Zikula's News publisher module."
+msgstr ""
+"Een nieuws artikel is onderverdeeld in een artikel introductietekst (de "
+"inleidende tekst die je nu aan het lezen bent) en de artikel inhoud (die je "
+"kunt bekijken door te klikken op de titel of de 'Lees verder' link). De "
+"introductie is in het algemeen een korte introductie tot het artikel, maar "
+"als je van plan bent slechts korte informatie berichten te publiceren, kan "
+"de introductietekst het volledige bericht bevatten en kan de artikel inhoud "
+"leeg blijven. Klik op de artikel titel voor meer informatie over Zikula's "
+"Nieuws module."
+
+#: pninit.php:361 pntemplates/news_user_menu.htm:17
+#: pntemplates/news_user_menu.htm:24
+msgid "News"
+msgstr "Nieuws"
+
+#: pninit.php:361
+#, php-format
+msgid ""
+"<h3>More about the News module</h3><p>You are now reading the body text of "
+"the article (starting as from the 'More about the News module' title above). "
+"Both the article teaser and the article body can contain URL links, images, "
+"mark-up (HTML tags and, if you have the additional necessary add-ons "
+"installed, other mark-up languages such as BBCode) You can learn more about "
+"the News module by reading the <a href=\"http://code.zikula.org/news/"
+"wiki#Documentation\">News Wiki Documentation</a>.</p><h3>Some more details</"
+"h3><p><img src=\"modules/News/pnimages/admin.gif\" width=\"48\" height="
+"\"48\" class=\"z-floatleft\" alt=\"News publisher admin image\"/>To control "
+"what HTML tags can be included in an article to format and enhance it, the "
+"site administrator should set the desired tags to enabled status by visiting "
+"the <a href=\"index.php?module=SecurityCenter&type=admin&func=allowedhtml"
+"\">Security centre</a>. With the News module, you can take advantage of "
+"Zikula's permissions system to control who gets what access to which parts "
+"of the News module. A moderator group can be created, containing registered "
+"site users who can add, edit and delete articles. This is just a simple "
+"example: the Zikula permissions system is sufficiently flexible to let you "
+"implement practically any organisation you want.</p><p>You can edit or "
+"delete this introductory article by clicking on the link beside the article "
+"title, or you can visit to the <a href=\"index.php?module="
+"%s&type=admin&func=view\">News admin pages</a>.</p>"
+msgstr ""
+"<h3>Meer over de Nieuws module</h3><p>Je bent nu de artikel inhoud aan het "
+"lezen (beginnend vanaf de 'Meer over de Nieuws module' titel hierboven). De "
+"introductietekst en de artikel inhoud kunnen allebei URL links, "
+"afbeeldingen, opmaak (HTML tags en, als je de benodigde add-ons "
+"geïnstalleerd hebt, andere markup talen als BBCode). Je kunt meer ontdekken "
+"over de Nieuws module door de <a href=\"http://code.zikula.org/news/"
+"wiki#Documentation\">Nieuws Wiki Documentatie</a> te lezen.</p><h3>Wat meer "
+"detail</h3><p><img src=\"modules/News/pnimages/admin.gif\" width=\"48\" "
+"height=\"48\" class=\"z-floatleft\" alt=\"Nieuws beheer afbeelding\"/>Om te "
+"controleren welke HTML tags in een artikel kunnen worden ingevoegd voor "
+"opmaak en verbeteren hiervan, moet de site beheerder de gewenste tags "
+"inschakelen door de <a href=\"index.php?"
+"module=SecurityCenter&type=admin&func=allowedhtml\">Security Centre</a> te "
+"bezoeken. Met de Nieuws module heb je het voordeel van Zikula's rechten "
+"systeem om te controleren wie bij welk onderdeel van de Nieuws module kan. "
+"Een moderator groep kan worden aangemaakt, met geregistreerde gebruikers die "
+"artikelen kunnen toevoegen, bewerken en verwijderen. Dit is slechts een "
+"simpel voorbeeld: Het Zikula rechten systeem is voldoende flexibel om bijna "
+"elke gewenste  organisatie te kunnen implementeren.</p><p>Je kunt dit "
+"introductie artikel bewerken of verwijderen door op de link te klikken naast "
+"de artikel titel, of naar de <a href=\"index.php?module="
+"%s&type=admin&func=view\">Nieuws beheerders pagina</a> te gaan.</p>"
+
+#: pninit.php:378
+msgid "Warning! Could not create the default News introductory article."
+msgstr ""
+"Waarschuwing! Kon het standaard Nieuws introductie artikel niet aanmaken."
+
+#: pninit.php:382
+msgid "Warning! Could not update the default News introductory article."
+msgstr ""
+"Waarschuwing! Kon het standaard Nieuws introductie artikel niet bijwerken."
+
+#: pninit.php:480
+msgid "Error! Could not update the article categories."
+msgstr "Foutmelding! Artikel categorieën konden niet worden bijgewerkt."
+
+#: pninit.php:566
+msgid "Topics"
+msgstr "Onderwerpen"
+
+#: pninit.php:567
+msgid "Display and manage topics"
+msgstr "Tonen en beheren van onderwerpen"
+
+#: pntemplates/news_user_articlepdf.htm:3 pntemplates/news_user_index.htm:5
+#: pntemplates/news_user_archives.htm:57 pntemplates/news_admin_modify.htm:300
+#: pntemplates/news_user_articlecontent.htm:24
+msgid "Contributed"
+msgstr "Geplaatst"
+
+#: pntemplates/news_block_stories_modify.htm:4
+msgid "Scope of news article listing"
+msgstr "Welke nieuws artikelen tonen"
+
+#: pntemplates/news_block_stories_modify.htm:14
+#: pntemplates/news_admin_view.htm:23 pntemplates/news_admin_view.htm:84
+#: pntemplates/news_block_slideshow_modify.htm:5
+#: pntemplates/news_admin_new.htm:95 pntemplates/news_user_new.htm:89
+#: pntemplates/news_user_archives.htm:54 pntemplates/news_admin_modify.htm:87
+#: pntemplates/news_ajax_modify.htm:40
+msgid "Category"
+msgstr "Categorie"
+
+#: pntemplates/news_block_stories_modify.htm:16
+#: pntemplates/news_block_slideshow_modify.htm:7
+#: pntemplates/news_admin_new.htm:96 pntemplates/news_user_new.htm:90
+#: pntemplates/news_admin_modify.htm:88 pntemplates/news_ajax_modify.htm:41
+msgid "Choose category"
+msgstr "Kies een categorie"
+
+#: pntemplates/news_block_stories_modify.htm:25
+#: pntemplates/news_block_slideshow_modify.htm:17
+msgid "Maximum number of articles to display"
+msgstr "Maximum aantal te tonen artikelen"
+
+#: pntemplates/news_admin_view.htm:47 pntemplates/news_admin_view.htm:65
+#: pntemplates/news_admin_new.htm:109 pntemplates/news_user_new.htm:103
+msgid "Language"
+msgstr "Taal"
+
+#: pntemplates/news_admin_view.htm:52 pntemplates/news_admin_view.htm:69
+#: pntemplates/news_block_storiesext_modify.htm:34
+#: pntemplates/contenttype/newsarticles_edit.html:34
+msgid "Status"
+msgstr "Status"
+
+#: pntemplates/news_admin_view.htm:55
+#: pntemplates/news_block_storiesext_modify.htm:42
+#: pntemplates/contenttype/newsarticles_edit.html:45
+msgid "Order articles by"
+msgstr "Sorteer artikelen op"
+
+#: pntemplates/news_admin_view.htm:58 pntemplates/news_admin_view.htm:71
+msgid "Apply filter"
+msgstr "Filter toepassen"
+
+#: pntemplates/news_admin_view.htm:59 pntemplates/news_admin_view.htm:72
+#: pntemplates/news_admin_view.htm:145
+msgid "Reset"
+msgstr "Reset"
+
+#: pntemplates/news_admin_view.htm:80
+msgid "ID"
+msgstr "ID"
+
+#: pntemplates/news_admin_view.htm:81 pntemplates/news_admin_new.htm:74
+#: pntemplates/news_user_new.htm:72 pntemplates/news_user_archives.htm:52
+#: pntemplates/news_admin_modify.htm:72 pntemplates/news_ajax_modify.htm:25
+msgid "Title"
+msgstr "Titel"
+
+#: pntemplates/news_admin_view.htm:82
+msgid "Contributor"
+msgstr "Auteur"
+
+#: pntemplates/news_admin_view.htm:87 pntemplates/news_admin_new.htm:170
+#: pntemplates/news_user_new.htm:160 pntemplates/news_admin_modify.htm:161
+#: pntemplates/news_ajax_modify.htm:114
+msgid "Pictures"
+msgstr "Foto's"
+
+#: pntemplates/news_admin_view.htm:89
+msgid "Index page<br />listing / Weight"
+msgstr "Op startpagina<br />Gewicht"
+
+#: pntemplates/news_admin_view.htm:90
+msgid "Date"
+msgstr "Datum"
+
+#: pntemplates/news_admin_view.htm:91
+msgid "Actions"
+msgstr "Acties"
+
+#: pntemplates/news_admin_view.htm:117
+#, php-format
+msgid "Last edited %s"
+msgstr "Bijgewerkt %s"
+
+#: pntemplates/news_admin_view.htm:119
+msgid "Scheduled for"
+msgstr "Ingepland voor"
+
+#: pntemplates/news_admin_view.htm:121
+#, php-format
+msgid "until %s"
+msgstr "tot %s"
+
+#: pntemplates/news_admin_view.htm:124
+msgid "No comments allowed"
+msgstr "Geen reacties toegestaan"
+
+#: pntemplates/news_admin_view.htm:135
+msgid "No articles currently in database."
+msgstr "Momenteel geen artikelen in de database."
+
+#: pntemplates/news_admin_view.htm:142
+msgid "Access a past article via its ID"
+msgstr "Zoek een oud artikel met behulp van zijn ID"
+
+#: pntemplates/news_admin_view.htm:144
+msgid "Go retrieve"
+msgstr "Opzoeken"
+
+#: pntemplates/news_user_menu.htm:30
+msgid "News index page"
+msgstr "Nieuws startpagina"
+
+#: pntemplates/news_user_menu.htm:32 pntemplates/news_user_categorylist.htm:41
+#: pntemplates/news_user_categorylist.htm:43
+#: pntemplates/news_user_categorylist.htm:84
+#: pntemplates/news_user_categorylist.htm:86
+msgid "RSS feed"
+msgstr "RSS feed"
+
+#: pntemplates/news_user_menu.htm:37 pntemplates/news_user_categorylist.htm:8
+msgid "News categories"
+msgstr "Nieuws categorieën"
+
+#: pntemplates/news_user_menu.htm:42 pntemplates/news_user_archives.htm:12
+#: pntemplates/news_user_archives.htm:15
+msgid "News archive"
+msgstr "Nieuws archief"
+
+#: pntemplates/news_user_menu.htm:54
+#, php-format
+msgid "%s pending article"
+msgid_plural "%s pending articles"
+msgstr[0] "%s wachtend artikel"
+msgstr[1] "%s wachtende artikelen"
+
+#: pntemplates/news_user_menu.htm:57
+msgid "Admin"
+msgstr "Beheer"
+
+#: pntemplates/news_user_article.htm:13 pntemplates/news_admin_new.htm:27
+#: pntemplates/news_admin_new.htm:159 pntemplates/news_admin_new.htm:190
+#: pntemplates/news_admin_new.htm:253 pntemplates/news_user_new.htm:29
+#: pntemplates/news_user_new.htm:149 pntemplates/news_user_new.htm:180
+#: pntemplates/news_user_new.htm:237 pntemplates/news_admin_modify.htm:31
+#: pntemplates/news_admin_modify.htm:151 pntemplates/news_admin_modify.htm:188
+#: pntemplates/news_admin_modify.htm:246 pntemplates/news_ajax_modify.htm:104
+#: pntemplates/news_ajax_modify.htm:136 pntemplates/news_ajax_modify.htm:194
+msgid "Show"
+msgstr "Toon"
+
+#: pntemplates/news_user_article.htm:14 pntemplates/news_admin_new.htm:28
+#: pntemplates/news_user_new.htm:30 pntemplates/news_admin_modify.htm:32
+msgid "Hide"
+msgstr "Verberg"
+
+#: pntemplates/news_user_article.htm:27
+msgid "More articles in category "
+msgstr "Meer artikelen in categorie"
+
+#: pntemplates/news_block_storiesext_scrollmarquee.htm:25
+#: pntemplates/news_block_storiesext_witheditblock.htm:11
+#: pntemplates/news_block_storiesext_scrollfade.htm:26
+#: pntemplates/news_block_storiesext_scrollpause.htm:26
+msgid "Edit this block"
+msgstr "Dit blok bewerken"
+
+#: pntemplates/news_block_storiesext_modify.htm:5
+#: pntemplates/contenttype/newsarticles_edit.html:4
+#: pntemplates/news_admin_modifyconfig.htm:16
+msgid "General settings"
+msgstr "Algemene instellingen"
+
+#: pntemplates/news_block_storiesext_modify.htm:7
+msgid "Articles to list"
+msgstr "Te tonen artikelen"
+
+#: pntemplates/news_block_storiesext_modify.htm:16
+#: pntemplates/contenttype/newsarticles_edit.html:13
+msgid "Choose categories"
+msgstr "Kies categorieëen"
+
+#: pntemplates/news_block_storiesext_modify.htm:16
+msgid "Category registry"
+msgstr "Categorie register"
+
+#: pntemplates/news_block_storiesext_modify.htm:23
+msgid "None"
+msgstr "Geen"
+
+#: pntemplates/news_block_storiesext_modify.htm:30
+#: pntemplates/news_block_past_modify.htm:4
+msgid "Maximum number of news articles to display"
+msgstr "Maximaal aantal te tonen artikelen"
+
+#: pntemplates/news_block_storiesext_modify.htm:51
+msgid "Maximum age of articles"
+msgstr "Maximale leeftijd van de artikelen"
+
+#: pntemplates/news_block_storiesext_modify.htm:53
+#: pntemplates/contenttype/newsarticles_edit.html:41
+msgid "(Number of days; 0 for no limit)"
+msgstr "(in aantal dagen; 0 is geen limiet)"
+
+#: pntemplates/news_block_storiesext_modify.htm:56
+msgid "Maximum length of titles"
+msgstr "Maximale titel lengte"
+
+#: pntemplates/news_block_storiesext_modify.htm:58
+#: pntemplates/news_block_storiesext_modify.htm:131
+#: pntemplates/contenttype/newsarticles_edit.html:52
+#: pntemplates/contenttype/newsarticles_edit.html:140
+msgid "(Number of characters; 0 for no limit)"
+msgstr "(in aantal karakters; 0 is geen limiet)"
+
+#: pntemplates/news_block_storiesext_modify.htm:61
+#: pntemplates/contenttype/newsarticles_edit.html:56
+msgid "Suffix appended to truncated title"
+msgstr "Achtervoegsel voor afgebroken titels"
+
+#: pntemplates/news_block_storiesext_modify.htm:65
+msgid ""
+"Show 'No articles currently published' status message when no articles "
+"published"
+msgstr ""
+"Toon 'Momenteel geen artikelen gepubliceerd' status bericht wanneer er geen "
+"artikelen beschikbaar zijn"
+
+#: pntemplates/news_block_storiesext_modify.htm:71
+msgid "Custom templates"
+msgstr "Custom templates"
+
+#: pntemplates/news_block_storiesext_modify.htm:72
+msgid ""
+"Notice: You can use your own custom templates instead of the default "
+"templates. You must specify them here.The default template for block rows is "
+"'news_block_storiesext_row.htm'. The default block template depends on the "
+"scroll setting. The default static template is 'news_block_storiesext.htm'. "
+"For scrolling content, 'news_block_storiesext_scrollNAME.htm' is used."
+msgstr ""
+"Let op: eigengemaakte custom templates kunnen gebruikt worden in plaats van "
+"de standaard templates. Deze kunnen hier gespecificeerd worden. De standaard "
+"template voor blok rijen is 'news_block_storiesext_row.htm'. De standaard "
+"blok template hangt af van de scroll instelling. De standaard statische "
+"template is 'news_block_storiesext.htm'. Bij scroll gebruik wordt "
+"'news_block_storiesext_scrollNAME.htm' gebruikt."
+
+#: pntemplates/news_block_storiesext_modify.htm:74
+msgid "Custom block template"
+msgstr "Custom blok template"
+
+#: pntemplates/news_block_storiesext_modify.htm:76
+#: pntemplates/news_block_storiesext_modify.htm:81
+msgid "(Default template is used if this box is left blank)"
+msgstr "(Standaard template wordt gebruikt indien leeg gelaten)"
+
+#: pntemplates/news_block_storiesext_modify.htm:79
+msgid "Custom row template"
+msgstr "Custom rij template"
+
+#: pntemplates/news_block_storiesext_modify.htm:86
+msgid "Advanced block settings"
+msgstr "Uitgebreide blok instellingen"
+
+#: pntemplates/news_block_storiesext_modify.htm:88
+msgid "Show contributor's name"
+msgstr "Toon de auteurs naam"
+
+#: pntemplates/news_block_storiesext_modify.htm:92
+msgid "Show article creation date"
+msgstr "Toon de artikel publicatie datum"
+
+#: pntemplates/news_block_storiesext_modify.htm:96
+#: pntemplates/contenttype/newsarticles_edit.html:74
+msgid "Date format"
+msgstr "Datum opmaak"
+
+#: pntemplates/news_block_storiesext_modify.htm:98
+msgid "Click here to read 'strftime' description in PHP documentation"
+msgstr ""
+"Klik hier om de 'strftime' beschrijving in de PHP documentatie te lezen"
+
+#: pntemplates/news_block_storiesext_modify.htm:101
+msgid "Show number of pageviews"
+msgstr "Toon het aantal maal gelezen"
+
+#: pntemplates/news_block_storiesext_modify.htm:107
+msgid "Show number of comments"
+msgstr "Toon het aantal reacties"
+
+#: pntemplates/news_block_storiesext_modify.htm:112
+msgid "Separator character for additional information"
+msgstr "Karakter om de additionele informatie te scheiden"
+
+#: pntemplates/news_block_storiesext_modify.htm:118
+#: pntemplates/contenttype/newsarticles_edit.html:128
+msgid "Index page teaser settings"
+msgstr "Startpagina introductie instellingen"
+
+#: pntemplates/news_block_storiesext_modify.htm:120
+msgid "Display article's index page teaser"
+msgstr "Toon de artikel introductietekst"
+
+#: pntemplates/news_block_storiesext_modify.htm:127
+#: pntemplates/contenttype/newsarticles_edit.html:133
+msgid ""
+"Notice: When truncating the index page teaser text, incomplete HTML mark-up "
+"elements will be completed by the 'truncatehtml' plug-in."
+msgstr ""
+"Let op: Bij het afbreken van de introductietekst worden afgebroken HTML "
+"opmaak elementen weer volledig gemaakt middels de 'truncatehtml' plugin."
+
+#: pntemplates/news_block_storiesext_modify.htm:129
+msgid "Maximum displayed length of index page teaser"
+msgstr "Maximale introductietekst lengte"
+
+#: pntemplates/news_block_storiesext_modify.htm:134
+msgid "Suffix appended to truncated index page teaser"
+msgstr "Achtervoegsel voor de afgebroken introductietekst"
+
+#: pntemplates/news_block_storiesext_modify.htm:141
+msgid "Article recency settings"
+msgstr "Artikel recentheid instellingen"
+
+#: pntemplates/news_block_storiesext_modify.htm:143
+msgid "Display image for recent article titles"
+msgstr "Toon een afbeelding bij recente artikelen"
+
+#: pntemplates/news_block_storiesext_modify.htm:151
+#: pntemplates/contenttype/newsarticles_edit.html:111
+msgid "Number of days during which article is considered recent"
+msgstr "Hoeveel dagen wordt een artikel als recent beschouwd?"
+
+#: pntemplates/news_block_storiesext_modify.htm:155
+#: pntemplates/contenttype/newsarticles_edit.html:116
+msgid "Image set for 'New' image"
+msgstr "Image set voor 'Nieuw' afbeelding"
+
+#: pntemplates/news_block_storiesext_modify.htm:157
+#: pntemplates/news_block_storiesext_modify.htm:162
+#: pntemplates/contenttype/newsarticles_edit.html:118
+#: pntemplates/contenttype/newsarticles_edit.html:124
+msgid "(Used by 'pnimg' plug-in)"
+msgstr "(gebruikt door 'pnimg' plugin)"
+
+#: pntemplates/news_block_storiesext_modify.htm:160
+#: pntemplates/contenttype/newsarticles_edit.html:122
+msgid "File name of 'New' image from image set"
+msgstr "Bestandsnaam uit de Image set van de 'Nieuw' afbeelding"
+
+#: pntemplates/news_block_storiesext_modify.htm:168
+msgid "News item scroll settings"
+msgstr "Nieuws item scroll instellingen"
+
+#: pntemplates/news_block_storiesext_modify.htm:169
+msgid ""
+"Notice: News articles can shown in a scrolling box. The provided scrollers "
+"are based upon code from the <a href=\"http://www.dynamicdrive.com/"
+"dynamicindex2/crosstick.htm\">dynamicdrive.com 'crosstick'</a> upward and "
+"downward pauseable vertical scroller, the <a href=\"http://www.dynamicdrive."
+"com/dynamicindex2/memoryticker.htm\">dynamicdrive.com 'memoryticker'</a> "
+"fading scroller (gradient wipe effect only works in IE), and the <a href="
+"\"http://www.dynamicdrive.com/dynamicindex2/cmarquee2.htm\" target=\"_new"
+"\">dynamicdrive.com 'marquee II'</a> marquee scroller."
+msgstr ""
+"Let op: Nieuws artikelen kunnen in een scrollend vak gezet worden. De "
+"aangeboden scrollers zijn gebaseerd op code van de <a href=\"http://www."
+"dynamicdrive.com/dynamicindex2/crosstick.htm\">dynamicdrive.com 'crosstick'</"
+"a> op en neergaande pauzerende verticale scroller, de <a href=\"http://www."
+"dynamicdrive.com/dynamicindex2/memoryticker.htm\">dynamicdrive.com "
+"'memoryticker'</a> fading scroller (gradient wipe effect alleen in IE) en de "
+"<a href=\"http://www.dynamicdrive.com/dynamicindex2/cmarquee2.htm\" target="
+"\"_new\">dynamicdrive.com 'marquee II'</a> marquee scroller."
+
+#: pntemplates/news_block_storiesext_modify.htm:171
+msgid "Choose scroller"
+msgstr "Kies een scroller"
+
+#: pntemplates/news_block_storiesext_modify.htm:173
+msgid "No scrolling"
+msgstr "Geen scrolling"
+
+#: pntemplates/news_block_storiesext_modify.htm:174
+msgid "Pauseable vertical scroller"
+msgstr "Pauzerende verticale scroller"
+
+#: pntemplates/news_block_storiesext_modify.htm:175
+msgid "Fading scroller"
+msgstr "Fading scroller"
+
+#: pntemplates/news_block_storiesext_modify.htm:176
+msgid "Marquee scroller"
+msgstr "Marquee scroller"
+
+#: pntemplates/news_block_storiesext_modify.htm:181
+msgid "Scroller CSS styles definition"
+msgstr "Scroller CSS stijl definities"
+
+#: pntemplates/news_block_storiesext_modify.htm:185
+msgid "Delay between scrolls and starting delay for marquee"
+msgstr "Vertraging tussen de scrolls/ opstartvertraging voor de marquee"
+
+#: pntemplates/news_block_storiesext_modify.htm:187
+msgid "(Number of milliseconds)"
+msgstr "(Aantal milliseconden)"
+
+#: pntemplates/news_block_storiesext_modify.htm:190
+msgid "Marquee scroller speed"
+msgstr "Snelheid van de marquee scroller"
+
+#: pntemplates/news_block_storiesext_modify.htm:192
+msgid "(Number from 1 to 10)"
+msgstr "(Nummer van 1 t/m 10)"
+
+#: pntemplates/news_user_index.htm:11 pntemplates/news_user_index.htm:13
+#: pntemplates/news_user_articlecontent.htm:33
+#: pntemplates/news_user_articlecontent.htm:54
+#, php-format
+msgid "Picture %s for %s"
+msgstr "Foto %s voor %s"
+
+#: pntemplates/news_user_index.htm:26
+msgid "Filed under:"
+msgstr "Opgeslagen onder:"
+
+#: pntemplates/news_user_categorylist.htm:18
+#: pntemplates/news_user_archives.htm:26
+#, php-format
+msgid "%s article"
+msgid_plural "%s articles"
+msgstr[0] "%s artikel"
+msgstr[1] "%s artikelen"
+
+#: pntemplates/news_user_categorylist.htm:20
+msgid "Currently no articles"
+msgstr "Geen artikelen beschikbaar"
+
+#: pntemplates/news_user_categorylist.htm:47
+#: pntemplates/news_user_categorylist.htm:90
+msgid "Edit this category"
+msgstr "Deze categorie bewerken"
+
+#: pntemplates/news_user_categorylist.htm:59
+#: pntemplates/news_user_categorylist.htm:102
+#, php-format
+msgid "%s article."
+msgid_plural "%s articles."
+msgstr[0] "%s artikel."
+msgstr[1] "%s artikelen."
+
+#: pntemplates/news_user_categorylist.htm:60
+#: pntemplates/news_user_categorylist.htm:103
+msgid "Total"
+msgstr "In totaal"
+
+#: pntemplates/news_user_categorylist.htm:61
+#: pntemplates/news_user_categorylist.htm:104
+#, php-format
+msgid "%s contributed by you."
+msgstr "%s geplaatst door jezelf."
+
+#: pntemplates/news_user_categorylist.htm:63
+#: pntemplates/news_user_categorylist.htm:106
+msgid "Currently no articles."
+msgstr "Geen artikelen beschikbaar."
+
+#: pntemplates/news_block_big.htm:3
+msgid "Today's most-read article is:"
+msgstr "Meest gelezen artikel vandaag:"
+
+#: pntemplates/news_block_slideshow_modify.htm:15
+msgid ""
+"Notice: the news publisher slideshow block is developed for the case where "
+"every article has images. Furthermore it only works fine if the sizing is "
+"set to adaptive resizing, which gives fixed dimensions."
+msgstr ""
+"Let op: het nieuws slideshow blok is gemaakt voor de situatie dat ieder "
+"artikel een foto bevat. Het werkt verder alleen goed als de schaling naar "
+"adaptief schalen is gezet, die vaste afmetingen produceert."
+
+#: pntemplates/news_admin_new.htm:26 pntemplates/news_user_new.htm:28
+#: pntemplates/news_user_new.htm:134 pntemplates/news_admin_modify.htm:30
+#: pntemplates/news_user_articlecontent.htm:5
+msgid "#chars characters out of 65,536"
+msgstr "#chars karakters gebruikt van de toegestane 65.536"
+
+#: pntemplates/news_admin_new.htm:29 pntemplates/news_admin_new.htm:313
+#: pntemplates/news_user_new.htm:31 pntemplates/news_user_new.htm:296
+#: pntemplates/news_admin_modify.htm:33 pntemplates/news_admin_modify.htm:329
+#: pntemplates/news_admin_modify.htm:333
+msgid "Publish"
+msgstr "Publiceren"
+
+#: pntemplates/news_admin_new.htm:30 pntemplates/news_user_new.htm:32
+#: pntemplates/news_admin_modify.htm:34
+msgid "Schedule"
+msgstr "Inplannen"
+
+#: pntemplates/news_admin_new.htm:31 pntemplates/news_admin_new.htm:310
+#: pntemplates/news_admin_new.htm:311 pntemplates/news_user_new.htm:33
+#: pntemplates/news_user_new.htm:294 pntemplates/news_admin_modify.htm:35
+#: pntemplates/news_admin_modify.htm:323
+msgid "Save as draft"
+msgstr "Als concept opslaan"
+
+#: pntemplates/news_admin_new.htm:32 pntemplates/news_user_new.htm:34
+#: pntemplates/news_admin_modify.htm:36 pntemplates/news_admin_modify.htm:321
+msgid "Update draft"
+msgstr "Concept bijwerken"
+
+#: pntemplates/news_admin_new.htm:33 pntemplates/news_user_new.htm:35
+#: pntemplates/news_admin_modify.htm:37
+msgid "Saving draft..."
+msgstr "Concept aan het opslaan..."
+
+#: pntemplates/news_admin_new.htm:34 pntemplates/news_user_new.htm:36
+msgid "<strong>Title is empty, draft not saved!</strong>"
+msgstr "<strong>De titel is leeg, concept niet opgeslagen!</strong>"
+
+#: pntemplates/news_admin_new.htm:35
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: pntemplates/news_admin_new.htm:36
+msgid "Picture"
+msgstr "Foto"
+
+#: pntemplates/news_admin_new.htm:77 pntemplates/news_user_new.htm:75
+#: pntemplates/news_admin_modify.htm:75 pntemplates/news_ajax_modify.htm:28
+msgid "Title text"
+msgstr "Titel tekst"
+
+#: pntemplates/news_admin_new.htm:82
+msgid "Permalink"
+msgstr "Permalink"
+
+#: pntemplates/news_admin_new.htm:88 pntemplates/news_user_new.htm:81
+#: pntemplates/news_admin_modify.htm:80 pntemplates/news_ajax_modify.htm:33
+msgid "Permalink URL"
+msgstr "Permalink"
+
+#: pntemplates/news_admin_new.htm:90 pntemplates/news_user_new.htm:83
+#: pntemplates/news_admin_modify.htm:82 pntemplates/news_ajax_modify.htm:35
+msgid "(Generated automatically if left blank)"
+msgstr "(Automatisch gegenereerd indien leeg gelaten)"
+
+#: pntemplates/news_admin_new.htm:120 pntemplates/news_user_new.htm:110
+#: pntemplates/news_admin_modify.htm:113 pntemplates/news_ajax_modify.htm:66
+msgid "Article"
+msgstr "Artikel"
+
+#: pntemplates/news_admin_new.htm:123 pntemplates/news_user_new.htm:113
+#: pntemplates/news_admin_modify.htm:116 pntemplates/news_ajax_modify.htm:69
+msgid "Permitted HTML tags"
+msgstr "Toegestane HTML tags"
+
+#: pntemplates/news_admin_new.htm:126 pntemplates/news_user_new.htm:116
+#: pntemplates/news_admin_modify.htm:119 pntemplates/news_ajax_modify.htm:72
+msgid "Index page teaser text"
+msgstr "Introductietekst"
+
+#: pntemplates/news_admin_new.htm:128 pntemplates/news_admin_new.htm:144
+#: pntemplates/news_admin_new.htm:162 pntemplates/news_user_new.htm:118
+#: pntemplates/news_user_new.htm:152 pntemplates/news_admin_modify.htm:121
+#: pntemplates/news_admin_modify.htm:137 pntemplates/news_admin_modify.htm:154
+#: pntemplates/news_ajax_modify.htm:74 pntemplates/news_ajax_modify.htm:90
+#: pntemplates/news_ajax_modify.htm:107
+msgid "(Limit: 65,536 characters)"
+msgstr "(Limiet: 65536 karakters)"
+
+#: pntemplates/news_admin_new.htm:133 pntemplates/news_user_new.htm:123
+#: pntemplates/news_admin_modify.htm:126 pntemplates/news_ajax_modify.htm:79
+msgid "Index page teaser format"
+msgstr "Introductietekst opmaak"
+
+#: pntemplates/news_admin_new.htm:135 pntemplates/news_admin_new.htm:151
+#: pntemplates/news_user_new.htm:125 pntemplates/news_user_new.htm:141
+#: pntemplates/news_admin_modify.htm:128 pntemplates/news_admin_modify.htm:144
+#: pntemplates/news_ajax_modify.htm:81 pntemplates/news_ajax_modify.htm:97
+msgid "Plain text"
+msgstr "Platte tekst"
+
+#: pntemplates/news_admin_new.htm:136 pntemplates/news_admin_new.htm:152
+#: pntemplates/news_user_new.htm:126 pntemplates/news_user_new.htm:142
+#: pntemplates/news_admin_modify.htm:129 pntemplates/news_admin_modify.htm:145
+#: pntemplates/news_ajax_modify.htm:82 pntemplates/news_ajax_modify.htm:98
+msgid "Text formatted with mark-up language"
+msgstr "Geformatteerde (HTML) tekst"
+
+#: pntemplates/news_admin_new.htm:142 pntemplates/news_user_new.htm:132
+#: pntemplates/news_admin_modify.htm:135 pntemplates/news_ajax_modify.htm:88
+msgid "Article body text"
+msgstr "Artikel inhoud"
+
+#: pntemplates/news_admin_new.htm:149 pntemplates/news_user_new.htm:139
+#: pntemplates/news_admin_modify.htm:142 pntemplates/news_ajax_modify.htm:95
+msgid "Article body format"
+msgstr "Artikel inhoud opmaak"
+
+#: pntemplates/news_admin_new.htm:159 pntemplates/news_user_new.htm:149
+#: pntemplates/news_admin_modify.htm:151 pntemplates/news_ajax_modify.htm:104
+msgid "Footnote"
+msgstr "Notities"
+
+#: pntemplates/news_admin_new.htm:171 pntemplates/news_user_new.htm:161
+#: pntemplates/news_admin_modify.htm:162
+#, php-format
+msgid "Select a picture (max. %s kB per picture)"
+msgstr "Kies een foto (max. %s kB per foto)"
+
+#: pntemplates/news_admin_new.htm:176 pntemplates/news_user_new.htm:166
+#: pntemplates/news_admin_modify.htm:167 pntemplates/news_ajax_modify.htm:116
+#, php-format
+msgid ""
+"(max files %s, first picture is used as thumbnail in the index teaser page "
+"for this article.)"
+msgstr ""
+"(maximaal %s bestanden, de eerste foto wordt gebruikt als thumbnail op de "
+"startpagina introductie tekst van dit artikel) "
+
+#: pntemplates/news_admin_new.htm:190 pntemplates/news_user_new.htm:180
+#: pntemplates/news_admin_modify.htm:188 pntemplates/news_ajax_modify.htm:136
+msgid "Publishing options"
+msgstr "Publicatie instellingen"
+
+#: pntemplates/news_admin_new.htm:193 pntemplates/news_user_new.htm:183
+#: pntemplates/news_admin_modify.htm:191 pntemplates/news_ajax_modify.htm:139
+msgid "Publish on news index page"
+msgstr "Op nieuws startpagina tonen"
+
+#: pntemplates/news_admin_new.htm:203 pntemplates/news_user_new.htm:193
+#: pntemplates/news_admin_modify.htm:201 pntemplates/news_ajax_modify.htm:149
+msgid "No time limit"
+msgstr "Geen tijdsbeperking instellen"
+
+#: pntemplates/news_admin_new.htm:209 pntemplates/news_user_new.htm:198
+#: pntemplates/news_admin_modify.htm:207 pntemplates/news_ajax_modify.htm:155
+msgid "Start date"
+msgstr "Publicatie start datum"
+
+#: pntemplates/news_admin_new.htm:215 pntemplates/news_user_new.htm:204
+#: pntemplates/news_admin_modify.htm:213 pntemplates/news_ajax_modify.htm:161
+msgid "No end date"
+msgstr "Geen eind datum"
+
+#: pntemplates/news_admin_new.htm:220 pntemplates/news_user_new.htm:209
+#: pntemplates/news_admin_modify.htm:218 pntemplates/news_ajax_modify.htm:166
+msgid "End date"
+msgstr "Publicatie eind datum"
+
+#: pntemplates/news_admin_new.htm:228 pntemplates/news_user_new.htm:217
+#: pntemplates/news_admin_modify.htm:226 pntemplates/news_ajax_modify.htm:174
+msgid "Allow comments on this article"
+msgstr "Reageren toestaan voor dit artikel"
+
+#: pntemplates/news_admin_new.htm:253 pntemplates/news_user_new.htm:237
+#: pntemplates/news_admin_modify.htm:246 pntemplates/news_ajax_modify.htm:194
+msgid "Article attributes"
+msgstr "Artikel attributen"
+
+#: pntemplates/news_admin_new.htm:257 pntemplates/news_user_new.htm:241
+#: pntemplates/news_admin_modify.htm:250 pntemplates/news_ajax_modify.htm:198
+msgid "Create new attribute"
+msgstr "Nieuw artikel attribuut"
+
+#: pntemplates/news_admin_new.htm:273 pntemplates/news_admin_new.htm:293
+#: pntemplates/news_user_new.htm:257 pntemplates/news_user_new.htm:277
+#: pntemplates/news_admin_modify.htm:266 pntemplates/news_admin_modify.htm:286
+#: pntemplates/news_ajax_modify.htm:214 pntemplates/news_ajax_modify.htm:234
+msgid "Delete this attribute"
+msgstr "Dit attribuut verwijderen"
+
+#: pntemplates/news_admin_new.htm:306 pntemplates/news_user_new.htm:290
+#: pntemplates/news_admin_modify.htm:316
+msgid "Preview this article"
+msgstr "Bekijk voorbeeld artikel"
+
+#: pntemplates/news_admin_new.htm:306 pntemplates/news_user_new.htm:290
+#: pntemplates/news_admin_modify.htm:316
+msgid "Preview"
+msgstr "Voorbeeld"
+
+#: pntemplates/news_admin_new.htm:308 pntemplates/news_user_new.htm:292
+#: pntemplates/news_admin_modify.htm:318
+msgid "Submit this article"
+msgstr "Dit artikel versturen"
+
+#: pntemplates/news_admin_new.htm:308 pntemplates/news_user_new.htm:292
+#: pntemplates/news_admin_modify.htm:318
+msgid "Submit"
+msgstr "Versturen"
+
+#: pntemplates/news_admin_new.htm:310 pntemplates/news_admin_new.htm:311
+#: pntemplates/news_user_new.htm:294 pntemplates/news_admin_modify.htm:323
+msgid "Save this article as draft"
+msgstr "Dit artikel als concept opslaan"
+
+#: pntemplates/news_admin_new.htm:312 pntemplates/news_user_new.htm:295
+#: pntemplates/news_admin_modify.htm:326 pntemplates/news_ajax_modify.htm:252
+msgid "Mark this article as pending"
+msgstr "Markeer dit artikel als wachtend op review"
+
+#: pntemplates/news_admin_new.htm:312 pntemplates/news_user_new.htm:295
+#: pntemplates/news_admin_modify.htm:326
+msgid "Pending"
+msgstr "Wachtend"
+
+#: pntemplates/news_admin_new.htm:313 pntemplates/news_user_new.htm:296
+#: pntemplates/news_admin_modify.htm:333
+msgid "Publish this article"
+msgstr "Dit artikel publiceren"
+
+#: pntemplates/news_admin_new.htm:315 pntemplates/news_user_new.htm:298
+#: pntemplates/news_admin_modify.htm:345 pntemplates/news_ajax_modify.htm:256
+#: pntemplates/news_admin_modifyconfig.htm:272
+#: pntemplates/news_admin_delete.htm:18
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: pntemplates/news_search_options.htm:5
+msgid "News articles"
+msgstr "Nieuws artikelen"
+
+#: pntemplates/contenttype/newsarticles_view.html:21
+#, php-format
+msgid "Contributed by %s"
+msgstr "geplaatst door %s"
+
+#: pntemplates/contenttype/newsarticles_view.html:22
+#: pntemplates/news_block_storiesext_row.htm:9
+#, php-format
+msgid "on %s"
+msgstr "op %s"
+
+#: pntemplates/contenttype/newsarticles_view.html:23
+#: pntemplates/news_block_storiesext_row.htm:10
+#, php-format
+msgid "%s pageview"
+msgid_plural "%s pageviews"
+msgstr[0] "%s maal gelezen"
+msgstr[1] "%s maal gelezen"
+
+#: pntemplates/contenttype/newsarticles_view.html:50
+msgid "No articles published recently."
+msgstr "Geen artikelen recent gepubliceerd."
+
+#: pntemplates/contenttype/newsarticles_edit.html:6
+msgid "Widget title"
+msgstr "Widget titel"
+
+#: pntemplates/contenttype/newsarticles_edit.html:19
+msgid ""
+"(An empty category selection will show articles from all available "
+"categories)"
+msgstr ""
+"(Een lege categorie selectie laat de artikele van alle beschikbare "
+"categoriën zien)"
+
+#: pntemplates/contenttype/newsarticles_edit.html:24
+msgid "Display"
+msgstr "Toon"
+
+#: pntemplates/contenttype/newsarticles_edit.html:29
+msgid "Number of articles"
+msgstr "Aantal artikelen"
+
+#: pntemplates/contenttype/newsarticles_edit.html:39
+msgid "Limit of backward reach"
+msgstr "Hoeveel dagen wordt een artikel als recent beschouwd?"
+
+#: pntemplates/contenttype/newsarticles_edit.html:50
+msgid "Maximum displayed length of title"
+msgstr "Maximale titel lengte"
+
+#: pntemplates/contenttype/newsarticles_edit.html:60
+msgid "Information settings"
+msgstr "Informatie instellingen"
+
+#: pntemplates/contenttype/newsarticles_edit.html:63
+msgid "Display contributor's name"
+msgstr "Toon auteurs naam"
+
+#: pntemplates/contenttype/newsarticles_edit.html:68
+msgid "Display article creation date"
+msgstr "Toon artikel publicatie datum"
+
+#: pntemplates/contenttype/newsarticles_edit.html:70
+msgid "(Only shown when contributor's name is also enabled)"
+msgstr "(wordt alleen getoond als de auteurs naam ook getoond wordt)"
+
+#: pntemplates/contenttype/newsarticles_edit.html:76
+msgid ""
+"Refer to the <a href=\"http://www.php.net/manual/function.strftime.php"
+"\">'strftime' description</a> in the PHP documentation."
+msgstr ""
+"Bekijk de <a href=\"http://www.php.net/manual/function.strftime.php"
+"\">beschrijving van strftime</a> in de PHP documentatie."
+
+#: pntemplates/contenttype/newsarticles_edit.html:80
+msgid "Display number of pageviews"
+msgstr "Toon het aantal maal gelezen"
+
+#: pntemplates/contenttype/newsarticles_edit.html:87
+msgid "Display number of comments"
+msgstr "Toon het aantal reacties"
+
+#: pntemplates/contenttype/newsarticles_edit.html:93
+msgid "Separator character for article information"
+msgstr "Karakter om de additionele informatie te scheiden"
+
+#: pntemplates/contenttype/newsarticles_edit.html:98
+msgid "Display 'Submit an article' link"
+msgstr "Toon 'Artikel insturen' link"
+
+#: pntemplates/contenttype/newsarticles_edit.html:102
+msgid "Article settings"
+msgstr "Artikel instellingen"
+
+#: pntemplates/contenttype/newsarticles_edit.html:105
+msgid "Display an icon to highlight recent article titles"
+msgstr "Toon een afbeelding bij recente artikelen"
+
+#: pntemplates/contenttype/newsarticles_edit.html:131
+msgid "Display article's index page teaser text"
+msgstr "Toon de artikel introductietekst"
+
+#: pntemplates/contenttype/newsarticles_edit.html:138
+msgid "Maximum displayed length of index page teaser text"
+msgstr "Maximale introductietekst lengte"
+
+#: pntemplates/contenttype/newsarticles_edit.html:144
+msgid "Suffix appended to truncated index page teaser text"
+msgstr "Achtervoegsel voor de afgebroken introductietekst"
+
+#: pntemplates/news_user_archives.htm:16
+msgid "Expand all"
+msgstr "Alles uitklappen"
+
+#: pntemplates/news_user_archives.htm:16
+msgid "Contract all"
+msgstr "Alles inklappen"
+
+#: pntemplates/news_user_archives.htm:44
+#, php-format
+msgid "News archive for %1$s, %2$s"
+msgstr "Nieuws archief van %1$s %2$s"
+
+#: pntemplates/news_user_archives.htm:56
+msgid "Pageviews"
+msgstr "Gelezen"
+
+#: pntemplates/news_admin_modify.htm:21 pntemplates/news_ajax_modify.htm:4
+msgid "Edit news article"
+msgstr "Nieuws artikel bewerken"
+
+#: pntemplates/news_admin_modify.htm:106 pntemplates/news_ajax_modify.htm:59
+msgid "Language(s) for which article should be displayed"
+msgstr "Taal voor welke het artikel moet worden getoond"
+
+#: pntemplates/news_admin_modify.htm:180 pntemplates/news_ajax_modify.htm:128
+msgid "Delete this picture"
+msgstr "Deze foto verwijderen"
+
+#: pntemplates/news_admin_modify.htm:296
+msgid "Meta data"
+msgstr "Meta data"
+
+#: pntemplates/news_admin_modify.htm:302
+msgid "Last edited"
+msgstr "Bijgewerkt op"
+
+#: pntemplates/news_admin_modify.htm:305
+#, php-format
+msgid "Approved by %s"
+msgstr "Goedgekeurd door %s"
+
+#: pntemplates/news_admin_modify.htm:307
+#, php-format
+msgid "Status %s"
+msgstr "Status %s"
+
+#: pntemplates/news_admin_modify.htm:308
+#, php-format
+msgid "Article ID: %s"
+msgstr "Article ID: %s"
+
+#: pntemplates/news_admin_modify.htm:329
+msgid "Approve and publish this article"
+msgstr "Keur dit artikel goed en publiceer het"
+
+#: pntemplates/news_admin_modify.htm:329
+msgid "Approve and Publish"
+msgstr "Goedkeuren en Publiceren"
+
+#: pntemplates/news_admin_modify.htm:329
+msgid "Approve and"
+msgstr "Goedkeuren en"
+
+#: pntemplates/news_admin_modify.htm:331
+msgid "Update this article"
+msgstr "Dit artikel bijwerken"
+
+#: pntemplates/news_admin_modify.htm:331
+msgid "Update"
+msgstr "Bijwerken"
+
+#: pntemplates/news_admin_modify.htm:336
+msgid "Archive this article"
+msgstr "Dit artikel archiveren"
+
+#: pntemplates/news_admin_modify.htm:336
+msgid "Archive"
+msgstr "Archiveren"
+
+#: pntemplates/news_admin_modify.htm:339
+msgid "Reject this article"
+msgstr "Dit artikel afwijzen"
+
+#: pntemplates/news_admin_modify.htm:339
+msgid "Reject"
+msgstr "Afwijzen"
+
+#: pntemplates/news_admin_modify.htm:343 pntemplates/news_ajax_modify.htm:254
+msgid "Delete this article"
+msgstr "Dit artikel verwijderen"
+
+#: pntemplates/news_ajax_modify.htm:115
+msgid "Select a picture"
+msgstr "Kies een foto"
+
+#: pntemplates/news_ajax_modify.htm:251
+#: pntemplates/news_admin_modifyconfig.htm:271
+msgid "Save"
+msgstr "Opslaan"
+
+#: pntemplates/news_ajax_modify.htm:251
+msgid "Save your changes"
+msgstr "Wijzigingen opslaan"
+
+#: pntemplates/news_ajax_modify.htm:252
+msgid "Mark as pending"
+msgstr "Markeren als wachtend"
+
+#: pntemplates/news_block_storiesext_row.htm:4
+msgid "New"
+msgstr "Nieuw"
+
+#: pntemplates/news_block_storiesext_row.htm:8
+#, php-format
+msgid "by %s"
+msgstr "door %s"
+
+#: pntemplates/news_user_articlecontent.htm:50
+msgid "Picture gallery"
+msgstr "Foto gallerij"
+
+#: pntemplates/news_admin_modifyconfig.htm:10
+msgid ""
+"Notice: Your theme could be using template overrides for the News publisher "
+"module (in themes/YourThemeName/templates/modules/News/...). They might lack "
+"behind in functionality to the current default News publisher templates, "
+"please remove them or check them carefully against the default News "
+"publisher templates (in modules/News/pntemplates/...)."
+msgstr ""
+"Let op: Het gebruikte theme kan eigen templates voor de Nieuws module "
+"bevatten (kijk in themes/JouwThemeNaam/templates/modules/News/...). Deze "
+"templates kunnen in functionaliteit achterlopen ten opzichte van de "
+"standaard Nieuws templates, verwijder a.u.b. deze eigen templates of "
+"vergelijjk ze zorgvuldig met de standaard Nieuws templates (kijk in modules/"
+"News/pntemplates/...)."
+
+#: pntemplates/news_admin_modifyconfig.htm:18
+msgid "Enable article attributes"
+msgstr "Artikel attributen inschakelen"
+
+#: pntemplates/news_admin_modifyconfig.htm:24
+msgid "Category settings"
+msgstr "Categorie instellingen"
+
+#: pntemplates/news_admin_modifyconfig.htm:26
+msgid "Enable categorisation"
+msgstr "Categorisatie inschakelen"
+
+#: pntemplates/news_admin_modifyconfig.htm:31
+msgid "Category to use for legacy 'Topics' module template variables"
+msgstr ""
+"Categorie te gebruiken voor de oude 'Topics' (Onderwerpen) module template "
+"variabelen"
+
+#: pntemplates/news_admin_modifyconfig.htm:35
+msgid "Category image path (with trailing /)"
+msgstr "Categorie afbeeldingspad (eindigend op /)"
+
+#: pntemplates/news_admin_modifyconfig.htm:37
+msgid ""
+"Notice: You can associate an image with each article category. The image "
+"must be located in the category image path entered in 'Category image path'. "
+"You must also go to the Categories manager in the site admin panel and then "
+"define the associated image. To do this, add a category attribute named "
+"'topic_image' to each article category, and then enter the associated image "
+"path and name."
+msgstr ""
+"Let op: Aan elke categorie die binnen Nieuws gebruikt wordt, kan een "
+"afbeelding gekoppeld worden. Deze afbeelding moet te vinden zijn in het "
+"categorie afbeeldingspad ingevoerd in 'Categorie afbeeldingspad'. Via site "
+"beheer en vervolgens Categorie beheer kan de koppeling met de afbeelding "
+"gedefinieerd worden. Hiervoor moet een categorie attribuut genaamd "
+"'topic_image' toe worden gevoegd aan iedere artikel categorie, en kan de "
+"gekoppelde afbeelding met pad en naam worden ingevoerd."
+
+#: pntemplates/news_admin_modifyconfig.htm:40
+msgid "Enable category based permission checks"
+msgstr "Categorie gebaseerde rechten controle inschakelen"
+
+#: pntemplates/news_admin_modifyconfig.htm:42
+msgid ""
+"Notice: You can use category based permission checks (Categories::Category | "
+"Category ID:Category Path:Category IPath) for the display of each and every "
+"article. If you don't need to select access based on the articles "
+"categories, you can uncheck this setting for a gain in speed (e.g. less "
+"database queries)."
+msgstr ""
+"Let op: categorie gebaseerde rechten controle kan gebruik worden "
+"(Categories::Category | Category ID:Category Path:Category IPath) voor het "
+"weergeven van ieder artikel. Als deze controle gebaseerd op de artikel "
+"categoriën niet nodig is kan deze instelling uitgevinkt worden for een "
+"snelheidswinst (bijv. minder database queries)."
+
+#: pntemplates/news_admin_modifyconfig.htm:48
+msgid "Display settings"
+msgstr "Weergave instellingen"
+
+#: pntemplates/news_admin_modifyconfig.htm:50
+msgid "Order article listings by"
+msgstr "Sorteer artikelen op"
+
+#: pntemplates/news_admin_modifyconfig.htm:58
+msgid "Number of articles in news index page"
+msgstr "Aantal artikelen op de nieuws startpagina"
+
+#: pntemplates/news_admin_modifyconfig.htm:62
+msgid "Number of articles in archive page"
+msgstr "Aantal artikelen op de archief pagina"
+
+#: pntemplates/news_admin_modifyconfig.htm:66
+msgid "Check referer on printer-friendly pages"
+msgstr "Controleer de referer op printervriendelijke pagina's"
+
+#: pntemplates/news_admin_modifyconfig.htm:73
+msgid "Enable in-line editing of articles via JavaScript/Ajax controls"
+msgstr ""
+"Inline bewerken van artikelen middels JavaScript/Ajax controls inschakelen"
+
+#: pntemplates/news_admin_modifyconfig.htm:77
+msgid ""
+"When Scribite! is being used for editing, the <strong>display</strong> "
+"function needs to be added to the list of module functions that Scribite! "
+"uses for the News Publisher module."
+msgstr ""
+"Als Scribite! gebruikt wordt voor bewerken van artikelen, dan moet de "
+"<strong>display</strong> functie toegevoegd worden aan de lijst van module "
+"functies die Scribite! gebruikt voor de Nieuws module."
+
+#: pntemplates/news_admin_modifyconfig.htm:80
+msgid "Enable 'More articles in category' when displaying an article"
+msgstr ""
+"'Meer artikelen in deze categorie' inschakelen tijdens artikel weergave"
+
+#: pntemplates/news_admin_modifyconfig.htm:85
+msgid "Number of 'More articles in category' for every article"
+msgstr "Het aantal 'Meer artikelen in deze categorie' voor elk artikel"
+
+#: pntemplates/news_admin_modifyconfig.htm:87
+msgid ""
+"When displaying an article, a number of additional articletitles in the same "
+"category can be shown.<br />To show the additional articletitles for every "
+"article set the value above to a number larger than 0. When the value is set "
+"to 0, the number of additional articletitles can be set per article by means "
+"of the article attribute 'morearticlesincat'. You need to enable 'article "
+"attributes' yourself. <br />When the setting above or the article attribute "
+"is set to 0, no titles will be extracted from the database."
+msgstr ""
+"Tijdens het weergeven van een artikel kan een aantal additionele artikel "
+"titels uit dezelfde categorie getoond worden.<br />Om de additionele artikel "
+"titels te tonen stel de waarde hierboven in op een nummer groter dan 0. "
+"Wanneer de waarde op 0 wordt ingesteld, kan het aantal additionele artikel "
+"titels nog ingesteld worden per artikel met behulp van het artikel attribuut "
+"'morearticlesincat'. Hiervoor moeten 'artikel attributen' eigenhandig worden "
+"ingeschakeld.<br />Wanneer de waarde hierboven of het artikel attribuut op 0 "
+"is gezet worden geen titels uit de database opgehaald."
+
+#: pntemplates/news_admin_modifyconfig.htm:91
+msgid "Notify moderators when a new pending article is submitted for review"
+msgstr ""
+"Notificeer moderatoren wanneer er een nieuw wachtend op review artikel is "
+"ingestuurd"
+
+#: pntemplates/news_admin_modifyconfig.htm:96
+msgid ""
+"Whenever a new article is submitted as Pending Review, the admin or a list "
+"of E-mail addresses can be informed of this event with a notification E-mail."
+msgstr ""
+"Telkens wanneer er een nieuw artikel is ingestuurd als Wachtend op review, "
+"kan de beheerder of een lijst van E-mail adressen hierover worden "
+"geïnformeerd met een notificatie E-mail."
+
+#: pntemplates/news_admin_modifyconfig.htm:97
+msgid "From name (leave empty for sitename)"
+msgstr "Van naam (sitename indien leeg gelaten)"
+
+#: pntemplates/news_admin_modifyconfig.htm:101
+msgid "From address (leave empty for admin E-mail address)"
+msgstr "Van adres (beheerders E-mail adres indien leeg gelaten)"
+
+#: pntemplates/news_admin_modifyconfig.htm:105
+msgid "To name (leave empty for sitename)"
+msgstr "Aan naam (site indien leeg gelaten)"
+
+#: pntemplates/news_admin_modifyconfig.htm:109
+msgid ""
+"To address (comma seperated list of E-Mail addresses, leave empty for admin "
+"E-mail address)"
+msgstr ""
+"Aan adres (door komma's gescheiden lijst van E-mail adressen, beheerders E-"
+"mail adres indien leeg gelaten)"
+
+#: pntemplates/news_admin_modifyconfig.htm:113
+msgid "E-mail subject"
+msgstr "E-mail onderwerp"
+
+#: pntemplates/news_admin_modifyconfig.htm:117
+msgid "Send E-mail as HTML "
+msgstr "Verstuur E-mail als HTML"
+
+#: pntemplates/news_admin_modifyconfig.htm:122
+msgid "Display a PDF link for the articles in the index page"
+msgstr "Toon een PDF link bij de artikelen op de startpagina"
+
+#: pntemplates/news_admin_modifyconfig.htm:127
+msgid "Path to the TCPDF main file"
+msgstr "Pad naar het TCPDF hoofdbestand"
+
+#: pntemplates/news_admin_modifyconfig.htm:129
+msgid ""
+"The PDF link is based on <a href=\"http://www.tcpdf.org\">TCPDF</a>. You "
+"have to install the files yourself into the path specified above, when you "
+"want to use the pdflink. Download TCPDF from the link and place the 'tcpdf' "
+"folder into the correct location."
+msgstr ""
+"De PDF link is gebaseerd op <a href=\"http://www.tcpdf.org\">TCPDF</a>. Voor "
+"het gebruik van de pdf link moeten de files eigenhandig geïnstalleerd worden "
+"in het pad hierboven gespecificeerd. Download TCPDF via de link and plaats "
+"de 'tcpdf' folder in de juiste locatie."
+
+#: pntemplates/news_admin_modifyconfig.htm:132
+msgid "TCPDF language file"
+msgstr "TCPDF taal bestand"
+
+#: pntemplates/news_admin_modifyconfig.htm:136
+msgid "TCPDF Header logo image (absolute path or relative to tcpdf)"
+msgstr "TCPDF header logo afbeelding (absoluut pad of relatief vanuit tcpdf)"
+
+#: pntemplates/news_admin_modifyconfig.htm:138
+msgid ""
+"Default Header logo is defined by TCPDF and in PathToTCPDF/images folder. "
+"tcpdf_logo.jpg with a width of 30"
+msgstr ""
+"Standaard header logo is gedefinieerd door TCPDF and staat in PadNaarTCPDF/"
+"images folder. 'tcpdf_logo.jpg' met een breedte van 30mm."
+
+#: pntemplates/news_admin_modifyconfig.htm:141
+msgid "TCPDF header logo width in mm"
+msgstr "TCPDF header logo breedte in mm"
+
+#: pntemplates/news_admin_modifyconfig.htm:146
+msgid "Allow article picture(s) uploading"
+msgstr "Foto(s) uploaden toestaan"
+
+#: pntemplates/news_admin_modifyconfig.htm:148
+msgid ""
+"Notice: Enabling picture uploading has a small security risk, since the "
+"upload folder needs to have write permission for the webserver. For instance "
+"make sure that you trust the users that have picture uploading permissions."
+msgstr ""
+"Let op: Het activeren van de uploadmogelijkheid van afbeeldingen brengt een "
+"veiligheidsrisico met zich mee, omdat de upload directory schrijfrechten "
+"voor de webserver dient te bevatten. Let goed op aan wie het recht om te "
+"uploaden wordt toegekend."
+
+#: pntemplates/news_admin_modifyconfig.htm:152
+msgid "Allowed picture extension (comma seperated list)"
+msgstr "Toegestande afbeeldings extensies (door komma's gescheiden lijst)"
+
+#: pntemplates/news_admin_modifyconfig.htm:156
+msgid "Image float on the index page"
+msgstr "Zwevende lokatie van afbeeldingen op de introductie pagina"
+
+#: pntemplates/news_admin_modifyconfig.htm:158
+#: pntemplates/news_admin_modifyconfig.htm:166
+msgid "Left - image floats to the left and text wraps around it"
+msgstr ""
+"Links - afbeelding zweeft aan de linkerkant en de tekst loopt er omheen"
+
+#: pntemplates/news_admin_modifyconfig.htm:159
+#: pntemplates/news_admin_modifyconfig.htm:167
+msgid "Right - image floats to the right and text wraps around it"
+msgstr ""
+"Rechts - afbeelding zweeft aan de rechterkant en de tekst loopt er omheen"
+
+#: pntemplates/news_admin_modifyconfig.htm:160
+#: pntemplates/news_admin_modifyconfig.htm:168
+msgid "None - text is not wrapped around the image"
+msgstr "Geen - de tekst loopt niet om de afbeelding heen"
+
+#: pntemplates/news_admin_modifyconfig.htm:164
+msgid "Image float on the article display page"
+msgstr "Zwevende lokatie van afbeeldingen op de artikel pagina"
+
+#: pntemplates/news_admin_modifyconfig.htm:172
+msgid "How many pictures are allowed"
+msgstr "Hoeveel foto's zijn toegestaan"
+
+#: pntemplates/news_admin_modifyconfig.htm:176
+msgid "Maximum file size of the pictures (in Bytes)"
+msgstr "Maximale bestandsgrootte van de foto's (in Bytes)"
+
+#: pntemplates/news_admin_modifyconfig.htm:180
+msgid "What thumbnail sizing to use"
+msgstr "De te gebruiken thumbnail schaling"
+
+#: pntemplates/news_admin_modifyconfig.htm:182
+msgid "Best fit (keeps aspect ratio)"
+msgstr "Best passend (met behoud van verhoudingen)"
+
+#: pntemplates/news_admin_modifyconfig.htm:183
+msgid "Fixed size (scale and crop)"
+msgstr "Vaste grootte (schalen en bijsnijden)"
+
+#: pntemplates/news_admin_modifyconfig.htm:187
+msgid "Maximum width of the full size pictures (in pixels)"
+msgstr "Maximale breedte van de volledige foto (in pixels)"
+
+#: pntemplates/news_admin_modifyconfig.htm:191
+msgid "Maximum height of the full size pictures (in pixels)"
+msgstr "Maximale hoogte van de volledige foto (in pixels)"
+
+#: pntemplates/news_admin_modifyconfig.htm:195
+msgid "Maximum width of the thumbnails (in pixels)"
+msgstr "Maximale breedte van de thumbnails (in pixels)"
+
+#: pntemplates/news_admin_modifyconfig.htm:199
+msgid "Maximum height of the thumbnails (in pixels)"
+msgstr "Maximale hoogte van de thumbnails (in pixels)"
+
+#: pntemplates/news_admin_modifyconfig.htm:203
+msgid ""
+"Maximum width of the thumbnail in the article display intro text (in pixels)"
+msgstr ""
+"Maximale breedte van de thumbnail in de introductie tekst bij de artikel "
+"pagina (in pixels)"
+
+#: pntemplates/news_admin_modifyconfig.htm:207
+msgid ""
+"Maximum height of the thumbnail in the article display intro text (in pixels)"
+msgstr ""
+"Maximale hoogte van de thumbnail in de introductie tekst bij de artikel "
+"pagina (in pixels)"
+
+#: pntemplates/news_admin_modifyconfig.htm:211
+msgid "Directory where the images are uploaded"
+msgstr "Directory waar geuploade afbeeldingen opgeslagen dienen te worden"
+
+#: pntemplates/news_admin_modifyconfig.htm:216
+msgid "Create the specified upload directory"
+msgstr "De opgegeven directory aanmaken"
+
+#: pntemplates/news_admin_modifyconfig.htm:225
+msgid "Permalinks"
+msgstr "Permalinks"
+
+#: pntemplates/news_admin_modifyconfig.htm:226
+msgid ""
+"You can select a pre-defined permalink format, or define your custom format."
+msgstr ""
+"Selecteer één van de voorgedefinieerde permalink structuren, of kies er zelf "
+"één."
+
+#: pntemplates/news_admin_modifyconfig.htm:229
+msgid "Format based on date and name"
+msgstr "Datum en naam gebaseerde structuur"
+
+#: pntemplates/news_admin_modifyconfig.htm:232
+msgid "your-article-title"
+msgstr "titel-van-artikel"
+
+#: pntemplates/news_admin_modifyconfig.htm:236
+msgid "Numeric format"
+msgstr "Numerieke structuur"
+
+#: pntemplates/news_admin_modifyconfig.htm:243
+msgid "Custom format"
+msgstr "Eigen structuur"
+
+#: pntemplates/news_admin_modifyconfig.htm:250
+msgid "Custom format definition"
+msgstr "Eigen structuur definitie"
+
+#: pntemplates/news_admin_modifyconfig.htm:252
+msgid ""
+"Notice: A custom format definition must contain at least either '%articleid"
+"%' or '%articletitle%', in order to be able to identify the article."
+msgstr ""
+"Let op: Een eigen structuur dient minstens óf %articleid% óf %articletitle% "
+"te bevatten om het artikel te kunnen indentificeren."
+
+#: pntemplates/news_admin_modifyconfig.htm:254
+msgid "Acceptable values for use in custom format definition:"
+msgstr "Mogelijke waarden voor gebruik in eigen structuur definitie:"
+
+#: pntemplates/news_admin_modifyconfig.htm:256
+msgid "Year of publication (including century numerals)"
+msgstr "Jaar van publicatie (inclusief eeuw-aanduiding)"
+
+#: pntemplates/news_admin_modifyconfig.htm:257
+msgid "Month of publication, as a number (ergo 1 to 12)"
+msgstr "Maand van publicatie als nummer (dus 1 t/m 12)"
+
+#: pntemplates/news_admin_modifyconfig.htm:258
+msgid "Month of publication as a name (ergo January to December)"
+msgstr "Maand van publicatie als naam (dus Januari t/m December)"
+
+#: pntemplates/news_admin_modifyconfig.htm:259
+msgid "Day"
+msgstr "Dag"
+
+#: pntemplates/news_admin_modifyconfig.htm:260
+msgid "Article title"
+msgstr "Titel van artikel"
+
+#: pntemplates/news_admin_modifyconfig.htm:262
+msgid "Article category"
+msgstr "Categorie van artikel"
+
+#: pntemplates/news_admin_delete.htm:2
+msgid "Delete news article"
+msgstr "Nieuws artikel verwijderen"
+
+#: pntemplates/news_admin_delete.htm:8
+msgid "Do you really want to delete this news article?"
+msgstr "Dient dit nieuws artikel werkelijk verwijderd te worden?"
+
+#: pntemplates/news_admin_delete.htm:15
+msgid "Confirmation prompt"
+msgstr "Bevestiging gevraagd"
+
+#~ msgid ""
+#~ "Picture %s is not uploaded, due to an upload error, too large filesize "
+#~ "(max. %s kB) or using a not allowed extension (only %s allowed)."
+#~ msgstr ""
+#~ "Uploaden van foto %s is niet gelukt door een upload fout, een te grote "
+#~ "bestandsgrootte (max. %s kB) of door het gebruik van een niet toegestane "
+#~ "extensie (alleen %s is toegestaan)."
+
+#~ msgid ""
+#~ "The specified image upload directory [%s] does not exist or is not "
+#~ "writable by the webserver"
+#~ msgstr ""
+#~ "De gekozen image upload folder [%s] bestaat niet of is niet schrijfbaar "
+#~ "voor de webserver."
+
+#~ msgid ""
+#~ "Directory where the images are uploaded (leaving empty will create the "
+#~ "default directory images/news_picupload)"
+#~ msgstr ""
+#~ "Folder waar de foto's worden opgeslagen (het veld leeglaten maakt de "
+#~ "standaard folder images/news_picupload aan)"
+
+#~ msgid "Article %1$s by %2$s"
+#~ msgstr "Artikel %1$s door %2$s"
+
+#~ msgid "Last edited on"
+#~ msgstr "Bijgewerkt op"

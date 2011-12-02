@@ -1,0 +1,1454 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-28 08:36-0300\n"
+"PO-Revision-Date: 2010-07-13 03:11+0200\n"
+"Last-Translator: Mateo <nestormateo@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnuserapi.php:32 pnuserapi.php:231 pnuserapi.php:234 pnuserapi.php:339
+#: pnuserapi.php:342 pnuserapi.php:390 pnuserapi.php:393 pnuserapi.php:415
+#: pnuserapi.php:418 pnadmin.php:141 pnadmin.php:234 pnadmin.php:237
+#: pnadmin.php:281 pnadmin.php:284 classes/PmWorkflowUtil.class.php:33
+#: classes/PmWorkflowUtil.class.php:37 pnadminapi.php:24 pnuser.php:37
+#: pnuser.php:179 pnuser.php:182 pnuser.php:335 pnuser.php:438 pnuser.php:442
+#: pnuser.php:446 pntemplates/plugins/function.get_workflow_state.php:31
+#: pntemplates/plugins/function.get_workflow_state.php:35
+#: pntemplates/plugins/function.genericformplugin.php:28
+#: pntemplates/plugins/function.multilistdecode.php:21
+#: pntemplates/plugins/function.multilistdecode.php:25
+#: pntemplates/plugins/function.category_browser.php:38
+#: pntemplates/plugins/function.category_browser.php:42
+#: pntemplates/plugins/function.pmadminsubmenu.php:26
+#: pntemplates/plugins/function.hitcount.php:30
+#: pntemplates/plugins/function.hitcount.php:34
+#, php-format
+msgid "Error! Missing argument [%s]."
+msgstr "Error! Argumento ausente [%s]."
+
+#: pnuserapi.php:40 pnuserapi.php:254 pnuser.php:42 pnuser.php:187
+#: pnuser.php:340
+#, php-format
+msgid "Error! No such publication type [%s] found."
+msgstr "Error! No se encontró tal tipo de publicación [%s]."
+
+#: pnuserapi.php:263 pnuser.php:109 pnuser.php:268 pnuser.php:345
+msgid "Error! No publication fields found."
+msgstr "Error! No se encontraron los campos de la publicación."
+
+#: pnuserapi.php:342
+msgid "commandName has to be a valid workflow action for the current state."
+msgstr ""
+"El comando tiene que ser una acción válida del flujo de trabajo para el "
+"estado actual."
+
+#: pnuserapi.php:369
+msgid "Workflow action error."
+msgstr "Error en la acción del flujo de trabajo."
+
+#: pnadmin.php:113
+msgid "Error! No such publication type found."
+msgstr "Error! No se encontró tal tipo de publicación."
+
+#: pnadmin.php:120 pnajax.php:33 pninit.php:127 pninit.php:157 pninit.php:226
+#: pninit.php:237
+msgid "Error! Update attempt failed."
+msgstr "¡Error! Intento de actualización ha fallado."
+
+#: pnadmin.php:123
+msgid "Done! Database table updated."
+msgstr "Hecho! Tabla de base de datos actualizada."
+
+#: pnadmin.php:151
+msgid ""
+"Error! The table of this publication type seems not to exist. Please, update "
+"the DB Tables at the bottom of this form."
+msgstr ""
+"Error! La tabla de este tipo de publicación parece no existir. Por favor, "
+"actualice la tabla de la BD al final de este formulario."
+
+#: pnadmin.php:301
+msgid "There has to be at least one publication to generate the template code."
+msgstr ""
+"Tiene que haber por lo menos un artículo para generar el código de la "
+"plantilla."
+
+#: workflows/function.none_permissioncheck.php:46
+msgid "None"
+msgstr "Ninguno"
+
+#: workflows/function.none_permissioncheck.php:47
+msgid ""
+"This is an almost non-existing workflow. Everything is online immediately "
+"after creation."
+msgstr ""
+"Este es un flujo de trabajo prácticamente no existente. Todo artículo se "
+"publica inmediatamente después de su creación."
+
+#: workflows/function.none_permissioncheck.php:51
+#: workflows/function.standard_permissioncheck.php:52
+msgid "Approved"
+msgstr "Aprobado"
+
+#: workflows/function.none_permissioncheck.php:51
+#: workflows/function.standard_permissioncheck.php:52
+msgid "Content has been approved is available online"
+msgstr "El artículo ha sido aprobado y está disponible en línea"
+
+#: workflows/function.none_permissioncheck.php:52
+msgid "Deleted"
+msgstr "Borrado"
+
+#: workflows/function.none_permissioncheck.php:52
+msgid "Content has been deleted"
+msgstr "El articulo ha sido borrado"
+
+#: workflows/function.none_permissioncheck.php:58
+#: workflows/function.standard_permissioncheck.php:59
+msgid "Submit"
+msgstr "Enviar"
+
+#: workflows/function.none_permissioncheck.php:58
+msgid "Submit a publication"
+msgstr "Enviar un artículo"
+
+#: workflows/function.none_permissioncheck.php:61
+#: workflows/function.standard_permissioncheck.php:64
+#: workflows/function.standard_permissioncheck.php:68
+msgid "Update"
+msgstr "Actualizar"
+
+#: workflows/function.none_permissioncheck.php:61
+#: workflows/function.standard_permissioncheck.php:68
+msgid "Update the publication"
+msgstr "Actualizar el artículo"
+
+#: workflows/function.none_permissioncheck.php:62
+#: workflows/function.standard_permissioncheck.php:65
+#: workflows/function.standard_permissioncheck.php:72
+#: Form/Plugin/CustomData.php:261 Form/Plugin/CustomData.php:282
+#: classes/FormPlugins/pmformcustomdata.class.php:264
+#: classes/FormPlugins/pmformcustomdata.class.php:285
+#: pntemplates/pagemaster_admin_pubfields.htm:146
+#: pntemplates/pagemaster_admin_pubtype.htm:111
+msgid "Delete"
+msgstr "Eliminar"
+
+#: workflows/function.none_permissioncheck.php:62
+#: workflows/function.standard_permissioncheck.php:65
+#: workflows/function.standard_permissioncheck.php:72
+msgid "Delete the publication"
+msgstr "Borrar el artículo"
+
+#: workflows/operations/function.updatePub.php:44
+msgid "Error! Could not unpublish the other revisions of this publication."
+msgstr ""
+"Error! No se pudo anular la publicación de las otras revisiones de este "
+"artículo."
+
+#: workflows/operations/function.updatePub.php:91
+msgid "Done! Publication updated."
+msgstr "Hecho! Artículo actualizado."
+
+#: workflows/operations/function.updatePub.php:93
+#: workflows/operations/function.updateOnlineState.php:45
+msgid "Error! Failed to update the publication."
+msgstr "Error! Actualización del artículo fallida."
+
+#: workflows/operations/function.deletePub.php:43
+msgid "Done! Publication deleted."
+msgstr "Hecho! Artículo borrado."
+
+#: workflows/operations/function.deletePub.php:45
+msgid "Error! Failed to delete the publication."
+msgstr "Error! Borrado del artículo fallido."
+
+#: workflows/operations/function.copyPub.php:65
+msgid "Done! Publication copied."
+msgstr "Hecho! Artículo copiado."
+
+#: workflows/operations/function.copyPub.php:67
+msgid "Error! Failed to copy the publication."
+msgstr "Error! Copia del artículo fallida."
+
+#: workflows/operations/function.moveToDepot.php:40
+msgid "Done! Publication archived."
+msgstr "Hecho! Artículo archivado."
+
+#: workflows/operations/function.moveToDepot.php:42
+msgid "Error! Failed to update publication."
+msgstr "Error! Actualización del artículo fallida."
+
+#: workflows/operations/function.createPub.php:50
+msgid "Done! Publication created."
+msgstr "Hecho! Artículo creado."
+
+#: workflows/operations/function.createPub.php:59
+msgid "Error! Failed to create the publication."
+msgstr "Error! Creación del artículo fallida."
+
+#: workflows/operations/function.updateOnlineState.php:40
+msgid "Done! Publication status set to 'published'."
+msgstr "Hecho! El estado del artículo ahora es 'publicado'."
+
+#: workflows/operations/function.updateOnlineState.php:42
+msgid "Done! Publication status set to 'unpublished'."
+msgstr "Hecho! El estado del artículo ahora es 'inédito'."
+
+#: workflows/function.standard_permissioncheck.php:46
+msgid "Standard"
+msgstr "Estandar"
+
+#: workflows/function.standard_permissioncheck.php:47
+msgid ""
+"This is a two staged workflow with stages for untrusted submissions and "
+"finally approved publications. It does not allow untrusted corrections to "
+"published pages."
+msgstr ""
+"Este es un flujo de trabajo de dos etapas para los artículos enviados desde "
+"fuentes no confiables y finalmente aprobados. No permite correcciones no "
+"confiables a las páginas publicadas."
+
+#: workflows/function.standard_permissioncheck.php:51
+msgid "Waiting"
+msgstr "En espera"
+
+#: workflows/function.standard_permissioncheck.php:51
+msgid "Content has been submitted and is waiting for acceptance"
+msgstr "El artículo ha sido enviado y está esperando aprobación"
+
+#: workflows/function.standard_permissioncheck.php:58
+msgid "Submit and Approve"
+msgstr "Enviar y Aprobar"
+
+#: workflows/function.standard_permissioncheck.php:58
+msgid "Submit a publication and approve immediately"
+msgstr "Envía y aprueba un artículo inmediatamente"
+
+#: workflows/function.standard_permissioncheck.php:59
+msgid "Submit a publication for acceptance by a moderator"
+msgstr "Envía el artículo para la aprobación de un moderador"
+
+#: workflows/function.standard_permissioncheck.php:62
+msgid "Update and Approve"
+msgstr "Actualizar y Aprobar"
+
+#: workflows/function.standard_permissioncheck.php:62
+msgid "Update the content and approve for immediate publishing"
+msgstr "Actualizar el artículo y aprobarlo para su publicación inmediata"
+
+#: workflows/function.standard_permissioncheck.php:63
+msgid "Approve"
+msgstr "Aprobar"
+
+#: workflows/function.standard_permissioncheck.php:63
+msgid "Approve the publication for immediate publishing"
+msgstr "Aprobar el artículo para su publicación inmediata"
+
+#: workflows/function.standard_permissioncheck.php:64
+msgid "Update the content for later publishing"
+msgstr "Actualizar el artículo para su publicación posterior"
+
+#: workflows/function.standard_permissioncheck.php:69
+msgid "Publish"
+msgstr "Publicar"
+
+#: workflows/function.standard_permissioncheck.php:69
+msgid "Make the publication available"
+msgstr "Hacer el artículo disponible"
+
+#: workflows/function.standard_permissioncheck.php:70
+msgid "Unpublish"
+msgstr "Desactivar"
+
+#: workflows/function.standard_permissioncheck.php:70
+msgid "Hide the publication"
+msgstr "Remover la publicación del artículo"
+
+#: workflows/function.standard_permissioncheck.php:71
+msgid "Move to depot"
+msgstr "Archivar"
+
+#: workflows/function.standard_permissioncheck.php:71
+msgid "Move the publication to the depot"
+msgstr "Archivar el artículo"
+
+#. ! field type name
+#: Form/Plugin/String.php:22
+#: classes/FormPlugins/pmformstringinput.class.php:24
+msgid "String"
+msgstr "Cadena"
+
+#. ! field type name
+#: Form/Plugin/Ms.php:22 classes/FormPlugins/pmformmsinput.class.php:24
+msgid "Mediashare"
+msgstr "Mediashare"
+
+#. ! field type name
+#: Form/Plugin/MultiList.php:25
+#: classes/FormPlugins/pmformmultilistinput.class.php:27
+msgid "Multiple Selector"
+msgstr "Selector Múltiple"
+
+#: Form/Plugin/MultiList.php:149 Form/Plugin/List.php:124
+#: Form/Plugin/MultiCheck.php:116
+#: classes/FormPlugins/pmformmultilistinput.class.php:151
+#: classes/FormPlugins/pmformmulticheckinput.class.php:118
+#: classes/FormPlugins/pmformlistinput.class.php:126
+msgid "Category"
+msgstr "Categoría"
+
+#: Form/Plugin/MultiList.php:165
+#: classes/FormPlugins/pmformmultilistinput.class.php:167
+msgid "Size"
+msgstr "Tamaño"
+
+#. ! field type name
+#: Form/Plugin/Url.php:22 classes/FormPlugins/pmformurlinput.class.php:24
+msgid "URL"
+msgstr "URL"
+
+#: Form/Plugin/Url.php:65 classes/FormPlugins/pmformurlinput.class.php:67
+msgid "Error! Invalid URL."
+msgstr "Error! URL no válida."
+
+#. ! field type name
+#: Form/Plugin/Int.php:22 classes/FormPlugins/pmformintinput.class.php:24
+msgid "Integer Value"
+msgstr "Valor Entero"
+
+#. ! field type name
+#: Form/Plugin/CustomData.php:24
+#: classes/FormPlugins/pmformcustomdata.class.php:26
+msgid "Custom Data"
+msgstr "Datos Personalizados"
+
+#: Form/Plugin/CustomData.php:231
+#: classes/FormPlugins/pmformcustomdata.class.php:234
+msgid "Default:"
+msgstr "Predeterminado:"
+
+#: Form/Plugin/CustomData.php:235
+#: classes/FormPlugins/pmformcustomdata.class.php:238
+msgid "Add a new item type"
+msgstr "Añadir un nuevo tipo de elemento"
+
+#: Form/Plugin/CustomData.php:239
+#: classes/FormPlugins/pmformcustomdata.class.php:242
+msgid "Type name"
+msgstr "Tipo"
+
+#: Form/Plugin/CustomData.php:240
+#: classes/FormPlugins/pmformcustomdata.class.php:243
+msgid "Display name"
+msgstr "Nombre público"
+
+#: Form/Plugin/CustomData.php:241
+#: classes/FormPlugins/pmformcustomdata.class.php:244
+msgid "API to use"
+msgstr "API a usar"
+
+#: Form/Plugin/CustomData.php:242
+#: classes/FormPlugins/pmformcustomdata.class.php:245
+msgid "Ajax call"
+msgstr "Llamado Ajax"
+
+#: Form/Plugin/CustomData.php:243
+#: classes/FormPlugins/pmformcustomdata.class.php:246
+#: pntemplates/plugins/function.pmadminsubmenu.php:40
+#: pntemplates/plugins/function.pmadminsubmenu.php:42
+#: pntemplates/pagemaster_admin_publist.htm:71
+#: pntemplates/pagemaster_admin_pubtypes.htm:18
+msgid "Options"
+msgstr "Opciones"
+
+#. ! field type name
+#: Form/Plugin/Image.php:25 classes/FormPlugins/pmformimageinput.class.php:27
+msgid "Image Upload"
+msgstr "Subida de Imagen"
+
+#: Form/Plugin/Image.php:66 Form/Plugin/Upload.php:61
+#: classes/FormPlugins/pmformimageinput.class.php:68
+#: classes/FormPlugins/pmformuploadinput.class.php:63
+msgid "Stored data is invalid"
+msgstr "Los datos guardados son inválidos"
+
+#: Form/Plugin/Image.php:243
+#: classes/FormPlugins/pmformimageinput.class.php:245
+msgid "Thumbnail width"
+msgstr "Ancho de miniatura"
+
+#: Form/Plugin/Image.php:247
+#: classes/FormPlugins/pmformimageinput.class.php:249
+msgid "Thumbnail height"
+msgstr "Alto de miniatura"
+
+#: Form/Plugin/Image.php:252
+#: classes/FormPlugins/pmformimageinput.class.php:254
+msgid "Preview width"
+msgstr "Ancho de previsualización"
+
+#: Form/Plugin/Image.php:256
+#: classes/FormPlugins/pmformimageinput.class.php:258
+msgid "Preview height"
+msgstr "Alto de previsualización"
+
+#: Form/Plugin/Image.php:261
+#: classes/FormPlugins/pmformimageinput.class.php:263
+msgid "Full width"
+msgstr "Ancho completo"
+
+#: Form/Plugin/Image.php:265
+#: classes/FormPlugins/pmformimageinput.class.php:267
+msgid "Full height"
+msgstr "Alto completo"
+
+#: Form/Plugin/Image.php:270
+#: classes/FormPlugins/pmformimageinput.class.php:272
+msgid ""
+"Warning! The Thumbnails module is not available. This plugin needs it to "
+"build the Preview and Thumbnail of each uploaded Image."
+msgstr ""
+"Advertencia! El módulo Thumbnails no está disponible. Este plugin lo "
+"necesita para generar las Previsualizaciones y Miniaturas de cada imagen "
+"subida."
+
+#. ! field type name
+#: Form/Plugin/Pub.php:24 Form/Plugin/Pub.php:121
+#: classes/FormPlugins/pmformpubinput.class.php:26
+#: classes/FormPlugins/pmformpubinput.class.php:123
+msgid "Publication"
+msgstr "Artículo"
+
+#: Form/Plugin/Pub.php:51 classes/FormPlugins/pmformpubinput.class.php:53
+msgid "No such publication found."
+msgstr "No se encontró tal artículo."
+
+#: Form/Plugin/Pub.php:86 classes/FormPlugins/pmformpubinput.class.php:88
+msgid "Plugin not configured."
+msgstr "Plugin no configurado."
+
+#: Form/Plugin/Pub.php:133 classes/FormPlugins/pmformpubinput.class.php:135
+msgid "Filter"
+msgstr "Filtrar"
+
+#: Form/Plugin/Pub.php:137 classes/FormPlugins/pmformpubinput.class.php:139
+msgid "Join"
+msgstr "Join"
+
+#: Form/Plugin/Pub.php:141 classes/FormPlugins/pmformpubinput.class.php:143
+msgid "Join fields"
+msgstr "Campos join"
+
+#: Form/Plugin/Pub.php:143 classes/FormPlugins/pmformpubinput.class.php:145
+msgid "format: fieldname:alias,fieldname:alias"
+msgstr "formato: campo:alias,campo:alias"
+
+#: Form/Plugin/Pub.php:146 classes/FormPlugins/pmformpubinput.class.php:148
+msgid "Orderby field"
+msgstr "Ordenar por el campo"
+
+#. ! field type name
+#: Form/Plugin/Float.php:22 classes/FormPlugins/pmformfloatinput.class.php:24
+msgid "Float Value"
+msgstr "Valor Flotante"
+
+#. ! field type name
+#: Form/Plugin/Email.php:22 classes/FormPlugins/pmformemailinput.class.php:24
+msgid "Email"
+msgstr "Email"
+
+#. ! field type name
+#: Form/Plugin/Date.php:25 classes/FormPlugins/pmformdateinput.class.php:27
+msgid "Date"
+msgstr "Fecha"
+
+#: Form/Plugin/Date.php:59 classes/FormPlugins/pmformdateinput.class.php:61
+msgid "Include time"
+msgstr "Incluir hora"
+
+#. ! field type name
+#: Form/Plugin/List.php:25 classes/FormPlugins/pmformlistinput.class.php:27
+#: pntemplates/pagemaster_admin_pubtypes.htm:67
+msgid "List"
+msgstr "Lista"
+
+#: Form/Plugin/List.php:142 classes/FormPlugins/pmformlistinput.class.php:144
+msgid "Include an empty item?"
+msgstr "Incluir un elemento vacío?"
+
+#. ! field type name
+#: Form/Plugin/Checkbox.php:22
+#: classes/FormPlugins/pmformcheckboxinput.class.php:24
+msgid "Checkbox"
+msgstr "Caja de verificacion"
+
+#. ! field type name
+#: Form/Plugin/MultiCheck.php:25
+#: classes/FormPlugins/pmformmulticheckinput.class.php:27
+msgid "MultiCheckbox List"
+msgstr "Lista de Verificación Múltiple"
+
+#. ! field type name
+#: Form/Plugin/Text.php:24 classes/FormPlugins/pmformtextinput.class.php:26
+msgid "Text"
+msgstr "Texto"
+
+#: Form/Plugin/Text.php:79 classes/FormPlugins/pmformtextinput.class.php:81
+msgid "Use Scribite!"
+msgstr "Usar Scribite!"
+
+#: Form/Plugin/Text.php:84 classes/FormPlugins/pmformtextinput.class.php:86
+msgid "Install Scribite! if you want to use it in this text field"
+msgstr "Instale Scribite! si quiere usarlo en este campo de texto"
+
+#. ! field type name
+#: Form/Plugin/Upload.php:23
+#: classes/FormPlugins/pmformuploadinput.class.php:25
+msgid "File Upload"
+msgstr "Subida de Archivo"
+
+#: pnversion.php:16 pninit.php:44
+msgid "PageMaster"
+msgstr "PageMaster"
+
+#: pnversion.php:17
+msgid "Content Module like pagesetter"
+msgstr "Módulo administrador de contenidos como pagesetter"
+
+#. ! module name that appears in URL
+#: pnversion.php:19
+msgid "pagemaster"
+msgstr "pagemaster"
+
+#: pnajax.php:17
+msgid "Sorry! No authorization to access this module."
+msgstr "Disculpe! No tiene autorización para acceder a este módulo."
+
+#: pninit.php:45
+msgid "PageMaster root category"
+msgstr "Categoría raíz de PageMaster"
+
+#: pninit.php:47 pninit.php:64
+#, php-format
+msgid "Error! Could not create the [%s] category."
+msgstr "Error! No se pudo crear la categoría [%s]."
+
+#. ! this is the 'lists' root category name
+#: pninit.php:61
+msgid "lists"
+msgstr "listas"
+
+#: pninit.php:62
+msgid "PageMaster lists for its publications"
+msgstr "Listas de PageMaster para sus artículos"
+
+#: pninit.php:81
+#, php-format
+msgid "Error! Could not create the [%s] Category Registry for PageMaster."
+msgstr ""
+"Error! No se pudo crear el Registro de Categorías [%s] para PageMaster."
+
+#: pninit.php:90
+#, php-format
+msgid ""
+"PageMaster created the upload directory successfully at [%s]. Be sure that "
+"this directory is accessible via web and writable by the webserver."
+msgstr ""
+"PageMaster creó su carpeta de cargas exitosamente en [%s]. Asegúrese que esa "
+"carpeta es accesible desde la web y escribible por el servidor."
+
+#: pninit.php:93
+#, php-format
+msgid ""
+"PageMaster could not create the upload directory [%s]. Please create an "
+"upload directory, accessible via web and writable by the webserver."
+msgstr ""
+"PageMaster no pudo crear su carpeta de cargas [%s]. Por favor cree una "
+"carpeta accesible desde la web y escribible por el servidor, y configure su "
+"ruta en el panel de administración de PageMaster."
+
+#: pninit.php:305 pninit.php:306
+#, php-format
+msgid "Error! Category path not found [%s]."
+msgstr "Error! Ruta de la categoría no encontrado [%s]."
+
+#: pnsearchapi.php:117
+msgid "Error! Could not save the search results."
+msgstr "Error! No se pudo guardar los resultados de la búsqueda."
+
+#: classes/FormHandlers/PageMaster_user_editpub.class.php:73
+msgid "No workflow actions found. This can be a permissions issue."
+msgstr ""
+"No se encontraron acciones de flujo de trabajo. Esto puede ser un problema "
+"de permisos."
+
+#: classes/FormHandlers/PageMaster_admin_modifyconfig.class.php:82
+msgid "Done! Module configuration updated."
+msgstr "Hecho! Configuracion de modulo actualizada."
+
+#: classes/FormHandlers/PageMaster_admin_pubtypes.class.php:50
+#: pntemplates/pagemaster_admin_publist.htm:63
+msgid "Creation date"
+msgstr "Fecha de creación"
+
+#: classes/FormHandlers/PageMaster_admin_pubtypes.class.php:54
+#: pntemplates/pagemaster_admin_publist.htm:68
+msgid "Update date"
+msgstr "Fecha de actualización"
+
+#: classes/FormHandlers/PageMaster_admin_pubtypes.class.php:58
+msgid "Creator"
+msgstr "Autor"
+
+#: classes/FormHandlers/PageMaster_admin_pubtypes.class.php:62
+msgid "Updater"
+msgstr "Actualizado por"
+
+#: classes/FormHandlers/PageMaster_admin_pubtypes.class.php:66 common.php:231
+msgid "Publish date"
+msgstr "Fecha de publicación"
+
+#: classes/FormHandlers/PageMaster_admin_pubtypes.class.php:70 common.php:232
+msgid "Expire date"
+msgstr "Fecha de expiración"
+
+#: classes/FormHandlers/PageMaster_admin_pubtypes.class.php:74 common.php:230
+msgid "Language"
+msgstr "Idioma"
+
+#: classes/FormHandlers/PageMaster_admin_pubtypes.class.php:78
+msgid "Number of reads"
+msgstr "Número de lecturas"
+
+#: classes/FormHandlers/PageMaster_admin_pubtypes.class.php:137
+msgid "Done! Publication type created."
+msgstr "Hecho! Tipo de publicación creado."
+
+#: classes/FormHandlers/PageMaster_admin_pubtypes.class.php:140
+msgid "Done! Publication type updated."
+msgstr "Hecho! Tipo de publicación actualizado."
+
+#: classes/FormHandlers/PageMaster_admin_pubtypes.class.php:151
+msgid "Done! Publication type deleted."
+msgstr "Hecho! Tipo de publicación borrado."
+
+#: classes/FormHandlers/PageMaster_admin_pubfields.class.php:34
+#, php-format
+msgid "Error! %s not set."
+msgstr "Error! %s no establecido."
+
+#: classes/FormHandlers/PageMaster_admin_pubfields.class.php:94
+msgid "Error! Name has to be unique."
+msgstr "Error! El nombre tiene que ser único."
+
+#: classes/FormHandlers/PageMaster_admin_pubfields.class.php:104
+msgid "Done! Field created."
+msgstr "Hecho! Campo creado."
+
+#: classes/FormHandlers/PageMaster_admin_pubfields.class.php:108
+msgid "Done! Field updated."
+msgstr "Hecho! Campo actualizado."
+
+#: classes/FormHandlers/PageMaster_admin_pubfields.class.php:115
+msgid "Done! Field deleted."
+msgstr "Hecho! Campo borrado."
+
+#: classes/FormHandlers/PageMaster_admin_pubfields.class.php:117
+msgid "Error! Deletion attempt failed."
+msgstr "¡Error! Intento de eliminación falló."
+
+#: pnadminapi.php:33
+#, php-format
+msgid ""
+"Error! No table definitions found. Please <a href=\"%s\">define the fields</"
+"a> of your publication."
+msgstr ""
+"Error! No se encontró la definición de la tabla. Por favor <a href=\"%s"
+"\">defina los campos</a> de su publicación."
+
+#: pnadminapi.php:61
+msgid "List publication types"
+msgstr "Lista de tipos de publicación"
+
+#: pnadminapi.php:65
+msgid "New publication type"
+msgstr "Nuevo tipo de publicación"
+
+#: pnadminapi.php:69
+msgid "Edit publications"
+msgstr "Editar publicaciones"
+
+#: pnadminapi.php:73 pntemplates/pagemaster_admin_modifyconfig.htm:6
+#: pntemplates/pagemaster_admin_modifyconfig.htm:8
+msgid "Settings"
+msgstr "Configuración"
+
+#: pnuser.php:143 pnuser.php:304 pnuser.php:396 pnuser.php:405
+#, php-format
+msgid "Notice: Template [%s] not found."
+msgstr "Aviso: Plantilla [%s] no encontrada."
+
+#: pnuser.php:282
+#, php-format
+msgid "No such publication [%s - %s, %s] found."
+msgstr "No de encontró tal publicación [%s - %s, %s]."
+
+#: pnuser.php:358
+#, php-format
+msgid "Error! No such publication [%s - %s] found."
+msgstr "¡Error! No se encontró tal publicación [%s - %s]."
+
+#: pnuser.php:458
+#, php-format
+msgid "Error! No such publication [%s] found."
+msgstr "Error! No se encontró tal publicación [%s]."
+
+#: common.php:67
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: common.php:68
+msgid "Image"
+msgstr "Imágen"
+
+#: common.php:176 pntemplates/plugins/function.pmadminsubmenu.php:59
+msgid "New publication"
+msgstr "Nuevo artículo"
+
+#: common.php:177
+msgid "Edit publication"
+msgstr "Editar artículo"
+
+#: common.php:233
+msgid "Show in list"
+msgstr "Mostrar en listado"
+
+#: pnimportapi.php:97
+msgid "Lists import succeded!"
+msgstr "Importe de listas exitoso!"
+
+#: pnimportapi.php:269
+#, php-format
+msgid "Error! Unsupported field type [%s]."
+msgstr "Error! Campo no soportado [%s]."
+
+#: pnimportapi.php:286
+msgid "Fields import succeded!"
+msgstr "Importe de campos exitoso!"
+
+#: pnimportapi.php:305
+#, php-format
+msgid "Cannot create the database for tid [%1$s (%2$s)]."
+msgstr "No se pudo crear la base de datos para el tipo [%1$s (%2$s)]."
+
+#: pnimportapi.php:309
+msgid "Database update succeded!"
+msgstr "Actualización de base de datos exitoso!"
+
+#: pnimportapi.php:364
+#, php-format
+msgid "Error! Cannot import the data for pubtype [%1$s (%2$s)]."
+msgstr "Error! No se pudo importar los datos del tipo [%1$s (%2$s)]."
+
+#: pnimportapi.php:481
+msgid "Data import succeded!"
+msgstr "Importe de los datos exitoso!"
+
+#: pnblocks/list.php:31
+msgid "PageMaster List"
+msgstr "Listado PageMaster"
+
+#: pnblocks/list.php:32
+msgid "PageMaster N publications list"
+msgstr "Lista N artículos PageMaster"
+
+#: pnblocks/list.php:140 pnblocks/viewpub.php:126
+msgid "Publication type"
+msgstr "Tipo de publicación"
+
+#: pnblocks/list.php:152
+msgid "Filter string"
+msgstr "Filtro"
+
+#: pnblocks/list.php:164
+msgid "Order by"
+msgstr "Ordenar por"
+
+#: pnblocks/list.php:177 pnblocks/viewpub.php:150
+msgid "Cache lifetime"
+msgstr "Tiempo de caché"
+
+#: pnblocks/list.php:189
+msgid "Number of items"
+msgstr "Número de artículos"
+
+#: pnblocks/list.php:201
+msgid "Starting from"
+msgstr "Comenzando desde"
+
+#: pnblocks/list.php:213 pnblocks/viewpub.php:162
+msgid "Template"
+msgstr "Plantilla"
+
+#: pnblocks/pubeditlist.php:31
+msgid "PageMaster edit list"
+msgstr "Listado editable PageMaster"
+
+#: pnblocks/pubeditlist.php:32
+msgid "PageMaster dynamic edit tree/list"
+msgstr "Listado/árbol editable dinámico de PageMaster"
+
+#: pnblocks/viewpub.php:31
+msgid "PageMaster viewpub"
+msgstr "Artículo PageMaster"
+
+#: pnblocks/viewpub.php:32
+msgid "PageMaster View Publication"
+msgstr "Visualización de Publicación PageMaster"
+
+#: pnblocks/viewpub.php:138 pntemplates/pagemaster_admin_publist.htm:45
+#: pntemplates/pagemaster_admin_history.htm:15
+msgid "PID"
+msgstr "PID"
+
+#: pntemplates/plugins/function.category_browser.php:79
+#, php-format
+msgid "Error! No such category found for the ID passed [%s]."
+msgstr "Error! No se encontró tal categoría para el ID [%s]."
+
+#: pntemplates/plugins/function.pmadminsubmenu.php:49
+#: pntemplates/plugins/function.pmadminsubmenu.php:51
+#: pntemplates/plugins/function.pmadminsubmenu.php:53
+#: pntemplates/pagemaster_admin_pubtypes.htm:41
+msgid "Fields"
+msgstr "Campos"
+
+#: pntemplates/plugins/function.pmadminsubmenu.php:65
+#: pntemplates/plugins/function.pmadminsubmenu.php:67
+msgid "Publication list"
+msgstr "Listado de artículos"
+
+#: pntemplates/plugins/function.pmadminsubmenu.php:73
+msgid "Input template"
+msgstr "Plantilla de entrada"
+
+#: pntemplates/plugins/function.pmadminsubmenu.php:74
+msgid "List template"
+msgstr "Plantilla de listado"
+
+#: pntemplates/plugins/function.pmadminsubmenu.php:75
+msgid "Display template"
+msgstr "Plantilla de despliegue"
+
+#: pntemplates/plugins/function.pmadminsubmenu.php:77
+msgid "Generate templates"
+msgstr "Generar plantillas"
+
+#: pntemplates/plugins/function.pmformplugintype.php:86
+#: pntemplates/plugins/function.pmformplugintype.php:178
+msgid "Modify config"
+msgstr "Modificar configuración"
+
+#: pntemplates/plugins/function.pmformplugintype.php:90
+#: pntemplates/plugins/function.pmformplugintype.php:182
+#: pntemplates/pagemaster_admin_pubfields.htm:144
+#: pntemplates/pagemaster_admin_pubtype.htm:110
+#: pntemplates/pagemaster_admin_modifyconfig.htm:52
+msgid "Save"
+msgstr "Grabar"
+
+#: pntemplates/plugins/function.pmformplugintype.php:91
+#: pntemplates/plugins/function.pmformplugintype.php:183
+#: pntemplates/pagemaster_admin_modifyconfig.htm:53
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: pntemplates/pagemaster_admin_showcode.htm:6
+#: pntemplates/pagemaster_admin_showcode.htm:8
+#: pntemplates/pagemaster_admin_pubtypes.htm:20
+msgid "Show code"
+msgstr "Mostrar código"
+
+#: pntemplates/pagemaster_admin_showcode.htm:16
+msgid "Input form template"
+msgstr "Plantilla del formulario de entrada"
+
+#: pntemplates/pagemaster_admin_showcode.htm:21
+msgid "Publication list template"
+msgstr "Plantilla del listado de artículos"
+
+#: pntemplates/pagemaster_admin_showcode.htm:26
+msgid "Publication display template"
+msgstr "Plantilla de despliegue de un artículo"
+
+#: pntemplates/pagemaster_admin_showcode.htm:31
+#, php-format
+msgid ""
+"Create a template named <strong>%1$s</strong> with this code, and store it "
+"in the the directory: <strong>/config/templates/PageMaster/%2$s/%1$s</"
+"strong>, or within your theme in the <strong>/themes/YourTheme/templates/"
+"modules/PageMaster/%2$s/%1$s</strong>."
+msgstr ""
+"Cree una plantilla llamada <strong>%1$s</strong> con este código, y ubiquela "
+"en la carpeta: <strong>/config/templates/PageMaster/%2$s/%1$s</strong>, o "
+"dentro de su theme en la carpeta <strong>/themes/SuTheme/templates/modules/"
+"PageMaster/%2$s/%1$s</strong>."
+
+#: pntemplates/pagemaster_admin_pubfields.htm:8
+#: pntemplates/pagemaster_admin_pubfields.htm:10
+msgid "Manage Publication fields"
+msgstr "Manejar campos de publicación"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:16
+#, php-format
+msgid ""
+"When publication fields are added or changed you need to <a href=\"%s"
+"\">Update the DB Table</a>."
+msgstr ""
+"Cuando añada o cambie campos en la publicación, usted necesita <a href=\"%s"
+"\">Actualizar la tabla de la Base de datos</a>."
+
+#: pntemplates/pagemaster_admin_pubfields.htm:20
+msgid "Existing publication fields"
+msgstr "Campos de publicación existentes"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:25
+msgid "Name"
+msgstr "Nombre"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:26
+#: pntemplates/pagemaster_admin_publist.htm:50
+#: pntemplates/pagemaster_admin_history.htm:16
+msgid "Title"
+msgstr "Título"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:27
+msgid "Description"
+msgstr "Descripción"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:28
+msgid "Title field"
+msgstr "Título de campo"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:29
+msgid "Mandatory"
+msgstr "Obligatorio"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:30
+msgid "Searchable"
+msgstr "Consultable"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:31
+msgid "Max. lenght"
+msgstr "Largo max."
+
+#: pntemplates/pagemaster_admin_pubfields.htm:32
+msgid "Actions"
+msgstr "Acciones"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:71
+#: pntemplates/pagemaster_admin_publist.htm:88
+#: pntemplates/pagemaster_generic_publist.htm:24
+#: pntemplates/pagemaster_generic_navbar.htm:44
+#: pntemplates/pagemaster_admin_pubtypes.htm:37
+msgid "Edit"
+msgstr "Editar"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:76
+msgid "This publication type doesn't have fields yet."
+msgstr "Este tipo de publicación no tiene campos todavía."
+
+#: pntemplates/pagemaster_admin_pubfields.htm:86
+msgid "Add a publication field"
+msgstr "Añadir un campo de publicación"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:90
+msgid "Name of this field (is used e.g. in the template variables)."
+msgstr "Nombre de este campo (es usado en las variables de plantilla)."
+
+#: pntemplates/pagemaster_admin_pubfields.htm:95
+msgid ""
+"Title (is shown e.g. in the automatically generated templates) and can be a "
+"custom gettext string."
+msgstr ""
+"Título (es mostrado en las plantillas generadas automáticamente) y puede ser "
+"una cadena gettext."
+
+#: pntemplates/pagemaster_admin_pubfields.htm:100
+msgid ""
+"Optional tooltip of this field used on the input form, and can be a custom "
+"gettext string."
+msgstr ""
+"Descripción opcional de este campo usado en el formulario, y puede ser una "
+"cadena gettext."
+
+#: pntemplates/pagemaster_admin_pubfields.htm:105
+msgid ""
+"Which kind of fieldtype is used (can be extended by plugins). Detailed "
+"informations about the individual plugins can be found in the documentation."
+msgstr ""
+"Qué tipo de campo es usado (puede ser extendido por plugins). Información "
+"detallada de los plugins individuales puede encontrarse en la documentación."
+
+#: pntemplates/pagemaster_admin_pubfields.htm:107
+msgid "Edit this field only if you know what you are doing."
+msgstr "Edite este campo sólo si sabe lo que está haciendo."
+
+#: pntemplates/pagemaster_admin_pubfields.htm:108
+msgid ""
+"This is the configuration data of the field, if you edit it manually you can "
+"get unexpected results. Please use the configuration icon next to the "
+"selector to configure the field with ease."
+msgstr ""
+"Este es el campo de datos de configuración, si lo edita manualmente puede "
+"tener resultados inesperados. Por favor use el ícono de configuración "
+"enseguida del selector para ajustar los parámetros del plugin fácilmente."
+
+#: pntemplates/pagemaster_admin_pubfields.htm:114
+msgid "The content of this field will be used as the title?"
+msgstr "El contenido de este campo será usado como título?"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:119
+msgid "The content of this field is pageable?"
+msgstr "El contenido de este campo será paginado?"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:124
+msgid "Is this field mandatory?"
+msgstr "Es este campo obligatorio?"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:129
+msgid "The content of this field can be searched?"
+msgstr "El contenido de este campo se incluye en las búsquedas?"
+
+#: pntemplates/pagemaster_admin_pubfields.htm:134
+msgid "The maximum lenght for the content of this field."
+msgstr "El largo máximo del contenido de este campo."
+
+#: pntemplates/pagemaster_admin_pubfields.htm:139
+msgid ""
+"Weight number of this field. You can leave it blank and order it later with "
+"Drag & Drop in the full list."
+msgstr ""
+"Número de este campo. Puede dejarlo en blanco y ordenarlo luego Arrastrando "
+"y Soltando en el listado completo."
+
+#: pntemplates/pagemaster_user_pubeditlist_menu.htm:23
+msgid "Add new publication"
+msgstr "Añadir nuevo artículo"
+
+#: pntemplates/pagemaster_user_pubeditlist_menu.htm:24
+#: pntemplates/pagemaster_admin_pubtypes.htm:36
+msgid "Edit this publication type"
+msgstr "Editar este tipo de publicación"
+
+#: pntemplates/pagemaster_user_pubeditlist_menu.htm:25
+msgid "Add, edit or modify the fields of this publication type"
+msgstr "Añadir, editar o modificar los campos de este tipo de publicación"
+
+#: pntemplates/pagemaster_user_pubeditlist_menu.htm:36
+msgid "View this publication"
+msgstr "Ver este artículo"
+
+#: pntemplates/pagemaster_user_pubeditlist_menu.htm:42
+#: pntemplates/pagemaster_admin_pubtypes.htm:76
+msgid "No publication types found."
+msgstr "No se encontraron tipos de publicación."
+
+#: pntemplates/pagemaster_admin_publist.htm:32
+#: pntemplates/pagemaster_admin_publist.htm:34
+#: pntemplates/pagemaster_user_pubeditlist.htm:17
+msgid "Publications list"
+msgstr "Lista de artículos"
+
+#: pntemplates/pagemaster_admin_publist.htm:53
+#: pntemplates/pagemaster_admin_history.htm:17
+msgid "Revision"
+msgstr "Revisión"
+
+#: pntemplates/pagemaster_admin_publist.htm:54
+#: pntemplates/pagemaster_admin_history.htm:18
+msgid "State"
+msgstr "Estado"
+
+#: pntemplates/pagemaster_admin_publist.htm:57
+#: pntemplates/pagemaster_admin_history.htm:19
+msgid "Author"
+msgstr "Autor"
+
+#: pntemplates/pagemaster_admin_publist.htm:60
+#: pntemplates/pagemaster_admin_history.htm:20
+msgid "Online"
+msgstr "En línea"
+
+#: pntemplates/pagemaster_admin_publist.htm:89
+#: pntemplates/pagemaster_generic_publist.htm:19
+msgid "View"
+msgstr "Mostrar"
+
+#: pntemplates/pagemaster_admin_publist.htm:90
+#: pntemplates/pagemaster_admin_history.htm:6
+#: pntemplates/pagemaster_admin_history.htm:8
+msgid "History"
+msgstr "Historia"
+
+#: pntemplates/pagemaster_admin_publist.htm:94
+#: pntemplates/pagemaster_generic_publist.htm:32
+#: pntemplates/pagemaster_admin_history.htm:36
+msgid "No publications found."
+msgstr "No se encontraron artículos."
+
+#: pntemplates/pagemaster_user_pubeditlist.htm:20
+msgid "Publications edit list"
+msgstr "Listado editable de publicaciones"
+
+#: pntemplates/pagemaster_admin_pubtype.htm:6
+msgid "Create / Edit publication type"
+msgstr "Crear / Editar tipo de publicación"
+
+#: pntemplates/pagemaster_admin_pubtype.htm:9
+msgid "Edit publication type"
+msgstr "Editar tipo de publicación"
+
+#: pntemplates/pagemaster_admin_pubtype.htm:12
+msgid "Create publication type"
+msgstr "Crear tipo de publicación"
+
+#: pntemplates/pagemaster_admin_pubtype.htm:19
+msgid "General options"
+msgstr "Opciones generales"
+
+#: pntemplates/pagemaster_admin_pubtype.htm:23
+msgid "Title of the publication type, can be a custom gettext string."
+msgstr "Título del tipo de publicación, puede ser una cadena gettext."
+
+#: pntemplates/pagemaster_admin_pubtype.htm:28
+msgid "Description of the publication type, can be a custom gettext string."
+msgstr "Descripción del tipo de publicación, puede ser una cadena gettext."
+
+#: pntemplates/pagemaster_admin_pubtype.htm:33
+msgid "After how many publications the list will be paged. 0 for no paging."
+msgstr ""
+"Después de cuantos artículos la lista será paginada. 0 para no paginar."
+
+#: pntemplates/pagemaster_admin_pubtype.htm:38
+msgid "Enable revisioning."
+msgstr "Habilitar revisiones."
+
+#: pntemplates/pagemaster_admin_pubtype.htm:43
+msgid "Allow editing of own publications."
+msgstr "Permitir editar las publicaciones propias."
+
+#: pntemplates/pagemaster_admin_pubtype.htm:48
+msgid "The filter which is used by default."
+msgstr "El filtro que será usado por defecto."
+
+#: pntemplates/pagemaster_admin_pubtype.htm:53
+msgid "You can choose a special workflow for the publications."
+msgstr "Puede escoger un flujo de trabajo especial para los artículos."
+
+#: pntemplates/pagemaster_admin_pubtype.htm:59
+msgid "Sort options"
+msgstr "Opciones de ordenamiento"
+
+#: pntemplates/pagemaster_admin_pubtype.htm:63
+#: pntemplates/pagemaster_admin_pubtype.htm:72
+#: pntemplates/pagemaster_admin_pubtype.htm:81
+msgid "Field for sorting."
+msgstr "Campo para ordenar."
+
+#: pntemplates/pagemaster_admin_pubtype.htm:91
+msgid "Output options"
+msgstr "Opciones de despliegue"
+
+#: pntemplates/pagemaster_admin_pubtype.htm:95
+msgid ""
+"Name of the output template, used in the publist and pubview template names."
+msgstr ""
+"Nombre de la plantilla de salida, usado en el nombre de las plantillas de "
+"listado y despliegue."
+
+#: pntemplates/pagemaster_admin_pubtype.htm:100
+msgid "Name of the output, used in the pubedit template name."
+msgstr "Nombre de la entrada, usado el nombre de la plantilla del formulario."
+
+#: pntemplates/pagemaster_admin_pubtype.htm:105
+msgid "How long should the publications be cached. Empty for no cache."
+msgstr "Cuanto tiempo se cachean los artículos. Vacío para no usar caché."
+
+#: pntemplates/pagemaster_admin_importps.htm:8
+#: pntemplates/pagemaster_admin_modifyconfig.htm:11
+msgid "Import pagesetter publications"
+msgstr "Importar publicaciones de pagesetter"
+
+#: pntemplates/pagemaster_admin_importps.htm:11
+msgid "Be sure to know what you are doing on this process."
+msgstr "Asegúrese de saber lo que está haciendo en este proceso."
+
+#: pntemplates/pagemaster_admin_importps.htm:14
+msgid ""
+"On this page you can import publications from Pagesetter.<br />You can only "
+"import publications when no PageMaster publication exist.<br />Please "
+"configure the Upload Path before you import something.<br />No Pagesetter "
+"data will be changed due the import."
+msgstr ""
+"En esta página puede importar publicaciones desde Pagesetter.<br />Usted "
+"solamente puede importar publicaciones cuando no existen publicaciones de "
+"PageMaster.<br />Por favor configure la carpeta de carga antes de importar "
+"algo.<br />No se cambiarán los datos de Pagesetter en esta importación."
+
+#: pntemplates/pagemaster_admin_importps.htm:18
+msgid "Import lists,"
+msgstr "Importar listas,"
+
+#: pntemplates/pagemaster_admin_importps.htm:22
+msgid "Import publication types,"
+msgstr "Importar tipos de publicación,"
+
+#: pntemplates/pagemaster_admin_importps.htm:24
+msgid ""
+"PageMaste already has publication types. It must be empty before perform an "
+"import."
+msgstr ""
+"PageMaster ya tiene tipos de publicación. No debe haber ninguna para "
+"realizar la importación."
+
+#: pntemplates/pagemaster_admin_importps.htm:28
+msgid "Create the database tables,"
+msgstr "Crear las tablas de la base de datos,"
+
+#: pntemplates/pagemaster_admin_importps.htm:31
+msgid "Import data."
+msgstr "Importar datos."
+
+#: pntemplates/pagemaster_admin_history.htm:21
+msgid "In depot"
+msgstr "En archivo"
+
+#: pntemplates/pagemaster_generic_navbar.htm:20
+msgid "Add a publication"
+msgstr "Añadir un artículo"
+
+#: pntemplates/pagemaster_generic_navbar.htm:57
+msgid "Edit form"
+msgstr "Formulario de edición"
+
+#: pntemplates/pagemaster_generic_navbar.htm:59
+msgid "Create form"
+msgstr "Formulario de creación"
+
+#: pntemplates/pagemaster_generic_navbar.htm:79
+#, php-format
+msgid ""
+"This is a generic template. Your can <a href=\"%1$s\">get the publist code</"
+"a> and create a customized template (<strong>publist_%2$s.htm</strong>), "
+"then store it in the the config directory: <strong>/config/templates/"
+"PageMaster/output/publist_%2$s.htm</strong> or within your theme: <strong>/"
+"templates/modules/PageMaster/output/publist_%2$s.htm</strong>."
+msgstr ""
+"Esto es una plantilla genérica. Usted puede <a href=\"%1$s\">obtener el "
+"código del listado</a> y crear una plantilla personalizada (<strong>publist_%"
+"2$s.htm</strong>), y almacenarla en la carpeta config: <strong>/config/"
+"templates/PageMaster/output/publist_%2$s.htm</strong> o dentro de su theme: "
+"<strong>/templates/modules/PageMaster/output/publist_%2$s.htm</strong>."
+
+#: pntemplates/pagemaster_generic_navbar.htm:83
+#, php-format
+msgid ""
+"This is a generic template. Your can <a href=\"%1$s\">get the pubview code</"
+"a> and create a customized template (<strong>viewpub_%2$s.htm</strong>), "
+"then store it in the the config directory: <strong>/config/templates/"
+"PageMaster/output/viewpub_%2$s.htm</strong> or within your theme: <strong>/"
+"templates/modules/PageMaster/output/viewpub_%2$s.htm</strong>."
+msgstr ""
+"Esta es una plantilla genérica. Usted puede <a href=\"%1$s\">obtener el "
+"código de despliegue</a> y crear una plantilla personalizada "
+"(<strong>viewpub_%2$s.htm</strong>), y ubicarla en la carpeta config: "
+"<strong>/config/templates/PageMaster/output/viewpub_%2$s.htm</strong> o "
+"dentro de su theme: <strong>/templates/modules/PageMaster/output/viewpub_%2"
+"$s.htm</strong>."
+
+#: pntemplates/pagemaster_generic_navbar.htm:87
+#, php-format
+msgid ""
+"This is a generic template. Your can <a href=\"%1$s\">get the form code</a> "
+"and create individual templates (<strong>pubedit_%2$s_STEPNAME.htm</strong> "
+"or <strong>pubedit_%2$s_all.htm</strong>), then store it in the the config "
+"directory: <strong>/config/templates/PageMaster/input/pubedit_%2$s_STEPNAME."
+"htm</strong> or within your theme: <strong>/templates/modules/PageMaster/"
+"input/pubedit_%2$s_STEPNAME.htm</strong>."
+msgstr ""
+"Esta es una plantilla genérica. Usted puede <a href=\"%1$s\">obtener el "
+"código del formulario</a> y crear plantillas individuales personalizadas "
+"(<strong>pubedit_%2$s_PASO.htm</strong> o <strong>pubedit_%2$s_all.htm</"
+"strong>), y ubicarla en la carpeta config: <strong>/config/templates/"
+"PageMaster/input/pubedit_%2$s_PASO.htm</strong> o dentro de su theme: "
+"<strong>/templates/modules/PageMaster/input/pubedit_%2$s_PASO.htm</strong>."
+
+#: pntemplates/pagemaster_generic_navbar.htm:93
+#, php-format
+msgid ""
+"You can hide this message <a href=\"%s\">disabling the development mode</a>."
+msgstr ""
+"Puede esconder este mensaje <a href=\"%s\">deshabilitando el modo de "
+"desarrollo</a>."
+
+#: pntemplates/pagemaster_generic_pending.htm:5
+msgid "Publication accepted, pending moderation."
+msgstr "Artículo recibido, en espera de moderación."
+
+#: pntemplates/pagemaster_generic_pending.htm:8
+msgid "Thanks for your submission!"
+msgstr "Gracias por su envío!"
+
+#: pntemplates/pagemaster_generic_pending.htm:11
+msgid "Go back to the list"
+msgstr "Volver al listado"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:6
+#: pntemplates/pagemaster_admin_pubtypes.htm:8
+msgid "Publication types"
+msgstr "Tipos de publicación"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:12
+#, php-format
+msgid ""
+"Here the list of the existing Publication types (pubtypes). If you don't "
+"have one yet, go to the <a href=\"%s\">New publication type form</a> and "
+"create one; after that, you'll be able to add the <strong>Fields</strong> "
+"for the publications within that type, and once you have the fields you "
+"want, click the corresponding <strong>DB Update</strong> link. Now you will "
+"be able to add <strong>New publications</strong> and customize the templates "
+"for your pubtype, starting of the code that PageMaster generate for you. "
+"Enjoy!"
+msgstr ""
+"Aquí la lista de Tipos de publicación existentes. Si no tiene ninguno "
+"todavía, vaya al <a href=\"%s\">Formulario de creación</a> y cree uno; "
+"después de eso, será capaz de añadirle <strong>Campos</strong> para los "
+"artículos dentro de ese tipo, y una vez tenga los campos que quiere, pulse "
+"el enlace correspondiente <strong>Actualizar BD</strong>. Ahora será capaz "
+"de añadir <strong>Nuevo artículos</strong> y personalizar las plantillas de "
+"su tipo de publicación, comenzando con el código que PageMaster genera para "
+"usted. Diviértase!"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:17
+msgid "Pubtype"
+msgstr "Tipo"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:19
+msgid "Show publists"
+msgstr "Mostrar listados"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:40
+msgid "Add, edit or modify the fields of this pubtype"
+msgstr "Añadir, editar o modificar los campos en este tipo"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:44
+msgid ""
+"Update the database table of this pubtype to any recent change in the fields"
+msgstr ""
+"Actualizar la tabla de la base de datos de este tipo a cualquier cambio "
+"reciente en los campos"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:45
+msgid "DB update"
+msgstr "Actualizar BD"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:48
+msgid "Add new publications to this pubtype"
+msgstr "Añadir nuevos artículos a este tipo"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:49
+msgid "New pub"
+msgstr "Nuevo artículo"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:53
+msgid "Go to the Admin publication list"
+msgstr "Ir al listado administrativo de artículos"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:54
+msgid "Admin"
+msgstr "Admin"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:57
+msgid "Go to the public publication list"
+msgstr "Ir al listado público de artículos"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:58
+msgid "Public"
+msgstr "Público"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:62
+msgid "Get the input form code of this pubtype"
+msgstr "Obtener el código del formulario de entrada de este tipo"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:63
+msgid "Form"
+msgstr "Formulario"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:66
+msgid "Get the publist code of this pubtype"
+msgstr "Obtener el código del listado de este tipo"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:70
+msgid "Get the pubview code of this pubtype"
+msgstr "Obtener el código de despliegue de este tipo"
+
+#: pntemplates/pagemaster_admin_pubtypes.htm:71
+msgid "Display"
+msgstr "Mostrar"
+
+#: pntemplates/pagemaster_admin_modifyconfig.htm:18
+msgid "General settings"
+msgstr "Configuración general"
+
+#: pntemplates/pagemaster_admin_modifyconfig.htm:20
+msgid "Upload path"
+msgstr "Carpeta de carga"
+
+#: pntemplates/pagemaster_admin_modifyconfig.htm:25
+msgid "The given path doesn't exists"
+msgstr "La ruta proporcionada no existe"
+
+#: pntemplates/pagemaster_admin_modifyconfig.htm:27
+msgid "The given path is not a directory"
+msgstr "La ruta proporcionada no es una carpeta"
+
+#: pntemplates/pagemaster_admin_modifyconfig.htm:29
+msgid "The given path is not writeable"
+msgstr "La ruta proporcionada no es escribible"
+
+#: pntemplates/pagemaster_admin_modifyconfig.htm:33
+msgid "The given path is writeable"
+msgstr "La ruta proporcionada es escribible"
+
+#: pntemplates/pagemaster_admin_modifyconfig.htm:36
+#, php-format
+msgid ""
+"Path where uploaded files will be stored, relative to the site root (%s)"
+msgstr ""
+"La carpeta donde se almacenarán los archivos subidos, relativa a la raíz del "
+"sitio (%s)"
+
+#: pntemplates/pagemaster_admin_modifyconfig.htm:41
+msgid "Development mode"
+msgstr "Modo de desarrollo"
+
+#: pntemplates/pagemaster_admin_modifyconfig.htm:44
+msgid ""
+"Enable the development mode to see detailed notices about PageMaster "
+"requirements."
+msgstr ""
+"Habilitar el modo de desarrollo para ver avisos detallados acerca de los "
+"requerimientos de PageMaster."

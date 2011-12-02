@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-02-09 15:18+0000\n"
+"PO-Revision-Date: 2010-02-13 00:02+0200\n"
+"Last-Translator: Carsten <carsten@zikula.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: version.php:4
+msgid "GlossyBlue"
+msgstr "GlossyBlue"
+
+#: version.php:5
+msgid "High-tech, glossy Mac style"
+msgstr "High-tech, glossy Mac style"
+
+#: templates/master.html:19
+msgid "Home"
+msgstr "Startseite"
+
+#: templates/master.html:20
+msgid "News"
+msgstr "News"
+
+#: templates/master.html:21
+msgid "Forum"
+msgstr "Forum"
+
+#: templates/master.html:22
+msgid "Contact"
+msgstr "Kontakt"
+
+#: templates/modules/News/news_user_index.htm:4
+msgid "Permanent Link to"
+msgstr "Permanenter Link zu"

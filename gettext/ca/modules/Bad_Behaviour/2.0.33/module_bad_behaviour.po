@@ -1,0 +1,207 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-26 09:53+0000\n"
+"PO-Revision-Date: 2010-11-26 19:30+0200\n"
+"Last-Translator: Toni Ginard <toni.ginard@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.2\n"
+
+#: pnadmin.php:100
+msgid "Done! Module configuration updated."
+msgstr "S'ha actualitzat la configuració del mòdul"
+
+#: pnversion.php:16
+msgid "Bad Behaviour"
+msgstr "Mala conducta"
+
+#. ! module url in lowercase and different to displayname
+#: pnversion.php:18
+msgid "bad_behaviour"
+msgstr "bad_behaviour"
+
+#: pnversion.php:20 pntemplates/bad_behaviour_admin_menu.htm:4
+msgid "Bad Behaviour spam detection"
+msgstr "Detector d'enviaments brossa"
+
+#: pnincludes/bad-behavior/admin.inc.php:19
+msgid "Bad Behavior"
+msgstr "Mala conducta"
+
+#: pnincludes/bad-behavior-zikula.php:122
+#: pnincludes/bad-behavior-zikula.php:124
+#, php-format
+msgid ""
+"<a href=\"http://www.bad-behavior.ioerror.us/\">Bad Behavior</a> has blocked "
+"<strong>%s</strong> access attempts in the last 7 days."
+msgstr ""
+"El mòdul <a href=\"http://www.bad-behavior.ioerror.us/\">Bad Behavior</a> ha "
+"bloquejat <strong>%s</strong> intents d'accés en els darrers 7 dies."
+
+#: pnadminapi.php:25 pntemplates/bad_behaviour_admin_view.htm:3
+#: pntemplates/bad_behaviour_admin_display.htm:4
+msgid "View blocked Accesses"
+msgstr "Mostra els accessos bloquejats"
+
+#: pnadminapi.php:28 pntemplates/bad_behaviour_admin_modifyconfig.htm:4
+#: pntemplates/bad_behaviour_admin_modifyconfig.htm:5
+msgid "Settings"
+msgstr "Paràmetres"
+
+#: pninit.php:31
+msgid "Error! Sorry! Table creation failed."
+msgstr "No s'ha pogut crear la taula"
+
+#: pninit.php:37 pninit.php:62
+msgid "Error! Unable to create system init hook"
+msgstr "No s'ha pogut crear el lligam de sistema"
+
+#: pninit.php:40 pninit.php:66
+msgid ""
+"BadBehaviour have been enabled, you can change this in the hook settings "
+"(Administration -> Modules -> System hooks) by deactivating the BadBehaviour "
+"systeminit hook for Zikula itself"
+msgstr ""
+"S'ha activat el mòdul Bad Behaviour (mala conducta). El podeu desactivar des "
+"dels paràmetres dels lligams de sistema esborrant el lligam d'aquest mòdul "
+"amb el nucli del Zikula."
+
+#: pninit.php:84
+msgid "Unable to delete system init hook"
+msgstr "No s'ha pogut esborrar el lligam de sistema"
+
+#: pntemplates/bad_behaviour_admin_intro.htm:3
+msgid "financial contribution"
+msgstr "Contribució financera"
+
+#: pntemplates/bad_behaviour_admin_intro.htm:5
+msgid ""
+"For more information please visit the <a href=\"http://www.bad-behavior."
+"ioerror.us/\">Bad Behavior</a> homepage."
+msgstr ""
+"Per a més informació, visiteu la pàgina web del <a href=\"http://www.bad-"
+"behavior.ioerror.us/\">Bad Behaviour</a>."
+
+#: pntemplates/bad_behaviour_admin_intro.htm:6
+#, php-format
+msgid ""
+"If you find Bad Behavior valuable, please consider making a <a href=\"%1$s\">"
+"%2$s</a> to further development of Bad Behavior."
+msgstr ""
+"Si trobeu que el Bad Behaviour és valuós, si us plau, preneu en consideració "
+"la possibilitat de fer <a href=\"%1$s\">una donació</a> per donar suport al "
+"seu manteniment."
+
+#: pntemplates/bad_behaviour_admin_intro.htm:8
+msgid ""
+"To test Bad Behaviour is functioning correctly add the sting \"Bad Behavior "
+"Test\" as the USER_AGENT of an HTTP request. Sound complicated? Under IE "
+"this probably is.... However if using FireFox install the <a href=\"https://"
+"addons.mozilla.org/firefox/967/\">\"Modify Headers\"</a> add-on and this can "
+"be done from the GUI."
+msgstr ""
+"Per comprovar que el Bad Behaviour funciona correctament afegiu el text \"Bad "
+"Behavior Test\" en el USER_AGENT d'una petició HTTP. La millor manera de "
+"fer-ho és utilitzar el firefox amb el connector <a "
+"href=\"https://addons.mozilla.org/firefox/967/\">Modify Headers</a>."
+
+#: pntemplates/bad_behaviour_admin_view.htm:11
+#: pntemplates/bad_behaviour_admin_display.htm:9
+msgid "IP address"
+msgstr "Adreça IP"
+
+#: pntemplates/bad_behaviour_admin_view.htm:12
+#: pntemplates/bad_behaviour_admin_display.htm:13
+msgid "Date"
+msgstr "Data"
+
+#: pntemplates/bad_behaviour_admin_view.htm:13
+#: pntemplates/bad_behaviour_admin_display.htm:49
+msgid "Message returned"
+msgstr "S'ha retornat el missatge"
+
+#: pntemplates/bad_behaviour_admin_view.htm:14
+msgid "Options"
+msgstr "Opcions"
+
+#: pntemplates/bad_behaviour_admin_view.htm:23
+msgid "View"
+msgstr "Mostra"
+
+#: pntemplates/bad_behaviour_admin_view.htm:26
+msgid "No items found."
+msgstr "No s'ha trobat cap element"
+
+#: pntemplates/bad_behaviour_admin_modifyconfig.htm:12
+msgid "Enable Bad Behaviour"
+msgstr "Habilita el Bad Behaviour"
+
+#: pntemplates/bad_behaviour_admin_modifyconfig.htm:20
+msgid "Enable logging"
+msgstr "Habilita el registre"
+
+#: pntemplates/bad_behaviour_admin_modifyconfig.htm:28
+msgid "Verbose HTTP request logging"
+msgstr "Registre detallat de les peticions HTTP"
+
+#: pntemplates/bad_behaviour_admin_modifyconfig.htm:34
+msgid "Logs all requests not just those blocked"
+msgstr "Desa al registre totes les peticions i no només les bloquejades"
+
+#: pntemplates/bad_behaviour_admin_modifyconfig.htm:37
+msgid "Strict checking"
+msgstr "Comprovació estricta"
+
+#: pntemplates/bad_behaviour_admin_modifyconfig.htm:43
+msgid "Blocks more spam but may block some people"
+msgstr "Bloqueja més enviaments brossa, però pot produir falsos positius."
+
+#: pntemplates/bad_behaviour_admin_modifyconfig.htm:46
+msgid "Items per page"
+msgstr "Elements per pàgina"
+
+#: pntemplates/bad_behaviour_admin_modifyconfig.htm:52
+msgid "Update Configuration"
+msgstr "Actualitza la configuració"
+
+#: pntemplates/bad_behaviour_admin_display.htm:17
+msgid "Request Method"
+msgstr "Mètode de la petició"
+
+#: pntemplates/bad_behaviour_admin_display.htm:21
+msgid "Request URI"
+msgstr "URI de la petició"
+
+#: pntemplates/bad_behaviour_admin_display.htm:25
+msgid "Server Protocol"
+msgstr "Protocol del servidor"
+
+#: pntemplates/bad_behaviour_admin_display.htm:29
+msgid "HTTP Headers"
+msgstr "Capçaleres HTTP"
+
+#: pntemplates/bad_behaviour_admin_display.htm:33
+msgid "User Agent"
+msgstr "Agent d'usuari"
+
+#: pntemplates/bad_behaviour_admin_display.htm:37
+msgid "Request Entity"
+msgstr "Entitat de la petició"
+
+#: pntemplates/bad_behaviour_admin_display.htm:41
+msgid "HTTP Response"
+msgstr "Resposta de la petició"
+
+#: pntemplates/bad_behaviour_admin_display.htm:45
+msgid "Explanation"
+msgstr "Explicació"

@@ -1,0 +1,125 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-07 06:22-0500\n"
+"PO-Revision-Date: 2010-09-22 22:13+0200\n"
+"Last-Translator:  <tux.eng@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: version.php:4
+msgid "RedBridge"
+msgstr "پل قرمز"
+
+#: version.php:8
+msgid "RedBridge Theme"
+msgstr "پوسته پل قرمز"
+
+#: templates/includes/header.htm~:3 templates/includes/header.htm~:37
+#: templates/includes/header.htm:3 templates/includes/header.htm:37
+#: templates/includes/footer.htm:5
+msgid "Contact"
+msgstr "تماس"
+
+#: templates/includes/header.htm~:4 templates/includes/header.htm:4
+#: templates/includes/footer.htm:6
+msgid "SiteMap"
+msgstr "نقشه سایت"
+
+#: templates/includes/header.htm~:9 templates/includes/header.htm:9
+msgid "Back to Main page"
+msgstr "بازگشت به صفحه اصلی"
+
+#: templates/includes/header.htm~:19 templates/includes/header.htm:19
+msgid "My Account Settings"
+msgstr "تنظیمات حساب کاربری من"
+
+#: templates/includes/header.htm~:19 templates/includes/header.htm:19
+msgid "My Account"
+msgstr "حساب کاربری من"
+
+#: templates/includes/header.htm~:19 templates/includes/header.htm:19
+msgid "Logout of Your Account"
+msgstr "خروج از حساب کاربری شما"
+
+#: templates/includes/header.htm~:19 templates/includes/header.htm:19
+msgid "Logout"
+msgstr "خروج"
+
+#: templates/includes/header.htm~:23 templates/includes/header.htm:23
+msgid "New Account Registration"
+msgstr ""
+
+#: templates/includes/header.htm~:23 templates/includes/header.htm:23
+msgid "Log In to Your Account"
+msgstr ""
+
+#: templates/includes/header.htm~:23 templates/includes/header.htm:23
+msgid "Log In"
+msgstr "ورود"
+
+#: templates/includes/header.htm~:33 templates/includes/header.htm:33
+msgid "Home"
+msgstr "خانه"
+
+#: templates/includes/header.htm~:34 templates/includes/header.htm:34
+msgid "Pages"
+msgstr "صفحه ها"
+
+#: templates/includes/header.htm~:35 templates/includes/header.htm:35
+msgid "News"
+msgstr "اخبار"
+
+#: templates/includes/header.htm~:36 templates/includes/header.htm:36
+msgid "Forums"
+msgstr "انجمن"
+
+#: templates/includes/footer.htm:4
+msgid "Home Page"
+msgstr "صفحه اصلی"
+
+#: templates/includes/footer.htm:7
+msgid "RSS Feed"
+msgstr "خوراک RSS"
+
+#: templates/includes/footer.htm:10
+msgid "Valid"
+msgstr "معتبر"
+
+#: templates/includes/footer.htm:10
+msgid "XHTML"
+msgstr "XHTML"
+
+#: templates/includes/footer.htm:11
+msgid "CSS"
+msgstr "CSS"
+
+#: templates/includes/footer.htm:14
+msgid "Design:"
+msgstr "طراحی:"
+
+#: templates/includes/footer.htm:14
+msgid "Free CSS Templates"
+msgstr "قالب ها CSS رایگان"
+
+#: templates/includes/footer.htm:14
+msgid "David Herreman"
+msgstr "داوید هیرریمان"
+
+#: templates/includes/footer.htm:14
+msgid "Photo courtesy of and copyright Free Range Stock,"
+msgstr ""
+
+#: templates/includes/footer.htm:14
+msgid "www.freerangestock.com"
+msgstr "www.freerangestock.com"

@@ -1,0 +1,2645 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Dutch Translation for Content 4.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-21 21:07+0000\n"
+"PO-Revision-Date: 2011-09-26 07:51+0200\n"
+"Last-Translator: bvdbos3 <bvdbos@gmail.coml>\n"
+"Language-Team: Dutch Zikula Community\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: pnneedleapi/content.php:37
+msgid "Unknown id"
+msgstr "Onbekend id"
+
+#: pnneedleapi/content.php:40
+msgid "Content not available"
+msgstr "Content niet beschikbaar"
+
+#: pnneedleapi/content.php:45
+msgid "No needle id"
+msgstr "Geen naald id"
+
+#: templates/plugins/function.contenteditthis.php:33
+msgid "Edit this page"
+msgstr "Deze pagina bewerken"
+
+#: templates/plugins/function.contenteditthis.php:35
+msgid "Translate this page"
+msgstr "Deze pagina vertalen"
+
+#: templates/plugins/function.contenteditthis.php:42
+#, php-format
+msgid "Edit this: %1$s [ID%2$s]"
+msgstr "Bewerk: %1$s [ID%2$s]"
+
+#: templates/plugins/function.contenteditthis.php:43
+msgid "Click to edit this content item"
+msgstr "Klik om dit content item te bewerken"
+
+#: templates/plugins/function.contenteditthis.php:45
+#: templates/admin/editpage.tpl:45 templates/admin/editpage.tpl:208
+#: templates/admin/editcontent.tpl:58 templates/admin/tocedit.tpl:34
+msgid "Translate"
+msgstr "Vertalen"
+
+#: templates/plugins/function.contenthtmleditor.php:43
+#, php-format
+msgid "The WYSIWYG editor (%s) is installed but no default editor is assigned."
+msgstr ""
+"De WYSIWYG editor (%s) is geïnstalleerd, maar er is geen standaard editor "
+"toegewezen."
+
+#: templates/plugins/function.contenthtmleditor.php:48
+#, php-format
+msgid "Please install the %s module to use the WYSIWYG HTML editor."
+msgstr "Installeer de %s module om een HTML WYSIWYG editor te gebruiken."
+
+#: templates/plugins/function.contenthtmleditor.php:58
+#: templates/plugins/function.contentcodeeditor.php:33
+msgid "Please install the BBCode module to enable BBCodes display."
+msgstr "Installeer de BBCode module om bbcode weergave in te schakelen."
+
+#: templates/plugins/function.contentareatitle.php:15
+#, php-format
+msgid "%s area"
+msgstr "%s ruimte"
+
+#: templates/plugins/function.contentinsertlink.php:21
+msgid "Add new content here"
+msgstr "Hier nieuwe inhoud toevoegen"
+
+#: lib/Content/AbstractContentType.php:371
+msgid "Unable to locate original translation template."
+msgstr "Kon originele vertaal-template niet vinden."
+
+#: lib/Content/AbstractContentType.php:377
+msgid "Unable to locate new translation template."
+msgstr "Kon nieuwe vertaal-template niet vinden."
+
+#: lib/Content/LayoutType/Column21212.php:18
+#: lib/Content/LayoutType/Column2header.php:18
+#: lib/Content/LayoutType/Column2d3070.php:18
+#: lib/Content/LayoutType/Column2d3862.php:18
+#: lib/Content/LayoutType/Column2d2575.php:18
+#: lib/Content/LayoutType/Column3d255025.php:18
+#: lib/Content/LayoutType/Column2d7525.php:18
+#: lib/Content/LayoutType/Column21212rightcol.php:18
+#: lib/Content/LayoutType/Column2d6633.php:18
+#: lib/Content/LayoutType/Column1.php:18
+#: lib/Content/LayoutType/Column212.php:18
+#: lib/Content/LayoutType/Column2d6238.php:18
+#: lib/Content/LayoutType/Column2d7030.php:18
+#: lib/Content/LayoutType/Column3header.php:18
+#: lib/Content/LayoutType/Column3d252550.php:18
+#: lib/Content/LayoutType/Column1top.php:20
+#: lib/Content/LayoutType/Column2d3366.php:18
+#: lib/Content/LayoutType/Column3d502525.php:18
+msgid "Header"
+msgstr "Kopgedeelte"
+
+#: lib/Content/LayoutType/Column21212.php:19
+#: lib/Content/LayoutType/Column21212rightcol.php:19
+#: lib/Content/LayoutType/Column212.php:19
+msgid "Left column1"
+msgstr "Linker kolom 1"
+
+#: lib/Content/LayoutType/Column21212.php:20
+#: lib/Content/LayoutType/Column21212rightcol.php:20
+#: lib/Content/LayoutType/Column212.php:20
+msgid "Right column1"
+msgstr "Rechter kolom 1"
+
+#: lib/Content/LayoutType/Column21212.php:21
+#: lib/Content/LayoutType/Column21212rightcol.php:21
+msgid "Center1"
+msgstr "Center1"
+
+#: lib/Content/LayoutType/Column21212.php:22
+#: lib/Content/LayoutType/Column21212rightcol.php:22
+#: lib/Content/LayoutType/Column212.php:22
+msgid "Left column2"
+msgstr "Linker kolom 2"
+
+#: lib/Content/LayoutType/Column21212.php:23
+#: lib/Content/LayoutType/Column21212rightcol.php:23
+#: lib/Content/LayoutType/Column212.php:23
+msgid "Right column2"
+msgstr "Rechter kolom 2"
+
+#: lib/Content/LayoutType/Column21212.php:24
+#: lib/Content/LayoutType/Column21212rightcol.php:24
+msgid "Center2"
+msgstr "Center2"
+
+#: lib/Content/LayoutType/Column21212.php:25
+#: lib/Content/LayoutType/Column21212rightcol.php:25
+msgid "Left column3"
+msgstr "Linker kolom 3"
+
+#: lib/Content/LayoutType/Column21212.php:26
+#: lib/Content/LayoutType/Column21212rightcol.php:26
+msgid "Right column3"
+msgstr "Rechter kolom 3"
+
+#: lib/Content/LayoutType/Column21212.php:27
+#: lib/Content/LayoutType/Column2header.php:21
+#: lib/Content/LayoutType/Column2d3070.php:21
+#: lib/Content/LayoutType/Column2d3862.php:21
+#: lib/Content/LayoutType/Column2d2575.php:21
+#: lib/Content/LayoutType/Column3d255025.php:22
+#: lib/Content/LayoutType/Column2d7525.php:21
+#: lib/Content/LayoutType/Column21212rightcol.php:27
+#: lib/Content/LayoutType/Column2d6633.php:21
+#: lib/Content/LayoutType/Column212.php:24
+#: lib/Content/LayoutType/Column2d6238.php:21
+#: lib/Content/LayoutType/Column2d7030.php:21
+#: lib/Content/LayoutType/Column3header.php:22
+#: lib/Content/LayoutType/Column3d252550.php:22
+#: lib/Content/LayoutType/Column2d3366.php:21
+#: lib/Content/LayoutType/Column3d502525.php:22
+msgid "Footer"
+msgstr "Voetgedeelte"
+
+#: lib/Content/LayoutType/Column21212.php:32
+msgid "2-1-2-1-2 columns (50|50)"
+msgstr "2-1-2-1-2 kolommen (50|50)"
+
+#: lib/Content/LayoutType/Column21212.php:36
+msgid "Header + two-one-two-one-two columns (50|50) + footer"
+msgstr "Header + 2-1-2-1-2 kolommen (50|50) + footer"
+
+#: lib/Content/LayoutType/Column2header.php:19
+#: lib/Content/LayoutType/Column2d3070.php:19
+#: lib/Content/LayoutType/Column2d3862.php:19
+#: lib/Content/LayoutType/Column2d2575.php:19
+#: lib/Content/LayoutType/Column3d255025.php:19
+#: lib/Content/LayoutType/Column2d7525.php:19
+#: lib/Content/LayoutType/Column2d6633.php:19
+#: lib/Content/LayoutType/Column2d6238.php:19
+#: lib/Content/LayoutType/Column2d7030.php:19
+#: lib/Content/LayoutType/Column3header.php:19
+#: lib/Content/LayoutType/Column3d252550.php:19
+#: lib/Content/LayoutType/Column2d3366.php:19
+#: lib/Content/LayoutType/Column3d502525.php:19
+msgid "Left column"
+msgstr "Linker kolom"
+
+#: lib/Content/LayoutType/Column2header.php:20
+#: lib/Content/LayoutType/Column2d3070.php:20
+#: lib/Content/LayoutType/Column2d3862.php:20
+#: lib/Content/LayoutType/Column2d2575.php:20
+#: lib/Content/LayoutType/Column3d255025.php:21
+#: lib/Content/LayoutType/Column2d7525.php:20
+#: lib/Content/LayoutType/Column2d6633.php:20
+#: lib/Content/LayoutType/Column2d6238.php:20
+#: lib/Content/LayoutType/Column2d7030.php:20
+#: lib/Content/LayoutType/Column3header.php:21
+#: lib/Content/LayoutType/Column3d252550.php:21
+#: lib/Content/LayoutType/Column2d3366.php:20
+#: lib/Content/LayoutType/Column3d502525.php:21
+msgid "Right column"
+msgstr "Rechter kolom"
+
+#: lib/Content/LayoutType/Column2header.php:25
+msgid "2 columns (50|50)"
+msgstr "2 kolommen (50|50)"
+
+#: lib/Content/LayoutType/Column2header.php:29
+msgid "Header + two columns (50|50) + footer"
+msgstr "Twee kolommen (50|50) met kop- en voetgedeelte"
+
+#: lib/Content/LayoutType/Column2d3070.php:25
+msgid "2 columns (30|70)"
+msgstr "2 kolommen (30|70)"
+
+#: lib/Content/LayoutType/Column2d3070.php:29
+msgid "Header + two columns (30|70) + footer"
+msgstr "Twee kolommen (30|70) met kop- en voetgedeelte"
+
+#: lib/Content/LayoutType/Column2d3862.php:25
+msgid "2 columns (38|62)"
+msgstr "2 kolommen (38|62)"
+
+#: lib/Content/LayoutType/Column2d3862.php:29
+msgid "Header + two columns (38|62) + footer"
+msgstr "Twee kolommen (38|62) met kop- en voetgedeelte"
+
+#: lib/Content/LayoutType/Column2d2575.php:25
+msgid "2 columns (25|75)"
+msgstr "2 kolommen (25|75)"
+
+#: lib/Content/LayoutType/Column2d2575.php:29
+msgid "Header + two columns (25|75) + footer"
+msgstr "Twee kolommen (25|75) met kop- en voetgedeelte"
+
+#: lib/Content/LayoutType/Column3d255025.php:20
+#: lib/Content/LayoutType/Column1woheader.php:18
+#: lib/Content/LayoutType/Column1.php:19
+#: lib/Content/LayoutType/Column3header.php:20
+#: lib/Content/LayoutType/Column3d252550.php:20
+#: lib/Content/LayoutType/Column1top.php:22
+#: lib/Content/LayoutType/Column3d502525.php:20
+msgid "Centre column"
+msgstr "Middelste kolom"
+
+#: lib/Content/LayoutType/Column3d255025.php:26
+msgid "3 columns (25|50|25)"
+msgstr "3 kolommen (25|50|25)"
+
+#: lib/Content/LayoutType/Column3d255025.php:30
+msgid "Header + three columns (25|50|25) + footer"
+msgstr "Drie kolommen (25|50|25) met kop- en voetgedeelte"
+
+#: lib/Content/LayoutType/Column1woheader.php:22
+msgid "1 column no header"
+msgstr "Enkele kolom zonder kopgedeelte"
+
+#: lib/Content/LayoutType/Column1woheader.php:26
+msgid "Single 100% wide column without header"
+msgstr "Enkele kolom, 100% breed, zonder kopgedeelte"
+
+#: lib/Content/LayoutType/Column2d7525.php:25
+msgid "2 columns (75|25)"
+msgstr "2 kolommen (75|25)"
+
+#: lib/Content/LayoutType/Column2d7525.php:29
+msgid "Header + two columns (75|25) + footer"
+msgstr "Twee kolommen (75|25) met kop- en voetgedeelte"
+
+#: lib/Content/LayoutType/Column21212rightcol.php:28
+msgid "Right Extra Column Top"
+msgstr "Rechter Extra Kolom Top"
+
+#: lib/Content/LayoutType/Column21212rightcol.php:29
+msgid "Right Extra Column Bottom"
+msgstr "Rechter Extra Kolom Bottom"
+
+#: lib/Content/LayoutType/Column21212rightcol.php:34
+msgid "2-1-2-1-2 columns (50|50) + extra right column"
+msgstr "2-1-2-1-2 kolommen (50|50) + extra rechter kolom"
+
+#: lib/Content/LayoutType/Column21212rightcol.php:38
+msgid ""
+"Header + two-one-two-one-two columns (50|50) + footer + extra right column"
+msgstr "Header + 2-1-2-1-2 kolommen (50|50) + footer + extra rechter kolom"
+
+#: lib/Content/LayoutType/Column2d6633.php:25
+msgid "2 columns (66|33)"
+msgstr "2 kolommen (66|33)"
+
+#: lib/Content/LayoutType/Column2d6633.php:29
+msgid "Header + two columns (66|33) + footer"
+msgstr "Twee kolommen (66|33) met kop- en voetgedeelte"
+
+#: lib/Content/LayoutType/Column1.php:23
+msgid "1 column"
+msgstr "1 kolom"
+
+#: lib/Content/LayoutType/Column1.php:27
+msgid "Header + single 100% wide column"
+msgstr "Enkele kolom, 100% breed met kopgedeelte"
+
+#: lib/Content/LayoutType/Column212.php:21
+msgid "Center"
+msgstr "Center"
+
+#: lib/Content/LayoutType/Column212.php:29
+msgid "2-1-2 columns (50|50)"
+msgstr "2-1-2 kolommen (50|50)"
+
+#: lib/Content/LayoutType/Column212.php:33
+msgid "Header + two-one-two columns (50|50) + footer"
+msgstr "Header + two-one-two columns (50|50) + footer"
+
+#: lib/Content/LayoutType/Column2d6238.php:25
+msgid "2 columns (62|38)"
+msgstr "2 kolommen (62|38)"
+
+#: lib/Content/LayoutType/Column2d6238.php:29
+msgid "Header + two columns (62|38) + footer"
+msgstr "Twee kolommen (62|38) met kop- en voetgedeelte"
+
+#: lib/Content/LayoutType/Column2d7030.php:25
+msgid "2 columns (70|30)"
+msgstr "2 kolommen (70|30)"
+
+#: lib/Content/LayoutType/Column2d7030.php:29
+msgid "Header + two columns (70|30) + footer"
+msgstr "Twee kolommen (70|30) met kop- en voetgedeelte"
+
+#: lib/Content/LayoutType/Column3header.php:26
+msgid "3 columns (33|33|33)"
+msgstr "3 kolommen (33|33|33)"
+
+#: lib/Content/LayoutType/Column3header.php:30
+msgid "Header + three columns (33|33|33) + footer"
+msgstr "Drie kolommen (33|33|33) met kop- en voetgedeelte"
+
+#: lib/Content/LayoutType/Column3d252550.php:26
+msgid "3 columns (25|25|50)"
+msgstr "3 kolommen (25|25|50)"
+
+#: lib/Content/LayoutType/Column3d252550.php:30
+msgid "Header + three columns (25|25|50) + footer"
+msgstr "Drie kolommen (25|25|50) met kop- en voetgedeelte"
+
+#: lib/Content/LayoutType/Column1top.php:21
+msgid "Header above page headline"
+msgstr "Kopgedeelte boven de kop van de pagina"
+
+#: lib/Content/LayoutType/Column1top.php:26
+msgid "1 column, header above page headline"
+msgstr "1 kolom, kopgedeelte boven de kop van de pagina"
+
+#: lib/Content/LayoutType/Column1top.php:30
+msgid ""
+"Single 100% wide column and a top-header above the page headline (for e.g. "
+"breadcrumbs or author-information above the title)"
+msgstr ""
+"Enkele 100% brede kolom en een kopgedeelte dat boven de kop van de pagina "
+"komt (voor bijvoorbeeld een kruimelpad of auteursinformatie boven de titel)"
+
+#: lib/Content/LayoutType/Column2d3366.php:25
+msgid "2 columns (33|66)"
+msgstr "2 kolommen (33|66)"
+
+#: lib/Content/LayoutType/Column2d3366.php:29
+msgid "Header + two columns (33|66) + footer"
+msgstr "Twee kolommen (33|66) met kop- en voetgedeelte"
+
+#: lib/Content/LayoutType/Column3d502525.php:26
+msgid "3 columns (50|25|25)"
+msgstr "3 kolommen (50|25|25)"
+
+#: lib/Content/LayoutType/Column3d502525.php:30
+msgid "Header + three columns (50|25|25) + footer"
+msgstr "Drie kolommen (50|25|25) met kop- en voetgedeelte"
+
+#: lib/Content/Api/User.php:24 lib/Content/Api/Admin.php:43
+#: lib/Content/Form/Handler/Admin/NewPage.php:41 templates/admin/newpage.tpl:5
+#: templates/user/pageinfo.tpl:22
+msgid "Add new page"
+msgstr "Voeg nieuwe pagina toe"
+
+#: lib/Content/Api/User.php:32
+msgid "Admin"
+msgstr "Beheer"
+
+#: lib/Content/Api/User.php:40
+msgid "Page lists"
+msgstr "Pagina lijsten"
+
+#: lib/Content/Api/User.php:45 lib/Content/Api/Admin.php:29
+#: lib/Content/Controller/User.php:271 templates/admin/main_unneeded.tpl:14
+msgid "Sitemap"
+msgstr "Sitemap"
+
+#: lib/Content/Api/User.php:49 lib/Content/Api/Admin.php:31
+msgid "Extended"
+msgstr "Uitgebreid"
+
+#: lib/Content/Api/User.php:53 lib/Content/Api/Admin.php:33
+msgid "Complete"
+msgstr "Volledig"
+
+#: lib/Content/Api/User.php:57 lib/Content/Api/Admin.php:35
+msgid "Category list"
+msgstr "Categorie lijst"
+
+#: lib/Content/Api/Page.php:363
+msgid "Error! Cannot create sub-page without parent page ID"
+msgstr "Foutmelding! Kan sub-pagina niet creeën zonder ID van de ouder pagina"
+
+#: lib/Content/Api/Page.php:394 lib/Content/Api/Page.php:440
+#: lib/Content/Api/Page.php:458 lib/Content/Api/Page.php:687
+#: lib/Content/Api/Page.php:931 lib/Content/Api/Page.php:967
+#: lib/Content/Api/Page.php:1006
+msgid ""
+"Error! There is already another page registered with the supplied permalink "
+"URL."
+msgstr ""
+"Foutmelding! Er is al een pagina geregistreerd met de ingevoerde permalink "
+"URL."
+
+#: lib/Content/Api/Page.php:596 lib/Content/Api/History.php:91
+msgid "Translated"
+msgstr "Vertaald"
+
+#: lib/Content/Api/Page.php:629 lib/Content/Api/History.php:94
+msgid "Translation deleted"
+msgstr "Vertaling verwijderd"
+
+#: lib/Content/Api/Page.php:913
+msgid ""
+"Error! It is not possible to move a parent page beneath one of its "
+"descendants."
+msgstr ""
+"Foutmelding! Het is niet mogelijk een parent pagina te verplaatsen naar één "
+"van zijn subtakken."
+
+#: lib/Content/Api/Page.php:1001
+msgid "Error! The indentation of this page cannot be increased."
+msgstr "Foutmelding: Inspringen bij deze pagina zit op zijn maximum."
+
+#: lib/Content/Api/Page.php:1260 lib/Content/Api/Page.php:1349
+#: lib/Content/Api/Search.php:75
+msgid "Error! Could not load items."
+msgstr "Foutmelding! Elementen konden niet geladen worden."
+
+#: lib/Content/Api/Account.php:32
+msgid "Add a new page"
+msgstr "Voeg nieuwe pagina toe"
+
+#: lib/Content/Api/Admin.php:25 templates/admin/main_unneeded.tpl:10
+#: templates/user/list.tpl:1 templates/user/list.tpl:2
+#: templates/user/pageinfo.tpl:24
+msgid "Page list"
+msgstr "Pagina lijst"
+
+#: lib/Content/Api/Admin.php:37
+msgid "Restore pages"
+msgstr "Pagina's terugzetten"
+
+#: lib/Content/Api/Admin.php:49 templates/admin/settings.tpl:15
+#: templates/admin/settings.tpl:17 templates/admin/main_unneeded.tpl:12
+msgid "Settings"
+msgstr "Instellingen"
+
+#: lib/Content/Api/Admin.php:53
+msgid "Upgrade ContentTypes"
+msgstr "ContentTypes bijwerken"
+
+#: lib/Content/Api/Admin.php:57
+msgid "Migrate Data"
+msgstr "Data migreren"
+
+#: lib/Content/Api/Content.php:27
+msgid "Error! Unknown content-ID"
+msgstr "Foutmelding! Onbekende content-ID"
+
+#: lib/Content/Api/Content.php:60
+msgid "disabled plugin"
+msgstr "uitgeschakelde plugin"
+
+#: lib/Content/Api/Content.php:62
+#, php-format
+msgid "Disabled: Inaccessible plugin output (%1$s, %2$s)."
+msgstr "Uitgeschakeld: Niet-toegankelijke plugin output (%1$s, %2$s)."
+
+#: lib/Content/Api/Content.php:178
+msgid "Error! Can't load content plugin"
+msgstr "Foutmelding! Kan de Content plugin niet laden"
+
+#: lib/Content/Api/Content.php:761
+#, php-format
+msgid ""
+"Error! Unable to load plugin [%1$s] in module [%2$s] since the class is not "
+"defined. Upgrade of %2$s module required."
+msgstr ""
+"Foutmelding! De plugin [%1$s] kan niet geladen worden in module [%2$s] omdat "
+"de klasse niet gedefinieerd is. Bijwerken van module %2$s vereist."
+
+#: lib/Content/Api/Content.php:770
+#, php-format
+msgid ""
+"Error! Unable to load plugin [%1$s] in module [%2$s] since the module is not "
+"available."
+msgstr ""
+"Foutmelding! De plugin [%1$s] kan niet geladen worden in module [%2$s] omdat "
+"de module niet beschikbaar is."
+
+#: lib/Content/Api/Content.php:774
+#, php-format
+msgid ""
+"Error! Unable to load plugin [%1$s] in module [%2$s] for some unknown reason."
+msgstr ""
+"Foutmelding! De plugin [%1$s] kan niet geladen worden in module [%2$s] met "
+"een onbekende oorzaak."
+
+#: lib/Content/Api/History.php:32 lib/Content/Api/History.php:207
+msgid "Unknown user"
+msgstr "Onbekende gebruiker"
+
+#: lib/Content/Api/History.php:85
+msgid "Content updated"
+msgstr "Inhoud bijgewerkt"
+
+#: lib/Content/Api/History.php:88
+msgid "Content deleted"
+msgstr "Inhoud verwijderd"
+
+#: lib/Content/Api/History.php:97
+msgid "Content moved"
+msgstr "Inhoud verplaatst"
+
+#: lib/Content/Api/History.php:100
+msgid "Content added"
+msgstr "Inhoud toegevoegd"
+
+#: lib/Content/Api/History.php:103
+msgid "Page added"
+msgstr "Pagina toegevoegd"
+
+#: lib/Content/Api/History.php:106
+#, php-format
+msgid "Page cloned from page [%s]"
+msgstr "Pagina [%s] gekopieerd naar nieuwe pagina"
+
+#: lib/Content/Api/History.php:109
+msgid "Page updated"
+msgstr "Pagina bijgewerkt"
+
+#: lib/Content/Api/History.php:112
+#, php-format
+msgid "Page restored from version [%s]"
+msgstr "Pagina hersteld vanuit versie [%s]"
+
+#: lib/Content/Api/History.php:115
+msgid "Page deleted"
+msgstr "Pagina verwijderd"
+
+#: lib/Content/Api/History.php:204 lib/Content/Api/History.php:281
+#, php-format
+msgid "Error! Unknown version ID [%s]"
+msgstr "Foutmelding! Onbekend versie ID [%s]"
+
+#: lib/Content/Api/History.php:310
+msgid "Error! Could not reinsert page"
+msgstr "Foutmelding! Pagina kon niet hersteld worden"
+
+#: lib/Content/Api/History.php:385
+msgid "Error! Re-created old content item but did not restore old ID."
+msgstr ""
+"Foutmelding! Het oude inhoud element werd opnieuw aangemaakt, maar niet met "
+"het oude ID."
+
+#: lib/Content/ContentType/Block.php:35
+msgid "Blocks"
+msgstr "Blokken"
+
+#: lib/Content/ContentType/Block.php:39
+msgid "Display Zikula blocks."
+msgstr "Toon Zikula blokken."
+
+#: lib/Content/ContentType/Unfiltered.php:115
+msgid "Unfiltered raw text"
+msgstr "Ongefilterde platte tekst"
+
+#: lib/Content/ContentType/Unfiltered.php:119
+msgid "A plugin for unfiltered raw output (iframes, JavaScript, banners, etc)"
+msgstr ""
+"Een plugin voor het weergeven van ongefilterde ruwe data (iframes, "
+"JavaScript, banners, etc)."
+
+#: lib/Content/ContentType/Unfiltered.php:168
+#, php-format
+msgid ""
+"An <strong>iframe</strong> is included with<br />src = %1$s<br />width = "
+"%2$s and height = %3$s"
+msgstr ""
+"Een <strong>iframe</strong> wordt gebruikt met <br />src = %1$s<br />breedte "
+"= %2$s and hoogte = %3$s"
+
+#: lib/Content/ContentType/Unfiltered.php:170
+#, php-format
+msgid ""
+"The following <strong>unfiltered text</strong> will be included "
+"literally<br />%s"
+msgstr ""
+"De volgende <strong>ongefilterde tekst</strong> zal letterlijk ingevoegd "
+"worden<br />%s"
+
+#: lib/Content/ContentType/Unfiltered.php:178
+msgid "Add unfiltered text here ..."
+msgstr "Voeg hier ongefilterde platte tekst in ..."
+
+#: lib/Content/ContentType/Author.php:26
+msgid "Author Infobox"
+msgstr "Auteur infobox"
+
+#: lib/Content/ContentType/Author.php:30
+msgid "Various information about the author of the page."
+msgstr "Informatie over de auteur van de pagina."
+
+#: lib/Content/ContentType/PageNavigation.php:15
+#: lib/Content/ContentType/PageNavigation.php:67
+msgid "Page navigation"
+msgstr "Pagina navigatie"
+
+#: lib/Content/ContentType/PageNavigation.php:19
+msgid "Allows to navigate within pages on the same level."
+msgstr "Maakt het mogelijk om binnen pagina's te navigeren op hetzelfde niveau."
+
+#: lib/Content/ContentType/YouTube.php:81
+msgid "YouTube video clip"
+msgstr "YouTube video clip"
+
+#: lib/Content/ContentType/YouTube.php:85
+msgid "Display YouTube video clip."
+msgstr "Toon YouTube video clip."
+
+#: lib/Content/ContentType/YouTube.php:113
+#, php-format
+msgid "Video-ID : %1$s<br />Size in pixels: %2$s x %3$s"
+msgstr "Video-ID: %1$s<br>Afmeting in pixels: %2$s x %3$s"
+
+#: lib/Content/ContentType/Html.php:37
+msgid "HTML text"
+msgstr "HTML tekst"
+
+#: lib/Content/ContentType/Html.php:42
+msgid "A rich HTML editor for adding text to your page."
+msgstr "Een rich HTML editor voor het toevoegen van tekst op de pagina."
+
+#: lib/Content/ContentType/Html.php:84
+msgid "Add text here ..."
+msgstr "Voeg hier tekst toe..."
+
+#: lib/Content/ContentType/Rss.php:58
+msgid "RSS feed"
+msgstr "RSS feed"
+
+#: lib/Content/ContentType/Rss.php:62
+msgid "Display list of items in an RSS feed. Needs the ZFeed system plugin."
+msgstr "Toon een lijst van elementen in een RSS feed (ZFeed plugin benodigd)."
+
+#: lib/Content/ContentType/Slideshare.php:81
+msgid "Slideshare"
+msgstr "Slideshare"
+
+#: lib/Content/ContentType/Slideshare.php:85
+msgid "Display slides from slideshare.com"
+msgstr "Slides van slideshare.com tonen"
+
+#: lib/Content/ContentType/Slideshare.php:113
+#, php-format
+msgid "Slideshare: %s"
+msgstr "Slideshare: %s"
+
+#: lib/Content/ContentType/Vimeo.php:81
+msgid "Vimeo video clip"
+msgstr "Vimeo video clip"
+
+#: lib/Content/ContentType/Vimeo.php:85
+msgid "Display Vimeo video clip."
+msgstr "Vimeo video clip tonen."
+
+#: lib/Content/ContentType/OpenStreetMap.php:70
+msgid "OpenStreetMap map"
+msgstr "OpenStreetMap kaart"
+
+#: lib/Content/ContentType/OpenStreetMap.php:74
+msgid "Display OpenStreetMap map position."
+msgstr "OpenStreetMap kaart positie tonen."
+
+#: lib/Content/ContentType/OpenStreetMap.php:78
+msgid ""
+"If you want to add OpenStreetMap maps to your content you don't need an API "
+"key."
+msgstr ""
+"Er is geen API sleutel vereist bij het gebruik van OpenStreetMap kaarten in "
+"de pagina's."
+
+#: lib/Content/ContentType/JoinPosition.php:26
+msgid "Join Position"
+msgstr "Samenvoegen uitlijning"
+
+#: lib/Content/ContentType/JoinPosition.php:30
+msgid ""
+"Joins different positions, e.g. if you used position: top-right then this "
+"can fix the layout/textflow."
+msgstr ""
+"Voegt verschillende posities samen, bijvoorbeeld als er gebruik is gemaakt "
+"van position: top-right kan dit de (tekst) weergave verbeteren."
+
+#: lib/Content/ContentType/Heading.php:37
+#: lib/Content/ContentType/Heading.php:71
+#: templates/contenttype/heading_edit.tpl:4
+#: templates/contenttype/heading_translate_new.tpl:2
+#: templates/contenttype/heading_translate_original.tpl:2
+msgid "Heading"
+msgstr "Hoofd"
+
+#: lib/Content/ContentType/Heading.php:41
+msgid "Section heading for structuring larger amounts of text."
+msgstr "Sectiehoofd voor het structureren van grootte stukken tekst."
+
+#: lib/Content/ContentType/ComputerCode.php:28
+msgid "Computer Code"
+msgstr "Computer Code"
+
+#: lib/Content/ContentType/ComputerCode.php:33
+msgid ""
+"A text editor for computer code. Line numbers are added to the text and it "
+"is displayed in a monospaced font."
+msgstr ""
+"Een text editor voor computer code. Regelnummers worden aan de tekst "
+"toegevoegd en weergegeven in een niet uitgevuld lettertype."
+
+#: lib/Content/ContentType/TableOfContents.php:93
+msgid "Table of contents"
+msgstr "Inhoudsopgave"
+
+#: lib/Content/ContentType/TableOfContents.php:97
+msgid ""
+"A table of contents of headings and subpages (built from the available "
+"Content pages)."
+msgstr ""
+"Inhoudsopgave van titels en subpagina's (opgebouwd uit pagina's van deze "
+"module)."
+
+#: lib/Content/ContentType/TableOfContents.php:193
+#: lib/Content/ContentType/TableOfContents.php:209
+#: lib/Content/Block/Menu.php:77 lib/Content/Block/Mostviewed.php:93
+msgid "All pages"
+msgstr "Alle pagina's"
+
+#: lib/Content/ContentType/TableOfContents.php:198
+#, php-format
+msgid "Table of contents of %s"
+msgstr "Inhoudsopgave van %s"
+
+#: lib/Content/ContentType/TableOfContents.php:215
+#: lib/Content/ContentType/TableOfContents.php:216
+msgid "No"
+msgstr "Nee"
+
+#: lib/Content/ContentType/TableOfContents.php:215
+#: lib/Content/ContentType/TableOfContents.php:216
+msgid "Yes, unlimited"
+msgstr "Ja, onbeperkt"
+
+#: lib/Content/ContentType/TableOfContents.php:215
+#: lib/Content/ContentType/TableOfContents.php:216
+msgid "Yes, limited"
+msgstr "Ja, beperkt"
+
+#: lib/Content/ContentType/Quote.php:25
+msgid "Quote"
+msgstr "Citaat"
+
+#: lib/Content/ContentType/Quote.php:29
+msgid "A highlighted quote with source."
+msgstr "Een uitgelicht citaat met bronvermelding."
+
+#: lib/Content/ContentType/Quote.php:70
+msgid "Add quote text here..."
+msgstr "Voeg hier een citaat in..."
+
+#: lib/Content/ContentType/Quote.php:72
+msgid "Name of the Source"
+msgstr "Naam van de bron"
+
+#: lib/Content/ContentType/GoogleMap.php:103
+msgid "Google map"
+msgstr "Google map"
+
+#: lib/Content/ContentType/GoogleMap.php:107
+msgid "Display Google map position."
+msgstr "Google map positie tonen."
+
+#: lib/Content/ContentType/GoogleMap.php:111
+msgid ""
+"A Google maps API key is not needed any more in the new version 3 of the "
+"Javascript API."
+msgstr ""
+"Een Google Maps API sleutel is sinds versie 3 van de javascript API niet "
+"meer nodig."
+
+#: lib/Content/ContentType/Flickr.php:51
+msgid "Photos from Flickr.com"
+msgstr "Foto's van Flickr.com"
+
+#: lib/Content/ContentType/Flickr.php:56
+msgid "Display thumbnails from specific Flickr user or tags."
+msgstr "Toon thumbnails van een bepaalde Flickr user of van tags."
+
+#: lib/Content/ContentType/Flickr.php:61 templates/admin/settings.tpl:40
+msgid ""
+"If your want to add Flickr photos to your content then you need a Flickr API "
+"key. You can get this from <a href=\"http://www.flickr.com/api\">flickr.com</"
+"a>."
+msgstr ""
+"Om Flickr foto's toe te voegen als inhoud is een Flickr API key nodig. "
+"Verkrijgbaar op <a href=\"http://www.flickr.com/api\">flickr.com</a>."
+
+#: lib/Content/ContentType/Flickr.php:110
+#, php-format
+msgid "Flickr photos from user %1$s associated with tags %2$s"
+msgstr "Flickr foto's van gebruiker %1$s zijn geassocieerd met tags %2$s"
+
+#: lib/Content/ContentType/Camtasia.php:104
+msgid "Camtasia Flash video"
+msgstr "Camtasia Flash video"
+
+#: lib/Content/ContentType/Camtasia.php:109
+msgid "Display a Camtasia Flash video."
+msgstr "Een Camtasia Flash video tonen."
+
+#: lib/Content/ContentType/Camtasia.php:157
+#, php-format
+msgid "Flash Video-Path: %1$s<br>Size in pixels: %2$s"
+msgstr "Flash Video-Pad: %1$s<br>Afmeting in pixels: %2$s"
+
+#: lib/Content/ContentType/Camtasia.php:158
+#, php-format
+msgid "Video description: %s"
+msgstr "Video omschrijving: %s"
+
+#: lib/Content/ContentType/ModuleFunc.php:49
+msgid "Module display"
+msgstr "Module weergave"
+
+#: lib/Content/ContentType/ModuleFunc.php:53
+msgid "Display output from any installed module."
+msgstr "Toon output van een geïnstalleerde module."
+
+#: lib/Content/ContentType/ModuleFunc.php:71
+msgid ""
+"Maximum number of pages-in-pages reached! You probably included this page in "
+"itself."
+msgstr ""
+"Maximum aantal pagina-in-pagina's bereikt! Waarschijnlijk is deze pagina in "
+"zichzelf ingevoegd."
+
+#: lib/Content/ContentType/Breadcrumb.php:15
+msgid "BreadCrumb"
+msgstr "Kruimelpad"
+
+#: lib/Content/ContentType/Breadcrumb.php:20
+msgid "Show breadcrumbs for hierarchical pages"
+msgstr "Toon een kruimelpad voor hiërarchische pagina's"
+
+#: lib/Content/Installer.php:40
+msgid ""
+"Warning! Could not create the default Content category tree. If you want to "
+"use categorisation with Content, register at least one property for the "
+"module in the Category Registry."
+msgstr ""
+"Let op: de standaard Content categorie-indeling kon niet aangemaakt worden. "
+"Indien indeling in categorieën gebruikt gaat worden, registreer dan "
+"tenminste 1 eigenschap voor deze module in het categorie register."
+
+#: lib/Content/Installer.php:131
+msgid "Table creation failed for 'content_translatedcontent': "
+msgstr "Maken van de tabel 'content_translatedcontent' mislukt voor:"
+
+#: lib/Content/Installer.php:134
+msgid "Table creation failed for 'content_translatedpage': "
+msgstr "Maken van de tabel 'content_translatedpage' mislukt voor: "
+
+#: lib/Content/Installer.php:352
+msgid "Content introduction page"
+msgstr "Content introductie pagina"
+
+#: lib/Content/Installer.php:353
+msgid "content-introduction-page"
+msgstr "content-introductie-pagina"
+
+#: lib/Content/Installer.php:361
+msgid "Warning! Could not create the default Content introductory page."
+msgstr ""
+"Let op: de standaard content introductie pagina kan niet aangemaakt worden."
+
+#: lib/Content/Installer.php:370
+msgid "A Content page consists of various content items in a chosen layout"
+msgstr ""
+"Een Content pagina bestaat uit verschillende inhoud elementen in een zelf "
+"gekozen weergave"
+
+#: lib/Content/Installer.php:377
+msgid ""
+"<p>Each created page has a specific layout, like 1 column with and without a "
+"header, 2 columns, 3 columns. The chosen layout contains various content "
+"areas. In each area you can place 1 or more content items of various kinds "
+"like:</p> <ul> <li>HTML text;</li> <li>YouTube videos;</li> <li>Google maps;"
+"</li> <li>Flickr photos;</li> <li>RSS feeds;</li> <li>Computer Code;</li> "
+"<li>the output of another Zikula module.</li> </ul> <p>Within these content "
+"areas you can sort the content items by means of drag & drop.<br /> You can "
+"make an unlimited number of pages and structure them hierarchical. Your page "
+"structure can be displayed in a multi level menu in your website.</p>"
+msgstr ""
+"<p>Iedere aangemaakte pagina heeft een specifieke weergave (layout), zoals 1 "
+"kolom met en zonder header, 2 kolommen, 3 kolommen. De gekozen layout bevat "
+"verschillende content-gebieden. In elk gebied kunnen 1 of meerdere inhoud "
+"elementen van verschillende aard worden geplaatst zoals:</p> <ul> <li>HTML "
+"tekst;</li> <li>YouTube video's;</li> <li>Google maps;</li> <li>Flickr "
+"foto's;</li> <li>RSS feeds;</li> <li>Computer Code;</li> <li>weergave van "
+"een andere zikula module.</li> </ul> <p>Binnen deze content gebieden kunnen "
+"de items herschikt worden middels slepen en neerzetten.<br />Er zit geen "
+"limiet op het aantal aan te maken pagina's, en deze kunnen hiërarchisch "
+"gestructureerd worden. De pagina-structuur kan worden weergegeven in een "
+"multi-level menu binnen de website.</p>"
+
+#: lib/Content/Installer.php:384
+msgid ""
+"<p><strong>This is a second HTML text content item in the left column</"
+"strong><br /> Content is an extendible module. You can create your own "
+"content plugins and layouts and other Zikula modules can also offer content "
+"items. The News published module for instance has a Content plugin for a "
+"list of the latest articles.</p>"
+msgstr ""
+"<p><strong>Dit is een tweede HTML-blok in de linker kolom.</strong><br "
+"/>Content is een uitbreidbare module: eigen Content plugins en weergaves "
+"kunnen worden geschreven en toegevoegd, maar ook andere Zikula modules "
+"kunnen eigen inhoud elementen aanleveren. De Nieuws module heeft "
+"bijvoorbeeld een Content plugin voor de weergave van de laatste "
+"artikelen.</p>"
+
+#: lib/Content/Installer.php:391
+msgid "No matter what your needs, Zikula can provide the solution."
+msgstr "Ongeacht de wensen kan Zikula de oplossing bieden."
+
+#: lib/Content/Installer.php:398
+msgid "$this->doAction($var); // just some code"
+msgstr "$this->doAction($var); // Gewoon wat voorbeeld code"
+
+#: lib/Content/Installer.php:404
+msgid ""
+"<p>So you see that you can place all kinds of content on the page in your "
+"own style and liking. This makes Content a really powerful module.</p> "
+"<p>This page uses the <strong>2 column (62|38) layout</strong> which has a "
+"header, 2 colums with 62% width on the left and 38% width on the right and a "
+"footer</p>"
+msgstr ""
+"<p>Het is dus mogelijk om allerlei soorten inhoud te plaatsen op de pagina, "
+"in een eigen stijl en smaak. Dit maakt Content een krachtige "
+"module.</p><p>Deze pagina maakt gebruik van de <strong>2-kolom (62|38) "
+"weergave</strong>, die een kop heeft, 2 kolommen met 62% breedte aan de "
+"linkerkant en 38% breedte aan de rechterkant, en een voettekst</p>"
+
+#: lib/Content/Installer.php:411
+msgid ""
+"This <strong>footer</strong> finishes of this introduction page. Good luck "
+"with using Content. The <a href=\"index.php?module=content&type=admin\">Edit "
+"Contents</a> interface lets you edit or delete this introduction page. In "
+"the <a href=\"index.php?module=content&type=admin\">administration</a> "
+"interface you can further control the Content module."
+msgstr ""
+"Deze <strong>footer</strong> voltooid deze introductie pagina. Veel succes "
+"en plezier bij het gebruik van Content. In de <a "
+"href=\"index.php?module=content&type=edit\">Pagina lijst</a> weergave kan deze "
+"introtekst bewerkt of verwijderd worden. In de <a "
+"href=\"index.php?module=content&type=admin\">Beheer</a> weergave van de "
+"Content module zijn nog wat extra instellingen aan te passen."
+
+#: lib/Content/Installer.php:507
+#, php-format
+msgid "%1$s ContentTypes upgraded for %2$s"
+msgstr "%1$s inhoudstypes opgewaardeerd voor %2$s"
+
+#: lib/Content/Form/Handler/Admin/NewContent.php:41
+msgid "Missing page ID (pid) in URL"
+msgstr "Missende pagina-ID (pid) in URL"
+
+#: lib/Content/Form/Handler/Admin/NewContent.php:45
+msgid "Missing content area index (cai) in URL"
+msgstr "Missende inhouds-index (cai) in URL"
+
+#: lib/Content/Form/Handler/Admin/NewContent.php:53
+#: templates/admin/newcontent.tpl:4
+msgid "Add new content to page"
+msgstr "Voeg nieuwe inhoud aan de pagina toe"
+
+#: lib/Content/Form/Handler/Admin/DeletedPages.php:26
+#: templates/admin/deletedpages.tpl:4
+msgid "Restore deleted pages"
+msgstr "Verwijderde pagina's herstellen"
+
+#: lib/Content/Form/Handler/Admin/TranslatePage.php:25
+#: lib/Content/Form/Handler/Admin/TranslateContent.php:46
+#, php-format
+msgid ""
+"Sorry, you cannot translate an item to the same language as it's default "
+"language (\"%1$s\"). Change the current site language (\"%2$s\") to some "
+"other language on the <a href=\"%3$s\">localisation settings</a> page.<br /> "
+"Another way is to add, for instance, <strong>&amp;lang=de</strong> to the "
+"url for changing the current site language to German and after that the item "
+"can be translated to German."
+msgstr ""
+"Er kan helaas geen item vertaald worden naar de standaard taal (\"%1$s\"). "
+"Wijzig de standaard taal van deze site (\"%1$s\") naar een andere taal bij de "
+"<a href=\"%2$s\">lokalisatie-instellingen</a> pagina.<br />Een andere manier "
+"is om, bijvoorbeeld, <strong>&amp;lang=nl</strong> toe te voegen aan de url, "
+"zodat de huidige site-taal op nederlands wordt ingesteld. Hierna kan het "
+"element worden vertaald naar het Nederlands."
+
+#: lib/Content/Form/Handler/Admin/TranslatePage.php:30
+#: templates/admin/translatepage.tpl:4 templates/user/pageinfo.tpl:18
+msgid "Translate page"
+msgstr "Vertaal pagina"
+
+#: lib/Content/Form/Handler/Admin/TranslateContent.php:54
+#: templates/admin/translatecontent.tpl:4
+msgid "Translate content item"
+msgstr "Vertaal inhoud element"
+
+#: lib/Content/Form/Handler/Admin/NewPage.php:47
+msgid "Located below:"
+msgstr "Hieronder:"
+
+#: lib/Content/Form/Handler/Admin/NewPage.php:49
+msgid "Located after:"
+msgstr "Na:"
+
+#: lib/Content/Form/Handler/Admin/NewPage.php:59
+#: lib/Content/Form/Handler/Admin/ClonePage.php:45
+msgid "Error! You have not been granted access to create pages."
+msgstr "Foutmelding! Geen toegangsrechten om pagina's te maken."
+
+#: lib/Content/Form/Handler/Admin/EditContent.php:71
+msgid "Unknown"
+msgstr "Onbekend"
+
+#: lib/Content/Form/Handler/Admin/EditContent.php:72
+msgid "Unknown plugin - requires upgrade"
+msgstr "Onbekende plugin, opwaardering noodzakelijk"
+
+#: lib/Content/Form/Handler/Admin/EditContent.php:73
+#: lib/Content/Form/Handler/Admin/EditContent.php:74
+msgid "Disabled plugin - requires upgrade"
+msgstr "Uitgeschakelde plugin - opwaardering noodzakelijk"
+
+#: lib/Content/Form/Handler/Admin/EditContent.php:101
+msgid "Edit content item"
+msgstr "Inhoud bewerken"
+
+#: lib/Content/Form/Handler/Admin/EditContent.php:107
+msgid "public (all)"
+msgstr "publiek (iedereen)"
+
+#: lib/Content/Form/Handler/Admin/EditContent.php:109
+#: templates/content_include_contentedit.tpl:8
+msgid "only logged in members"
+msgstr "alleen ingelogde gebruikers"
+
+#: lib/Content/Form/Handler/Admin/EditContent.php:111
+#: templates/content_include_contentedit.tpl:8
+msgid "only not logged in people"
+msgstr "alleen niet ingelogde gebruikers"
+
+#: lib/Content/Form/Handler/Admin/Page.php:41 templates/admin/history.tpl:5
+#: templates/user/pageinfo.tpl:16
+msgid "Edit page"
+msgstr "Pagina bewerken"
+
+#: lib/Content/Form/Handler/Admin/Page.php:111
+msgid "Layout changed"
+msgstr "Opmaak gewijzigd"
+
+#: lib/Content/Form/Handler/Admin/Settings.php:10
+msgid "Use 2 category levels (1st level single, 2nd level multi selection)"
+msgstr "Gebruik 2 categorie niveaus (1 hoofdcategorie, meerdere subcategorieën)"
+
+#: lib/Content/Form/Handler/Admin/Settings.php:11
+msgid "Use 2 category levels (both single selection)"
+msgstr "Gebruik 2 categorie niveaus (1 hoofdcategorie, 1 subcategorie)"
+
+#: lib/Content/Form/Handler/Admin/Settings.php:12
+msgid "Use 1 category level"
+msgstr "Gebruik 1 categorie niveau"
+
+#: lib/Content/Form/Handler/Admin/Settings.php:13
+msgid "Don't use Categories at all"
+msgstr "Geen categorieën gebruiken"
+
+#: lib/Content/Form/Handler/Admin/Settings.php:17
+msgid "New pages will be active and available in the menu"
+msgstr "Nieuwe pagina's worden actief en zichtbaar in het menu"
+
+#: lib/Content/Form/Handler/Admin/Settings.php:18
+msgid "New pages will be inactive and available in the menu"
+msgstr "Nieuwe pagina's worden inactief en zichtbaar in het menu"
+
+#: lib/Content/Form/Handler/Admin/Settings.php:19
+msgid "New pages will be active and not available in the menu"
+msgstr "Nieuwe pagina's worden actief en onzichtbaar in het menu"
+
+#: lib/Content/Form/Handler/Admin/Settings.php:20
+msgid "New pages will be inactive and not available in the menu"
+msgstr "Nieuwe pagina's worden inactief en onzichtbaar in het menu"
+
+#: lib/Content/Form/Handler/Admin/Settings.php:48
+msgid "Failed to set configuration variables"
+msgstr "Foutmelding! configuratie kon niet worden ingesteld"
+
+#: lib/Content/Form/Handler/Admin/Settings.php:54
+msgid "Main category property does not exist."
+msgstr "Hoofdcategorie eigenschap bestaat niet."
+
+#: lib/Content/Form/Handler/Admin/Settings.php:59
+msgid "Second category property does not exist."
+msgstr "Subcategorie eigenschap bestaat niet."
+
+#: lib/Content/Form/Handler/Admin/Settings.php:63
+msgid "Done! Saved module configuration."
+msgstr "Klaar! Module configuratie opgeslagen."
+
+#: lib/Content/Form/Handler/Admin/Main.php:29 templates/admin/main.tpl:5
+msgid "Page list and content structure"
+msgstr "Pagina lijst en inhoud structuur"
+
+#: lib/Content/Form/Handler/Admin/ClonePage.php:26
+msgid "Page not found"
+msgstr "Pagina niet gevonden"
+
+#: lib/Content/Form/Handler/Admin/ClonePage.php:34
+#: templates/admin/clonepage.tpl:4 templates/admin/tocedit.tpl:28
+msgid "Clone page"
+msgstr "Pagina kopiëren "
+
+#: lib/Content/Form/Handler/Admin/HistoryContent.php:46
+msgid "Page history"
+msgstr "Pagina geschiedenis"
+
+#: lib/Content/Form/Plugin/PositionSelector.php:46
+msgid "No box"
+msgstr "Geen box"
+
+#: lib/Content/Form/Plugin/PositionSelector.php:51
+msgid "Above"
+msgstr "Boven"
+
+#: lib/Content/Form/Plugin/PositionSelector.php:56
+msgid "Float, left"
+msgstr "Float, links"
+
+#: lib/Content/Form/Plugin/PositionSelector.php:61
+msgid "Float, right"
+msgstr "Float, rechts"
+
+#: lib/Content/Form/Plugin/PositionSelector.php:66
+msgid "Above, left"
+msgstr "Boven, links"
+
+#: lib/Content/Form/Plugin/PositionSelector.php:71
+msgid "Above, right"
+msgstr "Boven, rechts"
+
+#: lib/Content/Controller/Edit.php:16 lib/Content/Controller/Edit.php:24
+#: lib/Content/Controller/Edit.php:32 lib/Content/Controller/Edit.php:40
+#: lib/Content/Controller/Edit.php:48 lib/Content/Controller/Edit.php:56
+#: lib/Content/Controller/Edit.php:64 lib/Content/Controller/Edit.php:72
+#: lib/Content/Controller/Edit.php:80 lib/Content/Controller/Edit.php:88
+#, php-format
+msgid "Warning! %1$s is deprecated. Please use the Admin controller instead."
+msgstr ""
+"Waarschuwing! %1$s wordt niet meer gebruikt. Gebruik hiervoor de Admin "
+"controller."
+
+#: lib/Content/Controller/User.php:97
+#, php-format
+msgid "Version #%1$s - %2$s - %3$s by %4$s from %5$s"
+msgstr "Versie #%1$s - %2$s - %3$s door %4$s van %5$s"
+
+#: lib/Content/Controller/User.php:121 templates/admin/editpage.tpl:199
+#: templates/admin/tocedit.tpl:25
+msgid "Preview"
+msgstr "Voorbeeld"
+
+#: lib/Content/Controller/User.php:238
+msgid "Error! Unknown page."
+msgstr "Foutmelding! Onbekende pagina."
+
+#: lib/Content/Controller/Admin.php:142
+msgid "No ContentTypes upgraded (there were no matches found)."
+msgstr "Geen Content types opgewaardeerd (geen overeenkomsten gevonden)"
+
+#: lib/Content/Controller/Admin.php:154
+#, php-format
+msgid "Module '%s' migrated successfully."
+msgstr "Module '%s' succesvol gemigreerd"
+
+#: lib/Content/Controller/Admin.php:156
+#, php-format
+msgid "Error: Unable to migrate module '%s'."
+msgstr "Foutmelding! Module '%s' niet gemigreerd."
+
+#: lib/Content/Controller/Ajax.php:33
+msgid "Ok"
+msgstr "Ok"
+
+#: lib/Content/Controller/Ajax.php:52 lib/Content/Controller/Ajax.php:78
+msgid "Error! No page ID passed."
+msgstr "Geen pagina ID doorgekregen."
+
+#: lib/Content/Controller/Ajax.php:57 lib/Content/Controller/Ajax.php:83
+msgid "Error! Could not update state."
+msgstr "Foutmelding! Status kon niet bijgewerkt worden."
+
+#: lib/Content/Version.php:19
+msgid "Content editing"
+msgstr "Content pagina's"
+
+#: lib/Content/Version.php:20
+msgid ""
+"Content is a page editing module. With it you can insert and edit various "
+"content items, such as HTML texts, videos, Google maps and much more."
+msgstr ""
+"Content is een module om pagina's te bewerken. Het is mogelijk om "
+"verschillende inhoud elementen toe te voegen en te bewerken zoals HTML "
+"teksten, video's, Google kaarten en nog veel meer."
+
+#: lib/Content/Version.php:22
+msgid "content"
+msgstr "content"
+
+#: lib/Content/Version.php:42
+msgid "Content Display Hooks"
+msgstr "Hooks om inhoud te laten zien"
+
+#: lib/Content/Version.php:52
+msgid "Content Filter Hooks"
+msgstr "Hooks om inhoud te fliteren"
+
+#: lib/Content/Block/OnePage.php:22
+msgid "Content onepage"
+msgstr "inhoud met enkele pagina"
+
+#: lib/Content/Block/OnePage.php:23
+msgid "Content onepage block"
+msgstr "Content enkele pagina blok"
+
+#: lib/Content/Block/OnePage.php:46
+msgid "No page selected"
+msgstr "Geen pagina geselecteerd"
+
+#: lib/Content/Block/OnePage.php:61
+msgid "Select a page"
+msgstr "Kies een pagina"
+
+#: lib/Content/Block/Menu.php:21
+msgid "Content menu"
+msgstr "Inhoudsmenu"
+
+#: lib/Content/Block/Menu.php:22
+msgid "Content menu block"
+msgstr "Content menu blok"
+
+#: lib/Content/Block/Mostviewed.php:21
+msgid "Content Most Viewed"
+msgstr "Meest bekeken pagina's"
+
+#: lib/Content/Block/Mostviewed.php:22
+msgid "Content Most viewed Pages block"
+msgstr "Meest bekeken pagina's blok"
+
+#: lib/Content/Block/SubPages.php:21
+msgid "Content subpages of current page"
+msgstr "Onderliggende pagina met inhoud bij huidige pagina"
+
+#: lib/Content/Block/SubPages.php:22
+msgid "Content subpages of the current page in a block"
+msgstr "Onderliggende pagina bij de huidige pagina in een blok"
+
+#: templates/admin/settings.tpl:4
+msgid "Module settings"
+msgstr "Module instellingen"
+
+#: templates/admin/settings.tpl:7
+msgid "This is where you configure various parts of the content module."
+msgstr "Hier zijn de verschilende delen van de Content module in te stellen."
+
+#: templates/admin/settings.tpl:19
+msgid "Short URL suffix"
+msgstr "Korte URL suffix"
+
+#: templates/admin/settings.tpl:21
+msgid ""
+"File suffix of short URLs (including a dot - for instance \".html\"). This "
+"is only used if you enable short URLs in Zikula's admin section."
+msgstr ""
+"Bestands suffix of korte URL's (inclusief een punt - bijvoorbeeld \".html\"). "
+"Wordt alleen gebruikt als korte URL's in Zikula's beheer zijn ingeschakeld."
+
+#: templates/admin/settings.tpl:24
+msgid "State of new pages"
+msgstr "Status van nieuwe pagina's"
+
+#: templates/admin/settings.tpl:28
+msgid "Count page views"
+msgstr "Pagina bezoekers tellen"
+
+#: templates/admin/settings.tpl:30
+msgid ""
+"Page views are only counted when not in preview or edit mode and only when "
+"the user has no edit access."
+msgstr ""
+"pagina-impressies worden niet in de voorbeeld- of bewerkenmodus meegeteld en "
+"worden alleen geteld als een gebruiker geen rechten om te bewerken heeft."
+
+#: templates/admin/settings.tpl:33
+msgid "Google maps API key"
+msgstr "Google maps API key"
+
+#: templates/admin/settings.tpl:35
+msgid ""
+"A Google Maps API key is no longer needed for including maps with the "
+"Javascript API v3. More information at <a href=\"http://code.google.com/apis/"
+"maps/documentation/javascript/basics.html\">Google</a>."
+msgstr ""
+"Een Google Maps API key is niet langer vereist voor het invoegen van kaarten "
+"met de Javascript API v3. Meer informatie te vinden op <a href=\"http://code"
+".google.com/apis/maps/documentation/javascript/basics.html\">Google</a>."
+
+#: templates/admin/settings.tpl:38
+msgid "Flickr API key"
+msgstr "Flickr API key"
+
+#: templates/admin/settings.tpl:44
+msgid "Scribite editor"
+msgstr "Scribite"
+
+#: templates/admin/settings.tpl:46
+msgid ""
+"Selecting \"-\" here will use the scribite default editor. If no default "
+"editor is set in scribite, then no editor will display."
+msgstr ""
+"Door hier \"-\" te selecteren wordt de standaard-editor voor Scribite "
+"gebruikt. Als in Scribite geen standaard-editor is ingesteld dan wordt er "
+"ook geen gebruikt."
+
+#: templates/admin/settings.tpl:46
+msgid ""
+"Creating Content-specific module settings in the Scribite settings will have "
+"no effect."
+msgstr ""
+"Het aanmaken van specifieke instellingen voor Content in Scribite heeft geen "
+"effect"
+
+#: templates/admin/settings.tpl:50
+msgid "Enable the unfiltered raw text plugin"
+msgstr "De plugin voor ongefilterde ruwe tekst aanzetten"
+
+#: templates/admin/settings.tpl:52
+msgid ""
+"Use this plugin with caution and if you can trust your editors, since no "
+"filtering is being done on the content. To be used for iframes, JavaScript "
+"blocks, etc."
+msgstr ""
+"Gebruik deze plugin met voorbehoud en alleen als de editors vertrouwd kunnen "
+"worden, omdat er geen filtering gedaan wordt op de inhoud. Kan gebruikt "
+"worden voor iframes, JavaScript blokken, etc."
+
+#: templates/admin/settings.tpl:55 templates/admin/editcontent.tpl:44
+msgid "Styling"
+msgstr "Styling"
+
+#: templates/admin/settings.tpl:57
+msgid ""
+"A list of CSS class names available for styling of content elements. The end "
+"user can select one class for each element on a page - for instance \"note\" "
+"for an element styled as a note. Write one class name on each line. Please "
+"separate the CSS classes and displaynames with | - eg. \"note | Memo\"."
+msgstr ""
+"Een lijst van CSS class namen die beschikbaar zijn voor de styling van "
+"inhoud items. De eindgebruiker kan een class kiezen voor elk element op een "
+"pagina - bijvoorbeeld \"note\" voor een element gestyled als een notitie. "
+"Gebruik een class naam op elke regel. Onderscheid CSS classes en "
+"weergavenamen met | - voorbeeld \"note | Memo\"."
+
+#: templates/admin/settings.tpl:60
+msgid "Enable version history"
+msgstr "Schakel versie geschiedenis in"
+
+#: templates/admin/settings.tpl:64
+msgid "Category usage"
+msgstr "Categorie gebruik"
+
+#: templates/admin/settings.tpl:69
+msgid "Category Property for the first category selection"
+msgstr "Categorie property voor de eerste categorie selectie"
+
+#: templates/admin/settings.tpl:71
+#, php-format
+msgid ""
+"(In the <a href=\"%s\">category registry</a> you can set the property to use "
+"for the first category)"
+msgstr ""
+"(In het <a href=\"%s\">categorie register</a> kan de property gezet worden die "
+"gebruikt wordt voor de eerste categorie)"
+
+#: templates/admin/settings.tpl:74
+msgid "Category Property for the second category selection"
+msgstr "Categorie Property voor de tweede categorie selectie"
+
+#: templates/admin/settings.tpl:76
+#, php-format
+msgid ""
+"(In the <a href=\"%s\">category registry</a> you can set the property to use "
+"for the second category if being used)"
+msgstr ""
+"(In het <a href=\"%s\">categorie register</a> kan de property gezet worden die "
+"gebruikt wordt voor de tweede categorie, als deze gebruikt wordt)"
+
+#: templates/admin/settings.tpl:81
+msgid "Available Plugins"
+msgstr "Beschikbare Plugins"
+
+#: templates/admin/settings.tpl:82
+msgid ""
+"Content includes an API that other modules can use to provide their content. "
+"Moreover some modules introduce extra functions to plugins delivered with "
+"Content."
+msgstr ""
+"Content heeft een API die gebruikt kan worden door andere modules om hun "
+"inhoud aan te leveren. Daarbij verzorgen enkele modules extra functies aan "
+"plugins die worden geleverd door Content."
+
+#: templates/admin/settings.tpl:87 templates/admin/settings.tpl:98
+msgid "Installed"
+msgstr "Geïnstalleerd"
+
+#: templates/admin/settings.tpl:88 templates/admin/settings.tpl:101
+#: templates/admin/editpage.tpl:116 templates/admin/editcontent.tpl:21
+#: templates/admin/tocedit.tpl:89 templates/admin/tocedit.tpl:90
+msgid "Active"
+msgstr "Actief"
+
+#: templates/admin/settings.tpl:89
+msgid "Module"
+msgstr "Module"
+
+#: templates/admin/settings.tpl:90
+msgid "Plugin"
+msgstr "Plugin"
+
+#: templates/admin/settings.tpl:91 templates/admin/editpage.tpl:102
+#: templates/contenttype/openstreetmap_translate_new.tpl:2
+#: templates/contenttype/quote_edit.tpl:12
+#: templates/contenttype/quote_translate_new.tpl:11
+#: templates/contenttype/openstreetmap_translate_original.tpl:2
+msgid "Description"
+msgstr "Beschrijving"
+
+#: templates/admin/settings.tpl:103 templates/admin/tocedit.tpl:93
+#: templates/admin/tocedit.tpl:94
+msgid "Inactive"
+msgstr "Niet actief"
+
+#: templates/admin/settings.tpl:120 templates/admin/editpage.tpl:200
+#: templates/admin/translatepage.tpl:49
+#: templates/admin/translatecontent.tpl:30 templates/admin/editcontent.tpl:53
+msgid "Save"
+msgstr "Opslaan"
+
+#: templates/admin/settings.tpl:121 templates/admin/migrate.tpl:23
+#: templates/admin/newpage.tpl:61 templates/admin/editpage.tpl:210
+#: templates/admin/translatepage.tpl:51
+#: templates/admin/translatecontent.tpl:34 templates/admin/clonepage.tpl:35
+#: templates/admin/newcontent.tpl:26 templates/admin/editcontent.tpl:60
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: templates/admin/migrate.tpl:4
+msgid "Migrate Data to Content"
+msgstr "Data naar Content migreren"
+
+#: templates/admin/migrate.tpl:11
+msgid "Module selection"
+msgstr "Module selectie"
+
+#: templates/admin/migrate.tpl:13
+msgid "Select a module"
+msgstr "Selecteer een module"
+
+#: templates/admin/migrate.tpl:22
+msgid "Migrate"
+msgstr "Migreren"
+
+#: templates/admin/newpage.tpl:8
+msgid "Select Layout"
+msgstr "Kies opmaak"
+
+#: templates/admin/newpage.tpl:32 templates/admin/editpage.tpl:71
+#: templates/admin/translatepage.tpl:17 templates/admin/translatepage.tpl:33
+#: templates/admin/clonepage.tpl:17
+msgid "Page title"
+msgstr "Pagina titel"
+
+#: templates/admin/newpage.tpl:36 templates/admin/editpage.tpl:79
+#: templates/admin/clonepage.tpl:21
+msgid "Permalink URL name"
+msgstr "Permalink URL naam"
+
+#: templates/admin/newpage.tpl:38 templates/admin/editpage.tpl:81
+msgid "(Used in shorturl mode and generated automatically if left blank)"
+msgstr ""
+"(Gebruikt in ShortURL systemen, wordt automatisch gegenereerd indien leeg "
+"gelaten)"
+
+#: templates/admin/newpage.tpl:43
+msgid "Please select a specific layout for your page"
+msgstr "Kies een bepaalde opmaak voor de pagina"
+
+#: templates/admin/newpage.tpl:45 templates/admin/editpage.tpl:180
+#: templates/admin/editpage.tpl:182
+msgid "Page layout"
+msgstr "Pagina opmaak"
+
+#: templates/admin/newpage.tpl:49 templates/admin/editpage.tpl:186
+msgid "Layout preview and description"
+msgstr "Voorbeeld weervage en omschrijving"
+
+#: templates/admin/newpage.tpl:60 templates/admin/newcontent.tpl:25
+msgid "Create"
+msgstr "Aanmaken"
+
+#: templates/admin/history.tpl:11 templates/admin/deletedpages.tpl:8
+msgid ""
+"Version history is currently disabled and no new entries will be recorded."
+msgstr "Versie geschiedenis is uitgeschakeld en zal niet worden bijgehouden"
+
+#: templates/admin/history.tpl:19
+msgid "Revision #"
+msgstr "Revisie #"
+
+#: templates/admin/history.tpl:20 templates/admin/deletedpages.tpl:17
+msgid "Date"
+msgstr "Datum"
+
+#: templates/admin/history.tpl:21
+msgid "Event"
+msgstr "Gebeurtenis"
+
+#: templates/admin/history.tpl:22 templates/admin/deletedpages.tpl:18
+msgid "User"
+msgstr "Gebruiker"
+
+#: templates/admin/history.tpl:23 templates/admin/deletedpages.tpl:19
+msgid "IP.No."
+msgstr "IP.Nr."
+
+#: templates/admin/history.tpl:24 templates/admin/deletedpages.tpl:20
+msgid "Action"
+msgstr "Actie"
+
+#: templates/admin/history.tpl:35 templates/admin/deletedpages.tpl:30
+msgid "Restore"
+msgstr "Herstel"
+
+#: templates/admin/history.tpl:38 templates/admin/deletedpages.tpl:33
+msgid "No history data recorded."
+msgstr "Geen geschiedenis data opgeslagen."
+
+#: templates/admin/editpage.tpl:23
+msgid "Edit Page"
+msgstr "Pagina bewerken"
+
+#: templates/admin/editpage.tpl:38 templates/admin/tocedit.tpl:24
+msgid "Edit"
+msgstr "Bewerken"
+
+#: templates/admin/editpage.tpl:40
+msgid "Clone content"
+msgstr "Inhoud kopiëren"
+
+#: templates/admin/editpage.tpl:41
+msgid "Add new content above"
+msgstr "Nieuwe inhoud hierboven toevoegen"
+
+#: templates/admin/editpage.tpl:42
+msgid "Add new content below"
+msgstr "Nieuwe inhoud hieronder toevoegen"
+
+#: templates/admin/editpage.tpl:44 templates/admin/editpage.tpl:205
+#: templates/admin/translatepage.tpl:50
+#: templates/admin/translatecontent.tpl:32 templates/admin/editcontent.tpl:55
+#: templates/admin/tocedit.tpl:38
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: templates/admin/editpage.tpl:58 templates/admin/tocedit.tpl:35
+msgid "History"
+msgstr "Geschiedenis"
+
+#: templates/admin/editpage.tpl:62 templates/admin/editcontent.tpl:16
+#: templates/search/options.tpl:3
+msgid "Content"
+msgstr "Inhoud"
+
+#: templates/admin/editpage.tpl:63
+msgid ""
+"Here you manage the content of this page. You can add/edit/delete content as "
+"well as drag the content boxes around to get the layout right. Click on the "
+"icon next to the title for the options of that content item."
+msgstr ""
+"Hier wordt de inhoud van deze pagina beheert. Er kunnen pagina's "
+"toegevoegd/bewerkt/gewist en ook versleept worden om de structuur van de "
+"inhoud goed te zetten. Klik op het icoon naast de titel voor de opties van "
+"dat inhoud element."
+
+#: templates/admin/editpage.tpl:67
+msgid "Options"
+msgstr "Mogelijkheden"
+
+#: templates/admin/editpage.tpl:69
+msgid "Page settings"
+msgstr "Pagina instellingen"
+
+#: templates/admin/editpage.tpl:75
+msgid "Display title on page"
+msgstr "Titel op pagina weergeven"
+
+#: templates/admin/editpage.tpl:84
+msgid "Page language"
+msgstr "Pagina taal"
+
+#: templates/admin/editpage.tpl:88
+msgid "Include page in menu"
+msgstr "Gebruik pagina in menu"
+
+#: templates/admin/editpage.tpl:90
+msgid ""
+"You can include/exclude the page in the menu. The page is only shown when it "
+"is also Online."
+msgstr ""
+"Pagina's kunnen in en uit het menu gezet worden. De pagina is alleen "
+"zichtbaar als deze ook online is."
+
+#: templates/admin/editpage.tpl:93
+msgid "Do not display hooks on this page"
+msgstr "Hooks niet weergeven op deze pagina"
+
+#: templates/admin/editpage.tpl:95
+msgid ""
+"Checking this option will just ignore all the hooks for this page, it does "
+"not replace permissions."
+msgstr ""
+"Door deze optie aan te vinken worden alle hooks op deze pagina genegeerd, "
+"het vervangt niet de permissies"
+
+#: templates/admin/editpage.tpl:100
+msgid "Meta tags"
+msgstr "Meta tags"
+
+#: templates/admin/editpage.tpl:106
+msgid "Keywords"
+msgstr "Trefwoorden"
+
+#: templates/admin/editpage.tpl:114
+msgid "Page state"
+msgstr "Pagina toestand"
+
+#: templates/admin/editpage.tpl:118
+msgid ""
+"You can set the page active/inactive as well as supply a publication date "
+"interval. A page is only online if it is active and within the publication "
+"interval."
+msgstr ""
+"Het is mogelijk om de pagina actief/inactief te zetten of om een datumbereik "
+"op te geven wanneer deze pagina online moet zijn. Een pagina is alleen dan "
+"online als deze actief is en binnen het publicatiebereik valt."
+
+#: templates/admin/editpage.tpl:121
+msgid "Start date"
+msgstr "Start datum"
+
+#: templates/admin/editpage.tpl:125
+msgid "End date"
+msgstr "Eind datum"
+
+#: templates/admin/editpage.tpl:129
+msgid "Created"
+msgstr "Aangemaakt"
+
+#: templates/admin/editpage.tpl:130 templates/admin/editpage.tpl:134
+#: templates/admin/tocedit.tpl:108
+#, php-format
+msgid "on %1$s by %2$s"
+msgstr "op %1$s door %2$s"
+
+#: templates/admin/editpage.tpl:133
+msgid "Updated"
+msgstr "Bijgewerkt"
+
+#: templates/admin/editpage.tpl:146 templates/admin/editpage.tpl:148
+msgid "Category"
+msgstr "Categorie"
+
+#: templates/admin/editpage.tpl:154 templates/user/main.tpl:1
+msgid "Categories"
+msgstr "Categorieën"
+
+#: templates/admin/editpage.tpl:156
+msgid "Primary category"
+msgstr "Hoofd categorie"
+
+#: templates/admin/editpage.tpl:163
+msgid "Secondary category"
+msgstr "Secundaire categorie"
+
+#: templates/admin/editpage.tpl:168
+msgid "Secondary categories"
+msgstr "Secundaire categorieën"
+
+#: templates/admin/editpage.tpl:178 templates/admin/editcontent.tpl:31
+#: templates/admin/editcontent.tpl:33
+msgid "Layout"
+msgstr "Opmaak"
+
+#: templates/admin/editpage.tpl:202
+msgid "Save & View"
+msgstr "Opslaan & Tonen"
+
+#: templates/admin/translatepage.tpl:7
+msgid ""
+"You can only translate the actual page data here. The content items must be "
+"translated one by one."
+msgstr ""
+"Het is hier alleen mogelijk om de echte pagina gegevens te veranderen. De "
+"inhoud elementen moeten één voor één vertaald worden."
+
+#: templates/admin/translatepage.tpl:15
+#: templates/admin/translatecontent.tpl:15
+msgid "Original content"
+msgstr "Originele inhoud"
+
+#: templates/admin/translatepage.tpl:21 templates/admin/translatepage.tpl:37
+msgid "Meta description"
+msgstr "Meta omschrijving"
+
+#: templates/admin/translatepage.tpl:25 templates/admin/translatepage.tpl:41
+msgid "Meta keywords"
+msgstr "Meta steekwoorden"
+
+#: templates/admin/translatepage.tpl:31
+#: templates/admin/translatecontent.tpl:22
+msgid "Translated content"
+msgstr "Vertaalde inhoud"
+
+#: templates/admin/translatepage.tpl:47
+#: templates/admin/translatecontent.tpl:28
+msgid "Next"
+msgstr "Volgende"
+
+#: templates/admin/translatepage.tpl:48
+#: templates/admin/translatecontent.tpl:29
+msgid "Skip"
+msgstr "Overslaan"
+
+#: templates/admin/translatepage.tpl:50
+msgid "Delete page translation AND all content translations"
+msgstr "Wissen pagina vertaling EN alle inhoud vertalingen"
+
+#: templates/admin/main_unneeded.tpl:4
+msgid "Module administration"
+msgstr "Module beheer"
+
+#: templates/admin/main_unneeded.tpl:7
+msgid ""
+"Welcome to your content administration. We have split the editing and "
+"administrative setup into separate systems. So please select from the list "
+"below or the menu above."
+msgstr ""
+"Welkom bij het beheer van Content. Bewerken en instellingenbeheer is "
+"opgedeeld in aparte systemen. Kies daarom uit de lijst hieronder of het menu "
+"hierboven."
+
+#: templates/admin/main_unneeded.tpl:15
+msgid "Extended page list (showing page headers)"
+msgstr "Uitgebreide pagina lijst (met pagina koppen)"
+
+#: templates/admin/main_unneeded.tpl:16
+msgid "Complete page list (showing complete pages)"
+msgstr "Complete pagina lijst (toont complete pagina's)"
+
+#: templates/admin/main_unneeded.tpl:17
+msgid "Show content by category"
+msgstr "Toon de inhoud per categorie"
+
+#: templates/admin/deletedpages.tpl:16
+msgid "Original page title"
+msgstr "Originele titel"
+
+#: templates/admin/translatecontent.tpl:27
+msgid "Previous"
+msgstr "Vorige"
+
+#: templates/admin/translatecontent.tpl:38
+msgid "Error! There is nothing to translate for this content type."
+msgstr "Foutmelding! Er is niets te vertalen voor dit inhoudstype."
+
+#: templates/admin/translatecontent.tpl:41
+msgid "Back"
+msgstr "Terug"
+
+#: templates/admin/clonepage.tpl:23
+msgid ""
+"Used to refer this page in short URLs mode. Leave as blank for default value."
+msgstr ""
+"In korte URL stand wordt hiermee aan de pagina gerefereerd. Laat leeg voor "
+"standaardwaarde."
+
+#: templates/admin/clonepage.tpl:26
+msgid "Clone translations"
+msgstr "Vertaling kopiëren"
+
+#: templates/admin/clonepage.tpl:34
+msgid "Clone"
+msgstr "Kopieer"
+
+#: templates/admin/newcontent.tpl:17
+msgid "Please select the type of content you want to add to your page."
+msgstr "Kies het soort inhoud om aan de pagina toe te voegen."
+
+#: templates/admin/newcontent.tpl:20
+msgid "Select content type"
+msgstr "Gekozen inhoudstype"
+
+#: templates/admin/editcontent.tpl:4
+#, php-format
+msgid "Edit %s"
+msgstr "Bewerk %s"
+
+#: templates/admin/editcontent.tpl:18
+msgid "ID"
+msgstr "ID"
+
+#: templates/admin/editcontent.tpl:25
+msgid "Visible for"
+msgstr "Zichtbaar voor"
+
+#: templates/admin/editcontent.tpl:34
+msgid "Positioning works only with fixed width!"
+msgstr "Positioneren werkt alleen met een vaste breedte!"
+
+#: templates/admin/editcontent.tpl:36
+msgid "Position"
+msgstr "Positie"
+
+#: templates/admin/editcontent.tpl:40
+msgid "Width"
+msgstr "Breedte"
+
+#: templates/admin/tocedit.tpl:29
+msgid "New page"
+msgstr "Nieuwe pagina"
+
+#: templates/admin/tocedit.tpl:30 templates/user/pageinfo.tpl:21
+msgid "New sub-page"
+msgstr "Nieuwe sub-pagina"
+
+#: templates/admin/tocedit.tpl:32
+msgid "Decrease indent"
+msgstr "Verminder inspringing"
+
+#: templates/admin/tocedit.tpl:33
+msgid "Increase indent"
+msgstr "Vergroot inspringing"
+
+#: templates/admin/tocedit.tpl:41
+msgid "Order subpages by title"
+msgstr "onderliggende pagina's op titel sorteren"
+
+#: templates/admin/tocedit.tpl:43
+msgid "Expand All"
+msgstr "Alles uitklappen"
+
+#: templates/admin/tocedit.tpl:44
+msgid "Collapse All"
+msgstr "Alles inklappen"
+
+#: templates/admin/tocedit.tpl:47
+msgid "Click to activate this page"
+msgstr "Kilk om deze pagina te activeren"
+
+#: templates/admin/tocedit.tpl:48
+msgid "Click to deactivate this page"
+msgstr "Klik om deze pagina te de-activeren"
+
+#: templates/admin/tocedit.tpl:49
+msgid "Click to put this page in the menu"
+msgstr "Klik om deze pagina in het menu te plaatsen"
+
+#: templates/admin/tocedit.tpl:50
+msgid "Click to pull this page from the menu"
+msgstr "Klik om deze pagina buiten het menu te plaatsen"
+
+#: templates/admin/tocedit.tpl:56
+msgid "Page title [id]"
+msgstr "Pagina titel [id]"
+
+#: templates/admin/tocedit.tpl:57
+msgid "Status"
+msgstr "Status"
+
+#: templates/admin/tocedit.tpl:58
+msgid "Menu"
+msgstr "Menu"
+
+#: templates/admin/tocedit.tpl:59
+msgid "Last updated (revision)"
+msgstr "Bijgewerkt (revisie)"
+
+#: templates/admin/tocedit.tpl:59
+msgid "Last updated"
+msgstr "Meest recent bijgewerkt"
+
+#: templates/admin/tocedit.tpl:60 templates/user/pageinfo.tpl:30
+msgid "Language"
+msgstr "Taal"
+
+#: templates/admin/tocedit.tpl:70
+msgid "Click to hide sub-pages"
+msgstr "Klik om sub-pagina's te verbergen"
+
+#: templates/admin/tocedit.tpl:72
+msgid "Click to show sub-pages"
+msgstr "Klik om sub-pagina's te tonen"
+
+#: templates/admin/tocedit.tpl:79
+msgid "Page draggable"
+msgstr "Pagina versleepbaar"
+
+#: templates/admin/tocedit.tpl:100 templates/admin/tocedit.tpl:101
+msgid "In"
+msgstr "In"
+
+#: templates/admin/tocedit.tpl:104 templates/admin/tocedit.tpl:105
+msgid "Out"
+msgstr "Uit"
+
+#: templates/admin/tocedit.tpl:114
+#, php-format
+msgid "%1$s (%2$s original)"
+msgstr "%1$s (%2$s origineel)"
+
+#: templates/admin/tocedit.tpl:114
+#, php-format
+msgid "%s original used"
+msgstr "%s origineel gebruikt"
+
+#: templates/admin/tocedit.tpl:117
+msgid "No pages available."
+msgstr "Geen pagina's beschikbaar."
+
+#: templates/admin/main.tpl:10
+msgid ""
+"This is where you manage all your pages. You can add/edit/delete/translate "
+"pages (depending on permission rights) as well as drag them around to get "
+"the content structure right."
+msgstr ""
+"Hier worden alle pagina's beheerd. Er kunnen pagina's "
+"toegevoegd/bewerkt/gewist/vertaald en ook versleept worden om de structuur "
+"van de inhoud goed te zetten."
+
+#: templates/admin/main.tpl:15
+msgid ""
+"Click on the arrow right of a page title for the options of that page. To "
+"drag and drop a page you must select the folder icon left of the title and "
+"drop it on the title of another page. A page with sub-pages can be expanded "
+"or contracted by clicking on the plus or minus left of the page title. To "
+"activate/deactive pages or make pages (not) available in the menu click on "
+"the led icons."
+msgstr ""
+"Klik op de pijl rechts naast de pagina titel voor de opties voor die pagina. "
+"Om een pagina te verslepen moet het folder icoon links van de titel "
+"gesleept worden op een titel van een andere pagina. Een pagina met sub-"
+"pagina's kan uit- of ingeklapt worden door op de plus of min te kilkken "
+"links van de pagina titel. Een pagina activeren/de-activeren of wel of niet "
+"in het menu plaatsen gebeurd door te klikken op de led icoontjes."
+
+#: templates/user/pagelist.tpl:1 templates/user/pagelist.tpl:4
+msgid "Complete page list"
+msgstr "Complete pagina lijst"
+
+#: templates/user/pagelist.tpl:11
+msgid "View full page"
+msgstr "Toon volledige pagina"
+
+#: templates/user/pagelist.tpl:16 templates/user/extlist.tpl:18
+#: templates/user/list.tpl:13 templates/user/main.tpl:19
+msgid "There are no pages to display."
+msgstr "Er zijn geen pagina's om weer te geven."
+
+#: templates/user/extlist.tpl:1 templates/user/extlist.tpl:2
+msgid "Extended page list"
+msgstr "Uitgebreide pagina lijst"
+
+#: templates/user/extlist.tpl:14
+msgid "more"
+msgstr "Meer"
+
+#: templates/user/subpages.tpl:1
+#, php-format
+msgid "Subpages of %s"
+msgstr "Subpagina's van %s"
+
+#: templates/user/subpages.tpl:6
+msgid "No subpages available"
+msgstr "Geen subpagina's beschikbaar"
+
+#: templates/user/pageinfo.tpl:7
+msgid "Properties"
+msgstr "Eigenschappen"
+
+#: templates/user/pageinfo.tpl:12
+msgid "Edit-mode off"
+msgstr "Bewerk modus uit"
+
+#: templates/user/pageinfo.tpl:14
+msgid "Edit-mode on"
+msgstr "Bewerk modus aan"
+
+#: templates/user/pageinfo.tpl:27
+#, php-format
+msgid "Created by %1$s on %2$s"
+msgstr "Aangemaakt door %1$s op %2$s"
+
+#: templates/user/pageinfo.tpl:28
+#, php-format
+msgid "Last updated by %1$s on %2$s"
+msgstr "Meest recent bijgewerkt door %1$s op %2$s"
+
+#: templates/user/pageinfo.tpl:29
+msgid "Version"
+msgstr "Versie"
+
+#: templates/user/main.tpl:3
+msgid "Contents"
+msgstr "Inhoud"
+
+#: templates/user/main.tpl:5
+#, php-format
+msgid "Welcome to the contents for %s"
+msgstr "Welkom bij de inhoud van %s"
+
+#: templates/user/main.tpl:8
+msgid "The available sections are as follows:"
+msgstr "De beschikbare secties zijn als volgt:"
+
+#: templates/contenttype/slideshare_edit.tpl:3
+msgid "Slideshare's Wordpress code"
+msgstr "Wordpress code van Slideshare"
+
+#: templates/contenttype/slideshare_edit.tpl:5
+msgid ""
+"Copy Slideshare's Wordpress embed code here (including square brackets and "
+"all). Click on Embed and Customize to show the wordpress embed code. It "
+"should look something like [slideshare id=145849&doc=prototype-jquery-going-"
+"from-one-to-the-other-1193346036472971-5]"
+msgstr ""
+"Kopieer Slideshare's Wordpress embed code hier (inclusied de vierkante haken "
+"en alles). Klik op embed en Customize om de wordpress embed code te laten "
+"zien. Het zou er ongeveer zo [slideshare id=145849&doc=prototype-jquery-"
+"going-from-one-to-the-other-1193346036472971-5] uit moeten zien."
+
+#: templates/contenttype/slideshare_edit.tpl:9
+msgid "Slide description"
+msgstr "Dia beschrijving"
+
+#: templates/contenttype/slideshare_edit.tpl:14
+msgid "Slideshare's embedded player width"
+msgstr "Slideshare's embedded player breedte"
+
+#: templates/contenttype/slideshare_edit.tpl:19
+msgid "Slideshare's embedded player height"
+msgstr "Slideshare's embedded player hoogte"
+
+#: templates/contenttype/tableofcontents_edit.tpl:2
+msgid "Page"
+msgstr "Pagina"
+
+#: templates/contenttype/tableofcontents_edit.tpl:7
+msgid "Include self into the table of contents"
+msgstr "Voeg deze pagina ook toe aan inhoudsopgave"
+
+#: templates/contenttype/tableofcontents_edit.tpl:9
+msgid "(if page isn't 'All pages')"
+msgstr "(als de pagina niet 'Alle pagina's' is)"
+
+#: templates/contenttype/tableofcontents_edit.tpl:13
+msgid "Include subpages that are not in the menus"
+msgstr "Gebruik subpagina die niet in de menu's geplaatst zijn"
+
+#: templates/contenttype/tableofcontents_edit.tpl:18
+msgid "Include headings"
+msgstr "Titels invoegen"
+
+#: templates/contenttype/tableofcontents_edit.tpl:23
+msgid "Include headings up to level"
+msgstr "Titels invoegen tot aan niveau"
+
+#: templates/contenttype/tableofcontents_edit.tpl:25
+msgid ""
+"if headings are included and not unlimited; select 0 to include menu only "
+"for the selected page"
+msgstr ""
+"als titels ingevoegd worden en niet onbeperkt; selecteer dan 0 om het menu "
+"alleen voor de geselecteerde pagina in te voegen"
+
+#: templates/contenttype/tableofcontents_edit.tpl:29
+msgid "Include subpages"
+msgstr "subpagina's invoegen"
+
+#: templates/contenttype/tableofcontents_edit.tpl:34
+msgid "Include subpages into table up to level"
+msgstr "Voeg subpagina's toe tot aan niveau"
+
+#: templates/contenttype/tableofcontents_edit.tpl:36
+msgid "if subpages are included and not unlimited"
+msgstr "als subpagina's worden ingevoegd en niet onbeperkt"
+
+#: templates/contenttype/author_view.tpl:5
+msgid "By"
+msgstr "Door"
+
+#: templates/contenttype/modulefunc_edit.tpl:2
+msgid ""
+"Use this feature carefully! Some modules do not work when displayed together "
+"with other modules. DO NOT create circular module references, e.g., adding a "
+"Content page that displays itself ..."
+msgstr ""
+"Gebruik deze mogelijkheid voorzichtig! Sommige modules werken niet wanneer "
+"ze samen met andere modules getoond worden. Maak GEEN module referenties als "
+"lus, door bijvoorbeeld een Content pagina te maken die zichzelf bevat..."
+
+#: templates/contenttype/modulefunc_edit.tpl:4
+msgid "Module name"
+msgstr "Module naam"
+
+#: templates/contenttype/modulefunc_edit.tpl:9
+msgid "Function type"
+msgstr "Functie type"
+
+#: templates/contenttype/modulefunc_edit.tpl:14
+msgid "Function name"
+msgstr "Functie naam"
+
+#: templates/contenttype/modulefunc_edit.tpl:19
+msgid "Function parameters"
+msgstr "Functie parameters"
+
+#: templates/contenttype/modulefunc_edit.tpl:21
+msgid "Separate by commas, e.g., x=5,y=2"
+msgstr "Gescheiden door komma's, bijvoorbeeld x=5,y=2"
+
+#: templates/contenttype/quote_edit.tpl:2
+#: templates/contenttype/html_edit.tpl:3
+#: templates/contenttype/html_translate_new.tpl:2
+msgid "Text"
+msgstr "Tekst"
+
+#: templates/contenttype/quote_edit.tpl:7
+#: templates/contenttype/quote_translate_new.tpl:6
+msgid "Source"
+msgstr "Bron"
+
+#: templates/contenttype/heading_edit.tpl:9
+msgid "Header size"
+msgstr "Kop grootte"
+
+#: templates/contenttype/joinposition_edit.tpl:5
+msgid "both"
+msgstr "beide"
+
+#: templates/contenttype/joinposition_edit.tpl:7
+msgid "left"
+msgstr "links"
+
+#: templates/contenttype/joinposition_edit.tpl:9
+msgid "right"
+msgstr "rechts"
+
+#: templates/contenttype/unfiltered_translate_new.tpl:2
+#: templates/contenttype/unfiltered_edit.tpl:3
+#: templates/contenttype/unfiltered_translate_original.tpl:2
+msgid "Unfiltered text"
+msgstr "Ongefilterde platte tekst"
+
+#: templates/contenttype/unfiltered_translate_new.tpl:7
+#: templates/contenttype/unfiltered_edit.tpl:22
+#: templates/contenttype/unfiltered_translate_original.tpl:7
+msgid "iframe name parameter"
+msgstr "iframe naam parameter"
+
+#: templates/contenttype/unfiltered_translate_new.tpl:12
+#: templates/contenttype/unfiltered_edit.tpl:27
+#: templates/contenttype/unfiltered_translate_original.tpl:12
+msgid "iframe title parameter"
+msgstr "iframe titel parameter"
+
+#: templates/contenttype/camtasia_edit.tpl:3
+msgid "Name of the Camtasia-Flash video"
+msgstr "Naam van de Camtasia-Flash video"
+
+#: templates/contenttype/camtasia_edit.tpl:5
+msgid ""
+"You have to upload your camtasia project in the folder defined below "
+"<folder>/project/project.mp4 first. Here you have to give only the name of "
+"your project without path and file extension."
+msgstr ""
+"Het camtasia project moet eerst ge-uploaded worden in de folder die "
+"hieronder gedefineerd is <folder>/project/project.mp4. Hier moet alleen de "
+"naam van het project ingevuld worden zonder pad en bestandsextensie."
+
+#: templates/contenttype/camtasia_edit.tpl:9
+#: templates/contenttype/vimeo_edit.tpl:9
+#: templates/contenttype/youtube_edit.tpl:9
+msgid "Video display width [in pixels]"
+msgstr "Video breedte [in pixels]"
+
+#: templates/contenttype/camtasia_edit.tpl:14
+#: templates/contenttype/vimeo_edit.tpl:14
+#: templates/contenttype/youtube_edit.tpl:14
+msgid "Video display height [in pixels]"
+msgstr "Video hoogte [in pixels]"
+
+#: templates/contenttype/camtasia_edit.tpl:19
+msgid "Thumbnail display width in popup mode [in pixels]"
+msgstr "Thumbnail weergegeven breedte in popup mode [in pixels]"
+
+#: templates/contenttype/camtasia_edit.tpl:24
+msgid "Thumbnail display height in popup mode [in pixels]"
+msgstr "Thumbnail weergegeven hoogte in popup mode [in pixels]"
+
+#: templates/contenttype/camtasia_edit.tpl:29
+#: templates/contenttype/camtasia_translate_new.tpl:2
+#: templates/contenttype/camtasia_translate_original.tpl:7
+#: templates/contenttype/vimeo_translate_new.tpl:2
+#: templates/contenttype/youtube_translate_new.tpl:2
+#: templates/contenttype/vimeo_edit.tpl:19
+#: templates/contenttype/youtube_translate_original.tpl:7
+#: templates/contenttype/vimeo_translate_original.tpl:7
+#: templates/contenttype/youtube_edit.tpl:19
+msgid "Video description"
+msgstr "Video omschrijving"
+
+#: templates/contenttype/camtasia_edit.tpl:34
+msgid "Optional author of the video"
+msgstr "Optionele auteur van de video"
+
+#: templates/contenttype/camtasia_edit.tpl:39
+msgid "Folder where the files are uploaded"
+msgstr "Folder waar de bestanden naar ge-uploaded worden"
+
+#: templates/contenttype/camtasia_edit.tpl:46
+#: templates/contenttype/vimeo_edit.tpl:26
+#: templates/contenttype/youtube_edit.tpl:26
+msgid "Show video inline"
+msgstr "Toon video ingebed"
+
+#: templates/contenttype/camtasia_edit.tpl:49
+#: templates/contenttype/vimeo_edit.tpl:29
+#: templates/contenttype/youtube_edit.tpl:29
+msgid "Show video in popup window"
+msgstr "Toon video in een popup"
+
+#: templates/contenttype/camtasia_view.tpl:16
+#, php-format
+msgid "by %s"
+msgstr "door %s"
+
+#: templates/contenttype/camtasia_view.tpl:29
+#: templates/contenttype/vimeo_view.tpl:23
+#: templates/contenttype/youtube_view.tpl:23
+msgid "Play Video"
+msgstr "Video afspelen"
+
+#: templates/contenttype/rss_edit.tpl:3
+msgid "URL of RSS feed (include http://)"
+msgstr "URL van de RSS feed (inclusief http://)"
+
+#: templates/contenttype/rss_edit.tpl:8
+msgid "Include feed text in addition to the title"
+msgstr "Feed tekst samen met de titel invoegen "
+
+#: templates/contenttype/rss_edit.tpl:13
+msgid "Refresh time (in minutes)"
+msgstr "Ververs tijd (in minuten)"
+
+#: templates/contenttype/rss_edit.tpl:18
+msgid "Max. no. of items to display"
+msgstr "Max. aantal weer te geven elementen"
+
+#: templates/contenttype/camtasia_translate_original.tpl:2
+msgid "Path to the Shockwave-Flash video"
+msgstr "Pad naar de Shockwave-Flash video"
+
+#: templates/contenttype/vimeo_edit.tpl:3
+#: templates/contenttype/youtube_translate_original.tpl:2
+#: templates/contenttype/vimeo_translate_original.tpl:2
+#: templates/contenttype/youtube_edit.tpl:3
+msgid "URL to the video clip"
+msgstr "URL van de video clip"
+
+#: templates/contenttype/vimeo_edit.tpl:5
+msgid "Something like \"http://vimeo.com/7504225\"."
+msgstr "Zoiets als \"http://vimeo.com/7504225\"."
+
+#: templates/contenttype/googlemap_view.tpl:9
+msgid "Get directions from start address"
+msgstr "Routegegevens vanaf start adres"
+
+#: templates/contenttype/googlemap_view.tpl:11
+msgid "Show Directions"
+msgstr "Routegegevens tonen"
+
+#: templates/contenttype/googlemap_view.tpl:12
+msgid "Clear Directions"
+msgstr "Routegegevens wissen"
+
+#: templates/contenttype/googlemap_view.tpl:18
+msgid "Get directions to this location"
+msgstr "Toon routegegevens naar deze locatie"
+
+#: templates/contenttype/openstreetmap_view.tpl:6
+msgid "Show information on the map"
+msgstr "Toon informatie op de kaart"
+
+#: templates/contenttype/openstreetmap_view.tpl:6
+msgid "Hide information on the map"
+msgstr "Informatie op de kaart verbergen"
+
+#: templates/contenttype/author_edit.tpl:10
+msgid "Author"
+msgstr "Auteur"
+
+#: templates/contenttype/googlemap_translate_new.tpl:2
+#: templates/contenttype/googlemap_translate_original.tpl:2
+#: templates/contenttype/openstreetmap_edit.tpl:108
+#: templates/contenttype/googlemap_edit.tpl:90
+msgid "Description to be shown below the map"
+msgstr "Beschrijving die getoond wordt onder de kaart"
+
+#: templates/contenttype/googlemap_translate_new.tpl:7
+#: templates/contenttype/googlemap_translate_original.tpl:6
+#: templates/contenttype/googlemap_edit.tpl:95
+msgid "Text to be shown in the popup window of the marker"
+msgstr "Getoonde tekst in de popup window van de marker"
+
+#: templates/contenttype/html_edit.tpl:13
+msgid "HTML"
+msgstr "HTML"
+
+#: templates/contenttype/html_edit.tpl:16
+msgid "Formatted text"
+msgstr "Opgemaakte tekst"
+
+#: templates/contenttype/html_edit.tpl:18
+msgid "Unformatted text"
+msgstr "Platte tekst"
+
+#: templates/contenttype/openstreetmap_edit.tpl:81
+#: templates/contenttype/googlemap_edit.tpl:53
+msgid ""
+"Select a geographical position either by clicking on the map or writing the "
+"position (latitude and longitude) directly. You can drag the map with your "
+"mouse, and double-click to zoom and select position."
+msgstr ""
+"Kies de geografische positie door te klikken op de kaart of door de positie "
+"(breedtegraad en lengtegraad) direct in te vullen. De kaart kan versleept "
+"worden met de muis, dubbelklikken om te vergroten en de positie te kiezen."
+
+#: templates/contenttype/openstreetmap_edit.tpl:84
+#: templates/contenttype/googlemap_edit.tpl:56
+msgid "Latitude"
+msgstr "Breedtegraad"
+
+#: templates/contenttype/openstreetmap_edit.tpl:86
+#: templates/contenttype/openstreetmap_edit.tpl:92
+#: templates/contenttype/googlemap_edit.tpl:58
+#: templates/contenttype/googlemap_edit.tpl:64
+msgid ""
+"(a comma-separated numeral that has a precision to 6 decimal places. For "
+"example, 40.714728)"
+msgstr ""
+"(een komma gescheiden getal dat een nauwkeurigheid heeft van 6 decimalen. "
+"Bijvoorbeeld 40.714728)"
+
+#: templates/contenttype/openstreetmap_edit.tpl:90
+#: templates/contenttype/googlemap_edit.tpl:62
+msgid "Longitude"
+msgstr "Lengtegraad"
+
+#: templates/contenttype/openstreetmap_edit.tpl:96
+#: templates/contenttype/googlemap_edit.tpl:68
+msgid "Zoom level"
+msgstr "Vergroting"
+
+#: templates/contenttype/openstreetmap_edit.tpl:98
+#: templates/contenttype/googlemap_edit.tpl:70
+msgid "(from 0 for the entire world to 21 for individual buildings)"
+msgstr "(van 0 voor de hele wereld tot 21 voor individuele gebouwen)"
+
+#: templates/contenttype/openstreetmap_edit.tpl:102
+#: templates/contenttype/googlemap_edit.tpl:74
+msgid "Height of the displayed map in pixels"
+msgstr "Hoogte van getoonde kaart in pixels"
+
+#: templates/contenttype/openstreetmap_edit.tpl:104
+#: templates/contenttype/googlemap_edit.tpl:76
+msgid "(below 350 pixels the navigation controls will be small)"
+msgstr "(onder de 350 pixels worden de navigatie elementen kleiner)"
+
+#: templates/contenttype/unfiltered_edit.tpl:9
+msgid "Use an iframe instead of the textfield"
+msgstr "Gebruik een iframe in plaats van het tekstveld"
+
+#: templates/contenttype/unfiltered_edit.tpl:11
+msgid ""
+"If this setting is enabled the text field above will be ignored and iframe "
+"parameters will be used."
+msgstr ""
+"Als deze instelling aangevinkt is dan wordt het tekstveld hierboven "
+"genegeerd en zullen de iframe parameters gebruikt worden"
+
+#: templates/contenttype/unfiltered_edit.tpl:16
+msgid "iframe src"
+msgstr "iframe src"
+
+#: templates/contenttype/unfiltered_edit.tpl:18
+msgid "the src parameter of the iframe"
+msgstr "De src parameter van het iframe"
+
+#: templates/contenttype/unfiltered_edit.tpl:32
+msgid "iframe Style"
+msgstr "iframe stijl"
+
+#: templates/contenttype/unfiltered_edit.tpl:34
+msgid "the style parameter of the iframe, e.g. \"border:0\""
+msgstr "De style parameter van het iframe, bijv. \"border:0\""
+
+#: templates/contenttype/unfiltered_edit.tpl:38
+msgid "iframe Width [in pixels]"
+msgstr "iframe breedte [in pixels]"
+
+#: templates/contenttype/unfiltered_edit.tpl:40
+msgid "the width parameter of the iframe, e.g. \"800\""
+msgstr "de breedte parameter van het iframe, bijv. \"800\""
+
+#: templates/contenttype/unfiltered_edit.tpl:44
+msgid "iframe Height [in pixels]"
+msgstr "iframe hoogte [in pixels]"
+
+#: templates/contenttype/unfiltered_edit.tpl:46
+msgid "the height parameter of the iframe, e.g. \"600\""
+msgstr "de hoogte parameter van het iframe, bijv. \"600\""
+
+#: templates/contenttype/unfiltered_edit.tpl:50
+msgid "iframe frameborder"
+msgstr "iframe frameborder"
+
+#: templates/contenttype/unfiltered_edit.tpl:52
+msgid "the frameborder parameter of the iframe, e.g. \"0\""
+msgstr "de frameborder parameter van het iframe, bijv. \"0\""
+
+#: templates/contenttype/unfiltered_edit.tpl:56
+msgid "iframe scrolling"
+msgstr "iframe scrolling"
+
+#: templates/contenttype/unfiltered_edit.tpl:58
+msgid "the scrolling parameter of the iframe, e.g. \"no\""
+msgstr "de scrolling parameter van het iframe, bijv. \"no\""
+
+#: templates/contenttype/unfiltered_edit.tpl:62
+msgid "Allow transparancy on the iframe"
+msgstr "Sta transparantie toe voor het iframe"
+
+#: templates/contenttype/googlemap_edit.tpl:80
+msgid "Display the streetview control"
+msgstr "De streetview control tonen"
+
+#: templates/contenttype/googlemap_edit.tpl:85
+msgid "Display a link to directions to this location in Google Maps "
+msgstr "Toon een link naar routegegevens naar deze locatie in Google Maps"
+
+#: templates/contenttype/googlemap_edit.tpl:97
+msgid ""
+"(can contain HTML markup. Leave this field empty for disabling the popup "
+"window."
+msgstr ""
+"(kan HTML markup bevatten. Laat dit veld leeg om het popup window uit te "
+"schakelen)"
+
+#: templates/contenttype/pagenavigation_view.tpl:5
+msgid "<- Back"
+msgstr "<- Terug"
+
+#: templates/contenttype/pagenavigation_view.tpl:7
+msgid "Overview"
+msgstr "Overzicht"
+
+#: templates/contenttype/pagenavigation_view.tpl:9
+msgid "Forward ->"
+msgstr "Vooruit ->"
+
+#: templates/contenttype/block_edit.tpl:4
+msgid "Please enter the Block-ID"
+msgstr "Geef het Blok-ID"
+
+#: templates/contenttype/flickr_edit.tpl:4
+#, php-format
+msgid ""
+"No Flickr API key available! You must specify a Flickr API key to use this "
+"feature. You can get a key from %s."
+msgstr ""
+"Geen Flickr API key beschikbaar! Er moet een Flickr API key opgegeven worden "
+"om deze mogelijkheid te gebruiken. Het is mogelijk er een te verkrijgen op "
+"%s."
+
+#: templates/contenttype/flickr_edit.tpl:8
+msgid "Display photos from this user"
+msgstr "Toon foto's van deze gebruiker"
+
+#: templates/contenttype/flickr_edit.tpl:13
+msgid "Display photos tagged with these tags (comma separated)"
+msgstr "Toon foto's met deze tags (kommagescheiden)"
+
+#: templates/contenttype/flickr_edit.tpl:18
+msgid "Number of photos to show"
+msgstr "Aantal foto's om te tonen"
+
+#: templates/contenttype/computercode_edit.tpl:3
+msgid "Computer code lines"
+msgstr "Computer code regels"
+
+#: templates/contenttype/computercode_edit.tpl:9
+msgid "Use native code filter"
+msgstr "Gebruik eigen code filter"
+
+#: templates/contenttype/computercode_edit.tpl:13
+msgid "Use BBCode filter"
+msgstr "Gebruik BBcode filter"
+
+#: templates/contenttype/computercode_edit.tpl:15
+msgid ""
+"If the BBCode module is available, you can filter your code with BBCode "
+"instead."
+msgstr ""
+"Als de BBcode module beschikbaar is kan er ook op BBcode worden gefilterd"
+
+#: templates/contenttype/computercode_edit.tpl:16
+msgid "There is no need to 'hook' BBCode to Content for this functionality."
+msgstr ""
+"Het is niet nodig een hook voor BBcode in te stellen voor deze "
+"functionaliteit"
+
+#: templates/contenttype/youtube_edit.tpl:5
+msgid ""
+"Something like \"http://www.youtube.com/watch?v=ABcDEFgHij&feature=dir\"."
+msgstr "Zoiets als \"http://www.youtube.com/watch?v=ABcDEFgHij&feature=dir\"."
+
+#: templates/content_include_contentedit.tpl:8
+msgid "Item not Active"
+msgstr "Item niet actief"
+
+#: templates/content_include_contentedit.tpl:11
+#, php-format
+msgid "ID %d"
+msgstr "ID %d"
+
+#: templates/block/mostviewed_modify.tpl:2 templates/block/menu_modify.tpl:2
+msgid "Include the following subpages"
+msgstr "Inclusief de volgende subpagina's"
+
+#: templates/block/mostviewed_modify.tpl:13
+msgid "How many pages should be shown"
+msgstr "Hoeveel pagina's moeten worden vertoond"
+
+#: templates/block/mostviewed_modify.tpl:18
+#: templates/block/subpages_modify.tpl:4
+msgid "Use caching in this block"
+msgstr "Gebruik caching in dit blok"
+
+#: templates/block/mostviewed_modify.tpl:20
+#: templates/block/subpages_modify.tpl:6 templates/block/menu_modify.tpl:15
+msgid "Overrides global setting."
+msgstr "overschrijft standaard instellingen"
+
+#: templates/block/mostviewed_modify.tpl:24
+#: templates/block/subpages_modify.tpl:10
+msgid "Use only pages activated for the menu"
+msgstr "Gebruik alleen pagina's die voor het menu geactiveerd zijn"
+
+#: templates/block/subpages.tpl:8
+msgid "No subpages"
+msgstr "geen sub-pagina's"
+
+#: templates/block/onepage_modify.tpl:2
+msgid "Include the following page"
+msgstr "Inclusief de volgende pagina"
+
+#: templates/block/subpages_modify.tpl:1
+msgid ""
+"This block will only show the subpages of a Content page when that Content "
+"page is being displayed."
+msgstr ""
+"Dit blok laat alleen de onderliggende pagina's zien als de hoofdpagina zelf "
+"wordt vertoond."
+
+#: templates/block/menu_modify.tpl:13
+msgid "Use caching in the menu block"
+msgstr "Gebruik caching in het menu blok"

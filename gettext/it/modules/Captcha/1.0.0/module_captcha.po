@@ -1,0 +1,88 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-21 21:06+0000\n"
+"PO-Revision-Date: 2011-11-02 15:36+0200\n"
+"Last-Translator: Enrico <enrybia@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: lib/Captcha/HookHandlers.php:111
+msgid "Captcha values invalid (empty)."
+msgstr "valori captcha valido (vuoto)."
+
+#: lib/Captcha/Api/Admin.php:30
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: lib/Captcha/Controller/Admin.php:65
+msgid "Done! Updated the Captcha configuration."
+msgstr "Fatto! Aggiornato la configurazione Captcha."
+
+#: lib/Captcha/Version.php:18
+msgid "Captcha"
+msgstr "Captcha"
+
+#. !used in URL - nospaces, no special chars, lcase
+#: lib/Captcha/Version.php:19
+msgid "captcha"
+msgstr "captcha"
+
+#: lib/Captcha/Version.php:20
+msgid "Captcha hook module"
+msgstr "Gancio modulo Captcha"
+
+#: lib/Captcha/Version.php:36
+msgid "Captcha Service Display"
+msgstr "Servizio di visualizzazione captcha"
+
+#: templates/admin/modifyconfig.tpl:4
+msgid "Captcha settings"
+msgstr "Impostazioni captcha"
+
+#: templates/admin/modifyconfig.tpl:11
+msgid "General settings"
+msgstr "Impostazioni generiche"
+
+#: templates/admin/modifyconfig.tpl:12
+#, php-format
+msgid ""
+"You must obtain public and private keys by registering an account at %s."
+msgstr ""
+"È necessario ottenere le chiavi pubbliche e private, registrando un account "
+"su %s."
+
+#: templates/admin/modifyconfig.tpl:14
+msgid "Private reCaptcha key"
+msgstr "ReCaptcha chiave privata"
+
+#: templates/admin/modifyconfig.tpl:18
+msgid "Public reCaptcha key"
+msgstr "ReCaptcha chiave pubblica"
+
+#: templates/admin/modifyconfig.tpl:22
+msgid "Exempt admin from captcha requirement"
+msgstr "Admin esentati dal requisito captcha"
+
+#: templates/admin/modifyconfig.tpl:26
+msgid "Theme"
+msgstr "Tema"
+
+#: templates/admin/modifyconfig.tpl:31
+msgid "Save"
+msgstr "Salva"
+
+#: templates/admin/modifyconfig.tpl:32
+msgid "Cancel"
+msgstr "Cancella"

@@ -1,0 +1,842 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-11-29 14:56+0000\n"
+"PO-Revision-Date: 2011-09-27 23:50+0200\n"
+"Last-Translator: Arjen <teb@zikula.nl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: pnadmin.php:507
+msgid "Done! Saved module configuration."
+msgstr "Klaar! Module configuratie opgeslagen."
+
+#: pnversion.php:19
+msgid "MUTransport"
+msgstr "MUTransport"
+
+#: pnversion.php:20
+msgid "Transport of Content from module to module."
+msgstr "Overzetten van inhoud van de ene naar de andere module."
+
+#: pnversion.php:22
+msgid "mutransport"
+msgstr "mutransport"
+
+#: pnadminapi.php:348 pntemplates/MUTransport_admin_cms_view.htm:14
+msgid "connection made"
+msgstr "verbinding gemaakt"
+
+#: pnadminapi.php:351
+msgid "connection not possible"
+msgstr "verbinding maken niet mogelijk"
+
+#: pnadminapi.php:358 classes/MUTransportHelp.class.php:69
+msgid "not available"
+msgstr "niet beschikbaar"
+
+#: pnadminapi.php:534 pnadminapi.php:624 pnadminapi.php:747 pnadminapi.php:837
+#: pnadminapi.php:952 pnadminapi.php:1071 pnadminapi.php:1159
+#: pnadminapi.php:1250 pnadminapi.php:1298 pnadminapi.php:1357
+#: pnadminapi.php:1404 pnadminapi.php:1451 pnadminapi.php:1531
+#: pnadminapi.php:1589 pnadminapi.php:2421 pnadminapi.php:2424
+#: pnadminapi.php:2429
+msgid "Done! "
+msgstr "Klaar! "
+
+#: pnadminapi.php:534
+msgid " page of Module News add to MUTransport "
+msgid_plural " pages of Module News add to MUTransport "
+msgstr[0] " pagina van module Nieuws toegevoegd aan MUTransport "
+msgstr[1] " pagina's van module Nieuws toegevoegd aan MUTransport "
+
+#: pnadminapi.php:534 pnadminapi.php:624 pnadminapi.php:747 pnadminapi.php:837
+#: pnadminapi.php:952 pnadminapi.php:1071 pnadminapi.php:1159
+#: pnadminapi.php:2429
+msgid " and "
+msgstr " en "
+
+#: pnadminapi.php:534
+msgid " page of Module News in MUTransport updated "
+msgid_plural " pages of Module News in MUTransport updated "
+msgstr[0] " pagina van module Nieuws bijgewerkt in MUTransport "
+msgstr[1] " pagina's van module Nieuws bijgewerkt in MUTransport "
+
+#: pnadminapi.php:538
+msgid "No pages in Module News available !"
+msgstr "Geen pagina's van de module Nieuws beschikbaar!"
+
+#: pnadminapi.php:624
+msgid " page of Module Pages add to MUTransport "
+msgid_plural " pages of Module Pages add to MUTransport "
+msgstr[0] " pagina van module Pagina's toegevoegd aan MUTransport "
+msgstr[1] " pagina's van module Pagina's toegevoegd aan MUTransport "
+
+#: pnadminapi.php:624
+msgid " page of Module Pages in MUTransport updated "
+msgid_plural " pages of Module Pages in MUTransport updated "
+msgstr[0] " pagina van module Pagina's bijgewerkt in MUTransport "
+msgstr[1] " pagina's van module Pagina's bijgewerkt in MUTransport "
+
+#: pnadminapi.php:628
+msgid "No pages in Module Pages available !"
+msgstr "Geen pagina's in de module Pagina's beschikbaar!"
+
+#: pnadminapi.php:700 pnadminapi.php:906
+msgid "Attention ! There is no content for this page !"
+msgstr "Let op! Deze pagina heeft geen inhoud!"
+
+#: pnadminapi.php:747
+msgid " page of Module PagEd add to MUTransport "
+msgid_plural " pages of Module PagEd add to MUTransport "
+msgstr[0] " pagina van module PagEd toegevoegd aan MUTransport "
+msgstr[1] " pagina's van module PagEd toegevoegd aan MUTransport "
+
+#: pnadminapi.php:747
+msgid " page of Module PagEd in MUTransport updated "
+msgid_plural " pages of Module PagEd in MUTransport updated "
+msgstr[0] " pagina van module PagEd bijgewerkt in MUTransport "
+msgstr[1] " pagina's van module PagEd bijgewerkt in MUTransport "
+
+#: pnadminapi.php:751
+msgid "No pages in modul PagEd available !"
+msgstr "Geen pagina's van de module PagEd beschikbaar!"
+
+#: pnadminapi.php:837
+msgid " page of Module Reviews add to MUTransport "
+msgid_plural " pages of Module Reviews add to MUTransport "
+msgstr[0] " pagina van module Recensies toegevoegd aan MUTransport "
+msgstr[1] " pagina's van module Recensies toegevoegd aan MUTransport "
+
+#: pnadminapi.php:837
+msgid " page of Module Reviews in MUTransport updated "
+msgid_plural " pages of Module Reviews in MUTransport updated "
+msgstr[0] " pagina van module Recensies bijgewerkt in MUTransport "
+msgstr[1] " pagina's van module Recensies bijgewerkt in MUTransport "
+
+#: pnadminapi.php:841
+msgid "No pages in Module Reviews available !"
+msgstr "Geen pagina's van de module Recensies beschikbaar!"
+
+#: pnadminapi.php:952
+msgid " page of Module Content add to MUTransport "
+msgid_plural " pages of Module Content add to MUTransport "
+msgstr[0] " pagina van module Content toegevoegd aan MUTransport "
+msgstr[1] " pagina's van module Content toegevoegd aan MUTransport "
+
+#: pnadminapi.php:952
+msgid " page of Module Content in MUTransport updated "
+msgid_plural " pages of Module Content in MUTransport updated "
+msgstr[0] " pagina van module Content bijgewerkt in MUTransport "
+msgstr[1] " pagina's van module Content bijgewerkt in MUTransport "
+
+#: pnadminapi.php:956
+msgid "No pages in modul Content available !"
+msgstr "Geen pagina's van de module Content beschikbaar!"
+
+#: pnadminapi.php:1071
+msgid " page of CMS wordpress add to MUTransport "
+msgid_plural " pages of CMS wordpress add to MUTransport "
+msgstr[0] " pagina van Wordpress toegevoegd aan MUTransport "
+msgstr[1] " pagina's van Wordpress toegevoegd aan MUTransport "
+
+#: pnadminapi.php:1071
+msgid " page of CMS wordpress in MUTransport updated "
+msgid_plural " pages of CMS wordpress in MUTransport updated "
+msgstr[0] " pagina van Wordpress bijgewerkt in MUTransport "
+msgstr[1] " pagina's van Wordpress bijgewerkt in MUTransport "
+
+#: pnadminapi.php:1075 pnadminapi.php:1163
+msgid "No pages in CMS wordpress available !"
+msgstr "Geen pagina's van Wordpress beschikbaar!"
+
+#: pnadminapi.php:1079
+msgid "Sorry ! Connection to database failed !"
+msgstr "Foutmelding: Verbinding naar database mislukt!"
+
+#: pnadminapi.php:1159
+msgid " User of CMS wordpress add to MUTransport "
+msgid_plural " Users of CMS wordpress add to MUTransport "
+msgstr[0] " gebruiker van Wordpress toegevoegd aan MUTransport "
+msgstr[1] " gebruikers van Wordpress toegevoegd aan MUTransport "
+
+#: pnadminapi.php:1159
+msgid " User of CMS wordpress in MUTransport updated "
+msgid_plural " Users of CMS wordpress in MUTransport updated "
+msgstr[0] " gebruiker van Wordpress bijgewerkt in MUTransport "
+msgstr[1] " gebruikers van Wordpress bijgewerkt in MUTransport "
+
+#: pnadminapi.php:1243 pnadminapi.php:1291 pnadminapi.php:1350
+#: pnadminapi.php:1397 pnadminapi.php:1444 pnadminapi.php:1524
+msgid "There is no page to delete !"
+msgstr "Er is geen pagina om te verwijderen!"
+
+#: pnadminapi.php:1247
+msgid "There are no Pages of module News in Modul MUTransport available !"
+msgstr "Er zijn geen pagina's van de module Nieuws in MUTransport beschikbaar!"
+
+#: pnadminapi.php:1250
+msgid " page of News in MUTransport deleted !"
+msgid_plural " pages of News in MUTransport deleted !"
+msgstr[0] " pagina van module Nieuws verwijderd in MUTransport!"
+msgstr[1] " pagina's van module Nieuws verwijderd in MUTransport!"
+
+#: pnadminapi.php:1295
+msgid "There are no Pages of module Pages in Modul MUTransport available !"
+msgstr "Er zijn geen pagina's van module Pagina's in MUTransport beschikbaar!"
+
+#: pnadminapi.php:1298
+msgid " page of Pages in MUTransport deleted !"
+msgid_plural " pages of Pages in MUTransport deleted !"
+msgstr[0] " pagina van module Pagina's verwijderd in MUTransport!"
+msgstr[1] " pagina's van module Pagina's verwijderd in MUTransport!"
+
+#: pnadminapi.php:1354
+msgid "There are no Pages of module PagEd in Modul MUTransport available !"
+msgstr "Er zijn geen pagina's van de module PagEd in MUTransport beschikbaar!"
+
+#: pnadminapi.php:1357
+msgid " page of PagEd in MUTransport deleted !"
+msgid_plural " pages of PagEd in MUTransport deleted !"
+msgstr[0] " pagina van module PagEd verwijderd in MUTransport!"
+msgstr[1] " pagina's van module PagEd verwijderd in MUTransport!"
+
+#: pnadminapi.php:1401
+msgid "There are no pages of module Reviews in Modul MUTransport available !"
+msgstr ""
+"Er zijn geen pagina's van de module Recensies in MUTransport beschikbaar!"
+
+#: pnadminapi.php:1404
+msgid " page of Reviews in MUTransport deleted !"
+msgid_plural " pages of Reviews in MUTransport deleted !"
+msgstr[0] " pagina van module Recensies verwijderd in MUTransport!"
+msgstr[1] " pagina's van module Recensies verwijderd in MUTransport!"
+
+#: pnadminapi.php:1448
+msgid "There are no Pages of module Content in Modul MUTransport available !"
+msgstr "Er zijn geen pagina van de module Content in MUTransport beschikbaar!"
+
+#: pnadminapi.php:1451
+msgid " page of Content in MUTransport deleted !"
+msgid_plural " pages of Content in MUTransport deleted !"
+msgstr[0] " pagina van module Content verwijderd in MUTransport "
+msgstr[1] " pagina's van module Content verwijderd in MUTransport "
+
+#: pnadminapi.php:1528
+msgid "There are no Pages of cms wordpress in Modul MUTransport available !"
+msgstr "Er zijn geen pagina's van Wordpress in MUTransport beschikbaar!"
+
+#: pnadminapi.php:1531
+msgid " page of wordpress in MUTransport deleted !"
+msgid_plural " pages of wordpress in MUTransport deleted !"
+msgstr[0] " pagina van Wordpress verwijderd in MUTransport!"
+msgstr[1] " pagina's van Wordpress verwijderd in MUTransport!"
+
+#: pnadminapi.php:1582
+msgid "There is no User to delete !"
+msgstr "Er is geen gebruiker om te verwijderen!"
+
+#: pnadminapi.php:1586
+msgid "There are no Users of cms wordpress in Modul MUTransport available !"
+msgstr "Er zijn geen gebruikers van Wordpress in MUTransport beschikbaar!"
+
+#: pnadminapi.php:1589
+msgid " User of wordpress in MUTransport deleted !"
+msgid_plural " Users of wordpress in MUTransport deleted !"
+msgstr[0] " gebruiker van Wordpress verwijderd in MUTransport!"
+msgstr[1] " gebruikers van Wordpress verwijderd in MUTransport!"
+
+#: pnadminapi.php:1746
+msgid "This page does not exist in News anymore !"
+msgstr "Deze pagina bestaat niet meer in de module Nieuws!"
+
+#: pnadminapi.php:1752 pnadminapi.php:1923 pnadminapi.php:1979
+#: pnadminapi.php:2049 pnadminapi.php:2157
+msgid "There is still one Page with this Permalink Url!"
+msgstr "Er is nog steeds één pagina met deze permanente URL!"
+
+#: pnadminapi.php:1756 pnadminapi.php:1882 pnadminapi.php:1983
+#: pnadminapi.php:2053
+msgid "Sorry ! The target module Content is not active!"
+msgstr "De doel-module Content is niet actief!"
+
+#: pnadminapi.php:1906
+msgid "Sorry ! The target module News is not active!"
+msgstr "De doelmodule Nieuws is niet actief!"
+
+#: pnadminapi.php:1917
+msgid "This page does not exist in PagEd anymore !"
+msgstr "Deze pagina bestaat niet meer in de module PagEd!"
+
+#: pnadminapi.php:1974
+msgid "This page does not exist in Pages anymore !"
+msgstr "Deze pagina bestaat niet meer in de module Pagina's!"
+
+#: pnadminapi.php:2028
+msgid "published on"
+msgstr "gepubliceerd op"
+
+#: pnadminapi.php:2029
+msgid "reviewer"
+msgstr "recensent"
+
+#: pnadminapi.php:2030
+msgid "points"
+msgstr "punten"
+
+#: pnadminapi.php:2031
+msgid "hits"
+msgstr "weergaven"
+
+#: pnadminapi.php:2044
+msgid "This page does not exist in Reviews anymore !"
+msgstr "Deze pagina bestaat niet meer in de module Recensies!"
+
+#: pnadminapi.php:2069
+msgid " (A copy)"
+msgstr " (Een kopie)"
+
+#: pnadminapi.php:2153
+msgid "This page does not exist in Content anymore !"
+msgstr "Deze pagina bestaat niet meer in de module Content!"
+
+#: pnadminapi.php:2365
+msgid "This page does not exist in wordpress anymore !"
+msgstr "Deze pagina bestaat niet meer in Wordpress!"
+
+#: pnadminapi.php:2417
+msgid "Sorry ! No Page selected!"
+msgstr "Fout! Geen pagina geselecteerd!"
+
+#: pnadminapi.php:2421
+msgid " page of wordpress transported"
+msgid_plural " pages of wordpress transported"
+msgstr[0] " pagina van Wordpress overgezet"
+msgstr[1] " pagina's van Wordpress overgezet"
+
+#: pnadminapi.php:2424
+msgid " user of wordpress transported"
+msgid_plural " users of wordpress transported"
+msgstr[0] " gebruiker van Wordpress overgezet"
+msgstr[1] " gebruikers van Wordpress overgezet"
+
+#: pnadminapi.php:2429
+msgid " page of Pages transported"
+msgid_plural " pages of Pages transported"
+msgstr[0] " pagina van module Pagina's overgezet"
+msgstr[1] " pagina's van module Pagina's overgezet"
+
+#: pnadminapi.php:2429
+msgid " page of News transported"
+msgid_plural " pages of News transported"
+msgstr[0] " pagina van module Nieuws overgezet"
+msgstr[1] " pagina's van module Nieuws overgezet"
+
+#: pnadminapi.php:2429
+msgid " page of PagEd transported"
+msgid_plural " pages of PagEd transported"
+msgstr[0] " pagina van module PagEd overgezet"
+msgstr[1] " pagina's van module PagEd overgezet"
+
+#: pnadminapi.php:2429
+msgid " page of Reviews transported"
+msgid_plural " pages of Reviews transported"
+msgstr[0] " pagina van module Recensies overgezet"
+msgstr[1] " pagina's van module Recensies overgezet"
+
+#: pnadminapi.php:2429
+msgid " page of Content copied !"
+msgid_plural " pages of Content copied !"
+msgstr[0] " pagina van module Content gekopieerd!"
+msgstr[1] " pagina's van module Content gekopieerd!"
+
+#: pnadminapi.php:2448
+msgid "Modules"
+msgstr "Modules"
+
+#: pnadminapi.php:2452
+msgid "Pages"
+msgstr "Pagina's"
+
+#: pnadminapi.php:2456 pntemplates/MUTransport_admin_cmscontent_view.htm:21
+#: pntemplates/MUTransport_admin_user_view.htm:29
+msgid "CMS"
+msgstr "CMS"
+
+#: pnadminapi.php:2460 pntemplates/MUTransport_admin_cmscontent_view.htm:33
+#: pntemplates/MUTransport_admin_page_view.htm:34
+msgid "Content"
+msgstr "Inhoud"
+
+#: pnadminapi.php:2464
+msgid "User"
+msgstr "Gebruiker"
+
+#: pnadminapi.php:2468 pntemplates/MUTransport_admin_modifyconfig.htm:14
+#: pntemplates/MUTransport_admin_modifyconfig.htm:15
+msgid "Settings"
+msgstr "Instellingen"
+
+#: classes/MUTransportHelp.class.php:73
+#: pntemplates/MUTransport_admin_modul_view.htm:7
+#: pntemplates/MUTransport_admin_cms_view.htm:12
+#: pntemplates/MUTransport_admin_user_view.htm:7
+msgid "not installed"
+msgstr "niet geïnstalleerd"
+
+#: classes/MUTransportHelp.class.php:76
+#: pntemplates/MUTransport_admin_modul_view.htm:7
+#: pntemplates/MUTransport_admin_cms_view.htm:11
+#: pntemplates/MUTransport_admin_user_view.htm:7
+msgid "inactive"
+msgstr "niet actief"
+
+#: classes/MUTransportHelp.class.php:79
+#: pntemplates/MUTransport_admin_modul_view.htm:6
+#: pntemplates/MUTransport_admin_cms_view.htm:10
+#: pntemplates/MUTransport_admin_user_view.htm:6
+msgid "active"
+msgstr "actief"
+
+#: classes/MUTransportHelp.class.php:82
+msgid "files failed"
+msgstr "bestanden mislukt"
+
+#: classes/MUTransportHelp.class.php:85
+msgid "update available"
+msgstr "update beschikbaar"
+
+#: pntemplates/MUTransport_admin_modul_view.htm:5
+msgid "List of Modules"
+msgstr "Module lijst"
+
+#: pntemplates/MUTransport_admin_modul_view.htm:5
+#: pntemplates/MUTransport_admin_user_view.htm:5
+msgid "Get and update Pages of Modul"
+msgstr "Pagina's van de module laden en bijwerken"
+
+#: pntemplates/MUTransport_admin_modul_view.htm:6
+#: pntemplates/MUTransport_admin_user_view.htm:6
+msgid "Delete Pages of Modul"
+msgstr "Verwijder pagina's uit Module"
+
+#: pntemplates/MUTransport_admin_modul_view.htm:8
+#: pntemplates/MUTransport_admin_cms_view.htm:13
+#: pntemplates/MUTransport_admin_user_view.htm:8
+msgid "not availabale"
+msgstr "niet beschikbaar"
+
+#: pntemplates/MUTransport_admin_modul_view.htm:24
+#: pntemplates/MUTransport_admin_cms_view.htm:31
+msgid "Name"
+msgstr "Naam"
+
+#: pntemplates/MUTransport_admin_modul_view.htm:28
+#: pntemplates/MUTransport_admin_cms_view.htm:35
+msgid "Status"
+msgstr "Status"
+
+#: pntemplates/MUTransport_admin_modul_view.htm:30
+#: pntemplates/MUTransport_admin_cms_view.htm:37
+#: pntemplates/MUTransport_admin_cmscontent_view.htm:42
+#: pntemplates/MUTransport_admin_page_view.htm:43
+#: pntemplates/MUTransport_admin_user_view.htm:42
+msgid "Options"
+msgstr "Mogelijkheden"
+
+#: pntemplates/MUTransport_admin_modul_view.htm:62
+msgid "No Modules"
+msgstr "Geen modules"
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:4
+#: pntemplates/MUTransport_admin_modifyconfig.htm:149
+#: pntemplates/MUTransport_admin_modifyconfig.htm:151
+msgid "published"
+msgstr "gepubliceerd"
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:7
+#: pntemplates/MUTransport_admin_modifyconfig.htm:154
+#: pntemplates/MUTransport_admin_modifyconfig.htm:156
+msgid "waiting"
+msgstr "wachten"
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:10
+#: pntemplates/MUTransport_admin_modifyconfig.htm:159
+#: pntemplates/MUTransport_admin_modifyconfig.htm:161
+msgid "draft"
+msgstr "concept"
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:16
+msgid ""
+"Attention ! Disable a module will delete the pages of the module in page "
+"view and the module in the module view !"
+msgstr ""
+"Pas op! Een module uitschakelen verwijderd de pagina's van de module in het "
+"overzicht van pagina's en de module zelf in het overzicht van modules."
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:17
+msgid ""
+"PagEd will only be deleted, if you disable both of the options for this "
+"module !"
+msgstr ""
+"PagEd zal allen verwijderd worden als beide opties voor deze module worden "
+"uitgeschakeld!"
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:23
+msgid "For modules"
+msgstr "Voor modules"
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:24
+#: pntemplates/MUTransport_admin_modifyconfig.htm:97
+msgid "General settings"
+msgstr "Algemene instellingen"
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:25
+msgid "Enable transport News to Content"
+msgstr "Overzetten van module Nieuws naar module Content mogelijk maken"
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:30
+msgid "Enable transport Pages to Content"
+msgstr "Overzetten van module Pagina's naar module Content mogelijk maken"
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:35
+msgid "Enable transport PagEd to Content"
+msgstr "Overzetten van module PagEd naar module Content mogelijk maken"
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:40
+msgid "Enable transport PagEd to News"
+msgstr "Overzetten van module PagEd naar module Nieuws mogelijk maken"
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:45
+msgid "Enable transport Reviews to Content"
+msgstr "Overzetten van module Recensies naar module Content mogelijk maken"
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:51
+msgid "Enable copy Content to Content"
+msgstr "Kopiëren van module Content naar Content module mogelijk maken"
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:58
+msgid "Format of transport"
+msgstr "Indeling van overzetten"
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:59
+#: pntemplates/MUTransport_admin_modifyconfig.htm:141
+msgid "active "
+msgstr "actief "
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:71
+#: pntemplates/MUTransport_admin_modifyconfig.htm:145
+msgid "please select"
+msgstr "selecteer a.u.b."
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:76
+msgid "Specific settings for start modules"
+msgstr "Specifieke instellingen voor start modules"
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:78
+msgid "The image path for PagEd"
+msgstr "Pad voor afbeeldingen in PagEd"
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:86
+msgid "Enable transport of details for Reviews"
+msgstr "Overzetten van details in module Recensies mogelijk maken"
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:96
+msgid "For CMS"
+msgstr "Voor CMS"
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:98
+msgid "Enable transport wordpress to Zikula"
+msgstr "Overzetten van Wordpress naar Zikula mogelijk maken"
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:105
+msgid "Specific settings for wordpress"
+msgstr "Specifieke instellingen voor Wordpress"
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:106
+msgid "The name of the DB in the config"
+msgstr "Database naam in configuratie"
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:112
+msgid "The prefix of the wordpress database"
+msgstr "Prefix van de Wordpress database"
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:118
+msgid "Enable the transport of comments"
+msgstr "Overzetten van reacties mogelijk maken"
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:122
+msgid "Enable the clearing of urls"
+msgstr "Opschonen van URL's mogelijk maken"
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:127
+msgid "Specific settings for Pages"
+msgstr "Specifieke instellingen voor module Pagina's"
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:128
+msgid "The image path for Pages"
+msgstr "Pad voor afbeeldingen in Pagina's"
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:138
+msgid "General settings for target modules"
+msgstr "Algemene instellingen voor doel-modules"
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:140
+msgid "The state you wish for transport to News "
+msgstr "De gewenste status bij overzetting naar de Nieuws module"
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:167
+msgid "Save"
+msgstr "Opslaan"
+
+#: pntemplates/MUTransport_admin_modifyconfig.htm:168
+#: pntemplates/MUTransport_init_delete.htm:8
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: pntemplates/MUTransport_init_step3.htm:3
+msgid "Last step"
+msgstr "Laatste stap"
+
+#: pntemplates/MUTransport_init_step3.htm:4
+msgid "Finish the installation of modul ?"
+msgstr "Installatie van module afmaken?"
+
+#: pntemplates/MUTransport_init_step3.htm:5
+#: pntemplates/MUTransport_init_delete.htm:3
+msgid "Thank you for using MUTransport"
+msgstr "Dank u voor het werken met MUTransport"
+
+#: pntemplates/MUTransport_init_step3.htm:7
+#: pntemplates/MUTransport_init_delete.htm:6
+msgid "Continue"
+msgstr "Verder"
+
+#: pntemplates/MUTransport_admin_header.htm:6
+msgid "The Modul MUTransport"
+msgstr "De module MUTransport"
+
+#: pntemplates/MUTransport_admin_cms_view.htm:5
+msgid "List of CMS"
+msgstr "CMS lijst"
+
+#: pntemplates/MUTransport_admin_cms_view.htm:6
+msgid "Get Content of CMS"
+msgstr "Gegevens uit een CMS ophalen"
+
+#: pntemplates/MUTransport_admin_cms_view.htm:7
+msgid "Delete Content of CMS"
+msgstr "Verwijder gegevens uit CMS"
+
+#: pntemplates/MUTransport_admin_cms_view.htm:8
+msgid "Get User of CMS"
+msgstr "Gebruiker uit een CMS ophalen"
+
+#: pntemplates/MUTransport_admin_cms_view.htm:9
+msgid "Delete User of CMS"
+msgstr "Verwijder gebruiker uit een CMS"
+
+#: pntemplates/MUTransport_admin_cms_view.htm:77
+msgid "No CMS"
+msgstr "Geen CMS"
+
+#: pntemplates/MUTransport_init_interactive.htm:3
+msgid "Installation of MUTransport"
+msgstr "Installatie van MUTransport"
+
+#: pntemplates/MUTransport_init_interactive.htm:6
+msgid "Features of MUTransport"
+msgstr "Eigenschappen van MUTransport"
+
+#: pntemplates/MUTransport_init_interactive.htm:7
+msgid "MUTransport is a modul for transporting content !"
+msgstr "MUTransport is a module om inhoud over te zetten!"
+
+#: pntemplates/MUTransport_init_interactive.htm:8
+msgid "transport from modul News to Content"
+msgstr "Zet van module Nieuws naar module Content over"
+
+#: pntemplates/MUTransport_init_interactive.htm:9
+msgid ""
+"Have an overwiew about the pages in News and transport them, if you wish !"
+msgstr ""
+"Bekijk een overzicht van de pagina's in de module Nieuws en kopieer ze "
+"eventueel daaruit!"
+
+#: pntemplates/MUTransport_init_interactive.htm:10
+msgid "transport from modul Pages to Content"
+msgstr "zet van module Pagina's naar module Content over"
+
+#: pntemplates/MUTransport_init_interactive.htm:11
+msgid ""
+"Have an overwiew about the pages in Pages and transport them, if you wish !"
+msgstr ""
+"Bekijk een overzicht van de pagina's in de Pages module en zet ze eventueel "
+"daaruit over!"
+
+#: pntemplates/MUTransport_init_interactive.htm:12
+msgid "transport from modul PagEd to Content"
+msgstr "zet van module PagEd naar module Content over"
+
+#: pntemplates/MUTransport_init_interactive.htm:13
+msgid "transport from modul PagEd to News"
+msgstr "zet van module PagEd naar module Nieuws over"
+
+#: pntemplates/MUTransport_init_interactive.htm:14
+msgid ""
+"Have an overwiew about the pages in PagEd and transport them, if you wish !"
+msgstr ""
+"Bekijk een overzicht van de pagina's in de PagEd module en zet ze eventeel "
+"daaruit over!"
+
+#: pntemplates/MUTransport_init_interactive.htm:15
+msgid "transport from modul Reviews to Content"
+msgstr "Zet van module Recensies naar module Content over"
+
+#: pntemplates/MUTransport_init_interactive.htm:16
+msgid ""
+"Have an overwiew about the pages in Reviews and transport them, if you wish !"
+msgstr ""
+"Bekijk een overzicht van de pagina's in de module Recensies en kopieer ze "
+"eventueel daaruit!"
+
+#: pntemplates/MUTransport_init_interactive.htm:17
+msgid "copy from modul Content to Content"
+msgstr "kopieer uit de module Content naar de module Content"
+
+#: pntemplates/MUTransport_init_interactive.htm:18
+msgid "New! "
+msgstr "Nieuw!"
+
+#: pntemplates/MUTransport_init_interactive.htm:18
+msgid ""
+"Have an overwiew about the pages and users of a wordpress installation and "
+"transport them !"
+msgstr ""
+"Bekijk een overzicht van de pagina's in Wordpress en kopieer ze eventueel "
+"daaruit!"
+
+#: pntemplates/MUTransport_init_interactive.htm:19
+msgid "transport pages and users from wordpress to your Zikula system"
+msgstr ""
+"gegevens, inhoud en gebruikers van Wordpress overzetten naar het Zikula "
+"systeem"
+
+#: pntemplates/MUTransport_init_interactive.htm:20
+msgid "Make some settings"
+msgstr "Voer instellingen in"
+
+#: pntemplates/MUTransport_init_interactive.htm:21
+msgid ""
+"enable and disable modules, set a paths for images, choose text or html "
+"format and some more !"
+msgstr ""
+"inschakelen en uitschakelen van modules, een pad voor het importen van "
+"afbeeldingen opgeven, en kiezen tussen text of html"
+
+#: pntemplates/MUTransport_init_interactive.htm:24
+msgid "Continue the installation"
+msgstr "Doorgaan met installatie"
+
+#: pntemplates/MUTransport_admin_cmscontent_view.htm:5
+msgid "List of Content"
+msgstr "Inhoud lijst"
+
+#: pntemplates/MUTransport_admin_cmscontent_view.htm:6
+#: pntemplates/MUTransport_admin_page_view.htm:6
+msgid "not transported"
+msgstr "Niet overgezet"
+
+#: pntemplates/MUTransport_admin_cmscontent_view.htm:25
+msgid "Page Id in CMS"
+msgstr "Pagina Id in CMS"
+
+#: pntemplates/MUTransport_admin_cmscontent_view.htm:29
+#: pntemplates/MUTransport_admin_page_view.htm:30
+msgid "Title"
+msgstr "Titel"
+
+#: pntemplates/MUTransport_admin_cmscontent_view.htm:37
+#: pntemplates/MUTransport_admin_page_view.htm:38
+msgid "Number of Characters"
+msgstr "Aantal karakters"
+
+#: pntemplates/MUTransport_admin_cmscontent_view.htm:41
+#: pntemplates/MUTransport_admin_page_view.htm:42
+msgid "Status of transport"
+msgstr "Status van overzetting"
+
+#: pntemplates/MUTransport_admin_cmscontent_view.htm:66
+#: pntemplates/MUTransport_admin_page_view.htm:64
+msgid " Times"
+msgstr " keren"
+
+#: pntemplates/MUTransport_admin_cmscontent_view.htm:75
+msgid "No Content"
+msgstr "Geen Inhoud"
+
+#: pntemplates/MUTransport_admin_cmscontent_view.htm:80
+#: pntemplates/MUTransport_admin_page_view.htm:78
+msgid "Number of Copies"
+msgstr "Aantal kopieën"
+
+#: pntemplates/MUTransport_admin_cmscontent_view.htm:100
+#: pntemplates/MUTransport_admin_cmscontent_view.htm:101
+#: pntemplates/MUTransport_admin_page_view.htm:98
+#: pntemplates/MUTransport_admin_page_view.htm:99
+#: pntemplates/MUTransport_admin_user_view.htm:84
+msgid "Transport"
+msgstr "Overzetten"
+
+#: pntemplates/MUTransport_admin_cmscontent_view.htm:102
+#: pntemplates/MUTransport_admin_page_view.htm:100
+#: pntemplates/MUTransport_admin_user_view.htm:85
+msgid "Reset"
+msgstr "Reset"
+
+#: pntemplates/MUTransport_admin_page_view.htm:5
+msgid "List of Pages"
+msgstr "Paginalijst"
+
+#: pntemplates/MUTransport_admin_page_view.htm:22
+msgid "Modul"
+msgstr "Module"
+
+#: pntemplates/MUTransport_admin_page_view.htm:26
+msgid "Page Id in Modul"
+msgstr "Pagina Id in Module"
+
+#: pntemplates/MUTransport_admin_page_view.htm:73
+msgid "No Pages"
+msgstr "Geen pagina's"
+
+#: pntemplates/MUTransport_admin_user_view.htm:5
+msgid "List of User"
+msgstr "Gebruikerslijst"
+
+#: pntemplates/MUTransport_admin_user_view.htm:33
+msgid "User ID in CMS"
+msgstr "Gebruikers Id in CMS"
+
+#: pntemplates/MUTransport_admin_user_view.htm:37
+msgid "Name of User"
+msgstr "Gebruikersnaam"
+
+#: pntemplates/MUTransport_admin_user_view.htm:41
+msgid "Email of User"
+msgstr "E-mail adres van gebruiker"
+
+#: pntemplates/MUTransport_admin_user_view.htm:77
+msgid "No Users"
+msgstr "Geen gebruikers"

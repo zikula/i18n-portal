@@ -1,0 +1,401 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-02-26 11:50+0000\n"
+"PO-Revision-Date: 2010-02-28 02:40+0200\n"
+"Last-Translator: Carsten <carsten@zikula.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnadmin.php:176 pnadmin.php:204 pnadmin.php:232
+msgid "Done! Module configuration updated."
+msgstr "Erledigt! Die Konfiguration des Moduls wurde aktualisiert."
+
+#: pnversion.php:5 pntemplates/sitemap_user_view_slickmap.html:2
+#: pntemplates/sitemap_user_view.html:2
+msgid "Sitemap"
+msgstr "Sitemap"
+
+#. !module name that appears in URL
+#: pnversion.php:6
+msgid "sitemap"
+msgstr "sitemap"
+
+#: pnversion.php:7
+msgid ""
+"Sitemap generate a xml sitemap for the search engines and another one for "
+"the users."
+msgstr ""
+"Das Modul Sitemap erzeugt eine XML-Sitemap für Suchmaschinen und eine "
+"weitere für Benutzer."
+
+#: pnincludes/faq.php:21
+msgid "Submit a question"
+msgstr "Frage einreichen"
+
+#: pnincludes/legal.php:8
+msgid "Terms of use"
+msgstr "Nutzungsbedingungen"
+
+#: pnincludes/legal.php:11
+msgid "Privacy policy"
+msgstr "Hinweise zum Datenschutz"
+
+#: pnincludes/legal.php:14
+msgid "Accessibility statement"
+msgstr "Hinweise zur Barrierefreiheit"
+
+#: pnincludes/reviews.php:21
+msgid "Submit a review"
+msgstr "Rezension einreichen"
+
+#: pnincludes/search.php:7
+msgid "New search"
+msgstr "Neue Suche"
+
+#: pnincludes/search.php:8
+msgid "Recent searches list"
+msgstr "Letzte Suchvorgänge"
+
+#: pnincludes/news.php:21
+msgid "Categories"
+msgstr "Kategorien"
+
+#: pnincludes/news.php:22
+msgid "Archives"
+msgstr "Newsarchiv"
+
+#: pnincludes/news.php:24
+msgid "Submit article"
+msgstr "Beitrag einreichen"
+
+#: pnuser.php:84
+msgid "And more..."
+msgstr "Mehr..."
+
+#: pnadminapi.php:9
+msgid "Start"
+msgstr "Start"
+
+#: pnadminapi.php:10 pntemplates/sitemap_admin_contentdisplay.html:7
+msgid "Content to display"
+msgstr "Inhalte auswählen"
+
+#: pnadminapi.php:11 pntemplates/sitemap_admin_contentorder.html:7
+msgid "Order the content to display"
+msgstr "Inhalte positionieren"
+
+#: pnadminapi.php:12 pntemplates/sitemap_admin_settings.html:7
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: pnadminapi.php:310
+msgid "Error: the modules per line value should be set between 1 and 10."
+msgstr ""
+"Fehler! Der Anzahl der Module pro Zeile sollte zwischen 1 und 10 liegen."
+
+#: pninit.php:11 pninit.php:18 pninit.php:62
+#, php-format
+msgid "Error: failed to save module configuration [%s]."
+msgstr "Fehler! Die Modulkonfiguration konnte nicht gespeichert werden [%s]"
+
+#: pntemplates/sitemap_user_view_slickmap.html:3
+#: pntemplates/sitemap_user_view.html:3
+#, php-format
+msgid "Sitemap of %s"
+msgstr "Sitemap von %s"
+
+#: pntemplates/sitemap_user_view_slickmap.html:11
+#: pntemplates/sitemap_user_view.html:13
+msgid "Register"
+msgstr "Registrieren"
+
+#: pntemplates/sitemap_user_view_slickmap.html:12
+#: pntemplates/sitemap_user_view.html:14
+msgid "Log In"
+msgstr "Anmelden"
+
+#: pntemplates/sitemap_user_view_slickmap.html:18
+#: pntemplates/sitemap_user_view.html:12
+msgid "Homepage"
+msgstr "Startseite"
+
+#: pntemplates/sitemap_user_view_slickmap.html:38
+msgid "Direct links"
+msgstr "Direkte Links"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:1
+#: pntemplates/sitemap_admin_view.html:1
+#: pntemplates/sitemap_admin_settings.html:1
+#: pntemplates/sitemap_admin_contentorder.html:1
+msgid "Sitemap manager"
+msgstr "Verwaltung von Sitemap"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:8
+msgid ""
+"Notice: You have to set for each module if you want to display it into the "
+"sitemap and if you want to display links to the sections/content of each "
+"module. You can also set some xml information."
+msgstr ""
+"Hinweis: Es kann für jedes Modul eingestellt werden, ob es auf der Sitemap "
+"angezeigt wird und ob Links zu Bereichen / Inhalten des Moduls angezeigt "
+"werden sollen. Es können auch einige Parameter gesetzt werden."
+
+#: pntemplates/sitemap_admin_contentdisplay.html:15
+msgid "General"
+msgstr "Allgemeines"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:17
+msgid "Display this module"
+msgstr "Dieses Modul anzeigen"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:20
+#: pntemplates/sitemap_admin_settings.html:19
+msgid "Yes"
+msgstr "Ja"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:22
+#: pntemplates/sitemap_admin_settings.html:21
+msgid "No"
+msgstr "Nein"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:30
+msgid "User sitemap"
+msgstr "Benutzer-Sitemap"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:30
+#: pntemplates/sitemap_admin_contentdisplay.html:58
+msgid "Xml sitemap"
+msgstr "XML-Sitemap"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:30
+#, php-format
+msgid "%1$s and %2$s"
+msgstr "%1$s und %2$s"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:34
+msgid "Display links to the sections"
+msgstr "Links zu Bereichen anzeigen"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:43
+msgid "Display links to the content"
+msgstr "Links zu Inhalten anzeigen"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:47
+msgid "Maximum links to the content to display"
+msgstr "Maximal anzuzeigende Anzahl an Links"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:49
+msgid ""
+"(Blank field = no limit). This maximum value will only affect user sitemap."
+msgstr ""
+"(Leer = keine Limitierung). Der Höchstwert hat nur Auswirkungen in der "
+"Benutzer-Sitemap."
+
+#: pntemplates/sitemap_admin_contentdisplay.html:60
+msgid "Set change frequency for this module"
+msgstr "Änderungshäufigkeit dieses Moduls"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:62
+msgid "Don't specify change frequency"
+msgstr "keine Änderungshäufigkeit angeben"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:63
+msgid "Always"
+msgstr "ständig"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:64
+msgid "Hourly"
+msgstr "stündlich"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:65
+msgid "Daily"
+msgstr "täglich"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:66
+msgid "Weekly"
+msgstr "wöchentlich"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:67
+msgid "Monthly"
+msgstr "monatlich"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:68
+msgid "Yearly"
+msgstr "jährlich"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:69
+msgid "Never"
+msgstr "nie"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:73
+msgid "Set priority for this module"
+msgstr "Priorität dieses Moduls"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:75
+msgid "Don't specify priority"
+msgstr "keine Priorität angeben"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:92
+msgid "Go to bottom"
+msgstr "Zum Seitenende springen"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:97
+#: pntemplates/sitemap_admin_settings.html:52
+#: pntemplates/sitemap_admin_contentorder.html:47
+msgid "OK"
+msgstr "Ok"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:98
+#: pntemplates/sitemap_admin_settings.html:53
+#: pntemplates/sitemap_admin_contentorder.html:48
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: pntemplates/sitemap_admin_view.html:6
+msgid "Sitemap overview"
+msgstr "Sitemap-Übersicht"
+
+#: pntemplates/sitemap_admin_view.html:8
+msgid "Welcome into the administration of the sitemap module."
+msgstr "Willkommen im Administrationsbereich des Sitemap-Moduls."
+
+#: pntemplates/sitemap_admin_view.html:10
+msgid "Here is the links to your xml sitemap:"
+msgstr "Links zu den XML-Sitemaps dieser Website:"
+
+#: pntemplates/sitemap_admin_view.html:17
+msgid "Here is the links to your xml sitemap per module:"
+msgstr "Links zu den XML-Sitemaps pro Modul:"
+
+#: pntemplates/sitemap_admin_view.html:27
+msgid "Submit xml sitemap"
+msgstr "XML-Sitemap einreichen"
+
+#: pntemplates/sitemap_admin_view.html:28
+msgid ""
+"If you click on the bottom links, it will submit the xml sitemap in the "
+"corresponding language to the search engine."
+msgstr ""
+"Die XML-Sitemap kann per Klick auf die folgenden Links in entsprechender "
+"Sprache zur Suchmaschine geschickt werden."
+
+#: pntemplates/sitemap_admin_settings.html:8
+msgid ""
+"By default Sitemap override cache settings then the cache is forced to be "
+"enable. Why? Because this module makes a lot of sql queries to generate the "
+"sitemap, so for better performance the result is cached during 24 hours by "
+"default."
+msgstr ""
+"Als Voreinstellung ist das Caching für das Modul Sitemap aktiviert. Der "
+"Grund hierfür sind die vielen SQL-Abfragen, um die Sitemap zu erzeugen. "
+"Deswegen ist es sinnvoll, die Sitemap für z.B. 24 Stunden in den Cache zu "
+"nehmen."
+
+#: pntemplates/sitemap_admin_settings.html:14
+msgid "Cache"
+msgstr "Cache"
+
+#: pntemplates/sitemap_admin_settings.html:16
+msgid "Override pnRender cache settings"
+msgstr "Einstellungen des pnRender-Cache überschreiben"
+
+#: pntemplates/sitemap_admin_settings.html:26
+msgid "Lifetime for cached pages"
+msgstr "Dauer des Cachings"
+
+#: pntemplates/sitemap_admin_settings.html:28
+msgid ""
+"In seconds (e.g. 3600 = 1 hour, 86400 = 24 hours, 604800 = 1 week, 2678400 = "
+"1 month)."
+msgstr ""
+"Angabe in Sekunden (z.B. 3600 = 1 Stunde, 86400 = 24 Stunden, 604800 = 1 "
+"Woche, 2678400 = 1 Monat)."
+
+#: pntemplates/sitemap_admin_settings.html:33
+msgid "Layout"
+msgstr "Layout"
+
+#: pntemplates/sitemap_admin_settings.html:35
+msgid "Select your favorite layout"
+msgstr "Layout auswählen"
+
+#: pntemplates/sitemap_admin_settings.html:38
+msgid "Default"
+msgstr "Standard"
+
+#: pntemplates/sitemap_admin_settings.html:40
+msgid "SlickMap"
+msgstr "SlickMap"
+
+#: pntemplates/sitemap_admin_settings.html:45
+msgid "Maximum modules per line"
+msgstr "Maximale Anzahl an Modulen pro Reihe"
+
+#: pntemplates/sitemap_admin_settings.html:47
+msgid "This value must be between 1 and 10 (default = 5)."
+msgstr "Der Wert muss zwischen 1 und 10 sein (Standard = 5)."
+
+#: pntemplates/sitemap_admin_contentorder.html:9
+msgid "Notice:"
+msgstr "Hinweis:"
+
+#: pntemplates/sitemap_admin_contentorder.html:11
+msgid ""
+"You can't order a module before to have attribute it to the left/right "
+"column."
+msgstr ""
+"Ein Modul kann nur positioniert werden, falls es der rechten oder linken "
+"Spalte zugeordnet ist."
+
+#: pntemplates/sitemap_admin_contentorder.html:13
+msgid "Blank field for order will automaticly set order to 99."
+msgstr ""
+"Wird das Feld für die Position leer gelassen, wird diese automatisch auf 99 "
+"gesetzt."
+
+#: pntemplates/sitemap_admin_contentorder.html:19
+msgid "Order per module"
+msgstr "Module positionieren"
+
+#: pntemplates/sitemap_admin_contentorder.html:21
+msgid "Column and order per module"
+msgstr "Module einer Spalte zuordnen und positionieren"
+
+#: pntemplates/sitemap_admin_contentorder.html:29
+msgid "Left"
+msgstr "links"
+
+#: pntemplates/sitemap_admin_contentorder.html:31
+msgid "Right"
+msgstr "rechts"
+
+#: pntemplates/sitemap_admin_contentorder.html:33
+msgid "Alternatively"
+msgstr "wahlweise"
+
+#: pntemplates/sitemap_admin_contentorder.html:34
+#: pntemplates/sitemap_admin_contentorder.html:38
+msgid "Order:"
+msgstr "Position:"
+
+#~ msgid ""
+#~ "Maximum links to the content to display (blank field = no limit). This "
+#~ "maximum value will only affect xml sitemap."
+#~ msgstr ""
+#~ "Maximale Anzahl von Links anzuzeigender Inhalte (leer = unbegrenzt). "
+#~ "Dieser Wert wirkt sich nur auf die XML-Sitemap aus."
+
+#~ msgid "Modules per line. This value must be between 1 and 10 (default = 5)."
+#~ msgstr ""
+#~ "Module pro Seite. Der Wert muss zwischen 1 und 10 liegen (Standard = 5)"

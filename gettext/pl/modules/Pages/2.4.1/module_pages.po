@@ -1,0 +1,401 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-23 16:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.5.1\n"
+
+#: pnadmin.php:55 pnadmin.php:144 pnadmin.php:316 pnuserapi.php:50
+#: pnuserapi.php:172 pnuser.php:34 pnuser.php:97 pnuser.php:288
+#, php-format
+msgid "Error! Unable to load class [%s]"
+msgstr "Błąd! Nie można załadować klasy [%s]"
+
+#: pnadmin.php:93
+msgid "Done! Page created."
+msgstr "Zrobione! Strona utworzona."
+
+#: pnadmin.php:125 pnadmin.php:237 pnuser.php:271 pnuser.php:303
+#: pnuser.php:311 pnadminapi.php:107 pnadminapi.php:152
+msgid "No such page found."
+msgstr "Nie znaleziono takiej strony."
+
+#: pnadmin.php:196
+msgid "Done! Page updated."
+msgstr "Zrobione! Strona uaktualniona."
+
+#: pnadmin.php:268
+msgid "Done! Page deleted."
+msgstr "Zrobione! Strona skasowana."
+
+#: pnadmin.php:299
+msgid "Purging of the pemalinks was successful"
+msgstr "Usunięcie stałych odnośników powiodło się"
+
+#: pnadmin.php:301
+msgid "Purging of the pemalinks has failed"
+msgstr "Usunięcie stałych odnośników nie powiodło się"
+
+#: pnadmin.php:360
+msgid "View"
+msgstr "Podgląd"
+
+#: pnadmin.php:365 pntemplates/pages_user_display.htm:45
+msgid "Edit"
+msgstr "Edytuj"
+
+#: pnadmin.php:370
+msgid "Delete"
+msgstr "Skasuj"
+
+#: pnadmin.php:486
+msgid "Done! Module configuration updated."
+msgstr "Zrobione! Uaktualniono konfigurację modułu."
+
+#: pnversion.php:16 pninit.php:289
+msgid "Static pages"
+msgstr "Strony statyczne"
+
+#: pnversion.php:17
+msgid "Manager of the static pages of the site."
+msgstr "Zarządzanie statycznymi stronami."
+
+#. ! this defines the module's url
+#: pnversion.php:20
+msgid "pages"
+msgstr "strony"
+
+#: pnsearchapi.php:101 pnsearchapi.php:132 pnuserapi.php:165
+msgid "Error! Could not load any page."
+msgstr "Błąd! Nie można załadować żadnej strony"
+
+#: pnblocks/pageslist.php:39 pntemplates/pages_user_view.htm:2
+#: pntemplates/pages_user_view.htm:33
+msgid "Pages list"
+msgstr "Lista stron"
+
+#: pnblocks/pageslist.php:40
+msgid "Display a list of pages"
+msgstr "Wyświetl listę stron"
+
+#: pnblocks/page.php:32
+msgid "Show page"
+msgstr "Pokaż stronę"
+
+#: pnblocks/page.php:33
+msgid "Show a page in a block"
+msgstr "Pokaż stronę w bloku"
+
+#: pnuser.php:126
+msgid "Invalid category passed."
+msgstr "Przekazano nieprawidłową kategorię."
+
+#: pnuser.php:200 pntemplates/pages_admin_view.htm:97
+msgid "No pages found."
+msgstr "Nie znaleziono stron."
+
+#: pnadminapi.php:67 pnadminapi.php:198
+msgid "The permalinks retrieved from the title has to be unique!"
+msgstr "Stałe odnośniki pobrane z tytułu muszą być unikalne!"
+
+#: pnadminapi.php:69 pnadminapi.php:200
+msgid "The permalink has to be unique!"
+msgstr "Stałe odnośniki muszą być unikalne!"
+
+#: pnadminapi.php:71 pnadminapi.php:202
+msgid ""
+"The permalink has been removed, please update the page with a correct and "
+"unique permalink"
+msgstr ""
+"Stałe odnośniki zostały usnięte, proszę zaktualizować stronę podając "
+"prawidłowe i unikalne stałe odnośniki"
+
+#: pnadminapi.php:75
+msgid "Error! Creation attempt failed."
+msgstr "Błąd! Próba utworzenia nieudana."
+
+#: pnadminapi.php:116
+msgid "Error! Deletion attempt failed."
+msgstr "Błąd! Próba skasowania nieudana."
+
+#: pnadminapi.php:206 pninit.php:83 pninit.php:94 pninit.php:100
+#: pninit.php:108 pninit.php:201
+msgid "Error! Update attempt failed."
+msgstr "Błąd! Próba aktualizacji nieudana."
+
+#: pnadminapi.php:284 pntemplates/pages_admin_view.htm:3
+msgid "View pages list"
+msgstr "Zobacz listę stron"
+
+#: pnadminapi.php:288 pntemplates/pages_admin_new.htm:3
+msgid "Create a page"
+msgstr "Utwórz stronę"
+
+#: pnadminapi.php:292
+msgid "Purge permalinks"
+msgstr "Usuń odnośniki stałe"
+
+#: pnadminapi.php:294 pntemplates/pages_admin_modifyconfig.htm:7
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: pninit.php:41
+msgid ""
+"Warning! Could not create the default Pages category tree. If you want to "
+"use categorization for the pages, register at least one property for the "
+"module in the Category Registry."
+msgstr ""
+"Ostrzeżenie! Nie moge utworzyć default Pages category tree. If you want to "
+"use categorization for the pages, register at least one property for the "
+"module in the Category Registry."
+
+#: pninit.php:288 pntemplates/pages_admin_menu.htm:6
+#: pntemplates/pages_search_options.htm:5
+msgid "Pages"
+msgstr "Strony"
+
+#: pntemplates/pages_admin_modifyconfig.htm:13
+msgid "General settings"
+msgstr "Ustawienia ogólne"
+
+#: pntemplates/pages_admin_modifyconfig.htm:15
+msgid "Enable categorization"
+msgstr "Włącz kategoryzację"
+
+#: pntemplates/pages_admin_modifyconfig.htm:19
+msgid "Items per page"
+msgstr "Pozycji na stronie"
+
+#: pntemplates/pages_admin_modifyconfig.htm:24
+msgid "New page defaults"
+msgstr "Nowe wart. domyślne strony"
+
+#: pntemplates/pages_admin_modifyconfig.htm:26
+#: pntemplates/pages_admin_modify.htm:64 pntemplates/pages_admin_new.htm:56
+msgid "Display additional information"
+msgstr "Wyświetl dodatkowe informacje"
+
+#: pntemplates/pages_admin_modifyconfig.htm:30
+#: pntemplates/pages_admin_modify.htm:68 pntemplates/pages_admin_new.htm:60
+msgid "Display page title"
+msgstr "Wyświetl tytuł strony"
+
+#: pntemplates/pages_admin_modifyconfig.htm:34
+#: pntemplates/pages_admin_modify.htm:72 pntemplates/pages_admin_new.htm:64
+msgid "Display page creation date"
+msgstr "Wyświetl datę utworzenia strony"
+
+#: pntemplates/pages_admin_modifyconfig.htm:38
+#: pntemplates/pages_admin_modify.htm:76 pntemplates/pages_admin_new.htm:68
+msgid "Display page update date"
+msgstr "Wyświetl datę aktualizacji strony"
+
+#: pntemplates/pages_admin_modifyconfig.htm:42
+#: pntemplates/pages_admin_modify.htm:80 pntemplates/pages_admin_new.htm:72
+msgid "Display page text statistics"
+msgstr "Wyświetl statystyki tekstu na stronie"
+
+#: pntemplates/pages_admin_modifyconfig.htm:46
+#: pntemplates/pages_admin_modify.htm:84 pntemplates/pages_admin_new.htm:76
+msgid "Display page print link"
+msgstr "Wyświetl pdnośnik do drukowania strony"
+
+#: pntemplates/pages_admin_modifyconfig.htm:51
+msgid "Permalinks settings"
+msgstr "Permalinks settings"
+
+#: pntemplates/pages_admin_modifyconfig.htm:53
+msgid "Add category title to permalink"
+msgstr "Add category title to permalink"
+
+#: pntemplates/pages_admin_modifyconfig.htm:57
+msgid "Show permalink input field"
+msgstr "Show permalink input field"
+
+#: pntemplates/pages_admin_modifyconfig.htm:65
+msgid "Save"
+msgstr "Zapisz"
+
+#: pntemplates/pages_admin_modifyconfig.htm:66
+#: pntemplates/pages_admin_modify.htm:105
+#: pntemplates/pages_admin_delete.htm:19 pntemplates/pages_admin_new.htm:86
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: pntemplates/pages_admin_modify.htm:3
+msgid "Update page"
+msgstr "Uaktualnij stronę"
+
+#: pntemplates/pages_admin_modify.htm:18 pntemplates/pages_admin_modify.htm:55
+#: pntemplates/pages_admin_new.htm:16 pntemplates/pages_admin_new.htm:47
+msgid "Content"
+msgstr "Zawartość"
+
+#: pntemplates/pages_admin_modify.htm:20 pntemplates/pages_admin_view.htm:61
+#: pntemplates/pages_admin_new.htm:18
+msgid "Title"
+msgstr "Tytuł"
+
+#: pntemplates/pages_admin_modify.htm:25 pntemplates/pages_admin_new.htm:23
+msgid "PermaLink URL title"
+msgstr "PermaLink URL title"
+
+#: pntemplates/pages_admin_modify.htm:27 pntemplates/pages_admin_new.htm:25
+msgid "(Blank = auto-generate)"
+msgstr "(Pusta = generowana automatycznie)"
+
+#: pntemplates/pages_admin_modify.htm:32 pntemplates/pages_admin_view.htm:18
+#: pntemplates/pages_admin_view.htm:63 pntemplates/pages_admin_new.htm:30
+msgid "Category"
+msgstr "Kategoria"
+
+#: pntemplates/pages_admin_modify.htm:33 pntemplates/pages_admin_view.htm:19
+#: pntemplates/pages_admin_new.htm:31
+msgid "Choose a category"
+msgstr "Wybierz kategorię"
+
+#: pntemplates/pages_admin_modify.htm:50 pntemplates/pages_admin_view.htm:44
+#: pntemplates/pages_admin_view.htm:66 pntemplates/pages_admin_new.htm:42
+msgid "Language"
+msgstr "Język"
+
+#: pntemplates/pages_admin_modify.htm:57 pntemplates/pages_admin_new.htm:49
+msgid ""
+"If you want multiple pages you can write &lt;!--pagebreak--&gt; where you "
+"want to cut."
+msgstr ""
+"Jeśli chcesz więcej stron, możesz oddzielić je &lt;!--pagebreak--&gt; w "
+"miejscu gdzie chcesz je przyciąć."
+
+#: pntemplates/pages_admin_modify.htm:61 pntemplates/pages_admin_new.htm:53
+msgid "Specific page settings"
+msgstr "Specyficzne ustawienia strony"
+
+#: pntemplates/pages_admin_modify.htm:90
+msgid "Meta data"
+msgstr "Meta dane"
+
+#: pntemplates/pages_admin_modify.htm:93
+#, php-format
+msgid "Created by %s"
+msgstr "Stworzone przez %s"
+
+#: pntemplates/pages_admin_modify.htm:94
+#, php-format
+msgid "Created on %s"
+msgstr "Stworzone w %s"
+
+#: pntemplates/pages_admin_modify.htm:96
+#, php-format
+msgid "Last update by %s"
+msgstr "Ostatnio aktualizowany przez %s"
+
+#: pntemplates/pages_admin_modify.htm:97
+#, php-format
+msgid "Updated on %s"
+msgstr "Uaktualnione w %s"
+
+#: pntemplates/pages_admin_modify.htm:104
+msgid "Update"
+msgstr "Uaktualnij"
+
+#: pntemplates/pages_admin_view.htm:50
+msgid "Filter"
+msgstr "Filtr"
+
+#: pntemplates/pages_admin_view.htm:51
+msgid "Reset"
+msgstr "Resetuj"
+
+#: pntemplates/pages_admin_view.htm:60
+msgid "ID"
+msgstr "ID"
+
+#: pntemplates/pages_admin_view.htm:68
+msgid "Actions"
+msgstr "Akcje"
+
+#: pntemplates/pages_admin_delete.htm:2
+msgid "Delete page"
+msgstr "Skasuj stronę"
+
+#: pntemplates/pages_admin_delete.htm:10
+msgid "Do you really want to delete this page?"
+msgstr "Czy na pewno chces skasować tę stronę?"
+
+#: pntemplates/pages_admin_delete.htm:18
+msgid "Confirm deletion?"
+msgstr "Potwierdź kasowanie?"
+
+#: pntemplates/pages_block_pageblock_modify.htm:4
+msgid "Page ID"
+msgstr "ID strony"
+
+#: pntemplates/pages_user_display.htm:15
+#, php-format
+msgid "Created by %1$s on %2$s"
+msgstr "Stworzone przez %1$s w %2$s"
+
+#: pntemplates/pages_user_display.htm:19
+#, php-format
+msgid "Last update by %1$s on %2$s"
+msgstr "Uaktualnione przez %1$s w %2$s"
+
+#: pntemplates/pages_user_display.htm:22
+msgid "Categories"
+msgstr "Kategorie"
+
+#: pntemplates/pages_user_display.htm:49
+#, php-format
+msgid "%s total words in this text"
+msgstr "Wszystkich słów w tym tekście %s"
+
+#: pntemplates/pages_user_display.htm:51
+#, php-format
+msgid "%s reads"
+msgstr "czytano %s"
+
+#: pntemplates/pages_user_display.htm:55
+msgid "Print page"
+msgstr "Wydrukuj stronę"
+
+#: pntemplates/pages_user_view.htm:7 pntemplates/pages_user_main.htm:2
+msgid "Contents"
+msgstr "Zawartości"
+
+#: pntemplates/pages_user_view.htm:8 pntemplates/pages_user_main.htm:8
+msgid "Available categories:"
+msgstr "Dostępne kategorie:"
+
+#: pntemplates/pages_user_view.htm:30
+#, php-format
+msgid "Category: %s"
+msgstr "Kategoria: %s"
+
+#: pntemplates/pages_user_view.htm:31
+msgid "Pages published under this category:"
+msgstr "Strony opublikowane w tej kategorii:"
+
+#: pntemplates/pages_user_view.htm:34
+msgid "Available pages:"
+msgstr "Dostępne strony:"
+
+#: pntemplates/pages_block_pageslist_modify.htm:4
+msgid "Number of pages to display"
+msgstr "Liczba stron do wyświetlenia"
+
+#: pntemplates/pages_admin_new.htm:85
+msgid "Create"
+msgstr "Utwórz"

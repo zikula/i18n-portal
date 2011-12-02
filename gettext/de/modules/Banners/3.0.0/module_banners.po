@@ -1,0 +1,933 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Banners\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-21 21:06+0000\n"
+"PO-Revision-Date: 2011-08-11 16:36+0100\n"
+"Last-Translator: Carsten Volmer <carsten@zikula.org>\n"
+"Language-Team: Dominik Mayer <dmm@dmm.at>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: German\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: lib/Banners/Util.php:42
+msgid "IAB Ad Units"
+msgstr "IAB Ad Einheiten"
+
+#: lib/Banners/Util.php:43
+msgid "Dimensions of IAB Advertising Banners"
+msgstr "Dimensionen von IAB Advertising Banners"
+
+#: lib/Banners/Util.php:53
+msgid "Medium Rectangle 300x250"
+msgstr "Mittleres Rechteck 300x250"
+
+#: lib/Banners/Util.php:54
+msgid "Medium Rectangle 300x250 IMU"
+msgstr "Mittleres Rechteck 300x250 IMU"
+
+#: lib/Banners/Util.php:65
+msgid "Square Pop-up 250x250"
+msgstr "Kreis Pop-Up 250x250"
+
+#: lib/Banners/Util.php:66
+msgid "Square Pop-up 250x250 IMU"
+msgstr "Kreis Pop-up 250x250 IMU"
+
+#: lib/Banners/Util.php:77
+msgid "Vertical Rectangle 240x400"
+msgstr "Vertikales Rechteck 240x400"
+
+#: lib/Banners/Util.php:78
+msgid "Vertical Rectangle 240x400 IMU"
+msgstr "Vertikales Rechteck 240x400 IMU"
+
+#: lib/Banners/Util.php:89
+msgid "Large Rectangle 336x280"
+msgstr "Großes Rechteck 336x280"
+
+#: lib/Banners/Util.php:90
+msgid "Large Rectangle 336x280 IMU"
+msgstr "Großes Rechteck 336x280 IMU"
+
+#: lib/Banners/Util.php:101
+msgid "Rectangle 180x150"
+msgstr "Rechteck 180x150"
+
+#: lib/Banners/Util.php:102
+msgid "Rectangle 180x150 IMU"
+msgstr "Rechteck 180x150 IMU"
+
+#: lib/Banners/Util.php:113
+msgid "3:1 Rectangle 300x100"
+msgstr "3:1 Rechteck 300x100"
+
+#: lib/Banners/Util.php:114
+msgid "3:1 Rectangle 300x100 IMU"
+msgstr "3:1 Rechteck 300x100 IMU"
+
+#: lib/Banners/Util.php:125
+msgid "Pop-Under 720x300"
+msgstr "Pop-Under 720x300"
+
+#: lib/Banners/Util.php:126
+msgid "Pop-Under 720x300 IMU"
+msgstr "Pop-Under 720x300 IMU"
+
+#: lib/Banners/Util.php:137
+msgid "Full Banner 468x60"
+msgstr "Full Banner 468x60"
+
+#: lib/Banners/Util.php:138
+msgid "Full Banner 468x60 IMU"
+msgstr "Full Banner 468x60 IMU"
+
+#: lib/Banners/Util.php:149
+msgid "Half Banner 234x60"
+msgstr "Halber Banner 234x60"
+
+#: lib/Banners/Util.php:150
+msgid "Half Banner 234x60 IMU"
+msgstr "Halber Banner 234x60 IMU"
+
+#: lib/Banners/Util.php:161
+msgid "Micro Bar 88x31"
+msgstr "Micro Bar 88x31"
+
+#: lib/Banners/Util.php:162
+msgid "Micro Bar 88x31 IMU"
+msgstr "Micro Bar 88x31 IMU"
+
+#: lib/Banners/Util.php:173
+msgid "Button 1 120x90"
+msgstr "Button 1 120x90"
+
+#: lib/Banners/Util.php:174
+msgid "Button 1 120x90 IMU"
+msgstr "Button 1 120x90 IMU"
+
+#: lib/Banners/Util.php:185
+msgid "Button 2x120x60"
+msgstr "Button 2x120x60"
+
+#: lib/Banners/Util.php:186
+msgid "Button 2 120x60 IMU"
+msgstr "Button 2 120x60 IMU"
+
+#: lib/Banners/Util.php:197
+msgid "Vertical Banner 120x240"
+msgstr "Vertikaler Banner 120x240"
+
+#: lib/Banners/Util.php:198
+msgid "Vertical Banner 120x240 IMU"
+msgstr "Vertikaler Banner 120x240 IMU"
+
+#: lib/Banners/Util.php:209
+msgid "Square Button 125x125"
+msgstr "Kreis Button 125x125"
+
+#: lib/Banners/Util.php:210
+msgid "Square Button 125x125 IMU"
+msgstr "Kreis Button 125x125 IMU"
+
+#: lib/Banners/Util.php:221
+msgid "Leaderboard 728x90"
+msgstr "Leaderboard 728x90"
+
+#: lib/Banners/Util.php:222
+msgid "Leaderboard 728x90 IMU"
+msgstr "Leaderboard 728x90 IMU"
+
+#: lib/Banners/Util.php:233
+msgid "Wide Skyscraper 160x600"
+msgstr "Weiter Wolkenkratzer 160x600"
+
+#: lib/Banners/Util.php:234
+msgid "Wide Skyscraper 160x600 IMU"
+msgstr "Weiter Wolkenkratzer 160x600 IMU"
+
+#: lib/Banners/Util.php:245
+msgid "Skyscraper 120x600"
+msgstr "Wolkenkratzer 120x600"
+
+#: lib/Banners/Util.php:246
+msgid "Skyscraper 120x600 IMU"
+msgstr "Wolkenkratzer 120x600 IMU"
+
+#: lib/Banners/Util.php:257
+msgid "Half Page Ad 300x600"
+msgstr "Halbe Seite 300x600"
+
+#: lib/Banners/Util.php:258
+msgid "Half Page Ad 300x600 IMU"
+msgstr "Halbe Seite 300x600 IMU"
+
+#: lib/Banners/Util.php:276
+msgid "Undefined Ad Type"
+msgstr "Undefinierter Anzeigentyp"
+
+#: lib/Banners/Util.php:277
+msgid "Used for conversion of old finished banner types"
+msgstr "Wird für die Konvertierung alter Bannertypen benutzt"
+
+#: lib/Banners/Util.php:322 lib/Banners/Util.php:324
+#: templates/admin/new.tpl:29
+msgid "Unlimited"
+msgstr "Unlimitiert"
+
+#: lib/Banners/Api/User.php:95 lib/Banners/Api/User.php:211
+msgid "Error! Could not load items."
+msgstr "Fehler! Elemente konnten nicht geladen werden."
+
+#: lib/Banners/Api/Admin.php:26
+msgid "Overview"
+msgstr "Übersicht"
+
+#: lib/Banners/Api/Admin.php:32
+msgid "New Client"
+msgstr "Neuer Kunde"
+
+#: lib/Banners/Api/Admin.php:40 lib/Banners/Api/Admin.php:47
+msgid "New Banner"
+msgstr "Neuer Banner"
+
+#: lib/Banners/Api/Admin.php:42
+msgid "Create Client First"
+msgstr "Zuerst einen Kunden anlegen"
+
+#: lib/Banners/Api/Admin.php:54
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: lib/Banners/Api/Admin.php:60
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: lib/Banners/Api/Admin.php:90 lib/Banners/Api/Admin.php:230
+msgid "Error! Creation attempt failed."
+msgstr "Fehler! Erstellung fehlgeschlagen."
+
+#: lib/Banners/Api/Admin.php:128 lib/Banners/Api/Admin.php:165
+#: lib/Banners/Api/Admin.php:263 lib/Banners/Api/Admin.php:299
+#: lib/Banners/Controller/User.php:161 lib/Banners/Controller/Admin.php:137
+#: lib/Banners/Controller/Admin.php:196 lib/Banners/Controller/Admin.php:264
+#: lib/Banners/Controller/Admin.php:307 lib/Banners/Controller/Admin.php:359
+msgid "No such item found."
+msgstr "Kein solches Element gefunden."
+
+#: lib/Banners/Api/Admin.php:142 lib/Banners/Api/Admin.php:277
+msgid "Error! Update attempt failed."
+msgstr "Fehler! Update fehlgeschlagen."
+
+#: lib/Banners/Api/Admin.php:171 lib/Banners/Api/Admin.php:193
+#: lib/Banners/Api/Admin.php:306 lib/Banners/Api/Admin.php:311
+msgid "Error! Deletion attempt failed."
+msgstr "Fehler! Löschen fehlgeschlagen."
+
+#: lib/Banners/ContentType/Banner.php:16 templates/admin/overview.tpl:20
+#: templates/admin/overview.tpl:71 templates/user/client.tpl:10
+msgid "Banner"
+msgstr "Banner"
+
+#: lib/Banners/ContentType/Banner.php:20
+msgid "Displays banner."
+msgstr "Banner anzeigen."
+
+#: lib/Banners/ContentType/Banner.php:58
+msgid "Display banner"
+msgstr "Banner anzeigen"
+
+#: lib/Banners/Installer.php:26 lib/Banners/Installer.php:29
+#, php-format
+msgid "Error! Could not create the table [%s]."
+msgstr "Fehler! Die Tabelle [%s] konnte nicht erstellt werden."
+
+#: lib/Banners/Installer.php:45 lib/Banners/Installer.php:128
+msgid "IAB Banner Types entered into Categories module."
+msgstr "IAB Bannertypen wurden in das Kategoriemodul übertragen."
+
+#: lib/Banners/Installer.php:53
+msgid "Banners module installed"
+msgstr "Bannermodul installiert"
+
+#: lib/Banners/Installer.php:123 lib/Banners/Installer.php:137
+msgid "Error! Could not upgrade the tables."
+msgstr "Fehler! Die Tabellen konnten nicht aktualisiert werden."
+
+#: lib/Banners/Installer.php:130
+msgid "Banners updated to new Banner Types"
+msgstr "Die Banner wurden zu den neuen Bannertypen aktualisiert"
+
+#: lib/Banners/Installer.php:132
+msgid "Error! Could not update Banners to new Banner Types"
+msgstr ""
+"Fehler! Die Banner konnten nicht zu den neuen Bannertypen aktualisiert werden"
+
+#: lib/Banners/Installer.php:146
+msgid "Banners admin interface"
+msgstr "Bannermodul Administration"
+
+#: lib/Banners/Installer.php:147
+#, php-format
+msgid ""
+"You must manually reassociate ALL your clients with a Zikula Username in the "
+"<a href=\"%1$s\">%2$s</a>."
+msgstr ""
+"Alle Kunden müssen manuell einem Zikulausernamen in <a href=\"%1$s\">%2$s</"
+"a> zugeordnet werden."
+
+#: lib/Banners/Installer.php:150
+msgid "Error! Unable to reassociate clients with Current User."
+msgstr "Fehler! Die Kunden konnten nicht zugeordnet werden."
+
+#: lib/Banners/Installer.php:154
+msgid "Old finished banners moved to inactive."
+msgstr "Die alten Banner wurden auf inaktiv gesetzt."
+
+#: lib/Banners/Installer.php:156
+msgid "Error! Could not move old finished banners to inactive."
+msgstr "Fehler! Die alten Banner konnten nicht auf inaktiv gesetzt werden."
+
+#: lib/Banners/Installer.php:235 lib/Banners/Installer.php:236
+#: lib/Banners/Installer.php:263
+msgid "imported_"
+msgstr "importiert_"
+
+#: lib/Banners/Installer.php:266
+msgid "unnamed_"
+msgstr "unbenannt_"
+
+#: lib/Banners/Installer.php:293
+#, php-format
+msgid "Inactive Banner %s"
+msgstr "Inaktiver Banner %s"
+
+#: lib/Banners/Installer.php:294 lib/Banners/Installer.php:295
+msgid "undefined"
+msgstr "undefiniert"
+
+#: lib/Banners/Controller/User.php:70
+#, php-format
+msgid "Error! Could not find banner (%s)"
+msgstr "Fehler! Der Banner (%s) konnte nicht gefunden werden"
+
+#: lib/Banners/Controller/User.php:82
+#, php-format
+msgid "Advertising stats for %s"
+msgstr "Werbestatistiken für %s"
+
+#: lib/Banners/Controller/User.php:85
+msgid "Statistics e-mailed"
+msgstr "Statistiken wurden gesendet"
+
+#: lib/Banners/Controller/User.php:87
+msgid "Error! Could not email statistics."
+msgstr "Fehler! Die Statistiken konnten nicht gesendet werden."
+
+#: lib/Banners/Controller/User.php:122
+msgid "Error! Could not do what you wanted. Please check your input."
+msgstr ""
+"Fehler! Die Eingaben konnten nicht verarbeitet werden, bitte die Eingaben "
+"nochmals überprüfen."
+
+#: lib/Banners/Controller/User.php:128
+msgid "Not a Valid Banners Client"
+msgstr "Kein gültiger Bannerkunde"
+
+#: lib/Banners/Controller/User.php:133
+msgid "Please contact the administrator."
+msgstr "Bitte den Administrator benachrichtigen."
+
+#: lib/Banners/Controller/User.php:135
+msgid "URL Changed"
+msgstr "URL geändert"
+
+#: lib/Banners/Controller/Admin.php:106
+msgid "Banner Created"
+msgstr "Banner erstellt"
+
+#: lib/Banners/Controller/Admin.php:172
+msgid "Banner Updated"
+msgstr "Banner aktualisiert"
+
+#: lib/Banners/Controller/Admin.php:221 lib/Banners/Controller/Admin.php:383
+msgid "Banner Deleted"
+msgstr "Banner gelöscht"
+
+#: lib/Banners/Controller/Admin.php:240
+msgid "Banner Client Created"
+msgstr "Kunde angelegt"
+
+#: lib/Banners/Controller/Admin.php:284
+msgid "Client Updated"
+msgstr "Kunde aktualisiert"
+
+#: lib/Banners/Controller/Admin.php:331
+msgid "Client Deleted"
+msgstr "Kunde gelöscht"
+
+#: lib/Banners/Controller/Admin.php:430
+msgid "Configuration updated"
+msgstr "Konfiguration aktualisiert"
+
+#: lib/Banners/Controller/Admin.php:432
+msgid "Configuration could not be updated"
+msgstr "Die Konfiguration konnte nicht aktualisiert werden"
+
+#: lib/Banners/Version.php:17 templates/user/editurl.tpl:1
+msgid "Banners"
+msgstr "Banners"
+
+#. !used in URL - nospaces, no special chars, lcase
+#: lib/Banners/Version.php:18 lib/Banners/Block/Banners.php:32
+msgid "banners"
+msgstr "banners"
+
+#: lib/Banners/Version.php:19
+msgid "Banners Management"
+msgstr "Bannerverwaltung"
+
+#: lib/Banners/Block/Banners.php:34
+msgid "Random Banner Display (single image)"
+msgstr "Zufällige Banneranzeige (Einzelbild)"
+
+#: lib/Banners/Block/Bannersprotofade.php:32
+msgid "Protofade"
+msgstr "Protofade"
+
+#: lib/Banners/Block/Bannersprotofade.php:34
+msgid "Protofade Banner Display (multiple images)"
+msgstr "Protofade Banneranzeige (mehrere Bilder)"
+
+#: lib/Banners/Block/Bannersrotate.php:32
+msgid "Rotating"
+msgstr "Rotierend"
+
+#: lib/Banners/Block/Bannersrotate.php:34
+msgid "Rotating Banner Display (multiple images)"
+msgstr "Rotierende Banneranzeige (mehrere Bilder)"
+
+#: templates/admin/new.tpl:4
+msgid "Add banner"
+msgstr "Banner hinzufügen"
+
+#: templates/admin/new.tpl:9 templates/admin/clientnew.tpl:9
+#: templates/admin/overview.tpl:11
+msgid "Important!"
+msgstr "Wichtig!"
+
+#: templates/admin/new.tpl:10 templates/admin/clientnew.tpl:10
+#: templates/admin/overview.tpl:12
+msgid "Banner display is currently turned off."
+msgstr "Die Banneranzeige ist zur Zeit deaktiviert."
+
+#: templates/admin/new.tpl:11 templates/admin/clientnew.tpl:11
+#: templates/admin/overview.tpl:13
+msgid "To turn on banner display, please check your"
+msgstr "Um die Banneranzeige zu aktivieren, bitte folgendes kontrollieren:"
+
+#: templates/admin/new.tpl:11 templates/admin/clientnew.tpl:11
+#: templates/admin/overview.tpl:13
+msgid "settings"
+msgstr "Einstellungen"
+
+#: templates/admin/new.tpl:18 templates/admin/overview.tpl:32
+#: templates/admin/overview.tpl:85 templates/admin/banneredit.tpl:16
+#: templates/admin/bannerdelete.tpl:22 templates/email/stats_body.tpl:4
+msgid "Client Name"
+msgstr "Kundenname"
+
+#: templates/admin/new.tpl:24 templates/admin/banneredit.tpl:37
+msgid "Banner Name"
+msgstr "Bannername"
+
+#: templates/admin/new.tpl:28 templates/email/stats_body.tpl:9
+msgid "Impressions Purchased"
+msgstr "Aufrufe erworben"
+
+#: templates/admin/new.tpl:33 templates/admin/overview.tpl:33
+#: templates/admin/overview.tpl:86 templates/admin/banneredit.tpl:42
+#: templates/blocks/protofade_modify.tpl:2
+#: templates/blocks/banners_modify.tpl:2
+msgid "Banner Type"
+msgstr "Bannertyp"
+
+#: templates/admin/new.tpl:50 templates/admin/banneredit.tpl:60
+msgid "Banner is Active"
+msgstr "Der Banner ist aktiv"
+
+#: templates/admin/new.tpl:54 templates/admin/banneredit.tpl:64
+msgid "Image URL"
+msgstr "Bild URL"
+
+#: templates/admin/new.tpl:58 templates/admin/banneredit.tpl:68
+#: templates/user/editurl.tpl:9
+msgid "Click URL"
+msgstr "URL auswählen"
+
+#: templates/admin/new.tpl:62 templates/admin/banneredit.tpl:72
+msgid "Hover text"
+msgstr "Hover Text"
+
+#: templates/admin/new.tpl:66
+msgid "Add Banner"
+msgstr "Banner hinzufügen"
+
+#: templates/admin/new.tpl:67 templates/admin/clientnew.tpl:35
+#: templates/admin/banneredit.tpl:77 templates/admin/clientedit.tpl:29
+#: templates/admin/clientdelete.tpl:34 templates/admin/bannerdelete.tpl:41
+#: templates/admin/modifyconfig.tpl:33 templates/user/editurl.tpl:16
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: templates/admin/clientnew.tpl:4
+msgid "Add client"
+msgstr "Kunden hinzufügen"
+
+#: templates/admin/clientnew.tpl:18 templates/admin/clientedit.tpl:13
+msgid "Client Business Name"
+msgstr "Firmenname des Kunden"
+
+#: templates/admin/clientnew.tpl:22 templates/admin/clientedit.tpl:21
+msgid "Associate Zikula User Name"
+msgstr "Zikula Benutzername zuordnen"
+
+#: templates/admin/clientnew.tpl:26 templates/admin/clientedit.tpl:17
+msgid "Client Real Name"
+msgstr "Echter Name des Kunden"
+
+#: templates/admin/clientnew.tpl:30 templates/admin/clientedit.tpl:24
+msgid "Extra Information"
+msgstr "Weitere Informationen"
+
+#: templates/admin/clientnew.tpl:34
+msgid "Add Client"
+msgstr "Kunden hinzufügen"
+
+#: templates/admin/overview.tpl:5
+msgid "Banner overview"
+msgstr "Bannerübersicht"
+
+#: templates/admin/overview.tpl:16
+msgid "Active Banners"
+msgstr "Aktive Banner"
+
+#: templates/admin/overview.tpl:26 templates/admin/overview.tpl:77
+msgid "Name (#ID)"
+msgstr "Name (#ID)"
+
+#: templates/admin/overview.tpl:27 templates/admin/overview.tpl:78
+#: templates/admin/banneredit.tpl:26 templates/user/client.tpl:17
+msgid "Purchased"
+msgstr "Erworben"
+
+#: templates/admin/overview.tpl:28 templates/admin/overview.tpl:79
+#: templates/user/client.tpl:18
+msgid "Made"
+msgstr "Erstellt"
+
+#: templates/admin/overview.tpl:29 templates/admin/overview.tpl:80
+#: templates/user/client.tpl:19
+msgid "Remaining"
+msgstr "Verbleibend"
+
+#: templates/admin/overview.tpl:30 templates/admin/overview.tpl:81
+#: templates/user/client.tpl:20
+msgid "Registered"
+msgstr "Registriert"
+
+#: templates/admin/overview.tpl:31 templates/admin/overview.tpl:82
+#: templates/user/client.tpl:21
+msgid "% Clicks/Imp"
+msgstr "% Clicks/Imp"
+
+#: templates/admin/overview.tpl:34 templates/admin/overview.tpl:87
+#: templates/admin/overview.tpl:131 templates/user/client.tpl:22
+msgid "Options"
+msgstr "Optionen"
+
+#: templates/admin/overview.tpl:40
+msgid "Active"
+msgstr "Aktiv"
+
+#: templates/admin/overview.tpl:47 templates/admin/overview.tpl:100
+msgid "Convert to limited"
+msgstr "Zu 'limitiert' umwandeln"
+
+#: templates/admin/overview.tpl:56 templates/admin/overview.tpl:111
+#: templates/user/client.tpl:38
+msgid "image"
+msgstr "Bild"
+
+#: templates/admin/overview.tpl:56 templates/admin/overview.tpl:111
+#: templates/user/client.tpl:38
+msgid "View Image"
+msgstr "Bild anzeigen"
+
+#: templates/admin/overview.tpl:57 templates/admin/overview.tpl:112
+msgid "edit"
+msgstr "bearbeiten"
+
+#: templates/admin/overview.tpl:57 templates/admin/overview.tpl:112
+msgid "Edit Banner"
+msgstr "Banner bearbeiten"
+
+#: templates/admin/overview.tpl:58 templates/admin/overview.tpl:113
+#: templates/admin/overview.tpl:144
+msgid "Delete"
+msgstr "Löschen"
+
+#: templates/admin/overview.tpl:58 templates/admin/overview.tpl:113
+#: templates/admin/bannerdelete.tpl:40
+msgid "Delete Banner"
+msgstr "Banner löschen"
+
+#: templates/admin/overview.tpl:62
+msgid "No Active Banners Found"
+msgstr "Keine aktiven Banner gefunden"
+
+#: templates/admin/overview.tpl:67
+msgid "Inactive Banners"
+msgstr "Inaktive Banner"
+
+#: templates/admin/overview.tpl:93
+msgid "Inactive"
+msgstr "Inaktiv"
+
+#: templates/admin/overview.tpl:117
+msgid "No Inactive Banners Found"
+msgstr "Keine inaktiven Banner gefunden"
+
+#: templates/admin/overview.tpl:122
+msgid "Clients"
+msgstr "Kunden"
+
+#: templates/admin/overview.tpl:126
+msgid "Client Name (cid)"
+msgstr "Kundenname (cid)"
+
+#: templates/admin/overview.tpl:127
+msgid "Number of Active Banners"
+msgstr "Anzahl an aktiven Bannern"
+
+#: templates/admin/overview.tpl:128
+msgid "Zikula Username (uid)"
+msgstr "Zikula Benutzername (uid)"
+
+#: templates/admin/overview.tpl:129
+msgid "Contact Name"
+msgstr "Kontaktname"
+
+#: templates/admin/overview.tpl:130
+msgid "Contact eMail"
+msgstr "Kontakt E-Mail"
+
+#: templates/admin/overview.tpl:143
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: templates/admin/overview.tpl:148
+msgid "No Clients Found"
+msgstr "Keine Kunden gefunden"
+
+#: templates/admin/banneredit.tpl:4
+msgid "Edit banner"
+msgstr "Banner bearbeiten"
+
+#: templates/admin/banneredit.tpl:11
+#, php-format
+msgid "Edit Banner ID %s"
+msgstr "Banner mit der ID %s bearbeiten"
+
+#: templates/admin/banneredit.tpl:24
+msgid "Add more impressions"
+msgstr "Weitere Aufrufe (Impressions) hinzufügen"
+
+#: templates/admin/banneredit.tpl:27 templates/email/stats_body.tpl:10
+msgid "Impressions Made"
+msgstr "Aufrufe (Impressions) gemacht"
+
+#: templates/admin/banneredit.tpl:30
+msgid "Convert to unlimited"
+msgstr "Zu 'unlimitiert' umwandeln"
+
+#: templates/admin/banneredit.tpl:76
+msgid "Update Banner"
+msgstr "Banner aktualisieren"
+
+#: templates/admin/clientedit.tpl:4
+msgid "Edit client"
+msgstr "Kunden bearbeiten"
+
+#: templates/admin/clientedit.tpl:28
+msgid "Update Client"
+msgstr "Kunden aktualisieren"
+
+#: templates/admin/clientdelete.tpl:4
+msgid "Delete client"
+msgstr "Kunden löschen"
+
+#: templates/admin/clientdelete.tpl:7 templates/admin/clientdelete.tpl:33
+msgid "Delete Client"
+msgstr "Kunden löschen"
+
+#: templates/admin/clientdelete.tpl:15
+msgid "Warning!!!"
+msgstr "Warnung!!!"
+
+#: templates/admin/clientdelete.tpl:15
+msgid "This client has the following active banners running now"
+msgstr "Dieser Kunde hat momentan folgende aktive Banner"
+
+#: templates/admin/clientdelete.tpl:18
+msgid "This client doesn't have any banners running now."
+msgstr "Dieser Kunde hat momentan keine aktiven Banner."
+
+#: templates/admin/clientdelete.tpl:31
+msgid ""
+"You are about to delete the client and all its banners!<br />Do you really "
+"want to delete this client?"
+msgstr ""
+"Hiermit wird der Kunde und alle seine Banner gelöscht!<br /> Soll dieser "
+"Kunde wirklich gelöscht werden?"
+
+#: templates/admin/bannerdelete.tpl:4
+msgid "Delete banner"
+msgstr "Banner löschen"
+
+#: templates/admin/bannerdelete.tpl:17
+msgid "ID"
+msgstr "ID"
+
+#: templates/admin/bannerdelete.tpl:18 templates/user/client.tpl:11
+msgid "Impressions"
+msgstr "Aufrufe (Impressions)"
+
+#: templates/admin/bannerdelete.tpl:19
+msgid "Impressions Left"
+msgstr "Aufrufe (Impressions) noch verfügbar"
+
+#: templates/admin/bannerdelete.tpl:20 templates/user/client.tpl:12
+msgid "Clicks"
+msgstr "Clicks"
+
+#: templates/admin/bannerdelete.tpl:21
+msgid "% Clicks"
+msgstr "% Clicks"
+
+#: templates/admin/bannerdelete.tpl:37
+msgid "Do you really want to delete this banner?"
+msgstr "Soll dieser Banner wirklich gelöscht werden?"
+
+#: templates/admin/menu.tpl:4
+msgid "Banners Administration"
+msgstr "Banneradministration"
+
+#: templates/admin/modifyconfig.tpl:4
+msgid "Banners settings"
+msgstr "Bannereinstellungen"
+
+#: templates/admin/modifyconfig.tpl:12
+msgid "General settings"
+msgstr "Allgemeine Einstellungen"
+
+#: templates/admin/modifyconfig.tpl:14
+msgid "Display Banners"
+msgstr "Banneranzeige"
+
+#: templates/admin/modifyconfig.tpl:18
+msgid "Enable Categorization"
+msgstr "Kategorisierung aktivieren"
+
+#: templates/admin/modifyconfig.tpl:22
+msgid "Banner clicks launch new window"
+msgstr "Banner Clicks werden in einem neuen Fenster geöffnet"
+
+#: templates/admin/modifyconfig.tpl:26
+msgid "List of IPs to not count hits"
+msgstr "Liste der IPs deren Aufrufe nicht gezählt werden"
+
+#: templates/admin/modifyconfig.tpl:32
+msgid "Save"
+msgstr "Speichern"
+
+#: templates/email/stats_body.tpl:2
+#, php-format
+msgid ""
+"The following are the complete stats for your advertising investment at %s"
+msgstr ""
+"Dies sind die vollständigen Statistiken für die Werbeeinschaltung von %s"
+
+#: templates/email/stats_body.tpl:5
+msgid "Banner ID"
+msgstr "Banner ID"
+
+#: templates/email/stats_body.tpl:6
+msgid "Banner Image"
+msgstr "Bannerbild"
+
+#: templates/email/stats_body.tpl:7
+msgid "Banner Click URL"
+msgstr "Banner Click URL"
+
+#: templates/email/stats_body.tpl:11
+msgid "Impressions remaining"
+msgstr "Aufrufe (Impressions) verbleibend"
+
+#: templates/email/stats_body.tpl:12
+msgid "Banner Clicks"
+msgstr "Banner Clicks"
+
+#: templates/email/stats_body.tpl:13
+msgid "Banner Click Percentage"
+msgstr "Banner Click Prozentverteilung"
+
+#: templates/email/stats_body.tpl:15
+#, php-format
+msgid "Report Generated on %s"
+msgstr "Bericht generiert für %s"
+
+#: templates/user/nonclient.tpl:2
+msgid "Banners Module"
+msgstr "Bannermodul"
+
+#: templates/user/nonclient.tpl:4
+msgid ""
+"I'm sorry, but you are not registered with this site as a Banners client."
+msgstr ""
+"Entschuldigung, aber sie sind kein registrierter Bannerkunde auf dieser "
+"Website."
+
+#: templates/user/nonclient.tpl:5
+msgid ""
+"Please contact the site administrator for more information on becoming a "
+"client. Thank you."
+msgstr ""
+"Bitte kontaktieren Sie den Administrator, um hier Kunde zu werden. Vielen "
+"Dank."
+
+#: templates/user/editurl.tpl:2
+msgid "Edit Banner URL"
+msgstr "Banner URL bearbeiten"
+
+#: templates/user/editurl.tpl:15
+msgid "Change URL"
+msgstr "URL ändern"
+
+#: templates/user/client.tpl:3
+msgid "Banners Statistics"
+msgstr "Banner Statistiken"
+
+#: templates/user/client.tpl:4
+#, php-format
+msgid "Current banners for %s"
+msgstr "Aktuelle Banner für %s"
+
+#: templates/user/client.tpl:6
+#, php-format
+msgid "You have the following banners on %s"
+msgstr "Folgende Banner sind verfügbar auf %s"
+
+#: templates/user/client.tpl:16
+msgid "Title (#ID)"
+msgstr "Titel (#ID)"
+
+#: templates/user/client.tpl:39
+msgid "Email Stats"
+msgstr "E-Mail Statistiken"
+
+#: templates/user/client.tpl:40
+msgid "edit URL"
+msgstr "URL bearbeiten"
+
+#: templates/user/client.tpl:40
+msgid "Edit URL"
+msgstr "URL bearbeiten"
+
+#: templates/user/client.tpl:44
+msgid "No Banners Found"
+msgstr "Keine Banner gefunden"
+
+#: templates/user/client.tpl:49
+msgid "active"
+msgstr "aktiv"
+
+#: templates/user/client.tpl:49
+msgid "inactive"
+msgstr "inaktiv"
+
+#: templates/contenttype/banner_edit.tpl:2
+#: templates/blocks/rotate_modify.tpl:2
+msgid "Block Type"
+msgstr "Blocktyp"
+
+#: templates/contenttype/banner_edit.tpl:16
+#: templates/blocks/protofade_modify.tpl:18
+#: templates/blocks/banners_modify.tpl:18
+msgid "Show hovertext in JS tooltip"
+msgstr "Zeige einen Hovertext im JS Tooltip"
+
+#: templates/blocks/rotate_modify.tpl:18
+msgid "Transition speed"
+msgstr "Übergangsgeschwindigkeit"
+
+#: templates/blocks/rotate_modify.tpl:20
+msgid "NOT in seconds"
+msgstr "Nicht in Sekunden"
+
+#: templates/blocks/rotate_modify.tpl:21
+#: templates/blocks/protofade_modify.tpl:25
+msgid "Note: The display duration is set in the Category Attributes"
+msgstr ""
+"Bitte beachten: Die Anzeigedauer ist in den Kategorieattributen hinterlegt"
+
+#: templates/blocks/protofade_modify.tpl:22
+msgid "Transition duration"
+msgstr "Übergangsdauer"
+
+#: templates/blocks/protofade_modify.tpl:24
+msgid "in seconds"
+msgstr "In Sekunden"
+
+#: templates/blocks/protofade_modify.tpl:28
+msgid "Display slideshow controls"
+msgstr "Slideshow Steuerung anzeigen"
+
+#: templates/blocks/protofade_modify.tpl:32
+msgid "Autostart slideshow"
+msgstr "Die Slideshow automatisch starten"
+
+#: templates/blocks/protofade_modify.tpl:34
+msgid "recommended"
+msgstr "empfohlen"
+
+#: templates/blocks/protofade_modify.tpl:37
+msgid "Use eSquare transition"
+msgstr "Benutze eSquare Übergang"
+
+#: templates/blocks/protofade_modify.tpl:41
+msgid "Number of eSquare rows"
+msgstr "Anzahl an eSquare Zeilen"
+
+#: templates/blocks/protofade_modify.tpl:45
+msgid "Number of eSquare columns"
+msgstr "Anzahl an eSquare Reihen"
+
+#: templates/blocks/protofade_modify.tpl:49
+msgid "Color of eSquare transition background"
+msgstr "Hintergrundfarbe des eSquare Übergangs"
+
+#: templates/blocks/protofade_modify.tpl:51
+msgid "include hash symbol"
+msgstr "Hashsymbol einbinden"

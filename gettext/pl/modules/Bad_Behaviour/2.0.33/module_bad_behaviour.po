@@ -1,0 +1,208 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-26 09:53+0000\n"
+"PO-Revision-Date: 2010-01-31 13:21+0200\n"
+"Last-Translator: Jusuff <jusuff@jabster.pl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnadmin.php:100
+msgid "Done! Module configuration updated."
+msgstr "Gotowe! Konfiguracja modułu została zaktualizowana."
+
+#: pnversion.php:16
+msgid "Bad Behaviour"
+msgstr "Bad Behaviour"
+
+#. ! module url in lowercase and different to displayname
+#: pnversion.php:18
+msgid "bad_behaviour"
+msgstr "bad_behaviour"
+
+#: pnversion.php:20 pntemplates/bad_behaviour_admin_menu.htm:4
+msgid "Bad Behaviour spam detection"
+msgstr "Wykrywanie spamu przez Bad Behaviour"
+
+#: pnincludes/bad-behavior/admin.inc.php:19
+msgid "Bad Behavior"
+msgstr "Bad Behavior"
+
+#: pnincludes/bad-behavior-zikula.php:122
+#: pnincludes/bad-behavior-zikula.php:124
+#, php-format
+msgid ""
+"<a href=\"http://www.bad-behavior.ioerror.us/\">Bad Behavior</a> has blocked "
+"<strong>%s</strong> access attempts in the last 7 days."
+msgstr ""
+"<a href=\"http://www.bad-behavior.ioerror.us/\">Bad Behavior</a> zablokował "
+"<strong>%s</strong> prób dostępu w ciągu ostatnich 7 dni."
+
+#: pnadminapi.php:25 pntemplates/bad_behaviour_admin_view.htm:3
+#: pntemplates/bad_behaviour_admin_display.htm:4
+msgid "View blocked Accesses"
+msgstr "Zobacz zablokowane próby dostępu"
+
+#: pnadminapi.php:28 pntemplates/bad_behaviour_admin_modifyconfig.htm:4
+#: pntemplates/bad_behaviour_admin_modifyconfig.htm:5
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: pninit.php:31
+msgid "Error! Sorry! Table creation failed."
+msgstr "Błąd! Utworzenie tabeli nie powiodło się."
+
+#: pninit.php:37 pninit.php:62
+msgid "Error! Unable to create system init hook"
+msgstr "Błąd! Nie udało się utworzyć wtyczki systemowej."
+
+#: pninit.php:40 pninit.php:66
+msgid ""
+"BadBehaviour have been enabled, you can change this in the hook settings "
+"(Administration -> Modules -> System hooks) by deactivating the BadBehaviour "
+"systeminit hook for Zikula itself"
+msgstr ""
+"BadBehaviour został włączony. Możesz to zmienić w ustawieniach wtyczek "
+"(Administracja -> Moduły -> Wtyczki systemowe), deaktywując wtyczkę "
+"BadBehaviour dla Zikuli."
+
+#: pninit.php:84
+msgid "Unable to delete system init hook"
+msgstr "Nie udało się usunąć wtyczki systemowej."
+
+#: pntemplates/bad_behaviour_admin_intro.htm:3
+msgid "financial contribution"
+msgstr "wsparcie finansowe"
+
+#: pntemplates/bad_behaviour_admin_intro.htm:5
+msgid ""
+"For more information please visit the <a href=\"http://www.bad-behavior."
+"ioerror.us/\">Bad Behavior</a> homepage."
+msgstr ""
+"Więcej informacji znajdziesz na stronie domowej <a href=\"http://www.bad-"
+"behavior.ioerror.us/\">Bad Behavior</a>."
+
+#: pntemplates/bad_behaviour_admin_intro.htm:6
+#, php-format
+msgid ""
+"If you find Bad Behavior valuable, please consider making a <a href=\"%1$s\">"
+"%2$s</a> to further development of Bad Behavior."
+msgstr ""
+"Jeśli uważasz, że Bad Behaviour jest przydany, rozważ <a href=\"%1$s\">%2$s</"
+"a>, aby wspomóc rozwój Bad Behavior."
+
+#: pntemplates/bad_behaviour_admin_intro.htm:8
+msgid ""
+"To test Bad Behaviour is functioning correctly add the sting \"Bad Behavior "
+"Test\" as the USER_AGENT of an HTTP request. Sound complicated? Under IE "
+"this probably is.... However if using FireFox install the <a href=\"https://"
+"addons.mozilla.org/firefox/967/\">\"Modify Headers\"</a> add-on and this can "
+"be done from the GUI."
+msgstr ""
+"Aby przetestować czy Bad Behaviour funkcjonuje poprawnie dodaj tekst \"Bad "
+"Behavior Test\" do pola USER_AGENT zapytania HTTP. Brzmi skomplikowanie? Pod "
+"IE zapewne tak.... Zawsze można użyć Firefoksa, zainstalować rozszerzenie <a "
+"href=\"https://addons.mozilla.org/firefox/967/\">\"Modify Headers\"</a> i "
+"wykonać test za jego pomocą."
+
+#: pntemplates/bad_behaviour_admin_view.htm:11
+#: pntemplates/bad_behaviour_admin_display.htm:9
+msgid "IP address"
+msgstr "Adres IP"
+
+#: pntemplates/bad_behaviour_admin_view.htm:12
+#: pntemplates/bad_behaviour_admin_display.htm:13
+msgid "Date"
+msgstr "Data"
+
+#: pntemplates/bad_behaviour_admin_view.htm:13
+#: pntemplates/bad_behaviour_admin_display.htm:49
+msgid "Message returned"
+msgstr "Komunikat"
+
+#: pntemplates/bad_behaviour_admin_view.htm:14
+msgid "Options"
+msgstr "Opcje"
+
+#: pntemplates/bad_behaviour_admin_view.htm:23
+msgid "View"
+msgstr "Podgląd"
+
+#: pntemplates/bad_behaviour_admin_view.htm:26
+msgid "No items found."
+msgstr "Nie znaleziono żadnych elementów."
+
+#: pntemplates/bad_behaviour_admin_modifyconfig.htm:12
+msgid "Enable Bad Behaviour"
+msgstr "Włącz Bad Behaviour"
+
+#: pntemplates/bad_behaviour_admin_modifyconfig.htm:20
+msgid "Enable logging"
+msgstr "Włącz logowanie"
+
+#: pntemplates/bad_behaviour_admin_modifyconfig.htm:28
+msgid "Verbose HTTP request logging"
+msgstr "Pełne logowania żądań HTTP"
+
+#: pntemplates/bad_behaviour_admin_modifyconfig.htm:34
+msgid "Logs all requests not just those blocked"
+msgstr "Loguje wszystkie zapytania nie tylko te zablokowane"
+
+#: pntemplates/bad_behaviour_admin_modifyconfig.htm:37
+msgid "Strict checking"
+msgstr "Dokładne sprawdzanie"
+
+#: pntemplates/bad_behaviour_admin_modifyconfig.htm:43
+msgid "Blocks more spam but may block some people"
+msgstr "Blokuje więcej spamu ale może blokować także użytkowników"
+
+#: pntemplates/bad_behaviour_admin_modifyconfig.htm:46
+msgid "Items per page"
+msgstr "Pozycji na stronie"
+
+#: pntemplates/bad_behaviour_admin_modifyconfig.htm:52
+msgid "Update Configuration"
+msgstr "Aktualizuj Konfigurację"
+
+#: pntemplates/bad_behaviour_admin_display.htm:17
+msgid "Request Method"
+msgstr "Metoda zapytań"
+
+#: pntemplates/bad_behaviour_admin_display.htm:21
+msgid "Request URI"
+msgstr "Zapytania URI"
+
+#: pntemplates/bad_behaviour_admin_display.htm:25
+msgid "Server Protocol"
+msgstr "Protokół serwera"
+
+#: pntemplates/bad_behaviour_admin_display.htm:29
+msgid "HTTP Headers"
+msgstr "Nagłówki HTTP"
+
+#: pntemplates/bad_behaviour_admin_display.htm:33
+msgid "User Agent"
+msgstr "Klient www (User Agent)"
+
+#: pntemplates/bad_behaviour_admin_display.htm:37
+msgid "Request Entity"
+msgstr "Treść zapytania"
+
+#: pntemplates/bad_behaviour_admin_display.htm:41
+msgid "HTTP Response"
+msgstr "Odpowiedź HTTP"
+
+#: pntemplates/bad_behaviour_admin_display.htm:45
+msgid "Explanation"
+msgstr "Wyjaśnienie"

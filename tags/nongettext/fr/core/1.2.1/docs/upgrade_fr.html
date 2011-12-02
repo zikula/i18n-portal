@@ -1,0 +1,79 @@
+<!DOCTYPE html 
+     PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<title>Instructions pour la mise à jour de Zikula</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="style.css" type="text/css" media="screen"  />
+</head>
+
+<body>
+
+<p>NOTE : CE DOCUMENT CONTIENT DES INFORMATIONS IMPORTANTES CONCERNANT ZIKULA. VEUILLEZ LE LIRE ENTIEREMENT AVANT DE CONTINUER.</p>
+
+<p>Si vous n'avez pas encore installé Zikula, veuillez suivre les instructions pour une première installation qui sont disponibles sur <a href='install_fra.html'>cette page</a>.</p>
+
+<h1>Instructions de Mise à jour pour Zikula</h1>
+<p>Une documentation plus détaillée concernant l'installation est disponible dans le 
+<a href="http://communaute.zikula.fr/wiki/main/tag/Installation" title="wiki">wiki</a> sur 
+<a href="http://communaute.zikula.fr" title="Communaute Zikula">http://communaute.zikula.fr</a>. 
+Un support et de l'aide concernant <a href="install_fra.html">l'installation</a> et <a href="upgrade_fra.html">la mise à jour</a> vers Zikula est fournie sur les <a href="http://communaute.zikula.fr/forums">forums</a>. Il s'agit juste de quelques informations qui doivent s'appliquer à la majorité des hébergeurs.</p>
+
+<h2>Contenu</h2>
+<ul>
+    <li><a href="#Server">1. Pré-requis</a></li> 
+ 	<li><a href="#Upgrade120">2. Mise à jour vers Zikula 1.2.1</a></li> 
+ 	<li><a href="#Caution">3. Attention</a></li> 
+ 	<li><a href="#FinalNote">4. Note finale</a></li> 
+</ul>
+
+<h2 id="Server">1. Pré-requis</h2>
+<p><strong>Zikula peut être mis à jour vers la version 1.2.1 à partir des versions suivantes : 1.1.0, 1.1.1 or 1.1.2. Si votre installation est antérieur à ces versions, veuillez d'abord réaliser la mise à jour vers l'une de ces versions avant de continuer à suivre les insctructions.</strong></p> 
+<p>Avant de commencer la mise à jour, il existe certaines recommandations et indications que vous devriez prendre en compte afin d'installer, de faire fonctionner et de sécuriser Zikula facilement. Veuillez lire le <a href="softwarerecommendations_fra.html">document concernant les pré-requis</a>.</p>
+
+<h2 id="Upgrade120">2. Mise à jour vers Zikula 1.2.1</h2>
+<p>Respectez l'ordre des étapes indiquées ci-dessous et lisez chacune d'entre elles en détail avant de commencer. Si vous suivez à la lettre les instructions, la mise à jour devrait se faire sans aucun problème.</p>
+<ul>
+    <li><a href="#Backup120">2.1 Sauvegarde de votre base de données et de vos fichiers</a></li> 
+ 	<li><a href="#Prepare120">2.2 Préparer votre version existante</a></li> 
+ 	<li><a href="#Run120">2.3 Exécuter la mise à jour</a></li> 
+ 	<li><a href="#Clean120">2.4 Nettoyage et configuration additionnelle</a></li> 
+</ul>
+
+<h3 id="Backup120">2.1 Sauvegarde de votre base de données et de vos fichiers</h3>
+<p>Il est <strong>vital</strong> de sauvegarder votre base de données et vos fichiers avant d'exécuter la mise à jour. Il n'est pas possible de revenir en arrière après une mise à jour, dans ce cas la seule solution pour récupérer les informations en cas de problème est de restaurer les données sauvegardées. Pour sauvegarder votre base de données, essayez en utilisant un outil tel que <a href="http://www.mysqldumper.de/en/">mysqldumper</a>, <a href="http://www.phpmyadmin.org">phpMyAdmin</a> ou via SSH ou encore votre le système d'administration de votre hébergement. Des instructions complètes et des tutoriels à propos de la sauvegarde d'une base de données peuvent être trouvés en cherchant sur le web ou dans la documentation de l'outil que vous désirez utiliser.</p>
+<p style="color: red;">---&gt;Vous aurez besoin de la version original du <strong>fichier config/config.php</strong> par la suite donc ne l'écrasez pas, ne le supprimez pas et mettez le en lieu sur.&lt;---</p>
+
+<h3 id="Prepare120">2.2 Préparer votre version existante</h3>
+<ol>
+    <li>Connectez-vous à votre site Zikula avec un compte administrateur. Si vous le désirez, vous pouvez mettre votre site hors ligne durant la mise à jour en modifiant la configuration dans index.php?module=Settings&amp;type=admin.</li>
+    <li>Déplacez le module system/legal dans modules/legal. Si vous n'avez pas personnalisé le module legal vous pouvez alors tout simplement le supprimer du dossier system/.</li> 
+ 	<li>Si vous avez le module Profile dans le dossier system/, déplacez system/Profile dans modules/Profile. Si vous n'avez pas personnalisé le module Profile vous pouvez alors tout simplement le supprimer du dossier system/. Si le module Profile est déjà dans le dossier modules/ alors ignorez cette étape.</li> 
+    <li>Envoyez tous les fichiers contenu dans le pack que vous avez téléchargé, en écrasant donc les fichiers existants.</li>
+    <li>Restaurez le fichier config.php à partir de votre sauvegarde que vous avez effectuée à l'étape 2.1.</li>
+</ol>
+
+<h3 id="Run120">2.3 Exécuter la mise à jour</h3>
+<p>Exécutez le script upgrade.php et suivez les étapes indiquées. Il n'y a aucune vrai interaction en dehors du fait de cliquer sur 'suivant'. Tous les changements nécessaires dans le base de données seront fait automatiquement. A la fin, vous serez redirigé vers le panneau d'administration.</p>
+
+<h3 id="Clean120">2.4 Nettoyage et configuration additionnelle</h3>
+<p>Après une mise à jour réussie vous pouvez supprimer</p>
+<ol>
+    <li>Le répertoire install et les fichiers install.php, upgrade.php du répertoire principal de votre site.</li>
+    <li>Si vous utilisez vos propre thèmes, sachez que désormais les thèmes requierts des informations spécifiques dans leurs header qui doivent être mises à jour pour prendre en compte les balises des plugins <em>lang</em>, <em>langdirection</em> et <em>charset</em>. Veuillez vous référer au template <em>master.htm</em> de andreas08 et voodoodolly, celui-ci comprend les nouvelles modifications au format XHTML 1.0 STRICT et HTML 1.1.</li>
+</ol>
+<p>Si vous avez mis votre site hors ligne avant de faire la mise à jour (voir 2.2) vous devrez le remettre en ligne.</p>
+
+<h2 id="Caution">3. Attention</h2>
+<p>Il est important de noter qui Zikula ne supporte aucun changement dans le code du coeur ou la structure des données. Zikula v1.2.1 a été pensé de façon assez flexible afin d'éviter tout modification du coeur, mais si vous remarquez qu'il manque quelque chose que vous considérez comme important, veuillez en faire la demande sur <a href="http://code.zikula.org/core">code.zikula.org/core</a>.</p>
+
+<h2 id="Final">4. Note finale</h2>
+<p>Félicitation ! La mise à jour est terminée. Nous espérons que vous serez ravi d'utiliser la nouvelle version de Zikula. Si vous avez certaines remarques, merci de nous en faire part dans nos forums sur <a href="http://communaute.zikula.fr" title="Communauté francophone de Zikula">http://communaute.zikula.fr</a>.</p>
+
+<p>Salutations,<br />
+
+La Team Zikula</p>
+
+</body>
+</html>

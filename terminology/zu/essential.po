@@ -1,0 +1,3373 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-27 16:19+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.1.1\n"
+
+# Essential terminology list for general software localisation
+# License: GPL
+# Copyright Youssef Chahibi, Friedel Wolff 2006
+
+msgid "abort"
+msgstr ""
+
+msgid "absolute"
+msgstr ""
+
+msgid "abstract"
+msgstr ""
+
+msgid "accelerator"
+msgstr ""
+
+#, fuzzy
+msgid "accent"
+msgstr "Yamukela"
+
+#, fuzzy
+msgid "accept"
+msgstr "Yamukela"
+
+msgid "access"
+msgstr ""
+
+#, fuzzy
+msgid "accessibility"
+msgstr "Ukungena kulo"
+
+msgid "accessory"
+msgstr ""
+
+#, fuzzy
+msgid "account"
+msgstr "I-akhawunti"
+
+msgid "accuracy"
+msgstr ""
+
+msgid "acquire"
+msgstr ""
+
+#, fuzzy
+msgid "acronym"
+msgstr "Am&agama Akumelele"
+
+msgid "action"
+msgstr ""
+
+#, fuzzy
+msgid "activate"
+msgstr "Chofoza kukho"
+
+#, fuzzy
+msgid "active"
+msgstr "Chofoza kukho"
+
+#, fuzzy
+msgid "activity"
+msgstr "Chofoza kukho"
+
+msgid "adapter"
+msgstr ""
+
+msgid "add"
+msgstr ""
+
+#, fuzzy
+msgid "address"
+msgstr "Ikheli"
+
+msgid "adjust"
+msgstr ""
+
+msgid "administration"
+msgstr ""
+
+msgid "administrator"
+msgstr ""
+
+#, fuzzy
+msgid "advanced"
+msgstr "Okuthuthukile"
+
+msgid "agent"
+msgstr ""
+
+msgid "agree"
+msgstr ""
+
+msgid "agreement"
+msgstr ""
+
+msgid "alarm"
+msgstr ""
+
+#, fuzzy
+msgid "alert"
+msgstr "Qaphelisa"
+
+msgid "algorithm"
+msgstr ""
+
+msgid "alias"
+msgstr ""
+
+#"تسنن" مع الرسوميات (الخطوط وخلافه)
+msgid "aliasing"
+msgstr ""
+
+#, fuzzy
+msgid "align"
+msgstr "Qondisa"
+
+#, fuzzy
+msgid "alignment"
+msgstr "Ukuqondisa"
+
+#, fuzzy
+msgid "allow"
+msgstr "Vumela"
+
+msgid "alphanumeric"
+msgstr ""
+
+msgid "alternative"
+msgstr ""
+
+msgid "amount"
+msgstr ""
+
+msgid "analysis"
+msgstr ""
+
+#, fuzzy
+msgid "anchor"
+msgstr "Ihange"
+
+msgid "angle"
+msgstr ""
+
+msgid "animate"
+msgstr ""
+
+msgid "animation"
+msgstr ""
+
+msgid "announce"
+msgstr ""
+
+msgid "announcement"
+msgstr ""
+
+msgid "anonymous"
+msgstr ""
+
+msgid "anti-aliasing"
+msgstr ""
+
+msgid "anti virus"
+msgstr ""
+
+msgid "appear"
+msgstr ""
+
+msgid "append"
+msgstr ""
+
+#, fuzzy
+msgid "applet"
+msgstr "I-applet"
+
+#, fuzzy
+msgid "application"
+msgstr "Iwindi"
+
+#, fuzzy
+msgid "apply"
+msgstr "Faka"
+
+msgid "approval"
+msgstr ""
+
+msgid "approve"
+msgstr ""
+
+msgid "approximate"
+msgstr ""
+
+msgid "arbitrary"
+msgstr ""
+
+msgid "archive"
+msgstr ""
+
+#, fuzzy
+msgid "area"
+msgstr "Indawo"
+
+msgid "argument"
+msgstr ""
+
+msgid "arrangement"
+msgstr ""
+
+msgid "arrow"
+msgstr ""
+
+msgid "article"
+msgstr ""
+
+#, fuzzy
+msgid "ascending"
+msgstr "&Kuyenyuka"
+
+msgid "aspect"
+msgstr ""
+
+msgid "assign"
+msgstr ""
+
+#, fuzzy
+msgid "assignment"
+msgstr "Ukuqondisa"
+
+msgid "asynchronous"
+msgstr ""
+
+#, fuzzy
+msgid "attach"
+msgstr "Faka"
+
+#, fuzzy
+msgid "attachment"
+msgstr "Okufakiwe"
+
+msgid "attempt"
+msgstr ""
+
+#, fuzzy
+msgid "attribute"
+msgstr "Imfanelo"
+
+msgid "audio"
+msgstr ""
+
+msgid "authenticate"
+msgstr ""
+
+msgid "authentication"
+msgstr ""
+
+msgid "authorization"
+msgstr ""
+
+msgid "authorize"
+msgstr ""
+
+msgid "auto"
+msgstr ""
+
+#, fuzzy
+msgid "automatic"
+msgstr "Kuyazenzakalela"
+
+#, fuzzy
+msgid "availability"
+msgstr "Ubukhona"
+
+msgid "available"
+msgstr ""
+
+msgid "average"
+msgstr ""
+
+msgid "axis"
+msgstr ""
+
+msgid "backbone"
+msgstr ""
+
+msgid "back-end"
+msgstr ""
+
+#, fuzzy
+msgid "background"
+msgstr "Isimo Sokubukeka"
+
+#, fuzzy
+msgid "backup"
+msgstr "Gcina Enye Ikhophi"
+
+msgid "bandwidth"
+msgstr ""
+
+msgid "banner"
+msgstr ""
+
+msgid "bar"
+msgstr ""
+
+msgid "base"
+msgstr ""
+
+msgid "beep"
+msgstr ""
+
+msgid "begin"
+msgstr ""
+
+msgid "behavior"
+msgstr ""
+
+msgid "binary"
+msgstr ""
+
+#, fuzzy
+msgid "bind"
+msgstr "Thola"
+
+msgid "bit"
+msgstr ""
+
+msgid "bitmap"
+msgstr ""
+
+#, fuzzy
+msgid "blank"
+msgstr "Akunalutho"
+
+#, fuzzy
+msgid "blink"
+msgstr "Isixhumo"
+
+msgid "block (unit)"
+msgstr ""
+
+msgid "block (verb)"
+msgstr ""
+
+msgid "blog"
+msgstr ""
+
+msgid "blur"
+msgstr ""
+
+msgid "board"
+msgstr ""
+
+msgid "body"
+msgstr "indikimba"
+
+#, fuzzy
+msgid "bold"
+msgstr "Okugqamile"
+
+#, fuzzy
+msgid "bookmarks"
+msgstr "Izimpawu Zokubekisa"
+
+msgid "boot"
+msgstr ""
+
+msgid "border"
+msgstr ""
+
+msgid "box"
+msgstr ""
+
+msgid "bracket"
+msgstr ""
+
+msgid "branch"
+msgstr ""
+
+msgid "break"
+msgstr ""
+
+msgid "break (program)"
+msgstr ""
+
+msgid "break point"
+msgstr ""
+
+msgid "bridge (verb)"
+msgstr ""
+
+msgid "bridge (noun)"
+msgstr ""
+
+msgid "broken"
+msgstr ""
+
+#, fuzzy
+msgid "browse"
+msgstr "Bheka"
+
+#, fuzzy
+msgid "browser"
+msgstr "Bheka"
+
+msgid "buffer"
+msgstr ""
+
+msgid "bug"
+msgstr ""
+
+msgid "build"
+msgstr ""
+
+msgid "built-in"
+msgstr ""
+
+msgid "bullet"
+msgstr ""
+
+msgid "bus"
+msgstr ""
+
+#, fuzzy
+msgid "button"
+msgstr "Inkinobho"
+
+msgid "byte"
+msgstr ""
+
+#, fuzzy
+msgid "cable"
+msgstr "Itafula"
+
+#, fuzzy
+msgid "cache"
+msgstr "Inqolobane"
+
+msgid "calculate"
+msgstr ""
+
+msgid "calculator"
+msgstr ""
+
+#, fuzzy
+msgid "calendar"
+msgstr "&Ikhalenda"
+
+#, fuzzy
+msgid "call"
+msgstr "Isikhala"
+
+msgid "camera"
+msgstr ""
+
+#, fuzzy
+msgid "cancel"
+msgstr "Khansela"
+
+msgid "capability"
+msgstr ""
+
+msgid "capacity"
+msgstr ""
+
+#, fuzzy
+msgid "caption"
+msgstr "Isihloko:"
+
+msgid "capture"
+msgstr ""
+
+#, fuzzy
+msgid "card"
+msgstr "Kuqinile"
+
+msgid "case"
+msgstr ""
+
+msgid "case (font)"
+msgstr ""
+
+msgid "catalog"
+msgstr ""
+
+#, fuzzy
+msgid "category"
+msgstr "Iqembu"
+
+#, fuzzy
+msgid "cell"
+msgstr "Isikhala"
+
+#, fuzzy
+msgid "certificate"
+msgstr "Isitifiketi"
+
+msgid "certify"
+msgstr ""
+
+msgid "change"
+msgstr ""
+
+msgid "channel"
+msgstr ""
+
+#, fuzzy
+msgid "character"
+msgstr "kwezinhlamvu"
+
+msgid "charset"
+msgstr ""
+
+msgid "chart"
+msgstr ""
+
+msgid "chat"
+msgstr ""
+
+msgid "check"
+msgstr "hlola"
+
+#, fuzzy
+msgid "check box"
+msgstr "Faka Uqhwishi Ebhokisini"
+
+msgid "child"
+msgstr ""
+
+msgid "choice"
+msgstr ""
+
+#, fuzzy
+msgid "choose"
+msgstr "Khetha"
+
+msgid "class"
+msgstr ""
+
+msgid "classic"
+msgstr ""
+
+msgid "classify"
+msgstr ""
+
+#, fuzzy
+msgid "clean"
+msgstr "Sula"
+
+#, fuzzy
+msgid "clear"
+msgstr "Sula"
+
+msgid "click (noun)"
+msgstr ""
+
+msgid "click (verb)"
+msgstr ""
+
+#, fuzzy
+msgid "client"
+msgstr "Umthengi"
+
+msgid "clip art"
+msgstr ""
+
+msgid "clip board"
+msgstr ""
+
+#, fuzzy
+msgid "clock"
+msgstr "Vimbela"
+
+#, fuzzy
+msgid "close"
+msgstr "Vala"
+
+msgid "code (program)"
+msgstr ""
+
+msgid "code (symbol)"
+msgstr ""
+
+msgid "codec"
+msgstr ""
+
+#, fuzzy
+msgid "collapse"
+msgstr "Cishile"
+
+msgid "collect"
+msgstr ""
+
+#, fuzzy
+msgid "column"
+msgstr "Ikhalamu"
+
+msgid "combination"
+msgstr ""
+
+#, fuzzy
+msgid "comma"
+msgstr "Ukhefana"
+
+msgid "command"
+msgstr ""
+
+msgid "comment"
+msgstr ""
+
+msgid "common"
+msgstr ""
+
+msgid "communication"
+msgstr ""
+
+msgid "compact"
+msgstr ""
+
+msgid "compare"
+msgstr ""
+
+msgid "compatibility"
+msgstr ""
+
+msgid "compatible"
+msgstr ""
+
+#تحويل الشفرة المصرية إلى ملفات ثنائية (برمجة
+msgid "compilation"
+msgstr ""
+
+msgid "compile"
+msgstr ""
+
+msgid "compiler"
+msgstr ""
+
+msgid "complete"
+msgstr ""
+
+msgid "component"
+msgstr ""
+
+#, fuzzy
+msgid "compose"
+msgstr "Sungula"
+
+#, fuzzy
+msgid "composition"
+msgstr "Ukuhlelwa ngononina"
+
+msgid "compress"
+msgstr ""
+
+msgid "compression"
+msgstr ""
+
+msgid "computer"
+msgstr ""
+
+msgid "computing"
+msgstr ""
+
+msgid "concatenate"
+msgstr ""
+
+msgid "concurrent"
+msgstr ""
+
+msgid "condense"
+msgstr ""
+
+msgid "condition"
+msgstr ""
+
+msgid "configuration"
+msgstr ""
+
+msgid "configure"
+msgstr ""
+
+#, fuzzy
+msgid "confirm"
+msgstr "Qinisekisa"
+
+#, fuzzy
+msgid "confirmation"
+msgstr "Ukwaziswa:"
+
+msgid "conflict"
+msgstr ""
+
+msgid "connect"
+msgstr ""
+
+#, fuzzy
+msgid "connection"
+msgstr "Ukuxhuma"
+
+msgid "console"
+msgstr ""
+
+msgid "contact (noun)"
+msgstr ""
+
+msgid "contact (verb)"
+msgstr ""
+
+#, fuzzy
+msgid "content"
+msgstr "Okuqukethwe"
+
+#, fuzzy
+msgid "context"
+msgstr "Okuqukethwe"
+
+#, fuzzy
+msgid "continue"
+msgstr "Qhubeka"
+
+#, fuzzy
+msgid "contrast"
+msgstr "Umehluko Wesithombe"
+
+#, fuzzy
+msgid "contributor"
+msgstr "ngabanikeleli bayo"
+
+#, fuzzy
+msgid "control"
+msgstr "Control"
+
+msgid "conversion"
+msgstr ""
+
+msgid "convert"
+msgstr ""
+
+msgid "cookie"
+msgstr ""
+
+msgid "cooperative"
+msgstr ""
+
+msgid "coordinate"
+msgstr ""
+
+msgid "copy (noun)"
+msgstr ""
+
+msgid "copy (verb)"
+msgstr ""
+
+msgid "copy left"
+msgstr ""
+
+#, fuzzy
+msgid "copy right"
+msgstr "Amalungelo okukhipha"
+
+msgid "correct"
+msgstr ""
+
+msgid "correspondence"
+msgstr ""
+
+msgid "correspondent"
+msgstr ""
+
+msgid "corrupt"
+msgstr ""
+
+#, fuzzy
+msgid "count"
+msgstr "Bala"
+
+msgid "countable"
+msgstr ""
+
+#, fuzzy
+msgid "crash"
+msgstr "Okungenamsebenzi"
+
+msgid "create"
+msgstr ""
+
+msgid "creation"
+msgstr ""
+
+#, fuzzy
+msgid "criteria"
+msgstr "Izinga"
+
+msgid "crop"
+msgstr ""
+
+msgid "cross-platform"
+msgstr ""
+
+msgid "crypt"
+msgstr ""
+
+msgid "cryptology"
+msgstr ""
+
+msgid "current"
+msgstr ""
+
+msgid "cursor"
+msgstr ""
+
+msgid "curve"
+msgstr ""
+
+#, fuzzy
+msgid "custom"
+msgstr "&imfuneko"
+
+msgid "customization"
+msgstr ""
+
+msgid "customize"
+msgstr ""
+
+msgid "cut"
+msgstr ""
+
+msgid "cycle"
+msgstr ""
+
+msgid "daemon"
+msgstr ""
+
+msgid "damage"
+msgstr ""
+
+#, fuzzy
+msgid "data"
+msgstr "usuku"
+
+msgid "database"
+msgstr ""
+
+#, fuzzy
+msgid "debug"
+msgstr "Susa Igciwane"
+
+msgid "debugger"
+msgstr ""
+
+msgid "decimal"
+msgstr ""
+
+msgid "decode"
+msgstr ""
+
+msgid "decompress"
+msgstr ""
+
+#, fuzzy
+msgid "decrease"
+msgstr "&Nciphisa"
+
+msgid "decrypt"
+msgstr ""
+
+#, fuzzy
+msgid "decryption"
+msgstr "incazelo"
+
+msgid "default"
+msgstr "okwakhona"
+
+msgid "defect"
+msgstr ""
+
+msgid "define"
+msgstr ""
+
+#, fuzzy
+msgid "definition"
+msgstr "Incazelo"
+
+msgid "degree"
+msgstr ""
+
+msgid "delay"
+msgstr ""
+
+#, fuzzy
+msgid "delete"
+msgstr "Cisha"
+
+#, fuzzy
+msgid "deletion"
+msgstr "Ukukhetha"
+
+msgid "delimiter"
+msgstr ""
+
+msgid "demo"
+msgstr ""
+
+#, fuzzy
+msgid "deny"
+msgstr "Yenqaba"
+
+msgid "dependence"
+msgstr ""
+
+msgid "dependency"
+msgstr ""
+
+msgid "depth"
+msgstr ""
+
+msgid "derived"
+msgstr ""
+
+#, fuzzy
+msgid "descending"
+msgstr "&Kuyehla"
+
+msgid "description"
+msgstr "incazelo"
+
+#, fuzzy
+msgid "deselect"
+msgstr "Khetha"
+
+msgid "design"
+msgstr ""
+
+#, fuzzy
+msgid "desktop"
+msgstr "Okukuskrini"
+
+#, fuzzy
+msgid "destination"
+msgstr "&Indawo yokufinyelela:"
+
+msgid "destroy"
+msgstr ""
+
+msgid "detach"
+msgstr ""
+
+msgid "detect"
+msgstr ""
+
+msgid "develop"
+msgstr ""
+
+msgid "development"
+msgstr ""
+
+msgid "developer"
+msgstr ""
+
+msgid "device"
+msgstr ""
+
+msgid "diagram"
+msgstr ""
+
+msgid "dial"
+msgstr ""
+
+msgid "dialog"
+msgstr ""
+
+msgid "dialup"
+msgstr ""
+
+msgid "difference"
+msgstr ""
+
+msgid "digit"
+msgstr ""
+
+msgid "digital"
+msgstr ""
+
+#, fuzzy
+msgid "dimension"
+msgstr "Ubungako"
+
+#, fuzzy
+msgid "directory"
+msgstr "Uhlu Lwamakheli"
+
+#, fuzzy
+msgid "disable"
+msgstr "Kwenziwe kwangasebenza"
+
+msgid "disc"
+msgstr ""
+
+msgid "discard"
+msgstr ""
+
+msgid "disconnect"
+msgstr ""
+
+msgid "discussion"
+msgstr ""
+
+msgid "disk"
+msgstr ""
+
+msgid "dispatch"
+msgstr ""
+
+#, fuzzy
+msgid "display"
+msgstr "Veza"
+
+msgid "distort"
+msgstr ""
+
+#, fuzzy
+msgid "distribute"
+msgstr "Ukuhlukaniswa"
+
+#, fuzzy
+msgid "distribution"
+msgstr "Ukuhlukaniswa"
+
+#, fuzzy
+msgid "distributor"
+msgstr "Ukuhlukaniswa"
+
+msgid "dock"
+msgstr ""
+
+#, fuzzy
+msgid "document"
+msgstr "nasedokhumentini."
+
+msgid "documentation"
+msgstr ""
+
+#, fuzzy
+msgid "domain"
+msgstr "Indawo"
+
+msgid "double click"
+msgstr ""
+
+#, fuzzy
+msgid "download"
+msgstr "Thatha Ufake Ukwaziswa"
+
+#, fuzzy
+msgid "drag"
+msgstr "Donsa"
+
+#, fuzzy
+msgid "draw"
+msgstr "Donsa"
+
+msgid "driver"
+msgstr ""
+
+msgid "dual"
+msgstr ""
+
+#, fuzzy
+msgid "dump"
+msgstr "Yeqa"
+
+#, fuzzy
+msgid "duplicate"
+msgstr "Yenza ikhophi"
+
+msgid "dynamic"
+msgstr ""
+
+msgid "echo"
+msgstr ""
+
+#, fuzzy
+msgid "edit"
+msgstr "Lungisa"
+
+msgid "edition"
+msgstr ""
+
+msgid "editor"
+msgstr ""
+
+msgid "effect"
+msgstr ""
+
+#, fuzzy
+msgid "eject"
+msgstr "Yala"
+
+msgid "electronic"
+msgstr ""
+
+msgid "element"
+msgstr ""
+
+#, fuzzy
+msgid "email"
+msgstr "I-imeyili"
+
+#, fuzzy
+msgid "embed"
+msgstr "Namathelisa"
+
+msgid "emoticon"
+msgstr ""
+
+msgid "empty"
+msgstr ""
+
+#, fuzzy
+msgid "emulate"
+msgstr "&Ithemplethi"
+
+msgid "emulation"
+msgstr ""
+
+msgid "emulator"
+msgstr ""
+
+#, fuzzy
+msgid "enable"
+msgstr "Kwenziwe kwasebenza"
+
+#, fuzzy
+msgid "enabled"
+msgstr "Kwenziwe kwasebenza"
+
+msgid "encode"
+msgstr ""
+
+#, fuzzy
+msgid "encoding"
+msgstr "Ukufaka Ikhodi"
+
+#, fuzzy
+msgid "encrypt"
+msgstr "Bhala ngokucashile"
+
+#, fuzzy
+msgid "encrypted"
+msgstr "Kubhalwe ngamakhodi:"
+
+#, fuzzy
+msgid "encryption"
+msgstr "Ukubhala Ngamakhodi"
+
+msgid "engine"
+msgstr ""
+
+msgid "enhancement"
+msgstr ""
+
+msgid "enlarge"
+msgstr ""
+
+msgid "enlargement"
+msgstr ""
+
+#, fuzzy
+msgid "enter"
+msgstr "Phakathi"
+
+msgid "entertainment"
+msgstr ""
+
+msgid "entry"
+msgstr ""
+
+msgid "environment"
+msgstr ""
+
+msgid "equalizer"
+msgstr ""
+
+msgid "erase"
+msgstr ""
+
+#, fuzzy
+msgid "error"
+msgstr "Iphutha"
+
+msgid "escape"
+msgstr ""
+
+msgid "evaluation"
+msgstr ""
+
+msgid "event"
+msgstr ""
+
+#, fuzzy
+msgid "exception"
+msgstr "Okuhlukile"
+
+msgid "executable"
+msgstr ""
+
+msgid "execute"
+msgstr ""
+
+msgid "existing"
+msgstr ""
+
+#, fuzzy
+msgid "exit"
+msgstr "Phuma"
+
+#, fuzzy
+msgid "expand"
+msgstr "Yandisa"
+
+#, fuzzy
+msgid "expansion"
+msgstr "Isithasiselo"
+
+msgid "explore"
+msgstr ""
+
+msgid "export"
+msgstr ""
+
+msgid "expression"
+msgstr ""
+
+msgid "extend"
+msgstr ""
+
+msgid "extensible"
+msgstr ""
+
+#, fuzzy
+msgid "extension"
+msgstr "Isithasiselo"
+
+msgid "external"
+msgstr ""
+
+msgid "extra"
+msgstr ""
+
+msgid "extract"
+msgstr ""
+
+#, fuzzy
+msgid "fail"
+msgstr "Iposi"
+
+# فادح: مثل خطأ فادح
+msgid "fatal"
+msgstr ""
+
+msgid "fault"
+msgstr ""
+
+#, fuzzy
+msgid "favorite"
+msgstr "Okukhonziwe"
+
+#, fuzzy
+msgid "feature"
+msgstr "Izici"
+
+msgid "feed"
+msgstr ""
+
+msgid "feedback"
+msgstr ""
+
+msgid "fetch"
+msgstr ""
+
+#, fuzzy
+msgid "field"
+msgstr "Inkundla"
+
+msgid "figure"
+msgstr ""
+
+#, fuzzy
+msgid "file"
+msgstr "I-thaile"
+
+#, fuzzy
+msgid "fill"
+msgstr "I-thaile"
+
+msgid "filter"
+msgstr ""
+
+#, fuzzy
+msgid "find"
+msgstr "Thola"
+
+msgid "firewall"
+msgstr ""
+
+msgid "firmware"
+msgstr ""
+
+msgid "fit"
+msgstr ""
+
+msgid "fix"
+msgstr ""
+
+#, fuzzy
+msgid "flag"
+msgstr "Ifulegi"
+
+msgid "flash"
+msgstr ""
+
+#, fuzzy
+msgid "flat"
+msgstr "Ifulegi"
+
+msgid "flip"
+msgstr ""
+
+msgid "float (verb)"
+msgstr ""
+
+msgid "flood"
+msgstr ""
+
+msgid "floppy"
+msgstr ""
+
+#, fuzzy
+msgid "folder"
+msgstr "Isigcini samafayela"
+
+#, fuzzy
+msgid "font"
+msgstr "Uhlobo Lombhalo"
+
+msgid "footer"
+msgstr ""
+
+#, fuzzy
+msgid "form"
+msgstr "ka-"
+
+msgid "format (noun)"
+msgstr ""
+
+msgid "format (verb)"
+msgstr ""
+
+msgid "formatted"
+msgstr ""
+
+msgid "formula"
+msgstr ""
+
+#, fuzzy
+msgid "forum"
+msgstr "ka-"
+
+msgid "fragment"
+msgstr ""
+
+msgid "frame"
+msgstr ""
+
+msgid "frame set"
+msgstr ""
+
+msgid "framework"
+msgstr ""
+
+msgid "free software"
+msgstr ""
+
+msgid "freeze"
+msgstr ""
+
+msgid "frequency"
+msgstr ""
+
+msgid "front end"
+msgstr ""
+
+msgid "function"
+msgstr ""
+
+msgid "gallery"
+msgstr ""
+
+#, fuzzy
+msgid "game"
+msgstr "Igama"
+
+msgid "gateway"
+msgstr ""
+
+msgid "generate"
+msgstr ""
+
+msgid "generation"
+msgstr ""
+
+msgid "generator"
+msgstr ""
+
+msgid "generic"
+msgstr ""
+
+msgid "geometric"
+msgstr ""
+
+msgid "geometry"
+msgstr ""
+
+msgid "grab"
+msgstr ""
+
+msgid "gradient"
+msgstr ""
+
+msgid "grain"
+msgstr ""
+
+msgid "graph"
+msgstr ""
+
+msgid "graphic"
+msgstr ""
+
+msgid "graphical"
+msgstr ""
+
+msgid "graphics"
+msgstr ""
+
+msgid "gray-scale"
+msgstr ""
+
+msgid "grid"
+msgstr ""
+
+msgid "group"
+msgstr ""
+
+msgid "guess"
+msgstr ""
+
+msgid "guest"
+msgstr ""
+
+msgid "handle (noun)"
+msgstr ""
+
+msgid "handle (verb)"
+msgstr ""
+
+msgid "handler"
+msgstr ""
+
+msgid "hardware"
+msgstr ""
+
+msgid "hash"
+msgstr ""
+
+#, fuzzy
+msgid "head"
+msgstr "Funda"
+
+#, fuzzy
+msgid "header"
+msgstr "izinhloko"
+
+msgid "height"
+msgstr ""
+
+#, fuzzy
+msgid "help"
+msgstr "Usizo"
+
+#, fuzzy
+msgid "hide"
+msgstr "Fihla"
+
+msgid "hierarchy"
+msgstr ""
+
+msgid "high light"
+msgstr ""
+
+#, fuzzy
+msgid "history"
+msgstr "Umlando"
+
+#, fuzzy
+msgid "host"
+msgstr "Posa"
+
+#, fuzzy
+msgid "hostname"
+msgstr "Igama lesiteshi sekhomputha"
+
+msgid "hyperlink"
+msgstr ""
+
+msgid "hypertext"
+msgstr ""
+
+#, fuzzy
+msgid "icon"
+msgstr "I-icon"
+
+#, fuzzy
+msgid "identify"
+msgstr "Umazisi"
+
+msgid "idle"
+msgstr ""
+
+#, fuzzy
+msgid "ignore"
+msgstr "Ziba"
+
+#, fuzzy
+msgid "image"
+msgstr "Isithombe"
+
+msgid "implement"
+msgstr ""
+
+#, fuzzy
+msgid "import"
+msgstr "Yamukela"
+
+msgid "inactive"
+msgstr ""
+
+#, fuzzy
+msgid "inbox"
+msgstr "Imiyalezo Engenayo"
+
+msgid "inch"
+msgstr ""
+
+msgid "include"
+msgstr ""
+
+#, fuzzy
+msgid "incoming"
+msgstr "Ukufaka Ikhodi"
+
+msgid "incompatible"
+msgstr ""
+
+#, fuzzy
+msgid "increase"
+msgstr "&Yandisa"
+
+msgid "increment"
+msgstr ""
+
+#, fuzzy
+msgid "indent"
+msgstr "Qhelisa"
+
+msgid "index"
+msgstr "uhlu lwezihloko"
+
+msgid "indice"
+msgstr ""
+
+msgid "infect"
+msgstr ""
+
+msgid "infinite"
+msgstr ""
+
+#, fuzzy
+msgid "information"
+msgstr "Ukwaziswa:"
+
+msgid "infrared"
+msgstr ""
+
+msgid "initial"
+msgstr ""
+
+#, fuzzy
+msgid "initialize"
+msgstr "Ayiqalisiwe"
+
+#, fuzzy
+msgid "input"
+msgstr "Faka Ukwaziswa"
+
+#, fuzzy
+msgid "insert"
+msgstr "Faka"
+
+#, fuzzy
+msgid "install"
+msgstr "Fakela"
+
+#, fuzzy
+msgid "installer"
+msgstr "Kufakeliwe"
+
+msgid "instance"
+msgstr ""
+
+msgid "instruction"
+msgstr ""
+
+msgid "integer"
+msgstr "inombolo"
+
+msgid "integral"
+msgstr ""
+
+msgid "integrate"
+msgstr ""
+
+msgid "integration"
+msgstr ""
+
+msgid "integrity"
+msgstr ""
+
+msgid "intensity"
+msgstr ""
+
+msgid "interactivity"
+msgstr ""
+
+msgid "interface"
+msgstr ""
+
+#, fuzzy
+msgid "internal"
+msgstr "I-Inthanethi"
+
+#, fuzzy
+msgid "internet"
+msgstr "I-Inthanethi"
+
+msgid "interrupt"
+msgstr ""
+
+#, fuzzy
+msgid "invalid"
+msgstr "Akusebenzi"
+
+msgid "inverse"
+msgstr ""
+
+#, fuzzy
+msgid "invert"
+msgstr "Faka"
+
+msgid "invoke"
+msgstr ""
+
+#, fuzzy
+msgid "italic"
+msgstr "Omalukeke"
+
+#, fuzzy
+msgid "item"
+msgstr "Into"
+
+msgid "iteration"
+msgstr ""
+
+msgid "jag"
+msgstr ""
+
+msgid "jam"
+msgstr ""
+
+msgid "job"
+msgstr ""
+
+msgid "join"
+msgstr ""
+
+msgid "joy stick"
+msgstr ""
+
+#, fuzzy
+msgid "jump"
+msgstr "Yeqa"
+
+#, fuzzy
+msgid "junk"
+msgstr "Umyalezo ongenanzuzo"
+
+#, fuzzy
+msgid "justify"
+msgstr "Gcwalisa Izikhala"
+
+msgid "keep"
+msgstr ""
+
+msgid "kernel"
+msgstr ""
+
+msgid "key"
+msgstr ""
+
+#, fuzzy
+msgid "keyboard"
+msgstr "igama eliyinhloko"
+
+msgid "key stroke"
+msgstr ""
+
+#, fuzzy
+msgid "key word"
+msgstr "igama eliyinhloko"
+
+#, fuzzy
+msgid "label"
+msgstr "Ilebula"
+
+#, fuzzy
+msgid "landscape"
+msgstr "Ngobubanzi"
+
+#, fuzzy
+msgid "language"
+msgstr "Ulimi"
+
+msgid "laptop"
+msgstr ""
+
+msgid "launch"
+msgstr ""
+
+#, fuzzy
+msgid "layer"
+msgstr "Ileya"
+
+msgid "layout"
+msgstr ""
+
+msgid "length"
+msgstr ""
+
+msgid "license"
+msgstr ""
+
+#, fuzzy
+msgid "line"
+msgstr "Umugqa"
+
+#, fuzzy
+msgid "link"
+msgstr "Isixhumo"
+
+#, fuzzy
+msgid "list"
+msgstr "Uhlu"
+
+#, fuzzy
+msgid "load"
+msgstr "Layisha"
+
+msgid "local"
+msgstr ""
+
+msgid "localization"
+msgstr ""
+
+msgid "location"
+msgstr "indawo"
+
+msgid "log"
+msgstr ""
+
+#, fuzzy
+msgid "lookup"
+msgstr "Funa"
+
+msgid "lower-case"
+msgstr ""
+
+msgid "machine"
+msgstr ""
+
+msgid "main board"
+msgstr ""
+
+msgid "maintainer"
+msgstr ""
+
+msgid "maintenance"
+msgstr ""
+
+#, fuzzy
+msgid "manage"
+msgstr "Lawula"
+
+msgid "management"
+msgstr ""
+
+#, fuzzy
+msgid "manager"
+msgstr "Lawula"
+
+msgid "manual"
+msgstr ""
+
+msgid "margin"
+msgstr ""
+
+#, fuzzy
+msgid "mark"
+msgstr "Phawula"
+
+msgid "master"
+msgstr ""
+
+msgid "match"
+msgstr ""
+
+#, fuzzy
+msgid "maximize"
+msgstr "Nciphisa"
+
+msgid "memory"
+msgstr ""
+
+msgid "menu"
+msgstr ""
+
+msgid "merge"
+msgstr ""
+
+#, fuzzy
+msgid "message"
+msgstr "imiyalezo"
+
+#, fuzzy
+msgid "method"
+msgstr "Indlela Yokwenza"
+
+#, fuzzy
+msgid "minimize"
+msgstr "Nciphisa"
+
+#, fuzzy
+msgid "mode"
+msgstr "Ikhodi"
+
+#, fuzzy
+msgid "modem"
+msgstr "Imodemu"
+
+msgid "moderator"
+msgstr ""
+
+msgid "modify"
+msgstr ""
+
+#, fuzzy
+msgid "module"
+msgstr "Imojuli"
+
+msgid "monitor"
+msgstr ""
+
+msgid "mosaic"
+msgstr ""
+
+msgid "motion"
+msgstr ""
+
+msgid "mouse"
+msgstr ""
+
+#, fuzzy
+msgid "move"
+msgstr "Ikhodi"
+
+msgid "multimedia"
+msgstr ""
+
+msgid "multitasking"
+msgstr ""
+
+msgid "name"
+msgstr "igama"
+
+#, fuzzy
+msgid "navigation"
+msgstr "Navigator"
+
+#, fuzzy
+msgid "navigator"
+msgstr "Navigator"
+
+msgid "network"
+msgstr ""
+
+msgid "news group"
+msgstr ""
+
+#, fuzzy
+msgid "next"
+msgstr "Umbhalo"
+
+#, fuzzy
+msgid "nick name"
+msgstr "Isiteketiso"
+
+msgid "no"
+msgstr ""
+
+#, fuzzy
+msgid "node"
+msgstr "akukho"
+
+#, fuzzy
+msgid "notation"
+msgstr "Indawo"
+
+#, fuzzy
+msgid "note"
+msgstr "akukho"
+
+msgid "notebook"
+msgstr ""
+
+#, fuzzy
+msgid "notification"
+msgstr "Izaziso"
+
+msgid "notify"
+msgstr ""
+
+# في الرياضيات "صفر"
+# الصفة "منعدم"
+msgid "null"
+msgstr ""
+
+msgid "number"
+msgstr ""
+
+msgid "numbering"
+msgstr ""
+
+#, fuzzy
+msgid "object"
+msgstr "Okuhloswe Ukwenziwa"
+
+msgid "occurrence"
+msgstr ""
+
+msgid "octet"
+msgstr ""
+
+#, fuzzy
+msgid "offline"
+msgstr "Ngaphandle Kwe-Inthanethi"
+
+msgid "OK"
+msgstr "Kulungile"
+
+msgid "online"
+msgstr ""
+
+msgid "ongoing"
+msgstr ""
+
+msgid "opacity"
+msgstr ""
+
+msgid "opaque"
+msgstr ""
+
+#, fuzzy
+msgid "open"
+msgstr "Vula"
+
+msgid "operation"
+msgstr ""
+
+#, fuzzy
+msgid "option"
+msgstr "Ukukhetha"
+
+#, fuzzy
+msgid "optional"
+msgstr "Ukukhetha"
+
+msgid "order"
+msgstr ""
+
+msgid "organize"
+msgstr ""
+
+#, fuzzy
+msgid "orientation"
+msgstr "Lapho ikhona:"
+
+msgid "original"
+msgstr ""
+
+msgid "outgoing"
+msgstr ""
+
+msgid "output"
+msgstr ""
+
+msgid "overflow"
+msgstr ""
+
+msgid "override"
+msgstr ""
+
+msgid "overwrite"
+msgstr ""
+
+msgid "owner"
+msgstr ""
+
+#, fuzzy
+msgid "pack"
+msgstr "Emuva"
+
+msgid "package"
+msgstr ""
+
+msgid "packet"
+msgstr ""
+
+#, fuzzy
+msgid "padding"
+msgstr "Ukuthofozela:"
+
+msgid "page"
+msgstr ""
+
+#, fuzzy
+msgid "paint"
+msgstr "Printa"
+
+msgid "pair"
+msgstr ""
+
+#, fuzzy
+msgid "palette"
+msgstr "Okokuxuba imibala:"
+
+msgid "panel"
+msgstr ""
+
+msgid "parallel"
+msgstr ""
+
+msgid "parameter"
+msgstr ""
+
+#, fuzzy
+msgid "parcel"
+msgstr "Iphasela"
+
+msgid "parent"
+msgstr ""
+
+msgid "parity"
+msgstr ""
+
+#, fuzzy
+msgid "parse"
+msgstr "Yima kancane"
+
+msgid "partition"
+msgstr ""
+
+msgid "pass"
+msgstr ""
+
+#, fuzzy
+msgid "password"
+msgstr "Igama Lokungena"
+
+#, fuzzy
+msgid "paste"
+msgstr "Namathisela"
+
+msgid "patch (noun)"
+msgstr ""
+
+msgid "patch (verb)"
+msgstr ""
+
+#, fuzzy
+msgid "path"
+msgstr "Indlela"
+
+msgid "pattern"
+msgstr ""
+
+#, fuzzy
+msgid "pause"
+msgstr "Yima kancane"
+
+msgid "peripheral"
+msgstr ""
+
+msgid "permanent"
+msgstr ""
+
+#, fuzzy
+msgid "permission"
+msgstr "Izimvume"
+
+msgid "permutation"
+msgstr ""
+
+#, fuzzy
+msgid "physical"
+msgstr "Kungokoqobo"
+
+msgid "picture"
+msgstr ""
+
+msgid "pipe"
+msgstr ""
+
+#, fuzzy
+msgid "pixel"
+msgstr "amachashazana akha isithombe"
+
+msgid "placement"
+msgstr ""
+
+msgid "plain"
+msgstr ""
+
+msgid "plot (verb)"
+msgstr ""
+
+msgid "plotter"
+msgstr ""
+
+msgid "plugin"
+msgstr ""
+
+msgid "pop up"
+msgstr ""
+
+#, fuzzy
+msgid "port"
+msgstr "Posa"
+
+#, fuzzy
+msgid "position"
+msgstr "Isikhundla:"
+
+#, fuzzy
+msgid "post"
+msgstr "Posa"
+
+#, fuzzy
+msgid "preferences"
+msgstr "Okuthandwayo"
+
+msgid "prepare"
+msgstr ""
+
+#, fuzzy
+msgid "presentation"
+msgstr "Lapho ikhona:"
+
+#, fuzzy
+msgid "press"
+msgstr "Cindezela"
+
+msgid "prevent"
+msgstr ""
+
+#, fuzzy
+msgid "preview"
+msgstr "Umbono"
+
+msgid "primary"
+msgstr ""
+
+msgid "principal"
+msgstr ""
+
+#, fuzzy
+msgid "print"
+msgstr "Printa"
+
+#, fuzzy
+msgid "printer"
+msgstr "Isinyathelisi"
+
+msgid "priority"
+msgstr "ukubaluleka"
+
+#, fuzzy
+msgid "privacy"
+msgstr "Okwangasese"
+
+msgid "private"
+msgstr ""
+
+msgid "privilege"
+msgstr ""
+
+msgid "procedure"
+msgstr ""
+
+msgid "process"
+msgstr ""
+
+msgid "processor"
+msgstr ""
+
+#, fuzzy
+msgid "product"
+msgstr "Umkhiqizo"
+
+msgid "profile"
+msgstr ""
+
+#, fuzzy
+msgid "program"
+msgstr "Izinhlelo zemisebenzi"
+
+msgid "programmer"
+msgstr ""
+
+msgid "project"
+msgstr ""
+
+#, fuzzy
+msgid "prompt"
+msgstr "Yenza Okuthile"
+
+#, fuzzy
+msgid "property"
+msgstr "Impahla"
+
+msgid "proprietary"
+msgstr ""
+
+msgid "protect"
+msgstr ""
+
+msgid "protection"
+msgstr ""
+
+#, !!!
+#, fuzzy
+msgid "protocol"
+msgstr "Amaphrothokholi"
+
+msgid "provide"
+msgstr ""
+
+msgid "provider"
+msgstr ""
+
+msgid "proxy"
+msgstr ""
+
+msgid "public"
+msgstr ""
+
+#, fuzzy
+msgid "publish"
+msgstr "Nyathelisa"
+
+msgid "pull"
+msgstr ""
+
+msgid "push"
+msgstr ""
+
+msgid "quality"
+msgstr ""
+
+msgid "quantity"
+msgstr ""
+
+msgid "quarantine"
+msgstr ""
+
+msgid "query"
+msgstr ""
+
+msgid "queue"
+msgstr ""
+
+#, fuzzy
+msgid "quit"
+msgstr "Yeka"
+
+#, fuzzy
+msgid "quota"
+msgstr "I-Quota"
+
+#, fuzzy
+msgid "quotation"
+msgstr "Indawo"
+
+#, fuzzy
+msgid "quote"
+msgstr "Caphuna"
+
+msgid "raise"
+msgstr ""
+
+msgid "random"
+msgstr ""
+
+msgid "range"
+msgstr ""
+
+#, fuzzy
+msgid "rate"
+msgstr "usuku"
+
+msgid "ratio"
+msgstr ""
+
+msgid "raw"
+msgstr ""
+
+msgid "ray"
+msgstr ""
+
+#, fuzzy
+msgid "read"
+msgstr "Funda"
+
+#, fuzzy
+msgid "read only"
+msgstr "Funda kuphela"
+
+#, fuzzy
+msgid "ready"
+msgstr "Isilungile"
+
+#, fuzzy
+msgid "real"
+msgstr "Funda"
+
+msgid "reboot"
+msgstr ""
+
+msgid "receipt"
+msgstr ""
+
+msgid "receive"
+msgstr ""
+
+msgid "recognition"
+msgstr ""
+
+msgid "reconnect"
+msgstr ""
+
+msgid "record"
+msgstr ""
+
+msgid "record (verb)"
+msgstr ""
+
+msgid "recover"
+msgstr ""
+
+msgid "recovery"
+msgstr ""
+
+#
+msgid "recursion"
+msgstr ""
+
+msgid "recursive"
+msgstr ""
+
+msgid "redirect"
+msgstr ""
+
+#, fuzzy
+msgid "redo"
+msgstr "Buyisela okususile"
+
+msgid "reduce"
+msgstr ""
+
+msgid "reduction"
+msgstr ""
+
+msgid "redundant"
+msgstr ""
+
+#, fuzzy
+msgid "reference"
+msgstr "Okuthandwayo"
+
+#, fuzzy
+msgid "referer"
+msgstr "Umdluliseli"
+
+msgid "referral"
+msgstr ""
+
+msgid "reflexive"
+msgstr ""
+
+#, fuzzy
+msgid "refresh"
+msgstr "&Veza Okusha"
+
+msgid "refuse"
+msgstr ""
+
+msgid "regenerate"
+msgstr ""
+
+msgid "register"
+msgstr ""
+
+msgid "registration"
+msgstr ""
+
+msgid "registry"
+msgstr ""
+
+#, fuzzy
+msgid "regular"
+msgstr "Ovamile"
+
+#, fuzzy
+msgid "regulate"
+msgstr "Ovamile"
+
+msgid "relay"
+msgstr ""
+
+msgid "release"
+msgstr ""
+
+#, fuzzy
+msgid "remaining"
+msgstr "Okusele:"
+
+msgid "remind"
+msgstr ""
+
+#, fuzzy
+msgid "remote"
+msgstr "Susa"
+
+msgid "removable"
+msgstr ""
+
+#, fuzzy
+msgid "remove"
+msgstr "Susa"
+
+msgid "rename"
+msgstr ""
+
+#, fuzzy
+msgid "render"
+msgstr "umthumeli"
+
+msgid "renew"
+msgstr ""
+
+msgid "repair"
+msgstr ""
+
+#, fuzzy
+msgid "repeat"
+msgstr "okuphindiwe"
+
+#, fuzzy
+msgid "replace"
+msgstr "Faka esikhundleni"
+
+#, fuzzy
+msgid "replicate"
+msgstr "Yenza ikhophi"
+
+#, fuzzy
+msgid "replication"
+msgstr "Iwindi"
+
+#, fuzzy
+msgid "reply"
+msgstr "Impendulo"
+
+msgid "report"
+msgstr ""
+
+msgid "repository"
+msgstr ""
+
+msgid "request"
+msgstr ""
+
+msgid "require"
+msgstr ""
+
+msgid "requirement"
+msgstr ""
+
+#, fuzzy
+msgid "reset"
+msgstr "Qalisa phansi"
+
+msgid "resize"
+msgstr ""
+
+msgid "resolution"
+msgstr ""
+
+msgid "resolver"
+msgstr ""
+
+#, fuzzy
+msgid "resource"
+msgstr "Umthombo"
+
+msgid "response"
+msgstr ""
+
+#, fuzzy
+msgid "restart"
+msgstr "Qala kabusha"
+
+#, fuzzy
+msgid "restore"
+msgstr "Buyisela"
+
+msgid "restrict"
+msgstr ""
+
+msgid "restriction"
+msgstr ""
+
+#, fuzzy
+msgid "result"
+msgstr "imiphumela"
+
+#, fuzzy
+msgid "resume"
+msgstr "Qala futhi"
+
+msgid "retrieve"
+msgstr ""
+
+msgid "retry"
+msgstr ""
+
+#, fuzzy
+msgid "return"
+msgstr "Return"
+
+msgid "reverse"
+msgstr ""
+
+#, fuzzy
+msgid "revert"
+msgstr "Buyela"
+
+msgid "revocation"
+msgstr ""
+
+msgid "revoke"
+msgstr ""
+
+msgid "root"
+msgstr ""
+
+msgid "rotate"
+msgstr ""
+
+msgid "route"
+msgstr ""
+
+msgid "router"
+msgstr ""
+
+msgid "routine"
+msgstr ""
+
+msgid "row"
+msgstr ""
+
+msgid "rule"
+msgstr ""
+
+msgid "run"
+msgstr ""
+
+msgid "runtime"
+msgstr ""
+
+#, fuzzy
+msgid "safe"
+msgstr "Gcina"
+
+msgid "sample"
+msgstr ""
+
+msgid "sans"
+msgstr ""
+
+#, fuzzy
+msgid "save"
+msgstr "Gcina"
+
+msgid "scalable"
+msgstr ""
+
+#, fuzzy
+msgid "scale"
+msgstr "Okokukala"
+
+msgid "scan"
+msgstr ""
+
+msgid "scanner"
+msgstr ""
+
+msgid "schedule"
+msgstr ""
+
+msgid "scheme"
+msgstr ""
+
+msgid "scratch"
+msgstr ""
+
+msgid "screen"
+msgstr ""
+
+msgid "screw"
+msgstr ""
+
+msgid "script"
+msgstr ""
+
+# من لف الشئ يلفه
+# فتقول:
+# لف ﻷعلى=scroll up ، وهكذا
+msgid "scroll"
+msgstr ""
+
+#, fuzzy
+msgid "search"
+msgstr "Funa"
+
+#, fuzzy
+msgid "section"
+msgstr "Iziqephu"
+
+#, fuzzy
+msgid "sector"
+msgstr "umkhethi"
+
+msgid "secure"
+msgstr ""
+
+#, fuzzy
+msgid "security"
+msgstr "Ukulondeka"
+
+msgid "seek"
+msgstr ""
+
+msgid "segment"
+msgstr ""
+
+msgid "segmentation"
+msgstr ""
+
+#, fuzzy
+msgid "select"
+msgstr "Khetha"
+
+#, fuzzy
+msgid "selection"
+msgstr "Ukukhetha"
+
+msgid "semantic"
+msgstr ""
+
+#, fuzzy
+msgid "send"
+msgstr "Thumela"
+
+msgid "sender"
+msgstr "umthumeli"
+
+msgid "sensitive"
+msgstr ""
+
+msgid "sensor"
+msgstr ""
+
+msgid "serif"
+msgstr "Iserif"
+
+#, fuzzy
+msgid "server"
+msgstr "Iseva"
+
+msgid "session"
+msgstr "isiqendu"
+
+msgid "set"
+msgstr ""
+
+#, fuzzy
+msgid "settings"
+msgstr "Ukuhlelwa"
+
+#, fuzzy
+msgid "setup"
+msgstr "Ukuhlelwa"
+
+msgid "shading"
+msgstr ""
+
+msgid "shadow"
+msgstr ""
+
+msgid "shape"
+msgstr ""
+
+msgid "share"
+msgstr ""
+
+msgid "sharp"
+msgstr ""
+
+msgid "sheet"
+msgstr ""
+
+msgid "shell"
+msgstr ""
+
+#, fuzzy
+msgid "shift"
+msgstr "Shift"
+
+msgid "shortcut"
+msgstr ""
+
+msgid "show"
+msgstr ""
+
+msgid "shrink"
+msgstr ""
+
+msgid "shut down"
+msgstr ""
+
+#, fuzzy
+msgid "side bar"
+msgstr "Ibha Esohlangothini"
+
+#, fuzzy
+msgid "sign"
+msgstr "Sayina"
+
+msgid "signal"
+msgstr ""
+
+msgid "signature"
+msgstr ""
+
+#, fuzzy
+msgid "site"
+msgstr "Ingosi"
+
+#, fuzzy
+msgid "size"
+msgstr "Ubungako"
+
+msgid "skew"
+msgstr ""
+
+msgid "skip"
+msgstr ""
+
+#, fuzzy
+msgid "slave"
+msgstr "Gcina"
+
+msgid "sleep"
+msgstr ""
+
+msgid "slide"
+msgstr ""
+
+msgid "slot"
+msgstr ""
+
+msgid "smart"
+msgstr ""
+
+msgid "smiley"
+msgstr ""
+
+msgid "smooth"
+msgstr ""
+
+msgid "socket"
+msgstr ""
+
+msgid "software"
+msgstr ""
+
+msgid "solid"
+msgstr ""
+
+msgid "sort"
+msgstr ""
+
+#, fuzzy
+msgid "source"
+msgstr "Umthombo"
+
+#, fuzzy
+msgid "space"
+msgstr "Isikhala Esingenalutho"
+
+#, fuzzy
+msgid "spacing"
+msgstr "Ukushiya Isikhala"
+
+msgid "spam"
+msgstr ""
+
+msgid "span"
+msgstr ""
+
+msgid "spawn"
+msgstr ""
+
+msgid "specify"
+msgstr ""
+
+#, fuzzy
+msgid "speed"
+msgstr "Isivinini"
+
+#, fuzzy
+msgid "spelling"
+msgstr "Ukubhalwa Kwamagama"
+
+msgid "splash"
+msgstr ""
+
+msgid "split"
+msgstr ""
+
+msgid "spool"
+msgstr ""
+
+msgid "spread sheet"
+msgstr ""
+
+msgid "stack"
+msgstr ""
+
+msgid "stand alone"
+msgstr ""
+
+#, fuzzy
+msgid "standard"
+msgstr "Okuvamile"
+
+msgid "start"
+msgstr ""
+
+#, fuzzy
+msgid "state"
+msgstr "Izwe"
+
+msgid "static"
+msgstr ""
+
+msgid "statistics"
+msgstr ""
+
+#, fuzzy
+msgid "step"
+msgstr "Misa"
+
+#, fuzzy
+msgid "stop"
+msgstr "Misa"
+
+msgid "storage"
+msgstr ""
+
+msgid "store"
+msgstr ""
+
+msgid "stream"
+msgstr ""
+
+#, fuzzy
+msgid "stretch"
+msgstr "Nweba"
+
+msgid "strict"
+msgstr ""
+
+msgid "string"
+msgstr "ukuhlelwa kwamagama"
+
+msgid "strip"
+msgstr ""
+
+msgid "stroke"
+msgstr ""
+
+msgid "structure"
+msgstr ""
+
+msgid "stub"
+msgstr ""
+
+msgid "style"
+msgstr ""
+
+msgid "sub directory"
+msgstr ""
+
+msgid "sub folder"
+msgstr ""
+
+msgid "submission"
+msgstr ""
+
+#, fuzzy
+msgid "submit"
+msgstr "Hambisa"
+
+#, fuzzy
+msgid "subscribe"
+msgstr "Bhalisela Ukuthunyelelwa"
+
+#, fuzzy
+msgid "subscription"
+msgstr "Incazelo"
+
+msgid "subtract"
+msgstr ""
+
+msgid "succeed"
+msgstr ""
+
+msgid "suggest"
+msgstr ""
+
+#, fuzzy
+msgid "suggestion"
+msgstr "Imibono:"
+
+msgid "sum (noun)"
+msgstr ""
+
+msgid "sum (verb)"
+msgstr ""
+
+#, fuzzy
+msgid "summary"
+msgstr "Amanqampunqampu"
+
+msgid "support"
+msgstr ""
+
+msgid "surface"
+msgstr ""
+
+msgid "suspend"
+msgstr ""
+
+msgid "suspicious"
+msgstr ""
+
+msgid "swap"
+msgstr ""
+
+#, fuzzy
+msgid "switch"
+msgstr "Xhuma ugesi"
+
+msgid "symbol"
+msgstr ""
+
+msgid "synchronize"
+msgstr ""
+
+msgid "syntax"
+msgstr ""
+
+#, fuzzy
+msgid "system"
+msgstr "Isistimu"
+
+msgid "tab"
+msgstr ""
+
+#, fuzzy
+msgid "table"
+msgstr "Itafula"
+
+msgid "tag"
+msgstr ""
+
+#, fuzzy
+msgid "target"
+msgstr "Okuhlosiwe"
+
+#, fuzzy
+msgid "template"
+msgstr "&Ithemplethi"
+
+msgid "temporary"
+msgstr ""
+
+msgid "terminal"
+msgstr ""
+
+#, fuzzy
+msgid "test"
+msgstr "Umbhalo"
+
+#, fuzzy
+msgid "text"
+msgstr "Umbhalo"
+
+msgid "texture"
+msgstr ""
+
+#, fuzzy
+msgid "theme"
+msgstr "Isihloko"
+
+#, fuzzy
+msgid "thread"
+msgstr "Uhide"
+
+msgid "thumbnail"
+msgstr ""
+
+msgid "tick"
+msgstr ""
+
+#, fuzzy
+msgid "tile"
+msgstr "isihloko"
+
+#, fuzzy
+msgid "time"
+msgstr "isihloko"
+
+msgid "time out"
+msgstr ""
+
+msgid "tip"
+msgstr ""
+
+msgid "title"
+msgstr "isihloko"
+
+msgid "toggle"
+msgstr ""
+
+msgid "token"
+msgstr ""
+
+#, fuzzy
+msgid "tool"
+msgstr "Yiba kahle"
+
+#, fuzzy
+msgid "tool bar"
+msgstr "Ibha yethuluzi"
+
+#, fuzzy
+msgid "tool box"
+msgstr "Ibha yethuluzi"
+
+msgid "topic"
+msgstr ""
+
+msgid "trace"
+msgstr ""
+
+msgid "track"
+msgstr ""
+
+msgid "traffic"
+msgstr ""
+
+msgid "transfer"
+msgstr ""
+
+msgid "transform"
+msgstr ""
+
+msgid "transformation"
+msgstr ""
+
+#, fuzzy
+msgid "trap"
+msgstr "Goqa"
+
+#, fuzzy
+msgid "trash"
+msgstr "Okungenamsebenzi"
+
+msgid "trigger"
+msgstr ""
+
+msgid "trouble shoot"
+msgstr ""
+
+msgid "tune"
+msgstr ""
+
+msgid "tweak"
+msgstr ""
+
+msgid "type (noun)"
+msgstr ""
+
+msgid "type (verb)"
+msgstr ""
+
+#, fuzzy
+msgid "type face"
+msgstr "Isitayela sombhalo"
+
+msgid "unavailable"
+msgstr ""
+
+#, fuzzy
+msgid "undelete"
+msgstr "Cisha"
+
+#, fuzzy
+msgid "under line"
+msgstr "Dwebela"
+
+#, fuzzy
+msgid "undo"
+msgstr "Susa Okwenzile"
+
+#, fuzzy
+msgid "uninstall"
+msgstr "Khipha okufakelwe"
+
+msgid "unit"
+msgstr ""
+
+#, fuzzy
+msgid "unknown"
+msgstr "Akwaziwa"
+
+#, fuzzy
+msgid "unload"
+msgstr "Khipha"
+
+#, fuzzy
+msgid "named"
+msgstr "igama"
+
+msgid "reachable"
+msgstr ""
+
+msgid "readable"
+msgstr ""
+
+msgid "unspecified"
+msgstr ""
+
+#, fuzzy
+msgid "unsubscribe"
+msgstr "V&ala Ukuthunyelelwa"
+
+msgid "unsupported"
+msgstr ""
+
+#, fuzzy
+msgid "update"
+msgstr "Ukufakela Okwamuva"
+
+#, fuzzy
+msgid "upgrade"
+msgstr "Ukuthuthukisa"
+
+#, fuzzy
+msgid "upload"
+msgstr "Khipha"
+
+msgid "upper case"
+msgstr ""
+
+#, fuzzy
+msgid "usage"
+msgstr "Ukusetshenziswa"
+
+msgid "user"
+msgstr "umsebenzisi"
+
+#, fuzzy
+msgid "user name"
+msgstr "Igama loyisebenzisayo:"
+
+msgid "utility"
+msgstr ""
+
+#, fuzzy
+msgid "valid"
+msgstr "Kuyasebenza"
+
+#, fuzzy
+msgid "validation"
+msgstr "Ukusebenza"
+
+#, fuzzy
+msgid "validity"
+msgstr "Ukusebenza Kwaso"
+
+#, fuzzy
+msgid "value"
+msgstr "Inani"
+
+#, fuzzy
+msgid "variable"
+msgstr "&Okushintshayo"
+
+#, fuzzy
+msgid "vector"
+msgstr "umkhethi"
+
+msgid "verbose"
+msgstr ""
+
+msgid "verify"
+msgstr ""
+
+msgid "version"
+msgstr "inguqulo"
+
+#, fuzzy
+msgid "video"
+msgstr "Ividiyo"
+
+#, fuzzy
+msgid "view"
+msgstr "Bheka"
+
+msgid "viewer"
+msgstr ""
+
+#, fuzzy
+msgid "virtual"
+msgstr "Okungekhona Okungokoqobo"
+
+msgid "virus"
+msgstr ""
+
+#, fuzzy
+msgid "visual"
+msgstr "Okubonakalayo"
+
+msgid "volume"
+msgstr ""
+
+msgid "wallpaper"
+msgstr ""
+
+msgid "warn"
+msgstr ""
+
+msgid "web"
+msgstr ""
+
+msgid "web cam"
+msgstr ""
+
+msgid "web master"
+msgstr ""
+
+msgid "web page"
+msgstr ""
+
+msgid "widget"
+msgstr ""
+
+msgid "width"
+msgstr ""
+
+msgid "wi fi"
+msgstr ""
+
+msgid "wild card"
+msgstr ""
+
+#, fuzzy
+msgid "window"
+msgstr "Iwindi"
+
+msgid "wizard"
+msgstr ""
+
+msgid "word processor"
+msgstr ""
+
+msgid "work around"
+msgstr ""
+
+msgid "work group"
+msgstr ""
+
+msgid "work station"
+msgstr ""
+
+#, fuzzy
+msgid "wrap"
+msgstr "Goqa"
+
+msgid "yes"
+msgstr ""
+
+#, fuzzy
+msgid "zone"
+msgstr "Kwenziwe"
+
+#, fuzzy
+msgid "zoom"
+msgstr "Sondeza"

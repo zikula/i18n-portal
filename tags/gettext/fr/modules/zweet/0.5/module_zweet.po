@@ -1,0 +1,269 @@
+# scribite! for Zikula.
+# Copyright (C) 2009
+# This file is distributed under the same license as the zweet package.
+# Sven Schomacker <hilope@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-30 06:26-0400\n"
+"PO-Revision-Date: 2010-04-21 21:53+0200\n"
+"Last-Translator: Gilles <gilles@pilloud.fr>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnadmin.php:67 pntwitter.php:86
+msgid ""
+"Invalid Authkey:  this probably means that you pressed the -Back- button, "
+"or that the page -authkey- expired. Please refresh the page and try again."
+msgstr ""
+"Clé d'identification invalide :  Cela signifie probablement que vous avez "
+"utilisé le bouton 'Page précédente' pour retourner vers une page qui ne "
+"supporte pas cela ou que la clé d'identification de la page a expiré suite à "
+"une inactivité prolongée. Veuillez rafraichir la page et recommencer."
+
+#: pnversion.php:18 zweet_admin_menu.htm:12 zweet_user_newtweet.htm:2
+#: zweet_admin_modifyconfig.htm:5
+msgid "Zikula Tweet Suite"
+msgstr "Système de Tweet de Zikula"
+
+#: pnadmin.php:126
+msgid "Could not connect to Twitter. Please try again."
+msgstr "Impossible de se connecter à Twitter. Merci d'essayer à nouveau."
+
+#: pnadmin.php:73
+msgid "Configuration not updated."
+msgstr "Configuration non mise à jour."
+
+#: pnadmin.php:78
+msgid "Configuration updated."
+msgstr "Configuration mise à jour."
+
+#: pnadminapi.php:2 zweet_admin_modifyconfig.htm:5
+msgid "Configuration"
+msgstr "Configuration"
+
+#: pntwitter.php:51
+msgid "Twitter access token deleted. Please re-authentificate."
+msgstr ""
+"Jeton d'authentification à Twitter supprimé. Merci de vous ré-authentifier."
+
+#: pntwitter.php:98 pnuserapi.php:84
+msgid "New Twitter status set."
+msgstr "Nouveau statut Twitter définit."
+
+#: pntwitter.php:98 pnuserapi.php:87
+msgid "Setting Twitter status not successful!"
+msgstr "La mise en place du statut Twitter a échouée !"
+
+#: pntwitter.php:135
+msgid "Twitter token too old. Please try again."
+msgstr ""
+"Le jeton d'authentification de Twitter est trop ancien. Merci d'essayer à "
+"nouveau."
+
+#: pntwitter.php:157
+msgid "Twitter authentification successful."
+msgstr "Authentification Twitter réussie."
+
+#: pntwitter.php:160
+msgid "Twitter token not generated. Please re-authentificate."
+msgstr ""
+"Le jeton d'authentification de Twitter n'est pas généré. Merci de vous "
+"authentifier à nouveau."
+
+#: pntwitterapi.php:29 pntwitterapi.php:73
+msgid "No permissions for zweet"
+msgstr "Vous n'avez pas les droits nécessaires pour accéder à zweet"
+
+#: zweet_admin_modifyconfig.htm:26 zweet_admin_setstatus.htm:14
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: zweet_admin_modifyconfig.htm:19
+msgid "Cancel"
+msgstr "Annuler"
+
+#: zweet_admin_modifyconfig.htm:18
+msgid "URL shortener service"
+msgstr "Service de raccourcissement des URL"
+
+#: zweet_admin_modifytwitter.htm:4
+msgid "Twitter Configuration"
+msgstr "Configuration de Twitter"
+
+#: zweet_admin_modifytwitter.htm:13
+msgid "Authentification okay."
+msgstr "Authentification bonne."
+
+#: zweet_admin_modifytwitter.htm:17
+msgid "Administration"
+msgstr "Administration"
+
+#: zweet_admin_modifytwitter.htm:22
+msgid "Actions"
+msgstr "Actions"
+
+#: pnadminapi.php:39
+msgid "Reset token"
+msgstr "Réinitialiser le jeton"
+
+#: zweet_admin_modifytwitter.htm:9
+msgid "Authentificate zweet:"
+msgstr "Identification zweet :"
+
+#: zweet_admin_modifytwitter.htm:9
+msgid "Connect"
+msgstr "Connection"
+
+#: zweet_admin_modifytwitter.htm:14 zweet_admin_setstatus.htm:3
+msgid "Current status:"
+msgstr "Statut actuel"
+
+#: zweet_admin_setstatus.htm:8 zweet_admin_setstatus.htm:13 pnadminapi.php:40
+msgid "Set new status"
+msgstr "Définir un nouveau statut"
+
+#: zweet_admin_setstatus.htm:8
+msgid "New status message:"
+msgstr "Nouveau message de statut :"
+
+#: zweet_admin_setstatus.htm:12
+msgid "You have "
+msgstr "Vous avez "
+
+#: zweet_admin_setstatus.htm:12
+msgid " chars left."
+msgstr " caractères restant."
+
+#: pntwitterapi.php:30
+msgid "Error connecting Twitter"
+msgstr "Erreur de connection à Twitter"
+
+#: pntwitterapi.php:94 pntwitterapi.php:142
+msgid "No method set for request."
+msgstr "Pas de méthode définie pour cette requête."
+
+#: pntwitterapi.php:97 pntwitterapi.php:145
+msgid "No parameters set for request."
+msgstr "Pas de paramètres définis pour cette requête."
+
+#: pntwitterapi.php:34
+msgid "Empty message."
+msgstr "Message vide."
+
+#: zweet_block_twittertimeline_modify:3 zweet_myprofile_tab.htm:33
+#: pncontenttypesapi/twittertweets_edit.html
+msgid "Screenname"
+msgstr "Nom de l'écran"
+
+#: zweet_block_twittertimeline_modify:8
+msgid "Entries"
+msgstr "Entrées"
+
+#: zweet_block_twitterfollowus_modify:6
+msgid "Show last status message"
+msgstr "Afficher le dernier message de statut"
+
+#: zweet_block_twitterfollowus_modify:11
+msgid "Additional Text (shown above image)"
+msgstr "Texte additionnel (afficher en dessus de l'image)"
+
+#: zweet_block_twitterfollowus_modify:16
+msgid "Image"
+msgstr "Image"
+
+#: zweet_myprofile_tab.htm:6 zweet_myprofile_tab.htm:9
+#: pncontenttypesapi/twittertweets.php:59
+msgid "Show Tweets"
+msgstr "Afficher les Tweets"
+
+#: zweet_myprofile_tab.htm:8
+msgid "from"
+msgstr "de"
+
+#: zweet_myprofile_tab.htm:6
+msgid "Edit Twitter account"
+msgstr "Modifier le compte twitter"
+
+#: zweet_block_twitterfollowus.htm:14
+msgid "View Profile"
+msgstr "Voir le profil"
+
+#: zweet_twitter_viewaccount.htm:8 zweet_block_twitterfollowus.htm:12
+msgid "Follow on Twitter"
+msgstr "Suivre sur twitter"
+
+#: zweet_twitter_viewaccount.htm:9
+msgid "Description:"
+msgstr "Description :"
+
+#: zweet_twitter_viewaccount.htm:10
+msgid "Location:"
+msgstr "Lieu :"
+
+#: zweet_twitter_viewaccount.htm:11
+msgid "URL:"
+msgstr "URL :"
+
+#: zweet_twitter_viewaccount.htm:27
+msgid "Friends:"
+msgstr "Amis :"
+
+#: zweet_twitter_viewaccount.htm:31
+msgid "Friends shown"
+msgstr "Amis affichés"
+
+#: zweet_twitter_viewaccount.htm:36
+msgid "Followers:"
+msgstr "Suiveurs :"
+
+#: zweet_twitter_viewaccount.htm:40
+msgid "Followers shown"
+msgstr "Suiveurs affichés :"
+
+#: zweet_twitter_viewaccount.htm:40
+#: contenttype/twittertweets_view:16
+msgid "No twitter account or tweets available for this user."
+msgstr "Pas de compte twitter ou de tweets disponible pour cet utilisateur."
+
+#: zweet_twitter_viewaccount.htm:40
+msgid "Please login to see content of this page."
+msgstr "Merci de s'identifier pour voir le contenu de cette page."
+
+#: zweet_twitter_viewaccount.htm:40
+msgid "Followers shown"
+msgstr "Suiveurs affichés"
+
+#: zweet_twitter_viewaccount.htm:40
+msgid "Followers shown"
+msgstr ""
+
+#: pncontenttypesapi/twittertweets.php:65
+msgid "Show tweets from twitter.com"
+msgstr "Afficher les tweets depuis twitter.com"
+
+#: zweet_admin_modifyconfig.htm:9
+msgid "Set randomized caching level"
+msgstr "Définir le niveau de cache aléatoirement"
+
+#: zweet_admin_modifyconfig.htm:11
+msgid "off"
+msgstr "Désactivé"
+
+#: zweet_admin_modifyconfig.htm:12
+msgid "low"
+msgstr "bas"
+
+#: zweet_admin_modifyconfig.htm:13
+msgid "medium"
+msgstr "moyen"
+
+#: zweet_admin_modifyconfig.htm:14
+msgid "high"
+msgstr "haut"

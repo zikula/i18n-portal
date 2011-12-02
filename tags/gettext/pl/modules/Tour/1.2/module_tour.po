@@ -1,0 +1,100 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tour 1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-29 17:20-0400\n"
+"PO-Revision-Date: 2009-11-15 23:10+0100\n"
+"Last-Translator: Paweł Preneta aka Jusuff <jusuff@jabster.pl>\n"
+"Language-Team: Polish Zikula Team <zikula@zikula.pl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Translate Toolkit 1.4.0\n"
+
+#: pnuserapi.php:36
+msgid "Start"
+msgstr "Początek"
+
+#: pnuserapi.php:37
+msgid "Themes"
+msgstr "Motywy"
+
+#: pnuserapi.php:38
+msgid "Modules"
+msgstr "Moduły"
+
+#: pnuserapi.php:39
+msgid "Blocks"
+msgstr "Moduły"
+
+#: pnuserapi.php:63
+#, php-format
+msgid "Unknown module %s in Tour_userapi_getsublinks."
+msgstr "Tour_userapi_getsublinks: nieznany moduł %s."
+
+#: pnuserapi.php:72
+#, php-format
+msgid "Unknown theme %s in Tour_userapi_getsublinks."
+msgstr "Tour_userapi_getsublinks: nieznany motyw %s."
+
+#: pnuserapi.php:93
+#, php-format
+msgid "Page %s"
+msgstr "Strona %s"
+
+#: pnuser.php:97
+#, php-format
+msgid "Unknown module %s in Tour_user_exttour."
+msgstr "Tour_userapi_exttour: nieznany moduł %s."
+
+#: pnuser.php:106
+#, php-format
+msgid "Unknown theme %s in Tour_user_exttour."
+msgstr "Tour_userapi_exttour: nieznany motyw %s."
+
+#: pnuser.php:128
+msgid "Tour file does not exist!"
+msgstr "Plik przewodnika nie istnieje!"
+
+#: pnversion.php:16
+msgid "Tour"
+msgstr "Przewodnik"
+
+#. !module name that appears in URL
+#: pnversion.php:18
+msgid "tour"
+msgstr "tour"
+
+#: pnversion.php:19
+msgid "First time configuration and Zikula Tour."
+msgstr "Przewodnik po Zikuli."
+
+#: pntemplates/tour_user_menu.htm:1
+msgid "Zikula Tour"
+msgstr "Przewodnik po Zikuli"
+
+#: pntemplates/tour_user_menu.htm:4
+msgid "Tour Home"
+msgstr "Strona główna przewodnika"
+
+#: pntemplates/tour_user_menu.htm:5
+msgid "First Time Tour"
+msgstr "Dla początkujących"
+
+#: pntemplates/tour_user_menu.htm:6
+msgid "Your Distribution"
+msgstr "Twoja dystrybucja"
+
+#: pntemplates/tour_user_menu.htm:7
+msgid "New in Zikula"
+msgstr "Nowości w Zikuli"
+
+#: pntemplates/tour_user_menu.htm:8
+msgid "Extension Tours"
+msgstr "Rozszerzenia"

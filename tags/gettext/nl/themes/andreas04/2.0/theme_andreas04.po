@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Dutch Translation for andreas04 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-07 06:35-0500\n"
+"PO-Revision-Date: 2010-06-11 15:26+0200\n"
+"Last-Translator: Arjen <teb@zikula.nl>\n"
+"Language-Team: Dutch Zikula Community\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: version.php:4
+msgid "andreas04"
+msgstr "andreas04"
+
+#: version.php:8
+msgid "andreas04 OWD template"
+msgstr "andreas04 OWD template"
+
+#: templates/includes/header.htm:2 templates/includes/footer.htm:8
+msgid "Home Page"
+msgstr "Startpagina"
+
+#: templates/includes/header.htm:7
+msgid "Home"
+msgstr "Start"
+
+#: templates/includes/header.htm:8
+msgid "Pages"
+msgstr "Pagina's"
+
+#: templates/includes/header.htm:9
+msgid "News"
+msgstr "Nieuws"
+
+#: templates/includes/header.htm:10
+msgid "Forums"
+msgstr "Forums"
+
+#: templates/includes/header.htm:11 templates/includes/footer.htm:12
+msgid "Sitemap"
+msgstr "Sitemap"
+
+#: templates/includes/header.htm:12 templates/includes/footer.htm:14
+msgid "Contact"
+msgstr "Contact"
+
+#: templates/includes/footer.htm:3
+msgid "Site Info"
+msgstr "Site Info"
+
+#: templates/includes/footer.htm:6
+msgid "Back to top"
+msgstr "Naar boven"
+
+#: templates/includes/footer.htm:10
+msgid "Privacy"
+msgstr "Privacy"
+
+#: templates/includes/footer.htm:16
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: templates/includes/footer.htm:20
+msgid "design by"
+msgstr "ontwerp door"
+
+#: templates/includes/footer.htm:20
+msgid "Andreas Viklund"
+msgstr "Andreas Viklund"
+
+#: templates/includes/footer.htm:23
+msgid "XHTML"
+msgstr "XHTML"
+
+#: templates/includes/footer.htm:24
+msgid "Valid"
+msgstr "Geldig"
+
+#: templates/includes/footer.htm:24
+msgid "CSS"
+msgstr "CSS"

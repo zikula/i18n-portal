@@ -1,0 +1,23 @@
+<!--[*  $Id$  *]-->
+<!--[include file="tour_user_menu.htm"]-->
+
+<h1>Przewodniki rozszerzeń</h1>
+<p>Niektóre z zainstalowanych rozszerzeń mogą zawierać przewodniki. Jeśli w systemie jest zainstalowane rozszerzenie z przewodnikiem - zostało ono wymienione poniżej. Pozostałe rozszerzenia mogą zwierać inne formy dokumentacji. Może być to instrukcja zawarta w katalogu pndocs bądź poradnik na stronie autora danego rozszerzenia.</p>
+
+<h2>Moduły</h2>
+<ul>
+<!--[foreach from=$modpages item="mod"]-->
+<li><a href="<!--[pnmodurl modname="tour" func="exttour" ext=$mod exttype="module" page=1]-->"><!--[$mod]--></a></li>
+<!--[foreachelse]-->
+<li>Nie znaleziono żadnego przewodnika</li>
+<!--[/foreach]-->
+</ul>
+
+<h2>Motywy</h2>
+<ul>
+<!--[foreach from=$themepages item="theme"]-->
+<li><a href="<!--[pnmodurl modname="tour" func="exttour" ext=$theme exttype="theme" page=1]-->"><!--[$theme]--></a></li>
+<!--[foreachelse]-->
+<li>Nie znaleziono żadnego przewodnika</li>
+<!--[/foreach]-->
+</ul>

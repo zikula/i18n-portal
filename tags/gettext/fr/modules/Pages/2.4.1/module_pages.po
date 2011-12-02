@@ -1,0 +1,407 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Traduction du module Pages 2.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-23 16:31+0000\n"
+"PO-Revision-Date: 2010-04-24 13:48+0200\n"
+"Last-Translator: Gilles <gilles@pilloud.fr>\n"
+"Language-Team: Zikula France <zkfrance@zikula.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Country: FRANCE\n"
+
+#: pnadmin.php:55 pnadmin.php:144 pnadmin.php:316 pnuserapi.php:50
+#: pnuserapi.php:172 pnuser.php:34 pnuser.php:97 pnuser.php:288
+#, php-format
+msgid "Error! Unable to load class [%s]"
+msgstr "Erreur ! Impossible de charger la classe [%s]"
+
+#: pnadmin.php:93
+msgid "Done! Page created."
+msgstr "Terminé ! Page créée."
+
+#: pnadmin.php:125 pnadmin.php:237 pnuser.php:271 pnuser.php:303
+#: pnuser.php:311 pnadminapi.php:107 pnadminapi.php:152
+msgid "No such page found."
+msgstr "Aucune page de ce type n'a été trouvée."
+
+#: pnadmin.php:196
+msgid "Done! Page updated."
+msgstr "Terminé ! Page modifiée."
+
+#: pnadmin.php:268
+msgid "Done! Page deleted."
+msgstr "Terminé ! Page supprimée."
+
+#: pnadmin.php:299
+msgid "Purging of the pemalinks was successful"
+msgstr "L'épuration des liens permanents a réussi"
+
+#: pnadmin.php:301
+msgid "Purging of the pemalinks has failed"
+msgstr "L'épuration des liens permanents a échoué"
+
+#: pnadmin.php:360
+msgid "View"
+msgstr "Afficher"
+
+#: pnadmin.php:365 pntemplates/pages_user_display.htm:45
+msgid "Edit"
+msgstr "Modifier"
+
+#: pnadmin.php:370
+msgid "Delete"
+msgstr "Supprimer"
+
+#: pnadmin.php:486
+msgid "Done! Module configuration updated."
+msgstr "Terminé ! Configuration de module mise à jour."
+
+#: pnversion.php:16 pninit.php:289
+msgid "Static pages"
+msgstr "Pages statiques"
+
+#: pnversion.php:17
+msgid "Manager of the static pages of the site."
+msgstr "Gestionnaire des pages statiques du site."
+
+# ! nom du module affiché dans l'url - doit être en minuscule, sans caractères spéciaux, espaces, etc.
+#. ! this defines the module's url
+#: pnversion.php:20
+msgid "pages"
+msgstr "pages"
+
+#: pnsearchapi.php:101 pnsearchapi.php:132 pnuserapi.php:165
+msgid "Error! Could not load any page."
+msgstr "Erreur ! Impossible de charger la moindre page."
+
+#: pnblocks/pageslist.php:39 pntemplates/pages_user_view.htm:2
+#: pntemplates/pages_user_view.htm:33
+msgid "Pages list"
+msgstr "Liste des pages"
+
+#: pnblocks/pageslist.php:40
+msgid "Display a list of pages"
+msgstr "Afficher la liste des pages"
+
+#: pnblocks/page.php:32
+msgid "Show page"
+msgstr "Afficher une page"
+
+#: pnblocks/page.php:33
+msgid "Show a page in a block"
+msgstr "Afficher une page dans un bloc"
+
+#: pnuser.php:126
+msgid "Invalid category passed."
+msgstr "Catégorie invalide transmise."
+
+#: pnuser.php:200 pntemplates/pages_admin_view.htm:97
+msgid "No pages found."
+msgstr "Pas de page trouvée."
+
+#: pnadminapi.php:67 pnadminapi.php:198
+msgid "The permalinks retrieved from the title has to be unique!"
+msgstr ""
+"Les liens permanents générés à partir des titres doivent être uniques !"
+
+#: pnadminapi.php:69 pnadminapi.php:200
+msgid "The permalink has to be unique!"
+msgstr "Le lien permanent doit être unique !"
+
+#: pnadminapi.php:71 pnadminapi.php:202
+msgid ""
+"The permalink has been removed, please update the page with a correct and "
+"unique permalink"
+msgstr ""
+"Le lien permanent a été supprimé, veuillez mettre à jour la page en "
+"indiquant un lien permanent correcte et unique"
+
+#: pnadminapi.php:75
+msgid "Error! Creation attempt failed."
+msgstr "Erreur ! La tentative de création."
+
+#: pnadminapi.php:116
+msgid "Error! Deletion attempt failed."
+msgstr "Erreur ! La tentative de suppression a échoué."
+
+#: pnadminapi.php:206 pninit.php:83 pninit.php:94 pninit.php:100
+#: pninit.php:108 pninit.php:201
+msgid "Error! Update attempt failed."
+msgstr "Erreur ! La tentative de modification a échoué."
+
+#: pnadminapi.php:284 pntemplates/pages_admin_view.htm:3
+msgid "View pages list"
+msgstr "Afficher la liste des pages"
+
+#: pnadminapi.php:288 pntemplates/pages_admin_new.htm:3
+msgid "Create a page"
+msgstr "Créer une page"
+
+#: pnadminapi.php:292
+msgid "Purge permalinks"
+msgstr "Épurer les liens permanents"
+
+#: pnadminapi.php:294 pntemplates/pages_admin_modifyconfig.htm:7
+msgid "Settings"
+msgstr "Paramètres"
+
+#: pninit.php:41
+msgid ""
+"Warning! Could not create the default Pages category tree. If you want to "
+"use categorization for the pages, register at least one property for the "
+"module in the Category Registry."
+msgstr ""
+"Attention ! Impossible de créer la structure des catégories par défaut du "
+"module Pages. Si vous désirez utiliser la catégorisation pour les pages, "
+"enregistrez au moins une propriété pour le module dans le 'Répertoire des "
+"catégories'."
+
+#: pninit.php:288 pntemplates/pages_admin_menu.htm:6
+#: pntemplates/pages_search_options.htm:5
+msgid "Pages"
+msgstr "Pages"
+
+#: pntemplates/pages_admin_modifyconfig.htm:13
+msgid "General settings"
+msgstr "Paramètres généraux"
+
+#: pntemplates/pages_admin_modifyconfig.htm:15
+msgid "Enable categorization"
+msgstr "Activer la catégorisation"
+
+#: pntemplates/pages_admin_modifyconfig.htm:19
+msgid "Items per page"
+msgstr "Éléments par page"
+
+#: pntemplates/pages_admin_modifyconfig.htm:24
+msgid "New page defaults"
+msgstr "Paramètres par défaut d'une nouvelle page"
+
+#: pntemplates/pages_admin_modifyconfig.htm:26
+#: pntemplates/pages_admin_modify.htm:64 pntemplates/pages_admin_new.htm:56
+msgid "Display additional information"
+msgstr "Afficher d'avantage d'informations avec les pages"
+
+#: pntemplates/pages_admin_modifyconfig.htm:30
+#: pntemplates/pages_admin_modify.htm:68 pntemplates/pages_admin_new.htm:60
+msgid "Display page title"
+msgstr "Afficher le titre de la page"
+
+#: pntemplates/pages_admin_modifyconfig.htm:34
+#: pntemplates/pages_admin_modify.htm:72 pntemplates/pages_admin_new.htm:64
+msgid "Display page creation date"
+msgstr "Afficher la date de création de la page"
+
+#: pntemplates/pages_admin_modifyconfig.htm:38
+#: pntemplates/pages_admin_modify.htm:76 pntemplates/pages_admin_new.htm:68
+msgid "Display page update date"
+msgstr "Afficher la date de dernière modification de la page"
+
+#: pntemplates/pages_admin_modifyconfig.htm:42
+#: pntemplates/pages_admin_modify.htm:80 pntemplates/pages_admin_new.htm:72
+msgid "Display page text statistics"
+msgstr "Afficher des statistiques sur le texte de la page"
+
+#: pntemplates/pages_admin_modifyconfig.htm:46
+#: pntemplates/pages_admin_modify.htm:84 pntemplates/pages_admin_new.htm:76
+msgid "Display page print link"
+msgstr "Afficher un lien vers un format imprimable de la page"
+
+#: pntemplates/pages_admin_modifyconfig.htm:51
+msgid "Permalinks settings"
+msgstr "Paramètres des liens permanents"
+
+#: pntemplates/pages_admin_modifyconfig.htm:53
+msgid "Add category title to permalink"
+msgstr "Ajouter le titre de la catégorie au lien permanent"
+
+#: pntemplates/pages_admin_modifyconfig.htm:57
+msgid "Show permalink input field"
+msgstr "Afficher le champ permettant d'indiquer le lien permanent"
+
+#: pntemplates/pages_admin_modifyconfig.htm:65
+msgid "Save"
+msgstr "Enregistrer"
+
+#: pntemplates/pages_admin_modifyconfig.htm:66
+#: pntemplates/pages_admin_modify.htm:105
+#: pntemplates/pages_admin_delete.htm:19 pntemplates/pages_admin_new.htm:86
+msgid "Cancel"
+msgstr "Annuler"
+
+#: pntemplates/pages_admin_modify.htm:3
+msgid "Update page"
+msgstr "Modification de la page"
+
+#: pntemplates/pages_admin_modify.htm:18 pntemplates/pages_admin_modify.htm:55
+#: pntemplates/pages_admin_new.htm:16 pntemplates/pages_admin_new.htm:47
+msgid "Content"
+msgstr "Contenu"
+
+#: pntemplates/pages_admin_modify.htm:20 pntemplates/pages_admin_view.htm:61
+#: pntemplates/pages_admin_new.htm:18
+msgid "Title"
+msgstr "Titre"
+
+#: pntemplates/pages_admin_modify.htm:25 pntemplates/pages_admin_new.htm:23
+msgid "PermaLink URL title"
+msgstr "Titre du lien permanent"
+
+#: pntemplates/pages_admin_modify.htm:27 pntemplates/pages_admin_new.htm:25
+msgid "(Blank = auto-generate)"
+msgstr "(Vide = généré automatiquement)"
+
+#: pntemplates/pages_admin_modify.htm:32 pntemplates/pages_admin_view.htm:18
+#: pntemplates/pages_admin_view.htm:63 pntemplates/pages_admin_new.htm:30
+msgid "Category"
+msgstr "Catégorie"
+
+#: pntemplates/pages_admin_modify.htm:33 pntemplates/pages_admin_view.htm:19
+#: pntemplates/pages_admin_new.htm:31
+msgid "Choose a category"
+msgstr "Choisissez une catégorie"
+
+#: pntemplates/pages_admin_modify.htm:50 pntemplates/pages_admin_view.htm:44
+#: pntemplates/pages_admin_view.htm:66 pntemplates/pages_admin_new.htm:42
+msgid "Language"
+msgstr "Langue"
+
+#: pntemplates/pages_admin_modify.htm:57 pntemplates/pages_admin_new.htm:49
+msgid ""
+"If you want multiple pages you can write &lt;!--pagebreak--&gt; where you "
+"want to cut."
+msgstr ""
+"Si vous désirez créer de multiples pages, vous pouvez ajouter &lt;!--"
+"pagebreak--&gt; à chaque endroit où vous désirez créer une nouvelle page."
+
+#: pntemplates/pages_admin_modify.htm:61 pntemplates/pages_admin_new.htm:53
+msgid "Specific page settings"
+msgstr "Paramètres spécifiques à cette page"
+
+#: pntemplates/pages_admin_modify.htm:90
+msgid "Meta data"
+msgstr "Donnée 'meta'"
+
+#: pntemplates/pages_admin_modify.htm:93
+#, php-format
+msgid "Created by %s"
+msgstr "Créée par %s"
+
+#: pntemplates/pages_admin_modify.htm:94
+#, php-format
+msgid "Created on %s"
+msgstr "Créée le %s"
+
+#: pntemplates/pages_admin_modify.htm:96
+#, php-format
+msgid "Last update by %s"
+msgstr "Dernière modification par %s"
+
+#: pntemplates/pages_admin_modify.htm:97
+#, php-format
+msgid "Updated on %s"
+msgstr "Modifié le %s"
+
+#: pntemplates/pages_admin_modify.htm:104
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: pntemplates/pages_admin_view.htm:50
+msgid "Filter"
+msgstr "Filtrer"
+
+#: pntemplates/pages_admin_view.htm:51
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: pntemplates/pages_admin_view.htm:60
+msgid "ID"
+msgstr "ID"
+
+#: pntemplates/pages_admin_view.htm:68
+msgid "Actions"
+msgstr "Actions"
+
+#: pntemplates/pages_admin_delete.htm:2
+msgid "Delete page"
+msgstr "Suppression de la page"
+
+#: pntemplates/pages_admin_delete.htm:10
+msgid "Do you really want to delete this page?"
+msgstr "Confirmez-vous la suppression de cette page ?"
+
+#: pntemplates/pages_admin_delete.htm:18
+msgid "Confirm deletion?"
+msgstr "Confirmez-vous la suppression ?"
+
+#: pntemplates/pages_block_pageblock_modify.htm:4
+msgid "Page ID"
+msgstr "ID de la page"
+
+#: pntemplates/pages_user_display.htm:15
+#, php-format
+msgid "Created by %1$s on %2$s"
+msgstr "Créé par %1$s le %2$s"
+
+#: pntemplates/pages_user_display.htm:19
+#, php-format
+msgid "Last update by %1$s on %2$s"
+msgstr "Dernière modification faite par %1$s le %2$s"
+
+#: pntemplates/pages_user_display.htm:22
+msgid "Categories"
+msgstr "Catégories"
+
+#: pntemplates/pages_user_display.htm:49
+#, php-format
+msgid "%s total words in this text"
+msgstr "%s mots au total dans ce texte"
+
+#: pntemplates/pages_user_display.htm:51
+#, php-format
+msgid "%s reads"
+msgstr "%s lectures"
+
+#: pntemplates/pages_user_display.htm:55
+msgid "Print page"
+msgstr "Imprimer la page"
+
+#: pntemplates/pages_user_view.htm:7 pntemplates/pages_user_main.htm:2
+msgid "Contents"
+msgstr "Contenus"
+
+#: pntemplates/pages_user_view.htm:8 pntemplates/pages_user_main.htm:8
+msgid "Available categories:"
+msgstr "Catégories existantes :"
+
+#: pntemplates/pages_user_view.htm:30
+#, php-format
+msgid "Category: %s"
+msgstr "Catégorie : %s"
+
+#: pntemplates/pages_user_view.htm:31
+msgid "Pages published under this category:"
+msgstr "Pages publiées dans cette catégorie :"
+
+#: pntemplates/pages_user_view.htm:34
+msgid "Available pages:"
+msgstr "Pages existantes :"
+
+#: pntemplates/pages_block_pageslist_modify.htm:4
+msgid "Number of pages to display"
+msgstr "Nombre de pages à afficher"
+
+#: pntemplates/pages_admin_new.htm:85
+msgid "Create"
+msgstr "Créer"

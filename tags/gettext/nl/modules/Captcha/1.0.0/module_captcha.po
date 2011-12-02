@@ -1,0 +1,88 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Dutch translation for Captcha 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-21 21:06+0000\n"
+"PO-Revision-Date: 2011-09-14 01:02+0200\n"
+"Last-Translator: Arjen <teb@zikula.nl>\n"
+"Language-Team: Dutch Zikula Community\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: lib/Captcha/HookHandlers.php:111
+msgid "Captcha values invalid (empty)."
+msgstr "Captcha waarden ongeldig (leeg)."
+
+#: lib/Captcha/Api/Admin.php:30
+msgid "Settings"
+msgstr "Instellingen"
+
+#: lib/Captcha/Controller/Admin.php:65
+msgid "Done! Updated the Captcha configuration."
+msgstr "Klaar! Captcha configuratie bijgewerkt."
+
+#: lib/Captcha/Version.php:18
+msgid "Captcha"
+msgstr "Captcha"
+
+#. !used in URL - nospaces, no special chars, lcase
+#: lib/Captcha/Version.php:19
+msgid "captcha"
+msgstr "captcha"
+
+#: lib/Captcha/Version.php:20
+msgid "Captcha hook module"
+msgstr "Captcha aanhaak module"
+
+#: lib/Captcha/Version.php:36
+msgid "Captcha Service Display"
+msgstr "Captcha Service Weergave"
+
+#: templates/admin/modifyconfig.tpl:4
+msgid "Captcha settings"
+msgstr "Captcha instellingen"
+
+#: templates/admin/modifyconfig.tpl:11
+msgid "General settings"
+msgstr "Algemene instellingen"
+
+#: templates/admin/modifyconfig.tpl:12
+#, php-format
+msgid ""
+"You must obtain public and private keys by registering an account at %s."
+msgstr ""
+"U dient publieke en privé sleutels te verkrijgen door u te registreren bij %"
+"s."
+
+#: templates/admin/modifyconfig.tpl:14
+msgid "Private reCaptcha key"
+msgstr "Private reCaptcha-sleutel"
+
+#: templates/admin/modifyconfig.tpl:18
+msgid "Public reCaptcha key"
+msgstr "Publieke reCaptcha-sleutel"
+
+#: templates/admin/modifyconfig.tpl:22
+msgid "Exempt admin from captcha requirement"
+msgstr "Admin uitsluiten van Captcha-verplichting"
+
+#: templates/admin/modifyconfig.tpl:26
+msgid "Theme"
+msgstr "Theme"
+
+#: templates/admin/modifyconfig.tpl:31
+msgid "Save"
+msgstr "Opslaan"
+
+#: templates/admin/modifyconfig.tpl:32
+msgid "Cancel"
+msgstr "Annuleren"

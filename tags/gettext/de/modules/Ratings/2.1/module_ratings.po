@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ratings 2.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-09 09:14+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carsten Volmer <carsten@zikula.org>\n"
+"Language-Team: Carsten Volmer <carsten@zikula.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Translate Toolkit 1.5.1\n"
+"X-Poedit-Language: Germany\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Country: German\n"
+
+#: pnadmin.php:73
+msgid "View"
+msgstr "Anzeigen"
+
+#: pnadmin.php:78
+msgid "Delete"
+msgstr "Löschen"
+
+#: pnadmin.php:119 pnadminapi.php:29
+msgid "No such item found."
+msgstr "Es konnte kein enstprechender Eintrag gefunden werden."
+
+#: pnadmin.php:150
+msgid "Done! Item deleted."
+msgstr "Erledigt! Eintrag wurde gelöscht."
+
+#: pnadmin.php:173
+msgid "Percentage"
+msgstr "Prozentual"
+
+#: pnadmin.php:174
+msgid "Number out of five"
+msgstr "Noten 1-5"
+
+#: pnadmin.php:175
+msgid "Stars out of five"
+msgstr "Sterne 1-5"
+
+#: pnadmin.php:176
+msgid "Number out of ten"
+msgstr "Noten 1-10"
+
+#: pnadmin.php:177
+msgid "Stars out of ten"
+msgstr "Sterne 1-10"
+
+#: pnadmin.php:178
+msgid "Low (user can vote multiple times)"
+msgstr "Niedrig (mehrfache Abstimmung möglich)"
+
+#: pnadmin.php:179
+msgid "Medium (user can vote once per session)"
+msgstr "Mittel (eine Abstimmung pro Session)"
+
+#: pnadmin.php:180
+msgid "High (user can only vote once)"
+msgstr "Hoch (eine Abstimmung pro Benutzer)"
+
+#: pnadmin.php:232
+msgid "Done! Module configuration updated."
+msgstr "Erledigt! Die Modulkonfiguration wurde aktualisiert."
+
+#: pnajax.php:31
+msgid "Sorry! No authorization to access this module."
+msgstr "Entschuldigung! Der Zugriff auf dieses Modul ist nicht möglich."
+
+#: pnversion.php:15 pntemplates/ratings_admin_menu.htm:4
+msgid "Ratings"
+msgstr "Bewertungen"
+
+#: pnversion.php:16
+msgid "Rate Zikula items."
+msgstr "Beliebige Inhalte in Zikula bewerten."
+
+#: pnversion.php:17
+msgid "ratings"
+msgstr "bewertungen"
+
+#: pnuserapi.php:31 pnuserapi.php:176 pnuserapi.php:217 pnadminapi.php:23
+msgid "Error! Could not do what you wanted. Please check your input."
+msgstr ""
+"Fehler! Die gewünschte Aktion konnte nicht ausgeführt werden. Bitte die "
+"Eingaben überprüfen."
+
+#: pnuserapi.php:138 pnuserapi.php:226
+msgid "Error! Could not load items."
+msgstr "Fehler! Die Einträge konnte nicht geladen werden."
+
+#: pnuserapi.php:236
+msgid "Error! Update attempt failed."
+msgstr "Fehler! Die Aktualisierung ist fehlgeschlagen."
+
+#: pnuser.php:22
+msgid "Sorry! This module cannot be accessed directly."
+msgstr "Entschuldigung! Das Modul kann nicht direkt aufgerufen werden."
+
+#: pnuser.php:206
+msgid "Done! Thank you for rating this item"
+msgstr "Erledigt! Danke für die Bewertung."
+
+#: pnadminapi.php:42 pnadminapi.php:45
+msgid "Error! Deletion attempt failed."
+msgstr "Fehler! Das Löschen ist fehlgeschlagen."
+
+#: pnadminapi.php:127 pntemplates/ratings_admin_view.htm:4
+#: pntemplates/ratings_admin_view.htm:5
+msgid "View all ratings"
+msgstr "Bewertungen anzeigen"
+
+#: pnadminapi.php:130 pntemplates/ratings_admin_modifyconfig.htm:2
+msgid "Settings"
+msgstr "Konfiguration"
+
+#: pninit.php:107 pninit.php:111 pninit.php:115
+msgid "Error! Could not deregister hook."
+msgstr "Fehler! Der Hook konnte nicht de-registriert werden."
+
+#: pntemplates/ratings_admin_delete.htm:3
+msgid " Delete item's rating"
+msgstr "Bewertung für diesen Eintrag löschen"
+
+#: pntemplates/ratings_admin_delete.htm:7
+msgid "Do you really want to delete the rating of this item?"
+msgstr "Soll die Bewertung wirklich gelöscht werden?"
+
+#: pntemplates/ratings_admin_delete.htm:14
+msgid "Confirmation prompt"
+msgstr "Sicherheitsabfrage"
+
+#: pntemplates/ratings_admin_delete.htm:16
+msgid "Confirm deletion?"
+msgstr "Löschen bestätigen"
+
+#: pntemplates/ratings_admin_delete.htm:17
+#: pntemplates/ratings_admin_modifyconfig.htm:40
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: pntemplates/ratings_admin_view.htm:9
+msgid "Module"
+msgstr "Modul"
+
+#: pntemplates/ratings_admin_view.htm:10
+msgid "Item ID"
+msgstr "ID"
+
+#: pntemplates/ratings_admin_view.htm:11
+msgid "Number of votes"
+msgstr "Anzahl der Stimmen"
+
+#: pntemplates/ratings_admin_view.htm:12
+#: pntemplates/ratings_user_display.htm:10
+msgid "Rating"
+msgstr "Bewertung"
+
+#: pntemplates/ratings_admin_view.htm:13
+msgid "Score"
+msgstr "Punkte"
+
+#: pntemplates/ratings_admin_view.htm:14
+msgid "Options"
+msgstr "Optionen"
+
+#: pntemplates/ratings_admin_view.htm:33
+msgid "No items found."
+msgstr "Keine Einträge gefunden."
+
+#: pntemplates/ratings_admin_modifyconfig.htm:13
+msgid "Items per page"
+msgstr "Einträge pro Seite"
+
+#: pntemplates/ratings_admin_modifyconfig.htm:17
+msgid "Default ratings style"
+msgstr "Stil der Bewertung"
+
+#: pntemplates/ratings_admin_modifyconfig.htm:23
+msgid "Use ajax based rating"
+msgstr "Ajax für die Bewertung nutzen"
+
+#: pntemplates/ratings_admin_modifyconfig.htm:27
+msgid "Use fancy voting controls (stars only)"
+msgstr "Die moderne Anzeige der Bewertung nutzen? (nur bei den Sternen"
+
+#: pntemplates/ratings_admin_modifyconfig.htm:31
+msgid "Security against rate rigging"
+msgstr "Einstellung gegen das Verfälschen der Wertung"
+
+#: pntemplates/ratings_admin_modifyconfig.htm:39
+msgid "Update Configuration"
+msgstr "Konfiguration aktualisieren"
+
+#: pntemplates/ratings_user_display.htm:13
+msgid "No one has rated this item yet - be the first!"
+msgstr "Bislang noch keine Bewertung erfolgt."
+
+#: pntemplates/ratings_user_display.htm:81
+msgid "Rate this item"
+msgstr "Eintrag bewerten"
+
+#: pntemplates/ratings_user_display.htm:108
+#: pntemplates/ratings_user_display.htm:111
+msgid "Submit"
+msgstr "Absenden"
+
+#: pntemplates/ratings_user_display.htm:121
+msgid "Recording rating"
+msgstr "Bewertung wird gespeichert"

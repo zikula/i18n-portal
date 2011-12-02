@@ -1,0 +1,251 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Dutch Translation for BadBehaviour 2.0.43\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-27 15:28+0000\n"
+"PO-Revision-Date: 2011-07-28 23:23+0200\n"
+"Last-Translator: Arjen <teb@zikula.nl>\n"
+"Language-Team: Dutch Zikula Community\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: lib/vendor/bad-behavior/bad-behavior-wordpress.php:140
+#: lib/vendor/bad-behavior/bad-behavior-wordpress-admin.php:22
+#: lib/vendor/bad-behavior/bad-behavior-wordpress-admin.php:24
+#: lib/vendor/bad-behavior/bad-behavior-generic.php:125
+msgid "Bad Behavior"
+msgstr "Bad Behaviour"
+
+#: lib/vendor/bad-behavior/bad-behavior-wordpress.php:140
+#: lib/vendor/bad-behavior/bad-behavior-generic.php:125
+msgid "has blocked"
+msgstr "heeft"
+
+#: lib/vendor/bad-behavior/bad-behavior-wordpress.php:140
+#: lib/vendor/bad-behavior/bad-behavior-generic.php:125
+msgid "access attempts in the last 7 days."
+msgstr "toegangspogingen geblokkeerd in de afgelopen 7 dagen"
+
+#: lib/BadBehavior/Api/Admin.php:28 templates/admin/view.tpl:4
+msgid "Access log"
+msgstr "Toegangs log"
+
+#: lib/BadBehavior/Api/Admin.php:35 templates/admin/modifyconfig.tpl:4
+msgid "Settings"
+msgstr "Instellingen"
+
+#: lib/BadBehavior/Controller/Admin.php:102
+msgid "Done! Updated the BadBehavior configuration."
+msgstr "BadBehaviour configuratie bijgewerkt."
+
+#: lib/BadBehavior/Version.php:27 lib/BadBehavior/Version.php:28
+msgid "BadBehavior"
+msgstr "BadBehaviour"
+
+#. ! module name that appears in URL
+#: lib/BadBehavior/Version.php:30
+msgid "badbehavior"
+msgstr "badbehaviour"
+
+#: templates/admin/display.tpl:4
+msgid "Log entry"
+msgstr "Log-regel"
+
+#: templates/admin/display.tpl:9 templates/admin/view.tpl:11
+msgid "IP address"
+msgstr "IP adres"
+
+#: templates/admin/display.tpl:13 templates/admin/view.tpl:10
+msgid "Date"
+msgstr "Datum"
+
+#: templates/admin/display.tpl:17
+msgid "Request method"
+msgstr "Request methode"
+
+#: templates/admin/display.tpl:21
+msgid "Request URI"
+msgstr "Request URI"
+
+#: templates/admin/display.tpl:25
+msgid "Server protocol"
+msgstr "Server protocol"
+
+#: templates/admin/display.tpl:29
+msgid "Http headers"
+msgstr "HTTP headers"
+
+#: templates/admin/display.tpl:33
+msgid "User agent"
+msgstr "User agent"
+
+#: templates/admin/display.tpl:37
+msgid "Request entity"
+msgstr "Request eenheid"
+
+#: templates/admin/display.tpl:41
+msgid "Key"
+msgstr "Sleutel"
+
+#: templates/admin/display.tpl:45
+msgid "Response"
+msgstr "Antwoord"
+
+#: templates/admin/display.tpl:49
+msgid "Explanation"
+msgstr "Uitleg"
+
+#: templates/admin/display.tpl:53
+msgid "Log"
+msgstr "Log"
+
+#: templates/admin/view.tpl:12
+msgid "Assigned Key"
+msgstr "Toegewezen sleutel"
+
+#: templates/admin/view.tpl:13
+msgid "Message"
+msgstr "Bericht"
+
+#: templates/admin/view.tpl:14
+msgid "Actions"
+msgstr "Acties"
+
+#: templates/admin/view.tpl:24
+msgid "View"
+msgstr "Tonen"
+
+#: templates/admin/view.tpl:27
+msgid "There are no log entries"
+msgstr "Er zijn geen log-regels"
+
+#: templates/admin/modifyconfig.tpl:11
+msgid "General settings"
+msgstr "Algemene instellingen"
+
+#: templates/admin/modifyconfig.tpl:13
+msgid "Enable Bad Behavior screening"
+msgstr "Bad Behaviour controle inschakelen"
+
+#: templates/admin/modifyconfig.tpl:17
+msgid "Use strict screening"
+msgstr "Gebruik strikte controle"
+
+#: templates/admin/modifyconfig.tpl:21
+msgid "Enable logging"
+msgstr "Logging inschakelen"
+
+#: templates/admin/modifyconfig.tpl:25
+msgid "Log everything (not just failed attempts)"
+msgstr "Alles loggen (niet alleen de mislukte pogingen)"
+
+#: templates/admin/modifyconfig.tpl:29
+msgid "Display stats in footer"
+msgstr "Toon statistieken in footer"
+
+#: templates/admin/modifyconfig.tpl:33
+msgid "Items per page on log display"
+msgstr "Items per pagina op log-weergave"
+
+#: templates/admin/modifyconfig.tpl:35
+msgid "\"0\" for no limit."
+msgstr "\"0\" voor geen limiet."
+
+#: templates/admin/modifyconfig.tpl:39
+msgid "Save"
+msgstr "Opslaan"
+
+#: templates/admin/modifyconfig.tpl:40
+msgid "Cancel"
+msgstr "Annuleren"
+
+#~ msgid "Done! Module configuration updated."
+#~ msgstr "Klaar! Module configuratie bijgewerkt."
+
+#~ msgid "Bad Behaviour"
+#~ msgstr "Bad Behaviour"
+
+#~ msgid "Bad Behaviour spam detection"
+#~ msgstr "Bad Behaviour spam detectie"
+
+#~ msgid ""
+#~ "<a href=\"http://www.bad-behavior.ioerror.us/\">Bad Behavior</a> has "
+#~ "blocked <strong>%s</strong> access attempts in the last 7 days."
+#~ msgstr ""
+#~ "<a href=\"http://www.bad-behavior.ioerror.us/\">Bad Behaviour</a> heeft "
+#~ "de afgelopen 7 dagen <strong>%s</strong> toegangspogingen geblokkeerd.</p>"
+
+#~ msgid "View blocked Accesses"
+#~ msgstr "Bekijk geblokkeerde toegangen"
+
+#~ msgid "Error! Sorry! Table creation failed."
+#~ msgstr "Foutmelding! Tabel aanmaken mislukt."
+
+#~ msgid "Error! Unable to create system init hook"
+#~ msgstr "Foutmelding! Kon systeem init hook niet aanmaken"
+
+#~ msgid ""
+#~ "BadBehaviour have been enabled, you can change this in the hook settings "
+#~ "(Administration -> Modules -> System hooks) by deactivating the "
+#~ "BadBehaviour systeminit hook for Zikula itself"
+#~ msgstr ""
+#~ "BadBehaviour is ingeschakeld, dit kan aangepast worden in de hook-"
+#~ "instellingen (Beheer -> Modules -> Systeem hooks) door de BadBehaviour "
+#~ "systeem init hook voor Zikula te deactiveren"
+
+#~ msgid "Unable to delete system init hook"
+#~ msgstr "Kon systeem init hook niet verwijderen"
+
+#~ msgid "financial contribution"
+#~ msgstr "Financiële bijdrage"
+
+#~ msgid ""
+#~ "For more information please visit the <a href=\"http://www.bad-behavior."
+#~ "ioerror.us/\">Bad Behavior</a> homepage."
+#~ msgstr ""
+#~ "Bezoek voor meer informatie de <a href=\"http://www.bad-behavior.ioerror."
+#~ "us/\">Bad Behavior</a> homepage."
+
+#~ msgid ""
+#~ "If you find Bad Behavior valuable, please consider making a <a href=\"%1$s"
+#~ "\">%2$s</a> to further development of Bad Behavior."
+#~ msgstr ""
+#~ "Als Bad Behaviour waardevol is, overweeg dan een <a href=\"%1$s\">%2$s</"
+#~ "a>, voor verdere ontwikkeling van Bad Behaviour."
+
+#~ msgid ""
+#~ "To test Bad Behaviour is functioning correctly add the sting \"Bad "
+#~ "Behavior Test\" as the USER_AGENT of an HTTP request. Sound complicated? "
+#~ "Under IE this probably is.... However if using FireFox install the <a "
+#~ "href=\"https://addons.mozilla.org/firefox/967/\">\"Modify Headers\"</a> "
+#~ "add-on and this can be done from the GUI."
+#~ msgstr ""
+#~ "Om Bad Behaviour op zijn functionaliteit te testen, voeg dan de string "
+#~ "'Bad Behavior Test' als USER_AGENT toe aan een HTTP request. "
+#~ "Gecompliceerd? Met IE waarschijnlijk wel.... Maar met FireFox is de addon "
+#~ "<a href=\"https://addons.mozilla.org/firefox/967/\">\"Modify Headers\"</"
+#~ "a> voldoende om dit via de GUI te doen."
+
+#~ msgid "No items found."
+#~ msgstr "Geen items beschikbaar."
+
+#~ msgid "Verbose HTTP request logging"
+#~ msgstr "Verbose HTTP request logging"
+
+#~ msgid "Logs all requests not just those blocked"
+#~ msgstr "Allle aanvragen loggen, niet alleen de geblokkerde"
+
+#~ msgid "Blocks more spam but may block some people"
+#~ msgstr "Haalt meer spam weg, maar kan ook gebruikers blokkeren"
+
+#~ msgid "Update Configuration"
+#~ msgstr "Configuratie bijwerken"

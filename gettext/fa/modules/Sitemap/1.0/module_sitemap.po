@@ -1,0 +1,344 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-02-03 19:14+0100\n"
+"PO-Revision-Date: 2010-09-05 10:12+0200\n"
+"Last-Translator: Armin Borumand <armin390@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnadmin.php:157 pnadmin.php:181 pnadmin.php:205
+msgid "Done! Module configuration updated."
+msgstr "انجام شد! پیکربندی ماژول بروز شد."
+
+#: pnuserapi.php:19 pntemplates/sitemap_user_view_slickmap.html:15
+msgid "Homepage"
+msgstr "صفحه خانگی"
+
+#: pnversion.php:5 pntemplates/sitemap_user_view_slickmap.html:2
+#: pntemplates/sitemap_user_view.html:2
+msgid "Sitemap"
+msgstr "نقشه سایت"
+
+#. !module name that appears in URL
+#: pnversion.php:6
+msgid "sitemap"
+msgstr "نقشه سایت"
+
+#: pnversion.php:7
+msgid ""
+"Sitemap generate a xml sitemap for the search engines and another one for "
+"the users."
+msgstr ""
+"نقشه سایت یک نقشه سایت xml برای موتورهای جستجو و یکی هم برای کاربران می سازد."
+
+#: pnadminapi.php:9
+msgid "Start"
+msgstr "شروع"
+
+#: pnadminapi.php:10 pntemplates/sitemap_admin_contentdisplay.html:7
+msgid "Content to display"
+msgstr "محتوای قابل نمایش"
+
+#: pnadminapi.php:11 pntemplates/sitemap_admin_contentorder.html:7
+msgid "Order the content to display"
+msgstr "مرتب کردن محتوا برای نمایش"
+
+#: pnadminapi.php:12 pntemplates/sitemap_admin_settings.html:7
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: pnadminapi.php:310
+msgid "Error: the modules per line value should be set between 1 and 10."
+msgstr "خطا: مقدار به ازای هر خط ماژول ها باید بین ۱ تا ۱۰ ست شود."
+
+#: pnuser.php:77
+msgid "And more..."
+msgstr "و غیره..."
+
+#: pnincludes/news.php:21
+msgid "Categories"
+msgstr "طبقه بندی ها"
+
+#: pnincludes/news.php:22
+msgid "Archives"
+msgstr "آرشیو"
+
+#: pnincludes/news.php:24
+msgid "Submit article"
+msgstr "ارسال مطلب جدید"
+
+#: pnincludes/faq.php:21
+msgid "Submit a question"
+msgstr "ارسال یک سوال"
+
+#: pnincludes/legal.php:8
+msgid "Terms of use"
+msgstr "شرایط استفاده"
+
+#: pnincludes/legal.php:11
+msgid "Privacy policy"
+msgstr "سیاست حفظ اسرار"
+
+#: pnincludes/legal.php:14
+msgid "Accessibility statement"
+msgstr "شرح نحوه دسترسی"
+
+#: pnincludes/search.php:7
+msgid "New search"
+msgstr "جستجوی جدید"
+
+#: pnincludes/search.php:8
+msgid "Recent searches list"
+msgstr "فهرست جستجوهای اخیر"
+
+#: pnincludes/reviews.php:21
+msgid "Submit a review"
+msgstr "ارسال یک نقد"
+
+#: pntemplates/sitemap_admin_settings.html:1
+#: pntemplates/sitemap_admin_view.html:1
+#: pntemplates/sitemap_admin_contentorder.html:1
+#: pntemplates/sitemap_admin_contentdisplay.html:1
+msgid "Sitemap manager"
+msgstr "مدیریت نقشه سایت"
+
+#: pntemplates/sitemap_admin_settings.html:8
+msgid ""
+"By default Sitemap override cache settings then the cache is forced to be "
+"enable. Why? Because this module makes a lot of sql queries to generate the "
+"sitemap, so for better performance the result is cached during 24 hours by "
+"default."
+msgstr ""
+"بصورت پیش گزیده ماژول نقشه سایت تنظیمات کاشه را نادیده گرفته سپس سیستم کاشه "
+"اجبارا فعال میشود. چرا؟ زیرا این ماژول برای ایجاد نقشه سایت تعداد زیادی "
+"درخواست sql اجرا می کند، بنابراین برای کارایی بهتر، نتیجه ها بصورت ۲۴ ساعته "
+"ذخیره می شوند."
+
+#: pntemplates/sitemap_admin_settings.html:13
+msgid "Cache"
+msgstr "حافظه نهان"
+
+#: pntemplates/sitemap_admin_settings.html:15
+msgid "Override pnRender cache settings"
+msgstr "نادیده گرفتن تنظیمات کاشه pnRender"
+
+#: pntemplates/sitemap_admin_settings.html:18
+#: pntemplates/sitemap_admin_contentdisplay.html:20
+msgid "Yes"
+msgstr "بله"
+
+#: pntemplates/sitemap_admin_settings.html:20
+#: pntemplates/sitemap_admin_contentdisplay.html:22
+msgid "No"
+msgstr "خیر"
+
+#: pntemplates/sitemap_admin_settings.html:22
+msgid ""
+"In seconds (e.g. 3600 = 1 hour, 86400 = 24 hours, 604800 = 1 week, 2678400 = "
+"1 month)."
+msgstr ""
+"به ثانیه (بعنوان مثال۳۶۰۰ = ۱ ساعت, ۸۶۴۰۰ = ۲۴ ساعت, ۶۰۴۸۰۰ = ۱ هفته, "
+"۲۶۷۸۴۰۰ = ۱ ماه)."
+
+#: pntemplates/sitemap_admin_settings.html:27
+msgid "Layout"
+msgstr "صفحه آرایی"
+
+#: pntemplates/sitemap_admin_settings.html:29
+msgid "Select your favorite layout"
+msgstr "صفحه آرایی مورد علاقه خود را انتخاب کنید"
+
+#: pntemplates/sitemap_admin_settings.html:32
+msgid "Default"
+msgstr "پیش‌گزیده"
+
+#: pntemplates/sitemap_admin_settings.html:34
+msgid "SlickMap"
+msgstr "SlickMap"
+
+#: pntemplates/sitemap_admin_settings.html:36
+msgid "Modules per line. This value must be between 1 and 10 (default = 5)."
+msgstr "ماژول به ازای خط. این مقدار باید بین ۱ و ۱۰ باشد (پیش گزیده = ۵)."
+
+#: pntemplates/sitemap_admin_settings.html:41
+#: pntemplates/sitemap_admin_contentorder.html:47
+#: pntemplates/sitemap_admin_contentdisplay.html:93
+msgid "OK"
+msgstr "تایید"
+
+#: pntemplates/sitemap_admin_settings.html:42
+#: pntemplates/sitemap_admin_contentorder.html:48
+#: pntemplates/sitemap_admin_contentdisplay.html:94
+msgid "Cancel"
+msgstr "لغو"
+
+#: pntemplates/sitemap_user_view_slickmap.html:3
+#: pntemplates/sitemap_user_view.html:3
+#, php-format
+msgid "Sitemap of %s"
+msgstr "نقشه سایت %s"
+
+#: pntemplates/sitemap_user_view_slickmap.html:37
+msgid "Direct links"
+msgstr "لینک های مستقیم"
+
+#: pntemplates/sitemap_admin_view.html:6
+msgid "Welcome into the administration of the sitemap module."
+msgstr "به مدیریت ماژول نقشه سایت خوش آمدید."
+
+#: pntemplates/sitemap_admin_view.html:8
+msgid "Here is the links to your xml sitemap:"
+msgstr "این لینک نقشه سایت xml شماست:"
+
+#: pntemplates/sitemap_admin_view.html:14
+msgid "Submit xml sitemap"
+msgstr "ارسال نقشه سایت xml"
+
+#: pntemplates/sitemap_admin_view.html:15
+msgid ""
+"If you click on the bottom links, it will submit the xml sitemap in the "
+"corresponding language to the search engine."
+msgstr ""
+"اگر بر روی لینک زیر کلیک کنید، نقشه سایت xml ساخته شده که زبانی متناظر با "
+"موتورهای جستجو دارد."
+
+#: pntemplates/sitemap_admin_contentorder.html:9
+msgid "Notice:"
+msgstr "توجه:"
+
+#: pntemplates/sitemap_admin_contentorder.html:11
+msgid ""
+"You can't order a module before to have attribute it to the left/right "
+"column."
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentorder.html:13
+msgid "Blank field for order will automaticly set order to 99."
+msgstr "فیلد ترتیب خالی بصورت خودکار بر روی ۹۹ تنظیم خواهد شد."
+
+#: pntemplates/sitemap_admin_contentorder.html:19
+msgid "Order per module"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentorder.html:21
+msgid "Column and order per module"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentorder.html:29
+msgid "Left"
+msgstr "چپ"
+
+#: pntemplates/sitemap_admin_contentorder.html:31
+msgid "Right"
+msgstr "راست"
+
+#: pntemplates/sitemap_admin_contentorder.html:33
+msgid "Alternatively"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentorder.html:34
+#: pntemplates/sitemap_admin_contentorder.html:38
+msgid "Order:"
+msgstr "ترتیب:"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:8
+msgid ""
+"Notice: You have to set for each module if you want to display it into the "
+"sitemap and if you want to display links to the sections/content of each "
+"module. You can also set some xml information."
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:15
+msgid "General"
+msgstr "عمومی"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:17
+msgid "Display this module"
+msgstr "نمایش این ماژول"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:30
+msgid "User sitemap"
+msgstr "نقشه سایت کاربر"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:30
+#: pntemplates/sitemap_admin_contentdisplay.html:54
+msgid "Xml sitemap"
+msgstr "نقشه سایت xml"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:30
+#, php-format
+msgid "%1$s and %2$s"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:34
+msgid "Display links to the sections"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:41
+msgid "Display links to the content"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:45
+msgid ""
+"Maximum links to the content to display (blank field = no limit). This "
+"maximum value will only affect xml sitemap."
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:56
+msgid "Set change frequency for this module"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:58
+msgid "Don't specify change frequency"
+msgstr ""
+
+#: pntemplates/sitemap_admin_contentdisplay.html:59
+msgid "Always"
+msgstr "همیشه"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:60
+msgid "Hourly"
+msgstr "هر ساعت یکبار"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:61
+msgid "Daily"
+msgstr "روزانه"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:62
+msgid "Weekly"
+msgstr "هفتگی"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:63
+msgid "Monthly"
+msgstr "ماهانه"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:64
+msgid "Yearly"
+msgstr "سالانه"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:65
+msgid "Never"
+msgstr "هرگز"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:69
+msgid "Set priority for this module"
+msgstr "تنظیم اولویت برای این ماژول"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:71
+msgid "Don't specify priority"
+msgstr "اولویتی اختصاص نده"
+
+#: pntemplates/sitemap_admin_contentdisplay.html:88
+msgid "Go to bottom"
+msgstr ""

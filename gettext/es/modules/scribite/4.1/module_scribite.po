@@ -1,0 +1,356 @@
+# scribite! for Zikula.
+# Copyright (C) 2009
+# This file is distributed under the same license as the scribite! package.
+# Sven Schomacker <hilope@gmail.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: scribite 4.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-30 06:26-0400\n"
+"PO-Revision-Date: 2010-07-13 03:12+0200\n"
+"Last-Translator: Mateo <nestormateo@gmail.com>\n"
+"Language-Team: Zikula Spanish Community <equipo@zikula.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnadmin.php:81 pnadmin.php:136 pnadmin.php:207 pnadmin.php:266
+#: pnadmin.php:325 pnadmin.php:412 pnadmin.php:476 pnadmin.php:560
+#: pnadmin.php:622 pnadmin.php:677
+msgid ""
+"Invalid 'authkey':  this probably means that you pressed the 'Back' button, "
+"or that the page 'authkey' expired. Please refresh the page and try again."
+msgstr ""
+"'Authkey' no válida.  Probablemente usted ha pulsado el botón 'Atrás', o la "
+"página ha caducado. Por favor, actualice la página y vuelve a intentarlo."
+
+#: pnadmin.php:95 pnadmin.php:101 pnadmin.php:159 pnadmin.php:227
+#: pnadmin.php:331 pnadmin.php:335 pnadmin.php:339 pnadmin.php:344
+#: pnadmin.php:349 pnadmin.php:354 pnadmin.php:358 pnadmin.php:362
+#: pnadmin.php:366 pnadmin.php:373 pnadmin.php:418 pnadmin.php:423
+#: pnadmin.php:428 pnadmin.php:482 pnadmin.php:487 pnadmin.php:491
+#: pnadmin.php:496 pnadmin.php:501 pnadmin.php:508 pnadmin.php:512
+#: pnadmin.php:516 pnadmin.php:566 pnadmin.php:570 pnadmin.php:575
+#: pnadmin.php:580 pnadmin.php:584 pnadmin.php:628 pnadmin.php:632
+#: pnadmin.php:683 pnadmin.php:687 pnadmin.php:691 pnadmin.php:695
+#: pnadmin.php:699 pnadmin.php:703 pnadminapi.php:66 pnadminapi.php:92
+#: pnadminapi.php:120 pnadminapi.php:142
+msgid "Configuration not updated"
+msgstr "Configuración no actualizada"
+
+#: pnadmin.php:106 pnadmin.php:156 pnadmin.php:224 pnadmin.php:279
+#: pnadmin.php:378 pnadmin.php:433 pnadmin.php:521 pnadmin.php:589
+#: pnadmin.php:637 pnadmin.php:707
+msgid "Done! Module configuration updated."
+msgstr "¡Hecho! Configuración del módulo actualizada."
+
+#: pnuser.php:79 pnadminapi.php:62 pnadminapi.php:82 pnadminapi.php:109
+#: pnadminapi.php:137 pnadminapi.php:158
+msgid "Error! Could not do what you wanted. Please check your input."
+msgstr "¡Error! No se pudo hacer lo que quería. Por favor, consulte su envío."
+
+#: pnversion.php:18 pnversion.php:19
+msgid "scribite"
+msgstr "scribite"
+
+#: pnadminapi.php:20
+msgid "Settings"
+msgstr "Configuración"
+
+#: pnadminapi.php:24 pntemplates/scribite_admin_modifyxinha.htm:1
+msgid "Xinha"
+msgstr "Xinha"
+
+#: pnadminapi.php:27 pntemplates/scribite_admin_modifytinymce.htm:1
+msgid "TinyMCE"
+msgstr "TinyMCE"
+
+#: pnadminapi.php:30 pntemplates/scribite_admin_modifyfckeditor.htm:1
+msgid "FCKeditor"
+msgstr "FCKeditor"
+
+#: pnadminapi.php:33 pntemplates/scribite_admin_modifyopenwysiwyg.htm:1
+msgid "openWYSIWYG"
+msgstr "openWYSIWYG"
+
+#: pnadminapi.php:36 pntemplates/scribite_admin_modifynicedit.htm:1
+msgid "NicEdit"
+msgstr "NicEdit"
+
+#: pnadminapi.php:45 pntemplates/scribite_admin_modifyyui.htm:1
+msgid "YUI Editor"
+msgstr "YUI Editor"
+
+#: pninit.php:25 pninit.php:128
+msgid ""
+"This version of scribite! only works with Zikula 1.2.x and higher. Please "
+"upgrade your Zikula version or use scribite! version 2.x or 3.x ."
+msgstr ""
+"Esta versión de scribite! sólo funciona con Zikula 1.2.x y superiores. Por "
+"favor, actualice su versión de Zikula o use scribite! versiones 2.x y 3.x."
+
+#: pninit.php:30 pninit.php:133
+msgid "Error creating Hook!"
+msgstr "¡Error creando Hook!"
+
+#: pninit.php:33 pninit.php:137
+msgid ""
+"<strong>scribite!</strong> was activated as core hook. You can check "
+"settings <a href=\"index.php?"
+"module=Modules&type=admin&func=hooks&id=0\">here</a>!<br />The template "
+"plugin from previous versions of scribite! can be removed from templates."
+msgstr ""
+"<strong>scribite!</strong> Se ha activado como hook principal. Puede "
+"comprobar los ajustes <a href=\"index.php?"
+"module=Modules&type=admin&func=hooks&id=0\">aquí</a>!<br />La plantilla de "
+"complemento de las anteriores versiones de scribite! puede ser eliminado de "
+"las plantillas."
+
+#: pninit.php:107
+msgid "Error! Could not update module configuration."
+msgstr "¡Error! No se puede actualizar la configuración del módulo."
+
+#: pninit.php:213
+msgid "Error deleting Hook!"
+msgstr "¡Error al eliminar el Hook!"
+
+#: pntemplates/scribite_admin_addmodule.htm:1
+msgid "Add module"
+msgstr "Agregar modulo"
+
+#: pntemplates/scribite_admin_addmodule.htm:1
+msgid "module name"
+msgstr "nombre del modulo"
+
+#: pntemplates/scribite_admin_addmodule.htm:1
+#: pntemplates/scribite_admin_modifymodule.htm:1
+msgid "module functions (comma separated, \"all \" for all funcs)"
+msgstr ""
+"funciones de módulo (separados por comas, \"all\" para todas las funciones)"
+
+#: pntemplates/scribite_admin_addmodule.htm:1
+#: pntemplates/scribite_admin_modifymodule.htm:1
+msgid "textarea-ID's (comma separated, \"all\" for all areas)"
+msgstr "ID's de textarea (separados por comas, \"all\" para todas las áreas)"
+
+#: pntemplates/scribite_admin_addmodule.htm:1
+#: pntemplates/scribite_admin_modifymodule.htm:1
+#: pntemplates/scribite_admin_modifyconfig.htm:1
+msgid "editor"
+msgstr "editor"
+
+#: pntemplates/scribite_admin_addmodule.htm:1
+#: pntemplates/scribite_admin_modifytinymce.htm:1
+#: pntemplates/scribite_admin_modifynicedit.htm:1
+#: pntemplates/scribite_admin_modifyyui.htm:1
+#: pntemplates/scribite_admin_modifymodule.htm:1
+#: pntemplates/scribite_admin_modifyconfig.htm:1
+#: pntemplates/scribite_admin_modifyfckeditor.htm:1
+#: pntemplates/scribite_admin_modifyopenwysiwyg.htm:1
+#: pntemplates/scribite_admin_modifyxinha.htm:1
+#: pntemplates/scribite_admin_delmodule.htm:1
+msgid "Save Configuration"
+msgstr "Guardar Configuración"
+
+#: pntemplates/scribite_admin_addmodule.htm:1
+#: pntemplates/scribite_admin_modifytinymce.htm:1
+#: pntemplates/scribite_admin_modifynicedit.htm:1
+#: pntemplates/scribite_admin_modifyyui.htm:1
+#: pntemplates/scribite_admin_modifymodule.htm:1
+#: pntemplates/scribite_admin_modifyconfig.htm:1
+#: pntemplates/scribite_admin_modifyfckeditor.htm:1
+#: pntemplates/scribite_admin_modifyopenwysiwyg.htm:1
+#: pntemplates/scribite_admin_modifyxinha.htm:1
+#: pntemplates/scribite_admin_delmodule.htm:1
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: pntemplates/scribite_admin_modifytinymce.htm:1
+#: pntemplates/scribite_admin_modifyfckeditor.htm:1
+msgid "Editorlanguage"
+msgstr "Editor de Idioma"
+
+#: pntemplates/scribite_admin_modifytinymce.htm:1
+msgid "Theme"
+msgstr "Tema"
+
+#: pntemplates/scribite_admin_modifytinymce.htm:1
+msgid "Date format"
+msgstr "Formato de fecha"
+
+#: pntemplates/scribite_admin_modifytinymce.htm:1
+msgid "Time format"
+msgstr "Formato de hora"
+
+#: pntemplates/scribite_admin_modifytinymce.htm:1
+#: pntemplates/scribite_admin_modifyyui.htm:1
+#: pntemplates/scribite_admin_modifyfckeditor.htm:1
+#: pntemplates/scribite_admin_modifyopenwysiwyg.htm:1
+#: pntemplates/scribite_admin_modifyxinha.htm:1
+msgid "Editor width and height"
+msgstr "Ancho y alto del editor"
+
+#: pntemplates/scribite_admin_modifytinymce.htm:1
+#: pntemplates/scribite_admin_modifyxinha.htm:1
+msgid "Editor-Stylesheet"
+msgstr "Editor de hoja de estilo"
+
+#: pntemplates/scribite_admin_modifytinymce.htm:1
+msgid ""
+"TinyMCE Plugins (<a href=\"http://wiki.moxiecode.com/index.php/TinyMCE:"
+"Plugins\" target=\"_blank\">documentation</a>)"
+msgstr ""
+"Plugin de TinyMCE (<a href=\"http://wiki.moxiecode.com/index.php/TinyMCE:"
+"Plugins\" target=\"_blank\">documentación</a>)"
+
+#: pntemplates/scribite_admin_modifynicedit.htm:1
+msgid "Full toolbar"
+msgstr "Barra de herramientas completa"
+
+#: pntemplates/scribite_admin_modifynicedit.htm:1
+msgid "XHTML (experimental)"
+msgstr "XHTML (experimental)"
+
+#: pntemplates/scribite_admin_modifyyui.htm:1
+#: pntemplates/scribite_admin_modifyfckeditor.htm:1
+#: pntemplates/scribite_admin_modifyopenwysiwyg.htm:1
+#: pntemplates/scribite_admin_modifyxinha.htm:1
+msgid "Toolbar"
+msgstr "Barra de herramientas"
+
+#: pntemplates/scribite_admin_modifyyui.htm:1
+#: pntemplates/scribite_admin_modifyxinha.htm:1
+msgid "Statusbar"
+msgstr "Barra de estado"
+
+#: pntemplates/scribite_admin_modifyyui.htm:1
+msgid "Animation"
+msgstr "Animacion"
+
+#: pntemplates/scribite_admin_modifyyui.htm:1
+msgid "Collapsable"
+msgstr "Colapsable"
+
+#: pntemplates/scribite_admin_modifymodule.htm:1
+#: pntemplates/scribite_admin_modifyconfig.htm:1
+msgid "edit module"
+msgstr "editar modulo"
+
+#: pntemplates/scribite_admin_modifyconfig.htm:1
+msgid "Warning"
+msgstr "Atención"
+
+#: pntemplates/scribite_admin_modifyconfig.htm:1
+msgid ""
+"JS Quick Tags are activated.<br />For proper use you should deactivate this "
+"in Zikula Settings"
+msgstr ""
+"Las etiquetas JS Quick están activadas. <br /> Para un uso correcto se debe "
+"desactivar esta configuración en Zikula"
+
+#: pntemplates/scribite_admin_modifyconfig.htm:1
+msgid "Version"
+msgstr "Versión"
+
+#: pntemplates/scribite_admin_modifyconfig.htm:1
+msgid "Editorpath"
+msgstr "Ruta del editor"
+
+#: pntemplates/scribite_admin_modifyconfig.htm:1
+msgid "Default editor"
+msgstr "Editor predeterminado"
+
+#: pntemplates/scribite_admin_modifyconfig.htm:1
+msgid "Modules"
+msgstr "Módulos"
+
+#: pntemplates/scribite_admin_modifyconfig.htm:1
+msgid "add module"
+msgstr "añadir módulo"
+
+#: pntemplates/scribite_admin_modifyconfig.htm:1
+msgid "Module"
+msgstr "Módulo"
+
+#: pntemplates/scribite_admin_modifyconfig.htm:1
+msgid "Options"
+msgstr "Opciones"
+
+#: pntemplates/scribite_admin_modifyconfig.htm:1
+#: pntemplates/scribite_admin_delmodule.htm:1
+msgid "delete module"
+msgstr "eliminar módulo"
+
+#: pntemplates/scribite_admin_modifyfckeditor.htm:1
+msgid "automatic language"
+msgstr "idioma automatico"
+
+#: pntemplates/scribite_admin_modifyopenwysiwyg.htm:1
+#: pntemplates/scribite_admin_modifyxinha.htm:1
+msgid "full"
+msgstr "completo"
+
+#: pntemplates/scribite_admin_modifyopenwysiwyg.htm:1
+#: pntemplates/scribite_admin_modifyxinha.htm:1
+msgid "reduced"
+msgstr "reducido"
+
+#: pntemplates/scribite_admin_menu.htm:13
+msgid "scribite!"
+msgstr "scribite!"
+
+#: pntemplates/scribite_admin_menu.htm:13
+msgid "WYSIWYG for Zikula"
+msgstr "WYSIWYG para Zikula"
+
+#: pntemplates/scribite_admin_modifyxinha.htm:1
+msgid "Language"
+msgstr "Idioma"
+
+#: pntemplates/scribite_admin_modifyxinha.htm:1
+msgid "mini"
+msgstr "mini"
+
+#: pntemplates/scribite_admin_modifyxinha.htm:1
+msgid "Skin"
+msgstr "Carátula"
+
+#: pntemplates/scribite_admin_modifyxinha.htm:1
+msgid "Convert urls to links"
+msgstr "Convertir URL a Enlaces"
+
+#: pntemplates/scribite_admin_modifyxinha.htm:1
+msgid "Show loading"
+msgstr "Mostrar carga"
+
+#: pntemplates/scribite_admin_modifyxinha.htm:1
+msgid ""
+"Xinha Plugins (<a href=\"http://xinha.python-hosting.com/wiki/Plugins\" "
+"target=\"_blank\">documentation</a>)"
+msgstr ""
+"Plugins para Xinha (<a href=\"http://xinha.python-hosting.com/wiki/Plugins\" "
+"target=\"_blank\">documentación</a>)"
+
+#: pntemplates/scribite_admin_delmodule.htm:1
+msgid "Do you really want to remove the following module?"
+msgstr "¿Está seguro que quiere suprimir el siguiente módulo?"
+
+#: pninit.php:1
+msgid ""
+"<strong>Caution!</strong><br />All editors have moved to /modules/scribite/"
+"pnincludes in preparation for upcoming features of Zikula. Please check all "
+"your settings!<br />If you have adapted files from editors you have to check "
+"them too.<br /><br /><strong>Dropped support for FCKeditor and "
+"TinyMCE<strong><br />For security reasons these editors will not be "
+"supported anymore. Please change editors to an other editor."
+msgstr ""
+"<strong>¡Atención!</strong><br />Todos los editores se han movido a /modules/"
+"scribite/pnincludes para estar actualizado en las próximas versiones de "
+"Zikula. Por favor, compruebe todas las configuraciones!<br />Si se han "
+"adaptado los editores que tiene actualmente, deberá moverlo también.<br /"
+"><br /><strong>Se ha eliminado el soporte para los editores FCKeditor y "
+"TinyMCE<strong><br />Por razones de seguridad, estos editores no van a ser "
+"soportados. Por favor, cambie a otros editores soportados."

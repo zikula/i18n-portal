@@ -1,0 +1,399 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Pages 2.4 Dutch translation\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-01 14:12+0000\n"
+"PO-Revision-Date: 2010-02-15 13:20+0100\n"
+"Last-Translator: Arjen Tebbenhof <teb (at) zikula (dot) nl>\n"
+"Language-Team: Dutch Zikula Community\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnadmin.php:55 pnadmin.php:144 pnadmin.php:316 pnuserapi.php:50
+#: pnuserapi.php:172 pnuser.php:34 pnuser.php:97 pnuser.php:288
+msgid "Error! Unable to load class [%s%]"
+msgstr "Foutmelding! Class [%s%] kon niet geladen worden"
+
+#: pnadmin.php:93
+msgid "Done! Page created."
+msgstr "Klaar! Pagina aangemaakt."
+
+#: pnadmin.php:125 pnadmin.php:237 pnuser.php:271 pnuser.php:303
+#: pnuser.php:311 pnadminapi.php:107 pnadminapi.php:152
+msgid "No such page found."
+msgstr "Pagina niet gevonden."
+
+#: pnadmin.php:196
+msgid "Done! Page updated."
+msgstr "Klaar! Pagina bijgewerkt."
+
+#: pnadmin.php:268
+msgid "Done! Page deleted."
+msgstr "Klaar! Pagina verwijderd!"
+
+#: pnadmin.php:299
+msgid "Purging of the pemalinks was successful"
+msgstr "Permalinks opschonen was succesvol"
+
+#: pnadmin.php:301
+msgid "Purging of the pemalinks has failed"
+msgstr "Permalinks opschonen is mislukt"
+
+#: pnadmin.php:360
+msgid "View"
+msgstr "Bekijken"
+
+#: pnadmin.php:365 pntemplates/pages_user_display.htm:45
+msgid "Edit"
+msgstr "Bewerken"
+
+#: pnadmin.php:370
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: pnadmin.php:486
+msgid "Done! Module configuration updated."
+msgstr "Klaar! Module configuratie bijgewerkt."
+
+#: pnversion.php:16 pninit.php:289
+msgid "Static pages"
+msgstr "Statische pagina's"
+
+#: pnversion.php:17
+msgid "Manager of the static pages of the site."
+msgstr "Beheren van statische pagina's op de site."
+
+#. ! this defines the module's url
+#: pnversion.php:20
+msgid "pages"
+msgstr "pagina's"
+
+#: pnsearchapi.php:101 pnsearchapi.php:132 pnuserapi.php:165
+msgid "Error! Could not load any page."
+msgstr "Foutmelding! Er kon geen pagina geladen worden."
+
+#: pnblocks/pageslist.php:39 pntemplates/pages_user_view.htm:2
+#: pntemplates/pages_user_view.htm:33
+msgid "Pages list"
+msgstr "Pagina lijst"
+
+#: pnblocks/pageslist.php:40
+msgid "Display a list of pages"
+msgstr "Pagina lijst tonen"
+
+#: pnblocks/page.php:32
+msgid "Show page"
+msgstr "Pagina tonen"
+
+#: pnblocks/page.php:33
+msgid "Show a page in a block"
+msgstr "Toon een pagina in een blok"
+
+#: pnuser.php:126
+msgid "Invalid category passed."
+msgstr "Onjuiste categorie ingevoerd."
+
+#: pnuser.php:200 pntemplates/pages_admin_view.htm:97
+msgid "No pages found."
+msgstr "Geen pagina's gevonden."
+
+#: pnadminapi.php:67 pnadminapi.php:198
+msgid "The permalinks retrieved from the title has to be unique!"
+msgstr "De permalinks gegenereerd uit de titel moeten uniek zijn!"
+
+#: pnadminapi.php:69 pnadminapi.php:200
+msgid "The permalink has to be unique!"
+msgstr "De permalink moet uniek zijn!"
+
+#: pnadminapi.php:71 pnadminapi.php:202
+msgid ""
+"The permalink has been removed, please update the page with a correct and "
+"unique permalink"
+msgstr ""
+"De permalink is verwijderd, werk de pagina bij met een correcte en unieke "
+"permalink."
+
+#: pnadminapi.php:75
+msgid "Error! Creation attempt failed."
+msgstr "Foutmelding! Aanmaak poging mislukt."
+
+#: pnadminapi.php:116
+msgid "Error! Deletion attempt failed."
+msgstr "Foutmelding! Verwijder poging mislukt."
+
+#: pnadminapi.php:206 pninit.php:83 pninit.php:94 pninit.php:100
+#: pninit.php:108 pninit.php:201
+msgid "Error! Update attempt failed."
+msgstr "Foutmelding! Bijwerk poging mislukt."
+
+#: pnadminapi.php:284 pntemplates/pages_admin_view.htm:3
+msgid "View pages list"
+msgstr "Bekijk pagina's lijst"
+
+#: pnadminapi.php:288 pntemplates/pages_admin_new.htm:3
+msgid "Create a page"
+msgstr "Pagina aanmaken"
+
+#: pnadminapi.php:292
+msgid "Purge permalinks"
+msgstr "Permalinks opschonen"
+
+#: pnadminapi.php:294 pntemplates/pages_admin_modifyconfig.htm:7
+msgid "Settings"
+msgstr "Instellingen"
+
+#: pninit.php:41
+msgid ""
+"Warning! Could not create the default Pages category tree. If you want to "
+"use categorization for the pages, register at least one property for the "
+"module in the Category Registry."
+msgstr ""
+"Waarschuwing! De standaard Pagina's categorie boom kon niet gecreërd worden, "
+"registreer minstens één veld voor de module in het categorie register."
+
+#: pninit.php:288 pntemplates/pages_admin_menu.htm:6
+#: pntemplates/pages_search_options.htm:5
+msgid "Pages"
+msgstr "Pagina's"
+
+#: pntemplates/pages_admin_modifyconfig.htm:13
+msgid "General settings"
+msgstr "Algemene instellingen"
+
+#: pntemplates/pages_admin_modifyconfig.htm:15
+msgid "Enable categorization"
+msgstr "Categorisatie aanzetten"
+
+#: pntemplates/pages_admin_modifyconfig.htm:19
+msgid "Items per page"
+msgstr "Items per pagina"
+
+#: pntemplates/pages_admin_modifyconfig.htm:24
+msgid "New page defaults"
+msgstr "Nieuwe pagina defaults"
+
+#: pntemplates/pages_admin_modifyconfig.htm:26
+#: pntemplates/pages_admin_modify.htm:64 pntemplates/pages_admin_new.htm:56
+msgid "Display additional information"
+msgstr "Additionele informatie weergeven"
+
+#: pntemplates/pages_admin_modifyconfig.htm:30
+#: pntemplates/pages_admin_modify.htm:68 pntemplates/pages_admin_new.htm:60
+msgid "Display page title"
+msgstr "Pagina titel weergeven"
+
+#: pntemplates/pages_admin_modifyconfig.htm:34
+#: pntemplates/pages_admin_modify.htm:72 pntemplates/pages_admin_new.htm:64
+msgid "Display page creation date"
+msgstr "Pagina aanmaak datum weergeven"
+
+#: pntemplates/pages_admin_modifyconfig.htm:38
+#: pntemplates/pages_admin_modify.htm:76 pntemplates/pages_admin_new.htm:68
+msgid "Display page update date"
+msgstr "Pagina bijwerk datum weergeven"
+
+#: pntemplates/pages_admin_modifyconfig.htm:42
+#: pntemplates/pages_admin_modify.htm:80 pntemplates/pages_admin_new.htm:72
+msgid "Display page text statistics"
+msgstr "Pagina tekst statistiek weergeven"
+
+#: pntemplates/pages_admin_modifyconfig.htm:46
+#: pntemplates/pages_admin_modify.htm:84 pntemplates/pages_admin_new.htm:76
+msgid "Display page print link"
+msgstr "Pagina print link weergeven"
+
+#: pntemplates/pages_admin_modifyconfig.htm:51
+msgid "Permalinks settings"
+msgstr "Permalink instellingen"
+
+#: pntemplates/pages_admin_modifyconfig.htm:53
+msgid "Add category title to permalink"
+msgstr "Voeg de categorie titel toe aan de permalink"
+
+#: pntemplates/pages_admin_modifyconfig.htm:57
+msgid "Show permalink input field"
+msgstr "Permalink input veld weergeven"
+
+#: pntemplates/pages_admin_modifyconfig.htm:65
+msgid "Save"
+msgstr "Opslaan"
+
+#: pntemplates/pages_admin_modifyconfig.htm:66
+#: pntemplates/pages_admin_modify.htm:105
+#: pntemplates/pages_admin_delete.htm:19 pntemplates/pages_admin_new.htm:86
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: pntemplates/pages_admin_modify.htm:3
+msgid "Update page"
+msgstr "Pagina aanpassen"
+
+#: pntemplates/pages_admin_modify.htm:18 pntemplates/pages_admin_modify.htm:55
+#: pntemplates/pages_admin_new.htm:16 pntemplates/pages_admin_new.htm:47
+msgid "Content"
+msgstr "Inhoud"
+
+#: pntemplates/pages_admin_modify.htm:20 pntemplates/pages_admin_view.htm:61
+#: pntemplates/pages_admin_new.htm:18
+msgid "Title"
+msgstr "Titel"
+
+#: pntemplates/pages_admin_modify.htm:25 pntemplates/pages_admin_new.htm:23
+msgid "PermaLink URL title"
+msgstr "Permalink URL titel"
+
+#: pntemplates/pages_admin_modify.htm:27 pntemplates/pages_admin_new.htm:25
+msgid "(Blank = auto-generate)"
+msgstr "(Autmatisch gegenereerd indien leeg gelaten)"
+
+#: pntemplates/pages_admin_modify.htm:32 pntemplates/pages_admin_view.htm:18
+#: pntemplates/pages_admin_view.htm:63 pntemplates/pages_admin_new.htm:30
+msgid "Category"
+msgstr "Categorie"
+
+#: pntemplates/pages_admin_modify.htm:33 pntemplates/pages_admin_view.htm:19
+#: pntemplates/pages_admin_new.htm:31
+msgid "Choose a category"
+msgstr "Kies een categorie"
+
+#: pntemplates/pages_admin_modify.htm:50 pntemplates/pages_admin_view.htm:44
+#: pntemplates/pages_admin_view.htm:66 pntemplates/pages_admin_new.htm:42
+msgid "Language"
+msgstr "Taal"
+
+#: pntemplates/pages_admin_modify.htm:57 pntemplates/pages_admin_new.htm:49
+msgid ""
+"If you want multiple pages you can write &lt;!--pagebreak--&gt; where you "
+"want to cut."
+msgstr ""
+"Wanneer meerdere pagina's gewenst zijn kan &lt;!--pagebreak--&gt; ingevoegd "
+"worden waar je wilt snijden "
+
+#: pntemplates/pages_admin_modify.htm:61 pntemplates/pages_admin_new.htm:53
+msgid "Specific page settings"
+msgstr "Specifieke pagina instellingen"
+
+#: pntemplates/pages_admin_modify.htm:90
+msgid "Meta data"
+msgstr "Meta data"
+
+#: pntemplates/pages_admin_modify.htm:93
+#, php-format
+msgid "Created by %s"
+msgstr "Aangemaakt door %s"
+
+#: pntemplates/pages_admin_modify.htm:94
+#, php-format
+msgid "Created on %s"
+msgstr "Aangemaakt op %s"
+
+#: pntemplates/pages_admin_modify.htm:96
+#, php-format
+msgid "Last update by %s"
+msgstr "Laatst aangepast door %s"
+
+#: pntemplates/pages_admin_modify.htm:97
+#, php-format
+msgid "Updated on %s"
+msgstr "Aangepast op %s"
+
+#: pntemplates/pages_admin_modify.htm:104
+msgid "Update"
+msgstr "Aanpassen"
+
+#: pntemplates/pages_admin_view.htm:50
+msgid "Filter"
+msgstr "Filter"
+
+#: pntemplates/pages_admin_view.htm:51
+msgid "Reset"
+msgstr "Resetten"
+
+#: pntemplates/pages_admin_view.htm:60
+msgid "ID"
+msgstr "ID"
+
+#: pntemplates/pages_admin_view.htm:68
+msgid "Actions"
+msgstr "Acties"
+
+#: pntemplates/pages_admin_delete.htm:2
+msgid "Delete page"
+msgstr "Pagina verwijderen"
+
+#: pntemplates/pages_admin_delete.htm:10
+msgid "Do you really want to delete this page?"
+msgstr "Dient deze pagina werkelijk verwijderd te worden?"
+
+#: pntemplates/pages_admin_delete.htm:18
+msgid "Confirm deletion?"
+msgstr "Bevestig verwijdering?"
+
+#: pntemplates/pages_block_pageblock_modify.htm:4
+msgid "Page ID"
+msgstr "Pagina ID"
+
+#: pntemplates/pages_user_display.htm:15
+#, php-format
+msgid "Created by %1$s on %2$s"
+msgstr "Aangemaakt door %1$s op %2$s"
+
+#: pntemplates/pages_user_display.htm:19
+#, php-format
+msgid "Last update by %1$s on %2$s"
+msgstr "Laatst aangepast door %1$s op %2$s"
+
+#: pntemplates/pages_user_display.htm:22
+msgid "Categories"
+msgstr "Categoriën"
+
+#: pntemplates/pages_user_display.htm:49
+#, php-format
+msgid "%s total words in this text"
+msgstr "In deze tekst %s woorden totaal"
+
+#: pntemplates/pages_user_display.htm:51
+#, php-format
+msgid "%s reads"
+msgstr "%s keer gelezen"
+
+#: pntemplates/pages_user_display.htm:55
+msgid "Print page"
+msgstr "Pagina printen"
+
+#: pntemplates/pages_user_view.htm:7 pntemplates/pages_user_main.htm:2
+msgid "Contents"
+msgstr "Inhoud"
+
+#: pntemplates/pages_user_view.htm:8 pntemplates/pages_user_main.htm:8
+msgid "Available categories:"
+msgstr "Beschikbare categoriën"
+
+#: pntemplates/pages_user_view.htm:30
+#, php-format
+msgid "Category: %s"
+msgstr "Categorie: %s"
+
+#: pntemplates/pages_user_view.htm:31
+msgid "Pages published under this category:"
+msgstr "Pagina's gepubliceerd onder deze categorie:"
+
+#: pntemplates/pages_user_view.htm:34
+msgid "Available pages:"
+msgstr "Beschikbare pagina's:"
+
+#: pntemplates/pages_block_pageslist_modify.htm:4
+msgid "Number of pages to display"
+msgstr "Aantal pagina's te tonen"
+
+#: pntemplates/pages_admin_new.htm:85
+msgid "Create"
+msgstr "Aanmaken"

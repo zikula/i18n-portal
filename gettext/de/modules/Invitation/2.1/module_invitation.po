@@ -1,0 +1,200 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-03 12:59+0200\n"
+"PO-Revision-Date: 2010-06-04 00:42+0200\n"
+"Last-Translator: Florian <florian.schiessl@ifs-net.de>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnuserapi.php:38
+msgid "Invitation from user"
+msgstr "Einladung vom Benutzer"
+
+#: pnuserapi.php:53
+msgid ""
+"Your invitation to the following email address was not sent because the user "
+"is already a registered user:"
+msgstr ""
+"Eine Einladung konnte nicht verschickt werden, da der Benutzer mit folgender "
+"Emailadresse bereits ein Mitglied in dieser Community ist:"
+
+#: pnversion.php:15
+msgid "Let your users invite others to your community!"
+msgstr "Benutzer der Community Freunde einladen lassen."
+
+#: pnaccountapi.php:32
+msgid "Invite friends"
+msgstr "Freunde einladen"
+
+#: pnuser.php:62
+msgid "Invitation emails sent!"
+msgstr "Einladungs-Emails wurden verschickt!"
+
+#: pnuser.php:64
+msgid "Invitation mails could not be sent!"
+msgstr "Fehler - Einladungsemails konnten nicht verschickt werden!"
+
+#: pnadmin.php:58
+msgid "Settings updated!"
+msgstr "Einstellungen gespeichert!"
+
+#: pnadmin.php:61
+msgid "Settings could not be updated!"
+msgstr "Einstellungen konnten nicht gespeichert werden!"
+
+#: pntemplates/invitation_user_plugin.htm:3
+msgid "This user was invited by"
+msgstr "Dieser Benutzer wurde eingeladen von"
+
+#: pntemplates/invitation_user_main.htm:4
+msgid "Invite friends to sign up here"
+msgstr "Freunde hierher einladen"
+
+#: pntemplates/invitation_user_main.htm:6
+msgid ""
+"An email with link and information about this page will be added to your "
+"text."
+msgstr ""
+"Zu dem eingegebenen Text wird eine kurze Information über diese Seite selbst "
+"mit URL der Seite mitverschickt."
+
+#: pntemplates/invitation_user_main.htm:12
+msgid "Your name"
+msgstr "Eigener Name"
+
+#: pntemplates/invitation_user_main.htm:14
+msgid "Your friend's email address"
+msgstr "Emailadresse des Freundes"
+
+#: pntemplates/invitation_user_main.htm:17
+msgid "Send invitation to other friends, too:"
+msgstr "Einladung gleich an mehrere Freunde verschicken:"
+
+#: pntemplates/invitation_user_main.htm:27
+msgid ""
+"You can add some personal text that will be sent to your friend - just write "
+"why the invited person(s) should register here, too."
+msgstr ""
+"Am besten ist es, wenn ein persönlicher Text der Einladungs-Email "
+"hinzugefügt wird. Am besten hier kurz beschreiben, warum der angeschriebene "
+"Freund sich hier anmelden soll."
+
+#: pntemplates/invitation_user_main.htm:30
+msgid "Send Invitations"
+msgstr "Einladungen verschicken"
+
+#: pntemplates/invitation_block_latest.htm:2
+msgid "has invited"
+msgstr "hat eingeladen"
+
+#: pntemplates/invitation_block_latest.htm:6
+msgid "Thank you for inviting your friends!"
+msgstr "Danke für das Werben neuer Mitglieder!"
+
+#: pntemplates/invitation_block_latest.htm:8
+msgid "Invite friends now!"
+msgstr "Jetzt Freunde einladen!"
+
+#: pntemplates/invitation_admin_main.htm:8
+msgid "Invitation Module Admin Backend"
+msgstr "Administrations-Backend für Modul \"Invitation\""
+
+#: pntemplates/invitation_admin_main.htm:10
+msgid ""
+"The Invitation module is a small zikula module that allows your users to "
+"invite friends. They can send invitations to email addresses they know. Each "
+"email address can only be invited for one time - if another user invited the "
+"same person the last 2 months the person will not get a new invitation. The "
+"email addresses are stored as md5 hash and whenever a new user profile was "
+"created the user's email address will be compared with the stored hash and "
+"on success the information will be stored for the new user who invited him. "
+"You can specify some lines of text that will be added to every email that "
+"goes out as invitation."
+msgstr ""
+"Das Invitation-Modul ist ein kleines Modul für Zikula, welches es Benutzern "
+"der Zikula-Instanz erlaubt, Einladungen an andere zu verschicken. Jede "
+"Emailadresse kann innerhalb von 120 Tagen nur ein mal eingeladen werden. "
+"Personen können also nicht mit Einladungen \"überhäuft\" werden. Die "
+"Emailadresse wird hierzu als verschlüsselter MD5-Hash gespeichert. Meldet "
+"sich ein geworbener an so wirt der MD5-Hash seiner bei der Anmeldung "
+"angegebenen Emailadresse mit den gespeicherten Hashwerten abgeglichen. So "
+"kann festgestellt und geloggt werden, welche Einladungen erfolgreich "
+"verlaufen sind.Erfolgreich verlaufene Einladungen können dann in einem Block "
+"dargestellt werden. Zudem gibt es ein Add-On für Profilmodule, welches "
+"anzeigt, wenn ein Benutzer geworben wurde."
+
+#: pntemplates/invitation_admin_main.htm:15
+msgid ""
+"Text about the site that should be placed next to the user specified message "
+"inside an invitation email"
+msgstr ""
+"Informationstext über diese Seite, welcher zusätzlich zu einem optionalen "
+"persönlichen Text der Benutzer mit an die Eingeladenen verschickt werden "
+"soll."
+
+#: pntemplates/invitation_admin_main.htm:18
+msgid "store"
+msgstr "Speichern"
+
+#: pntemplates/invitation_admin_main.htm:21
+msgid "Preview"
+msgstr "Vorschau"
+
+#: pntemplates/invitation_admin_main.htm:26
+msgid "Integration into Zikula"
+msgstr "Integration in Zikula-Profilmodul"
+
+#: pntemplates/invitation_admin_main.htm:27
+msgid ""
+"For MyProfile users this integration does not have to be made - Invitation "
+"is already fully integrated. For other modules please write these lines into "
+"the profile module template that displays a profile and make sure that the "
+"uid parameter is the right one. This may depend on the module you use."
+msgstr ""
+"MyProfile-Nutzer können sich zurücklehnen - in dieses Modul ist Invitation "
+"bereits integriert. MyProfile ist nicht bekannt? Dann sollten Sie sich mit "
+"diesem Modul einmal auseinandersetzen, denn es bietet extrem viele "
+"Möglichkeiten für sehr flexible Benutzerprofile. Wer Profile oder ggf. ein "
+"anderes Profilmodul nutzt, der muss folgenden Code in die Profilanzeige "
+"eines Benutzerprofils mit integrieren, damit Invitation funktioniert. Der "
+"Parameter uid muss die Benutzer-ID des darzustellenden Profils enthalten und "
+"kann je nach Modul variieren."
+
+#: pntemplates/invitation_admin_main.htm:29
+msgid "Integration code for display user profile template"
+msgstr "Integrationscode für Profilmodule"
+
+#: pntemplates/invitation_block_latest_modify.htm:3
+msgid "How many user should be shown in block?"
+msgstr "Wieviele Einladungen sollen maximal im Block angezeigt werden?"
+
+#: pntemplates/invitation_email_invite.htm:4
+msgid "More details about the website"
+msgstr "Mehr Details zur Website"
+
+#: pntemplates/invitation_email_invite.htm:7
+msgid "Your friend's name:"
+msgstr "Name deines Freundes:"
+
+#: pntemplates/invitation_email_invite.htm:9
+msgid "Your friend's username:"
+msgstr "Benutzername deines Freundes:"
+
+#: pntemplates/invitation_email_invite.htm:11
+msgid "Account registration"
+msgstr "Account-Registrierung"
+
+#: pntemplates/invitation_email_invite.htm:14
+msgid "Your friend has added additional information for you:"
+msgstr "Der Freund hat einen persönlichen Einladungstext verfasst:"

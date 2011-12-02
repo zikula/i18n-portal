@@ -1,0 +1,3738 @@
+# Vietnamese translation for Essential Pootle Terminology.
+# Copyright © 2009 Free Software Foundation, Inc.
+# Clytie Siddall <clytie@riverland.net.au>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: essential\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-27 16:19+0200\n"
+"PO-Revision-Date: 2009-03-12 14:12+0200\n"
+"Last-Translator: Clytie Siddall <clytie@riverland.net.au>\n"
+"Language-Team: Vietnamese <vi-VN@googlegroups.com>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 1.2.1\n"
+
+msgid "abort"
+msgstr "huỷ bỏ"
+
+msgid "absolute"
+msgstr "tuyệt đối"
+
+msgid "abstract"
+msgstr "(d) tổng quan, bản tóm tắt, trích yếu ; (tt) trừu tượng"
+
+msgid "accelerator"
+msgstr "phím tắt"
+
+msgid "accent"
+msgstr "dấu câu"
+
+msgid "accept"
+msgstr "chấp nhận"
+
+msgid "access"
+msgstr "truy cập"
+
+msgid "accessibility"
+msgstr "khả năng truy cập"
+
+msgid "accessory"
+msgstr "phụ tùng"
+
+msgid "account"
+msgstr "tài khoản"
+
+msgid "accuracy"
+msgstr "độ chính xác"
+
+msgid "acquire"
+msgstr "lấy"
+
+msgid "acronym"
+msgstr "từ cấu tạo"
+
+msgid "action"
+msgstr "hành vi"
+
+msgid "activate"
+msgstr "bật"
+
+msgid "active"
+msgstr "hoạt động"
+
+msgid "activity"
+msgstr "hoạt động"
+
+msgid "adapter"
+msgstr "bộ tiếp hợp"
+
+msgid "add"
+msgstr "thêm"
+
+msgid "address"
+msgstr "địa chỉ"
+
+msgid "adjust"
+msgstr "điều chỉnh"
+
+msgid "administration"
+msgstr "quản lý"
+
+msgid "administrator"
+msgstr "quản trị"
+
+msgid "advanced"
+msgstr "cấp cao"
+
+msgid "agent"
+msgstr "tác nhân"
+
+msgid "agree"
+msgstr "đồng ý"
+
+msgid "agreement"
+msgstr "thoả thuận"
+
+msgid "alarm"
+msgstr "báo thức"
+
+msgid "alert"
+msgstr "báo động"
+
+msgid "algorithm"
+msgstr "thuật toán"
+
+msgid "alias"
+msgstr "bí danh"
+
+msgid "aliasing"
+msgstr "tạo bí danh"
+
+msgid "align"
+msgstr "canh lề (văn bản); sắp hàng (đối tượng)"
+
+msgid "alignment"
+msgstr "sắp hàng"
+
+msgid "allow"
+msgstr "cho phép"
+
+msgid "alphanumeric"
+msgstr "chữ số, chữ cái"
+
+msgid "alternative"
+msgstr "xen kẽ"
+
+msgid "amount"
+msgstr "số tiền"
+
+msgid "analysis"
+msgstr "phân tích"
+
+msgid "anchor"
+msgstr "(d) neo ; (đ) thả neo"
+
+msgid "angle"
+msgstr "góc"
+
+msgid "animate"
+msgstr "hoạt cảnh"
+
+msgid "animation"
+msgstr "hoạt ảnh"
+
+msgid "announce"
+msgstr "thông báo"
+
+msgid "announcement"
+msgstr "thông báo"
+
+msgid "anonymous"
+msgstr "nặc danh"
+
+msgid "anti-aliasing"
+msgstr "làm trơn"
+
+msgid "anti virus"
+msgstr "chống vi-rút"
+
+msgid "appear"
+msgstr "xuất hiện"
+
+msgid "append"
+msgstr "phụ thêm"
+
+msgid "applet"
+msgstr "tiểu dụng"
+
+msgid "application"
+msgstr "ứng dụng"
+
+msgid "apply"
+msgstr "áp dụng"
+
+msgid "approval"
+msgstr "sự tán thành"
+
+msgid "approve"
+msgstr "tán thành"
+
+msgid "approximate"
+msgstr "xấp xỉ"
+
+msgid "arbitrary"
+msgstr "tùy ý"
+
+msgid "archive"
+msgstr "kho"
+
+msgid "area"
+msgstr "vùng"
+
+msgid "argument"
+msgstr "đối số"
+
+msgid "arrangement"
+msgstr "bố trí"
+
+msgid "arrow"
+msgstr "mũi tên"
+
+msgid "article"
+msgstr "bài, mục"
+
+msgid "ascending"
+msgstr "tăng dần"
+
+msgid "aspect"
+msgstr "khía cạnh"
+
+msgid "assign"
+msgstr "gán"
+
+msgid "assignment"
+msgstr "sự gán"
+
+msgid "asynchronous"
+msgstr "không đồng bộ"
+
+msgid "attach"
+msgstr "gửi kèm"
+
+msgid "attachment"
+msgstr "đính kèm"
+
+msgid "attempt"
+msgstr "(lần) thử"
+
+msgid "attribute"
+msgstr "thuộc tính"
+
+msgid "audio"
+msgstr "âm thanh"
+
+msgid "authenticate"
+msgstr "xác thực"
+
+msgid "authentication"
+msgstr "sự xác thực"
+
+msgid "authorization"
+msgstr "sự cho phép"
+
+msgid "authorize"
+msgstr "cho phép"
+
+msgid "auto"
+msgstr "tự động"
+
+msgid "automatic"
+msgstr "tự động"
+
+msgid "availability"
+msgstr "tính sẵn sàng"
+
+msgid "available"
+msgstr "sẵn sàng"
+
+msgid "average"
+msgstr "số trung bình"
+
+msgid "axis"
+msgstr "trục"
+
+msgid "backbone"
+msgstr "xương sống"
+
+msgid "back-end"
+msgstr "hậu phương"
+
+msgid "background"
+msgstr "nền"
+
+msgid "backup"
+msgstr "sao lưu"
+
+msgid "bandwidth"
+msgstr "băng thông"
+
+msgid "banner"
+msgstr "băng cờ"
+
+msgid "bar"
+msgstr "thanh"
+
+msgid "base"
+msgstr "cơ bản"
+
+msgid "beep"
+msgstr "(kêu) bịp"
+
+msgid "begin"
+msgstr "bắt đầu"
+
+msgid "behavior"
+msgstr "ứng xử"
+
+msgid "binary"
+msgstr "nhị phân"
+
+msgid "bind"
+msgstr "tổ hợp"
+
+msgid "bit"
+msgstr "bit"
+
+msgid "bitmap"
+msgstr "ảnh mảng"
+
+msgid "blank"
+msgstr "trắng"
+
+msgid "blink"
+msgstr "nháy"
+
+msgid "block (unit)"
+msgstr "khối"
+
+msgid "block (verb)"
+msgstr "chặn"
+
+msgid "blog"
+msgstr "nhật ký Web"
+
+msgid "blur"
+msgstr "che mờ"
+
+msgid "board"
+msgstr "bảng"
+
+msgid "body"
+msgstr "thân"
+
+msgid "bold"
+msgstr "đậm"
+
+msgid "bookmarks"
+msgstr "liên kết lưu"
+
+msgid "boot"
+msgstr "khởi động"
+
+msgid "border"
+msgstr "viền"
+
+msgid "box"
+msgstr "hộp"
+
+msgid "bracket"
+msgstr "ngoặc vu"
+
+msgid "branch"
+msgstr "nhánh"
+
+msgid "break"
+msgstr "ngắt"
+
+msgid "break (program)"
+msgstr "làm hư"
+
+msgid "break point"
+msgstr "điểm ngắt"
+
+msgid "bridge (verb)"
+msgstr "nối cầu"
+
+msgid "bridge (noun)"
+msgstr "cầu nối"
+
+msgid "broken"
+msgstr "hỏng"
+
+msgid "browse"
+msgstr "duyệt"
+
+msgid "browser"
+msgstr "trình duyệt"
+
+msgid "buffer"
+msgstr "vùng đệm"
+
+msgid "bug"
+msgstr "lỗi"
+
+msgid "build"
+msgstr "xây dựng"
+
+msgid "built-in"
+msgstr "có sẵn"
+
+msgid "bullet"
+msgstr "chấm đầu dòng"
+
+msgid "bus"
+msgstr "mạch nối"
+
+msgid "button"
+msgstr "nút"
+
+msgid "byte"
+msgstr "byte"
+
+msgid "cable"
+msgstr "cáp"
+
+msgid "cache"
+msgstr "(vùng) nhớ tạm"
+
+msgid "calculate"
+msgstr "tính"
+
+msgid "calculator"
+msgstr "bàn tính"
+
+msgid "calendar"
+msgstr "lịch"
+
+msgid "call"
+msgstr "(cuộc) gọi"
+
+msgid "camera"
+msgstr "máy ảnh, máy quay"
+
+msgid "cancel"
+msgstr "thôi"
+
+msgid "capability"
+msgstr "khả năng"
+
+msgid "capacity"
+msgstr "sức chứa"
+
+msgid "caption"
+msgstr "đầu đề"
+
+msgid "capture"
+msgstr "bắt"
+
+msgid "card"
+msgstr "thẻ, bo mạch"
+
+msgid "case"
+msgstr "trường hợp"
+
+msgid "case (font)"
+msgstr "chữ hoa/thường"
+
+msgid "catalog"
+msgstr "mục lục"
+
+msgid "category"
+msgstr "phân loại"
+
+msgid "cell"
+msgstr "ô"
+
+msgid "certificate"
+msgstr "chứng nhận"
+
+msgid "certify"
+msgstr "thị thực"
+
+msgid "change"
+msgstr "thay đổi"
+
+msgid "channel"
+msgstr "kênh"
+
+msgid "character"
+msgstr "ký tự"
+
+msgid "charset"
+msgstr "bộ ký tự"
+
+msgid "chart"
+msgstr "sơ đồ"
+
+msgid "chat"
+msgstr "chát"
+
+msgid "check"
+msgstr "kiểm tra, séc"
+
+msgid "check box"
+msgstr "hộp kiểm tra"
+
+msgid "child"
+msgstr "con"
+
+#, fuzzy
+msgid "choice"
+msgstr "Lựa chọn"
+
+#, fuzzy
+msgid "choose"
+msgstr "bộ chọn phông chữ"
+
+msgid "class"
+msgstr "hạng"
+
+#, fuzzy
+msgid "classic"
+msgstr "Cổ điển"
+
+#, fuzzy
+msgid "classify"
+msgstr "hạng"
+
+#, fuzzy
+msgid "clean"
+msgstr ""
+"#-#-#-#-#  taportfolio.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"làm sạch\n"
+"#-#-#-#-#  turtleart-activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"gột"
+
+msgid "clear"
+msgstr "rõ"
+
+#, fuzzy
+msgid "click (noun)"
+msgstr "số tiền còn lại"
+
+#, fuzzy
+msgid "click (verb)"
+msgstr "nhấn đây"
+
+#, fuzzy
+msgid "client"
+msgstr "kfmclient"
+
+#, fuzzy
+msgid "clip art"
+msgstr "Lật đường dẫn"
+
+#, fuzzy
+msgid "clip board"
+msgstr "bảng nháp"
+
+#, fuzzy
+msgid "clock"
+msgstr "Đồng hồ"
+
+msgid "close"
+msgstr "gần"
+
+#, fuzzy
+msgid "code (program)"
+msgstr "nạp chương trình"
+
+#, fuzzy
+msgid "code (symbol)"
+msgstr "không có ký hiệu"
+
+msgid "codec"
+msgstr "codec"
+
+msgid "collapse"
+msgstr "co lại"
+
+#, fuzzy
+msgid "collect"
+msgstr "Tập hợp"
+
+#, fuzzy
+msgid "column"
+msgstr "cột"
+
+#, fuzzy
+msgid "combination"
+msgstr "Tổ hợ_p"
+
+msgid "comma"
+msgstr "dấu phẩy"
+
+msgid "command"
+msgstr "lệnh"
+
+msgid "comment"
+msgstr "chú thích"
+
+#, fuzzy
+msgid "common"
+msgstr "Hay dùng"
+
+#, fuzzy
+msgid "communication"
+msgstr "Liên lạc"
+
+#, fuzzy
+msgid "compact"
+msgstr "Gọn"
+
+#, fuzzy
+msgid "compare"
+msgstr "So sánh"
+
+#, fuzzy
+msgid "compatibility"
+msgstr "Tương thích"
+
+#, fuzzy
+msgid "compatible"
+msgstr ""
+"#-#-#-#-#  Compendium5.po (latest)  #-#-#-#-#\n"
+"tab không tương thích\n"
+"#-#-#-#-#  coreutils-7.1.vi.po (coreutils 7.1)  #-#-#-#-#\n"
+"các khoảng tab không tương thích với nhau"
+
+#, fuzzy
+msgid "compilation"
+msgstr "Lỗi biên dịch."
+
+#, fuzzy
+msgid "compile"
+msgstr "Biên dịch"
+
+#, fuzzy
+msgid "compiler"
+msgstr "Bộ biên dịch"
+
+#, fuzzy
+msgid "complete"
+msgstr "% hoàn tất"
+
+msgid "component"
+msgstr "thành phần"
+
+#, fuzzy
+msgid "compose"
+msgstr "soạn thảo,"
+
+#, fuzzy
+msgid "composition"
+msgstr "Phân huỷ"
+
+msgid "compress"
+msgstr "nén"
+
+#, fuzzy
+msgid "compression"
+msgstr "Nén"
+
+msgid "computer"
+msgstr "máy tính"
+
+#, fuzzy
+msgid "computing"
+msgstr "Thời gian tính toán"
+
+#, fuzzy
+msgid "concatenate"
+msgstr "Nối nhau"
+
+#, fuzzy
+msgid "concurrent"
+msgstr "hiện có"
+
+#, fuzzy
+msgid "condense"
+msgstr "hẹp"
+
+#, fuzzy
+msgid "condition"
+msgstr "Điều kiện"
+
+msgid "configuration"
+msgstr "cấu hình"
+
+#, fuzzy
+msgid "configure"
+msgstr "(chưa cấu hình)"
+
+#, fuzzy
+msgid "confirm"
+msgstr "Xác nhận"
+
+#, fuzzy
+msgid "confirmation"
+msgstr "Xác nhận"
+
+msgid "conflict"
+msgstr "xung đột"
+
+#, fuzzy
+msgid "connect"
+msgstr "Tái kết nối"
+
+#, fuzzy
+msgid "connection"
+msgstr "Kết nối WAN"
+
+msgid "console"
+msgstr "bàn giao tiếp"
+
+#, fuzzy
+msgid "contact (noun)"
+msgstr "liên lạc trực tuyến"
+
+#, fuzzy
+msgid "contact (verb)"
+msgstr "tên liên lạc"
+
+msgid "content"
+msgstr "nội dung"
+
+msgid "context"
+msgstr "ngữ cảnh"
+
+#, fuzzy
+msgid "continue"
+msgstr "Tiếp tục"
+
+#, fuzzy
+msgid "contrast"
+msgstr "Tương phản"
+
+msgid "contributor"
+msgstr "người đóng góp"
+
+msgid "control"
+msgstr "điều khiển"
+
+#, fuzzy
+msgid "conversion"
+msgstr "Chuyển đổi"
+
+#, fuzzy
+msgid "convert"
+msgstr ""
+"#-#-#-#-#  Compendium1.po (latest)  #-#-#-#-#\n"
+"biến đổi\n"
+"#-#-#-#-#  pootle-terminology.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"chuyển đổi"
+
+msgid "cookie"
+msgstr "cookie"
+
+#, fuzzy
+msgid "cooperative"
+msgstr "Không thao tác"
+
+#, fuzzy
+msgid "coordinate"
+msgstr ""
+"#-#-#-#-#  Compendium1.po (latest)  #-#-#-#-#\n"
+"(d) toạ độ ; (đ) điều hợp\n"
+"#-#-#-#-#  pootle-terminology.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"toạ độ"
+
+#, fuzzy
+msgid "copy (noun)"
+msgstr "số tiền còn lại"
+
+#, fuzzy
+msgid "copy (verb)"
+msgstr "Sơn"
+
+#, fuzzy
+msgid "copy left"
+msgstr "Chép trái"
+
+#, fuzzy
+msgid "copy right"
+msgstr "tác quyền"
+
+msgid "correct"
+msgstr "đúng"
+
+#, fuzzy
+msgid "correspondence"
+msgstr "Bộ tự động đáp ứng"
+
+#, fuzzy
+msgid "correspondent"
+msgstr "Bộ tự động đáp ứng"
+
+#, fuzzy
+msgid "corrupt"
+msgstr "đúng"
+
+msgid "count"
+msgstr "đếm"
+
+#, fuzzy
+msgid "countable"
+msgstr "_Lắp được"
+
+msgid "crash"
+msgstr "hỏng"
+
+msgid "create"
+msgstr "tạo"
+
+#, fuzzy
+msgid "creation"
+msgstr "Giải trí"
+
+#, fuzzy
+msgid "criteria"
+msgstr "Tiêu chí"
+
+#, fuzzy
+msgid "crop"
+msgstr "Tự động xén"
+
+#, fuzzy
+msgid "cross-platform"
+msgstr "nền tảng"
+
+#, fuzzy
+msgid "crypt"
+msgstr ""
+"#-#-#-#-#  Compendium3.po (latest)  #-#-#-#-#\n"
+"mật mã\n"
+"#-#-#-#-#  vi.po (libpam-ldap 184-4.2)  #-#-#-#-#\n"
+"mật_mã"
+
+#, fuzzy
+msgid "cryptology"
+msgstr "mật mã"
+
+msgid "current"
+msgstr "hiện có"
+
+msgid "cursor"
+msgstr "con chạy"
+
+#, fuzzy
+msgid "curve"
+msgstr "Cong"
+
+msgid "custom"
+msgstr "tự chọn"
+
+#, fuzzy
+msgid "customization"
+msgstr ""
+"#-#-#-#-#  Compendium4.po (VERSION)  #-#-#-#-#\n"
+"Tùy chỉnh hành động\n"
+"#-#-#-#-#  vi.po (epiphany-extensions)  #-#-#-#-#\n"
+"Tùy chỉnh hành vi"
+
+#, fuzzy
+msgid "customize"
+msgstr "Tùy chỉnh"
+
+msgid "cut"
+msgstr "cắt"
+
+#, fuzzy
+msgid "cycle"
+msgstr "xe đạp"
+
+msgid "daemon"
+msgstr "trình nền"
+
+#, fuzzy
+msgid "damage"
+msgstr "Ảnh"
+
+msgid "data"
+msgstr "dữ liệu"
+
+msgid "database"
+msgstr "cơ sở dữ liệu"
+
+msgid "debug"
+msgstr "gỡ lỗi"
+
+#, fuzzy
+msgid "debugger"
+msgstr "Gỡ lỗi"
+
+msgid "decimal"
+msgstr "thập phân"
+
+#, fuzzy
+msgid "decode"
+msgstr "mã"
+
+#, fuzzy
+msgid "decompress"
+msgstr "bộ giải nén"
+
+#, fuzzy
+msgid "decrease"
+msgstr "Giảm"
+
+#, fuzzy
+msgid "decrypt"
+msgstr "Giải mật mã"
+
+#, fuzzy
+msgid "decryption"
+msgstr "Mật mã"
+
+msgid "default"
+msgstr "mặc định"
+
+#, fuzzy
+msgid "defect"
+msgstr "hiệu ứng"
+
+#, fuzzy
+msgid "define"
+msgstr "chưa xác định"
+
+msgid "definition"
+msgstr "lời xác định"
+
+msgid "degree"
+msgstr "độ"
+
+#, fuzzy
+msgid "delay"
+msgstr "Khoảng chờ"
+
+msgid "delete"
+msgstr "xoá"
+
+#, fuzzy
+msgid "deletion"
+msgstr "thông điệp xoá"
+
+#, fuzzy
+msgid "delimiter"
+msgstr "Bộ giới hạn"
+
+msgid "demo"
+msgstr ""
+
+msgid "deny"
+msgstr "từ chối"
+
+#, fuzzy
+msgid "dependence"
+msgstr "Independence"
+
+#, fuzzy
+msgid "dependency"
+msgstr ""
+"#-#-#-#-#  Compendium9.po (VERSION)  #-#-#-#-#\n"
+"phụ thuộc\n"
+"#-#-#-#-#  pootle-terminology.po (terminology)  #-#-#-#-#\n"
+"quan hệ phụ thuộc"
+
+#, fuzzy
+msgid "depth"
+msgstr "Sâu"
+
+#, fuzzy
+msgid "derived"
+msgstr "Được lấy từ"
+
+#, fuzzy
+msgid "descending"
+msgstr "Giảm dần"
+
+msgid "description"
+msgstr "mô tả"
+
+#, fuzzy
+msgid "deselect"
+msgstr "Bỏ chọn"
+
+#, fuzzy
+msgid "design"
+msgstr ""
+"#-#-#-#-#  Compendium4.po (VERSION)  #-#-#-#-#\n"
+"Thiết kế\n"
+"#-#-#-#-#  vi.po (gimp)  #-#-#-#-#\n"
+"Đề cương"
+
+msgid "desktop"
+msgstr "màn hình nền"
+
+#, fuzzy
+msgid "destination"
+msgstr "Đích"
+
+#, fuzzy
+msgid "destroy"
+msgstr "Huỷ"
+
+#, fuzzy
+msgid "detach"
+msgstr "đã bỏ gắn"
+
+#, fuzzy
+msgid "detect"
+msgstr ""
+"#-#-#-#-#  Compendium6.po (latest)  #-#-#-#-#\n"
+"Tự dò tìm\n"
+"#-#-#-#-#  gnetconfig.po (gnetconfig)  #-#-#-#-#\n"
+"Tự động dò tìm"
+
+#, fuzzy
+msgid "develop"
+msgstr "nhà phát triển"
+
+#, fuzzy
+msgid "development"
+msgstr "Phát triển"
+
+msgid "developer"
+msgstr "nhà phát triển"
+
+msgid "device"
+msgstr "thiết bị"
+
+#, fuzzy
+msgid "diagram"
+msgstr "Biểu đồ"
+
+#, fuzzy
+msgid "dial"
+msgstr ""
+"#-#-#-#-#  Compendium4.po (latest)  #-#-#-#-#\n"
+"thoại\n"
+"#-#-#-#-#  vi.po (orca TRUNK)  #-#-#-#-#\n"
+"quay số"
+
+msgid "dialog"
+msgstr "hộp thoại"
+
+msgid "dialup"
+msgstr "quay số"
+
+#, fuzzy
+msgid "difference"
+msgstr "Hiệu"
+
+#, fuzzy
+msgid "digit"
+msgstr "chữ số"
+
+#, fuzzy
+msgid "digital"
+msgstr "chữ số"
+
+#, fuzzy
+msgid "dimension"
+msgstr "kích cỡ"
+
+msgid "directory"
+msgstr "thư mục"
+
+msgid "disable"
+msgstr "tắt"
+
+msgid "disc"
+msgstr "đĩa"
+
+#, fuzzy
+msgid "discard"
+msgstr "Huỷ"
+
+#, fuzzy
+msgid "disconnect"
+msgstr "Ngắt kết nối"
+
+msgid "discussion"
+msgstr "thảo luận"
+
+msgid "disk"
+msgstr "đĩa"
+
+#, fuzzy
+msgid "dispatch"
+msgstr "Khớp"
+
+msgid "display"
+msgstr "hiển thị"
+
+msgid "distort"
+msgstr "biến dạng"
+
+#, fuzzy
+msgid "distribute"
+msgstr "Phân phối"
+
+msgid "distribution"
+msgstr "bản phân phối"
+
+#, fuzzy
+msgid "distributor"
+msgstr "Nhà phân phối"
+
+#, fuzzy
+msgid "dock"
+msgstr "Bỏ neo"
+
+msgid "document"
+msgstr "tài liệu"
+
+msgid "documentation"
+msgstr "tài liệu hướng dẫn"
+
+msgid "domain"
+msgstr "miền"
+
+#, fuzzy
+msgid "double click"
+msgstr "(nhấn đúp)"
+
+msgid "download"
+msgstr "tải về"
+
+msgid "drag"
+msgstr "kéo"
+
+msgid "draw"
+msgstr "vẽ"
+
+#, fuzzy
+msgid "driver"
+msgstr "Trình điều khiển"
+
+#, fuzzy
+msgid "dual"
+msgstr "Còn lại"
+
+#, fuzzy
+msgid "dump"
+msgstr "Đổ thậ_p lục"
+
+msgid "duplicate"
+msgstr "tạo bản sao"
+
+msgid "dynamic"
+msgstr "động"
+
+msgid "echo"
+msgstr "echo"
+
+msgid "edit"
+msgstr "sửa"
+
+#, fuzzy
+msgid "edition"
+msgstr "Cách vẽ"
+
+msgid "editor"
+msgstr "biên tập"
+
+msgid "effect"
+msgstr "hiệu ứng"
+
+#, fuzzy
+msgid "eject"
+msgstr "Từ chối"
+
+#, fuzzy
+msgid "electronic"
+msgstr "Điện tử"
+
+#, fuzzy
+msgid "element"
+msgstr "phần tử"
+
+msgid "email"
+msgstr "địa chỉ thư"
+
+#, fuzzy
+msgid "embed"
+msgstr "Nhúng"
+
+#, fuzzy
+msgid "emoticon"
+msgstr "Gửi biểu tượng xúc cảm"
+
+msgid "empty"
+msgstr "rỗng"
+
+#, fuzzy
+msgid "emulate"
+msgstr "Quy định"
+
+msgid "emulation"
+msgstr "mô phỏng"
+
+#, fuzzy
+msgid "emulator"
+msgstr "Mô phỏng"
+
+#, fuzzy
+msgid "enable"
+msgstr ""
+"#-#-#-#-#  Compendium8.po (VERSION)  #-#-#-#-#\n"
+"bật, hiệu lực\n"
+"#-#-#-#-#  interface_GUI.po (interface_GUI)  #-#-#-#-#\n"
+"bật"
+
+msgid "enabled"
+msgstr "đã bật"
+
+#, fuzzy
+msgid "encode"
+msgstr "bộ mã hoá"
+
+#, fuzzy
+msgid "encoding"
+msgstr ""
+"#-#-#-#-#  Compendium9.po (VERSION)  #-#-#-#-#\n"
+"Bảng mã\n"
+"#-#-#-#-#  modules_codec.po (modules_codec)  #-#-#-#-#\n"
+"Mã hoá"
+
+#, fuzzy
+msgid "encrypt"
+msgstr "đã mã"
+
+msgid "encrypted"
+msgstr "đã mã"
+
+#, fuzzy
+msgid "encryption"
+msgstr "Mật mã"
+
+#, fuzzy
+msgid "engine"
+msgstr "Cơ chế"
+
+#, fuzzy
+msgid "enhancement"
+msgstr "Tăng _cạnh"
+
+#, fuzzy
+msgid "enlarge"
+msgstr "lớn"
+
+#, fuzzy
+msgid "enlargement"
+msgstr "Quản lý"
+
+#, fuzzy
+msgid "enter"
+msgstr ""
+"#-#-#-#-#  Compendium4.po (latest)  #-#-#-#-#\n"
+"phím « enter »\n"
+"#-#-#-#-#  vi.po (orca TRUNK)  #-#-#-#-#\n"
+"enter"
+
+#, fuzzy
+msgid "entertainment"
+msgstr "Giải trí"
+
+msgid "entry"
+msgstr "mục"
+
+msgid "environment"
+msgstr "môi trường"
+
+msgid "equalizer"
+msgstr "bộ trộn tần số"
+
+msgid "erase"
+msgstr "xoá"
+
+msgid "error"
+msgstr "lỗi"
+
+#, fuzzy
+msgid "escape"
+msgstr ""
+"#-#-#-#-#  Compendium4.po (latest)  #-#-#-#-#\n"
+"phím « esc » (thoát)\n"
+"#-#-#-#-#  vi.po (orca TRUNK)  #-#-#-#-#\n"
+"escape"
+
+#, fuzzy
+msgid "evaluation"
+msgstr "ước lượng"
+
+#, fuzzy
+msgid "event"
+msgstr "mục"
+
+#, fuzzy
+msgid "exception"
+msgstr "Ngoại lệ, biệt lệ"
+
+msgid "executable"
+msgstr "thực hiện được"
+
+msgid "execute"
+msgstr "thực hiện"
+
+#, fuzzy
+msgid "existing"
+msgstr "Dùng điều tồn tại"
+
+msgid "exit"
+msgstr "thoát"
+
+msgid "expand"
+msgstr "giãn ra"
+
+#, fuzzy
+msgid "expansion"
+msgstr "Mở rộng"
+
+#, fuzzy
+msgid "explore"
+msgstr "Vellore"
+
+msgid "export"
+msgstr "xuất"
+
+msgid "expression"
+msgstr "biểu thức"
+
+#, fuzzy
+msgid "extend"
+msgstr "mở rộng"
+
+#, fuzzy
+msgid "extensible"
+msgstr "Theo phần mở rộng"
+
+#, fuzzy
+msgid "extension"
+msgstr "Phần mở rộng"
+
+msgid "external"
+msgstr "bên ngoài"
+
+msgid "extra"
+msgstr "thêm"
+
+#, fuzzy
+msgid "extract"
+msgstr "Trích ra"
+
+#, fuzzy
+msgid "fail"
+msgstr "thất bại"
+
+#, fuzzy
+msgid "fatal"
+msgstr "nghiêm trọng:"
+
+#, fuzzy
+msgid "fault"
+msgstr "Mặc định"
+
+#, fuzzy
+msgid "favorite"
+msgstr "Ưa thích"
+
+#, fuzzy
+msgid "feature"
+msgstr "tính năng"
+
+#, fuzzy
+msgid "feed"
+msgstr "nguồn tin mới"
+
+#, fuzzy
+msgid "feedback"
+msgstr ""
+"#-#-#-#-#  Compendium2.po (latest)  #-#-#-#-#\n"
+"Hồi âm\n"
+"#-#-#-#-#  TamTamSynthLab.activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Tiếp ngược"
+
+#, fuzzy
+msgid "fetch"
+msgstr "Lấy"
+
+msgid "field"
+msgstr "trường"
+
+#, fuzzy
+msgid "figure"
+msgstr "Cấu hình"
+
+msgid "file"
+msgstr "tập tin"
+
+#, fuzzy
+msgid "fill"
+msgstr "tô đầy"
+
+msgid "filter"
+msgstr "lọc"
+
+msgid "find"
+msgstr "tìm"
+
+#, fuzzy
+msgid "firewall"
+msgstr "Tường lửa"
+
+#, fuzzy
+msgid "firmware"
+msgstr "Phần vững"
+
+#, fuzzy
+msgid "fit"
+msgstr "it"
+
+#, fuzzy
+msgid "fix"
+msgstr "cố định"
+
+msgid "flag"
+msgstr "cờ"
+
+msgid "flash"
+msgstr "đèn nháy"
+
+# Name: don't translate/Tên: đừng dịch
+#, fuzzy
+msgid "flat"
+msgstr "deflate"
+
+msgid "flip"
+msgstr "lật"
+
+#, fuzzy
+msgid "float (verb)"
+msgstr "Sơn"
+
+#, fuzzy
+msgid "flood"
+msgstr "Tràn ngập"
+
+msgid "floppy"
+msgstr "đĩa mềm"
+
+msgid "folder"
+msgstr "thư mục"
+
+msgid "font"
+msgstr "phông chữ"
+
+msgid "footer"
+msgstr "chân trang"
+
+msgid "form"
+msgstr "mẫu"
+
+#, fuzzy
+msgid "format (noun)"
+msgstr "Sơn"
+
+#, fuzzy
+msgid "format (verb)"
+msgstr "Sơn"
+
+#, fuzzy
+msgid "formatted"
+msgstr "Chưa định dạng"
+
+#, fuzzy
+msgid "formula"
+msgstr "Công thức"
+
+#, fuzzy
+msgid "forum"
+msgstr "Diễn đàn"
+
+#, fuzzy
+msgid "fragment"
+msgstr "Đoạn"
+
+msgid "frame"
+msgstr "khung"
+
+#, fuzzy
+msgid "frame set"
+msgstr "Kích cỡ khung"
+
+#, fuzzy
+msgid "framework"
+msgstr "khung"
+
+#, fuzzy
+msgid "free software"
+msgstr "Phần mềm không tự do"
+
+#, fuzzy
+msgid "freeze"
+msgstr "Đông đặc"
+
+msgid "frequency"
+msgstr "tần số"
+
+#, fuzzy
+msgid "front end"
+msgstr "tâm trước"
+
+msgid "function"
+msgstr "hàm"
+
+#, fuzzy
+msgid "gallery"
+msgstr "Phòng trưng bày"
+
+#, fuzzy
+msgid "game"
+msgstr "Trò chơi kết thúc"
+
+#, fuzzy
+msgid "gateway"
+msgstr "Cổng ra"
+
+#, fuzzy
+msgid "generate"
+msgstr "Tạo ra"
+
+#, fuzzy
+msgid "generation"
+msgstr "Tạo ra"
+
+#, fuzzy
+msgid "generator"
+msgstr "Bộ phát sinh:"
+
+#, fuzzy
+msgid "generic"
+msgstr ""
+"#-#-#-#-#  Compendium4.po (latest)  #-#-#-#-#\n"
+"Giống loài\n"
+"#-#-#-#-#  vi.po (anjuta)  #-#-#-#-#\n"
+"Chung\n"
+"#-#-#-#-#  vi.po (glade3 TRUNK)  #-#-#-#-#\n"
+"Giống loài"
+
+#, fuzzy
+msgid "geometric"
+msgstr "Hình học"
+
+#, fuzzy
+msgid "geometry"
+msgstr "Dạng hình"
+
+msgid "grab"
+msgstr ""
+
+#, fuzzy
+msgid "gradient"
+msgstr "Dải màu"
+
+msgid "grain"
+msgstr "hạt"
+
+#, fuzzy
+msgid "graph"
+msgstr "đồ thị"
+
+#, fuzzy
+msgid "graphic"
+msgstr "Đồ họa"
+
+#, fuzzy
+msgid "graphical"
+msgstr "Địa lý"
+
+#, fuzzy
+msgid "graphics"
+msgstr "Đồ họa"
+
+#, fuzzy
+msgid "gray-scale"
+msgstr ""
+"#-#-#-#-#  Compendium4.po (VERSION)  #-#-#-#-#\n"
+"cân bằng xám\n"
+"#-#-#-#-#  vi.po (gimp)  #-#-#-#-#\n"
+"mức xám"
+
+msgid "grid"
+msgstr "lưới"
+
+msgid "group"
+msgstr "nhóm"
+
+#, fuzzy
+msgid "guess"
+msgstr "Đoán"
+
+#, fuzzy
+msgid "guest"
+msgstr ""
+"#-#-#-#-#  Compendium6.po (latest)  #-#-#-#-#\n"
+"Câu hỏi\n"
+"#-#-#-#-#  homepage.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Hỏi"
+
+#, fuzzy
+msgid "handle (noun)"
+msgstr "số tiền còn lại"
+
+#, fuzzy
+msgid "handle (verb)"
+msgstr "Sơn"
+
+#, fuzzy
+msgid "handler"
+msgstr "Chandler"
+
+msgid "hardware"
+msgstr "phần cứng"
+
+msgid "hash"
+msgstr "hash"
+
+#, fuzzy
+msgid "head"
+msgstr ""
+"#-#-#-#-#  Compendium5.po (VERSION)  #-#-#-#-#\n"
+"đầu\n"
+"#-#-#-#-#  util-linux-ng-2.14-rc2.vi.po (util-linux-ng 2.14-rc2)  #-#-#-#-#\n"
+"đầu đọc"
+
+msgid "header"
+msgstr "đầu trang"
+
+#, fuzzy
+msgid "height"
+msgstr ""
+"#-#-#-#-#  Compendium4.po (latest)  #-#-#-#-#\n"
+"cao\n"
+"#-#-#-#-#  vi.po (gtk+-properties 2.15.3)  #-#-#-#-#\n"
+"độ cao"
+
+msgid "help"
+msgstr "trợ giúp"
+
+msgid "hide"
+msgstr "ẩn"
+
+msgid "hierarchy"
+msgstr "thứ bậc"
+
+#, fuzzy
+msgid "high light"
+msgstr "tô sáng"
+
+msgid "history"
+msgstr "lịch sử"
+
+msgid "host"
+msgstr "máy"
+
+msgid "hostname"
+msgstr "tên máy"
+
+msgid "hyperlink"
+msgstr "siêu liên kết"
+
+#, fuzzy
+msgid "hypertext"
+msgstr "_Siêu văn bản"
+
+msgid "icon"
+msgstr "biểu tượng"
+
+#, fuzzy
+msgid "identify"
+msgstr "Nhận diện"
+
+msgid "idle"
+msgstr "nghỉ"
+
+msgid "ignore"
+msgstr "bỏ qua"
+
+msgid "image"
+msgstr "ảnh"
+
+#, fuzzy
+msgid "implement"
+msgstr "Chưa thực hiện"
+
+msgid "import"
+msgstr "nhập"
+
+msgid "inactive"
+msgstr "không hoạt động"
+
+#, fuzzy
+msgid "inbox"
+msgstr "Hộp Đến"
+
+#, fuzzy
+msgid "inch"
+msgstr ""
+"#-#-#-#-#  Compendium4.po (latest)  #-#-#-#-#\n"
+"insơ\n"
+"#-#-#-#-#  vi.po (Gtk+ 2.15.3)  #-#-#-#-#\n"
+"inch"
+
+msgid "include"
+msgstr "gồm"
+
+msgid "incoming"
+msgstr "gửi đến"
+
+#, fuzzy
+msgid "incompatible"
+msgstr ""
+"#-#-#-#-#  Compendium5.po (latest)  #-#-#-#-#\n"
+"tab không tương thích\n"
+"#-#-#-#-#  coreutils-7.1.vi.po (coreutils 7.1)  #-#-#-#-#\n"
+"các khoảng tab không tương thích với nhau"
+
+#, fuzzy
+msgid "increase"
+msgstr "Tăng"
+
+#, fuzzy
+msgid "increment"
+msgstr "Tăng:"
+
+msgid "indent"
+msgstr "thụt lề"
+
+#, fuzzy
+msgid "index"
+msgstr ""
+"#-#-#-#-#  Compendium2.po (latest)  #-#-#-#-#\n"
+"chỉ mục\n"
+"#-#-#-#-#  calculate-activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"mục lục"
+
+#, fuzzy
+msgid "indice"
+msgstr ""
+"#-#-#-#-#  Compendium6.po (latest)  #-#-#-#-#\n"
+"Hin-đi\n"
+"#-#-#-#-#  vi.po (CVS Version of Pidgin)  #-#-#-#-#\n"
+"Tiếng Hin-đi"
+
+#, fuzzy
+msgid "infect"
+msgstr "Hiệu ứng"
+
+msgid "infinite"
+msgstr "vô hạn"
+
+#, fuzzy
+msgid "information"
+msgstr "Thông tin tác vụ"
+
+#, fuzzy
+msgid "infrared"
+msgstr "Hồng ngoại"
+
+#, fuzzy
+msgid "initial"
+msgstr "sơ khởi"
+
+#, fuzzy
+msgid "initialize"
+msgstr "Sơ khởi"
+
+msgid "input"
+msgstr "nhập vào"
+
+msgid "insert"
+msgstr "chèn"
+
+msgid "install"
+msgstr "cài đặt"
+
+#, fuzzy
+msgid "installer"
+msgstr "đã cài đặt"
+
+#, fuzzy
+msgid "instance"
+msgstr "Lần"
+
+#, fuzzy
+msgid "instruction"
+msgstr "hướng dẫn"
+
+#, fuzzy
+msgid "integer"
+msgstr ""
+"#-#-#-#-#  Compendium3.po (latest)  #-#-#-#-#\n"
+"số nguyên\n"
+"#-#-#-#-#  vi.po (langupdate 0.0.6)  #-#-#-#-#\n"
+"số_nguyên"
+
+#, fuzzy
+msgid "integral"
+msgstr "Tích phân"
+
+#, fuzzy
+msgid "integrate"
+msgstr "Tích phân"
+
+#, fuzzy
+msgid "integration"
+msgstr "Hợp nhất"
+
+#, fuzzy
+msgid "integrity"
+msgstr "Không có toàn vẹn"
+
+#, fuzzy
+msgid "intensity"
+msgstr "Cường độ"
+
+#, fuzzy
+msgid "interactivity"
+msgstr "Tương tác"
+
+msgid "interface"
+msgstr "giao diện"
+
+#, fuzzy
+msgid "internal"
+msgstr "<nội bộ>"
+
+#, fuzzy
+msgid "internet"
+msgstr "Mạng"
+
+#, fuzzy
+msgid "interrupt"
+msgstr "lần ngắt"
+
+msgid "invalid"
+msgstr "không hợp lệ"
+
+msgid "inverse"
+msgstr "đảo"
+
+#, fuzzy
+msgid "invert"
+msgstr "Đảo"
+
+#, fuzzy
+msgid "invoke"
+msgstr "hoá đơn gửi"
+
+msgid "italic"
+msgstr "nghiêng"
+
+#, fuzzy
+msgid "item"
+msgstr "mục"
+
+#, fuzzy
+msgid "iteration"
+msgstr "Lặp lại:"
+
+#, fuzzy
+msgid "jag"
+msgstr "th1"
+
+#, fuzzy
+msgid "jam"
+msgstr "sáng"
+
+msgid "job"
+msgstr "việc"
+
+#, fuzzy
+msgid "join"
+msgstr "Tự động tham gia"
+
+#, fuzzy
+msgid "joy stick"
+msgstr "Cần chơi"
+
+#, fuzzy
+msgid "jump"
+msgstr "nhảy"
+
+#, fuzzy
+msgid "junk"
+msgstr "%d thư rác"
+
+#, fuzzy
+msgid "justify"
+msgstr "Sắp thẳng"
+
+msgid "keep"
+msgstr "giữ"
+
+msgid "kernel"
+msgstr "hạt nhân"
+
+#, fuzzy
+msgid "key"
+msgstr ""
+"#-#-#-#-#  Compendium5.po (latest)  #-#-#-#-#\n"
+"chìa khóa\n"
+"#-#-#-#-#  kbd-1.15.vi.po (kbd 1.15)  #-#-#-#-#\n"
+"phím"
+
+msgid "keyboard"
+msgstr "bàn phím"
+
+#, fuzzy
+msgid "key stroke"
+msgstr "Phím tắt"
+
+#, fuzzy
+msgid "key word"
+msgstr "Sửa đổi từ"
+
+msgid "label"
+msgstr "nhãn"
+
+msgid "landscape"
+msgstr "nằm ngang"
+
+msgid "language"
+msgstr "ngôn ngữ"
+
+msgid "laptop"
+msgstr "máy tính xách tay"
+
+#, fuzzy
+msgid "launch"
+msgstr "Khởi chạy"
+
+msgid "layer"
+msgstr "tầng"
+
+#, fuzzy
+msgid "layout"
+msgstr "Bố trí"
+
+msgid "length"
+msgstr "độ dài"
+
+msgid "license"
+msgstr "giấy phép"
+
+#, fuzzy
+msgid "line"
+msgstr "Trực tiếp"
+
+msgid "link"
+msgstr "liên kết"
+
+msgid "list"
+msgstr "hộp thư chung"
+
+msgid "load"
+msgstr "nạp"
+
+#, fuzzy
+msgid "local"
+msgstr ""
+"#-#-#-#-#  Compendium5.po (VERSION)  #-#-#-#-#\n"
+"cục bộ\n"
+"#-#-#-#-#  util-linux-ng-2.14-rc2.vi.po (util-linux-ng 2.14-rc2)  #-#-#-#-#\n"
+"nội bộ"
+
+#, fuzzy
+msgid "localization"
+msgstr "Địa phương hoá"
+
+msgid "location"
+msgstr "đía điểm"
+
+msgid "log"
+msgstr "loga"
+
+msgid "lookup"
+msgstr "tra tìm"
+
+#, fuzzy
+msgid "lower-case"
+msgstr "chữ thường"
+
+#, fuzzy
+msgid "machine"
+msgstr "Máy"
+
+#, fuzzy
+msgid "main board"
+msgstr "Thân chính"
+
+msgid "maintainer"
+msgstr "nhà duy trì"
+
+#, fuzzy
+msgid "maintenance"
+msgstr "&Bảo trì"
+
+#, fuzzy
+msgid "manage"
+msgstr "đã quản lý"
+
+#, fuzzy
+msgid "management"
+msgstr "Quản lý"
+
+#, fuzzy
+msgid "manager"
+msgstr "Quản lý"
+
+msgid "manual"
+msgstr "bằng tay"
+
+msgid "margin"
+msgstr "lề"
+
+#, fuzzy
+msgid "mark"
+msgstr ""
+"#-#-#-#-#  Compendium1.po (latest)  #-#-#-#-#\n"
+"bộ Đánh dấu\n"
+"#-#-#-#-#  pootle-terminology.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"đánh dấu"
+
+#, fuzzy
+msgid "master"
+msgstr "Chủ"
+
+msgid "match"
+msgstr "khớp với"
+
+msgid "maximize"
+msgstr "phóng to"
+
+msgid "memory"
+msgstr "bộ nhớ"
+
+msgid "menu"
+msgstr "trình đơn"
+
+#, fuzzy
+msgid "merge"
+msgstr ""
+"#-#-#-#-#  Compendium4.po (latest)  #-#-#-#-#\n"
+"Gộp lại\n"
+"#-#-#-#-#  vi.po (anjuta)  #-#-#-#-#\n"
+"Trộn"
+
+msgid "message"
+msgstr "thư"
+
+#, fuzzy
+msgid "method"
+msgstr "Phương pháp"
+
+msgid "minimize"
+msgstr "thu nhỏ"
+
+msgid "mode"
+msgstr "chế độ"
+
+msgid "modem"
+msgstr "bộ điều giải"
+
+#, fuzzy
+msgid "moderator"
+msgstr "Điều tiết viên"
+
+#, fuzzy
+msgid "modify"
+msgstr "Sửa"
+
+msgid "module"
+msgstr "mô-đun"
+
+msgid "monitor"
+msgstr "màn hình"
+
+msgid "mosaic"
+msgstr "khảm"
+
+msgid "motion"
+msgstr "chuyển động"
+
+msgid "mouse"
+msgstr "chuột"
+
+msgid "move"
+msgstr "dời"
+
+#, fuzzy
+msgid "multimedia"
+msgstr "Đa phương tiện"
+
+#, fuzzy
+msgid "multitasking"
+msgstr "Lọc chuyển động"
+
+msgid "name"
+msgstr "tên"
+
+#, fuzzy
+msgid "navigation"
+msgstr ""
+"#-#-#-#-#  Compendium8.po (VERSION)  #-#-#-#-#\n"
+"Di chuyển\n"
+"#-#-#-#-#  interface_GUI.po (interface_GUI)  #-#-#-#-#\n"
+"Tìm đường"
+
+#, fuzzy
+msgid "navigator"
+msgstr ""
+"#-#-#-#-#  Compendium8.po (VERSION)  #-#-#-#-#\n"
+"Di chuyển\n"
+"#-#-#-#-#  interface_GUI.po (interface_GUI)  #-#-#-#-#\n"
+"Tìm đường"
+
+msgid "network"
+msgstr "mạng"
+
+#, fuzzy
+msgid "news group"
+msgstr "Nhóm mới"
+
+#, fuzzy
+msgid "next"
+msgstr "lần kế tiếp."
+
+#, fuzzy
+msgid "nick name"
+msgstr "Tên hiệu"
+
+msgid "no"
+msgstr "không"
+
+msgid "node"
+msgstr "điểm nút"
+
+#, fuzzy
+msgid "notation"
+msgstr "Chú giải"
+
+msgid "note"
+msgstr "ghi chép"
+
+#, fuzzy
+msgid "notebook"
+msgstr ""
+"#-#-#-#-#  Compendium4.po (latest)  #-#-#-#-#\n"
+"Vở\n"
+"#-#-#-#-#  vi.po (glade3 TRUNK)  #-#-#-#-#\n"
+"Cuốn vở"
+
+msgid "notification"
+msgstr "thông báo"
+
+#, fuzzy
+msgid "notify"
+msgstr "Thông báo"
+
+msgid "null"
+msgstr "rỗng"
+
+msgid "number"
+msgstr "số"
+
+#, fuzzy
+msgid "numbering"
+msgstr "Cách gán số"
+
+#, fuzzy
+msgid "object"
+msgstr "Là đối tượng"
+
+#, fuzzy
+msgid "occurrence"
+msgstr "lần xảy ra"
+
+msgid "octet"
+msgstr ""
+
+msgid "offline"
+msgstr "ngoại tuyến"
+
+msgid "OK"
+msgstr "OK"
+
+#, fuzzy
+msgid "online"
+msgstr "Trực tiếp"
+
+#, fuzzy
+msgid "ongoing"
+msgstr "gửi đi"
+
+#, fuzzy
+msgid "opacity"
+msgstr "Đục"
+
+#, fuzzy
+msgid "opaque"
+msgstr "Độ mờ"
+
+msgid "open"
+msgstr "mở"
+
+#, fuzzy
+msgid "operation"
+msgstr "Không thao tác"
+
+msgid "option"
+msgstr "tùy chọn"
+
+msgid "optional"
+msgstr "tùy chọn"
+
+msgid "order"
+msgstr "đặt hàng"
+
+#, fuzzy
+msgid "organize"
+msgstr "Bộ tổ chức:"
+
+msgid "orientation"
+msgstr "hướng"
+
+#, fuzzy
+msgid "original"
+msgstr "Gốc"
+
+msgid "outgoing"
+msgstr "gửi đi"
+
+msgid "output"
+msgstr "kết xuất"
+
+#, fuzzy
+msgid "overflow"
+msgstr "Tràn danh sách"
+
+#, fuzzy
+msgid "override"
+msgstr "Ghi đè"
+
+msgid "overwrite"
+msgstr "ghi đè"
+
+msgid "owner"
+msgstr "chủ"
+
+#, fuzzy
+msgid "pack"
+msgstr "nhà đóng gói"
+
+#, fuzzy
+msgid "package"
+msgstr "nhà đóng gói"
+
+#, fuzzy
+msgid "packet"
+msgstr "gói tin"
+
+#, fuzzy
+msgid "padding"
+msgstr "Đệm"
+
+msgid "page"
+msgstr "trang"
+
+#, fuzzy
+msgid "paint"
+msgstr "Tây Ban Nha"
+
+msgid "pair"
+msgstr "cặp"
+
+#, fuzzy
+msgid "palette"
+msgstr "Bảng chọn"
+
+msgid "panel"
+msgstr "bảng điều khiển"
+
+#, fuzzy
+msgid "parallel"
+msgstr "Song song"
+
+msgid "parameter"
+msgstr "tham số"
+
+msgid "parcel"
+msgstr "bưu kiện"
+
+msgid "parent"
+msgstr "mẹ"
+
+#, fuzzy
+msgid "parity"
+msgstr "Tính chẵn lẻ"
+
+#, fuzzy
+msgid "parse"
+msgstr "Loãng"
+
+#, fuzzy
+msgid "partition"
+msgstr "Phân vùng nguồn:"
+
+#, fuzzy
+msgid "pass"
+msgstr "đã qua\n"
+
+msgid "password"
+msgstr "mật khẩu"
+
+msgid "paste"
+msgstr "dán"
+
+#, fuzzy
+msgid "patch (noun)"
+msgstr "Sơn"
+
+#, fuzzy
+msgid "patch (verb)"
+msgstr "Sơn"
+
+#, fuzzy
+msgid "path"
+msgstr ""
+"#-#-#-#-#  Compendium5.po (latest)  #-#-#-#-#\n"
+"đường dẫn\n"
+"#-#-#-#-#  mailfromd-5.0.vi.po (mailfromd 5.0)  #-#-#-#-#\n"
+"đdẫn"
+
+msgid "pattern"
+msgstr "mẫu"
+
+#, fuzzy
+msgid "pause"
+msgstr "bị tạm dừng"
+
+#, fuzzy
+msgid "peripheral"
+msgstr "Thiết bị ngoại vi"
+
+msgid "permanent"
+msgstr "bền bỉ"
+
+#, fuzzy
+msgid "permission"
+msgstr "quyền"
+
+#, fuzzy
+msgid "permutation"
+msgstr "Thi hành"
+
+#, fuzzy
+msgid "physical"
+msgstr "bộ nhớ vật lý"
+
+msgid "picture"
+msgstr "hình ảnh"
+
+msgid "pipe"
+msgstr "ống dẫn"
+
+#, fuzzy
+msgid "pixel"
+msgstr "điểm ảnh"
+
+#, fuzzy
+msgid "placement"
+msgstr "Định vị"
+
+msgid "plain"
+msgstr "thô"
+
+#, fuzzy
+msgid "plot (verb)"
+msgstr "Sơn"
+
+#, fuzzy
+msgid "plotter"
+msgstr "Máy vẽ"
+
+msgid "plugin"
+msgstr "bổ sung"
+
+msgid "pop up"
+msgstr ""
+
+msgid "port"
+msgstr "cổng"
+
+msgid "position"
+msgstr "vị trí"
+
+msgid "post"
+msgstr "gửi"
+
+msgid "preferences"
+msgstr "tùy thích"
+
+#, fuzzy
+msgid "prepare"
+msgstr "Nhà chuẩn bị"
+
+msgid "presentation"
+msgstr "trình diễn"
+
+msgid "press"
+msgstr "nhấn"
+
+#, fuzzy
+msgid "prevent"
+msgstr "Ngăn ngừa"
+
+msgid "preview"
+msgstr "xem thử"
+
+msgid "primary"
+msgstr "chính"
+
+#, fuzzy
+msgid "principal"
+msgstr "Tiền gốc"
+
+msgid "print"
+msgstr "in"
+
+msgid "printer"
+msgstr "máy in"
+
+msgid "priority"
+msgstr "ưu tiên"
+
+#, fuzzy
+msgid "privacy"
+msgstr "Riêng tư"
+
+#, fuzzy
+msgid "private"
+msgstr ""
+"#-#-#-#-#  Compendium5.po (latest)  #-#-#-#-#\n"
+"riêng\n"
+"#-#-#-#-#  gpsdrive-2.10pre6.vi.po (gpsdrive 2.10pre6)  #-#-#-#-#\n"
+"riêng tự"
+
+#, fuzzy
+msgid "privilege"
+msgstr "Quyền"
+
+#, fuzzy
+msgid "procedure"
+msgstr "Thủ tục"
+
+#, fuzzy
+msgid "process"
+msgstr "Bộ tiền xử lý"
+
+#, fuzzy
+msgid "processor"
+msgstr "Bộ xử lý"
+
+msgid "product"
+msgstr "sản phẩm"
+
+msgid "profile"
+msgstr "hồ sơ"
+
+msgid "program"
+msgstr "chương trình"
+
+#, fuzzy
+msgid "programmer"
+msgstr "Lập trình viên"
+
+msgid "project"
+msgstr "dự án"
+
+msgid "prompt"
+msgstr "nhắc"
+
+#, fuzzy
+msgid "property"
+msgstr "Thuộc tính"
+
+#, fuzzy
+msgid "proprietary"
+msgstr "Sở hữu"
+
+#, fuzzy
+msgid "protect"
+msgstr "đã bảo vệ"
+
+#, fuzzy
+msgid "protection"
+msgstr "Bảo vệ"
+
+msgid "protocol"
+msgstr "giao thức"
+
+#, fuzzy
+msgid "provide"
+msgstr "cung cấp"
+
+#, fuzzy
+msgid "provider"
+msgstr "cung cấp"
+
+msgid "proxy"
+msgstr "ủy nhiệm"
+
+msgid "public"
+msgstr "công cộng"
+
+#, fuzzy
+msgid "publish"
+msgstr "nhà xuất bản"
+
+msgid "pull"
+msgstr ""
+
+msgid "push"
+msgstr "đẩy"
+
+msgid "quality"
+msgstr "chất lượng"
+
+#, fuzzy
+msgid "quantity"
+msgstr "Số lượng"
+
+#, fuzzy
+msgid "quarantine"
+msgstr "Kiểm dịch"
+
+msgid "query"
+msgstr "câu hỏi"
+
+#, fuzzy
+msgid "queue"
+msgstr "Thêm vào hàng"
+
+msgid "quit"
+msgstr "thoát"
+
+msgid "quota"
+msgstr "hạn ngạch"
+
+#, fuzzy
+msgid "quotation"
+msgstr "Trích dẫn"
+
+msgid "quote"
+msgstr "dấu trích dẫn"
+
+#, fuzzy
+msgid "raise"
+msgstr "Nâng lên"
+
+msgid "random"
+msgstr "ngẫu nhiên"
+
+msgid "range"
+msgstr "phạm_vị"
+
+msgid "rate"
+msgstr "tỷ lệ"
+
+msgid "ratio"
+msgstr "tỷ lệ"
+
+#, fuzzy
+msgid "raw"
+msgstr "Vẽ"
+
+#, fuzzy
+msgid "ray"
+msgstr "xám"
+
+msgid "read"
+msgstr "đọc"
+
+msgid "read only"
+msgstr "chỉ đọc"
+
+msgid "ready"
+msgstr "sẵn sàng"
+
+#, fuzzy
+msgid "real"
+msgstr "địa hạt"
+
+msgid "reboot"
+msgstr "khởi động lại"
+
+#, fuzzy
+msgid "receipt"
+msgstr ""
+"#-#-#-#-#  Compendium8.po (VERSION)  #-#-#-#-#\n"
+"Thông báo đã nhận\n"
+"#-#-#-#-#  windows.po (windows 1.6)  #-#-#-#-#\n"
+"Báo đã nhận"
+
+#, fuzzy
+msgid "receive"
+msgstr "nhận thư"
+
+#, fuzzy
+msgid "recognition"
+msgstr "không nhận ra tùy chọn"
+
+#, fuzzy
+msgid "reconnect"
+msgstr "Tái kết nối"
+
+#, fuzzy
+msgid "record"
+msgstr ""
+"#-#-#-#-#  Compendium2.po (latest)  #-#-#-#-#\n"
+"thu\n"
+"#-#-#-#-#  Scratch.po  #-#-#-#-#\n"
+"ghi"
+
+#, fuzzy
+msgid "record (verb)"
+msgstr ""
+"#-#-#-#-#  Compendium2.po (latest)  #-#-#-#-#\n"
+"thu\n"
+"#-#-#-#-#  Scratch.po  #-#-#-#-#\n"
+"ghi"
+
+#, fuzzy
+msgid "recover"
+msgstr "Phục hồi"
+
+#, fuzzy
+msgid "recovery"
+msgstr "Phục hồi"
+
+#, fuzzy
+msgid "recursion"
+msgstr "Đệ quy"
+
+msgid "recursive"
+msgstr "đệ qui"
+
+#, fuzzy
+msgid "redirect"
+msgstr "bị chuyển hướng"
+
+msgid "redo"
+msgstr "làm lại"
+
+#, fuzzy
+msgid "reduce"
+msgstr "Giảm thiểu"
+
+#, fuzzy
+msgid "reduction"
+msgstr "Sản xuất"
+
+#, fuzzy
+msgid "redundant"
+msgstr "Thừa"
+
+msgid "reference"
+msgstr "tham chiếu"
+
+#, fuzzy
+msgid "referer"
+msgstr "Tùy thích"
+
+#, fuzzy
+msgid "referral"
+msgstr "Hoãn được"
+
+#, fuzzy
+msgid "reflexive"
+msgstr "Kiểu _phản ánh"
+
+msgid "refresh"
+msgstr "làm mới"
+
+#, fuzzy
+msgid "refuse"
+msgstr "_Từ chối"
+
+#, fuzzy
+msgid "regenerate"
+msgstr "Khoá đã tạo"
+
+msgid "register"
+msgstr "sổ mục"
+
+#, fuzzy
+msgid "registration"
+msgstr "Đang ký"
+
+#, fuzzy
+msgid "registry"
+msgstr "sổ mục"
+
+msgid "regular"
+msgstr "chính quy"
+
+#, fuzzy
+msgid "regulate"
+msgstr "Quy định"
+
+#, fuzzy
+msgid "relay"
+msgstr "Khoảng chờ"
+
+msgid "release"
+msgstr "phát hành"
+
+msgid "remaining"
+msgstr "còn lại"
+
+#, fuzzy
+msgid "remind"
+msgstr "Nhắc nhở"
+
+msgid "remote"
+msgstr "từ xa"
+
+#, fuzzy
+msgid "removable"
+msgstr " rời"
+
+msgid "remove"
+msgstr "bỏ"
+
+msgid "rename"
+msgstr "thay tên"
+
+msgid "render"
+msgstr "vẽ"
+
+msgid "renew"
+msgstr ""
+
+#, fuzzy
+msgid "repair"
+msgstr "cặp"
+
+msgid "repeat"
+msgstr "lặp lại"
+
+#, fuzzy
+msgid "replace"
+msgstr "thay thế"
+
+#, fuzzy
+msgid "replicate"
+msgstr "Sao lại"
+
+#, fuzzy
+msgid "replication"
+msgstr "Ứng dụng"
+
+#, fuzzy
+msgid "reply"
+msgstr "Đáp ứng"
+
+#, fuzzy
+msgid "report"
+msgstr "thông báo ghi lưu"
+
+#, fuzzy
+msgid "repository"
+msgstr "Kho lưu"
+
+msgid "request"
+msgstr "yêu cầu"
+
+#, fuzzy
+msgid "require"
+msgstr ""
+"#-#-#-#-#  Compendium4.po (latest)  #-#-#-#-#\n"
+"cần\n"
+"#-#-#-#-#  vi.po (orca TRUNK)  #-#-#-#-#\n"
+"yêu cầu"
+
+#, fuzzy
+msgid "requirement"
+msgstr "Cần thiết"
+
+#, fuzzy
+msgid "reset"
+msgstr "Định sẵn"
+
+msgid "resize"
+msgstr "đổi cỡ"
+
+msgid "resolution"
+msgstr "độ phân giải"
+
+#, fuzzy
+msgid "resolver"
+msgstr "Bộ tháo gỡ"
+
+msgid "resource"
+msgstr "tài nguyên"
+
+#, fuzzy
+msgid "response"
+msgstr "Trả lời"
+
+#, fuzzy
+msgid "restart"
+msgstr "Khởi chạy lại"
+
+#, fuzzy
+msgid "restore"
+msgstr "Phục hồi"
+
+#, fuzzy
+msgid "restrict"
+msgstr "bị hạn chế"
+
+#, fuzzy
+msgid "restriction"
+msgstr ""
+"#-#-#-#-#  Compendium6.po (latest)  #-#-#-#-#\n"
+"Giới hạn\n"
+"#-#-#-#-#  windows.restrictions.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Hạn chế\n"
+"#-#-#-#-#  _webpages.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Giới hạn"
+
+#, fuzzy
+msgid "result"
+msgstr "kết quả"
+
+# #-#-#-#-#  Compendium5.po (latest)  #-#-#-#-#
+# TRANS: Action label for resuming an activity.
+#, fuzzy
+msgid "resume"
+msgstr "Tiếp tục"
+
+#, fuzzy
+msgid "retrieve"
+msgstr "Gọi"
+
+msgid "retry"
+msgstr "thử lại"
+
+msgid "return"
+msgstr "xuống dòng"
+
+msgid "reverse"
+msgstr "đổi chiều"
+
+#, fuzzy
+msgid "revert"
+msgstr "Hoàn nguyên"
+
+#, fuzzy
+msgid "revocation"
+msgstr "đía điểm"
+
+#, fuzzy
+msgid "revoke"
+msgstr " bị huỷ bỏ"
+
+msgid "root"
+msgstr "người chủ"
+
+msgid "rotate"
+msgstr "xoay"
+
+#, fuzzy
+msgid "route"
+msgstr "Đường"
+
+#, fuzzy
+msgid "router"
+msgstr "Bộ định tuyến"
+
+#, fuzzy
+msgid "routine"
+msgstr "Chương trình con"
+
+#, fuzzy
+msgid "row"
+msgstr ""
+"#-#-#-#-#  Compendium4.po (latest)  #-#-#-#-#\n"
+"Phình to\n"
+"#-#-#-#-#  vi.po (anjuta)  #-#-#-#-#\n"
+"Phóng to"
+
+#, fuzzy
+msgid "rule"
+msgstr "%d quy tắc"
+
+msgid "run"
+msgstr "chạy"
+
+#, fuzzy
+msgid "runtime"
+msgstr "Giờ chạy"
+
+#, fuzzy
+msgid "safe"
+msgstr ", an toàn"
+
+msgid "sample"
+msgstr "lấy mẫu"
+
+#, fuzzy
+msgid "sans"
+msgstr "sans 12"
+
+msgid "save"
+msgstr "lưu"
+
+#, fuzzy
+msgid "scalable"
+msgstr "Cân bằng"
+
+#, fuzzy
+msgid "scale"
+msgstr "tỷ lệ"
+
+#, fuzzy
+msgid "scan"
+msgstr "Quét _lại"
+
+msgid "scanner"
+msgstr "máy quét"
+
+msgid "schedule"
+msgstr "lịch biểu"
+
+#, fuzzy
+msgid "scheme"
+msgstr "Lược đồ"
+
+#, fuzzy
+msgid "scratch"
+msgstr "bắt"
+
+msgid "screen"
+msgstr "màn hình"
+
+#, fuzzy
+msgid "screw"
+msgstr "màn hình"
+
+msgid "script"
+msgstr "văn lệnh"
+
+msgid "scroll"
+msgstr "cuộn"
+
+msgid "search"
+msgstr "tìm"
+
+msgid "section"
+msgstr "phần"
+
+msgid "sector"
+msgstr "rãnh ghi"
+
+#, fuzzy
+msgid "secure"
+msgstr "Không an toàn"
+
+#, fuzzy
+msgid "security"
+msgstr ""
+"#-#-#-#-#  Compendium6.po (latest)  #-#-#-#-#\n"
+"giấy chứng khoán\n"
+"#-#-#-#-#  switch_to_linux.from_windows_to_linux.po (PACKAGE VERSION)  #-#-#-"
+"#-#\n"
+"bảo mật"
+
+#, fuzzy
+msgid "seek"
+msgstr ""
+"#-#-#-#-#  Compendium4.po (VERSION)  #-#-#-#-#\n"
+"Tìm nơi phim\n"
+"#-#-#-#-#  vi.po (gimp-gap GNOME TRUNK)  #-#-#-#-#\n"
+"Tìm nơi phim"
+
+#, fuzzy
+msgid "segment"
+msgstr "Đoạn"
+
+#, fuzzy
+msgid "segmentation"
+msgstr "Thi hành"
+
+msgid "select"
+msgstr "chọn"
+
+msgid "selection"
+msgstr "vùng chọn"
+
+#, fuzzy
+msgid "semantic"
+msgstr "Willimantic"
+
+msgid "send"
+msgstr "gửi"
+
+#, fuzzy
+msgid "sender"
+msgstr "Người gửi"
+
+msgid "sensitive"
+msgstr "phân biệt"
+
+#, fuzzy
+msgid "sensor"
+msgstr "Bộ nhạy"
+
+#, fuzzy
+msgid "serif"
+msgstr "Chân"
+
+msgid "server"
+msgstr "máy/trình phục vụ"
+
+msgid "session"
+msgstr "buổi hợp"
+
+msgid "set"
+msgstr "đặt"
+
+msgid "settings"
+msgstr "thiết lập"
+
+#, fuzzy
+msgid "setup"
+msgstr "Thiết lập"
+
+#, fuzzy
+msgid "shading"
+msgstr "Bóng"
+
+#, fuzzy
+msgid "shadow"
+msgstr "Bóng"
+
+#, fuzzy
+msgid "shape"
+msgstr "Hình"
+
+msgid "share"
+msgstr "chia sẻ"
+
+#, fuzzy
+msgid "sharp"
+msgstr "s sắc"
+
+#, fuzzy
+msgid "sheet"
+msgstr "csheet"
+
+msgid "shell"
+msgstr "vỏ"
+
+#, fuzzy
+msgid "shift"
+msgstr ""
+"#-#-#-#-#  Compendium1.po (latest)  #-#-#-#-#\n"
+"Shift\n"
+"#-#-#-#-#  pootle-terminology.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"dịch\n"
+"#-#-#-#-#  pootle-terminology.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"dịch"
+
+msgid "shortcut"
+msgstr "phím tắt"
+
+msgid "show"
+msgstr "hiện"
+
+#, fuzzy
+msgid "shrink"
+msgstr "Thu nhỏ"
+
+msgid "shut down"
+msgstr "tắt máy"
+
+#, fuzzy
+msgid "side bar"
+msgstr "Thanh tựa đề"
+
+#, fuzzy
+msgid "sign"
+msgstr "Gán"
+
+#, fuzzy
+msgid "signal"
+msgstr "Tín hiệu"
+
+msgid "signature"
+msgstr "chữ ký"
+
+msgid "site"
+msgstr "địa chỉ Web"
+
+#, fuzzy
+msgid "size"
+msgstr ""
+"#-#-#-#-#  Compendium2.po (latest)  #-#-#-#-#\n"
+"cỡ\n"
+"#-#-#-#-#  Scratch.po  #-#-#-#-#\n"
+"kích thước"
+
+msgid "skew"
+msgstr "đối xứng lệch"
+
+msgid "skip"
+msgstr ""
+
+msgid "slave"
+msgstr "phụ"
+
+msgid "sleep"
+msgstr "ngủ"
+
+#, fuzzy
+msgid "slide"
+msgstr "con trượt"
+
+msgid "slot"
+msgstr ""
+
+#, fuzzy
+msgid "smart"
+msgstr "Khéo"
+
+#, fuzzy
+msgid "smiley"
+msgstr "Hình cười"
+
+msgid "smooth"
+msgstr "mịn"
+
+msgid "socket"
+msgstr "ổ cắm"
+
+msgid "software"
+msgstr "phần mềm"
+
+msgid "solid"
+msgstr "đặc"
+
+msgid "sort"
+msgstr "sắp xếp"
+
+msgid "source"
+msgstr "nguồn"
+
+msgid "space"
+msgstr "dấu cách"
+
+#, fuzzy
+msgid "spacing"
+msgstr "Khoảng cách"
+
+msgid "spam"
+msgstr ""
+
+#, fuzzy
+msgid "span"
+msgstr "tiếng Tây Ban Nha"
+
+#, fuzzy
+msgid "spawn"
+msgstr "con tốt"
+
+msgid "specify"
+msgstr ""
+
+msgid "speed"
+msgstr "tốc độ"
+
+#, fuzzy
+msgid "spelling"
+msgstr "chính tả"
+
+#, fuzzy
+msgid "splash"
+msgstr "_Giật gân"
+
+msgid "split"
+msgstr "phần"
+
+msgid "spool"
+msgstr "ống chỉ"
+
+#, fuzzy
+msgid "spread sheet"
+msgstr "bảng tính"
+
+msgid "stack"
+msgstr "đống"
+
+#, fuzzy
+msgid "stand alone"
+msgstr "Độc lập"
+
+msgid "standard"
+msgstr "chuẩn"
+
+#, fuzzy
+msgid "start"
+msgstr ""
+"#-#-#-#-#  Compendium2.po (latest)  #-#-#-#-#\n"
+"đầu\n"
+"#-#-#-#-#  taportfolio.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"bắt đầu\n"
+"#-#-#-#-#  turtleart-activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"đầu"
+
+#, fuzzy
+msgid "state"
+msgstr "tình trạng %d"
+
+#, fuzzy
+msgid "static"
+msgstr "Tĩnh"
+
+msgid "statistics"
+msgstr "thống kê"
+
+msgid "step"
+msgstr "bước"
+
+msgid "stop"
+msgstr "dừng"
+
+#, fuzzy
+msgid "storage"
+msgstr "Lưu trữ"
+
+#, fuzzy
+msgid "store"
+msgstr "Phục hồi"
+
+#, fuzzy
+msgid "stream"
+msgstr "luồng"
+
+#, fuzzy
+msgid "stretch"
+msgstr "giãn"
+
+#, fuzzy
+msgid "strict"
+msgstr "Hạn chế"
+
+msgid "string"
+msgstr "chuỗi"
+
+#, fuzzy
+msgid "strip"
+msgstr "Bỏ sọc"
+
+#, fuzzy
+msgid "stroke"
+msgstr "O chéo"
+
+#, fuzzy
+msgid "structure"
+msgstr "Cấu trúc"
+
+msgid "stub"
+msgstr ""
+
+msgid "style"
+msgstr "kiểu dáng"
+
+#, fuzzy
+msgid "sub directory"
+msgstr "Thư mục Mạng"
+
+#, fuzzy
+msgid "sub folder"
+msgstr "Thư mục Mạng:"
+
+#, fuzzy
+msgid "submission"
+msgstr "Gửi cho :"
+
+msgid "submit"
+msgstr "gửi"
+
+#, fuzzy
+msgid "subscribe"
+msgstr "Hủy đăng ký"
+
+#, fuzzy
+msgid "subscription"
+msgstr "Đăng ký"
+
+msgid "subtract"
+msgstr "trừ"
+
+#, fuzzy
+msgid "succeed"
+msgstr "Thành công"
+
+#, fuzzy
+msgid "suggest"
+msgstr "đề nghị"
+
+#, fuzzy
+msgid "suggestion"
+msgstr "Góp ý"
+
+#, fuzzy
+msgid "sum (noun)"
+msgstr "công ty"
+
+#, fuzzy
+msgid "sum (verb)"
+msgstr "Sơn"
+
+msgid "summary"
+msgstr "tóm tắt"
+
+msgid "support"
+msgstr "hỗ trợ"
+
+#, fuzzy
+msgid "surface"
+msgstr "Mặt"
+
+msgid "suspend"
+msgstr "ngưng"
+
+msgid "suspicious"
+msgstr ""
+
+msgid "swap"
+msgstr "trao đổi"
+
+#, fuzzy
+msgid "switch"
+msgstr "công tắc 3"
+
+msgid "symbol"
+msgstr "ký hiệu"
+
+#, fuzzy
+msgid "synchronize"
+msgstr ""
+"#-#-#-#-#  Compendium5.po (latest)  #-#-#-#-#\n"
+"Đồng bộ\n"
+"#-#-#-#-#  gpe-calendar-0.91.vi.po (gpe-calendar 0.91)  #-#-#-#-#\n"
+"Đồng bộ hoá"
+
+msgid "syntax"
+msgstr "cú pháp"
+
+#, fuzzy
+msgid "system"
+msgstr "Hệ thống tập tin"
+
+msgid "tab"
+msgstr "tab"
+
+msgid "table"
+msgstr "bảng"
+
+msgid "tag"
+msgstr "thẻ"
+
+#, fuzzy
+msgid "target"
+msgstr "Lập đích"
+
+msgid "template"
+msgstr "mẫu"
+
+#, fuzzy
+msgid "temporary"
+msgstr "Tạm"
+
+msgid "terminal"
+msgstr "thiết bị cuối"
+
+msgid "test"
+msgstr "test"
+
+msgid "text"
+msgstr "văn bản"
+
+msgid "texture"
+msgstr "hoà tiết"
+
+msgid "theme"
+msgstr "sắc thái"
+
+msgid "thread"
+msgstr "nhánh"
+
+#, fuzzy
+msgid "thumbnail"
+msgstr "Ảnh mẫu"
+
+msgid "tick"
+msgstr "dấu kiểm"
+
+msgid "tile"
+msgstr "gạch lát"
+
+#, fuzzy
+msgid "time"
+msgstr ""
+"#-#-#-#-#  Compendium5.po (latest)  #-#-#-#-#\n"
+"giờ\n"
+"#-#-#-#-#  mailfromd-5.0.vi.po (mailfromd 5.0)  #-#-#-#-#\n"
+"thời gian"
+
+#, fuzzy
+msgid "time out"
+msgstr "Thời hạn:"
+
+#, fuzzy
+msgid "tip"
+msgstr ""
+"#-#-#-#-#  Compendium4.po (latest)  #-#-#-#-#\n"
+"mẹo\n"
+"#-#-#-#-#  vi.po (orca TRUNK)  #-#-#-#-#\n"
+"gợiý"
+
+msgid "title"
+msgstr "tựa đề"
+
+msgid "toggle"
+msgstr "bật/tắt"
+
+#, fuzzy
+msgid "token"
+msgstr "Hiệu bài"
+
+msgid "tool"
+msgstr "công cụ"
+
+msgid "tool bar"
+msgstr "thanh công cụ"
+
+#, fuzzy
+msgid "tool box"
+msgstr "thanh công cụ"
+
+msgid "topic"
+msgstr "chủ đề"
+
+#, fuzzy
+msgid "trace"
+msgstr "Potrace"
+
+#, fuzzy
+msgid "track"
+msgstr "rãnh"
+
+#, fuzzy
+msgid "traffic"
+msgstr "trọng_tải,mdv"
+
+#, fuzzy
+msgid "transfer"
+msgstr "Truyền"
+
+msgid "transform"
+msgstr "chuyển dạng"
+
+msgid "transformation"
+msgstr "chuyển dạng"
+
+#, fuzzy
+msgid "trap"
+msgstr "Bẫy IOT"
+
+msgid "trash"
+msgstr "thùng rác"
+
+#, fuzzy
+msgid "trigger"
+msgstr "Thủ tục lẫy"
+
+#, fuzzy
+msgid "trouble shoot"
+msgstr "Giải đáp _thắc mắc"
+
+#, fuzzy
+msgid "tune"
+msgstr "May"
+
+#, fuzzy
+msgid "tweak"
+msgstr "Tinh chỉnh"
+
+#, fuzzy
+msgid "type (noun)"
+msgstr "Sơn"
+
+#, fuzzy
+msgid "type (verb)"
+msgstr "Sơn"
+
+#, fuzzy
+msgid "type face"
+msgstr "Mặt phông chữ"
+
+msgid "unavailable"
+msgstr "không sẵn sàng"
+
+msgid "undelete"
+msgstr "huỷ xoá"
+
+#, fuzzy
+msgid "under line"
+msgstr ""
+"#-#-#-#-#  Compendium5.po (latest)  #-#-#-#-#\n"
+"gạch chân\n"
+"#-#-#-#-#  gpsdrive-2.10pre6.vi.po (gpsdrive 2.10pre6)  #-#-#-#-#\n"
+"gạch dưới"
+
+msgid "undo"
+msgstr "hủy bước"
+
+#, fuzzy
+msgid "uninstall"
+msgstr "Huỷ cài đặt"
+
+#, fuzzy
+msgid "unit"
+msgstr "đơn vị"
+
+msgid "unknown"
+msgstr "không rõ"
+
+#, fuzzy
+msgid "unload"
+msgstr "Bỏ nạp"
+
+#, fuzzy
+msgid "named"
+msgstr "không tên"
+
+#, fuzzy
+msgid "reachable"
+msgstr "Không thể tới"
+
+msgid "readable"
+msgstr "đọc được"
+
+msgid "unspecified"
+msgstr "chưa xác định"
+
+#, fuzzy
+msgid "unsubscribe"
+msgstr "Hủy đăng ký"
+
+#, fuzzy
+msgid "unsupported"
+msgstr "Không được hỗ trợ"
+
+msgid "update"
+msgstr "cập nhật"
+
+msgid "upgrade"
+msgstr "nâng cấp"
+
+msgid "upload"
+msgstr "tải lên"
+
+#, fuzzy
+msgid "upper case"
+msgstr "Thẻ thành chữ hoa"
+
+msgid "usage"
+msgstr "cách sử dụng"
+
+msgid "user"
+msgstr "người dùng"
+
+#, fuzzy
+msgid "user name"
+msgstr "Tên người dùng"
+
+#, fuzzy
+msgid "utility"
+msgstr "Tiện ích"
+
+msgid "valid"
+msgstr "hợp lệ"
+
+#, fuzzy
+msgid "validation"
+msgstr "Hợp lệ hoá"
+
+# #-#-#-#-#  vi.po (seahorse 2.25.90)  #-#-#-#-#
+# Name: don't translate / Tên: đừng dịch
+#, fuzzy
+msgid "validity"
+msgstr "Hợp lệ"
+
+msgid "value"
+msgstr "giá trị"
+
+#, fuzzy
+msgid "variable"
+msgstr ""
+"#-#-#-#-#  Compendium1.po (latest)  #-#-#-#-#\n"
+"biến đổi\n"
+"#-#-#-#-#  pootle-terminology.po (speedcrunch)  #-#-#-#-#\n"
+"biến"
+
+#, fuzzy
+msgid "vector"
+msgstr "Smvectors"
+
+#, fuzzy
+msgid "verbose"
+msgstr "Chi tiết"
+
+#, fuzzy
+msgid "verify"
+msgstr "thẩm tra:\n"
+
+msgid "version"
+msgstr "phiên bản"
+
+msgid "video"
+msgstr "phim"
+
+msgid "view"
+msgstr "xem"
+
+#, fuzzy
+msgid "viewer"
+msgstr "Người xem lại"
+
+msgid "virtual"
+msgstr "ảo"
+
+msgid "virus"
+msgstr " "
+
+#, fuzzy
+msgid "visual"
+msgstr "Thị lực"
+
+#, fuzzy
+msgid "volume"
+msgstr ""
+"#-#-#-#-#  Compendium2.po (latest)  #-#-#-#-#\n"
+"âm lượng\n"
+"#-#-#-#-#  taportfolio.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"âm lượng\n"
+"#-#-#-#-#  Scratch.po  #-#-#-#-#\n"
+"cường độ\n"
+"#-#-#-#-#  turtleart-activity.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"âm lượng"
+
+#, fuzzy
+msgid "wallpaper"
+msgstr "Ảnh trang trí nền"
+
+#, fuzzy
+msgid "warn"
+msgstr "cảnh báo"
+
+msgid "web"
+msgstr "web"
+
+msgid "web cam"
+msgstr ""
+
+#, fuzzy
+msgid "web master"
+msgstr "Chủ Mạng"
+
+#, fuzzy
+msgid "web page"
+msgstr "Trang Web"
+
+#, fuzzy
+msgid "widget"
+msgstr "Ô điều khiển"
+
+msgid "width"
+msgstr "độ rộng"
+
+msgid "wi fi"
+msgstr ""
+
+#, fuzzy
+msgid "wild card"
+msgstr "ký tự đại diện:"
+
+msgid "window"
+msgstr "cửa sổ"
+
+msgid "wizard"
+msgstr "trợ lý"
+
+#, fuzzy
+msgid "word processor"
+msgstr "Trình xử lý từ"
+
+#, fuzzy
+msgid "work around"
+msgstr "Tìm cách &khác"
+
+#, fuzzy
+msgid "work group"
+msgstr "Nhóm làm việc SMB"
+
+#, fuzzy
+msgid "work station"
+msgstr ""
+"#-#-#-#-#  Compendium7.po (VERSION)  #-#-#-#-#\n"
+"Máy trăm\n"
+"#-#-#-#-#  vi.po (debian-edu-install 0.670~svn41716)  #-#-#-#-#\n"
+"Máy trạm"
+
+#, fuzzy
+msgid "wrap"
+msgstr "Ngắt dòng lại"
+
+msgid "yes"
+msgstr "có"
+
+#, fuzzy
+msgid "zone"
+msgstr "Múi giờ"
+
+msgid "zoom"
+msgstr "thu phóng"

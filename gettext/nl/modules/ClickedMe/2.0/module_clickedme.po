@@ -1,0 +1,127 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Dutch translation for ClickedMe 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-03 22:38+0200\n"
+"PO-Revision-Date: 2010-06-16 23:11+0200\n"
+"Last-Translator: Arjen <teb@zikula.nl>\n"
+"Language-Team: Dutch Zikula Community\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnmailzapi.php:18
+msgid "Last visits of user profile"
+msgstr "Laatste bezoeken van gebruikers profiel"
+
+#: pnmailzapi.php:19
+msgid ""
+"This plugin will insert the last users that have visited the mail recipients "
+"last visitors with their avatar."
+msgstr ""
+"Deze plugin voegt de laatste profiel bezoekers van de mailontvangers in met "
+"hun avatars."
+
+#: pnversion.php:18
+msgid "See who visited your profile!"
+msgstr "Bekijk wie je profiel heeft bezocht!"
+
+#: pnaccountapi.php:29 pntemplates/clickedme_user_main.htm:6
+#: pntemplates/clickedme_user_header.htm:7
+msgid "Privacy Settings"
+msgstr "Privacy instellingen"
+
+#: pnmyprofileapi.php:51
+msgid "My visits"
+msgstr "Mijn bezoeken"
+
+#: pnuser.php:26
+msgid "Settings stored"
+msgstr "Instellingen opgeslagen"
+
+#: pntemplates/clickedme_user_history.htm:5
+msgid "Users that visited your profile page"
+msgstr "Bezoekers die je profiel pagina hebben bezocht"
+
+#: pntemplates/clickedme_user_history.htm:22
+msgid "The last profiles you visited"
+msgstr "Laatst bezochte profielen"
+
+#: pntemplates/clickedme_block_last.htm:4
+#: pntemplates/clickedme_block_last_alternative.htm:4
+msgid ""
+"Clicks to other profiles are not tracked for you due to your privacy "
+"settings. This is why clicks to your profile are not tracked, too."
+msgstr ""
+"Kliks naar andere profielen zijn niet bijgehouden vanwege je privacy "
+"instellingen. Dit is ook de reden waarom kliks naar jouw profiel ook niet "
+"worden bijgehouden."
+
+#: pntemplates/clickedme_block_last.htm:4
+#: pntemplates/clickedme_block_last_alternative.htm:4
+msgid "Change your privacy settings!"
+msgstr "Wijzig je privacy instellingen!"
+
+#: pntemplates/clickedme_block_last.htm:7
+#: pntemplates/clickedme_block_last_alternative.htm:7
+msgid ""
+"Nobody visited your profile yet. Be more active and other users will visit "
+"your profile!"
+msgstr ""
+"Niemand heeft tot nu toe jouw profiel bezocht. Wees wat actiever en anderen "
+"zullen vanzelf een bezoek brengen!"
+
+#: pntemplates/clickedme_block_last.htm:12
+msgid "do you know them alredy? Visit their profiles!"
+msgstr "Ken je ze al? Bezoek hun profiel!"
+
+#: pntemplates/clickedme_user_main.htm:7
+msgid ""
+"The normal settings track every other profile you visit and users can see "
+"that you visited their profile. If you want to surf anonymously you can "
+"disable the profile tracking. Doing this will not let others see that you "
+"have clicked their profiles. But you will also not be able to see who viewed "
+"your profile page. Due to more interaction you should not disable tracking "
+"and surf anonymously."
+msgstr ""
+"De standaardinstellingen slaan ieder bezoek van een profiel op, en andere "
+"gebruikers kunnen ook zien dat jij ze bezocht hebt. Voor anoniem surfen kun "
+"je deze instelling uitschakelen. Anderen zien dan niet dat jij hen bezocht "
+"het, en jij kunt zelf ook niet zien wie jouw profiel bezocht heeft. Voor "
+"meer interactie wordt dit natuurlijk afgeraden."
+
+#: pntemplates/clickedme_user_main.htm:12
+msgid "I want to surf anonymously!"
+msgstr "Ik wil anoniem surfen!"
+
+#: pntemplates/clickedme_user_main.htm:14
+msgid ""
+"Changing these settings will only affect visits that take place later - "
+"earlier visits will not be deleted."
+msgstr ""
+"Wijzigingen in deze instellingen zullen alleen van toepassing zijn op "
+"toekomstig surfgedrag. De opgebouwde historie wordt niet gewist."
+
+#: pntemplates/clickedme_user_main.htm:16
+msgid "Update Settings"
+msgstr "Instellingen bijwerken"
+
+#: pntemplates/clickedme_block_last_modify.htm:3
+msgid "How many users (max) should be displayed?"
+msgstr "Maximaal aantal te tonen gebruikers"
+
+#: pntemplates/clickedme_user_header.htm:3
+msgid "User Account Panel"
+msgstr "Gebruikers account paneel"
+
+#: pntemplates/clickedme_user_header.htm:11
+msgid "Profiles I visited and users who visited my profile"
+msgstr ""
+"Door mij bezochte profielen, en gebruikers die mijn profiel hebben bezocht"

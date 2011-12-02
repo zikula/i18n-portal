@@ -1,0 +1,89 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-09 12:49+0000\n"
+"PO-Revision-Date: 2010-01-31 12:49+0200\n"
+"Last-Translator: Jusuff <jusuff@jabster.pl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnadmin.php:61
+msgid "none"
+msgstr "żadne"
+
+#: pnadmin.php:130
+msgid "Done! Module configuration updated."
+msgstr "Gotowe! Konfiguracja modułu została zaktualizowana."
+
+#: pnversion.php:14
+msgid "authldap"
+msgstr "authldap"
+
+#: pnversion.php:15
+msgid "AuthLDAP"
+msgstr "AuthLDAP"
+
+#: pnversion.php:16 pntemplates/authldap_admin_menu.htm:4
+msgid "LDAP authentication"
+msgstr "Uwierzytelnianie LDAP"
+
+#: pnuserapi.php:27
+msgid "Error! Could not do what you wanted. Please check your input."
+msgstr ""
+"Błąd! Nie udało się wykonać zadanej czynności. Sprawdź poprawność danych."
+
+#: pntemplates/authldap_admin_modifyconfig.htm:4
+#: pntemplates/authldap_admin_modifyconfig.htm:5
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: pntemplates/authldap_admin_modifyconfig.htm:11
+msgid "Server address"
+msgstr "Adres serwera"
+
+#: pntemplates/authldap_admin_modifyconfig.htm:15
+msgid "Protocol version"
+msgstr "Wersja protokółu"
+
+#: pntemplates/authldap_admin_modifyconfig.htm:22
+msgid "Base DN"
+msgstr "Base DN"
+
+#: pntemplates/authldap_admin_modifyconfig.htm:26
+msgid "Bind as"
+msgstr "Bind as"
+
+#: pntemplates/authldap_admin_modifyconfig.htm:30
+msgid "Encryption method"
+msgstr "Encryption method"
+
+#: pntemplates/authldap_admin_modifyconfig.htm:36
+msgid "Bind password"
+msgstr "Bind password"
+
+#: pntemplates/authldap_admin_modifyconfig.htm:40
+msgid "Search base"
+msgstr "Baza wyszukiwania"
+
+#: pntemplates/authldap_admin_modifyconfig.htm:44
+msgid "Search user using attribute"
+msgstr "Szukaj użytkownika używając atrybutu"
+
+#: pntemplates/authldap_admin_modifyconfig.htm:50
+msgid "Update Configuration"
+msgstr "Zapisz"
+
+#: pntemplates/authldap_admin_modifyconfig.htm:51
+msgid "Cancel"
+msgstr "Anuluj"

@@ -1,0 +1,249 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bad_Behaviour\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-27 15:28+0000\n"
+"PO-Revision-Date: 2011-07-31 14:55+0200\n"
+"Last-Translator: Carsten <carsten@zikula.org>\n"
+"Language-Team: Carsten Volmer <carsten@zikula.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.1.6\n"
+
+#: lib/vendor/bad-behavior/bad-behavior-wordpress.php:140
+#: lib/vendor/bad-behavior/bad-behavior-wordpress-admin.php:22
+#: lib/vendor/bad-behavior/bad-behavior-wordpress-admin.php:24
+#: lib/vendor/bad-behavior/bad-behavior-generic.php:125
+msgid "Bad Behavior"
+msgstr "Bad Behavior"
+
+#: lib/vendor/bad-behavior/bad-behavior-wordpress.php:140
+#: lib/vendor/bad-behavior/bad-behavior-generic.php:125
+msgid "has blocked"
+msgstr "blockte"
+
+#: lib/vendor/bad-behavior/bad-behavior-wordpress.php:140
+#: lib/vendor/bad-behavior/bad-behavior-generic.php:125
+msgid "access attempts in the last 7 days."
+msgstr "Zugriffsversuche in den letzten 7 Tagen."
+
+#: lib/BadBehavior/Api/Admin.php:28 templates/admin/view.tpl:4
+msgid "Access log"
+msgstr "Zugriffsprotokoll"
+
+#: lib/BadBehavior/Api/Admin.php:35 templates/admin/modifyconfig.tpl:4
+msgid "Settings"
+msgstr "Konfiguration"
+
+#: lib/BadBehavior/Controller/Admin.php:102
+msgid "Done! Updated the BadBehavior configuration."
+msgstr "Erledigt! Die BadBehavior Konfiguration wurde aktualisiert."
+
+#: lib/BadBehavior/Version.php:27 lib/BadBehavior/Version.php:28
+msgid "BadBehavior"
+msgstr "Bad Behavior"
+
+#. ! module name that appears in URL
+#: lib/BadBehavior/Version.php:30
+msgid "badbehavior"
+msgstr "badbehavior"
+
+#: templates/admin/display.tpl:4
+msgid "Log entry"
+msgstr "Protokolleintrag"
+
+#: templates/admin/display.tpl:9 templates/admin/view.tpl:11
+msgid "IP address"
+msgstr "IP Adresse"
+
+#: templates/admin/display.tpl:13 templates/admin/view.tpl:10
+msgid "Date"
+msgstr "Datum"
+
+#: templates/admin/display.tpl:17
+msgid "Request method"
+msgstr "Anfragemethode"
+
+#: templates/admin/display.tpl:21
+msgid "Request URI"
+msgstr "Request URI"
+
+#: templates/admin/display.tpl:25
+msgid "Server protocol"
+msgstr "Serverprotokoll"
+
+#: templates/admin/display.tpl:29
+msgid "Http headers"
+msgstr "HTTP Header"
+
+#: templates/admin/display.tpl:33
+msgid "User agent"
+msgstr "User Agent"
+
+#: templates/admin/display.tpl:37
+msgid "Request entity"
+msgstr "Request Entity"
+
+#: templates/admin/display.tpl:41
+msgid "Key"
+msgstr "Key"
+
+#: templates/admin/display.tpl:45
+msgid "Response"
+msgstr "HTTP Antwort"
+
+#: templates/admin/display.tpl:49
+msgid "Explanation"
+msgstr "Erklärung"
+
+#: templates/admin/display.tpl:53
+msgid "Log"
+msgstr "Protokoll"
+
+#: templates/admin/view.tpl:12
+msgid "Assigned Key"
+msgstr "Zugeordneter Key"
+
+#: templates/admin/view.tpl:13
+msgid "Message"
+msgstr "Message"
+
+#: templates/admin/view.tpl:14
+msgid "Actions"
+msgstr "Aktionen"
+
+#: templates/admin/view.tpl:24
+msgid "View"
+msgstr "Anzeigen"
+
+#: templates/admin/view.tpl:27
+msgid "There are no log entries"
+msgstr "Es sind keine Protokolleinträge vorhanden"
+
+#: templates/admin/modifyconfig.tpl:11
+msgid "General settings"
+msgstr "Allgemeine Einstellungen"
+
+#: templates/admin/modifyconfig.tpl:13
+msgid "Enable Bad Behavior screening"
+msgstr "Bad Behavior aktivieren"
+
+#: templates/admin/modifyconfig.tpl:17
+msgid "Use strict screening"
+msgstr "Hohe Sicherheit"
+
+#: templates/admin/modifyconfig.tpl:21
+msgid "Enable logging"
+msgstr "Protokollierung aktivieren"
+
+#: templates/admin/modifyconfig.tpl:25
+msgid "Log everything (not just failed attempts)"
+msgstr ""
+"Alles protokollieren (Speichert alle Zugriffe und nicht nur die blockierten)"
+
+#: templates/admin/modifyconfig.tpl:29
+msgid "Display stats in footer"
+msgstr "Statistik im Footer anzeigen"
+
+#: templates/admin/modifyconfig.tpl:33
+msgid "Items per page on log display"
+msgstr "Einträge pro Protokollseite"
+
+#: templates/admin/modifyconfig.tpl:35
+msgid "\"0\" for no limit."
+msgstr "\"0\" für kein Limit"
+
+#: templates/admin/modifyconfig.tpl:39
+msgid "Save"
+msgstr "Speichern"
+
+#: templates/admin/modifyconfig.tpl:40
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#~ msgid "Done! Module configuration updated."
+#~ msgstr "Erledigt! Die Modulkonfiguration wurde aktualisiert."
+
+#~ msgid "Bad Behaviour"
+#~ msgstr "Bad Behaviour"
+
+#~ msgid "Bad Behaviour spam detection"
+#~ msgstr "Bad Behaviour Spam Schutz"
+
+#~ msgid ""
+#~ "<a href=\"http://www.bad-behavior.ioerror.us/\">Bad Behavior</a> has "
+#~ "blocked <strong>%s</strong> access attempts in the last 7 days."
+#~ msgstr ""
+#~ "<a href=\"http://www.bad-behavior.ioerror.us/\">Bad Behavior</a> hat "
+#~ "<strong>%s</strong> Zugriffe in den letzten 7 Tagen blockiert."
+
+#~ msgid "View blocked Accesses"
+#~ msgstr "Blockierte Zugriffe anzeigen"
+
+#~ msgid "Error! Sorry! Table creation failed."
+#~ msgstr "Fehler! Das Erstellen der Datenbanktabellen ist fehlgeschlagen."
+
+#~ msgid "Error! Unable to create system init hook"
+#~ msgstr "Fehler! Der System Init Hook konnte nicht erstellt werden."
+
+#~ msgid ""
+#~ "BadBehaviour have been enabled, you can change this in the hook settings "
+#~ "(Administration -> Modules -> System hooks) by deactivating the "
+#~ "BadBehaviour systeminit hook for Zikula itself"
+#~ msgstr ""
+#~ "Der System-Init-Hook von Bad Behaviour wurde aktiviert. Änderungen können "
+#~ "in den Hook-Einstellungen (Administration -> Module -> System-Hooks) "
+#~ "vorgenommen werden, indem der BadBehaviour System-Hook für Zikula "
+#~ "deaktiviert wird."
+
+#~ msgid "Unable to delete system init hook"
+#~ msgstr "Fehler! Der System Init Hook konnte nicht entfernt werden."
+
+#~ msgid "financial contribution"
+#~ msgstr "finanzielle Spende"
+
+#~ msgid ""
+#~ "For more information please visit the <a href=\"http://www.bad-behavior."
+#~ "ioerror.us/\">Bad Behavior</a> homepage."
+#~ msgstr ""
+#~ "Weitere Informationen stehen unter <a href=\"http://www.bad-behavior."
+#~ "ioerror.us/\">Bad Behavior Homepage</a> zur Verfügung."
+
+#~ msgid ""
+#~ "If you find Bad Behavior valuable, please consider making a <a href=\"%1$s"
+#~ "\">%2$s</a> to further development of Bad Behavior."
+#~ msgstr ""
+#~ "Wenn einem Bad Behavior gefällt, dann kann man dem Programmierer eine "
+#~ "kleine <a href=\"%1$s\">%2$s</a> zukommen lassen, damit das Projekt "
+#~ "fortgeführt wird."
+
+#~ msgid ""
+#~ "To test Bad Behaviour is functioning correctly add the sting \"Bad "
+#~ "Behavior Test\" as the USER_AGENT of an HTTP request. Sound complicated? "
+#~ "Under IE this probably is.... However if using FireFox install the <a "
+#~ "href=\"https://addons.mozilla.org/firefox/967/\">\"Modify Headers\"</a> "
+#~ "add-on and this can be done from the GUI."
+#~ msgstr ""
+#~ "Um Bad Behaviour zu testen, kann \"Bad Behavior Test\" als USER_AGENT der "
+#~ "HTTP-Anfragen angegeben werden. Klingt kompliziert? Im Internet Explorer "
+#~ "ist es das auch. Bei Firefox reicht die <a href=\"https://addons.mozilla."
+#~ "org/firefox/967/\">\"Modify Headers-Extension\"</a> um das einfach über "
+#~ "ein Menü zu tun."
+
+#~ msgid "No items found."
+#~ msgstr "Keine Einträge gefunden."
+
+#~ msgid "Verbose HTTP request logging"
+#~ msgstr "Vollständige Protokollierung"
+
+#~ msgid "Logs all requests not just those blocked"
+#~ msgstr "Speichert alle Zugriffe und nicht nur die blockierten"
+
+#~ msgid "Blocks more spam but may block some people"
+#~ msgstr "Kann unter Umständen auch normale Benutzer aussperren"
+
+#~ msgid "Update Configuration"
+#~ msgstr "Konfiguration aktualisieren"

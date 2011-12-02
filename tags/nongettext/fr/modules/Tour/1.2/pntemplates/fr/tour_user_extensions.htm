@@ -1,0 +1,22 @@
+<!--[include file="tour_user_menu.htm"]-->
+
+<h1>D'autres présentations</h1>
+<p>Quelques extensions sont installées avec le site et ont leur propre présentation décrivant leurs principales caractéristiques. Toutes les extensions qui ont une présentation sont listées ci-dessous. Les extensions qui ne sont pas listées ici doivent avoir d'autres formes de documentations (notamment lorsqu'il s'agit de module tiers, vous devriez alors regarder dans les fichiers se trouvant dans le répertoire pndoc de l'extension qui contiennent généralement une documentation ou un lien vers le site des auteurs).</p>
+
+<h2>Modules</h2>
+<ul>
+<!--[foreach from=$modpages item="mod"]-->
+<li><a href="<!--[pnmodurl modname="tour" func="exttour" ext=$mod exttype="module" page=1]-->"><!--[$mod]--></a></li>
+<!--[foreachelse]-->
+<li>Aucune présentation de module sur votre site !</li>
+<!--[/foreach]-->
+</ul>
+
+<h2>Thèmes</h2>
+<ul>
+<!--[foreach from=$themepages item="theme"]-->
+<li><a href="<!--[pnmodurl modname="tour" func="exttour" ext=$theme exttype="theme" page=1]-->"><!--[$theme]--></a></li>
+<!--[foreachelse]-->
+<li>Aucune présentation pour les thèmes installés sur votre site !</li>
+<!--[/foreach]-->
+</ul>

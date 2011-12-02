@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Dutch Translation for limelight 2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-07 06:08-0500\n"
+"PO-Revision-Date: 2010-06-12 22:02+0200\n"
+"Last-Translator: Arjen <teb@zikula.nl>\n"
+"Language-Team: Dutch Zikula Community\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: version.php:4
+msgid "Limelight"
+msgstr "Limelight"
+
+#: version.php:8
+msgid "Limelight Open Designs template"
+msgstr "Limelight Open Designs template"
+
+#: templates/modules/News/old/news_user_index.htm:2
+msgid "clock.gif"
+msgstr "clock.gif"
+
+#: templates/modules/News/old/news_user_index.htm:4
+msgid "Read more"
+msgstr "Lees verder"
+
+#: templates/modules/News/old/news_user_index.htm:4
+msgid "document.gi"
+msgstr "document.gif"
+
+#: templates/modules/News/old/news_user_index.htm:4
+msgid "Comments"
+msgstr "Reacties"
+
+#: templates/modules/News/old/news_user_index.htm:4
+msgid "comment.gif"
+msgstr "comment.gif"
+
+#: templates/includes/header.htm:5 templates/includes/header.htm:13
+msgid "Home"
+msgstr "Start"
+
+#: templates/includes/header.htm:6
+msgid "Pages"
+msgstr "Pagina's"
+
+#: templates/includes/header.htm:7
+msgid "News"
+msgstr "Nieuws"
+
+#: templates/includes/header.htm:8
+msgid "Forums"
+msgstr "Forums"
+
+#: templates/includes/header.htm:9 templates/includes/footer.htm:19
+msgid "Contact"
+msgstr "Contact"
+
+#: templates/includes/footer.htm:19
+msgid "Home Page"
+msgstr "Startpagina"
+
+#: templates/includes/footer.htm:19
+msgid "Sitemap"
+msgstr "Sitemap"
+
+#: templates/includes/footer.htm:19
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: templates/includes/footer.htm:24
+msgid "Design by"
+msgstr "Ontwerp door"
+
+#: templates/includes/footer.htm:24
+msgid "www.mitchinson.net"
+msgstr "www.mitchinson.net"
+
+#: templates/includes/footer.htm:24
+msgid "Licensed"
+msgstr "Gelicentieerd"
+
+#: templates/includes/footer.htm:24
+msgid "Creative Commons Attribution 2.5 License"
+msgstr "Creative Commons Attribution 2.5 License"
+
+#: templates/includes/footer.htm:24
+msgid "Valid"
+msgstr "Geldig"
+
+#: templates/includes/footer.htm:24
+msgid "CSS"
+msgstr "CSS"
+
+#: templates/includes/footer.htm:24
+msgid "XHTML"
+msgstr "XHTML"

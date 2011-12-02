@@ -1,0 +1,139 @@
+# scribite! for Zikula.
+# Copyright (C) 2009
+# This file is distributed under the same license as the zweet package.
+# Sven Schomacker <hilope@gmail.com>, 2009.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-30 06:26-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.5.1\n"
+
+#: pnadmin.php:67 pntwitter.php:86
+msgid ""
+"Invalid Authkey:  this probably means that you pressed the -Back- button, "
+"or that the page -authkey- expired. Please refresh the page and try again."
+msgstr ""
+
+#: pnversion.php:18 zweet_admin_menu.htm:12 zweet_user_newtweet.htm:2
+msgid "Zikula Tweet Suite"
+msgstr ""
+
+#: pninit.php:22 pninit.php:23
+msgid "zweet-hook could be created."
+msgstr ""
+
+#: pninit.php:46 pninit.php:47
+msgid "zweet-hook could be deleted."
+msgstr ""
+
+#: pnadmin.php:126
+msgid "Could not connect to Twitter. Please try again."
+msgstr ""
+
+#: pnadmin.php:73
+msgid "Configuration not updated."
+msgstr ""
+
+#: pnadmin.php:78
+msgid "Configuration updated."
+msgstr ""
+
+#: pnadminapi.php:2
+msgid "Configuration"
+msgstr ""
+
+#: pnuserapi.php:32
+msgid "Wrong arguments for zweet hook."
+msgstr ""
+
+#: pntwitter.php:51
+msgid "Twitter access token deleted. Please re-authentificate."
+msgstr ""
+
+#: pntwitter.php:98 pnuserapi.php:84
+msgid "New Twitter status set."
+msgstr ""
+
+#: pntwitter.php:98 pnuserapi.php:87
+msgid "Setting Twitter status not successful!"
+msgstr ""
+
+#: pntwitter.php:135
+msgid "Twitter token too old. Please try again."
+msgstr ""
+
+#: pntwitter.php:157
+msgid "Twitter authentification successful."
+msgstr ""
+
+#: pntwitter.php:160
+msgid "Twitter token not generated. Please re-authentificate."
+msgstr ""
+
+#: pntwitterapi.php:29 pntwitterapi.php:73
+msgid "No permissions for zweet"
+msgstr ""
+
+#: zweet_admin_modifyconfig.htm:18 zweet_admin_setstatus.htm:14
+msgid "Update"
+msgstr ""
+
+#: zweet_admin_modifyconfig.htm:19
+msgid "Cancel"
+msgstr ""
+
+#: zweet_admin_modifyconfig.htm:10
+msgid "URL shortener service"
+msgstr ""
+
+#: zweet_admin_modifytwitter.htm:4
+msgid "Twitter Configuration"
+msgstr ""
+
+#: zweet_admin_modifytwitter.htm:4
+msgid "Authentification okay."
+msgstr ""
+
+#: zweet_admin_modifytwitter.htm:10
+msgid "Actions"
+msgstr ""
+
+#: zweet_admin_modifytwitter.htm:11
+msgid "Reset token"
+msgstr ""
+
+#: zweet_admin_modifytwitter.htm:17
+msgid "Authentificate zweet:"
+msgstr ""
+
+#: zweet_admin_modifytwitter.htm:17
+msgid "Connect"
+msgstr ""
+
+#: zweet_admin_modifytwitter.htm:4 zweet_admin_setstatus.htm:3
+msgid "Current status:"
+msgstr ""
+
+#: zweet_admin_setstatus.htm:6
+msgid "Set new status on Twitter"
+msgstr ""
+
+#: zweet_admin_setstatus.htm:8
+msgid "New status message:"
+msgstr ""
+
+#: zweet_admin_setstatus.htm:12
+msgid "You have "
+msgstr ""
+
+#: zweet_admin_setstatus.htm:12
+msgid " chars left."
+msgstr ""

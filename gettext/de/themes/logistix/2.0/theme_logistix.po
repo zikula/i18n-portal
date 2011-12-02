@@ -1,0 +1,110 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-07 06:21-0500\n"
+"PO-Revision-Date: 2010-06-11 12:56+0200\n"
+"Last-Translator: <hiltschi@web.de>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: version.php:4
+msgid "Logistix"
+msgstr "Logistix"
+
+#: version.php:8
+msgid "Logistix Open Designs template"
+msgstr "Logistix Open Designs Template"
+
+#: templates/includes/header.htm:5
+msgid "My Account Settings"
+msgstr "Einstellungen"
+
+#: templates/includes/header.htm:5
+msgid "My Account"
+msgstr "Benutzerkonto"
+
+#: templates/includes/header.htm:5
+msgid "Logout of Your Account"
+msgstr "Benutzer abmelden"
+
+#: templates/includes/header.htm:5
+msgid "Logout"
+msgstr "Abmelden"
+
+#: templates/includes/header.htm:9
+msgid "New Account Registration"
+msgstr "Neuen Benutzer anmelden"
+
+#: templates/includes/header.htm:9
+msgid "Log In to Your Account"
+msgstr "Benutzer anmelden"
+
+#: templates/includes/header.htm:9
+msgid "Log In"
+msgstr "Anmelden"
+
+#: templates/includes/header.htm:12
+msgid "Back to Main page"
+msgstr "Zurück zur Startseite"
+
+#: templates/includes/header.htm:21
+msgid "Home"
+msgstr "Startseite"
+
+#: templates/includes/header.htm:22
+msgid "Pages"
+msgstr "Seiten"
+
+#: templates/includes/header.htm:23
+msgid "News"
+msgstr "Nachrichten"
+
+#: templates/includes/header.htm:24
+msgid "Forums"
+msgstr "Forum"
+
+#: templates/includes/header.htm:25 templates/includes/footer.htm:5
+msgid "Contact"
+msgstr "Kontakt"
+
+#: templates/includes/footer.htm:4
+msgid "Home Page"
+msgstr "Startseite"
+
+#: templates/includes/footer.htm:6
+msgid "SiteMap"
+msgstr "Sitemap"
+
+#: templates/includes/footer.htm:7
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: templates/includes/footer.htm:10
+msgid "Design:"
+msgstr "Design:"
+
+#: templates/includes/footer.htm:10
+msgid "Free CSS Templates"
+msgstr "Kostenlose CSS-Templates"
+
+#: templates/includes/footer.htm:11
+msgid "Valid"
+msgstr "Gültiges"
+
+#: templates/includes/footer.htm:11
+msgid "XHTML"
+msgstr "XHTML"
+
+#: templates/includes/footer.htm:12
+msgid "CSS"
+msgstr "CSS"

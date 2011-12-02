@@ -1,0 +1,2665 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 08:11+0000\n"
+"PO-Revision-Date: 2010-07-06 15:00+0200\n"
+"Last-Translator: Ebrahim <ebrahim.koohi@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnadmin.php:66
+msgid "Done! Synchronized Zikula users and Dizkus users."
+msgstr "انجام شد! کاربران Zikula و Dizkus مطابقت داده شدند."
+
+#: pnadmin.php:71
+msgid "Done! Synchronized forum index."
+msgstr "انجام شد! صفحه اصلی انجمن مطابقت داده شد."
+
+#: pnadmin.php:76
+msgid "Done! Synchronized topics."
+msgstr "انجام شد! موضوعات مطابقت داده شد."
+
+#: pnadmin.php:81
+msgid "Done! Synchronized posts counter."
+msgstr "انجام شد! شمارنده ارسالها مطابقت داده شد."
+
+#: pnadmin.php:278 pnadmin.php:337 pnadmin.php:472 pnadmin.php:517
+#: pnadmin.php:599
+msgid "Error! You do not have authorisation to administer this module."
+msgstr "خطا! شما برای احراز هویت این ماژول احراز هویت نشده اید."
+
+#: pnadmin.php:351 pntemplates/dizkus_admin_reordertree.html:58
+#: pntemplates/dizkus_admin_reordertree.html:101
+msgid "-- Create new forum --"
+msgstr "-- ایجاد انجمن جدید --"
+
+#: pnadmin.php:383
+msgid "No external source"
+msgstr "بدون منبع خارجی"
+
+#: pnadmin.php:387 pntemplates/dizkus_ajax_editforum.html:102
+msgid "Mail2Forum"
+msgstr "Mail2Forum"
+
+#: pnadmin.php:391 pntemplates/dizkus_ajax_editforum.html:135
+msgid "RSS2Forum"
+msgstr "RSS2Forum"
+
+#: pnadmin.php:392
+msgid "<span style=\"color: red;\">'Feeds' module is not available.</span>"
+msgstr "<span style=\"color: red;\">ماژول 'Feeds' در دسترس نیست</span>"
+
+#: pnadmin.php:400 pntemplates/dizkus_ajax_editforum.html:42
+msgid "No hooked module found."
+msgstr "هیچ ماژول قلاب شده ای یافت نشد."
+
+#: pnadmin.php:479 pntemplates/dizkus_admin_reordertree.html:78
+msgid "-- Create new category --"
+msgstr "-- ایجاد طبقه جدید --"
+
+#: pnadmin.php:521 pnadmin.php:603 pnajax.php:53 pnajax.php:223 pnajax.php:583
+#: pnajax.php:634 pnajax.php:697
+msgid ""
+"Error! Invalid authorisation key ('authkey'). This is probably either "
+"because you pressed the 'Back' button to return to a page which does not "
+"allow that, or else because the page's authorisation key expired due to "
+"prolonged inactivity. Please refresh the page and try again."
+msgstr ""
+"خطا! کلید تصدیق هویت نامعتبر: احتمالا به این معنی است که شما کلید 'back' "
+"مرورگر خود را فشرده اید، یا اینکه کلید تصدیق هویت این صفحه منقضی شده است. "
+"لطفا صفحه را refresh کرده و دوباره سعی کنید."
+
+#: pnadmin.php:653 pnadmin.php:656
+msgid ""
+"Error! The two passwords you entered do not match. Please correct your "
+"entries and try again."
+msgstr ""
+"خطا! دو کلمه عبوری که وارد کرده اید با یکدیگر مطابقت ندارد. لطفا تصحیح کرده "
+"و مجدد تلاش کنید."
+
+#: pnajax.php:43 pnuser.php:228
+msgid ""
+"Error! The user who started this topic is ignoring you, and does not want "
+"you to be able to write posts under this topic. Please contact the topic "
+"originator for more information."
+msgstr ""
+"خطا! کاربری که این موضوع را شروع کرده شما را ایگنور کرده است و نمی خواهد شما "
+"در زیر این موضوع مطلب ارسال کنید. جهت اطلاعات بیشتر لطفا با آغاز کننده موضوع "
+"تماس بگیرید."
+
+#: pnajax.php:48 pnajax.php:229 pnajax.php:683 pnuser.php:213 pnuser.php:306
+#: pnuser.php:406
+msgid ""
+"Error! The message is too long. The maximum length is 65,535 characters."
+msgstr "خطا! پیام بیش از حد طولانی است. حداکثر مقدار 65,535 کاراکتر است."
+
+#: pnajax.php:133
+msgid "Error! No post ID in 'Dizkus_ajax_preparequote()'."
+msgstr "خطا! بدون شماره ارسال در 'Dizkus_ajax_preparequote()'."
+
+#: pnajax.php:157 pnajax.php:195 pnajax.php:558
+msgid "Error! You do not have authorisation to perform this action."
+msgstr "خطا! شما برای اجرای این عملیات احراز هویت نشده اید."
+
+#: pnajax.php:161
+msgid "Error! No post ID in 'Dizkus_ajax_readpost()'."
+msgstr "خطا! بدون شماره ارسال در 'Dizkus_ajax_readpost()'."
+
+#: pnajax.php:199
+msgid "Error! No post ID in 'Dizkus_ajax_readrawtext()'."
+msgstr "خطا! بدون شماره ارسال در 'Dizkus_ajax_readrawtext()'."
+
+#: pnajax.php:269
+msgid "Error! No post ID in 'Dizkus_ajax_updatepost()'."
+msgstr "خطا! ارسال بدون شماره در 'Dizkus_ajax_updatepost()'."
+
+#: pnajax.php:294
+msgid "Error! No topic ID in 'Dizkus_ajax_lockunlocktopic()'."
+msgstr "خطا! بدون شماره ارسال در  'Dizkus_ajax_lockunlocktopic()'."
+
+#: pnajax.php:297
+#, php-format
+msgid ""
+"Error! No mode or illegal mode parameter (%s) in 'Dizkus_ajax_lockunlocktopic"
+"()'."
+msgstr "خطا! بدون حالت یا پارامتر (%s) در 'Dizkus_ajax_lockunlocktopic()'."
+
+#: pnajax.php:304 pnajax.php:348 pnajax.php:590 pnuserapi.php:1741
+#: pnuserapi.php:3517 pnuserapi.php:3524 pnuser.php:494 pnuser.php:554
+#: pnuser.php:567 pnuser.php:579 pnuser.php:594 pnuser.php:952 pnuser.php:1077
+#: pnuser.php:1134 pnuser.php:1202
+msgid ""
+"Error! You do not have authorisation to moderate this category or forum."
+msgstr "خطا! شما برای نظارت بر این انجمن یا طبقه احراز هویت نشده اید."
+
+#: pnajax.php:338
+msgid "Error! No topic ID in 'Dizkus_ajax_stickyunstickytopic()'."
+msgstr "خطا! بدون شماره موضوع در 'Dizkus_ajax_stickyunstickytopic()'."
+
+#: pnajax.php:341
+#, php-format
+msgid ""
+"Error! No mode or illegal mode parameter (%s) in "
+"'Dizkus_ajax_stickyunstickytopic()'."
+msgstr "خطا! بدون حالت یا پارامتر (%s) در 'Dizkus_ajax_stickyunstickytopic()'."
+
+#: pnajax.php:380
+msgid "Error! No topic ID in 'Dizkus_ajax_subscribeunsubscribetopic()'."
+msgstr "خطا! موضوع بدون شماره در 'Dizkus_ajax_subscribeunsubscribetopic()'."
+
+#: pnajax.php:387 pnajax.php:442 pnajax.php:502 pnuserapi.php:867
+#: pnuserapi.php:1604 pnuserapi.php:2046 pnuserapi.php:2367 pnuserapi.php:2427
+#: pnuserapi.php:2485
+msgid ""
+"Error! You do not have authorisation to read the content in this category or "
+"forum."
+msgstr "خطا! شما برای خواندن محتویات این انجمن یا طبقه احراز هویت نشده اید."
+
+#: pnajax.php:407
+#, php-format
+msgid ""
+"Error! No mode or illegal mode parameter (%s) in "
+"'Dizkus_ajax_subscribeunsubscribetopic()'."
+msgstr ""
+"خطا! بدون حالت یا پارامتر (%s) در 'Dizkus_ajax_subscribeunsubscribetopic()'."
+
+#: pnajax.php:435
+msgid "Error! No forum ID in 'Dizkus_ajax_subscribeunsubscribeforum()'."
+msgstr "خطا! انجمن بدون شماره در 'Dizkus_ajax_subscribeunsubscribeforum()'."
+
+#: pnajax.php:462
+#, php-format
+msgid ""
+"Error! No or illegal mode (%s) parameter in "
+"Dizkus_ajax_subscribeunsubscribeforum()"
+msgstr ""
+"خطا! بدون پارامتر یا پارامتر غیرمجاز (%s) در "
+"Dizkus_ajax_subscribeunsubscribeforum()"
+
+#: pnajax.php:482
+msgid "Error! Favourites have been disabled."
+msgstr "خطا! علاقهمندی ها غیر فعال شده است"
+
+#: pnajax.php:489
+msgid "Error! No forum ID in 'Dizkus_ajax_addremovefavorite()'."
+msgstr "خطا! انجمن بدون شماره در 'Dizkus_ajax_addremovefavorite()'."
+
+#: pnajax.php:520
+#, php-format
+msgid ""
+"Error! No mode or illegal mode parameter (%s) in "
+"'Dizkus_ajax_addremovefavorite()'."
+msgstr "خطا! بدون حالت یا پارامتر (%s) در 'Dizkus_ajax_addremovefavorite()'."
+
+#: pnajax.php:562
+msgid "Error! No topic ID in 'Dizkus_ajax_readtopic()'."
+msgstr "خطا! موضوع بدون شماره در 'Dizkus_ajax_readtopic()'."
+
+#: pnajax.php:595 pnajax.php:690 pnuserapi.php:3212
+msgid "Error! The post has no subject line."
+msgstr "خطا! برای این ارسال یک موضوع وارد کنید."
+
+#: pnajax.php:612
+msgid "Error! No topic ID in 'Dizkus_ajax_updatetopicsubject()'"
+msgstr "خطا! موضوع بدون شماره در 'Dizkus_ajax_updatetopicsubject()'"
+
+#: pnajax.php:630
+msgid "Error! This feature is for registered users only."
+msgstr "خطا! این قابلیت فقط برای کاربران سایت است."
+
+#: pnajax.php:673 pnajax.php:755 pnuserapi.php:1137 pnuserapi.php:1209
+#: pnuserapi.php:1411 pnuserapi.php:1459
+msgid "Error! You do not have authorisation to post in this category or forum."
+msgstr "خطا! شما برای ارسال موضوع در این انجمن یا طبقه احراز هویت نشده اید."
+
+#: pnajax.php:686 pnuserapi.php:1213 pnuserapi.php:1464 pnuserapi.php:1735
+msgid "Error! You tried to post a blank message. Please go back and try again."
+msgstr ""
+"خطا! شما سعی در ارسال یک پیام خالی دارید. لطفا برگردید و مجددا سعی کنید."
+
+#: pnversion.php:16
+msgid "Dizkus forums"
+msgstr "انجمن ها"
+
+#: pnversion.php:17 pninit.php:591
+msgid ""
+"An integrated forum solution for Zikula which is simple to administer and "
+"use but that has an excellent feature set."
+msgstr ""
+"ماژول یکپارچه انجمن برای زیکولا همراه با مدیریت و استفاده آسان, اما با یک "
+"مجموعه ویژگی های عالی. "
+
+#. ! module name that appears in URL
+#: pnversion.php:19
+msgid "forums"
+msgstr "forums"
+
+#: pntemplates/plugins/function.adminlink.php:31
+#: pntemplates/dizkus_ajax_editcategory.html:6
+msgid "Edit category title"
+msgstr "ویرایش عنوان طبقه"
+
+#: pntemplates/plugins/function.adminlink.php:33
+#: pntemplates/dizkus_ajax_editforum.html:9
+msgid "Edit forum"
+msgstr "ویرایش انجمن"
+
+#: pntemplates/plugins/function.dzkpager.php:155
+#: pntemplates/plugins/function.topicpager.php:129
+#: pntemplates/plugins/function.forumpager.php:133
+#, php-format
+msgid "Go to page %s: "
+msgstr "رفتن به صفحه %s: "
+
+#: pntemplates/plugins/block.dzkbrowserhack.php:35
+msgid "browserhack block: condition param is required, non specified."
+msgstr "بلاک هک مرورگر: پارامتر وضعیت مورد نیاز است, هیچ چیزی تعیین نشده است."
+
+#: pntemplates/plugins/function.printtopic_button.php:28
+#: pntemplates/plugins/function.printtopic_button.php:30
+msgid "Print topic"
+msgstr "چاپ موضوع"
+
+#: pntemplates/plugins/function.allowedhtml.php:21
+msgid "Allowed HTML:"
+msgstr "HTML مجاز:"
+
+#: pntemplates/plugins/modifier.viewtopiclink.php:65
+msgid "Go to topic"
+msgstr "رفتن به موضوع"
+
+#: pnsearchapi.php:70
+#, php-format
+msgid ""
+"Error! For forum searches, the search string must be between %1$s and %2$s "
+"characters in length."
+msgstr ""
+"خطا! برای جستجو در انجمن ها, رشته جستجو باید بین %1$s و %2$s کاراکتر طول "
+"داشته باشد."
+
+#: pnuserapi.php:113 pnuserapi.php:114 pnuserapi.php:118 pnuserapi.php:119
+msgid "**unknown user**"
+msgstr "**کاربر ناشناس**"
+
+#: pnuserapi.php:226
+msgid "Error! Wrong parameters in 'Dizkus_userapi_boardstats()'."
+msgstr "خطا! پارامترهای اشتباه در 'Dizkus_userapi_boardstats()'."
+
+#: pnuserapi.php:393 pnuserapi.php:702
+#, php-format
+msgid "%1$s<br />by %2$s"
+msgstr "%1$s<br />by %2$s"
+
+#: pnuserapi.php:409 pnuserapi.php:423
+#: pntemplates/dizkus_ajax_newposts.html:14
+#: pntemplates/dizkus_centerblock_display.html:25
+#: pntemplates/dizkus_user_latestposts.html:75
+#: pntemplates/dizkus_user_latestposts.html:129
+#: pntemplates/dizkus_user_latestposts.html:184
+msgid "No posts"
+msgstr "بدون ارسال"
+
+#: pnuserapi.php:600 pnuserapi.php:1980
+msgid ""
+"Error! The forum or topic you selected was not found. Please go back and try "
+"again."
+msgstr ""
+"خطا! انجمن یا موضوعی که انتخاب کرده اید یافت نشد. لطفا برگردید و دوباره تلاش "
+"کنید."
+
+#: pnuserapi.php:604
+msgid "Error! You do not have authorisation to view this category or forum."
+msgstr "خطا! شما برای مشاهده این انجمن یا طبقه احراز هویت نشده اید."
+
+#: pnuserapi.php:728
+msgid "Go to page"
+msgstr "رفتن به صفحه"
+
+#: pnuserapi.php:748
+msgid "Page #"
+msgstr "صفحه #"
+
+#: pnuserapi.php:1020 pnuserapi.php:1085 pnuserapi.php:1591 pnuserapi.php:1730
+#: pnuserapi.php:1933 pnuserapi.php:2134
+msgid ""
+"Error! The topic you selected was not found. Please go back and try again."
+msgstr ""
+"خطا! موضوعی که انتخاب کرده اید پیدا نشد. لطفا برگردید و دوباره تلاش کنید. "
+
+#: pnuserapi.php:1133
+msgid "Error! You cannot post a message under this topic. It has been locked."
+msgstr ""
+"خطا! شما در این موضوع نمی توانید پیام ارسال کنید. این موضوع قفل شده است."
+
+#: pnuserapi.php:1756
+#, php-format
+msgid "Edited by %1$s on %2$s."
+msgstr "ویرایش شده بوسیله %1$s در %2$s."
+
+#: pnuserapi.php:2018
+#, php-format
+msgid ""
+"The original posting has been moved <a title=\"moved\" href=\"%s\">here</a>."
+msgstr "این موضوع به <a title=\"moved\" href=\"%s\">اینجا</a> منتقل شده است."
+
+#: pnuserapi.php:2019
+#, php-format
+msgid "*** The original posting '%s' has been moved"
+msgstr "*** ارسال اصلی '%s' انتقال داده شده است."
+
+#: pnuserapi.php:2291 pnuser.php:393 pnadminapi.php:78 pnadminapi.php:110
+#: pnadminapi.php:134 pnadminapi.php:400 pnadminapi.php:460 pnadminapi.php:580
+#: pnadminapi.php:642 pnadminapi.php:687 pninit.php:306 pninit.php:353
+#: pninit.php:459
+msgid "Error! No permission for this action."
+msgstr "خطا! مجوز دسترسی به این قسمت را ندارید. "
+
+#: pnuserapi.php:2589 pntemplates/dizkus_user_latestposts.html:16
+msgid "Today"
+msgstr "امروز"
+
+#: pnuserapi.php:2593 pntemplates/dizkus_user_latestposts.html:15
+msgid "Yesterday"
+msgstr "دیروز"
+
+#: pnuserapi.php:2597 pntemplates/dizkus_user_latestposts.html:21
+msgid "Last week"
+msgstr "هفته گذشته"
+
+#: pnuserapi.php:2601
+#, php-format
+msgid "Last %s hours"
+msgstr "%s ساعت گذشته"
+
+#: pnuserapi.php:2605
+#, php-format
+msgid "Last visit: %s"
+msgstr "آخرین بازدید: %s"
+
+#: pnuserapi.php:2610 pntemplates/dizkus_user_latestposts.html:17
+msgid "Last 24 hours"
+msgstr "24 ساعت گذشته"
+
+#: pnuserapi.php:3625
+msgid "Moderation request"
+msgstr "درخواست نظارت"
+
+#: pnuserapi.php:3682
+#, php-format
+msgid "Request for moderation on %s"
+msgstr "درخواست نظارت در %s"
+
+#: pnuserapi.php:3684
+#, php-format
+msgid "Reporting user: %s"
+msgstr "گزارش کاربر: %s"
+
+#: pnuserapi.php:3685
+msgid "Comment:"
+msgstr "نظر:"
+
+#: pnuserapi.php:3690
+#, php-format
+msgid "Link to topic: %s"
+msgstr "لینک به موضوع: %s"
+
+#: pnuserapi.php:3777
+msgid "Summary"
+msgstr "خلاصه"
+
+#: pnblocks/statistics.php:30
+msgid "Dizkus statistic"
+msgstr "آمار انجمن"
+
+#: pnblocks/statistics.php:31
+msgid "Dizkus Statistics Block"
+msgstr "بلاک آمارهای انجمن"
+
+#: pnblocks/center.php:30
+msgid "Dizkus recent"
+msgstr "ارسالهای اخیر انجمن"
+
+#: pnblocks/center.php:31
+msgid "Dizkus recent posts"
+msgstr "ارسالهای اخیر انجمن"
+
+#: pnneedleapi/dizkus.php:67
+#, php-format
+msgid "Error! You do not have the necessary authorisation for forum ID %s."
+msgstr "خطا! شما مجوز لازم برای انجمن شماره %s را ندارید."
+
+#: pnneedleapi/dizkus.php:70
+#, php-format
+msgid "Error! The forum ID %s is unknown."
+msgstr "خطا! شماره انجمن %s ناشناخته است."
+
+#: pnneedleapi/dizkus.php:92
+#, php-format
+msgid "Error! You do not have the necessary authorisation for topic ID %s."
+msgstr "خطا! شما مجوز لازم برای موضوع شماره %s را ندارید."
+
+#: pnneedleapi/dizkus.php:95
+#, php-format
+msgid "Error! The topic ID %s is unknown."
+msgstr "خطا! شماره موضوع %s ناشناخته است."
+
+#: pnneedleapi/dizkus.php:100
+msgid "Error! Unknown parameter at position #1 ('F' or 'T')."
+msgstr "خطا! پارامتر ناشناخه در موقعیت  #1 ('F' یا 'T')."
+
+#: pnneedleapi/dizkus.php:103
+msgid "Error! The Dizkus module is not available."
+msgstr "خطا! ماژول انجمن در دسترس نیست."
+
+#: pnneedleapi/dizkus.php:108
+msgid "Error! No needle ID."
+msgstr "خطا! بدون شماره آزاردهنده."
+
+#: pnincludes/dizkus_user_ignorelistmanagementhandler.class.php:24
+#: pnincludes/dizkus_admin_prefshandler.class.php:27
+msgid "Strict"
+msgstr "سخت"
+
+#: pnincludes/dizkus_user_ignorelistmanagementhandler.class.php:27
+#: pnincludes/dizkus_admin_prefshandler.class.php:28
+msgid "Medium"
+msgstr "متوسط"
+
+#: pnincludes/dizkus_user_ignorelistmanagementhandler.class.php:30
+#: pnincludes/dizkus_admin_prefshandler.class.php:29
+#: pntemplates/dizkus_ajax_editforum.html:64
+#: pntemplates/dizkus_ajax_editforum.html:139
+msgid "None"
+msgstr "هیچ"
+
+#: pnincludes/dizkus_user_ignorelistmanagementhandler.class.php:67
+msgid "Done! Updated the 'Ignore list' settings."
+msgstr "انجام شد! تنظیمات 'لیست ایگنور' به روز رسانی شد."
+
+#: pnincludes/dizkus_admin_prefshandler.class.php:21
+msgid "Ascending"
+msgstr "صعودی"
+
+#: pnincludes/dizkus_admin_prefshandler.class.php:22
+msgid "Descending"
+msgstr "نزولی"
+
+#: pnincludes/dizkus_admin_prefshandler.class.php:24
+#: pntemplates/dizkus_user_viewtopic.html:48
+#: pntemplates/dizkus_user_viewtopic.html:97
+msgid "Delete topic"
+msgstr "حذف موضوع"
+
+#: pnincludes/dizkus_admin_prefshandler.class.php:25
+msgid "Close topic"
+msgstr "بستن موضوع"
+
+#: pnincludes/dizkus_admin_prefshandler.class.php:118
+msgid "Done! Updated configuration."
+msgstr "انجام شد! پیکربندی به روز رسانی شد."
+
+#: pnincludes/dizkus_admin_prefshandler.class.php:155 pninit.php:186
+msgid ""
+"Sorry! The forums are currently off-line for maintenance. Please try later."
+msgstr ""
+"متاسفیم! انجمن ها جهت تعمیر و نگهداری غیر فعال است. لطفا بعدا مراجعه فرمایید."
+
+#: pnincludes/dizkus_admin_prefshandler.class.php:159
+msgid "Done! Reset configuration to default values."
+msgstr "انجام شد! تنظیمات به مقادیر پیش فرض بازگردانده شد."
+
+#: pnincludes/dizkus_user_signaturemanagementhandler.class.php:40
+msgid "Done! Signature has been updated."
+msgstr "انجام شد! امضا به روز رسانی شد."
+
+#: pnuser.php:283
+msgid "Error! Missing forum id."
+msgstr "خطا! شماره انجمن مفقود شده است."
+
+#: pnuser.php:551
+msgid "Error! The original forum cannot be the same as the target forum."
+msgstr "خطا! انجمن مبدا نمی تواند مانند انجمن مقصد باشد."
+
+#: pnuser.php:590
+msgid "Error! The original topic cannot be the same as the target topic."
+msgstr "خطا! موضوع مبدا نمی تواند همانند موضوع مقصد باشد."
+
+#: pnuser.php:771
+msgid "No 'ignore list' configuration is currently possible."
+msgstr "در حال حاضر پیکربندی 'لیست ایگنور' امکان پذیر نبست."
+
+#: pnuser.php:805
+msgid "Error! You need to be logged-in to perform this action."
+msgstr "خطا! شما برای اجرای این عملیات وارد سایت نشده اید."
+
+#: pnuser.php:813
+msgid ""
+"Error! Either you did not enter an e-mail address for the recipient, or the "
+"e-mail address you entered was invalid."
+msgstr ""
+"خطا! شما آدرس ایمیل گیرنده را وارد نکرده اید‌, یا به شکل نامعتبر وارد کرده "
+"اید."
+
+#: pnuser.php:817
+msgid "Error! You must enter a message."
+msgstr "خطا! شما باید یک پیام وارد کنید."
+
+#: pnuser.php:820
+msgid "Error! You must enter a subject line for the e-mail message."
+msgstr "خطا! شما باید یک عنوان برای ایمیل وارد کنید"
+
+#: pnuser.php:849
+msgid "Hello! Please visit this link. I think it will be of interest to you."
+msgstr "سلام! لطفا از این لینک بازدید کنید. من فکر می کنم برای شما جالب باشه."
+
+#: pnuser.php:1238
+msgid "Error! You did not select a target forum for the move."
+msgstr "خطا! شما تالار مقصد را برای انتقال انتخاب نکرده اید."
+
+#: pnuser.php:1264
+msgid "Error! You did not select a target topic to join."
+msgstr "خطا! شما موضوع مقصد را برای اتصال انتخاب نکرده اید."
+
+#: pnhookapi.php:35 pnhookapi.php:88 pnhookapi.php:143 pnhook.php:25
+#: pnadminapi.php:152 pnadminapi.php:179
+msgid ""
+"Error! The action you wanted to perform was not successful for some reason, "
+"maybe because of a problem with what you input. Please check and try again."
+msgstr ""
+"خطا! عملیاتی که قصد اجرای آن را دارید بنا به دلایلی موفقیت آمیز نبود, شاید "
+"به دلیل اشکال در ورودی های شما. لطفا بررسی کنید و مجدد تلاش کنید."
+
+#: pnhookapi.php:47
+msgid "Automatically-created topic"
+msgstr "موضوع به صورت خودکار ایجاد شده"
+
+#: pnhookapi.php:48
+msgid "Automatically-created topic for discussion of submitted entries"
+msgstr "موضوع به صورت خودکار ایجاد شده برای بحث در مورد ورودی های ارسال شده"
+
+#: pnaccountapi.php:42 pntemplates/dizkus_user_topicsubscriptions.html:33
+#: pntemplates/dizkus_ajax_editforum.html:13
+#: pntemplates/dizkus_user_latestposts.html:62
+#: pntemplates/dizkus_user_latestposts.html:116
+#: pntemplates/dizkus_user_latestposts.html:171
+#: pntemplates/dizkus_admin_managesubscriptions.html:53
+msgid "Forum"
+msgstr "انجمن"
+
+#: pnadminapi.php:587
+msgid ""
+"Error! You did not enter all the required information in the form. Did you "
+"assign at least one moderator? Please correct your entries and try again."
+msgstr ""
+"خطا! شما همه اطلاعات مورد نیاز این فرم را وارد نکرده اید. آیا به شما مجوز "
+"نظارت اعطا شده است؟ لطفا ورودی هایتان را تصحیح کرده و مجددا تلاش کنید."
+
+#: pnadminapi.php:743
+msgid "Start"
+msgstr "آغاز"
+
+#: pnadminapi.php:744
+msgid "Index page"
+msgstr "صفحه اصلی"
+
+#: pnadminapi.php:747 pntemplates/dizkus_admin_reordertree.html:2
+msgid "Edit forum tree"
+msgstr "ویرایش درخت انجمن"
+
+#: pnadminapi.php:748
+msgid "Create, delete, edit and re-order categories and forums"
+msgstr "ایجاد, حذف, ویرایش و چینش مجدد طبقات و انجمن ها"
+
+#: pnadminapi.php:751 pntemplates/dizkus_admin_ranks.html:2
+msgid "Edit user ranks"
+msgstr "ویرایش درجات کاربران"
+
+#: pnadminapi.php:752
+msgid ""
+"Create, edit and delete user rankings acquired through the number of a "
+"user's posts"
+msgstr ""
+"ایجاد, ویرایش و حذف درجات کاربری تعیین شده ار طریق تعداد ارسالهای کاربران"
+
+#: pnadminapi.php:755 pntemplates/dizkus_admin_honoraryranks.html:3
+msgid "Edit honorary ranks"
+msgstr "ویرایش درجات افتخاری"
+
+#: pnadminapi.php:756
+msgid "Create, delete and edit special ranks for particular users"
+msgstr "ایجاد, حذف و یرایش درجات مخصوص برای کاربران ویژه"
+
+#: pnadminapi.php:759 pntemplates/dizkus_admin_assignranks.html:2
+msgid "Assign honorary rank"
+msgstr "اعطای درجات افتخاری"
+
+#: pnadminapi.php:760
+msgid "Assign honorary user ranks to users"
+msgstr "اعطای درجه کاربری ویژه به کاربران"
+
+#: pnadminapi.php:763 pntemplates/dizkus_admin_managesubscriptions.html:2
+msgid "Manage subscriptions"
+msgstr "مدیریت اشتراکات"
+
+#: pnadminapi.php:764
+msgid "Remove a user's topic and forum subscriptions"
+msgstr "حذف موضوعات و انجمن های مشترک شده یک کاربر"
+
+#: pnadminapi.php:767
+msgid "Synchronize forum/topic index"
+msgstr " انطباق انجمن ها/موضوعات با صفحه اصلی"
+
+#: pnadminapi.php:768
+msgid ""
+"Synchronize forum and topic indexes to fix any discrepancies that might exist"
+msgstr ""
+"فهرست انجمن ها و موضوعات را برای برطرف کردن هرگونه تفاوتی که ممکن است وجود "
+"داشته باشد مطابقت دهید"
+
+#: pnadminapi.php:771 pntemplates/dizkus_user_prefs.html:8
+#: pntemplates/dizkus_admin_header.html:16
+#: pntemplates/dizkus_admin_preferences.html:2
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: pnadminapi.php:772
+msgid "Edit general forum-wide settings"
+msgstr "ویرایش تنظیمات عمومی انجمن"
+
+#: pninit.php:26
+msgid ""
+"Error! This version of the Dizkus module requires Zikula 1.2.0 or later. "
+"Installation has been stopped because this requirement is not met."
+msgstr ""
+"خطا! این نسخه از ماژول Dizkus نیاز به Zikula 1.2.0 یا بالاتر دارد. عملیات "
+"نصب متوقف شد, زیرا این پیش نیاز وجود ندارد."
+
+#: pninit.php:100 pninit.php:112 pninit.php:124 pninit.php:136
+#, php-format
+msgid "Error! Could not create %s hook."
+msgstr "خطا! قلاب %s نمی تواند ایجاد شود."
+
+#: pninit.php:265 pninit.php:272 pninit.php:279 pninit.php:286
+#, php-format
+msgid "Error! Could not delete %s hook."
+msgstr "خطا! قلاب %s نمی تواند حذف شود."
+
+#: pninit.php:361
+msgid "Error! The upgrade to Dizkus 3.0 failed."
+msgstr "خطا! ارتقا به Dizkus 3.0 شکست خورد."
+
+#: pninit.php:431
+msgid ""
+"Error! A problem was encountered while upgrading the source module for hooks "
+"('smodule')."
+msgstr "خطا هنگام ارتقا منبع ماژول برای قلاب ها یک مشکل پیش آمد ('smodule')."
+
+#: pninit.php:437
+msgid ""
+"Error! A problem was encountered while upgrading the target module for hooks "
+"('tmodule')."
+msgstr ""
+"خطا! یک مشکل در هنگام ارتقا ماژول مقصد برای قلاب اتفاق افتاد ('tmodule')."
+
+#: pninit.php:467
+msgid "Error! Could not upgrade to Dizkus 3.1."
+msgstr "خطا! نمی تواند بهDizkus 3.1 ارتقا پیدا کند."
+
+#: pninit.php:540
+#, php-format
+msgid "Error! Could not upgrade the table '%s'."
+msgstr "خطا! نمی توانم جدول '%s' را ارتقا دهم."
+
+#: backforum.php:49
+#, php-format
+msgid "Error! In 'backforum.php', an invalid forum ID %s was encountered."
+msgstr "خطا! در فایل 'backforum.php', با شماره انجمن نامعتبر %s مواجه شد."
+
+#: backforum.php:52
+#, php-format
+msgid "Error! In 'backforum.php', an invalid category ID %s was encountered."
+msgstr "خطا! در فایل 'backforum.php', با شماره طبقه نامعتبر %s مواجه شد."
+
+#: backforum.php:66
+#, php-format
+msgid "Error! Could not find a template for an %s-type feed."
+msgstr "خطا! نمی توانم یک قالب برای فید %s پیدا کنم."
+
+#: pntemplates/dizkus_user_topicsubscriptions.html:2
+#: pntemplates/dizkus_user_prefs.html:46 pntemplates/dizkus_user_prefs.html:47
+#: pntemplates/dizkus_admin_managesubscriptions.html:16
+msgid "Manage topic subscriptions"
+msgstr "مدیریت اشتراک موضوع ها"
+
+#: pntemplates/dizkus_user_topicsubscriptions.html:18
+#: pntemplates/dizkus_ajax_editforum.html:24
+#: pntemplates/dizkus_user_moderateforum.html:24
+#: pntemplates/dizkus_user_viewforum.html:100
+#: pntemplates/dizkus_user_latestposts.html:40
+#: pntemplates/dizkus_user_latestposts.html:94
+#: pntemplates/dizkus_user_latestposts.html:149
+#: pntemplates/dizkus_admin_managesubscriptions.html:21
+msgid "Topic"
+msgstr "موضوع"
+
+#: pntemplates/dizkus_user_topicsubscriptions.html:19
+#: pntemplates/dizkus_user_topicsubscriptions.html:37
+#: pntemplates/dizkus_user_newtopicpreview.html:32
+#: pntemplates/dizkus_user_printpost.html:38
+#: pntemplates/dizkus_user_replypreview.html:35
+#: pntemplates/dizkus_user_printtopic.html:41
+#: pntemplates/dizkus_user_singlepost.html:59
+#: pntemplates/dizkus_user_editpostpreview.html:37
+#: pntemplates/dizkus_user_latestposts.html:42
+#: pntemplates/dizkus_user_latestposts.html:67
+#: pntemplates/dizkus_user_latestposts.html:96
+#: pntemplates/dizkus_user_latestposts.html:121
+#: pntemplates/dizkus_user_latestposts.html:151
+#: pntemplates/dizkus_user_latestposts.html:176
+msgid "Posted"
+msgstr "تاریخ ارسال"
+
+#: pntemplates/dizkus_user_topicsubscriptions.html:20
+#: pntemplates/dizkus_user_viewtopic.html:27
+#: pntemplates/dizkus_user_viewtopic.html:74
+#: pntemplates/dizkus_admin_managesubscriptions.html:23
+msgid "Unsubscribe from topic"
+msgstr "عدم اشتراک موضوع"
+
+#: pntemplates/dizkus_user_topicsubscriptions.html:26
+#: pntemplates/dizkus_admin_managesubscriptions.html:18
+msgid "Remove all topic subscriptions"
+msgstr "حذف همه اشتراک موضوع ها"
+
+#: pntemplates/dizkus_user_topicsubscriptions.html:37
+#: pntemplates/dizkus_user_main.html:50 pntemplates/dizkus_user_main.html:118
+#: pntemplates/dizkus_user_moderateforum.html:61
+#: pntemplates/dizkus_user_latestposts.html:67
+#: pntemplates/dizkus_user_latestposts.html:121
+#: pntemplates/dizkus_user_latestposts.html:176
+msgid "by"
+msgstr "بوسیله"
+
+#: pntemplates/dizkus_user_topicsubscriptions.html:56
+#: pntemplates/dizkus_admin_managesubscriptions.html:43
+msgid "No topic subscriptions found."
+msgstr "هیچ موضوع مشترک شده ای یافت نشد."
+
+#: pntemplates/dizkus_user_topicsubscriptions.html:63
+#: pntemplates/dizkus_user_viewtopic.html:160
+#: pntemplates/dizkus_user_viewtopic.html:166
+#: pntemplates/dizkus_ajax_edittopicsubject.html:7
+#: pntemplates/dizkus_user_editpost.html:59
+#: pntemplates/dizkus_user_emailtopic.html:30
+#: pntemplates/dizkus_ajax_editpost.html:16
+#: pntemplates/dizkus_user_notifymod.html:22
+#: pntemplates/dizkus_user_moderateforum.html:136
+#: pntemplates/dizkus_admin_honoraryranks.html:75
+#: pntemplates/dizkus_user_reply.html:53
+#: pntemplates/dizkus_ajax_editcategory.html:22
+#: pntemplates/dizkus_user_newtopic.html:55
+#: pntemplates/dizkus_user_newtopic.html:56
+#: pntemplates/dizkus_user_newtopic.html:66
+#: pntemplates/dizkus_admin_assignranks.html:47
+#: pntemplates/dizkus_admin_ranks.html:85
+#: pntemplates/dizkus_admin_managesubscriptions.html:76
+#: pntemplates/dizkus_user_signaturemanagement.html:18
+msgid "Submit"
+msgstr "ارسال"
+
+#: pntemplates/dizkus_user_viewtopic.html:11
+#: pntemplates/dizkus_user_viewtopic.html:57
+msgid "Previous topic"
+msgstr "موضوع قبلی"
+
+#: pntemplates/dizkus_user_viewtopic.html:15
+#: pntemplates/dizkus_user_viewtopic.html:61
+msgid "Create a new topic"
+msgstr "ایجاد موضوع جدید"
+
+#: pntemplates/dizkus_user_viewtopic.html:15
+#: pntemplates/dizkus_user_viewtopic.html:61
+#: pntemplates/dizkus_user_viewforum.html:15
+#: pntemplates/dizkus_user_viewforum.html:60
+msgid "New topic"
+msgstr "موضوع جدید"
+
+#: pntemplates/dizkus_user_viewtopic.html:19
+#: pntemplates/dizkus_user_viewtopic.html:65
+msgid "Send the posts within this topic as an e-mail message to someone"
+msgstr "فرستادن همه ارسالهای این موضوع برای یک دوست"
+
+#: pntemplates/dizkus_user_viewtopic.html:19
+#: pntemplates/dizkus_user_viewtopic.html:65
+#: pntemplates/dizkus_user_emailtopic.html:2
+msgid "Send as e-mail"
+msgstr "ارسال از طریق ایمیل"
+
+#: pntemplates/dizkus_user_viewtopic.html:26
+#: pntemplates/dizkus_user_viewtopic.html:72
+msgid "Subscribe to topic"
+msgstr "اشتراک موضوع"
+
+#: pntemplates/dizkus_user_viewtopic.html:31
+#: pntemplates/dizkus_user_viewtopic.html:79
+msgid "Next topic"
+msgstr "موضوع بعدی"
+
+#: pntemplates/dizkus_user_viewtopic.html:38
+#: pntemplates/dizkus_user_viewtopic.html:86
+#: pntemplates/dizkus_user_locktopic.html:3
+#: pntemplates/dizkus_user_locktopic.html:5
+msgid "Lock topic"
+msgstr "قفل کردن موضوع"
+
+#: pntemplates/dizkus_user_viewtopic.html:39
+#: pntemplates/dizkus_user_viewtopic.html:88
+#: pntemplates/dizkus_user_locktopic.html:7
+#: pntemplates/dizkus_user_locktopic.html:9
+msgid "Unlock topic"
+msgstr "از قفل خارج کردن موضوع"
+
+#: pntemplates/dizkus_user_viewtopic.html:43
+#: pntemplates/dizkus_user_viewtopic.html:92
+#: pntemplates/dizkus_user_stickytopic.html:3
+#: pntemplates/dizkus_user_stickytopic.html:5
+msgid "Give this topic 'sticky' status"
+msgstr "دادن وضعیت 'چسبناک' به این موضوع"
+
+#: pntemplates/dizkus_user_viewtopic.html:44
+#: pntemplates/dizkus_user_viewtopic.html:94
+#: pntemplates/dizkus_user_stickytopic.html:7
+#: pntemplates/dizkus_user_stickytopic.html:9
+msgid "Remove 'sticky' status"
+msgstr "حذف حالت 'چسبناک'"
+
+#: pntemplates/dizkus_user_viewtopic.html:47
+#: pntemplates/dizkus_user_viewtopic.html:96
+#: pntemplates/dizkus_user_movetopic.html:29
+msgid "Move topic"
+msgstr "انتقال مو ضوع"
+
+#: pntemplates/dizkus_user_viewtopic.html:135
+msgid "Quick reply"
+msgstr " پاسخ سریع  "
+
+#: pntemplates/dizkus_user_viewtopic.html:143
+#: pntemplates/dizkus_user_editpost.html:40
+#: pntemplates/dizkus_user_reply.html:34
+#: pntemplates/dizkus_user_newtopic.html:37
+msgid "No HTML tags allowed (except inside [code][/code] tags)"
+msgstr "هیچ یک از تگ های HTML مجاز نیست (بجز در درون تگ های [code][/code])"
+
+#: pntemplates/dizkus_user_viewtopic.html:148
+#: pntemplates/dizkus_user_editpost.html:48
+#: pntemplates/dizkus_user_reply.html:41
+#: pntemplates/dizkus_user_newtopic.html:43
+msgid "Options"
+msgstr "انتخاب ها"
+
+#: pntemplates/dizkus_user_viewtopic.html:152
+#: pntemplates/dizkus_user_editpost.html:55
+#: pntemplates/dizkus_ajax_editpost.html:11
+#: pntemplates/dizkus_user_reply.html:45
+#: pntemplates/dizkus_user_newtopic.html:47
+msgid "Attach my signature"
+msgstr "امضای مرا ضمیمه کن"
+
+#: pntemplates/dizkus_user_viewtopic.html:156
+#: pntemplates/dizkus_user_reply.html:49
+#: pntemplates/dizkus_user_newtopic.html:51
+msgid "Notify me when a reply is posted"
+msgstr "هنگامی که یک پاسخ ارسال شد به من خبر بده"
+
+#: pntemplates/dizkus_user_viewtopic.html:161
+#: pntemplates/dizkus_user_viewtopic.html:167
+#: pntemplates/dizkus_user_editpost.html:60
+#: pntemplates/dizkus_user_reply.html:54
+#: pntemplates/dizkus_user_newtopic.html:58
+#: pntemplates/dizkus_user_newtopic.html:59
+#: pntemplates/dizkus_user_newtopic.html:67
+msgid "Preview"
+msgstr "پیش نمایش"
+
+#: pntemplates/dizkus_user_viewtopic.html:162
+#: pntemplates/dizkus_user_viewtopic.html:168
+#: pntemplates/dizkus_admin_reordertree.html:63
+#: pntemplates/dizkus_admin_reordertree.html:86
+#: pntemplates/dizkus_admin_reordertree.html:106
+#: pntemplates/dizkus_ajax_edittopicsubject.html:8
+#: pntemplates/dizkus_user_editpost.html:61
+#: pntemplates/dizkus_ajax_editpost.html:17
+#: pntemplates/dizkus_user_deletetopic.html:17
+#: pntemplates/dizkus_user_moderateforum.html:137
+#: pntemplates/dizkus_user_reply.html:55
+#: pntemplates/dizkus_user_newtopic.html:61
+#: pntemplates/dizkus_user_newtopic.html:62
+#: pntemplates/dizkus_user_newtopic.html:68
+msgid "Cancel"
+msgstr "انصراف"
+
+#: pntemplates/dizkus_user_viewtopic.html:196
+#: pntemplates/dizkus_user_main.html:38 pntemplates/dizkus_user_main.html:106
+#: pntemplates/dizkus_user_viewforum.html:177
+msgid "Moderated by"
+msgstr "نظارت بوسیله"
+
+#: pntemplates/dizkus_user_viewtopic.html:205
+msgid "Storing reply..."
+msgstr "در حال ذخیره پاسخ..."
+
+#: pntemplates/dizkus_user_viewtopic.html:206
+#: pntemplates/dizkus_user_newtopic.html:92
+msgid "Preparing preview..."
+msgstr "در حال آماده سازی پیش نمایش..."
+
+#: pntemplates/dizkus_user_viewtopic.html:207
+#: pntemplates/dizkus_user_newtopic.html:91
+msgid "Storing post..."
+msgstr "در حال ذخیره ارسال..."
+
+#: pntemplates/dizkus_user_viewtopic.html:208
+msgid "Deleting post..."
+msgstr "در حال حذف ارسال..."
+
+#: pntemplates/dizkus_user_viewtopic.html:209
+msgid "Updating post..."
+msgstr "در حال به روز رسانی ارسال..."
+
+#: pntemplates/dizkus_user_viewtopic.html:210
+#: pntemplates/dizkus_ajax_editpost.html:5
+msgid "Unchanged"
+msgstr "بدون تغییر"
+
+#: pntemplates/dizkus_user_viewtopic.html:211
+msgid "Changed"
+msgstr "تغییر یافت"
+
+#: pntemplates/dizkus_user_splittopic.html:2
+#: pntemplates/dizkus_user_splittopic.html:20
+#: pntemplates/dizkus_user_replypreview.html:51
+#: pntemplates/dizkus_user_replypreview.html:73
+#: pntemplates/dizkus_user_singlepost.html:73
+#: pntemplates/dizkus_user_singlepost.html:95
+#: pntemplates/dizkus_user_editpostpreview.html:53
+#: pntemplates/dizkus_user_editpostpreview.html:75
+msgid "Split topic"
+msgstr "دو نيم کردن موضوع"
+
+#: pntemplates/dizkus_user_splittopic.html:7
+msgid "Notice: This will split the topic before the selected posting."
+msgstr ""
+"توجه: این کار موضوع را قبل از ارسال انتخاب شده به دو قسمت تبدیل خواهد کرد."
+
+#: pntemplates/dizkus_user_splittopic.html:13
+msgid "Subject for new topic"
+msgstr "عنوان برای موضوع جدید"
+
+#: pntemplates/dizkus_user_splittopic.html:15
+msgid "Subject"
+msgstr "موضوع"
+
+#: pntemplates/dizkus_user_splittopic.html:16
+msgid "Split"
+msgstr "دو نيم کردن"
+
+#: pntemplates/dizkus_user_newtopicpreview.html:22
+#: pntemplates/dizkus_user_printpost.html:23
+#: pntemplates/dizkus_user_replypreview.html:21
+#: pntemplates/dizkus_user_printtopic.html:26
+#: pntemplates/dizkus_user_singlepost.html:35
+#: pntemplates/dizkus_user_editpostpreview.html:23
+#: pntemplates/dizkus_admin_assignranks.html:22
+msgid "Rank"
+msgstr "درجه"
+
+#: pntemplates/dizkus_user_newtopicpreview.html:24
+#: pntemplates/dizkus_user_printpost.html:25
+#: pntemplates/dizkus_user_replypreview.html:23
+#: pntemplates/dizkus_user_printtopic.html:28
+#: pntemplates/dizkus_user_singlepost.html:37
+#: pntemplates/dizkus_user_editpostpreview.html:25
+msgid "Registered"
+msgstr "تاریخ ثبت نام"
+
+#: pntemplates/dizkus_user_newtopicpreview.html:25
+#: pntemplates/dizkus_user_printpost.html:29
+#: pntemplates/dizkus_user_replypreview.html:27
+#: pntemplates/dizkus_user_viewip.html:19 pntemplates/dizkus_user_main.html:21
+#: pntemplates/dizkus_user_main.html:46 pntemplates/dizkus_user_main.html:89
+#: pntemplates/dizkus_user_main.html:114
+#: pntemplates/dizkus_user_printtopic.html:32
+#: pntemplates/dizkus_user_singlepost.html:41
+#: pntemplates/dizkus_ajax_editforum.html:25
+#: pntemplates/dizkus_user_editpostpreview.html:29
+#: pntemplates/dizkus_user_footer.html:7
+#: pntemplates/dizkus_statisticsblock_display.html:43
+#: pntemplates/dizkus_statisticsblock_display.html:56
+msgid "Posts"
+msgstr "ارسالها"
+
+#: pntemplates/dizkus_search.html:6 pntemplates/dizkus_user_header.html:90
+msgid "Search forums"
+msgstr "جستجو"
+
+#: pntemplates/dizkus_search.html:7
+#, php-format
+msgid ""
+"Notice: For forum searches, your search query must be between %1$s and %2$s "
+"characters long."
+msgstr ""
+"توجه: برای جستجو در انجمن ها, جستجوی شما باید بین %1$s و %2$s کاراکتر طول "
+"داشته باشد."
+
+#: pntemplates/dizkus_search.html:14
+msgid "Category and forum:"
+msgstr "طبقه و انجمن:"
+
+#: pntemplates/dizkus_search.html:18
+msgid "All forums"
+msgstr "همه انجمن ها"
+
+#: pntemplates/dizkus_search.html:20
+#: pntemplates/dizkus_user_moderateforum.html:111
+#: pntemplates/dizkus_user_header.html:50
+#: pntemplates/dizkus_user_header.html:54
+#: pntemplates/dizkus_user_header.html:58
+#: pntemplates/dizkus_user_header.html:62
+#: pntemplates/dizkus_user_header.html:67
+#: pntemplates/dizkus_user_header.html:72
+#: pntemplates/dizkus_user_movetopic.html:20
+msgid "&nbsp;::&nbsp;"
+msgstr "&nbsp;::&nbsp;"
+
+#: pntemplates/dizkus_search.html:26
+msgid "Search in"
+msgstr "جستجو در"
+
+#: pntemplates/dizkus_search.html:30
+msgid "Postings"
+msgstr "ارسال ها"
+
+#: pntemplates/dizkus_search.html:31
+msgid "Author"
+msgstr "نویسنده"
+
+#: pntemplates/dizkus_admin_pop3test.html:2
+msgid "POP3 test results"
+msgstr "نتایج آزمایش POP3"
+
+#: pntemplates/dizkus_admin_pop3test.html:14
+msgid "Back to forum administration"
+msgstr "بازگشت به مدیریت انجمن"
+
+#: pntemplates/dizkus_admin_reordertree.html:6
+msgid ""
+"Notice: You can use drag and drop to arrange the order of forums and "
+"categories within the forum tree. Your changes will be saved when you click "
+"on the 'Save tree order' button."
+msgstr ""
+"توجه: شما می توانید با استفاده از خاصیت کشیدن و رها کردن برای مرتب کردن "
+"طبقات و انجمن ها استفاده کنید. تغییرات شما با کلیک بر روی دکمه 'ذخیره ترتیب "
+"درخت' ذخیره خواهد شد."
+
+#: pntemplates/dizkus_admin_reordertree.html:9
+#: pntemplates/dizkus_admin_reordertree.html:120
+msgid "Create new category"
+msgstr "ایجاد طبقه جدید"
+
+#: pntemplates/dizkus_admin_reordertree.html:10
+#: pntemplates/dizkus_admin_reordertree.html:121
+msgid "Save tree order"
+msgstr "ذخیره ترتیب درخت"
+
+#: pntemplates/dizkus_admin_reordertree.html:21
+msgid "Visit this forum category"
+msgstr "بازدید از این طبقه انجمن"
+
+#: pntemplates/dizkus_admin_reordertree.html:24
+msgid "Load category data"
+msgstr "بارگذاری اطلاعات طبقه"
+
+#: pntemplates/dizkus_admin_reordertree.html:25
+#: pntemplates/dizkus_admin_reordertree.html:81
+msgid "Hide category"
+msgstr "مخفی کردن طبقه"
+
+#: pntemplates/dizkus_admin_reordertree.html:26
+#: pntemplates/dizkus_admin_reordertree.html:82
+msgid "Show category"
+msgstr "انجمن طبقه"
+
+#: pntemplates/dizkus_admin_reordertree.html:27
+#: pntemplates/dizkus_admin_reordertree.html:83
+msgid "Hide forums"
+msgstr "مخفی انجمن ها"
+
+#: pntemplates/dizkus_admin_reordertree.html:28
+#: pntemplates/dizkus_admin_reordertree.html:84
+msgid "Show forums"
+msgstr "نمایش انجمن ها"
+
+#: pntemplates/dizkus_admin_reordertree.html:29
+#: pntemplates/dizkus_admin_reordertree.html:85
+#: pntemplates/dizkus_ajax_editforum.html:7
+msgid "Create forum"
+msgstr "ایجاد انجمن"
+
+#: pntemplates/dizkus_admin_reordertree.html:30
+#: pntemplates/dizkus_admin_reordertree.html:46
+#: pntemplates/dizkus_admin_reordertree.html:64
+#: pntemplates/dizkus_admin_reordertree.html:87
+#: pntemplates/dizkus_admin_reordertree.html:107
+msgid "Working. Please wait..."
+msgstr "در حال کار. لطفا صبر کنید..."
+
+#: pntemplates/dizkus_admin_reordertree.html:43
+msgid "Load forum data"
+msgstr "بارگذاری اطلاعات انجمن"
+
+#: pntemplates/dizkus_admin_reordertree.html:44
+#: pntemplates/dizkus_admin_reordertree.html:61
+#: pntemplates/dizkus_admin_reordertree.html:104
+msgid "Hide forum"
+msgstr "مخفی انجمن"
+
+#: pntemplates/dizkus_admin_reordertree.html:45
+#: pntemplates/dizkus_admin_reordertree.html:62
+#: pntemplates/dizkus_admin_reordertree.html:105
+msgid "Show forum"
+msgstr "نمایش انجمن"
+
+#: pntemplates/dizkus_admin_reordertree.html:53
+#: pntemplates/dizkus_admin_reordertree.html:95
+msgid "This category does not yet contain any forums."
+msgstr "هنوز هیچ انجمنی برای این طبقه ساخته نشده است."
+
+#: pntemplates/dizkus_admin_reordertree.html:126
+msgid "Storing new sort order..."
+msgstr "در حال ذخیره چیدمان جدید..."
+
+#: pntemplates/dizkus_user_printpost.html:27
+#: pntemplates/dizkus_user_replypreview.html:25
+#: pntemplates/dizkus_user_printtopic.html:30
+#: pntemplates/dizkus_user_singlepost.html:39
+#: pntemplates/dizkus_user_editpostpreview.html:27
+#: pntemplates/dizkus_user_latestposts.html:24
+msgid "Last visit"
+msgstr "آخرین بازدید"
+
+#: pntemplates/dizkus_user_printpost.html:37
+#: pntemplates/dizkus_user_replypreview.html:34
+#: pntemplates/dizkus_user_printtopic.html:40
+#: pntemplates/dizkus_user_singlepost.html:58
+#: pntemplates/dizkus_user_editpostpreview.html:36
+msgid "Link to this post"
+msgstr "لینک به این ارسال"
+
+#: pntemplates/dizkus_user_replypreview.html:50
+#: pntemplates/dizkus_user_replypreview.html:72
+#: pntemplates/dizkus_user_singlepost.html:72
+#: pntemplates/dizkus_user_singlepost.html:94
+#: pntemplates/dizkus_user_editpostpreview.html:52
+#: pntemplates/dizkus_user_editpostpreview.html:74
+#: pntemplates/dizkus_user_movepost.html:13
+#: pntemplates/dizkus_user_movepost.html:22
+msgid "Move post"
+msgstr "انتقال ارسال"
+
+#: pntemplates/dizkus_user_replypreview.html:57
+#: pntemplates/dizkus_user_replypreview.html:79
+#: pntemplates/dizkus_user_singlepost.html:79
+#: pntemplates/dizkus_user_singlepost.html:101
+#: pntemplates/dizkus_user_editpostpreview.html:59
+#: pntemplates/dizkus_user_editpostpreview.html:81
+msgid "Quote"
+msgstr "نقل قول"
+
+#: pntemplates/dizkus_user_replypreview.html:60
+#: pntemplates/dizkus_user_replypreview.html:82
+#: pntemplates/dizkus_user_singlepost.html:82
+#: pntemplates/dizkus_user_singlepost.html:104
+#: pntemplates/dizkus_user_editpostpreview.html:62
+#: pntemplates/dizkus_user_editpostpreview.html:84
+msgid "Edit/delete"
+msgstr "ویرایش/حذف"
+
+#: pntemplates/dizkus_user_replypreview.html:60
+#: pntemplates/dizkus_user_replypreview.html:82
+#: pntemplates/dizkus_user_singlepost.html:82
+#: pntemplates/dizkus_user_singlepost.html:104
+#: pntemplates/dizkus_user_editpostpreview.html:62
+#: pntemplates/dizkus_user_editpostpreview.html:84
+msgid "Edit"
+msgstr "ویرایش"
+
+#: pntemplates/dizkus_user_replypreview.html:63
+#: pntemplates/dizkus_user_replypreview.html:85
+#: pntemplates/dizkus_user_singlepost.html:85
+#: pntemplates/dizkus_user_singlepost.html:107
+#: pntemplates/dizkus_user_moderateforum.html:43
+#: pntemplates/dizkus_user_editpostpreview.html:65
+#: pntemplates/dizkus_user_editpostpreview.html:87
+#: pntemplates/dizkus_user_latestposts.html:56
+#: pntemplates/dizkus_user_latestposts.html:110
+#: pntemplates/dizkus_user_latestposts.html:165
+msgid "Topic locked"
+msgstr "موضوع قفل شده است"
+
+#: pntemplates/dizkus_user_replypreview.html:65
+#: pntemplates/dizkus_user_replypreview.html:87
+#: pntemplates/dizkus_user_singlepost.html:87
+#: pntemplates/dizkus_user_singlepost.html:109
+#: pntemplates/dizkus_user_notifymod.html:2
+#: pntemplates/dizkus_user_editpostpreview.html:67
+#: pntemplates/dizkus_user_editpostpreview.html:89
+msgid "Notify moderator about this posting"
+msgstr "آگاه سازی ناظران درباره این ارسال"
+
+#: pntemplates/dizkus_user_replypreview.html:65
+#: pntemplates/dizkus_user_replypreview.html:87
+#: pntemplates/dizkus_user_singlepost.html:87
+#: pntemplates/dizkus_user_singlepost.html:109
+#: pntemplates/dizkus_user_editpostpreview.html:67
+#: pntemplates/dizkus_user_editpostpreview.html:89
+msgid "Notify moderator"
+msgstr "آگاه سازی ناظر"
+
+#: pntemplates/dizkus_user_replypreview.html:66
+#: pntemplates/dizkus_user_singlepost.html:88
+#: pntemplates/dizkus_user_editpostpreview.html:68
+msgid "Top"
+msgstr "بالا"
+
+#: pntemplates/dizkus_user_stickytopic.html:4
+msgid ""
+"When you click the 'Sticky' button at the bottom of this page, the topic you "
+"have selected will be assigned <strong>'sticky'</strong> status. You can "
+"change its status again at a later time if you so choose."
+msgstr ""
+"وقتی شما بر روی دکمه 'چسبناک' در پایین این صفحه کلیک کنید, موضوعی که انتخاب "
+"کرده اید به وضعیت <strong>'چسبناک'</strong> تغییر پیدا خواهد کرد. شما "
+"میتوانید بعدا وضعیت آن را دوباره تغییر دهید."
+
+#: pntemplates/dizkus_user_stickytopic.html:8
+msgid ""
+"When you click the 'Unsticky' button at the bottom of this page, the topic "
+"you have selected will be set to <strong>'unsticky'</strong> status. You can "
+"change its status again at a later time if you so choose."
+msgstr ""
+"وقتی شما بر روی دکمه 'عدم چسبناک' در پایین این صفحه کلیک کنید, موضوعی که "
+"انتخاب کرده اید به وضعیت <strong>'عدم چسبناک'</strong> تغییر پیدا خواهد کرد. "
+"شما میتوانید بعدا وضعیت آن را دوباره تغییر دهید."
+
+#: pntemplates/dizkus_user_stickytopic.html:22
+#: pntemplates/dizkus_user_locktopic.html:22
+#: pntemplates/dizkus_user_deletetopic.html:14
+msgid "Confirmation prompt"
+msgstr "تایید عملیات"
+
+#: pntemplates/dizkus_user_prefs.html:2 pntemplates/dizkus_user_header.html:96
+msgid "Personal settings"
+msgstr "تنظیمات شخصی"
+
+#: pntemplates/dizkus_user_prefs.html:14
+msgid "Recent posts order in topic view"
+msgstr "نحوه نمایش آخرین ارسال در موضوع"
+
+#: pntemplates/dizkus_user_prefs.html:16 pntemplates/dizkus_user_prefs.html:17
+#: pntemplates/dizkus_user_prefs.html:36 pntemplates/dizkus_user_prefs.html:38
+msgid "Change post order"
+msgstr "تغییر چیدمان ارسالها"
+
+#: pntemplates/dizkus_user_prefs.html:16 pntemplates/dizkus_user_prefs.html:17
+#: pntemplates/dizkus_user_prefs.html:36 pntemplates/dizkus_user_prefs.html:38
+msgid "Recent posts sort order"
+msgstr "نحوه چیدمان آخرین ارسالها"
+
+#: pntemplates/dizkus_user_prefs.html:16 pntemplates/dizkus_user_prefs.html:36
+msgid "Oldest submissions at top"
+msgstr "قدیمی ترین ارسال در بالا"
+
+#: pntemplates/dizkus_user_prefs.html:17 pntemplates/dizkus_user_prefs.html:38
+msgid "Newest submissions at top"
+msgstr "جدید ترین ارسال در بالا"
+
+#: pntemplates/dizkus_user_prefs.html:54 pntemplates/dizkus_user_prefs.html:94
+#: pntemplates/dizkus_user_header.html:76
+msgid "Favourites"
+msgstr "علاقه مندی ها"
+
+#: pntemplates/dizkus_user_prefs.html:55
+#: pntemplates/dizkus_user_header.html:84
+msgid "Show all forums"
+msgstr "نمایش همه انجمن ها"
+
+#: pntemplates/dizkus_user_prefs.html:57
+msgid "Show favourites only"
+msgstr "نمایش علاقمندی ها"
+
+#: pntemplates/dizkus_user_prefs.html:65
+#: pntemplates/dizkus_user_signaturemanagement.html:11
+msgid "Posting display settings"
+msgstr "تنظیمات نمایش ارسالها"
+
+#: pntemplates/dizkus_user_prefs.html:66
+#: pntemplates/dizkus_user_signaturemanagement.html:2
+msgid "Manage your signature"
+msgstr "مدیریت امضای شما"
+
+#: pntemplates/dizkus_user_prefs.html:74
+#: pntemplates/dizkus_user_ignorelistmanagement.html:2
+msgid "'Ignore list' settings"
+msgstr "تنظیمات 'لیست ایگنور'"
+
+#: pntemplates/dizkus_user_prefs.html:75
+msgid "Manage settings for the list of users that you are ignoring"
+msgstr "مدیریت تنظیمات برای لیست کاربرانی که شما ایگنور کرده ایذ"
+
+#: pntemplates/dizkus_user_prefs.html:75
+msgid "Manage settings for your ignore list"
+msgstr "مدیریت تنظیمات برای ایگنور لیست شما"
+
+#: pntemplates/dizkus_user_prefs.html:83
+msgid "Personal settings for each forum"
+msgstr "تنظیمات شخصی برای هر انجمن"
+
+#: pntemplates/dizkus_user_prefs.html:91
+#: pntemplates/dizkus_ajax_editcategory.html:10
+msgid "Category"
+msgstr "نام طبقه"
+
+#: pntemplates/dizkus_user_prefs.html:91
+#: pntemplates/dizkus_user_latestposts.html:32
+#: pntemplates/dizkus_statisticsblock_display.html:54
+msgid "Forums"
+msgstr "انجمن ها"
+
+#: pntemplates/dizkus_user_prefs.html:92
+msgid "Subscription"
+msgstr "وضعیت اشتراک"
+
+#: pntemplates/dizkus_user_prefs.html:113
+#: pntemplates/dizkus_user_prefs.html:128
+#: pntemplates/dizkus_user_viewforum.html:20
+#: pntemplates/dizkus_user_viewforum.html:69
+msgid "Subscribe to forum"
+msgstr "اشتراک انجمن"
+
+#: pntemplates/dizkus_user_prefs.html:114
+#: pntemplates/dizkus_user_prefs.html:130
+#: pntemplates/dizkus_user_viewforum.html:21
+#: pntemplates/dizkus_user_viewforum.html:71
+#: pntemplates/dizkus_admin_managesubscriptions.html:54
+msgid "Unsubscribe from forum"
+msgstr "عدم اشتراک انجمن"
+
+#: pntemplates/dizkus_user_prefs.html:137
+#: pntemplates/dizkus_user_prefs.html:152
+#: pntemplates/dizkus_user_viewforum.html:35
+#: pntemplates/dizkus_user_viewforum.html:75
+msgid "Add forum to favourites"
+msgstr "اضافه به علاقه مندیها"
+
+#: pntemplates/dizkus_user_prefs.html:138
+#: pntemplates/dizkus_user_prefs.html:154
+#: pntemplates/dizkus_user_viewforum.html:36
+#: pntemplates/dizkus_user_viewforum.html:77
+msgid "Remove forum from favourites"
+msgstr "حذف انجمن از علاقمندی ها"
+
+#: pntemplates/dizkus_user_ignorelistmanagement.html:9
+#: pntemplates/dizkus_admin_preferences.html:122
+msgid ""
+"Users who are being ignored by a topic poster cannot post messages under "
+"this topic when 'strict' level is active. When 'medium' level is active, "
+"they can reply but their postings will generally not be shown to users who "
+"are ignoring the poster. Also, e-mail notifications will not be sent. "
+"Concealed postings will be shown when you click on the posting."
+msgstr ""
+"کاربرانی که بوسیله ارسال کننده یک موضوع ایگنور می شوند در صورتی که سطح 'سخت' "
+"فعال باشد نمی توانند در آن موضوع پیام ارسال کنند. وقتی که سطح متوسط فعال "
+"است, می توانند پاسخ ارسال کنند, اما ارسال های آنها عموما به کاربرانی که "
+"بوسیله ارسال کننده موضوع ایگنور شده اند نمایش داده نمی شود. همچنین, ایمیل "
+"آگاه سازی برای آنها ارسال نمی شود. ارسال های پنهان شده وقتی شما بر روی ارسال "
+"کلیک کنید نمایش داده خواهند شد."
+
+#: pntemplates/dizkus_user_ignorelistmanagement.html:15
+#: pntemplates/dizkus_admin_preferences.html:9
+msgid "General settings"
+msgstr "تنظیمات عمومی"
+
+#: pntemplates/dizkus_user_ignorelistmanagement.html:17
+msgid "Level of ostracism"
+msgstr "سطح محرومیت"
+
+#: pntemplates/dizkus_user_ignorelistmanagement.html:22
+#: pntemplates/dizkus_ajax_editforum.html:163
+#: pntemplates/dizkus_admin_preferences.html:176
+msgid "Save"
+msgstr "ذخیره"
+
+#: pntemplates/dizkus_ajax_newtopicconfirmation.html:4
+#: pntemplates/dizkus_user_newtopicconfirmation.html:6
+msgid "Thanks for your submission."
+msgstr "از شما به خاطر فرمانبرداری متشکریم."
+
+#: pntemplates/dizkus_ajax_newtopicconfirmation.html:6
+msgid ""
+"Click here to go the new topic, or wait a few seconds until you are "
+"redirected"
+msgstr ""
+"برای رفتن به موضوع جدید اینجا کلیک کنید, یا چند ثانیه منتظر بمانید تا به "
+"صورت خودکار هدایت شوید"
+
+#: pntemplates/dizkus_ajax_newtopicconfirmation.html:7
+#: pntemplates/dizkus_user_newtopicconfirmation.html:9
+msgid "Click here to go back to the forum"
+msgstr "برای بازگشت به انجمن اینجا کلیک کنید"
+
+#: pntemplates/dizkus_user_editpost.html:2
+#: pntemplates/dizkus_user_editpost.html:26
+msgid "Edit post"
+msgstr "ویرایش ارسال"
+
+#: pntemplates/dizkus_user_editpost.html:32
+#: pntemplates/dizkus_user_emailtopic.html:21
+#: pntemplates/dizkus_user_newtopic.html:29
+msgid "Subject line"
+msgstr "موضوع"
+
+#: pntemplates/dizkus_user_editpost.html:37
+#: pntemplates/dizkus_user_emailtopic.html:25
+#: pntemplates/dizkus_user_reply.html:30
+#: pntemplates/dizkus_user_newtopic.html:33
+msgid "Message body"
+msgstr "متن پیام"
+
+#: pntemplates/dizkus_user_editpost.html:51
+#: pntemplates/dizkus_ajax_editpost.html:13
+msgid "Delete post"
+msgstr "حذف ارسال"
+
+#: pntemplates/dizkus_user_viewip.html:5
+msgid "User IP and account information"
+msgstr "اطلاعات حساب و آی پی کاربر"
+
+#: pntemplates/dizkus_user_viewip.html:9
+msgid "IP address"
+msgstr "آدرس آی پی"
+
+#: pntemplates/dizkus_user_viewip.html:13
+msgid "Host"
+msgstr "میزبان"
+
+#: pntemplates/dizkus_user_viewip.html:17
+msgid "User names of users who posted from this IP, plus post counts"
+msgstr ""
+"نام های کاربری کاربرانی که از این آدرس آی پی مطلب ارسال کرده اند به همراه "
+"تعداد ارسال های آنها"
+
+#: pntemplates/dizkus_user_viewip.html:25
+msgid "Back to the topic"
+msgstr "بازگشت به موضوع"
+
+#: pntemplates/dizkus_user_main.html:15 pntemplates/dizkus_user_header.html:54
+#: pntemplates/dizkus_user_header.html:58
+#: pntemplates/dizkus_user_header.html:62
+msgid "Go to category"
+msgstr "رفتن به طبقه"
+
+#: pntemplates/dizkus_user_main.html:18 pntemplates/dizkus_user_main.html:45
+#: pntemplates/dizkus_user_main.html:86 pntemplates/dizkus_user_main.html:113
+#: pntemplates/dizkus_ajax_editforum.html:24
+#: pntemplates/dizkus_statisticsblock_display.html:55
+msgid "Topics"
+msgstr "موضوعات"
+
+#: pntemplates/dizkus_user_main.html:24 pntemplates/dizkus_user_main.html:50
+#: pntemplates/dizkus_user_main.html:92 pntemplates/dizkus_user_main.html:118
+#: pntemplates/dizkus_user_moderateforum.html:26
+#: pntemplates/dizkus_user_moderateforum.html:61
+#: pntemplates/dizkus_user_viewforum.html:103
+#: pntemplates/dizkus_user_viewforum.html:150
+msgid "Last post"
+msgstr "آخرین ارسال"
+
+#: pntemplates/dizkus_user_main.html:35 pntemplates/dizkus_user_main.html:103
+#: pntemplates/dizkus_centerblock_display.html:28
+msgid "Go to forum"
+msgstr "رفتن به انجمن"
+
+#: pntemplates/dizkus_user_main.html:51 pntemplates/dizkus_user_main.html:119
+msgid "Written on"
+msgstr "نوشته شده در"
+
+#: pntemplates/dizkus_user_main.html:53 pntemplates/dizkus_user_main.html:121
+#: pntemplates/dizkus_user_moderateforum.html:63
+#: pntemplates/dizkus_user_viewforum.html:152
+msgid "View latest post"
+msgstr "مشاهده آخرین ارسال"
+
+#: pntemplates/dizkus_user_main.html:64 pntemplates/dizkus_user_main.html:132
+msgid "No forums created."
+msgstr "هیچ انجمنی ایجاد نشده است."
+
+#: pntemplates/dizkus_ajax_forumusers.html:6
+#: pntemplates/dizkus_user_footer.html:34
+msgid "Users on-line"
+msgstr "کاربران آنلاین"
+
+#: pntemplates/dizkus_ajax_forumusers.html:17
+msgid "and"
+msgstr "و"
+
+#: pntemplates/dizkus_ajax_forumusers.html:23
+msgid "anonymous guests"
+msgstr "کاربران ناشناس"
+
+#: pntemplates/dizkus_ajax_forumusers.html:23
+msgid "anonymous guest"
+msgstr "کاربر ناشناس"
+
+#: pntemplates/dizkus_ajax_forumusers.html:29
+#, php-format
+msgid "This list is based on users active over the last %1$s minutes."
+msgstr "این لیست بر اساس کاربران فعال در %1$s دقیقه قبل می باشد."
+
+#: pntemplates/dizkus_upgrade_31.html:3
+#: pntemplates/dizkus_init_interactiveupgrade.html:4
+#: pntemplates/dizkus_upgrade_30.html:8
+msgid "Dizkus upgrade"
+msgstr "ارتقا Dizkus"
+
+#: pntemplates/dizkus_upgrade_31.html:4
+msgid ""
+"Caution! This upgrade step will do some serious changes to your Dizkus "
+"tables! Please back-up your database via a database dump before proceeding "
+"with the upgrade."
+msgstr ""
+"اخطار! این مرحله از ارتقا تغییرات اساسی در جداول Dizkus ایجاد خواهد کرد! "
+"لطفا قبل از انجام این مرحله از ارتقا از پایگاه داده خود یک نسخه پشتیبان تهیه "
+"کنید."
+
+#: pntemplates/dizkus_upgrade_31.html:8
+msgid "Upgrade info"
+msgstr "اطلاعات ارتقا"
+
+#: pntemplates/dizkus_upgrade_31.html:10 pntemplates/dizkus_upgrade_30.html:11
+msgid "Old version"
+msgstr "نسخه قدیمی"
+
+#: pntemplates/dizkus_upgrade_31.html:14
+#: pntemplates/dizkus_init_interactiveupgrade.html:6
+#: pntemplates/dizkus_upgrade_30.html:12
+msgid "New version"
+msgstr "نسخه جدید"
+
+#: pntemplates/dizkus_upgrade_31.html:20 pntemplates/dizkus_upgrade_30.html:19
+msgid "Next"
+msgstr "بعدی"
+
+#: pntemplates/dizkus_user_emailtopic.html:17
+msgid "Sent to"
+msgstr "ارسال به"
+
+#: pntemplates/dizkus_ajax_editpost.html:5
+msgid "Status"
+msgstr "وضعیت"
+
+#: pntemplates/dizkus_user_singlepost.html:11
+msgid "Show hidden postings of ignored user"
+msgstr "نمایش ارسالهای مخفی کاربر ایگنور شده"
+
+#: pntemplates/dizkus_user_singlepost.html:12
+msgid "Click here"
+msgstr "اینجا کلیک کنید"
+
+#: pntemplates/dizkus_user_singlepost.html:46
+msgid "Send a private message"
+msgstr "ارسال پیام خصوصی"
+
+#: pntemplates/dizkus_user_singlepost.html:49
+msgid "View IP address"
+msgstr "مشاهده آدرس آی پی"
+
+#: pntemplates/dizkus_user_locktopic.html:4
+msgid ""
+"When you press the 'Lock' button at the bottom of this page, the topic you "
+"have selected will be <strong>locked</strong>. You can unlock it at a later "
+"time if you so choose."
+msgstr ""
+"هنگامی که شما بر روی دکمه 'قفل' در پایین این صفحه کلیک کنید, موضوعی که "
+"انتخاب کرده اید <strong>قفل</strong> خواهد شد. در صورت لزوم بعدا می توانید "
+"آن را از حالت قفل خارج کنید."
+
+#: pntemplates/dizkus_user_locktopic.html:8
+msgid ""
+"When you press the 'Unlock' button at the bottom of this page, the topic you "
+"have selected will be <strong>unlocked</strong>. You can lock it again at a "
+"later time if you so choose."
+msgstr ""
+"وقتی شما بر روی دکمه 'از قفل خارج کردن موضوع' در پایین این صفحه کلیک کنید, "
+"موضوعی که انتخاب کرده اید به وضعیت <strong>'از حالت قفل خارج شده'</strong> "
+"تغییر پیدا خواهد کرد. شما میتوانید بعدا وضعیت آن را دوباره تغییر دهید."
+
+#: pntemplates/dizkus_user_footer_with_ajax.html:26
+msgid "Powered by "
+msgstr "قدرتمند شده از"
+
+#: pntemplates/dizkus_disabled.html:4
+#: pntemplates/dizkus_ajax_editforum.html:19
+msgid "Forum Information"
+msgstr "اطلاعات انجمن"
+
+#: pntemplates/dizkus_ajax_editforum.html:23
+msgid "Visit this forum"
+msgstr "بازدید از این انجمن"
+
+#: pntemplates/dizkus_ajax_editforum.html:25
+msgid "Post"
+msgstr "ارسال"
+
+#: pntemplates/dizkus_ajax_editforum.html:32
+#: pntemplates/dizkus_admin_honoraryranks.html:28
+#: pntemplates/dizkus_admin_honoraryranks.html:47
+#: pntemplates/dizkus_admin_ranks.html:37
+#: pntemplates/dizkus_admin_ranks.html:58
+msgid "Description"
+msgstr "توصیف"
+
+#: pntemplates/dizkus_ajax_editforum.html:37
+msgid "Hooked module"
+msgstr "ماژول قلاب شده"
+
+#: pntemplates/dizkus_ajax_editforum.html:45
+msgid ""
+"Notice: This is used for the comments feature. All submissions within this "
+"module will be posted within this forum. The list only includes modules for "
+"which Dizkus has been activated as a hook."
+msgstr ""
+"توجه: این برای ویژگی نظرها استفاده شده است. همه موارد ارسالی در این ماژول در "
+"این انجمن ارسال خواهد شد. این لیست فقط شامل ماٰژول هایی است که با Dizkus به "
+"عنوان یک قلاب فعال شده اند."
+
+#: pntemplates/dizkus_ajax_editforum.html:54
+msgid "Moderation"
+msgstr "نظارت"
+
+#: pntemplates/dizkus_ajax_editforum.html:56
+msgid "Current moderator(s):"
+msgstr "ناظر(ان) فعلی:"
+
+#: pntemplates/dizkus_ajax_editforum.html:58
+#: pntemplates/dizkus_ajax_editforum.html:66
+msgid "Group"
+msgstr "گروه"
+
+#: pntemplates/dizkus_ajax_editforum.html:58
+msgid "Remove"
+msgstr "حذف"
+
+#: pntemplates/dizkus_ajax_editforum.html:60
+msgid "No moderator appointed"
+msgstr "هیج ناظری گماشته نشده است"
+
+#: pntemplates/dizkus_ajax_editforum.html:62
+msgid "Add new moderator:"
+msgstr "اضافه کردن ناظر جدید:"
+
+#: pntemplates/dizkus_ajax_editforum.html:76
+msgid "External source"
+msgstr "منبع خارجی"
+
+#: pntemplates/dizkus_ajax_editforum.html:88
+#: pntemplates/dizkus_admin_assignranks.html:21
+#: pntemplates/dizkus_admin_managesubscriptions.html:7
+msgid "User name"
+msgstr "نام کاربر"
+
+#: pntemplates/dizkus_ajax_editforum.html:92
+msgid "Password"
+msgstr "کلمه عبور"
+
+#: pntemplates/dizkus_ajax_editforum.html:96
+msgid "Password (repeat for verification)"
+msgstr "کلمه عبور (تکرار برای بازبینی)"
+
+#: pntemplates/dizkus_ajax_editforum.html:104
+msgid "Perform POP3 test after saving"
+msgstr "بعد از ذخیره شدن آزمایش POP3 را اجرا کن"
+
+#: pntemplates/dizkus_ajax_editforum.html:108
+msgid "POP3 server"
+msgstr "سرور POP3"
+
+#: pntemplates/dizkus_ajax_editforum.html:112
+msgid "POP3 port"
+msgstr "پورت POP3"
+
+#: pntemplates/dizkus_ajax_editforum.html:116
+msgid "POP3 log-in name"
+msgstr "نام ورود POP3"
+
+#: pntemplates/dizkus_ajax_editforum.html:120
+msgid "POP3 password"
+msgstr "کلمه عبور POP3"
+
+#: pntemplates/dizkus_ajax_editforum.html:124
+msgid "POP3 password (repeat for verification)"
+msgstr "کلمه عبور POP3  (تکرار برای باز بینی)"
+
+#: pntemplates/dizkus_ajax_editforum.html:128
+msgid "Rule"
+msgstr "قاعده"
+
+#: pntemplates/dizkus_ajax_editforum.html:130
+msgid ""
+"Notice: This rule is a regular expression applied to posts incoming via e-"
+"mail, in order to prevent spam postings. If there is no rule here then no "
+"checks will be performed."
+msgstr ""
+"توجه: این قاعده یک عبارت منظم بکاربرده شده درباره ارسال های ورودی از طریق "
+"ایمیل است, برای اینکه از ارسال اسپم جلوگیری به عمل آید. اگر اینجا هیچ قاعده "
+"ای وجود نداشته باشد, هیچ بررسی انجام نخواهد شد."
+
+#: pntemplates/dizkus_ajax_editforum.html:137
+msgid "Select RSS feed"
+msgstr "فید RSS را انتخاب کنید"
+
+#: pntemplates/dizkus_ajax_editforum.html:151
+#: pntemplates/dizkus_ajax_editforum.html:153
+#: pntemplates/dizkus_ajax_editcategory.html:14
+msgid "Delete"
+msgstr "حذف شود"
+
+#: pntemplates/dizkus_user_deletetopic.html:2
+#: pntemplates/dizkus_user_deletetopic.html:16
+msgid "Delete this topic"
+msgstr "حذف این موضوع"
+
+#: pntemplates/dizkus_user_deletetopic.html:7
+msgid ""
+"Do you really want to permanently delete this topic and all posts under this "
+"topic?"
+msgstr "آیا واقعا می خواهید فورا این موضوع را با همه ارسالهای آن حذف کنید؟"
+
+#: pntemplates/dizkus_admin_header.html:11
+msgid "Forum Administration"
+msgstr "مدیریت انجمن"
+
+#: pntemplates/dizkus_admin_header.html:22
+msgid ""
+"Warning! The Dizkus admin panel needs JavaScript enabled. Some parts of the "
+"admin panel will not function without it."
+msgstr ""
+"اخطار! پنل مدیریت Dizkus نیاز دارد تا JavaScript فعال شده باشد. بعضی از قسمت "
+"های پنل مدیریت بدون آن کار نخواهند کرد."
+
+#: pntemplates/dizkus_errorpage.html:5
+msgid "Error! The following problem occurred"
+msgstr "خطا! مشکل زیر اتفاق افتاد"
+
+#: pntemplates/dizkus_errorpage.html:12
+msgid "Send bug report to site administrator"
+msgstr "ارسال گزارش اشکال به مدیریت وب سایت"
+
+#: pntemplates/dizkus_ajax_newposts.html:7
+#: pntemplates/dizkus_centerblock_display.html:8
+#: pntemplates/dizkus_centerblock_display2.html:10
+msgid "Recent postings:"
+msgstr "ارسالهای اخیر:"
+
+#: pntemplates/dizkus_user_notifymod.html:8
+msgid ""
+"A moderator will be notified about the selected posting.<br />Valid reasons "
+"are: Copyright violations, personal insults and so on.<br />The following "
+"are not valid reasons for moderation: Typos, difference of opinion on the "
+"topic et cetera."
+msgstr ""
+"یک ناظر در مورد ارسالی که انتخاب کرده اید مطلع خواهد شد. <br />دلایل معتبر "
+"عبارتند از: نقض کپی رایت, توهین به اشخاص و غیره.<br />این دلایل برای درخواست "
+"نظارت معتبر نیستند: غلط های املایی, اختلاف نظر درباره موضوع و غیره."
+
+#: pntemplates/dizkus_user_notifymod.html:17
+msgid "Your comment"
+msgstr "نظر شما"
+
+#: pntemplates/dizkus_user_moderateforum.html:2
+#: pntemplates/dizkus_user_viewforum.html:52
+#: pntemplates/dizkus_user_viewforum.html:64
+msgid "Moderate"
+msgstr "نظارت"
+
+#: pntemplates/dizkus_user_moderateforum.html:15
+#: pntemplates/dizkus_user_moderateforum.html:76
+msgid "Go back to normal forum view"
+msgstr "بازگشت به حالت نمایش عادی انجمن"
+
+#: pntemplates/dizkus_user_moderateforum.html:25
+#: pntemplates/dizkus_user_moderateforum.html:58
+#: pntemplates/dizkus_user_viewforum.html:101
+#: pntemplates/dizkus_user_viewforum.html:146
+#: pntemplates/dizkus_user_latestposts.html:41
+#: pntemplates/dizkus_user_latestposts.html:64
+#: pntemplates/dizkus_user_latestposts.html:95
+#: pntemplates/dizkus_user_latestposts.html:118
+#: pntemplates/dizkus_user_latestposts.html:150
+#: pntemplates/dizkus_user_latestposts.html:173
+msgid "Replies"
+msgstr "پاسخها"
+
+#: pntemplates/dizkus_user_moderateforum.html:27
+msgid "Selection"
+msgstr "انتخاب"
+
+#: pntemplates/dizkus_user_moderateforum.html:40
+#: pntemplates/dizkus_user_viewforum.html:126
+#: pntemplates/dizkus_user_latestposts.html:53
+#: pntemplates/dizkus_user_latestposts.html:107
+#: pntemplates/dizkus_user_latestposts.html:162
+msgid "Sticky topic"
+msgstr "موضوع چسبناک"
+
+#: pntemplates/dizkus_user_moderateforum.html:40
+#: pntemplates/dizkus_user_viewforum.html:126
+#: pntemplates/dizkus_user_latestposts.html:53
+#: pntemplates/dizkus_user_latestposts.html:107
+#: pntemplates/dizkus_user_latestposts.html:162
+msgid "Topic is sticky (it will always stay at the top of the topics list)"
+msgstr "موضوع چسبناک است (همیشه در بالای لیست موضوعات می ماند)"
+
+#: pntemplates/dizkus_user_moderateforum.html:43
+msgid "This topic is locked. No more posts accepted"
+msgstr "این موضوع قفل شده است. ارسال های بیشتر پذیرقته نمی شود"
+
+#: pntemplates/dizkus_user_moderateforum.html:46
+#: pntemplates/dizkus_user_viewforum.html:132
+#: pntemplates/dizkus_user_footer.html:10
+#: pntemplates/dizkus_user_footer.html:14
+msgid "New posts since your last visit"
+msgstr "ارسالهای جدید از آخرین بازدید شما"
+
+#: pntemplates/dizkus_user_moderateforum.html:48
+#: pntemplates/dizkus_user_viewforum.html:134
+msgid "Normal topic"
+msgstr "موضوع عادی"
+
+#: pntemplates/dizkus_user_moderateforum.html:51
+#: pntemplates/dizkus_user_viewforum.html:137
+#: pntemplates/dizkus_user_latestposts.html:59
+#: pntemplates/dizkus_user_latestposts.html:113
+#: pntemplates/dizkus_user_latestposts.html:168
+msgid "Hot topic"
+msgstr "موضوع داغ"
+
+#: pntemplates/dizkus_user_moderateforum.html:54
+#: pntemplates/dizkus_user_viewforum.html:102
+#: pntemplates/dizkus_user_viewforum.html:147
+msgid "Views"
+msgstr "تعداد بازدید"
+
+#: pntemplates/dizkus_user_moderateforum.html:55
+#: pntemplates/dizkus_user_viewforum.html:143
+#: pntemplates/dizkus_admin_managesubscriptions.html:22
+msgid "Poster"
+msgstr "ارسال کننده"
+
+#: pntemplates/dizkus_user_moderateforum.html:83
+#: pntemplates/dizkus_user_viewforum.html:168
+msgid "There are no topics in this forum."
+msgstr "در این انجمن هیچ موضوعی وجود ندارد"
+
+#: pntemplates/dizkus_user_moderateforum.html:89
+msgid ""
+"Warning! You will not be prompted for confirmation. Clicking on 'Submit' "
+"will immediately execute the chosen action."
+msgstr ""
+"اخطار! از شما تایید دستور گرفته نخواهد شد. به محض کلیک بر روی دکمه 'ارسال' "
+"عملیات انتخاب شده اجرا خواهد شد."
+
+#: pntemplates/dizkus_user_moderateforum.html:92
+msgid "Moderators options"
+msgstr "گزینه های نظارت"
+
+#: pntemplates/dizkus_user_moderateforum.html:94
+msgid "Actions"
+msgstr "عملیات"
+
+#: pntemplates/dizkus_user_moderateforum.html:96
+msgid "Choose action"
+msgstr "انتخاب عملیات"
+
+#: pntemplates/dizkus_user_moderateforum.html:97
+msgid "Give selected topics 'sticky' status"
+msgstr "دادن وضعیت 'چسبناک' به موضوعات انتخاب شده"
+
+#: pntemplates/dizkus_user_moderateforum.html:98
+msgid "Remove 'sticky' status from selected topics"
+msgstr "حذف  وضعیت 'چسبناک' از موضوعات انتخاب شده"
+
+#: pntemplates/dizkus_user_moderateforum.html:99
+msgid "Lock selected topics"
+msgstr "موضوعات انتخاب شده را قفل کن"
+
+#: pntemplates/dizkus_user_moderateforum.html:100
+msgid "Open selected topics"
+msgstr "موضوعات انتخاب شده را از حالت قفل خارج کن"
+
+#: pntemplates/dizkus_user_moderateforum.html:101
+msgid "Delete selected topics"
+msgstr "موضوعات انتخاب شده را حذف کن"
+
+#: pntemplates/dizkus_user_moderateforum.html:102
+msgid "Move selected topics"
+msgstr "موضوعات انتخاب شده را انتقال بده"
+
+#: pntemplates/dizkus_user_moderateforum.html:103
+#: pntemplates/dizkus_user_movetopic.html:49
+msgid "Join topics"
+msgstr "موضوعات انتخاب شده را به یکدیگر متصل کن"
+
+#: pntemplates/dizkus_user_moderateforum.html:107
+msgid "Choose target forum to move topic(s) to"
+msgstr "انجمن مقصد را برای انتقال موضوع (ها) به آن انتخاب کنید"
+
+#: pntemplates/dizkus_user_moderateforum.html:109
+msgid "Select target forum"
+msgstr "انجمن مقصد را انتخاب کنید"
+
+#: pntemplates/dizkus_user_moderateforum.html:116
+#: pntemplates/dizkus_user_movetopic.html:25
+msgid "Create shadow topic"
+msgstr "لینک موضوع در انجمن مبدا باقی بماند:"
+
+#: pntemplates/dizkus_user_moderateforum.html:120
+msgid "To join topics, select the target topic here"
+msgstr "برای وصل کردن موضوعات, موضوع مقصد را اینجا انتخاب کنید"
+
+#: pntemplates/dizkus_user_moderateforum.html:123
+msgid "Choose target topic"
+msgstr "موضوع مقصد را انتخاب کنید"
+
+#: pntemplates/dizkus_user_moderateforum.html:128
+msgid "or"
+msgstr "یا"
+
+#: pntemplates/dizkus_user_moderateforum.html:128
+msgid "Target topic"
+msgstr "موضوع مقصد"
+
+#: pntemplates/dizkus_admin_main.html:2
+msgid "Dizkus Administration"
+msgstr "مدیریت Dizkus"
+
+#: pntemplates/dizkus_mail_notifyuser.txt:2
+#, php-format
+msgid "Forums on %s"
+msgstr "انجمن ها در %s"
+
+#: pntemplates/dizkus_mail_notifyuser.txt:5
+#, php-format
+msgid "%1$s wrote at %2$s"
+msgstr "%1$s نوشته شده در %2$s"
+
+#: pntemplates/dizkus_mail_notifyuser.txt:9
+#, php-format
+msgid ""
+"Browse thread: %s \n"
+"\n"
+msgstr ""
+"مرور موضوع: %s \n"
+"\n"
+
+#: pntemplates/dizkus_mail_notifyuser.txt:10
+#, php-format
+msgid "Reply to this message: %s"
+msgstr "پاسخ به این پیام: %s"
+
+#: pntemplates/dizkus_mail_notifyuser.txt:11
+#, php-format
+msgid "Maintain topic and forum subscriptions: %s"
+msgstr "تعمیر و نگهداری اشتراکات موضوع و انجمن: %s"
+
+#: pntemplates/dizkus_mail_notifyuser.txt:13
+#, php-format
+msgid ""
+"You are receiving this e-mail message because you are subscribed to be "
+"notified of events in the forums on %s."
+msgstr ""
+"شما یه دلیل این پیام ایمیل را دریافت کرده اید که شما مشترک شده اید تا از "
+"اتفاقات انجمن ها در %s با خبر شوید."
+
+#: pntemplates/dizkus_upgrade_30.html:4 pntemplates/dizkus_upgrade_30.html:15
+msgid ""
+"Caution! Please back-up your database via a database dump before proceeding "
+"with the upgrade."
+msgstr ""
+"اخطار! لطفا قبل از انجام عملیات ارتقا, ار پایگاه داده خود یک نسخه پشتیبان "
+"تهیه کنید."
+
+#: pntemplates/dizkus_upgrade_30.html:17
+msgid ""
+"This will upgrade your pnForum 2.7.1 forums to Dizkus 3.0, making all "
+"necessary database changes."
+msgstr ""
+"این عملیات انجمن های pnForum 2.7.1 شما ر ابه  Dizkus 3.0 ارتقا خواهد داد, در "
+"حال انجام همه تغییرات پایگاه داده لازم."
+
+#: pntemplates/dizkus_admin_honoraryranks.html:6
+msgid ""
+"In this page, you can create, delete and edit special honorary ranks awarded "
+"to particular users (site staff or project team members, for example). To "
+"create a new rank, simply type entries in the fields of the 'Create new "
+"rank' section and click on the 'Create honorary rank' button. To edit a "
+"rank, edit the fields of a rank in the ranks list, and then click on 'Save "
+"rank changes'. To remove a rank, put a checkmark in the 'Delete rank' "
+"checkbox beside the desired rank, and then click on the 'Save rank changes' "
+"button."
+msgstr ""
+"در این صفحه, شما می توانید درجات افتخاری ویژه را برای اعطا به کاربران ویژه, "
+"ایجاد, حذف و ویرایش کنید (برای مثال برای اعطا به کاربران فعال سایت یا اعضای "
+"تیم پروژه). برای ایجاد یک درجه,به راحتی ورودی ها را در فیلد های قسمت 'ایجاد "
+"درجه کاربری جدید' تایپ کنید و بر روی دکمه 'ایجاد' کلیک کنید. برای ویرایش یک "
+"درجه, فیلد های درجه را در لیست درجات ویرایش کنید, و سپس بر روی 'ذخیره "
+"تغییرات درجه' کلیک کنید. برای حذف یک درجه, علامت 'حذف درجه' را در کنار درجه "
+"مورد نظر فعال کرده , و سپس بر روی 'ارسال' کلیک کنید."
+
+#: pntemplates/dizkus_admin_honoraryranks.html:11
+#: pntemplates/dizkus_admin_ranks.html:12
+msgid "Create new rank"
+msgstr "ایجاد درجه کاربری جدید"
+
+#: pntemplates/dizkus_admin_honoraryranks.html:13
+#: pntemplates/dizkus_admin_honoraryranks.html:45
+msgid "Honorary rank name"
+msgstr "نام درجه افتخاری"
+
+#: pntemplates/dizkus_admin_honoraryranks.html:17
+#: pntemplates/dizkus_admin_ranks.html:26
+msgid "Internal Dizkus image"
+msgstr "تصویر داخلی Dizkus"
+
+#: pntemplates/dizkus_admin_honoraryranks.html:32
+#: pntemplates/dizkus_admin_ranks.html:41
+msgid ""
+"Notice: For the rank image, you can either choose one of the standardly-"
+"supplied Dizkus rank images, or you can use an external image of your "
+"choice. To use an internal Dizkus image, select the desired image from the "
+"'Internal Dizkus image' dropdown list. If you want to use an external image, "
+"enter the path to the image within the file system in the 'External image' "
+"box. Alternatively, you can use an image that can be found on the Internet: "
+"if your entry in the 'External image' box starts with 'http://' then the "
+"graphic will fetched from the link entered."
+msgstr ""
+"توجه: برای تصویر درجه, می توانید یکی از دوحالت تصویر درجه استاندارد Dizkus, "
+"یا یک تصویر خارجی را  انتخاب کنید. برای استفاده از یک تصویر داخلی Dizkus, از "
+"لیست پایین افتادنی ' تصویر داخلی Dizkus' یکی را به دلخواه انتخاب کنید. اگر "
+"می خواهید از یک تصویر خارجی استفاده کنید, مسیر تصویر در فابل سیستم را در "
+"جعبه 'تصویر خارجی' وارد کنید. متناوبا, شما می توانید از یک تصویر که در "
+"اینترنت پیدا کرده اید استفاده کنید: اگر ورودی شما در جعبه 'تصویر خارجی' با "
+"'http://' شروع می شود سپس تصویر از لینکی که وارد کرده اید کشیده می شود."
+
+#: pntemplates/dizkus_admin_honoraryranks.html:35
+#: pntemplates/dizkus_admin_ranks.html:44
+msgid "Create"
+msgstr "ایجاد"
+
+#: pntemplates/dizkus_admin_honoraryranks.html:46
+#: pntemplates/dizkus_admin_ranks.html:57
+msgid "Image"
+msgstr "تصویر"
+
+#: pntemplates/dizkus_admin_honoraryranks.html:48
+#: pntemplates/dizkus_admin_ranks.html:59
+msgid "Delete rank"
+msgstr "خذف درجه"
+
+#: pntemplates/dizkus_admin_honoraryranks.html:70
+#: pntemplates/dizkus_admin_ranks.html:80
+msgid "No items found."
+msgstr "هیج مقوله ای یافت نشد."
+
+#: pntemplates/dizkus_statisticsblock_config.html:5
+#: pntemplates/dizkus_centerblock_config.html:5
+msgid "Name of template file"
+msgstr "نام فایل قالب"
+
+#: pntemplates/dizkus_statisticsblock_config.html:13
+#: pntemplates/dizkus_centerblock_config.html:13
+msgid "Parameters"
+msgstr "پارامترها"
+
+#: pntemplates/dizkus_statisticsblock_config.html:17
+#: pntemplates/dizkus_centerblock_config.html:17
+msgid ""
+"Notice: Enter a comma-separated list. Example: 'maxposts=5,forum_id=27'."
+msgstr ""
+"توجه: پارامترها را به صورت یک لیست که با ویرگول جدا شده است وارد کنید. "
+"مثلا:  'maxposts=5,forum_id=27'."
+
+#: pntemplates/dizkus_user_movepost.html:2
+msgid "Move post from one topic to another"
+msgstr "انتقال ارسال از یک موضوع به دیگری"
+
+#: pntemplates/dizkus_user_movepost.html:15
+#: pntemplates/dizkus_user_movetopic.html:43
+msgid "ID of target topic"
+msgstr "شماره موضوع مقصد"
+
+#: pntemplates/dizkus_user_viewforum.html:15
+#: pntemplates/dizkus_user_viewforum.html:60
+msgid "Start a new topic"
+msgstr "شروع موضوع جدید"
+
+#: pntemplates/dizkus_user_viewforum.html:129
+msgid "Locked topic"
+msgstr "موضوع قفل شده است"
+
+#: pntemplates/dizkus_user_viewforum.html:129
+#: pntemplates/dizkus_user_latestposts.html:56
+#: pntemplates/dizkus_user_latestposts.html:110
+#: pntemplates/dizkus_user_latestposts.html:165
+msgid "This topic is locked. No more posts accepted."
+msgstr "این موضوع قفل شده است. ارسال های جدیدتر پذیرفته نمی شود."
+
+#: pntemplates/dizkus_user_viewforum.html:140
+msgid "Attachments"
+msgstr "ضمیمه ها"
+
+#: pntemplates/dizkus_user_viewforum.html:150
+msgid "By"
+msgstr "بوسیله"
+
+#: pntemplates/dizkus_user_viewforum.html:152
+#: pntemplates/dizkus_user_header.html:89
+msgid "View latest posts"
+msgstr "مشاهده آخرین ارسالها"
+
+#: pntemplates/dizkus_user_footer.html:11
+#, php-format
+msgid "New posts since your last visit on %s"
+msgstr "دارای ارسال جدید از آخرین بازدید شما در %s"
+
+#: pntemplates/dizkus_user_footer.html:14
+msgid "No new posts since your last visit"
+msgstr "بدون ارسال جدید از آخرین بازدید شما"
+
+#: pntemplates/dizkus_user_footer.html:15
+#, php-format
+msgid "No new posts since your last visit on %s"
+msgstr "بدون ارسال جدید از آخرین بازدید شما در %s"
+
+#: pntemplates/dizkus_user_footer.html:21
+#: pntemplates/dizkus_statisticsblock_display.html:50
+msgid "Total"
+msgstr "آمار کلی"
+
+#: pntemplates/dizkus_user_footer.html:24
+msgid "RSS"
+msgstr "RSS"
+
+#: pntemplates/dizkus_user_footer.html:25
+#, php-format
+msgid "Total posts: %s"
+msgstr "همه ارسال ها: %s"
+
+#: pntemplates/dizkus_user_footer.html:44
+msgid "0 users"
+msgstr "0 کاربر"
+
+#: pntemplates/dizkus_user_footer.html:50
+#, php-format
+msgid "and %1$s anonymous guest"
+msgid_plural "and %1$s anonymous guests"
+msgstr[0] "و %1$s کاربر مهمان"
+
+#: pntemplates/dizkus_user_footer.html:54
+#, php-format
+msgid "This list is based on users active over the last %s minutes."
+msgstr "این لیست بر اساس کاربران فعال در %s دقیقه گذشته می باشد."
+
+#: pntemplates/dizkus_user_reply.html:2 pntemplates/dizkus_user_reply.html:25
+msgid "Reply to"
+msgstr "پاسخ به"
+
+#: pntemplates/dizkus_user_latestposts.html:2
+#: pntemplates/dizkus_user_latestposts.html:9
+msgid "Latest forum posts"
+msgstr "آخرین ارسالهای انجمن"
+
+#: pntemplates/dizkus_user_latestposts.html:18
+msgid "Last"
+msgstr "گذشته"
+
+#: pntemplates/dizkus_user_latestposts.html:18
+#: pntemplates/dizkus_admin_preferences.html:145
+msgid "hours"
+msgstr "ساعت"
+
+#: pntemplates/dizkus_user_latestposts.html:22
+msgid "Last week, unanswered"
+msgstr "هفته گذشته, بدون پاسخ"
+
+#: pntemplates/dizkus_user_latestposts.html:85
+msgid "RSS feeds"
+msgstr "خوراک های RSS"
+
+#: pntemplates/dizkus_user_latestposts.html:140
+msgid "Mailing lists"
+msgstr "میلینگ لیست ها"
+
+#: pntemplates/dizkus_user_header.html:22
+msgid "Category list"
+msgstr "لیست طبقه"
+
+#: pntemplates/dizkus_user_header.html:28
+#: pntemplates/dizkus_user_newtopic.html:25
+msgid "New topic in forum"
+msgstr "موضوع جدید در انجمن"
+
+#: pntemplates/dizkus_user_header.html:46
+#: pntemplates/dizkus_user_header.html:105
+msgid "Forums index page"
+msgstr "صفحه اصلی انجمن ها"
+
+#: pntemplates/dizkus_user_header.html:86
+msgid "Show favourite forums only"
+msgstr "نمایش انجمن های مورد علاقه"
+
+#: pntemplates/dizkus_user_header.html:92
+msgid "Log-in"
+msgstr "ورود"
+
+#: pntemplates/dizkus_user_header.html:93
+msgid "Register"
+msgstr "ثبت نام"
+
+#: pntemplates/dizkus_user_header.html:95
+msgid "View your posts"
+msgstr "مشاهده ارسال های شما"
+
+#: pntemplates/dizkus_user_header.html:112
+msgid "Click to edit"
+msgstr "جهت ویرایش کلیک کنید"
+
+#: pntemplates/dizkus_user_header.html:115
+msgid "Bottom"
+msgstr "پایین"
+
+#: pntemplates/dizkus_hook_display.html:4
+msgid "Discuss this submission in the forums"
+msgstr "گفتگو درباره این موضوع در انجمن ها"
+
+#: pntemplates/dizkus_user_newtopic.html:93
+msgid "Redirecting you to the new topic..."
+msgstr "شما به موضوع جدید هدایت می شوید..."
+
+#: pntemplates/dizkus_user_newtopicconfirmation.html:8
+msgid "Click here to go the new topic"
+msgstr "برای رفتن به موضوع جدید اینجا کلیک کنید"
+
+#: pntemplates/dizkus_admin_assignranks.html:5
+msgid ""
+"In this page, you can select particular users and assign them honorary ranks."
+msgstr ""
+"در این صفحه, شما می توانید کاربران ویژه را انتخاب کنید و به آنها درجات "
+"افتخاری اعطا کنید."
+
+#: pntemplates/dizkus_admin_assignranks.html:31
+msgid "No rank"
+msgstr "بدون درجه"
+
+#: pntemplates/dizkus_admin_assignranks.html:39
+msgid "No asssigned ranks found"
+msgstr "هیچ درجه اعطایی یافت نشد."
+
+#: pntemplates/dizkus_user_movetopic.html:2
+msgid "Move or join topics"
+msgstr "انتقال یا اتصال موضوعات"
+
+#: pntemplates/dizkus_user_movetopic.html:14
+msgid "Move topic to another forum"
+msgstr "انتقال موضوع به انجمن دیگر"
+
+#: pntemplates/dizkus_user_movetopic.html:15
+msgid ""
+"When you press the 'Move' button at the bottom of this form, the topic you "
+"have selected (and all its related posts) will be <strong>moved</strong> to "
+"the forum you have selected. Note: You will only be able to move the topic "
+"to a forum for which you are moderator. An administrator is allowed to move "
+"any topic to any forum."
+msgstr ""
+"هنگامی که بر روی دکمه 'انتقال موضوع' در پایین این فرم کلیک کردید, موضوعی که "
+"انتخاب کرده اید (به همراه همه ارسال های مربوطه), به انجمنی که انتخاب کرده "
+"اید, <strong>انتقال</strong> پیدا خواهد کرد. توجه: شما فقط می توانید موضوعات "
+"را به انجمن هایی که بر آنها نظارت می کنید, منتقل کنید. فقط مدیر سایت می "
+"تواند هر موضوعی را به هر انجمنی انتقال دهد."
+
+#: pntemplates/dizkus_user_movetopic.html:17
+msgid "Target forum"
+msgstr "انجمن مقصد"
+
+#: pntemplates/dizkus_user_movetopic.html:41
+msgid "Join topic with another topic"
+msgstr "اتصال موضوع با یک موضوع دیگر"
+
+#: pntemplates/dizkus_admin_ranks.html:6
+msgid ""
+"In this page, you can create, delete and edit user ranks for that users "
+"acquire automatically after a certain number of posts in the forums. To "
+"create a new rank, simply type entries in the fields of the 'Create new user "
+"rank' section and click on the 'Create' button. To edit a rank, edit the "
+"fields of a rank in the ranks list, and then click on 'Save rank changes'. "
+"To remove a rank, put a checkmark in the 'Delete rank' checkbox beside the "
+"desired rank, and then click on the 'Save rank changes' button."
+msgstr ""
+"در این صفحه, شما می توانید درجات کاربری را ایجاد, حذف و ویرایش کنید تا "
+"کاربرانی که تعداد ارسال های آنها در انجمن ها به حد معینی می رسد آنها را به "
+"صورت خودکار کسب کنند. برای ایجاد یک درجه,به راحتی ورودی ها را در فیلد های "
+"قسمت 'ایجاد درجه کاربری جدید' تایپ کنید و بر روی دکمه 'ایجاد' کلیک کنید. "
+"برای ویرایش یک درجه, فیلد های درجه را در لیست درجات ویرایش کنید, و سپس بر "
+"روی 'ذخیره تغییرات درجه' کلیک کنید. برای حذف یک درجه, علامت 'حذف درجه' را در "
+"کنار درجه مورد نظر فعال کرده , و سپس بر روی 'ارسال' کلیک کنید."
+
+#: pntemplates/dizkus_admin_ranks.html:14
+msgid "User rank name"
+msgstr "نام درجه کاربر"
+
+#: pntemplates/dizkus_admin_ranks.html:18
+#: pntemplates/dizkus_admin_ranks.html:55
+msgid "Minimum number of posts"
+msgstr "حداقل تعداد ارسالها"
+
+#: pntemplates/dizkus_admin_ranks.html:22
+#: pntemplates/dizkus_admin_ranks.html:56
+msgid "Maximum number of posts"
+msgstr "حداکثر تعداد ارسالها"
+
+#: pntemplates/dizkus_admin_ranks.html:54
+msgid "User rank"
+msgstr "درجه کاربر"
+
+#: pntemplates/dizkus_admin_managesubscriptions.html:7
+msgid "Show users' subscriptions"
+msgstr "نمایش اشتراکات کاربران"
+
+#: pntemplates/dizkus_admin_managesubscriptions.html:48
+msgid "Manage forum subscriptions"
+msgstr "مدیریت اشتراکات انجمن"
+
+#: pntemplates/dizkus_admin_managesubscriptions.html:50
+msgid "Remove all forum subscriptions"
+msgstr "حذف همه اشتراکات انجمن"
+
+#: pntemplates/dizkus_admin_managesubscriptions.html:72
+msgid "No forum subscriptions found."
+msgstr "هیچ انجمن مشترک شده ای یافت نشد."
+
+#: pntemplates/dizkus_user_signaturemanagement.html:13
+msgid "Signature"
+msgstr "امضا"
+
+#: pntemplates/dizkus_statisticsblock_display.html:6
+msgid "Most-active forums"
+msgstr "انجمن های فعال"
+
+#: pntemplates/dizkus_statisticsblock_display.html:22
+msgid "Recent topics"
+msgstr "آخرین موضوعات"
+
+#: pntemplates/dizkus_statisticsblock_display.html:28
+#, php-format
+msgid "%s reply"
+msgid_plural "%s replies"
+msgstr[0] "%s پاسخ"
+
+#: pntemplates/dizkus_statisticsblock_display.html:39
+msgid "Most-active posters"
+msgstr "ارسال کنندگان برتر"
+
+#: pntemplates/dizkus_statisticsblock_display.html:53
+msgid "Categories"
+msgstr "طبقات"
+
+#: pntemplates/dizkus_admin_preferences.html:12
+msgid "Forums are accessible to visitors"
+msgstr "انجمن ها برای بازدید کنندکان در دسترس است"
+
+#: pntemplates/dizkus_admin_preferences.html:16
+msgid ""
+"If the 'Forums are accessible to visitors' setting is deactivated then only "
+"administrators will have access to the forums. You can temporarily "
+"deactivate this setting to take the forums off-line when you need to perform "
+"maintenance."
+msgstr ""
+"اگر تنظیمات 'انجمن ها برای بازدید کنندگان در دسترس است' غیر فعال باشد, فقط "
+"مدیران به انجمن ها دسترسی خواهند داشت. شما می توانید از این گزینه برای انجام "
+"کارهای مربوط به تعمیر و نگهداری انجمن ها استفاده کنید."
+
+#: pntemplates/dizkus_admin_preferences.html:19
+msgid "Message displayed if forums are disabled"
+msgstr "پیامی که در صورت غیر فعال بودن انجمن ها نمایش داده می شود"
+
+#: pntemplates/dizkus_admin_preferences.html:23
+msgid "Sender address for e-mail messages from forums"
+msgstr "آدرس ایمیل فرستنده برای ایمیل هایی که از طرف انجمن فرستاده می شود"
+
+#: pntemplates/dizkus_admin_preferences.html:27
+msgid "'Hot topic' threshold"
+msgstr "حداقل تعداد پاسخ برای قرار گیری در 'موضوع داغ'"
+
+#: pntemplates/dizkus_admin_preferences.html:31
+msgid "Posts per page in topic index (default:20)"
+msgstr "ارسال به ازای هر صفحه در صفحه موضوع (پیش فرض:20)"
+
+#: pntemplates/dizkus_admin_preferences.html:35
+msgid "Topics per page in forum index (default:15)"
+msgstr "موضوعات به ازای هر صفحه در صفحه اصلی انجمن ها (پیش فرض:15)"
+
+#: pntemplates/dizkus_admin_preferences.html:39
+msgid "Hide users in forum admin interface"
+msgstr "کاربران را در بخش رابط مدیر در انجمن ها مخفی کن"
+
+#: pntemplates/dizkus_admin_preferences.html:43
+msgid "Path to rank images"
+msgstr "مسیر تصاویر درجات"
+
+#: pntemplates/dizkus_admin_preferences.html:49
+msgid "Advanced settings"
+msgstr "تنظیمات پیشرفته"
+
+#: pntemplates/dizkus_admin_preferences.html:51
+#, php-format
+msgid ""
+"Caution! Inappropriate settings here can lead to unwanted side effects. You "
+"are recommended not to alter the settings below unless you fully understand "
+"what the results will be. <br /><br />Database name: '%s'; type: '%s'; "
+"version: '%s'."
+msgstr ""
+"توجه! تنظیمات نامناسب در اینجا می تواند باعث ایجاد تاثیرات ناخواسته شود. به "
+"شما توصیه می شود تا هنگامی که به طور کامل نتایج تنظیمات زیر را نمی دانید, "
+"آنها را تغیر ندهید. <br /><br />نام پایگاه داده: '%s'; نوع: '%s'; نسخه: '%s'."
+
+#: pntemplates/dizkus_admin_preferences.html:54
+msgid "Enable full-text index field searching"
+msgstr "فعال سازی جستجوی full-text"
+
+#: pntemplates/dizkus_admin_preferences.html:56
+msgid ""
+"Notice: For searches with full-text index fields, you need MySQL 4 or later; "
+"the feature does not work with InnoDB databases. This flag will normally be "
+"set during installation, when the index fields have been created. Search "
+"results may be empty if the query string is present in too many postings. "
+"This is a feature of MySQL. For more information, see <a href=\"http://dev."
+"mysql.com/doc/mysql/en/fulltext-search.html\" title=\"Full-text search in "
+"MySQL\">'Full-text search in MySQL'</a> in the MySQL documentation."
+msgstr ""
+"توجه: برای جستجو به شیوه full-text ,شما به MySQL 4 یا بالاتر نیاز دارید; این "
+"قابلیت بر روی پایگاههای داده InnoDB کار نخواهد کرد. این قابلیت در هنگام نصب "
+"فعال می شود, وقتی که شاخص رشته ایجاد  شود. نتایج جستجو ممکن در مواردی که "
+"رشته جستجو شده در تعداد زیادی ارسال وجود داشته باشد, خالی باشد. این یکی از "
+"قابلیت های MySQL است. برای اطلاعات بیشتر, <a href=\"http://dev.mysql.com/doc/"
+"mysql/en/fulltext-search.html\" title=\"Full-text search in MySQL\">'Full-"
+"text search in MySQL'</a> را در مستندات MySQL ببینید."
+
+#: pntemplates/dizkus_admin_preferences.html:59
+msgid "Enable extended full-text search in internal search"
+msgstr "فعال سازی جستجو ی  full-text search پیشرفته در جستجوی داخلی"
+
+#: pntemplates/dizkus_admin_preferences.html:61
+msgid ""
+"Notice: Extended full-text searching enables queries like '+Dizkus -Skype' "
+"to find posts that contain 'Dizkus' but not 'Skype'. Requires MySQL 4.01 or "
+"later. For more information, see <a href=\"http://dev.mysql.com/doc/mysql/en/"
+"fulltext-boolean.html\" title=\"Extended full-text search in MySQL\">'Full-"
+"text search in MySQL'</a> in the MySQL documentation."
+msgstr ""
+"توجه: جستجو از طریق full-text searching پیشرفته جستجو هایی مانند  '+Dizkus -"
+"Skype' را فعال می کند که ارسال هایی را پیدا می کند که شامل  'Dizkus' باشد "
+"اما در آن 'Skype' نباشد. این کار نیازمند MySQL 4.01 یا بالاتر دارد. برای "
+"اطلاعات بیشتر, <a href=\"http://dev.mysql.com/doc/mysql/en/fulltext-boolean."
+"html\" title=\"Extended full-text search in MySQL\">'Full-text search in "
+"MySQL'</a> را در مستندات MySQL ببینید."
+
+#: pntemplates/dizkus_admin_preferences.html:64
+msgid "Show text in search results"
+msgstr "نمایش متن در نتایج جستجو"
+
+#: pntemplates/dizkus_admin_preferences.html:66
+msgid ""
+"Notice: Deactivate the 'Show text in search results' setting for high-volume "
+"sites if you need to improve search performance, or if you need to be "
+"attentive to constant cleaning of the search results table."
+msgstr ""
+"توجه: اگر میخواهید کارائی جستجو  را برای سایت های پر ترافیک بهبود ببخشید, یا "
+"اگر شما می خواهید مواظب تميز بودن همیشگی جدول نتایج جستجو باشد, تنظیمات "
+"'نمایش متن در نتایج جستجو' غیر فعال کنید."
+
+#: pntemplates/dizkus_admin_preferences.html:69
+msgid "Minimum number of characters in search query string (1 minimum)"
+msgstr "حداقل تعداد کاراکتر در هر رشته جستجو (حداقل1)"
+
+#: pntemplates/dizkus_admin_preferences.html:74
+msgid "Maximum number of characters in search query string (50 maximum)"
+msgstr "حداکثر تعداد کاراکتر در هر رشته جستجو (حداکثر50)"
+
+#: pntemplates/dizkus_admin_preferences.html:80
+msgid "User-related settings"
+msgstr "تنظیمات مربوط به کاربر"
+
+#: pntemplates/dizkus_admin_preferences.html:82
+msgid "Sort order for posts"
+msgstr "نحوه چینش ارسالها"
+
+#: pntemplates/dizkus_admin_preferences.html:86
+msgid "Beginning of signature"
+msgstr "شروع امضا"
+
+#: pntemplates/dizkus_admin_preferences.html:90
+msgid "End of signature"
+msgstr "پایان امضا"
+
+#: pntemplates/dizkus_admin_preferences.html:94
+msgid "Automatically subscribe users to new topics and posts"
+msgstr "کاربران به طور خودکار مشترک موضوعات و ارسال های جدید شوند"
+
+#: pntemplates/dizkus_admin_preferences.html:98
+msgid "Enable signature management via forum user settings"
+msgstr "فعال سازی مدیریت امضا از طریق تنظیمات کاربر در انجمن"
+
+#: pntemplates/dizkus_admin_preferences.html:102
+msgid "Strip user signatures from posts"
+msgstr "حذف امضاهای کاربران از ارسالها"
+
+#: pntemplates/dizkus_admin_preferences.html:106
+msgid "Allow globally recognized avatars"
+msgstr "اجازه سراسری تصدیق آواتارها"
+
+#: pntemplates/dizkus_admin_preferences.html:110
+msgid "Default gravatar image"
+msgstr "تصویر پیش فرض gravatar"
+
+#: pntemplates/dizkus_admin_preferences.html:112
+msgid "Example: gravatar.gif"
+msgstr "مانند: gravatar.gif"
+
+#: pntemplates/dizkus_admin_preferences.html:115
+msgid "Display confirmation when a new topic has been created"
+msgstr "هنگامی که یک موضوع جدید ایجاد شد, باید تایید شود"
+
+#: pntemplates/dizkus_admin_preferences.html:120
+msgid "Highest-allowed 'ignore list' ostracism level"
+msgstr "بالاترین سطح محرومیت 'ایگنور لیست'"
+
+#: pntemplates/dizkus_admin_preferences.html:124
+msgid ""
+"Notice: 'Ignore list' support is not currently available. The <a href="
+"\"http://code.zikula.org/contactlist/\">ContactList</a> module must be "
+"installed for this feature to be operative."
+msgstr ""
+"توجه: پشتیبانی از 'لیست ایگنور' در حال حاضر در دسترس نیست. برای اینکه این "
+"قابلیت کار کند یاید ماژول <a href=\"http://code.zikula.org/contactlist/"
+"\">ContactList</a> نصب شده باشد."
+
+#: pntemplates/dizkus_admin_preferences.html:130
+msgid "Security settings"
+msgstr "تنظیمات امنیتی"
+
+#: pntemplates/dizkus_admin_preferences.html:132
+msgid "Log IP addresses"
+msgstr "آدرس های آی پی ثبت شود"
+
+#: pntemplates/dizkus_admin_preferences.html:136
+msgid "Strip HTML tags from new posts"
+msgstr "تگ های HTML را از ارسال های جدید حذف کن"
+
+#: pntemplates/dizkus_admin_preferences.html:138
+msgid ""
+"Notice: Setting 'Strip HTML tags from new posts' to enabled does not affect "
+"the content of '[code][/code]' BBCode tags."
+msgstr ""
+"توجه: اگر تنظیمات 'تگ های HTML را از ارسال های جدید حذف کن' فعال یاشد "
+"محتویات تگ های '[code][/code]' BBCode کار نخواهد کرد."
+
+#: pntemplates/dizkus_admin_preferences.html:142
+msgid "Number of hours during which edits to posts are allowed (Maximum:72)"
+msgstr "تعداد ساعاتی که در طی آن ویرایش ارسال ها مجاز است (حداکثر:72)"
+
+#: pntemplates/dizkus_admin_preferences.html:151
+msgid "Other settings"
+msgstr "سایر تنظیمات"
+
+#: pntemplates/dizkus_admin_preferences.html:154
+msgid "Hide category view when there is only one category"
+msgstr "نمایش طبقات را هنگامی که فقط یک طیقه وجود دارد مخفی کن"
+
+#: pntemplates/dizkus_admin_preferences.html:158
+msgid "Enable Mail2Forum"
+msgstr "فعال سازی Mail2Forum"
+
+#: pntemplates/dizkus_admin_preferences.html:162
+msgid "Enable RSS2Forum"
+msgstr "فعال سازی RSS2Forum"
+
+#: pntemplates/dizkus_admin_preferences.html:166
+msgid "Enable favourites"
+msgstr "فعال سازی علاقمندی ها"
+
+#: pntemplates/dizkus_admin_preferences.html:170
+msgid "Action to be performed when 'delete' hook is called"
+msgstr "عملیاتی که هنگام 'حذف' قلاب فرا خوانده شود"
+
+#: pntemplates/dizkus_admin_preferences.html:177
+msgid "Restore defaults"
+msgstr "بازگرداندن به مقادیر پیش فرض"

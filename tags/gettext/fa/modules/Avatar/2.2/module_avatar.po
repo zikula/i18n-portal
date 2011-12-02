@@ -1,0 +1,417 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-22 10:53+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.5.1\n"
+
+#: pnadmin.php:44 pnadmin.php:170 pnadmin.php:204 pnuser.php:36
+msgid ""
+"Error! This module can only be used if the Profile module is installed and "
+"if it is set in the Settings module as the default profile module."
+msgstr ""
+"خطا! این ماژول تنها زمانی می تواند استفاده شود که ماژول Profile نصب شده باشد "
+"و در تنظیمات به عنوان ماژول پروفایل پیش فرض انتخاب شده باشد."
+
+#: pnadmin.php:58 pnuser.php:50
+msgid ""
+"Error! The user attribute called 'avatar' doesn't exist. Please install a "
+"Profile module if you want to use this module."
+msgstr ""
+"خطا! ویژگی 'avatar' برای کاربر وجود ندارد. اگر میخواهید از این ماژول استفاده "
+"کنید لطفا یک ماژول پروفایل نصب کنید."
+
+#: pnadmin.php:198
+msgid "Error! No avatar choosen."
+msgstr "خطا! هیچ آواتاری انتخاب نشده است."
+
+#: pnadmin.php:274
+msgid ""
+"Warning! This avatar is in use and cannot be deleted. If you want to delete "
+"it, please change the avatars of the users listed below."
+msgstr ""
+"اخطار! این آواتار در حال استفاده است و نمی تواند حذف شود. اگر می خواهید آن "
+"را حذف کنید, لطفا آواتار کاربران لیست شده در زیر را تغییر دهید."
+
+#: pnversion.php:15
+msgid "Avatar"
+msgstr "آواتار"
+
+#: pnversion.php:16
+msgid "avatar"
+msgstr "avatar"
+
+#: pnversion.php:18
+msgid "Upload of individual Avatars"
+msgstr "آپلود آواتارهای شخصی"
+
+#: pntemplates/plugins/function.pnformpathinput.php:69
+#, php-format
+msgid "The path %s does not exist or is not readable by the webserver."
+msgstr "مسیر %s وجود ندارد یا برای وب سرور قابل خواندن نیست."
+
+#: pntemplates/plugins/function.pnformpathinput.php:71
+#, php-format
+msgid "The webserver cannot write to %s."
+msgstr "وب سرور نمی تواند در %s بنویسد"
+
+#: pntemplates/plugins/function.pnformpathinput.php:85
+msgid "Error! Missing path."
+msgstr "خطا! مسیر مفقود شده است."
+
+#: pnuserapi.php:88
+#, php-format
+msgid "Done! The avatar of the user '%s' has been disabled."
+msgstr "انجام شد! آواتار کاربر '%s' غیر فعال شد."
+
+#: pnuserapi.php:90
+#, php-format
+msgid "Done! The avatar of the user '%s' has been set to his gravatar."
+msgstr "انجام شد! آواتار کاربر '%s' به gravatar شخصیش تغییر پیدا کرد."
+
+#: pnuserapi.php:92
+#, php-format
+msgid "Done! The avatar of the user '%1$s' has been changed to '%2$s'"
+msgstr "انجام شد! آواتار کاربر '%1$s' به '%2$s' تغییر پیدا کرد"
+
+#: pnuserapi.php:99
+#, php-format
+msgid ""
+"Error! The user is not authorized to use this avatar. To change this, update "
+"the permission for %s."
+msgstr ""
+"خطا! کاربر برای استفاده از این آواتار احراز هویت نشده است. برای تغییر آن, "
+"مجوزهای دسترسی را برای %s به روز رسانی کنید."
+
+#: pnuser.php:31 pnuser.php:86 pnuser.php:267
+msgid "Error! You aren't a registered user."
+msgstr "خطا! شما یک کاربر ثبت نام کرده نیستید."
+
+#: pnuser.php:124
+msgid "Error! No file selected."
+msgstr "خطا! هیچ فایلی انتخاب نشده است."
+
+#: pnuser.php:136
+#, php-format
+msgid "Error! Filesize error, max %s bytes are allowed."
+msgstr "خطا! خطا در اندازه فایل, جحجم فایل تا %s بایت مجاز است."
+
+#: pnuser.php:145
+msgid "Error! The file is not an image."
+msgstr "خطا! فایل یک تصویر نیست."
+
+#: pnuser.php:152
+#, php-format
+msgid "Error! Unauthorised file extension. Allowed extensions: %s."
+msgstr "خطا! این پسوند غیر مجاز است. پسوند های مجاز: %s."
+
+#: pnuser.php:160
+#, php-format
+msgid "Error! Image height (max. %1$s px) or width (max. %2$s px) error."
+msgstr "خطا! خطا در ارتفا (حداکثر %1$s px)یا پهنا (حداکثر %2$s px)."
+
+#: pnuser.php:230
+msgid "Error! Fail to copy the file in avatar's directory."
+msgstr "خطا! کپی فایل در پوشه avatar شکست خورد."
+
+#: pnuser.php:238
+msgid "Error! Fail to copy the file in phpbb's directory."
+msgstr "خطا! کپی فایل در پوشه phpbb شکست خورد."
+
+#: pnuser.php:246
+msgid "Error while selecting the avatar."
+msgstr "هنگام انتخاب آواتار یک خطا اتفاق افتاد"
+
+#: pnaccountapi.php:29 pntemplates/Avatar_user_header.htm:4
+msgid "Avatar Management"
+msgstr "مدیریت آواتار"
+
+#: pnadminapi.php:24 pntemplates/Avatar_admin_main.htm:3
+msgid "Maintain avatars"
+msgstr "نگهداری آواتارها"
+
+#: pnadminapi.php:25 pntemplates/Avatar_admin_searchusers.htm:4
+msgid "Search user"
+msgstr "جستجوی کاربر"
+
+#: pnadminapi.php:26 pntemplates/Avatar_admin_modifyconfig.htm:5
+#: pntemplates/Avatar_admin_menu.htm:9
+msgid "Modify configuration"
+msgstr "تغییر پیکربندی"
+
+#: pnadminapi.php:84
+#, php-format
+msgid "Error! Unable to delete avatar '%s'."
+msgstr "خطا! نمی توانم آواتار '%s' حذف کنم."
+
+#: pnadminapi.php:87
+#, php-format
+msgid "Done! The Avatar '%s' has been deleted."
+msgstr "انجام شد! آواتار '%s' حذف شد."
+
+#: pntemplates/Avatar_user_header.htm:9 pntemplates/Avatar_user_main.htm:2
+msgid "View avatars"
+msgstr "مشاهده آواتارها"
+
+#: pntemplates/Avatar_user_header.htm:11
+#: pntemplates/Avatar_user_uploadform.htm:2
+msgid "Upload avatar"
+msgstr "آپلود آواتار"
+
+#: pntemplates/Avatar_user_header.htm:22
+msgid "Your current avatar is:"
+msgstr "آواتار فعلی شما"
+
+#: pntemplates/Avatar_user_header.htm:25
+msgid "Currently no avatar selected"
+msgstr "در حال حاضر هیچ آواتاری انتخاب نشده است"
+
+#: pntemplates/Avatar_admin_main.htm:9
+#: pntemplates/Avatar_admin_listusers.htm:16
+#: pntemplates/Avatar_admin_searchusers.htm:40
+#: pntemplates/Avatar_user_main.htm:10
+msgid "Select the number of avatars to be displayed per page"
+msgstr "تعداد آواتارها را برای نمایش در هر صفحه انتخاب کنید"
+
+#: pntemplates/Avatar_admin_main.htm:15
+#: pntemplates/Avatar_admin_listusers.htm:22
+#: pntemplates/Avatar_admin_searchusers.htm:46
+#: pntemplates/Avatar_user_main.htm:16
+msgid "All"
+msgstr "همه"
+
+#: pntemplates/Avatar_admin_main.htm:17
+#: pntemplates/Avatar_admin_modifyconfig.htm:67
+#: pntemplates/Avatar_admin_listusers.htm:24
+#: pntemplates/Avatar_admin_searchusers.htm:48
+#: pntemplates/Avatar_user_main.htm:18
+msgid "Submit"
+msgstr "ارسال"
+
+#: pntemplates/Avatar_admin_main.htm:28
+msgid "List users that use this avatar"
+msgstr "لیست کاربرانی که از این آواتار استفاده می کنند"
+
+#: pntemplates/Avatar_admin_main.htm:28
+msgid "View"
+msgstr "نمایش"
+
+#: pntemplates/Avatar_admin_main.htm:29
+msgid "Delete avatar"
+msgstr "حذف آواتار"
+
+#: pntemplates/Avatar_admin_main.htm:29 pntemplates/Avatar_admin_delete.htm:13
+msgid "Delete"
+msgstr "خذف"
+
+#: pntemplates/Avatar_admin_modifyconfig.htm:11
+msgid "Upload settings"
+msgstr "تنظیمات آپلود"
+
+#: pntemplates/Avatar_admin_modifyconfig.htm:14
+msgid "Avatar Directory"
+msgstr "دایرکتوری آواتار"
+
+#: pntemplates/Avatar_admin_modifyconfig.htm:16
+#, php-format
+msgid ""
+"Please configure the avatar path in the <a href=\"%s\">Users administration</"
+"a>"
+msgstr ""
+"لطفا مسیر آواتارها را در مسیر <a href=\"%s\">مدیریت کاربران</a> پیکربندی کنید"
+
+#: pntemplates/Avatar_admin_modifyconfig.htm:20
+msgid "Warning! The webserver cannot write to the avatar direcory."
+msgstr "خطا! خادم وب نمی تواند در مسیر پوشه آواتار بنویسد."
+
+#: pntemplates/Avatar_admin_modifyconfig.htm:25
+msgid "Avatar Directory (PNphpBB2)"
+msgstr "دایرکتوری آواتار (PNphpBB2)"
+
+#: pntemplates/Avatar_admin_modifyconfig.htm:28
+msgid ""
+"Warning! The webserver cannot write to the forums avatar direcory (this is "
+"fine when PNphpBB2 isn't installed)."
+msgstr ""
+"اخطار! وب سرور نمی تواند در دایرکتوری آواتار انجمن ها بنویسد (این برای "
+"هنگامی که PNphpBB نصب نیست مناسب است)."
+
+#: pntemplates/Avatar_admin_modifyconfig.htm:34
+msgid "Resize the avatar automatically"
+msgstr "به طور خودکار اندازه فایل تغییر داده شود"
+
+#: pntemplates/Avatar_admin_modifyconfig.htm:39
+msgid "Max. avatar filesize in bytes"
+msgstr "بیشترین حجم فایل به بایت"
+
+#: pntemplates/Avatar_admin_modifyconfig.htm:44
+msgid "Max. height in pixels"
+msgstr "بیشترین ارتفا به پیکسل"
+
+#: pntemplates/Avatar_admin_modifyconfig.htm:49
+msgid "Max. width in pixels"
+msgstr "بیشترین عرض به پیکسل"
+
+#: pntemplates/Avatar_admin_modifyconfig.htm:54
+msgid "Allowed extensions"
+msgstr "پسوندهای مجاز"
+
+#: pntemplates/Avatar_admin_modifyconfig.htm:56
+msgid ""
+"A semicolon separated list of allowed file extensions, supported filetypes: "
+"gif, jpg, jpeg, png, wbm. When using PHP 5 or later you have to allow 'jpeg' "
+"instead of 'jpg'."
+msgstr ""
+"یک لیست از پسوند های مجاز که با ';' جدا شده اند. پسوندهای مورد پشتیبانی: "
+"gif, jpg, jpeg, png, wbm. وقتی از  PHP 5 یا بالاتر استفاده می کنید, مجازید "
+"از 'jpeg' بجای 'jpg' استفاده کنید."
+
+#: pntemplates/Avatar_admin_modifyconfig.htm:60
+msgid "Allow multiple avatars"
+msgstr "چندین آواتار مجاز است"
+
+#: pntemplates/Avatar_admin_modifyconfig.htm:62
+msgid "This allows the user to store one avatar per extension"
+msgstr "این به کاربر اجازه می دهد تا یک آواتار به ازای هر پسوند ذخیره کند"
+
+#: pntemplates/Avatar_admin_delete.htm:3 pntemplates/Avatar_admin_delete.htm:7
+msgid "Confirm deletion"
+msgstr "تایید حذف"
+
+#: pntemplates/Avatar_admin_delete.htm:8
+#: pntemplates/Avatar_admin_listusers.htm:3
+msgid "Selected avatar"
+msgstr "آواتار انتخاب شده"
+
+#: pntemplates/Avatar_admin_listusers.htm:6
+msgid "Users who don't use a avatar"
+msgstr "کاربرانی که از آواتار استفاده نمی کنند."
+
+#: pntemplates/Avatar_admin_listusers.htm:9
+msgid "Users who use this avatar"
+msgstr "کاربرانی که از این آواتار استفاده می کنند."
+
+#: pntemplates/Avatar_admin_listusers.htm:34
+#: pntemplates/Avatar_admin_searchusers.htm:35
+msgid "Select new avatar"
+msgstr "انتخاب آواتار جدید"
+
+#: pntemplates/Avatar_admin_listusers.htm:37
+msgid "No user is using this avatar."
+msgstr "هیچ کاربری از این آواتار استفاده نمی کند."
+
+#: pntemplates/Avatar_admin_listusers.htm:42
+msgid "Choose the avatar to update all selected users"
+msgstr "آواتار را برای همه کاربران انتخاب شده, انتخاب کنید."
+
+#: pntemplates/Avatar_user_uploadform.htm:7
+msgid ""
+"If no available avatar represents you, you can upload a personalised avatar."
+msgstr ""
+"اگر هیچ آواتاری برای شما وجود ندارد, شما میتوانید یک آواتار شخصی برای خود "
+"آپلود کنید."
+
+#: pntemplates/Avatar_user_uploadform.htm:10
+msgid "Upload file"
+msgstr "آپلود فایل"
+
+#: pntemplates/Avatar_user_uploadform.htm:17
+msgid "Upload"
+msgstr "آپلود"
+
+#: pntemplates/Avatar_user_uploadform.htm:18
+msgid "Clear"
+msgstr "از نو"
+
+#: pntemplates/Avatar_user_uploadform.htm:21
+msgid "Possible extensions"
+msgstr "پسوندهای مجاز"
+
+#: pntemplates/Avatar_user_uploadform.htm:25
+msgid "Avatar max. file size"
+msgstr "حداکثر اندازه حجم آواتار"
+
+#: pntemplates/Avatar_user_uploadform.htm:26
+msgid "Bytes"
+msgstr "بایت"
+
+#: pntemplates/Avatar_user_uploadform.htm:29
+msgid "Maximal avatar dimensions"
+msgstr "بیشترین اندازه تصویر"
+
+#: pntemplates/Avatar_user_uploadform.htm:30
+msgid "pixels"
+msgstr "پیکسل"
+
+#: pntemplates/Avatar_user_uploadform.htm:31
+msgid "Larger images will be resized automatically."
+msgstr "تصاویر بزرگتر بصورت خودکار تغییر انداره داده خواهند شد."
+
+#: pntemplates/Avatar_admin_menu.htm:4
+msgid "Avatar administration"
+msgstr "مدیریت آواتار"
+
+#: pntemplates/Avatar_admin_searchusers.htm:7
+msgid "Enter user name"
+msgstr "نام کاربری را وارد کنید"
+
+#: pntemplates/Avatar_admin_searchusers.htm:8
+msgid "Edit"
+msgstr "ویرایش"
+
+#: pntemplates/Avatar_admin_searchusers.htm:28
+#, php-format
+msgid "The current avatar of '%s' is:"
+msgstr "آواتار فعلی  '%s' هست:"
+
+#: pntemplates/Avatar_admin_searchusers.htm:31
+msgid "The user has no avatar selected."
+msgstr "کاربر هیچ آواتاری را انتخاب نکرده است."
+
+#: pntemplates/Avatar_user_main.htm:6
+msgid "Please choose your prefered avatar"
+msgstr "لطفا آواتار مورد نظر خود را انتخاب کنید"
+
+#: pntemplates/Avatar_user_main.htm:30
+msgid "Gravatar"
+msgstr "Gravatar"
+
+#: pntemplates/Avatar_user_main.htm:31
+msgid ""
+"This site also supports <a href=\"http://www.gravatar.com\">gravatars</a>. "
+"If you have a gravatar then select the gravatar logo as your avatar."
+msgstr ""
+"این سایت از <a href=\"http://www.gravatar.com\">gravatars</a> پشتیبانی می کند. "
+"اگر شما یک gravatar دارید می توانید از آن به عنوان آواتارتان استفاده کنید."
+
+#: pntemplates/Avatar_user_main.htm:32 pntemplates/Avatar_user_main.htm:33
+msgid "Use your gravatar"
+msgstr "استفاده از  gravatar شما"
+
+#: pntemplates/Avatar_user_main.htm:37
+msgid "Deactivate your avatar"
+msgstr "غیر فعال کردن آواتار شما"
+
+#: pntemplates/Avatar_user_main.htm:39
+#, php-format
+msgid ""
+"If you don't want that an avatar is displayed for you, then please click <a "
+"href=\"%1$s\">here</a> to clear your avatar."
+msgstr ""
+"اگر نمی خواهید آواتار برای شما نمایش داده شود, برای حذف آواتارتان <a href=\"%"
+"1$s\">اینجا</a> کلیک کنید."
+
+#: pntemplates/Avatar_admin_footer.htm:3
+msgid "Visit Avatar project at http://code.zikula.org/avatar/"
+msgstr "بازدید از پروژه آواتار در http://code.zikula.org/avatar/"

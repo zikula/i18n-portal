@@ -1,0 +1,186 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-03 11:42-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.4.0\n"
+
+#: pnadmin.php:99
+msgid "Done! Ephemerid created."
+msgstr "Fatto! Effemeride creato."
+
+#: pnadmin.php:128 pnadmin.php:228
+msgid "No such ephemerid found."
+msgstr "Nessun effemeride trovato."
+
+#: pnadmin.php:190
+msgid "Done! Ephemerid updated."
+msgstr "Fatto! Effemeride aggiornato."
+
+#: pnadmin.php:261
+msgid "Done! Ephemerid deleted."
+msgstr "Fatto! Effemeride cancellato."
+
+#: pnadmin.php:306
+msgid "Edit"
+msgstr "Modifica"
+
+#: pnadmin.php:310 pntemplates/ephemerids_admin_delete.htm:16
+msgid "Delete"
+msgstr "Elimina"
+
+#: pnadmin.php:382
+msgid "Done! Saved module configuration."
+msgstr "Fatto! Configurazione modulo salvata."
+
+#: pnuserapi.php:63 pnuserapi.php:150
+msgid "Error! Could not load any ephemerids."
+msgstr "Errore! Impossibile caricare qualsiasi effemeride."
+
+#: pnblocks/ephem.php:31 pntemplates/ephemerids_admin_menu.htm:4
+msgid "Ephemerids"
+msgstr "Effemeridi"
+
+#: pnblocks/ephem.php:32
+msgid "Ephemerid"
+msgstr "Effemeride"
+
+#: pnversion.php:17
+msgid "Ephemerids "
+msgstr "Effemeridi"
+
+#: pnversion.php:18
+msgid ""
+"Provides a block displaying an information byte (historical event, thought "
+"for the day, etc.) linked to the day's date, with daily roll-over, and "
+"incorporates an interface for adding, editing and maintaining ephemerids."
+msgstr ""
+"Fornisce un blocco di visualizzazione di un byte di informazione (evento "
+"storico, il pensiero del giorno, ecc), collegato alla data del giorno, con "
+"il roll-over al giorno, e comprende un interfaccia per aggiungere, "
+"modificare e mantenere gli effemeridi"
+
+#. ! module name that appears in URL
+#: pnversion.php:20
+msgid "ephemerids"
+msgstr "effemeridi"
+
+#: pnadminapi.php:49
+msgid "Error! Could not create the new ephemerid."
+msgstr "Errore! non è stato possibile creare il nuovo effemeride."
+
+#: pnadminapi.php:79
+msgid "No such ephemerid found"
+msgstr "Nessun effemeride trovato."
+
+#: pnadminapi.php:88
+msgid "Error! Could not delete the ephemerid."
+msgstr "Errore! Impossibile eliminare l'Effemeride"
+
+#: pnadminapi.php:128
+msgid "Error! No such ephemerid found"
+msgstr "Errore! nessun effemeride trovato."
+
+#: pnadminapi.php:146
+msgid "Error! Could not save your changes."
+msgstr "Errore! Impossibile salvare i cambiamenti."
+
+#: pnadminapi.php:170 pntemplates/ephemerids_admin_view.htm:3
+msgid "Ephemerids list"
+msgstr "Lista Effemeridi"
+
+#: pnadminapi.php:173 pntemplates/ephemerids_admin_new.htm:3
+msgid "Create new ephemerid"
+msgstr "Crea un nuovo effemeride"
+
+#: pnadminapi.php:176 pntemplates/ephemerids_admin_modifyconfig.htm:4
+#: pntemplates/ephemerids_admin_modifyconfig.htm:5
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: pntemplates/ephemerids_admin_modifyconfig.htm:10
+msgid "General settings"
+msgstr "Impostazioni generali"
+
+#: pntemplates/ephemerids_admin_modifyconfig.htm:12
+msgid "Items per page in admin panel list view"
+msgstr "Articoli per pagine nel pannello di amministrazione"
+
+#: pntemplates/ephemerids_admin_modifyconfig.htm:18
+#: pntemplates/ephemerids_admin_modify.htm:32
+#: pntemplates/ephemerids_admin_new.htm:31
+msgid "Save"
+msgstr "Salva"
+
+#: pntemplates/ephemerids_admin_modifyconfig.htm:19
+#: pntemplates/ephemerids_admin_modify.htm:33
+#: pntemplates/ephemerids_admin_new.htm:32
+#: pntemplates/ephemerids_admin_delete.htm:17
+msgid "Cancel"
+msgstr "Annulla"
+
+#: pntemplates/ephemerids_admin_modify.htm:3
+msgid "Edit ephemerid"
+msgstr "Modifica effemeride"
+
+#: pntemplates/ephemerids_admin_modify.htm:14
+#: pntemplates/ephemerids_admin_new.htm:13
+#: pntemplates/ephemerids_admin_view.htm:10
+msgid "Date"
+msgstr "Data"
+
+#: pntemplates/ephemerids_admin_modify.htm:16
+#: pntemplates/ephemerids_admin_new.htm:15
+msgid ""
+"The year can't be lower than the unix epoch one (1970) or will be reseted to "
+"1970 for formatting purposes."
+msgstr ""
+"L'anno non può essere più inferiore del 1970 di UNIX o sarà impostato a 1970 "
+"per gli scopi di formattazione"
+
+#: pntemplates/ephemerids_admin_modify.htm:21
+#: pntemplates/ephemerids_admin_new.htm:20
+msgid "Language"
+msgstr "Lingua"
+
+#: pntemplates/ephemerids_admin_modify.htm:26
+#: pntemplates/ephemerids_admin_new.htm:25
+#: pntemplates/ephemerids_admin_view.htm:11
+msgid "Content"
+msgstr "Contenuto"
+
+#: pntemplates/ephemerids_admin_new.htm:11
+msgid "New ephemerid"
+msgstr "Nuovo effemeride"
+
+#: pntemplates/ephemerids_admin_view.htm:12
+msgid "Internal ID"
+msgstr "ID interno"
+
+#: pntemplates/ephemerids_admin_view.htm:13
+msgid "Actions"
+msgstr "Azioni"
+
+#: pntemplates/ephemerids_admin_view.htm:30
+msgid "No items found."
+msgstr "Nessun articolo trovato."
+
+#: pntemplates/ephemerids_admin_delete.htm:3
+msgid "Delete ephemerid"
+msgstr "Elimina effemeride"
+
+#: pntemplates/ephemerids_admin_delete.htm:7
+msgid "Do you really want to delete this ephemerid?"
+msgstr "Vuoi davvero eliminare questo effemeride"

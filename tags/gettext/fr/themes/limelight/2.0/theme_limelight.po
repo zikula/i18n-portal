@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-07 06:08-0500\n"
+"PO-Revision-Date: 2010-07-21 15:43+0200\n"
+"Last-Translator: Gilles <gilles@pilloud.fr>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: version.php:4
+msgid "Limelight"
+msgstr "Limelight"
+
+#: version.php:8
+msgid "Limelight Open Designs template"
+msgstr "Template Open Designs Limelight"
+
+#: templates/modules/News/old/news_user_index.htm:2
+msgid "clock.gif"
+msgstr "clock.gif"
+
+#: templates/modules/News/old/news_user_index.htm:4
+msgid "Read more"
+msgstr "Lire d'avantage"
+
+#: templates/modules/News/old/news_user_index.htm:4
+msgid "document.gi"
+msgstr "document.gi"
+
+#: templates/modules/News/old/news_user_index.htm:4
+msgid "Comments"
+msgstr "Commentaires"
+
+#: templates/modules/News/old/news_user_index.htm:4
+msgid "comment.gif"
+msgstr "comment.gif"
+
+#: templates/includes/header.htm:5 templates/includes/header.htm:13
+msgid "Home"
+msgstr "Accueil"
+
+#: templates/includes/header.htm:6
+msgid "Pages"
+msgstr "Pages"
+
+#: templates/includes/header.htm:7
+msgid "News"
+msgstr "Nouvelles"
+
+#: templates/includes/header.htm:8
+msgid "Forums"
+msgstr "Forums"
+
+#: templates/includes/header.htm:9 templates/includes/footer.htm:19
+msgid "Contact"
+msgstr "Contact"
+
+#: templates/includes/footer.htm:19
+msgid "Home Page"
+msgstr "Page d'accueil"
+
+#: templates/includes/footer.htm:19
+msgid "Sitemap"
+msgstr "Carte du site"
+
+#: templates/includes/footer.htm:19
+msgid "RSS Feed"
+msgstr "Flux RSS"
+
+#: templates/includes/footer.htm:24
+msgid "Design by"
+msgstr "Créé par"
+
+#: templates/includes/footer.htm:24
+msgid "www.mitchinson.net"
+msgstr "www.mitchinson.net"
+
+#: templates/includes/footer.htm:24
+msgid "Licensed"
+msgstr "Autorisé"
+
+#: templates/includes/footer.htm:24
+msgid "Creative Commons Attribution 2.5 License"
+msgstr "Creative Commons Attribution 2.5 License"
+
+#: templates/includes/footer.htm:24
+msgid "Valid"
+msgstr "Valide"
+
+#: templates/includes/footer.htm:24
+msgid "CSS"
+msgstr "CSS"
+
+#: templates/includes/footer.htm:24
+msgid "XHTML"
+msgstr "XHTML"

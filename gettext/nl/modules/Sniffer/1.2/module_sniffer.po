@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-09 12:52+0000\n"
+"PO-Revision-Date: 2010-02-17 15:24+0200\n"
+"Last-Translator: Arjen <teb@zikula.nl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnversion.php:16
+msgid "sniffer"
+msgstr "sniffer"
+
+#: pnversion.php:17 pnblocks/sniffer.php:35
+msgid "Sniffer"
+msgstr "Sniffer"
+
+#: pnversion.php:18
+msgid "Browser detection and information."
+msgstr "Browser detectie en informatie."
+
+#: pnblocks/sniffer.php:36
+msgid "Show browser info"
+msgstr "Browser informatie tonen"
+
+#: pntemplates/sniffer_admin_main.htm:4
+msgid "Browser Sniffer"
+msgstr "Browser sniffer"
+
+#: pntemplates/sniffer_admin_main.htm:8
+msgid "Basic Browser Infomation"
+msgstr "Basis browser informatie"
+
+#: pntemplates/sniffer_admin_main.htm:11
+#: pntemplates/sniffer_block_sniffer.htm:3
+msgid "User Agent"
+msgstr "User Agent"
+
+#: pntemplates/sniffer_admin_main.htm:15
+#: pntemplates/sniffer_block_sniffer.htm:5
+msgid "Browser"
+msgstr "Browser"
+
+#: pntemplates/sniffer_admin_main.htm:19
+#: pntemplates/sniffer_block_sniffer.htm:7
+msgid "Browser version"
+msgstr "Browser versie"
+
+#: pntemplates/sniffer_admin_main.htm:23
+#: pntemplates/sniffer_block_sniffer.htm:9
+msgid "OS"
+msgstr "OS"
+
+#: pntemplates/sniffer_admin_main.htm:27
+#: pntemplates/sniffer_block_sniffer.htm:11
+msgid "OS version"
+msgstr "OS versie"

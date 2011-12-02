@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-07 06:09-0500\n"
+"PO-Revision-Date: 2010-06-14 09:20+0200\n"
+"Last-Translator:  <hiltschi@web.de>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: version.php:4
+msgid "Orange Juice"
+msgstr "Orange Juice"
+
+#: version.php:6
+msgid "Orange Juice OWD template"
+msgstr "Orange Juice OWD Template"
+
+#: templates/includes/header.htm:6 templates/includes/menu.htm:3
+msgid "Home"
+msgstr "Startseite"
+
+#: templates/includes/footer.htm:4
+msgid "Home Page"
+msgstr "Startseite"
+
+#: templates/includes/footer.htm:4 templates/includes/menu.htm:8
+msgid "Sitemap"
+msgstr "Sitemap"
+
+#: templates/includes/footer.htm:4 templates/includes/menu.htm:9
+msgid "Contact"
+msgstr "Kontakt"
+
+#: templates/includes/footer.htm:4
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: templates/includes/footer.htm:9
+msgid "Design by"
+msgstr "Design"
+
+#: templates/includes/footer.htm:9
+msgid "www.mitchinson.net"
+msgstr "www.mitchinson.net"
+
+#: templates/includes/footer.htm:9
+msgid "Licensed"
+msgstr "Lizenz"
+
+#: templates/includes/footer.htm:9
+msgid "Creative Commons Attribution 2.5 License"
+msgstr "Creative Commons Attribution 2.5 License"
+
+#: templates/includes/footer.htm:9
+msgid "Valid"
+msgstr "Gültiges"
+
+#: templates/includes/footer.htm:9
+msgid "CSS"
+msgstr "CSS"
+
+#: templates/includes/footer.htm:9
+msgid "XHTML"
+msgstr "XHTML"
+
+#: templates/includes/menu.htm:4
+msgid "Pages"
+msgstr "Seiten"
+
+#: templates/includes/menu.htm:5
+msgid "News"
+msgstr "Nachrichten"
+
+#: templates/includes/menu.htm:6
+msgid "Forums"
+msgstr "Forum"
+
+#: templates/includes/menu.htm:7
+msgid "Wiki"
+msgstr "Wiki"

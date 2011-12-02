@@ -1,0 +1,1625 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PostCalendar 6.2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-25 21:31+0000\n"
+"PO-Revision-Date: 2010-10-19 21:43+0200\n"
+"Last-Translator: Arjen <teb@zikula.nl>\n"
+"Language-Team: Dutch Zikula Community\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: pnadmin.php:61 pnadmin.php:378 pnadmin.php:419 pnadmin.php:458
+msgid "Approved events administration"
+msgstr "Goedgekeurde evenementen beheer"
+
+#: pnadmin.php:76
+msgid "Hidden events administration"
+msgstr "Verborgen evenementen beheer"
+
+#: pnadmin.php:91
+msgid "Queued events administration"
+msgstr "Evenementen wachtrij beheer"
+
+#: pnadmin.php:146 pntemplates/plugins/function.pc_url.php:162
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:84
+msgid "List"
+msgstr "Lijst weergave"
+
+#: pnadmin.php:147
+msgid "Approve"
+msgstr "Goedkeuren"
+
+#: pnadmin.php:148
+msgid "Hide"
+msgstr "Verbergen"
+
+#: pnadmin.php:149
+#: pntemplates/event/postcalendar_event_deleteeventconfirm.htm:11
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: pnadmin.php:191
+msgid "Please select an event."
+msgstr "Kies een evenement."
+
+#: pnadmin.php:227
+msgid "Do you really want to approve this event?"
+msgid_plural "Do you really want to approve these events?"
+msgstr[0] "Dit evenement goedkeuren?"
+msgstr[1] "Deze evenementen goedkeuren?"
+
+#: pnadmin.php:231
+msgid "Do you really want to hide this event?"
+msgid_plural "Do you really want to hide these events?"
+msgstr[0] "Dit evenement verbergen?"
+msgstr[1] "Deze evenementen verbergen?"
+
+#: pnadmin.php:235
+#: pntemplates/event/postcalendar_event_deleteeventconfirm.htm:10
+msgid "Do you really want to delete this event?"
+msgid_plural "Do you really want to delete these events?"
+msgstr[0] "Dit evenement verwijderen?"
+msgstr[1] "Deze evenementen verwijderen?"
+
+#: pnadmin.php:263 pnadmin.php:293
+msgid "Error! Could not load default values."
+msgstr "Fout! Kon standaardwaarden niet laden."
+
+#: pnadmin.php:275
+msgid "Done! PostCalendar configuration reset to use default values."
+msgstr "De PostCalendar configuratie is teruggzet naar standaardwaarden."
+
+#: pnadmin.php:336
+msgid "Done! Updated the PostCalendar configuration."
+msgstr "De PostCalendar configuratie is bijgewerkt."
+
+#: pnadmin.php:354 pnadmin.php:371 pnadmin.php:395 pnadmin.php:412
+#: pnadmin.php:436 pnadmin.php:451 pnevent.php:50
+msgid "Error! An 'unidentified error' occurred."
+msgstr "Er is een onbekende fout opgetreden."
+
+#: pnadmin.php:369
+#, php-format
+msgid "Done! %s event approved."
+msgid_plural "Done! %s events approved."
+msgstr[0] "Klaar! %s evenement goedgekeurd."
+msgstr[1] "Klaar! %s evenementen goedgekeurd."
+
+#: pnadmin.php:410
+#, php-format
+msgid "Done! %s event was hidden."
+msgid_plural "Done! %s events were hidden."
+msgstr[0] "Klaar! %s evenement is verborgen."
+msgstr[1] "Klaar! %s evenementen zijn verborgen."
+
+#: pnadmin.php:449
+#, php-format
+msgid "Done! %s event deleted."
+msgid_plural "Done! %s events deleted."
+msgstr[0] "Klaar! %s evenement verwijderd."
+msgstr[1] "Klaar! %s evenementen verwijderd."
+
+#: pnadmin.php:479 pntemplates/plugins/function.pc_filter.php:107
+#: pnsearchapi.php:38 pneventapi.php:449
+#, php-format
+msgid "Error! Unable to load class [%s]"
+msgstr "Foutmelding: Kon class [%s] niet laden"
+
+#: pnadmin.php:529
+msgid "Done! Updated the PostCalendar event default values."
+msgstr "De PostCalendar standaard waarden voor evenementen zijn bijgewerkt."
+
+#: pnversion.php:14 pnblocks/featuredevent.php:27 pninit.php:523
+#: pntemplates/user/postcalendar_user_footer.htm:3
+#: pntemplates/user/postcalendar_user_footer.htm:4
+msgid "PostCalendar"
+msgstr "PostCalendar"
+
+#. !used in URL - nospaces, no special chars, lcase
+#: pnversion.php:15
+msgid "postcalendar"
+msgstr "postcalendar"
+
+#: pnversion.php:16 pninit.php:524
+msgid "Calendar for Zikula"
+msgstr "Kalender voor Zikula"
+
+#: pntemplates/plugins/function.pc_filter.php:27
+#: pntemplates/plugins/function.pc_sort_events.php:15
+#: pntemplates/plugins/function.pc_sort_events.php:22
+#: pntemplates/plugins/function.pc_sort_events.php:29
+#, php-format
+msgid "%1$s: missing or empty '%2$s' parameter"
+msgstr "%1$s: ontbrekende of lege '%2$s' parameter"
+
+#: pntemplates/plugins/function.pc_filter.php:33
+msgid "change"
+msgstr "veranderen"
+
+#: pntemplates/plugins/function.pc_filter.php:75
+#: pntemplates/plugins/function.pc_filter.php:77
+msgid "Global Events"
+msgstr "Globale evenementen"
+
+#: pntemplates/plugins/function.pc_filter.php:75
+#: pntemplates/plugins/function.pc_filter.php:76
+msgid "Only"
+msgstr "Alleen"
+
+#: pntemplates/plugins/function.pc_filter.php:76
+#: pntemplates/plugins/function.pc_filter.php:77
+msgid "My Events"
+msgstr "Mijn evenementen"
+
+#: pntemplates/plugins/function.pc_url.php:114
+msgid "Jump to Today"
+msgstr "Ga naar vandaag"
+
+#: pntemplates/plugins/function.pc_url.php:115
+msgid "Day View"
+msgstr "Dag weergave"
+
+#: pntemplates/plugins/function.pc_url.php:116
+msgid "Week View"
+msgstr "Week weergave"
+
+#: pntemplates/plugins/function.pc_url.php:117
+msgid "Month View"
+msgstr "Maand weergave"
+
+#: pntemplates/plugins/function.pc_url.php:118
+msgid "Year View"
+msgstr "Jaar weergave"
+
+#: pntemplates/plugins/function.pc_url.php:119
+#: pntemplates/plugins/function.pc_date_select.php:38
+msgid "List View"
+msgstr "Lijst weergave"
+
+#: pntemplates/plugins/function.pc_url.php:120
+msgid "Submit New Event"
+msgstr "Nieuw evenement inzenden"
+
+#: pntemplates/plugins/function.pc_url.php:121
+#: pntemplates/plugins/function.pc_url.php:164
+#: pntemplates/blocks/postcalendar_block_calendarlinks.htm:8
+msgid "Search"
+msgstr "Zoeken"
+
+#: pntemplates/plugins/function.pc_url.php:122
+msgid "Print View"
+msgstr "Print weergave"
+
+#: pntemplates/plugins/function.pc_url.php:123
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: pntemplates/plugins/function.pc_url.php:157
+msgid "Today"
+msgstr "Vandaag"
+
+#: pntemplates/plugins/function.pc_url.php:158
+#: pntemplates/plugins/function.pc_date_select.php:34
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:80
+msgid "Day"
+msgstr "Dag"
+
+#: pntemplates/plugins/function.pc_url.php:159
+#: pntemplates/plugins/function.pc_date_select.php:35
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:81
+msgid "Week"
+msgstr "Week"
+
+#: pntemplates/plugins/function.pc_url.php:160
+#: pntemplates/plugins/function.pc_date_select.php:36
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:82
+msgid "Month"
+msgstr "Maand"
+
+#: pntemplates/plugins/function.pc_url.php:161
+#: pntemplates/plugins/function.pc_date_select.php:37
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:83
+msgid "Year"
+msgstr "Jaar"
+
+#: pntemplates/plugins/function.pc_url.php:163
+msgid "Add"
+msgstr "Toevoegen"
+
+#: pntemplates/plugins/function.pc_url.php:165
+msgid "Print"
+msgstr "Printen"
+
+#: pntemplates/plugins/function.pc_url.php:166
+msgid "RSS"
+msgstr "RSS"
+
+#: pntemplates/plugins/function.pc_locations.php:22
+msgid "Manual entry"
+msgstr "Handmatige invoer"
+
+#: pntemplates/plugins/function.pc_locations.php:37
+#: pntemplates/admin/postcalendar_admin_eventdefaults.htm:72
+#: pntemplates/event/postcalendar_event_view.htm:23
+#: pntemplates/event/postcalendar_event_submit.htm:124
+#: pntemplates/contenttype/postcalevent_view.html:45
+#: pntemplates/blocks/postcalendar_block_featuredevent.htm:52
+msgid "Location"
+msgstr "Locatie"
+
+#: pntemplates/plugins/function.pc_queued_events_notify.php:33
+#, php-format
+msgid "There is %s queued calendar event awaiting your review."
+msgid_plural "There are %s queued calendar events awaiting your review."
+msgstr[0] "Er is %s kalender evenement die wacht op goedkeuring."
+msgstr[1] "Er zijn %s kalender evenementen die wachten op goedkeuring."
+
+#. !This is link text
+#: pntemplates/plugins/function.pc_queued_events_notify.php:34
+msgid "Review queued events"
+msgstr "Bekijk evenementen wachtrij"
+
+#: pntemplates/plugins/function.selector_LivePipeMultCats.php:98
+msgid "Edit sub-category"
+msgstr "Sub-categorie bewerken"
+
+#: pntemplates/plugins/function.pc_popup.php:34
+msgid "overlib: attribute 'text' or 'inarray' or 'function' not present"
+msgstr "overlib: attribuut 'text' of 'inarray' of 'function' niet aanwezig"
+
+#: pnsearchapi.php:126
+msgid "Error! Could not load items."
+msgstr "Foutmelding: Kon items niet laden."
+
+#. !First Letter of each Day of week
+#: pnuserapi.php:99 pnblocks/calendar.php:168
+msgid "S M T W T F S"
+msgstr "Z M D W D V Z"
+
+#: pnuserapi.php:100
+msgid "Sunday Monday Tuesday Wednesday Thursday Friday Saturday"
+msgstr "zondag maandag dinsdag woensdag donderdag vrijdag zaterdag"
+
+#: pnuserapi.php:204
+msgid ""
+"January February March April May June July August September October November "
+"December"
+msgstr ""
+"januari februari maart april mei juni juli augustus september oktober "
+"november december"
+
+#: pnblocks/featuredevent.php:28
+msgid "Featured Event Calendar Block"
+msgstr "Kalender blok met uitgelicht evenement"
+
+#: pnhooksapi/create.php:38
+msgid "PostCalendar: Event not created (opt out)."
+msgstr "PostCalendar: Evenement niet aangemaakt (opt out)."
+
+#: pnhooksapi/create.php:44 pnhooksapi/update.php:50
+msgid "Hook function not available"
+msgstr "Hook functie niet beschikbaar"
+
+#: pnhooksapi/create.php:61 pnhooksapi/update.php:67
+msgid "PostCalendar: Event created."
+msgstr "PostCalendar: Event aangemaakt."
+
+#: pnhooksapi/create.php:69
+msgid "Error! PostCalender: Could not create an event."
+msgstr "Foutmelding: Kon geen evenement aanmaken."
+
+#: pnhooksapi/news_pcevent.php:42
+msgid "News: "
+msgstr "Nieuws:"
+
+#: pnhooksapi/news_pcevent.php:43
+msgid "Article link: "
+msgstr "Link naar artikel:"
+
+#: pnhooksapi/update.php:41
+msgid "PostCalendar: Existing event deleted (opt out)."
+msgstr "PostCalendar: Bestaand evenement verwijderd (opt-out)."
+
+#: pnhooksapi/update.php:43
+msgid "PostCalendar: News event not created (opt out)."
+msgstr "PostCalendar: Nieuws evenement niet aangemaakt (opt out)."
+
+#: pnhooksapi/update.php:61
+msgid "PostCalendar: Associated Calendar event updated."
+msgstr "PostCalendar: Bijbehorende kalender evenement bijgewerkt."
+
+#: pnhooksapi/update.php:76
+msgid "Error! Could not update the associated Calendar event."
+msgstr "Foutmelding! Kon het bijbehorende Kalender evenement niet bijwerken."
+
+#: pnhooksapi/updateconfig.php:29
+msgid "PostCalendar: module config updated."
+msgstr "PostCalendar: module configuratie bijgewerkt."
+
+#: pnhooksapi/deletemodule.php:26
+#, php-format
+msgid "Error! Module name not present in %s hook."
+msgstr "Foutmelding: Module naam niet aanwezig in de %s hook."
+
+#: pnhooksapi/deletemodule.php:41
+msgid "Error! Could not delete associated PostCalendar events."
+msgstr "Foutmelding: Kon bijbehorende Kalender evenementen niet verwijderen."
+
+#: pnhooksapi/deletemodule.php:44
+msgid "ALL associated PostCalendar events also deleted."
+msgstr "Alle gekoppelde PostCalendar evenementen zijn ook verwijderd."
+
+#: pnhooksapi/users_pcevent.php:34
+msgid "New user: "
+msgstr "Nieuwe gebruiker:"
+
+#: pnhooksapi/users_pcevent.php:35
+msgid "Profile link: "
+msgstr "Link naar Profiel:"
+
+#: pnhooksapi/delete.php:23
+#, php-format
+msgid "PostCalendar: %s not provided in delete hook"
+msgstr "PostCalendar: %s niet opgegeven in de verwijder-hook"
+
+#: pnhooksapi/delete.php:40
+msgid "Error! Could not delete associated PostCalendar event."
+msgstr "Foutmelding: Kon bijbehorende Kalender evenement niet verwijderen."
+
+#: pnhooksapi/delete.php:43
+msgid "Associated PostCalendar event also deleted."
+msgstr "Bijbehorende Kalender evenement is ook verwijderd."
+
+#: pnneedleapi/postcalevent.php:31
+#, php-format
+msgid "No event with eid %s"
+msgstr "Geen evenement met id %s"
+
+#: pnneedleapi/postcalevent.php:41 pnneedleapi/postcaldate.php:36
+msgid "cal icon"
+msgstr "kal icoon"
+
+#: pnneedleapi/postcalevent.php:41
+msgid "PostCalendar Event"
+msgstr "PostCalendar evenement"
+
+#: pnneedleapi/postcalevent.php:66 pnneedleapi/postcaldate.php:56
+msgid "No needle ID"
+msgstr "Geen needle ID"
+
+#: pnneedleapi/postcalevent.php:93
+#, php-format
+msgid "recurring event beginning %s"
+msgstr "Herhalend evenement beginnend op %s"
+
+#: pnneedleapi/postcaldate.php:36
+msgid "PostCalendar Date"
+msgstr "PostCalendar Datum"
+
+#: pnincludes/pcCategoryUtil.class.php:128
+#: pnincludes/pcCategoryUtil.class.php:129
+msgid "Root category"
+msgstr "Root (bovenste) categorie"
+
+#: pnincludes/pcCategoryUtil.class.php:135
+msgid "Select Multiple"
+msgstr "Meerdere selecteren"
+
+#: pnincludes/pcCategoryUtil.class.php:140
+msgid "Select Multiple Categories"
+msgstr "Selecteer meerdere categorieën"
+
+#: pnincludes/pcCategoryUtil.class.php:151
+msgid "Done"
+msgstr "Klaar"
+
+#: pncontenttypesapi/postcalevent.php:25
+msgid "PostCalendar Featured Event"
+msgstr "PostCalendar uitgelicht evenement"
+
+#: pncontenttypesapi/postcalevent.php:29
+msgid "Displays one event from PostCalendar."
+msgstr "Toont een specifiek evenement uit de kalender."
+
+#: pncontenttypesapi/postcalevent.php:41
+msgid "PostCalendar: No event ID set."
+msgstr "PostCalendar: Geen evenement ID opgegeven."
+
+#: pncontenttypesapi/postcalevent.php:80
+msgid "Display featured event"
+msgstr "Toon uitgelicht evenement"
+
+#: pncontenttypesapi/postcalevents.php:25
+msgid "PostCalendar Event List"
+msgstr "PostCalendar evenementen lijst"
+
+#: pncontenttypesapi/postcalevents.php:29
+msgid "Displays a list of PostCalendar events."
+msgstr "Toon een lijst van PostCalendar evenementen."
+
+#: pncontenttypesapi/postcalevents.php:97
+msgid "Display event list from catgories"
+msgstr "Toon evenementen lijst op basis van categorie(ën)"
+
+#: pncontenttypesapi/postcalevents.php:99
+#, php-format
+msgid "Maximum %s events."
+msgstr "Maximaal %s events."
+
+#: pncontenttypesapi/postcalevents.php:100
+#, php-format
+msgid "Over %s months."
+msgstr "Over %s maanden."
+
+#: pnuser.php:82
+msgid "Error! Required arguments not present."
+msgstr "Foutmelding: Benodigde argumenten niet aanwezig."
+
+#: pnuser.php:109
+msgid "You do not have permission to view this event."
+msgstr "Geen toestemming om dit evenement te bekijken."
+
+#: pnevent.php:25
+msgid "Sorry! Authorization has not been granted."
+msgstr "Helaas! Er is geen toegang verleend."
+
+#: pnevent.php:41
+#, php-format
+msgid "Error! There are no events with ID %s."
+msgstr "Foutmelding: Er zijn geen evenementen met id %s."
+
+#: pnevent.php:46
+msgid "Sorry! You do not have authorization to delete this event."
+msgstr "Geen toestemming om dit evenement te verwijderen."
+
+#: pnevent.php:52
+msgid "Done! The event was deleted."
+msgstr "Evenement is verwijderd. "
+
+#: pnevent.php:157 pntemplates/admin/postcalendar_admin_modifyconfig.htm:143
+#: pntemplates/admin/postcalendar_admin_eventdefaults.htm:123
+#: pntemplates/event/postcalendar_event_submit.htm:172
+msgid "Save"
+msgstr "Opslaan"
+
+#: pnevent.php:158 pntemplates/event/postcalendar_event_submit.htm:173
+msgid "Save and Add"
+msgstr "Opslaan en nieuwe toevoegen"
+
+#: pnevent.php:159 pntemplates/event/postcalendar_event_submit.htm:171
+msgid "Preview"
+msgstr "Voorbeeld"
+
+#: pnevent.php:245
+msgid "Error! Submission failed."
+msgstr "Foutmelding: Insturen mislukt."
+
+#: pnevent.php:250
+#, php-format
+msgid "Done! Updated the event. (event date: %s)"
+msgstr "Klaar! Evenement bijgewerkt. (datum: %s)"
+
+#: pnevent.php:252
+#, php-format
+msgid "Done! Submitted the event. (event date: %s)"
+msgstr "Klaar! Evenement ingestuurd. (datum: %s)"
+
+#: pnevent.php:255
+msgid "The event has been queued for administrator approval."
+msgstr "Evenement is ingestuurd en wacht op goedkeuring."
+
+#. !ensure translation EXACTLY the same as locale definition
+#: pneventapi.php:415 pneventapi.php:422 pneventapi.php:430 pneventapi.php:437
+msgid "%Y-%m-%d"
+msgstr "%Y-%m-%d"
+
+#: pneventapi.php:473
+msgid "Plain text"
+msgstr "Platte tekst"
+
+#: pneventapi.php:474
+msgid "HTML-formatted"
+msgstr "HTML opgemaakt"
+
+#: pneventapi.php:489 pneventapi.php:605
+msgid "Day(s)/Week(s)/Month(s)/Year(s)"
+msgstr "Dag(dagen)/Week(weken)/Maand(maanden)/Jaar(jaren)"
+
+#: pneventapi.php:498
+msgid "First/Second/Third/Fourth/Last"
+msgstr "Eerste/Tweede/Derde/Vierde/Laatste"
+
+#: pneventapi.php:508 pneventapi.php:607
+msgid "Sun Mon Tue Wed Thu Fri Sat"
+msgstr "zo ma di wo do vr za"
+
+#: pneventapi.php:576
+msgid "Required argument not present."
+msgstr "Benodigd argument niet aanwezig."
+
+#: pneventapi.php:606
+msgid "err/First/Second/Third/Fourth/Last"
+msgstr "err/Eerste/Tweede/Derde/Vierde/Laatste"
+
+#: pneventapi.php:609
+#, php-format
+msgid "Event recurs every %s"
+msgstr "Evenement herhaalt ieder(e) %s"
+
+#: pneventapi.php:611 pneventapi.php:616
+#: pntemplates/contenttype/postcalevents_view.html:26
+#: pntemplates/blocks/postcalendar_block_pastevents.htm:25
+#: pntemplates/blocks/postcalendar_block_view_day.htm:28
+#: pntemplates/blocks/postcalendar_block_view_upcoming.htm:31
+msgid "until"
+msgstr "tot"
+
+#: pneventapi.php:613
+msgid "Event recurs on"
+msgstr "Evenement herhaalt op"
+
+#: pneventapi.php:615
+#, php-format
+msgid "of the month, every %s months"
+msgstr "van de maand, elke %s maanden"
+
+#: pneventapi.php:618
+msgid "This event does not recur."
+msgstr "Evenement herhaalt niet."
+
+#: pneventapi.php:622
+msgid "This is a private event."
+msgstr "Dit is een persoonlijk evenement."
+
+#: pneventapi.php:622
+msgid "This is a public event. "
+msgstr "Dit is een openbaar evenement."
+
+#. !(abbr) not applicable or not available
+#: pneventapi.php:719
+msgid "n/a"
+msgstr "n/a"
+
+#. !This is the field name from pntemplates/event/postcalendar_event_submit.htm:22
+#: pneventapi.php:749
+msgid "'Title' is a required field."
+msgstr "'Titel' is een verplicht veld."
+
+#: pneventapi.php:756 pneventapi.php:765
+msgid "Error! The repetition frequency must be an integer."
+msgstr "Foutmelding: Aantal herhalingen moet een geheel getal zijn."
+
+#: pneventapi.php:760 pneventapi.php:769
+msgid "Error! The repetition frequency must be at least 1."
+msgstr "Foutmelding: Tenminste 1 herhaling nodig."
+
+#: pneventapi.php:780
+msgid "Error! The selected start date falls after the selected end date."
+msgstr "Foutmelding: De startdatum ligt voorbij de einddatum"
+
+#: pneventapi.php:789
+msgid "Error! The end time must be after the start time."
+msgstr "Foutmelding: Eindtijd dient na de starttijd te zijn."
+
+#: pneventapi.php:1055
+msgid "Private"
+msgstr "Persoonlijk"
+
+#: pneventapi.php:1058
+#: pntemplates/admin/postcalendar_admin_eventdefaults.htm:21
+#: pntemplates/event/postcalendar_event_submit.htm:46
+msgid "Global"
+msgstr "Globaal"
+
+#: pnaccountapi.php:30
+msgid "Submit Event"
+msgstr "Inzenden"
+
+#: pnaccountapi.php:36
+msgid "Administrate Events"
+msgstr "Evenementen beheren"
+
+#: pnadminapi.php:29
+msgid "Settings"
+msgstr "Instellingen"
+
+#: pnadminapi.php:34
+msgid "Event default values"
+msgstr "Standaard waarden voor evenement"
+
+#: pnadminapi.php:39
+msgid "Create new event"
+msgstr "Nieuw evenement toevoegen"
+
+#: pnadminapi.php:44
+msgid "Approved events"
+msgstr "Goedgekeurd evenementen"
+
+#: pnadminapi.php:49
+msgid "Hidden events"
+msgstr "Verborgen evenementen"
+
+#: pnadminapi.php:54
+msgid "Queued events"
+msgstr "Evenementen in wachtrij"
+
+#: pnadminapi.php:59
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: pnadminapi.php:93
+#, php-format
+msgid "Error! %1$s required in %2$s."
+msgstr "Foutmelding: %1$s vereist in %2$s."
+
+#: pnadminapi.php:120 pntemplates/email/postcalendar_email_adminnotify.htm:2
+msgid "Notice: PostCalendar submission/change"
+msgstr "Notificatie: PostCalendar inzending/wijziging"
+
+#: pnadminapi.php:125
+msgid "Done! Sent administrator notification e-mail message."
+msgstr "Beheerders-notificatie e-mail verstuurd"
+
+#: pnadminapi.php:128
+msgid "Error! Could not send administrator notification e-mail message."
+msgstr "Foutmelding: Beheerders-notificatie email niet verstuurd."
+
+#: pninit.php:29
+#, php-format
+msgid ""
+"Error! Zikula %1$s is required. No installation started. You are advised to "
+"upgrade to Zikula %1$s first."
+msgstr ""
+"Fout! Zikula %1$s is vereist. Installatie afgebroken. Eerst bijwerken naar "
+"Zikula %1$s."
+
+#: pninit.php:34
+msgid "Error! Could not create the table."
+msgstr "Foutmelding: Aanmaken van de tabel is mislukt."
+
+#: pninit.php:39
+msgid "Error! Could not create default category."
+msgstr "Foutmelding: Kon de nieuwe standaard categorie niet aanmaken."
+
+#: pninit.php:46
+msgid "Error! Could not set the default settings for PostCalendar."
+msgstr "Foutmelding: Kon standaardwaarden niet instellen."
+
+#: pninit.php:80
+#, php-format
+msgid ""
+"Error! Zikula %1$s is required. No upgrade started. You are advised to "
+"restore the previous PostCalendar version, or upgrade to Zikula %1$s first."
+msgstr ""
+"Fout! Zikula %1$s is vereist. Geen upgrade uitgevoerd. Het is aan te raden "
+"om terug te gaan naar de vorige PostCalendar versie, of om eerst bij te "
+"werken naar Zikula %1$s."
+
+#: pninit.php:91
+#, php-format
+msgid ""
+"Notice: This version does not support upgrades from PostCalendar 3.x and "
+"earlier. Please download and install version 4.0.3 (available from <a href="
+"\"http://code.zikula.org/soundwebdevelopment/downloads\">code.zikula.org/"
+"soundwebdevelopment</a>). After upgrading, you can install PostCalendar %s "
+"and perform this upgrade."
+msgstr ""
+"Let op: Deze versie ondersteunt geen upgrades van PostCalendar 3.x en lager. "
+"Download en installeer tenminste versie 4.0.3 (vanaf <a href=\"http://code."
+"zikula.org/soundwebdevelopment/downloads\">code.zikula.org/"
+"soundwebdevelopment</a>). Bijwerken naar PostCalendar %s is mogelijk vanaf "
+"die versie."
+
+#: pninit.php:126
+msgid "Error: Could not correct multi-byte serialization."
+msgstr "Foutmelding: Kon geen multi-byte serialisatie corrigeren."
+
+#: pninit.php:135
+msgid "Error: Could not cull meetings."
+msgstr "Foutmelding: Kon geen vergaderingen selecteren."
+
+#: pninit.php:140
+msgid "Error: Could not migrate categories."
+msgstr "Foutmelding: Kon geen categorieën migreren."
+
+#: pninit.php:146
+msgid "Error: Could not migrate topics."
+msgstr "Foutmelding: Kon geen Onderwerpen migreren."
+
+#: pninit.php:150
+msgid "PostCalendar: Topics ignored in upgrade."
+msgstr "PostCalendar: Onderwerpen genegeerd in deze upgrade."
+
+#: pninit.php:155
+msgid "Error: Could not transcode category and/or topic IDs."
+msgstr "Foutmelding: Kon de categorie en/of onderwerp IDs niet omzetten."
+
+#: pninit.php:159
+msgid "Error: Could not convert informant field to uid."
+msgstr "Foutmelding: Kon informant veld niet naar uid omzetten."
+
+#: pninit.php:180
+msgid "Error! Could not register module hooks."
+msgstr "Foutmelding: Kon de nmodule hooks niet registreren."
+
+#: pninit.php:185 pninit.php:484
+msgid "Error! Could not upgrade the tables."
+msgstr "Foutmelding: Kon tabellen niet bijwerken."
+
+#: pninit.php:331
+msgid "Error! Could not update the scribite configuration."
+msgstr "Foutmelding! Kon de scribite configuratie niet bijwerken."
+
+#: pninit.php:333
+msgid "PostCalendar: Scribite! associations reset for PostCalendar."
+msgstr "PostCalendar: Scribite! associaties hersteld voor PostCalendar."
+
+#: pninit.php:359
+msgid "PostCalendar: Serialized fields corrected."
+msgstr "PostCalendar: Geserialiseerde velden gecorrigeerd."
+
+#: pninit.php:393 pninit.php:446
+#, php-format
+msgid "Error! Could not create sub-category (%s)."
+msgstr "Foutmelding: Kon subcategorie (%s) niet aanmaken."
+
+#: pninit.php:401
+msgid "PostCalendar: Categories successfully migrated."
+msgstr "PostCalendar: Categorieën succesvol gemigreerd."
+
+#: pninit.php:459
+msgid "PostCalendar: Topics successfully migrated."
+msgstr "PostCalendar: Onderwerpen succesvol gemigreerd."
+
+#: pninit.php:502
+msgid "PostCalendar: Category and/or Topic IDs converted."
+msgstr "PostCalendar: Categorie en/of Onderwerp ID's geconverteerd."
+
+#: pninit.php:540
+msgid "PostCalendar: 'Main' category created."
+msgstr "PostCalendar: 'Hoofd' categorie aangemaakt."
+
+#: pninit.php:588
+msgid "PostCalendar: Topics category created."
+msgstr "PostCalendar: Onderwerpen categorie aangemaakt."
+
+#: pninit.php:668
+#, php-format
+msgid "PostCalendar: Meetings culled. %s column dropped"
+msgstr "PostCalendar: Vergaderingen geruimd. %s kolom uit database verwijderd."
+
+#: pninit.php:699
+#, php-format
+msgid "PostCalendar: '%s' field converted."
+msgstr "PostCalendar: '%s' veld geconverteerd."
+
+#: pninit.php:715
+msgid "PostCalendar Installed"
+msgstr "PostCalendar geïnstalleerd"
+
+#: pninit.php:716
+msgid ""
+":text:On this date, the PostCalendar module was installed. Thank you for "
+"trying PostCalendar! This event can be safely deleted if you wish."
+msgstr ""
+":text:Op deze datum, werd de PostCalendar module geïnstalleerd. Bedankt voor "
+"het gebruiken van PostCalendar! Dit evenement kan veilig verwijderd worden."
+
+#: pninit.php:736
+msgid "PostCalendar: Installation event created."
+msgstr "PostCalendar: Installatie evenement aangemaakt."
+
+#: pninit.php:740
+msgid "Error! Could not create an installation event."
+msgstr "Foutmelding: Kon geen installatie evenement aanmaken."
+
+#: pninit.php:755 pntemplates/admin/postcalendar_admin_showlist.htm:37
+#: pntemplates/admin/postcalendar_admin_showlist.htm:43
+msgid "Events"
+msgstr "Evenementen"
+
+#: pninit.php:756
+msgid "Initial sub-category created on install"
+msgstr "Eerste sub-categorie aangemaakt bij installatie"
+
+#: pninit.php:759
+msgid "Error! Could not create an initial sub-category."
+msgstr "Foutmelding: Kon geen eerste sub-categorie aanmaken."
+
+#: pninit.php:763
+msgid "PostCalendar: Initial sub-category created (Events)."
+msgstr "PostCalendar: Eerste sub-categorie aangemaakt (Evenementen)."
+
+#: pninit.php:848
+msgid "PostCalendar: Unable to determine Zikula Core Version."
+msgstr "PostCalendar: Kan Zikula Core Versie niet bepalen."
+
+#: pninit.php:872 pninit.php:875 pninit.php:878 pninit.php:881 pninit.php:884
+#: pninit.php:887 pninit.php:890 pninit.php:893
+#, php-format
+msgid "PostCalendar: Could not register %s hook."
+msgstr "PostCalendar: Kon %s hook niet registreren."
+
+#: pninit.php:901
+msgid "PostCalendar: All hooks registered."
+msgstr "PostCalendar: Alle hooks zijn geregistreerd."
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:6
+msgid "PostCalendar settings"
+msgstr "PostCalendar instellingen"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:6
+msgid "version"
+msgstr "versie"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:11
+msgid "General settings"
+msgstr "Algemene instellingen"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:13
+msgid "Reset ALL Settings to Defaults (clears event defaults also)"
+msgstr ""
+"Herstel ALLE instellingen naar standaardwaarden (dit zet ook de evenement "
+"standaard waarden terug)"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:16
+msgid "Allow submitted events to be activated without review"
+msgstr ""
+"Sta toe dat ingestuurde evenementen geactiveerd worden zonder goedkeuring"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:21
+msgid "Enable categorization of events"
+msgstr "Inschakelen dat evenementen in categorieën worden ingedeeld."
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:26
+msgid "Group allowed to publish personal calendars"
+msgstr "Groep die persoonlijke kalenders mag publiceren"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:28
+msgid "No group"
+msgstr "Geen groep"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:30
+msgid "Edit groups"
+msgstr "Bewerk groepen"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:34
+msgid "Display settings"
+msgstr "Weergave instellingen"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:36
+msgid "Number of events to list on administration pages"
+msgstr "Aantal te tonen evenementen op beheer pagina's"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:40
+msgid "Use 24-hour time format"
+msgstr "Gebruik 24 uurs indeling"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:45
+msgid "Time increment for new event creation (1-60 minutes)"
+msgstr "Tijd toename bij toevoegen van nieuw evenement (1 - 60 minuten)"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:49
+msgid "View event details in a pop-up window"
+msgstr "Toon evenement details in een pop-up venster"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:54
+msgid "Show event details in 'hover' window on 'mouseover'"
+msgstr "Toon evenement details in 'zwevend' scherm bij 'mouseover'"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:54
+msgid "overrides pop-up setting"
+msgstr "Gaat boven popup instelling"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:59
+msgid "Date Display Format"
+msgstr "Datum indeling"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:59
+#, php-format
+msgid "uses %s format"
+msgstr "gebruikt %s indeling"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:61
+msgid "Or choose a preset:"
+msgstr "Of kies voorkeurinstelling:"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:62
+msgid "Month Day, Year"
+msgstr "maand dag, jaar"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:63
+msgid "Day Month Year"
+msgstr "dag maand jaar"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:64
+msgid "YYYY-MM-DD"
+msgstr "JJJJ-MM-DD"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:67
+msgid "First day of the week"
+msgstr "Eerste dag van de week"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:70
+msgid "Sunday"
+msgstr "zondag"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:71
+msgid "Monday"
+msgstr "maandag"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:72
+msgid "Saturday"
+msgstr "zaterdag"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:77
+msgid "Default calendar view"
+msgstr "Standaard kalender weergave"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:88
+msgid "Number of months to display in list/rss view"
+msgstr "Aantal weer te geven maanden in de lijst/rss weergave"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:92
+msgid "Allow users to filter event display by category"
+msgstr "Sta gebruikers toe om de evenementen per categorie te filteren"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:97
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:102
+msgid "In jump date selector, display"
+msgstr "In de datum selectie, toon"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:99
+msgid "year(s) before current year."
+msgstr "jaar voor het huidige jaar"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:104
+msgid "year(s) after current year."
+msgstr "jaar na het huidige jaar"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:107
+msgid "Enable images in navigation header"
+msgstr "Afbeeldingen in navigatie header inschakelen"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:114
+msgid "Enable Locations for PostCalendar"
+msgstr "Locations inschakelen voor PostCalendar."
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:121
+msgid "Notification settings"
+msgstr "Notificatie instellingen"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:123
+msgid "Notify administrator about pending content in template"
+msgstr "Stel beheerder op de hoogte bij wachtende inhoud in template"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:128
+msgid "Notify administrator about user event submission/change"
+msgstr ""
+"Stel beheerder op de hoogte bij <b>GEBRUIKER</b> evenement toevoeging / "
+"wijziging"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:133
+msgid "Notify administrator about administrator event submission/change"
+msgstr ""
+"Stel beheerder op de hoogte bij <b>ADMIN</b> evenement toevoeging / wijziging"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:138
+msgid "E-mail address to send notifications"
+msgstr "E-mail adres voor notificaties"
+
+#: pntemplates/admin/postcalendar_admin_modifyconfig.htm:144
+#: pntemplates/admin/postcalendar_admin_eventdefaults.htm:124
+#: pntemplates/admin/postcalendar_admin_eventrevue.htm:20
+#: pntemplates/event/postcalendar_event_submit.htm:174
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: pntemplates/admin/postcalendar_admin_eventdefaults.htm:10
+msgid "Create Event Default Values"
+msgstr "Standaard waarden voor evenementen aanmaken"
+
+#: pntemplates/admin/postcalendar_admin_eventdefaults.htm:15
+msgid "General"
+msgstr "Algemeen"
+
+#: pntemplates/admin/postcalendar_admin_eventdefaults.htm:17
+#: pntemplates/event/postcalendar_event_submit.htm:42
+msgid "Sharing"
+msgstr "Delen"
+
+#: pntemplates/admin/postcalendar_admin_eventdefaults.htm:26
+msgid "Event Type"
+msgstr "Evenement Type"
+
+#: pntemplates/admin/postcalendar_admin_eventdefaults.htm:29
+#: pntemplates/event/postcalendar_event_submit.htm:54
+#: pntemplates/user/postcalendar_user_view_day.htm:30
+#: pntemplates/user/postcalendar_user_view_xml.htm:10
+#: pntemplates/user/postcalendar_user_view_list.htm:33
+#: pntemplates/user/postcalendar_user_view_week.htm:36
+msgid "All-day event"
+msgstr "Hele dag"
+
+#: pntemplates/admin/postcalendar_admin_eventdefaults.htm:31
+#: pntemplates/event/postcalendar_event_submit.htm:56
+msgid "Timed event"
+msgstr "Evenement met tijdsduur"
+
+#: pntemplates/admin/postcalendar_admin_eventdefaults.htm:35
+#: pntemplates/event/postcalendar_event_submit.htm:59
+msgid "Start Time"
+msgstr "Starttijd"
+
+#: pntemplates/admin/postcalendar_admin_eventdefaults.htm:39
+#: pntemplates/event/postcalendar_event_submit.htm:61
+msgid "End Time"
+msgstr "Eindtijd"
+
+#: pntemplates/admin/postcalendar_admin_eventdefaults.htm:44
+#: pntemplates/event/postcalendar_event_view.htm:40
+#: pntemplates/event/postcalendar_event_submit.htm:155
+#: pntemplates/contenttype/postcalevent_view.html:62
+#: pntemplates/blocks/postcalendar_block_featuredevent.htm:69
+msgid "Fee"
+msgstr "Kosten / toegangsprijs"
+
+#: pntemplates/admin/postcalendar_admin_eventdefaults.htm:50
+msgid "Default categories"
+msgstr "Standaard categorieën"
+
+#: pntemplates/admin/postcalendar_admin_eventdefaults.htm:51
+msgid "No Default Category"
+msgstr "Geen standaard categorie"
+
+#: pntemplates/admin/postcalendar_admin_eventdefaults.htm:77
+#: pntemplates/admin/postcalendar_admin_eventdefaults.htm:104
+#: pntemplates/event/postcalendar_event_submit.htm:126
+#: pntemplates/event/postcalendar_event_submit.htm:146
+msgid "Name"
+msgstr "Naam"
+
+#: pntemplates/admin/postcalendar_admin_eventdefaults.htm:81
+#: pntemplates/event/postcalendar_event_submit.htm:128
+msgid "Street"
+msgstr "Adres"
+
+#: pntemplates/admin/postcalendar_admin_eventdefaults.htm:85
+msgid "Street Line 2"
+msgstr "Adres 2"
+
+#: pntemplates/admin/postcalendar_admin_eventdefaults.htm:89
+#: pntemplates/event/postcalendar_event_submit.htm:133
+msgid "City"
+msgstr "Plaats"
+
+#: pntemplates/admin/postcalendar_admin_eventdefaults.htm:93
+#: pntemplates/event/postcalendar_event_submit.htm:134
+msgid "State"
+msgstr "Provincie"
+
+#: pntemplates/admin/postcalendar_admin_eventdefaults.htm:97
+#: pntemplates/event/postcalendar_event_submit.htm:135
+msgid "Zipcode"
+msgstr "Postcode"
+
+#: pntemplates/admin/postcalendar_admin_eventdefaults.htm:102
+#: pntemplates/event/postcalendar_event_submit.htm:145
+msgid "Contact"
+msgstr "Contact"
+
+#: pntemplates/admin/postcalendar_admin_eventdefaults.htm:108
+#: pntemplates/event/postcalendar_event_submit.htm:148
+msgid "Phone number"
+msgstr "Telefoon"
+
+#: pntemplates/admin/postcalendar_admin_eventdefaults.htm:112
+#: pntemplates/event/postcalendar_event_submit.htm:150
+msgid "E-mail address"
+msgstr "E-mail adres"
+
+#: pntemplates/admin/postcalendar_admin_eventdefaults.htm:116
+#: pntemplates/event/postcalendar_event_submit.htm:152
+msgid "Web site"
+msgstr "Website"
+
+#: pntemplates/admin/postcalendar_admin_eventrevue.htm:8
+msgid "Event review"
+msgstr "Evenement nakijken"
+
+#: pntemplates/admin/postcalendar_admin_eventrevue.htm:19
+msgid "Yes"
+msgstr "Ja"
+
+#: pntemplates/admin/postcalendar_admin_menu.htm:4
+#: pntemplates/search/postcalendar_search_options.htm:4
+msgid "Calendar"
+msgstr "kalender"
+
+#: pntemplates/admin/postcalendar_admin_showlist.htm:7
+#, php-format
+msgid "There are no %s events."
+msgstr "Er zijn geen %s evenementen."
+
+#: pntemplates/admin/postcalendar_admin_showlist.htm:15
+msgid "Select"
+msgstr "Selecteer"
+
+#: pntemplates/admin/postcalendar_admin_showlist.htm:16
+#: pntemplates/event/postcalendar_event_submit.htm:32
+msgid "Title"
+msgstr "Titel"
+
+#: pntemplates/admin/postcalendar_admin_showlist.htm:17
+msgid "Time stamp"
+msgstr "Aangemaakt"
+
+#: pntemplates/admin/postcalendar_admin_showlist.htm:33
+msgid "Perform this action"
+msgstr "Uitvoeren"
+
+#: pntemplates/admin/postcalendar_admin_showlist.htm:37
+#: pntemplates/admin/postcalendar_admin_showlist.htm:39
+msgid "Previous"
+msgstr "Vorige"
+
+#: pntemplates/admin/postcalendar_admin_showlist.htm:43
+#: pntemplates/admin/postcalendar_admin_showlist.htm:45
+msgid "Next"
+msgstr "Volgende"
+
+#: pntemplates/event/postcalendar_event_deleteeventconfirm.htm:2
+#: pntemplates/user/postcalendar_user_view_event_details.htm:20
+msgid "Delete event"
+msgstr "Evenement verwijderen"
+
+#: pntemplates/event/postcalendar_event_deleteeventconfirm.htm:12
+msgid "CANCEL"
+msgstr "Annuleren"
+
+#: pntemplates/event/postcalendar_event_filtercats.htm:2
+#: pntemplates/search/postcalendar_search_options.htm:6
+msgid "All These Categories"
+msgstr "Alle categorieën"
+
+#: pntemplates/event/postcalendar_event_view.htm:13
+#: pntemplates/contenttype/postcalevent_view.html:33
+#: pntemplates/blocks/postcalendar_block_featuredevent.htm:40
+msgid "All day event"
+msgstr "Hele dag"
+
+#: pntemplates/event/postcalendar_event_view.htm:18
+#: pntemplates/event/postcalendar_event_submit.htm:80
+#: pntemplates/contenttype/postcalevent_view.html:39
+#: pntemplates/blocks/postcalendar_block_featuredevent.htm:46
+msgid "Description"
+msgstr "Beschrijving"
+
+#: pntemplates/event/postcalendar_event_view.htm:32
+#: pntemplates/contenttype/postcalevent_view.html:54
+#: pntemplates/blocks/postcalendar_block_featuredevent.htm:61
+msgid "Contact information"
+msgstr "Contact informatie"
+
+#: pntemplates/event/postcalendar_event_view.htm:46
+msgid "Categorized in"
+msgstr "In categorie"
+
+#: pntemplates/event/postcalendar_event_view.htm:60
+msgid "Event recurrance information"
+msgstr "Evenement herhalings informatie"
+
+#: pntemplates/event/postcalendar_event_view.htm:64
+msgid "Event sharing information"
+msgstr "Evenement informatie om te delen"
+
+#: pntemplates/event/postcalendar_event_submit.htm:9
+msgid "Edit"
+msgstr "Bewerken"
+
+#: pntemplates/event/postcalendar_event_submit.htm:10
+msgid "Update event"
+msgstr "Evenement bijwerken"
+
+#: pntemplates/event/postcalendar_event_submit.htm:12
+msgid "Create new"
+msgstr "Nieuw evenement toevoegen"
+
+#: pntemplates/event/postcalendar_event_submit.htm:13
+msgid "Submit event"
+msgstr "Inzenden"
+
+#: pntemplates/event/postcalendar_event_submit.htm:20
+msgid "Event preview"
+msgstr "Evenement voorbeeld"
+
+#: pntemplates/event/postcalendar_event_submit.htm:28
+msgid "PostCalendar Rocks!"
+msgstr "PostCalendar is te gek!"
+
+#: pntemplates/event/postcalendar_event_submit.htm:29
+msgid "calendar event"
+msgstr "kalender evenement"
+
+#: pntemplates/event/postcalendar_event_submit.htm:32
+#: pntemplates/event/postcalendar_event_submit.htm:36
+msgid "Required"
+msgstr "Verplicht"
+
+#: pntemplates/event/postcalendar_event_submit.htm:36
+msgid "For user"
+msgstr "Voor gebruiker"
+
+#: pntemplates/event/postcalendar_event_submit.htm:50
+msgid "Start date"
+msgstr "Start datum"
+
+#: pntemplates/event/postcalendar_event_submit.htm:53
+msgid "Time"
+msgstr "Tijd"
+
+#: pntemplates/event/postcalendar_event_submit.htm:68
+msgid "Category"
+msgid_plural "Categories"
+msgstr[0] "Categorie"
+msgstr[1] "Categorieën"
+
+#: pntemplates/event/postcalendar_event_submit.htm:85
+msgid "Permitted HTML tags"
+msgstr "Toegestane HTML tags"
+
+#: pntemplates/event/postcalendar_event_submit.htm:93
+msgid "Repetition settings"
+msgstr "Herhalings instellingen"
+
+#: pntemplates/event/postcalendar_event_submit.htm:95
+msgid "One-time event"
+msgstr "Eenmalig evenement"
+
+#: pntemplates/event/postcalendar_event_submit.htm:98
+msgid "Repeats every"
+msgstr "Herhaalt elke"
+
+#: pntemplates/event/postcalendar_event_submit.htm:103
+msgid "Repeats on"
+msgstr "Herhaalt op"
+
+#: pntemplates/event/postcalendar_event_submit.htm:106
+msgid "of the month, every"
+msgstr "van de maand, elke"
+
+#: pntemplates/event/postcalendar_event_submit.htm:108
+msgid "month(s)"
+msgstr "maand(en)"
+
+#: pntemplates/event/postcalendar_event_submit.htm:111
+msgid "End date"
+msgstr "Eind datum"
+
+#: pntemplates/event/postcalendar_event_submit.htm:121
+msgid "No end date"
+msgstr "Geen eind datum"
+
+#: pntemplates/email/postcalendar_email_adminnotify.htm:5
+msgid "The following calendar event has been changed:"
+msgstr "Het volgende kalender evenement is gewijzigd:"
+
+#: pntemplates/email/postcalendar_email_adminnotify.htm:7
+msgid "The following calendar event has been added:"
+msgstr "Het volgende kalender evenement is toegevoegd:"
+
+#: pntemplates/email/postcalendar_email_adminnotify.htm:10
+msgid "Event"
+msgstr "Evenement"
+
+#: pntemplates/email/postcalendar_email_adminnotify.htm:12
+msgid "A Message from your PostCalendar"
+msgstr "Een bericht van de kalender"
+
+#: pntemplates/email/postcalendar_email_adminnotify.htm:14
+#: pntemplates/search/postcalendar_search_options.htm:21
+msgid "from"
+msgstr "van"
+
+#: pntemplates/user/postcalendar_user_view_event_details.htm:18
+msgid "Edit event"
+msgstr "Bewerk evenement"
+
+#: pntemplates/user/postcalendar_user_view_event_details.htm:19
+msgid "Copy event"
+msgstr "Kopieer evenement"
+
+#: pntemplates/user/postcalendar_user_view_event_details.htm:30
+#: pntemplates/user/postcalendar_user_view_day.htm:53
+#: pntemplates/user/postcalendar_user_view_year.htm:100
+#: pntemplates/user/postcalendar_user_view_list.htm:60
+#: pntemplates/user/postcalendar_user_view_week.htm:59
+#: pntemplates/user/postcalendar_user_view_month.htm:109
+msgid "Return"
+msgstr "Terug"
+
+#: pntemplates/user/postcalendar_user_view_day.htm:31
+#: pntemplates/user/postcalendar_user_view_list.htm:34
+#: pntemplates/user/postcalendar_user_view_week.htm:38
+#: pntemplates/user/postcalendar_user_view_month.htm:81
+#: pntemplates/contenttype/postcalevent_view.html:15
+#: pntemplates/contenttype/postcalevents_view.html:23
+#: pntemplates/blocks/postcalendar_block_featuredevent.htm:22
+#: pntemplates/blocks/postcalendar_block_pastevents.htm:22
+#: pntemplates/blocks/postcalendar_block_view_day.htm:25
+#: pntemplates/blocks/postcalendar_block_view_upcoming.htm:28
+msgid "private event"
+msgstr "persoonlijk evenement"
+
+#: pntemplates/user/postcalendar_user_view_day.htm:34
+#: pntemplates/user/postcalendar_user_view_list.htm:37
+#: pntemplates/user/postcalendar_user_view_week.htm:41
+#: pntemplates/user/postcalendar_user_view_month.htm:84
+#: pntemplates/contenttype/postcalevent_view.html:22
+#: pntemplates/contenttype/postcalevents_view.html:28
+#: pntemplates/blocks/postcalendar_block_featuredevent.htm:29
+#: pntemplates/blocks/postcalendar_block_pastevents.htm:27
+#: pntemplates/blocks/postcalendar_block_view_day.htm:30
+#: pntemplates/blocks/postcalendar_block_view_upcoming.htm:33
+#, php-format
+msgid "%s comment left"
+msgid_plural "%s comments left."
+msgstr[0] "%s reactie over"
+msgstr[1] "%s reacties over"
+
+#: pntemplates/user/postcalendar_user_view_day.htm:36
+#: pntemplates/user/postcalendar_user_view_list.htm:39
+#: pntemplates/user/postcalendar_user_view_week.htm:43
+#: pntemplates/user/postcalendar_user_view_month.htm:86
+#: pntemplates/contenttype/postcalevent_view.html:23
+#: pntemplates/contenttype/postcalevents_view.html:30
+#: pntemplates/blocks/postcalendar_block_featuredevent.htm:30
+#: pntemplates/blocks/postcalendar_block_pastevents.htm:29
+#: pntemplates/blocks/postcalendar_block_view_day.htm:32
+#: pntemplates/blocks/postcalendar_block_view_upcoming.htm:35
+msgid "Comment"
+msgstr "Reactie"
+
+#: pntemplates/user/postcalendar_user_view_day.htm:40
+#: pntemplates/blocks/postcalendar_block_view_day.htm:39
+msgid "No events scheduled."
+msgstr "Geen evenementen ingepland."
+
+#: pntemplates/user/postcalendar_user_navigation.htm:28
+msgid "Filter"
+msgstr "Filter"
+
+#: pntemplates/user/postcalendar_user_navigation.htm:36
+#: pntemplates/user/postcalendar_user_navigation_small.htm:22
+msgid "Jump"
+msgstr "Spring"
+
+#: pntemplates/user/postcalendar_user_view_list.htm:16
+msgid "List view"
+msgstr "Lijst weergave"
+
+#: pntemplates/user/postcalendar_user_view_list.htm:48
+msgid "previous list"
+msgstr "Vorige lijst"
+
+#: pntemplates/user/postcalendar_user_view_list.htm:50
+msgid "next list"
+msgstr "volgende lijst"
+
+#: pntemplates/user/postcalendar_user_view_month.htm:48
+msgid "week"
+msgstr "week"
+
+#: pntemplates/contenttype/postcalevent_edit.html:3
+msgid "PostCalendar Event ID"
+msgstr "PostCalendar evenement ID"
+
+#: pntemplates/contenttype/postcalevent_edit.html:7
+msgid "Display daily countdown to event"
+msgstr "Toon dagelijkse countdown naar evenement"
+
+#: pntemplates/contenttype/postcalevent_edit.html:11
+msgid "Hide event on expiration"
+msgstr "Evenement verbergen indien verlopen"
+
+#: pntemplates/contenttype/postcalevent_view.html:6
+#: pntemplates/blocks/postcalendar_block_featuredevent.htm:13
+#, php-format
+msgid "This event will occur in %s day."
+msgid_plural "This event will occur in %s days."
+msgstr[0] "Dit evenement vindt plaats over %s dag."
+msgstr[1] "Dit evenement vindt plaats over %s dagen."
+
+#: pntemplates/contenttype/postcalevent_view.html:8
+#: pntemplates/blocks/postcalendar_block_featuredevent.htm:15
+msgid "This event occurs today."
+msgstr "Dit evenement is vandaag."
+
+#: pntemplates/contenttype/postcalevent_view.html:10
+#: pntemplates/blocks/postcalendar_block_featuredevent.htm:17
+msgid "This event has already occured."
+msgstr "Dit evenement heeft al plaatsgevonden."
+
+#: pntemplates/contenttype/postcalevent_view.html:18
+#: pntemplates/contenttype/postcalevent_view.html:19
+#: pntemplates/blocks/postcalendar_block_featuredevent.htm:25
+#: pntemplates/blocks/postcalendar_block_featuredevent.htm:26
+msgid "Full event information"
+msgstr "Uitgebreide informatie bij het evenement"
+
+#: pntemplates/contenttype/postcalevent_view.html:19
+#: pntemplates/blocks/postcalendar_block_featuredevent.htm:26
+msgid "Info"
+msgstr "Info"
+
+#: pntemplates/contenttype/postcalevents_edit.html:4
+#: pntemplates/blocks/postcalendar_block_calendar_modify.htm:19
+#: pntemplates/blocks/postcalendar_block_pastevents_modify.htm:3
+msgid "Only display events in category(s)"
+msgstr "Toon alleen evenementen uit de categorie(ën)"
+
+#: pntemplates/contenttype/postcalevents_edit.html:21
+#: pntemplates/blocks/postcalendar_block_calendar_modify.htm:44
+msgid "Number of events to display"
+msgstr "Aantal te tonen evenementen"
+
+#: pntemplates/contenttype/postcalevents_edit.html:25
+#: pntemplates/blocks/postcalendar_block_calendar_modify.htm:48
+msgid "Number of months ahead to query for upcoming events"
+msgstr "Aantal maanden vooruit kijken voor aankomende evenementen"
+
+#: pntemplates/contenttype/postcalevents_view.html:41
+#: pntemplates/blocks/postcalendar_block_pastevents.htm:39
+#: pntemplates/blocks/postcalendar_block_view_upcoming.htm:47
+msgid "No upcoming events."
+msgstr "Geen aankomende evenementen."
+
+#: pntemplates/blocks/postcalendar_block_calendarlinks.htm:5
+msgid "Create New"
+msgstr "Nieuw evenement toevoegen"
+
+#: pntemplates/blocks/postcalendar_block_calendar_modify.htm:3
+msgid "Display the calendar in the block"
+msgstr "Toon kalender in het blok"
+
+#: pntemplates/blocks/postcalendar_block_calendar_modify.htm:7
+msgid "Display today's events in the block"
+msgstr "Toon evenementen van vandaag in het blok"
+
+#: pntemplates/blocks/postcalendar_block_calendar_modify.htm:11
+msgid "Hide today's events if none"
+msgstr "Verberg blok \"evenementen van vandaag\" als er geen evenementen zijn"
+
+#: pntemplates/blocks/postcalendar_block_calendar_modify.htm:15
+msgid "Display upcoming events in the block"
+msgstr "Toon aankomende evenementen in het blok"
+
+#: pntemplates/blocks/postcalendar_block_calendar_modify.htm:20
+#: pntemplates/blocks/postcalendar_block_pastevents_modify.htm:4
+msgid "All Categories"
+msgstr "Alle categorieën"
+
+#: pntemplates/blocks/postcalendar_block_calendar_modify.htm:40
+msgid "Display search/submit links in the block"
+msgstr "Toon zoek/verstuur links in het blok"
+
+#: pntemplates/blocks/postcalendar_block_featuredevent.htm:5
+#, php-format
+msgid ""
+"Administrator only warning: Hidden PostCalendar Featured Event Block (ID# "
+"%s). Delete or modify."
+msgstr ""
+"Waarschuwing voor beheerders: Er is een verborgen 'Uitgelicht evenement' "
+"blok (ID %s). Gaarne aanpassen of verwijderen."
+
+#: pntemplates/blocks/postcalendar_block_featuredevent.htm:6
+msgid "Blocks Administration"
+msgstr "Blokken beheer"
+
+#: pntemplates/blocks/postcalendar_block_featuredevent_modify.htm:3
+msgid "Event ID (eid)"
+msgstr "Evenement ID (eid)"
+
+#: pntemplates/blocks/postcalendar_block_featuredevent_modify.htm:7
+msgid "Show countdown (days)"
+msgstr "Toon aftellen (in dagen)"
+
+#: pntemplates/blocks/postcalendar_block_featuredevent_modify.htm:11
+msgid "Hide block when countdown expires"
+msgstr "Verberg blok zodra aftellen verloopt"
+
+#: pntemplates/blocks/postcalendar_block_view_day.htm:6
+msgid "Today's events"
+msgstr "Evenementen van vandaag"
+
+#: pntemplates/blocks/postcalendar_block_pastevents_modify.htm:24
+msgid "Number of months past to query for events"
+msgstr "Aantal maanden terug kijken voor afgelopen evenementen"
+
+#: pntemplates/blocks/postcalendar_block_pastevents_modify.htm:26
+msgid "Set to '0' for all events."
+msgstr "Op '0' zetten voor alle evenementen."
+
+#: pntemplates/blocks/postcalendar_block_view_upcoming.htm:6
+msgid "Upcoming events"
+msgstr "Aankomende evenementen"
+
+#: pntemplates/hooks/postcalendar_hooks_new.htm:7
+#: pntemplates/hooks/postcalendar_hooks_modify.htm:7
+msgid "Associated PostCalendar event"
+msgstr "Bijbehorend PostCalendar evenement"
+
+#: pntemplates/hooks/postcalendar_hooks_new.htm:10
+#: pntemplates/hooks/postcalendar_hooks_modify.htm:10
+msgid "Create associated PostCalendar event (opt in)"
+msgstr "Bijbehorend PostCalendar evenement (opt in) aanmaken"
+
+#: pntemplates/hooks/postcalendar_hooks_new.htm:18
+#: pntemplates/hooks/postcalendar_hooks_modify.htm:18
+msgid "Assign to PostCalendar categories:"
+msgstr "Toewijzen aan PostCalendar categorieën:"
+
+#: pntemplates/hooks/postcalendar_hooks_modifyconfig.htm:3
+msgid "PostCalendar hook settings"
+msgstr "PostCalendar hook instellingen"
+
+#: pntemplates/hooks/postcalendar_hooks_modifyconfig.htm:5
+msgid "Allow item creator to opt in/out of event creation"
+msgstr ""
+"Aanmaker van het item zelf toestaan tot opt in/out van evenement creatie"
+
+#: pntemplates/hooks/postcalendar_hooks_modifyconfig.htm:9
+msgid "Assign all events to category:"
+msgstr "Alle evenementen toewijzen aan categorie:"
+
+#: pntemplates/hooks/postcalendar_hooks_modifyconfig.htm:10
+msgid "Allow creator to select"
+msgstr "Aanmaker van het item zelf toestaan te selecteren"
+
+#: pntemplates/search/postcalendar_search_options.htm:5
+msgid "in Categories"
+msgstr "in categorieën"
+
+#: pntemplates/search/postcalendar_search_options.htm:20
+msgid "date range:"
+msgstr "Datum bereik:"
+
+#: pntemplates/search/postcalendar_search_options.htm:23
+#: pntemplates/search/postcalendar_search_options.htm:24
+#: pntemplates/search/postcalendar_search_options.htm:25
+#, php-format
+msgid "last %s years"
+msgstr "laatste %s jaar"
+
+#: pntemplates/search/postcalendar_search_options.htm:26
+msgid "last year"
+msgstr "afgelopen jaar"
+
+#: pntemplates/search/postcalendar_search_options.htm:27
+#: pntemplates/search/postcalendar_search_options.htm:31
+msgid "now"
+msgstr "nu"
+
+#: pntemplates/search/postcalendar_search_options.htm:29
+msgid "to"
+msgstr "tot"
+
+#: pntemplates/search/postcalendar_search_options.htm:32
+msgid "next year"
+msgstr "volgend jaar"
+
+#: pntemplates/search/postcalendar_search_options.htm:33
+#: pntemplates/search/postcalendar_search_options.htm:34
+#: pntemplates/search/postcalendar_search_options.htm:35
+#, php-format
+msgid "next %s years"
+msgstr "komende %s jaar"
